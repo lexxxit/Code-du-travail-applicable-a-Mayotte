@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2004-01-29
+Version Consolidée au 2004-03-02
 
 # Partie législative
 
@@ -18139,6 +18139,3209 @@ année.
 	**Nouveaux textes**:
 
 	  - Code du travail applicable à Mayotte. - art. D223-1 (V)
+
+
+### TITRE III : Hygiène, sécurité et conditions de travail
+
+#### CHAPITRE II : Hygiène, aménagement des lieux de travail, prévention des incendies
+
+##### Section 1 : Aménagement et hygiène des lieux de travail
+
+##### Sous-section 1 : Dispositions générales relatives à l'aménagement des lieux de travail.
+
+###### Article R232-6
+
+L'accès et l'intervention sur les toits en matériaux fragiles n'offrant pas une résistance suffisante ne peuvent se faire que
+dans les conditions définies par la réglementation en matière de protection et de salubrité applicable aux travaux du
+bâtiment et des travaux publics, prévue par le chapitre V du présent titre.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 II : les dispositions du présent article sont applicables dès la publication du présent
+décret aux installations existantes ou à celles en cours d'exécution ainsi qu'aux appareils et matériels existants ou en
+cours de livraison.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R232-13
+
+Les installations et dispositifs techniques et de sécurité des lieux de travail doivent être entretenus et vérifiés suivant
+une périodicité appropriée. 
+
+Toute défectuosité susceptible d'affecter la sécurité et la santé des salariés doit être éliminée le plus rapidement
+possible. 
+
+La périodicité des contrôles et les interventions sont consignées dans un dossier qui est, le cas échéant, annexé au dossier
+de maintenance et qui regroupe notamment la consigne et les documents prévus aux articles R. 232-36, R. 232-50 et R. 232-54.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 II : les dispositions du présent article sont applicables dès la publication du présent
+décret aux installations existantes ou à celles en cours d'exécution ainsi qu'aux appareils et matériels existants ou en
+cours de livraison.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-3 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-36 (V)
+	  - Code du travail applicable à Mayotte. - art. R232-54 (V)
+	  - Code du travail applicable à Mayotte. - art. R239-50 (V)
+
+
+###### Article R232-15
+
+Les locaux de travail et leurs annexes sont régulièrement entretenus et nettoyés ; ils doivent en outre être exempts de tout
+encombrement.
+
+Le médecin du travail et les délégués du personnel sont appelés à donner leur avis sur les mesures à prendre pour satisfaire
+aux obligations prévues à l'alinéa précédent.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 II : les dispositions du présent article sont applicables dès la publication du présent
+décret aux installations existantes ou à celles en cours d'exécution ainsi qu'aux appareils et matériels existants ou en
+cours de livraison.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R231-19 (V)
+
+
+##### Sous-section 2 : Installations sanitaires.
+
+###### Article R232-20
+
+Dans les établissements où sont effectués certains travaux insalubres et salissants et dont la liste est fixée par des
+arrêtés du ministre chargé du travail, et, en tant que de besoin, du ministre chargé de la santé, des douches doivent être
+mises à la disposition des salariés dans les conditions que fixent ces arrêtés.
+
+Le sol et les parois du local affecté aux douches doivent permettre un nettoyage efficace. Le local doit être tenu en état
+constant de propreté.
+
+La température de l'eau des douches doit être réglable.
+
+Le temps passé à la douche est rémunéré au tarif normal des heures de travail sans être décompté dans la durée du travail
+effectif.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 II : les dispositions du présent article sont applicables dès la publication du présent
+décret aux installations existantes ou à celles en cours d'exécution ainsi qu'aux appareils et matériels existants ou en
+cours de livraison.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+##### Section 2 : Ambiances des lieux de travail
+
+##### Sous-section 3 : Prévention des risques dûs au bruit.
+
+###### Article R232-56
+
+I.-Un salarié ne peut être affecté à des travaux comportant une exposition sonore quotidienne supérieure ou égale au niveau
+de 85 dB (A) que s'il a fait l'objet d'un examen préalable par le médecin du travail et si la fiche d'aptitude est établie en
+application de l'arrêté prévu par l'article L. 240-3.
+
+II.-Les salariés mentionnés au I font l'objet d'une surveillance médicale ultérieure qui a notamment pour but de
+diagnostiquer tout déficit auditif induit par le bruit en vue d'assurer la conservation de la fonction auditive. 
+
+III.-Un arrêté du ministre chargé du travail détermine les recommandations et fixe les instructions techniques que doit
+respecter le médecin du travail lors de son contrôle, notamment la périodicité et la nature des examens. 
+
+IV.-Le salarié ou l'employeur peut contester les mentions portées sur la fiche d'aptitude, dans les quinze jours qui suivent
+sa délivrance, auprès de l'agent de contrôle de l'inspection du travail. Ce dernier statue après avis conforme du médecin
+inspecteur du travail qui peut faire pratiquer, aux frais de l'employeur, des examens complémentaires par les spécialistes de
+son choix. 
+
+V.-Pour chaque salarié mentionné au I, le dossier médical prévu à l'arrêté pris pour l'application de l'article L. 240-3 doit
+contenir : 
+
+a) Une fiche d'exposition mentionnant les postes de travail occupés, les dates et les résultats des mesurages du niveau
+d'exposition sonore quotidienne et, s'il y a lieu, du niveau de pression acoustique de crête ; 
+
+b) Le modèle des protecteurs individuels fournis et l'atténuation du bruit qu'ils apportent ; 
+
+c) Les dates et les résultats des examens médicaux pratiqués en application des I et II du présent article. 
+
+VI.-Pour chaque salarié mentionné au I, le dossier médical est conservé pendant dix ans après la cessation de l'exposition.
+Si le salarié change d'établissement, un extrait du dossier médical relatif aux risques professionnels est transmis au
+médecin du travail du nouvel établissement à la demande du salarié. 
+
+Si l'établissement cesse son activité, le dossier est adressé au médecin-inspecteur du travail, qui le transmet, à la demande
+du salarié, au médecin du travail du nouvel établissement où l'intéressé est employé. 
+
+Après le départ à la retraite du salarié, son dossier médical est conservé par le service médical du travail du dernier
+établissement fréquenté. 
+
+VII.-Chaque salarié est informé par le médecin du travail des résultats des examens médicaux auxquels il a été soumis et de
+leur interprétation. 
+
+VIII.-Les résultats non nominatifs des examens médicaux sont tenus à la disposition des délégués du personnel ainsi que de
+l'agent de contrôle de l'inspection du travail et des agents de l'organisme chargé du risque accidents du travail et maladies
+professionnelles.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 II : les dispositions de l'art. R232-56 I sont applicables à compter du 2 mars 2005.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L240-3 (V)
+
+
+##### Section 4 : Prévention des incendies - Evacuation
+
+##### Sous-section 3 : Emploi des matières inflammables.
+
+###### Article R232-81
+
+Les locaux ou les emplacements dans lesquels sont entreposées ou manipulées des substances ou préparations classées
+explosives, comburantes ou extrêmement inflammables, ainsi que des matières dans un état physique susceptible d'engendrer des
+risques d'explosion ou d'inflammation instantanée, ne doivent contenir aucune source d'ignition telle que foyer, flamme,
+appareil pouvant donner lieu à production extérieure d'étincelles, ni aucune surface susceptible de provoquer par sa
+température une auto-inflammation des substances, préparations ou matières précitées.
+
+Il est également interdit d'y fumer ; cette interdiction doit faire l'objet d'une signalisation conforme à la réglementation
+en vigueur.
+
+Ces locaux doivent disposer d'une ventilation permanente appropriée.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 II : les dispositions du présent article sont applicables dès la publication du présent
+décret aux installations existantes ou à celles en cours d'exécution ainsi qu'aux appareils et matériels existants ou en
+cours de livraison.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R161-5 (V)
+	  - Code du travail applicable à Mayotte. - art. R232-85 (V)
+	  - Code du travail applicable à Mayotte. - art. R239-47 (V)
+
+
+##### Sous-section 4 : Moyens de prévention et de lutte contre l'incendie.
+
+###### Article R232-84
+
+Les chefs d'établissement doivent prendre les mesures nécessaires pour que tout commencement d'incendie puisse être
+rapidement et efficacement combattu dans l'intérêt du sauvetage du personnel.
+
+Le premier secours est assuré par des extincteurs en nombre suffisant et maintenus en bon état de fonctionnement.
+
+Il y a au moins un extincteur portatif à eau pulvérisée de 6 litres au minimum pour 200 mètres carrés de plancher, avec un
+minimum d'un appareil par niveau.
+
+Lorsque les locaux présentent des risques d'incendie particuliers, notamment des risques électriques, ils doivent être dotés
+d'extincteurs dont le nombre et le type sont appropriés aux risques.
+
+Les établissements sont équipés, si cela est jugé nécessaire, de robinets d'incendie armés, de colonnes sèches, de colonnes
+humides, d'installations fixes d'extinction automatique d'incendie ou d'installations de détection automatique d'incendie.
+
+Tous les dispositifs non automatiques doivent être d'accès et de manipulation faciles.
+
+Dans tous les cas où la nécessité l'impose, une quantité de sable ou de terre meuble proportionnée à l'importance de
+l'établissement, à la disposition des locaux et à la nature des travaux exécutés est conservée à proximité des emplacements
+de travail, avec un moyen de projection, pour servir à éteindre un commencement d'incendie.
+
+Toutes ces installations doivent faire l'objet d'une signalisation durable, apposée aux endroits appropriés.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 II : les dispositions des alinéas 1 à 4 et 7 de l'art. R232-84 sont applicables à compter
+du 2 septembre 2004 ; les dispositions des alinéas 5,6 et 8 sont applicables à compter du 2 mars 2005.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R239-51 (V)
+
+
+#### CHAPITRE III : Sécurité
+
+##### Section 1 : Règles générales d'utilisation des équipements de travail et moyens de protection, y compris les équipements de protection individuelle.
+
+###### Article R233-1
+
+Le chef d'établissement doit mettre à la disposition des salariés les équipements de travail nécessaires, appropriés au
+travail à réaliser ou convenablement adaptés à cet effet, en vue de préserver la santé et la sécurité des salariés,
+conformément aux obligations définies par l'article L. 230-3 et aux prescriptions particulières édictées par les décrets
+prévus à l'article L. 230-4.
+
+A cet effet, les équipements de travail doivent être choisis en fonction des conditions et des caractéristiques particulières
+du travail. En outre, le chef d'établissement doit tenir compte des caractéristiques de l'établissement susceptibles d'être à
+l'origine de risques lors de l'utilisation de ces équipements de travail.
+
+Lorsque les mesures prises en application des alinéas précédents ne peuvent pas être suffisantes pour assurer la sécurité et
+préserver la santé des salariés, le chef d'établissement doit prendre toutes autres mesures nécessaires à cet effet, en
+agissant notamment sur l'installation des équipements de travail, l'organisation du travail ou les procédés de travail.
+
+En outre, le chef d'établissement doit mettre, en tant que de besoin, les équipements de protection individuelle appropriés
+et, lorsque le caractère particulièrement insalubre ou salissant des travaux l'exige, les vêtements de travail appropriés à
+la disposition des salariés et veiller à leur utilisation effective. Les équipements de protection individuelle et les
+vêtements de travail mis à la disposition des salariés conformément aux dispositions du présent titre ne constituent pas des
+avantages en nature au sens de l'article L. 223-10.
+
+Les travailleurs indépendants et les employeurs mentionnés à l'article L. 230-1-1 doivent utiliser des équipements de travail
+et des équipements de protection individuelle appropriés ou convenablement adaptés, choisis en fonction des conditions et des
+caractéristiques particulières du travail. En tant que de besoin, ils doivent mettre en oeuvre les mesures définies aux
+alinéas 3 et 4 ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L223-10 (M)
+	  - Code du travail applicable à Mayotte. - art. L230-1-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L230-3 (M)
+	  - Code du travail applicable à Mayotte. - art. L230-4 (M)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-13 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-52 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-59 (MMN)
+	  - Code du travail applicable à Mayotte. - art. R233-60 (V)
+
+
+###### Article R233-2
+
+Sans préjudice des dispositions de la section III du présent chapitre applicables aux équipements de travail, les équipements
+de travail et moyens de protection utilisés dans les établissements mentionnés à l'article L. 230-1 ainsi que par les
+travailleurs indépendants et les employeurs mentionnés à l'article L. 230-1-1 doivent être maintenus en état de conformité
+avec les règles techniques de conception et de construction applicables lors de leur mise en service dans l'établissement.
+
+Les moyens de protection détériorés pour quelque motif que ce soit, y compris du seul fait de la survenance du risque contre
+lequel ils sont prévus, dont la réparation n'est pas susceptible de garantir qu'ils assureront le niveau de protection
+antérieur à la détérioration, doivent être immédiatement remplacés et mis au rebut.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L230-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L230-1-1 (M)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-60 (MMN)
+
+
+###### Article R233-3
+
+Les vérifications de la conformité des équipements de travail aux dispositions qui leur sont applicables, prévues par
+l'article L. 230-7, sont effectuées dans les conditions définies à l'article R. 233-80.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L230-7 (M)
+	  - Code du travail applicable à Mayotte. - art. R233-80 (MMN)
+
+
+###### Article R233-4
+
+Les équipements de protection individuelle doivent être appropriés aux risques à prévenir et aux conditions dans lesquelles
+le travail est effectué. Ces équipements ne doivent pas être eux-mêmes à l'origine de risques supplémentaires. Ils doivent en
+outre pouvoir être portés, le cas échéant, après ajustement, dans des conditions compatibles avec le travail à effectuer et
+avec les principes de l'ergonomie.
+
+En tant que de besoin, des arrêtés du ministre chargé du travail déterminent la valeur de l'exposition quotidienne admissible
+que l'équipement de protection individuelle peut laisser subsister.
+
+En cas de risques multiples exigeant le port simultané de plusieurs équipements de protection individuelle, ces équipements
+doivent être compatibles entre eux et maintenir leur efficacité par rapport aux risques correspondants.
+
+En particulier :
+
+a) Les équipements de protection individuelle contre les effets nuisibles des vibrations mécaniques doivent réduire les
+vibrations en dessous des niveaux portant atteinte à la santé et à la sécurité ;
+
+b) Les équipements de protection individuelle contre les effets aigus ou chroniques des sources de rayonnements non ionisants
+sur l'oeil doivent assurer que la densité d'éclairement énergétique du rayonnement susceptible d'atteindre les yeux de
+l'utilisateur ne présente pas de dangers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-59 (MMN)
+	  - Code du travail applicable à Mayotte. - art. R233-60 (V)
+
+
+##### Section 2 : Mesures d'organisation et conditions de mise en oeuvre des équipements de travail
+
+##### Sous-section 1 : Mesures générales.
+
+###### Article R233-5
+
+Le chef d'établissement doit informer de manière appropriée les salariés chargés de la mise en oeuvre ou de la maintenance
+des équipements de travail :
+
+a) Des conditions d'utilisation ou de maintenance de ces équipements de travail ;
+
+b) Des instructions ou consignes les concernant ;
+
+c) De la conduite à tenir face aux situations anormales prévisibles ;
+
+d) Des conclusions tirées de l'expérience acquise permettant de supprimer certains risques.
+
+Il doit également informer tous les salariés de l'établissement des risques les concernant, dus, d'une part, aux équipements
+de travail situés dans leur environnement immédiat de travail, même s'ils ne les utilisent pas personnellement, d'autre part,
+aux modifications affectant ces équipements.
+
+Il doit en outre tenir à la disposition des délégués du personnel une documentation concernant la réglementation applicable
+aux équipements de travail utilisés.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 III : les dispositions de l'art. R233-5 alinéa 7 sont applicables à compter du 2 mars 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-59 (MMN)
+
+
+###### Article R233-6
+
+La formation à la sécurité dont bénéficient les salariés chargés de la mise en oeuvre ou de la maintenance des équipements de
+travail doit être renouvelée et complétée aussi souvent qu'il est nécessaire pour prendre en compte les évolutions des
+équipements de travail dont ces salariés ont la charge.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R233-7
+
+Le montage et le démontage des équipements de travail doivent être réalisés de façon sûre, notamment en respectant les
+instructions du fabricant.
+
+La remise en service d'un équipement de travail après une opération de maintenance ayant nécessité le démontage des
+dispositifs de protection doit être précédée d'un essai permettant de vérifier que ces dispositifs sont en place et
+fonctionnent correctement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-60 (V)
+
+
+###### Article R233-8
+
+Les équipements de travail et leurs éléments doivent être installés et pouvoir être utilisés de manière telle que leur
+stabilité soit assurée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-60 (MMN)
+
+
+###### Article R233-9
+
+Les équipements de travail doivent être installés, disposés et utilisés de manière à réduire les risques pour les
+utilisateurs de ces équipements et pour les autres salariés. Doit notamment être prévu un espace libre suffisant entre les
+éléments mobiles des équipements de travail et les éléments fixes ou mobiles de leur environnement. L'organisation de
+l'environnement de travail doit être telle que toute énergie ou substance utilisée ou produite puisse être amenée et évacuée
+en toute sécurité.
+
+Les équipements de travail et leurs éléments doivent être installés de façon à permettre aux salariés d'effectuer les
+opérations de production et de maintenance dans les meilleures conditions de sécurité possible. Leur implantation ne doit pas
+s'opposer à l'emploi des outils, accessoires, équipements et engins nécessaires pour exécuter les opérations de mise en
+oeuvre, y compris de réglage relevant de l'opérateur, ou les opérations de maintenance en toute sécurité.
+
+Ils doivent être installés et, en fonction des besoins, équipés de manière telle que les salariés puissent accéder et se
+maintenir en sécurité et sans fatigue excessive à tous les emplacements nécessaires pour la mise en oeuvre, le réglage et la
+maintenance desdits équipements et de leurs éléments.
+
+Les passages et les allées de circulation du personnel entre les équipements de travail doivent avoir une largeur d'au moins
+80 centimètres. Leur sol doit présenter un profil et être dans un état permettant le déplacement en sécurité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-59 (MMN)
+
+
+###### Article R233-10
+
+Aucun poste de travail permanent ne doit être situé dans le champ d'une zone de projection d'éléments dangereux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R233-11
+
+Lorsque des transmissions, mécanismes et équipements de travail comportant des organes en mouvement susceptibles de présenter
+un risque sont en fonctionnement, il est interdit au chef d'établissement d'admettre les salariés à procéder à la
+vérification, à la visite, au nettoyage, au débourrage, au graissage, au réglage, à la réparation et à toute autre opération
+de maintenance. 
+
+En outre, préalablement à l'exécution à l'arrêt des travaux prévus à l'alinéa premier, toutes mesures doivent être prises
+pour empêcher la remise en marche inopinée des transmissions, mécanismes et équipements de travail en cause. 
+
+Toutefois, lorsqu'il est techniquement impossible d'effectuer à l'arrêt certains des travaux prévus au présent article, des
+dispositions particulières, prévues par une instruction du chef d'établissement, doivent être prises pour empêcher l'accès
+aux zones dangereuses ou mettre en oeuvre des conditions de fonctionnement, une organisation du travail ou des modes
+opératoires permettant de préserver la sécurité des salariés chargés de ces opérations. Dans ce cas, les travaux visés au
+présent article ne peuvent être effectués que par des salariés mentionnés au b de l'article R. 233-13.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-13 (V)
+
+
+###### Article R233-12
+
+Lorsque, pour des raisons d'ordre technique, les éléments mobiles d'un équipement de travail ne peuvent être rendus
+inaccessibles, il est interdit au chef d'établissement d'admettre les salariés à utiliser cet équipement, à procéder à des
+interventions sur celui-ci ou à circuler à sa proximité s'ils portent des vêtements non ajustés ou flottants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+##### Sous-section 2 : Mesures particulières applicables à l'utilisation de certains équipements de travail ou à certaines situations de travail.
+
+###### Article R233-13
+
+Lorsque les mesures prises en application des deux premiers alinéas de l'article R. 233-1 ne peuvent pas être suffisantes
+pour assurer la sécurité et préserver la santé des salariés, le chef d'établissement doit prendre les mesures nécessaires
+afin que : 
+
+a) Seuls les salariés désignés à cet effet utilisent cet équipement de travail ; 
+
+b) La maintenance et la modification de cet équipement de travail ne soient effectuées que par les seuls salariés affectés à
+ce type de tâche.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-1 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-11 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-14 (V)
+
+
+###### Article R233-14
+
+Les salariés mentionnés au b de l'article R. 233-13 doivent recevoir une formation spécifique relative aux prescriptions à
+respecter, aux conditions d'exécution des travaux et aux matériels et outillages à utiliser. Cette formation doit être
+renouvelée et complétée aussi souvent qu'il est nécessaire pour prendre en compte les évolutions des équipements de travail
+dont ces salariés assurent la maintenance ou la modification et les évolutions des techniques correspondantes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-13 (V)
+
+
+###### Article R233-19
+
+Les machines à amenage manuel des pièces à travailler ou à déplacement manuel des outillages doivent être équipées des outils
+et accessoires appropriés de façon que les phénomènes de rejet ou d'entraînement pouvant survenir ne soient pas à l'origine
+de risques pour les salariés.
+
+En particulier, les machines à travailler le bois destinées au dégauchissage, au rabotage, au toupillage pour lesquelles la
+pièce à usiner est amenée manuellement au contact des outils en rotation doivent être équipées à cet effet des dispositifs
+anti-rejet nécessaires tels que des outils à section circulaire à limitation de pas d'usinage ou des outils anti-rejet
+appropriés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-60 (V)
+
+
+##### Sous-section 3 : Mesures complémentaires applicables à l'utilisation des équipements de travail mobiles.
+
+###### Article R233-20
+
+Les voies de circulation empruntées par les équipements de travail mobiles doivent avoir un gabarit suffisant et présenter un
+profil permettant leur déplacement sans risque à la vitesse prévue par la notice d'instructions. Elles doivent être
+maintenues libres de tout obstacle.
+
+Si un équipement de travail évolue dans une zone de travail, le chef d'établissement doit établir des règles de circulation
+adéquates et veiller à leur bonne application.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R233-21
+
+Des mesures d'organisation doivent être prises pour éviter que des salariés à pied ne se trouvent dans la zone d'évolution
+des équipements de travail. Si la présence de salariés à pied est néanmoins requise pour la bonne exécution des travaux, des
+mesures doivent être prises pour éviter qu'ils ne soient blessés par ces équipements.
+
+Les équipements de travail mobiles munis d'un moteur à combustion ne doivent être introduits et employés dans les zones de
+travail que si y est garanti, en quantité suffisante, un air ne présentant pas de risques pour la sécurité et la santé des
+salariés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R233-22
+
+La présence des salariés sur des équipements de travail mobiles mus mécaniquement n'est autorisée que sur des emplacements
+sûrs, aménagés à cet effet. Si des travaux doivent être effectués pendant le déplacement, la vitesse doit être adaptée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+##### Section 3 : Prescriptions techniques applicables pour l'utilisation des équipements de travail.
+
+###### Article R233-24
+
+La présente section est applicable aux équipements de travail utilisés dans les établissements visés à l'article L. 230-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L230-1 (M)
+
+
+###### Article R233-25
+
+Les éléments mobiles de transmission d'énergie ou de mouvements des équipements de travail présentant des risques de contact
+mécanique pouvant entraîner des accidents doivent être équipés de protecteurs ou de dispositifs appropriés empêchant l'accès
+aux zones dangereuses ou arrêtant, dans la mesure où cela est techniquement possible, les mouvements d'éléments dangereux
+avant que les salariés puissent les atteindre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-27 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-41 (V)
+
+
+###### Article R233-26
+
+Les équipements de travail mus par une source d'énergie autre que la force humaine comportant des éléments mobiles concourant
+à l'exécution du travail et pouvant entraîner des accidents par contact mécanique doivent être disposés, protégés, commandés
+ou équipés de façon telle que les opérateurs ne puissent atteindre la zone dangereuse.
+
+Toutefois, lorsque certains de ces éléments mobiles ne peuvent être rendus inaccessibles en tout ou partie pendant leur
+fonctionnement compte tenu des opérations à effectuer et nécessitent l'intervention de l'opérateur, ces éléments mobiles
+doivent, dans la mesure de ce qui est techniquement possible, être munis de protecteurs ou dispositifs de protection. Ceux-ci
+doivent limiter l'accessibilité et interdire notamment l'accès aux parties des éléments non utilisées pour le travail.
+
+Lorsque l'état de la technique ne permet pas de satisfaire aux dispositions des deux précédents alinéas du présent article,
+les équipements de travail doivent être disposés, protégés, commandés ou équipés de façon à réduire les risques au minimum.
+
+Les dispositions du présent article sont applicables aux équipements de travail servant au levage de charges mus à la main.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R233-27
+
+Les protecteurs et les dispositifs de protection permettant de répondre aux dispositions des articles R. 233-25 et R.
+233-26 :
+
+1° Doivent être de construction robuste, adaptée aux conditions d'utilisation ; 
+
+2° Ne doivent pas occasionner de risques supplémentaires, la défaillance d'un de leurs composants ne devant pas compromettre
+leur fonction de protection ; 
+
+3° Ne doivent pas pouvoir être facilement ôtés ou rendus inopérants ; 
+
+4° Doivent être situés à une distance suffisante de la zone dangereuse, compatible avec le temps nécessaire pour obtenir
+l'arrêt des éléments mobiles ; 
+
+5° Doivent permettre de repérer parfaitement la zone dangereuse ; 
+
+6° Ne doivent pas limiter plus que nécessaire l'observation du cycle de travail ; 
+
+7° Doivent permettre les interventions indispensables pour la mise en place ou le remplacement des éléments ainsi que pour
+les travaux d'entretien, ceci en limitant l'accès au seul secteur où le travail doit être réalisé et, si possible, sans
+démontage du protecteur ou du dispositif de protection.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-25 (V)
+
+
+###### Article R233-28
+
+La mise en marche des équipements de travail ne doit pouvoir être obtenue que par l'action d'un opérateur sur l'organe de
+service prévu à cet effet, sauf si cette mise en marche, obtenue autrement, ne présente aucun risque pour les opérateurs
+concernés.
+
+L'alinéa qui précède ne s'applique pas à la mise en marche d'un équipement de travail résultant de la séquence normale d'un
+cycle automatique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R233-29
+
+Les organes de service d'un équipement de travail doivent être clairement visibles et identifiables et, en tant que de
+besoin, faire l'objet d'un marquage approprié.
+
+Ils doivent être disposés en dehors des zones dangereuses sauf en cas d'impossibilité ou de nécessité de service par exemple
+pour un dispositif d'arrêt d'urgence ou une console de réglage ou d'apprentissage. Ils doivent être situés de façon que leur
+manoeuvre ne puisse engendrer de risques supplémentaires.
+
+Les organes de service doivent être choisis pour éviter toute manoeuvre non intentionnelle pouvant avoir des effets
+dangereux.
+
+Ils doivent être disposés de façon à permettre une manoeuvre sûre, rapide et sans équivoque.
+
+Depuis l'emplacement des organes de mise en marche, l'opérateur doit être capable de s'assurer de l'absence de personnes dans
+les zones dangereuses. Si cela est impossible, toute mise en marche doit être précédée automatiquement d'un signal
+d'avertissement sonore ou visuel. Le salarié exposé doit avoir le temps et les moyens de se soustraire rapidement à des
+risques engendrés par le démarrage ou éventuellement par l'arrêt de l'équipement de travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-83 (V)
+
+
+###### Article R233-30
+
+Un équipement de travail doit porter les avertissements, signalisations et dispositifs d'alerte indispensables pour assurer
+la sécurité des salariés. Ces avertissements, signalisations et dispositifs d'alerte doivent être choisis et disposés de
+façon à être perçus et compris facilement, sans ambiguïté.
+
+Lorsque les opérateurs ont la possibilité de choisir et de régler les caractéristiques techniques de fonctionnement d'un
+équipement de travail, celui-ci doit comporter toutes les indications nécessaires pour que ces opérations soient effectuées
+d'une façon sûre. La vitesse limite au-delà de laquelle un équipement de travail peut présenter des risques doit être
+précisée clairement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R233-31
+
+Les éléments des équipements de travail pour lesquels il existe un risque de rupture ou d'éclatement doivent être équipés de
+protecteurs appropriés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R233-32
+
+Les équipements de travail doivent être installés et équipés pour éviter les dangers dus à des chutes ou des projections
+d'objets tels que pièces usinées, éléments d'outillage, copeaux, déchets.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R233-33
+
+Les zones de travail, de réglage ou de maintenance d'un équipement de travail doivent être convenablement éclairées en
+fonction des travaux à effectuer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R233-34
+
+Les éléments des équipements de travail destinés à la transmission de l'énergie calorifique, notamment les canalisations de
+vapeur ou de fluide thermique, doivent être disposés, protégés ou isolés de façon à prévenir tout risque de brûlure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R233-35
+
+Les équipements de travail alimentés en énergie électrique doivent être équipés, installés et entretenus, conformément aux
+dispositions du chapitre VI du présent titre, de manière à prévenir, ou permettre de prévenir, les risques d'origine
+électrique, notamment les risques pouvant résulter de contacts directs ou indirects, de surintensités ou d'arcs électriques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R233-36
+
+Tout équipement de travail doit être muni des organes de service nécessaires permettant son arrêt général dans des conditions
+sûres.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R233-37
+
+Chaque poste de travail ou partie d'équipement de travail doit être muni d'un organe de service permettant d'arrêter, en
+fonction des risques existants, soit tout l'équipement de travail, soit une partie seulement, de manière que l'opérateur soit
+en situation de sécurité. L'ordre d'arrêt de l'équipement de travail doit avoir priorité sur les ordres de mise en marche.
+L'arrêt de l'équipement de travail ou de ses éléments dangereux étant obtenu, l'alimentation en énergie des actionneurs
+concernés doit être interrompue.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R233-38
+
+Chaque machine doit être munie d'un ou de plusieurs dispositifs d'arrêt d'urgence clairement identifiables, accessibles et en
+nombre suffisant, permettant d'éviter des situations dangereuses risquant ou en train de se produire.
+
+Sont exclues de cette obligation :
+
+a) Les machines pour lesquelles un dispositif d'arrêt d'urgence ne serait pas en mesure de réduire le risque, soit parce
+qu'il ne réduirait pas le temps d'obtention de l'arrêt normal, soit parce qu'il ne permettrait pas de prendre les mesures
+particulières nécessitées par le risque ;
+
+b) Les machines portatives et les machines guidées à la main.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R233-39
+
+Les équipements de travail doivent être munis de dispositifs clairement identifiables et facilement accessibles permettant de
+les isoler de chacune de leurs sources d'énergie.
+
+La séparation des équipements de travail de leurs sources d'alimentation en énergie doit être obtenue par la mise en oeuvre
+de moyens adaptés permettant que les opérateurs intervenant dans les zones dangereuses puissent s'assurer de cette
+séparation.
+
+La dissipation des énergies accumulées dans les équipements de travail doit pouvoir s'effectuer aisément, sans que puisse
+être compromise la sécurité des salariés.
+
+Lorsque la dissipation des énergies ne peut être obtenue, la présence de ces énergies doit être rendue non dangereuse par la
+mise en oeuvre de moyens adaptés mis à la disposition des opérateurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R233-40
+
+Les équipements de travail mettant en oeuvre des produits ou des matériaux dégageant des gaz, vapeurs, poussières ou autres
+déchets inflammables doivent être munis de dispositifs protecteurs permettant notamment d'éviter qu'une élévation de
+température d'un élément ou des étincelles d'origine électrique ou mécanique puissent entraîner un incendie ou une explosion.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-76 (V)
+
+
+###### Article R233-41
+
+Les prescriptions techniques définies par la présente section, et notamment les caractéristiques des protecteurs prévus par
+les articles R. 233-25 à R. 233-27, sont précisées en tant que de besoin par des arrêtés du ministre chargé du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-25 (V)
+
+
+#### CHAPITRE IV : Dispositions particulières aux femmes et aux jeunes travailleurs.
+
+###### Article R234-1
+
+Pour l'application du présent chapitre, les chefs d'établissement doivent être en mesure de justifier, à toute réquisition
+des agents des services de l'inspection du travail, de la date de naissance de chacun des travailleurs de moins de dix-huit
+ans qu'ils emploient.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R234-2
+
+Il est interdit d'employer des jeunes travailleurs de moins de dix-huit ans à la confection, à la manutention et à la vente
+d'écrits imprimés, affiches, dessins, gravures, peintures, emblèmes, images ou autres objets dont la vente, l'offre,
+l'exposition, l'affichage ou la distribution sont réprimés par les lois pénales comme contraires aux bonnes moeurs.
+
+Il est également interdit d'employer à aucun genre de travail des jeunes travailleurs de moins de seize ans dans les locaux
+où sont confectionnés, manutentionnés ou vendus des écrits, imprimés, affiches, gravures, peintures, emblèmes, images ou
+autres objets qui, même s'ils ne tombent pas sous l'action des lois pénales, sont de nature à blesser leur moralité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+##### Section 1 : Hygiène.
+
+###### Article R234-3
+
+Il est interdit d'employer aux étalages extérieurs des magasins et boutiques des jeunes de moins de seize ans.
+
+Les jeunes travailleurs de moins de dix-huit ans ne peuvent y être employés pendant plus de six heures par jour. Ils doivent
+l'être par postes de deux heures au plus séparés par des intervalles d'une heure au moins.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R234-4
+
+L'emploi des jeunes travailleurs de moins de dix-huit ans aux étalages extérieurs mentionnés au premier alinéa de l'article
+précédent est interdit d'une façon absolue après 20 heures.
+
+L'emploi auxdits étalages des femmes qui se sont déclarées enceintes est interdit d'une façon absolue après 22 heures. Il en
+est de même de l'emploi des femmes pour lesquelles le médecin du travail estime nécessaire cette interdiction.
+
+Les dispositions du présent article s'appliquent à tous les stands de vente des établissements agricoles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+##### Section 2 : Limitation des charges.
+
+###### Article R234-5
+
+Sont soumis aux dispositions de la présente section les manufactures, fabriques, usines, chantiers, ateliers, laboratoires,
+cuisines, caves et chais, magasins, boutiques, bureaux, entreprises de chargement et de déchargement et leurs dépendances de
+quelque nature que ce soit, publics ou privés, laïques ou religieux, même lorsque ces établissements ont un caractère
+d'enseignement professionnel ou de bienfaisance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R234-6
+
+Les jeunes travailleurs de moins de dix-huit ans et les femmes employés dans les établissements mentionnés à l'article
+précédent ne peuvent porter, traîner ou pousser tant à l'intérieur qu'à l'extérieur de ceux-ci des charges d'un poids
+supérieur aux poids suivants :
+
+1° Port des fardeaux :
+
+Personnel masculin de quatorze ou quinze ans : 15 kg ;
+
+Personnel masculin de seize ou dix-sept ans : 20 kg ;
+
+Personnel féminin de quatorze ou quinze ans : 8 kg ;
+
+Personnel féminin de seize ou dix-sept ans : 10 kg ;
+
+Personnel féminin de dix-huit ans et plus : 25 kg.
+
+2° Transport par wagonnets circulant sur voie ferrée :
+
+Personnel masculin de moins de dix-huit ans : 500 kg (véhicule compris) ;
+
+Personnel féminin de moins de seize ans : 150 kg (véhicule compris) ;
+
+Personnel féminin de seize ans ou dix-sept ans : 300 kg (véhicule compris) ;
+
+Personnel féminin de dix-huit ans et plus : 600 kg (véhicule compris).
+
+3° Transport sur brouettes :
+
+Personnel masculin de moins de dix-huit ans et féminin de dix-huit ans et plus : 40 kg (véhicule compris).
+
+4° Transport sur véhicules à trois ou quatre roues dits "placières, pousseuses, pousse-à-main", etc. :
+
+Personnel masculin de moins de dix-huit ans : 60 kg (véhicule compris) ;
+
+Personnel féminin de moins de seize ans : 35 kg (véhicule compris) ;
+
+Personnel féminin de seize ans et plus : 60 kg (véhicule compris).
+
+5° Transport sur charrettes à bras à deux roues dites "haquets", brancards, charretons, voitures à bras, etc. :
+
+Personnel masculin de moins de dix-huit ans et personnel féminin de dix-huit ans et plus : 130 kg (véhicule compris).
+
+6° Transport sur tricycles porteurs à pédales interdit aux femmes de moins de dix-huit ans :
+
+Personnel de moins de seize ans : 50 kg (véhicule compris) ;
+
+Personnel de seize ou dix-sept ans et personnel féminin de dix-huit ans et plus : 75 kg (véhicule compris).
+
+7° Transport sur diables et cabrouets :
+
+Le transport sur diables ou cabrouets est interdit au personnel de moins de dix-huit ans.
+
+Personnel féminin de dix-huit ans et plus : 40 kg (véhicule compris).
+
+Les modes de transport énumérés aux 3° et 5° ci-dessus sont interdits aux femmes de moins de dix-huit ans.
+
+Les modes de transport énumérés aux 6° et 7° ci-dessus sont interdits aux femmes qui se sont déclarées enceintes ainsi qu'aux
+femmes pour lesquelles le médecin du travail estime nécessaire cette interdiction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+##### Section 3 : Travaux interdits aux femmes.
+
+###### Article R234-7
+
+Il est interdit d'occuper les femmes aux travaux énumérés ci-après et de les admettre de manière habituelle dans les locaux
+affectés à ces travaux :
+
+Esters thiophosphoriques : préparation et conditionnement ;
+
+Mercure : emploi et composés du mercure aux travaux de secrétage dans l'industrie de la couperie de poils ;
+
+Silice libre : travaux suivants exposant à l'action de la silice :
+
+Démolition des fours industriels comportant des matériaux réfractaires contenant de la silice libre.
+
+Nettoyage, décapage ou polissage au jet de sable, sauf lorsque ces travaux s'effectuent en enceinte étanche dont l'atmosphère
+chargée de silice libre est parfaitement isolée de l'air ambiant inhalé par l'opératrice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R234-8
+
+Il est interdit d'occuper les femmes aux travaux énumérés ci-après. Toutefois, le séjour dans les locaux affectés à ces
+travaux ne leur est pas interdit :
+
+Air comprimé : travaux à l'aide d'engins du type marteau-piqueur mus à l'air comprimé ;
+
+Hydrocarbures aromatiques ; travaux exposant à l'action des dérivés suivants :
+
+Dérivés nitrés et chloronitrés des hydrocarbures benzoniques ;
+
+Dinitrophénol ;
+
+Aniline et homologues, benzidine et homologues, naphtylamines et homologues.
+
+Toutefois l'interdiction relative aux dérivés des hydrocarbures aromatiques ne s'applique pas au cas où les opérations sont
+faites en appareils clos en marche normale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+##### Section 4 : Travaux interdits aux jeunes travailleurs.
+
+###### Article R234-9
+
+Il est interdit d'employer les jeunes travailleurs de moins de dix-huit à la réparation, en marche, des machines, mécanismes
+ou organes.
+
+Il est également interdit d'admettre des jeunes travailleurs à procéder en marche, sur des transmissions, mécanismes et
+machines comportant des organes en mouvement, à des opérations de visite ou de vérification, ainsi qu'à des opérations
+d'entretien telles que :
+
+nettoyage, essuyage, époussetage, graissage, applications d'adhésifs, à moins que des dispositifs appropriés ne les mettent à
+l'abri de tout contact avec les organes en mouvement.
+
+Il est interdit d'employer ces jeunes travailleurs dans les locaux, ateliers ou chantiers où fonctionnent des transmissions,
+mécanismes ou machines, lorsque n'ont pas été rendus inaccessibles par des dispositifs appropriés :
+
+1° Les organes de commande et de transmission tels que :
+
+courroies, câbles, chaînes, bielles, volants, roues, arbres, engrenages, cônes ou cylindres de friction, cames, coulisseaux ;
+
+2° Les pièces faisant saillie sur des organes en mouvement, telles que vis d'arrêt, boulons, clavettes, bossages, nervures.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R234-10
+
+Les jeunes travailleurs de moins de dix-huit ans ne peuvent être employés :
+
+Au travail des cisailles, presses de toute nature, outils tranchants, autres que ceux mus par la force de l'opérateur lui-
+même.
+
+Au travail d'alimentation en marche des scies, machines à cylindres, broyeurs, malaxeurs, mus mécaniquement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R234-11
+
+Les jeunes travailleurs de moins de dix-huit ans ne peuvent être employés à la conduite de tracteurs agricoles ou forestiers
+non munis de dispositifs de protection contre le renversement ainsi que des moissonneuses-batteuses et autres machines à
+usage agricole comportant des fonctions ou mouvements multiples.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R234-12
+
+Les jeunes travailleurs de moins de seize ans ne peuvent être employés à tourner des roues verticales, des treuils ou des
+poulies destinées à lever des charges ou fardeaux.
+
+Il est également interdit d'employer de façon continue les jeunes travailleurs de moins de seize ans au travail des machines
+mues par des pédales motrices, ainsi qu'au travail des métiers dits "à la main" et des presses de toute nature mues par
+l'opérateur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R234-13
+
+Dans les établissements et exploitations agricoles, il est interdit d'admettre les jeunes travailleurs de moins de seize ans
+à la conduite de tondeuses et d'engins automoteurs à essieu unique. Dans ces mêmes établissements, les jeunes travailleurs de
+moins de seize ans ne peuvent être occupés aux travaux dans les puits, conduites de gaz, canaux de fumée, cuves, réservoirs,
+citernes, fosses et galeries. Les travaux d'élagage et d'éhoupage sont interdits aux jeunes de moins de seize ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R234-14
+
+Les jeunes travailleurs ne peuvent être employés à cueillir le verre avant l'âge de seize ans dans les verreries
+automatiques, et avant l'âge de quinze ans dans les autres verreries.
+
+Ils ne peuvent être employés à souffler le verre avant l'âge de seize ans dans les fabriques de bouteilles et les usines de
+flaconnage et de gobeleterie.
+
+Toutefois, les jeunes travailleurs n'ayant pas atteint ces âges pourront être occupés au cueillage ou au soufflage dans un
+but de formation professionnelle et sous réserve de ne pas participer aux équipes de production.
+
+Les jeunes travailleurs âgés de moins de dix-sept ans ne peuvent être employés à cueillir et souffler dans les fabriques de
+verre à vitres.
+
+Le poids du verre mis en oeuvre par les jeunes travailleurs âgés de moins de dix-sept ans ne peut dépasser un kilogramme, ce
+poids pourra être dépassé pour un jeune travailleur déterminé, sur avis conforme du médecin du travail.
+
+Les jeunes travailleurs âgés de moins de dix-sept ans ne peuvent conduire les machines dans les verreries où la fabrication
+se fait par procédés mécaniques.
+
+Pour les emplois de cueilleur-souffleur de verre à vitres, de conducteur de machine de fabrication mécanique, il pourra être
+accordé une dérogation pour les jeunes travailleurs âgés de plus de seize ans, par le directeur du travail, de l'emploi et de
+la formation professionnelle après enquête de l'agent de contrôle de l'inspection du travail donnée.
+
+Les jeunes de moins de quinze ans ne peuvent être employés à l'étirage du verre sous forme de tubes ou baguettes qu'à la
+condition que la charge portée par eux n'excède pas 5 kg, canne comprise.
+
+Les chefs d'entreprise doivent pourvoir les jeunes travailleurs de moins de dix-huit ans de dispositifs protégeant la face
+contre le rayonnement des ouvreaux pendant les opérations de cueillage ou de réchauffage des pièces. Ils doivent prescrire
+l'emploi de ces dispositifs et en assurer l'entretien.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R234-15
+
+Il est interdit d'admettre les jeunes travailleurs de moins de dix-huit ans au service des appareils à vapeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R234-16
+
+Il est interdit de préposer les jeunes travailleurs âgés de moins de seize ans au service :
+
+Des appareils de production, d'emmagasinage ou de mise en oeuvre de gaz comprimés, liquéfiés ou dissous portant règlement sur
+les appareils à pression de gaz.
+
+Des cuves, bassins, réservoirs, touries ou bonbonnes, contenant des liquides, gaz ou vapeurs inflammables, toxiques, nocifs
+ou corrosifs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R234-17
+
+Il est interdit d'employer les jeunes travailleurs de moins de dix-huit ans en qualité de doubleurs dans les ateliers où
+s'opèrent le laminage et l'étirage de la verge de tréfilerie.
+
+Toutefois cette disposition n'est pas applicable dans le cas où les doubleurs sont protégés par des dispositifs appropriés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R234-18
+
+Sur les chantiers de bâtiment et de travaux publics, y compris ceux qui dépendent d'un établissement agricole, il est
+interdit d'employer les jeunes travailleurs de moins de dix-huit ans à des travaux en élévation de quelque nature que ce
+soit, sans que leur aptitude à ces travaux ait été médicalement constatée.
+
+Une consigne écrite détermine les conditions d'emploi et de surveillance des intéressés.
+
+Toutes mesures de sécurité doivent être prises conformément aux dispositions législatives et réglementaires ou aux règles de
+l'art, avant le commencement et au cours de l'exécution de ces travaux.
+
+Il est également interdit d'employer les jeunes travailleurs de moins de dix-huit ans :
+
+Aux travaux à la corde à noeuds, aux sellettes, nacelles suspendues et échafaudages volants, échelles suspendues et plates-
+formes.
+
+Aux travaux de montage et démontage des échafaudages et de tous autres dispositifs protecteurs.
+
+Aux travaux de montage-levage en élévation.
+
+Aux travaux de montage et démontage d'appareils de levage et à la conduite de ces appareils autres que les élévateurs guidés
+fonctionnant en cage close. Il ne pourra être confié aux jeunes travailleurs la mission de faire des signaux au conducteur
+desdits appareils, ainsi que d'arrimer, d'accrocher ou de recevoir les charges en élévation.
+
+A la conduite des engins, véhicules de manutention et de terrassement.
+
+Aux travaux de ponçage et bouchardage de pierres dures.
+
+Aux travaux de démolition.
+
+Aux travaux de percement des galeries souterraines, travaux de terrassement en fouilles étroites et profondes, travaux de
+boisage de fouilles et galeries, travaux d'étaiement, travaux dans les égouts.
+
+Aux travaux au rocher, notamment perforation et abattage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R234-19
+
+Il est interdit de laisser les jeunes travailleurs de moins de dix-huit ans :
+
+Accéder à toute zone d'un établissement ou chantier où ils pourraient venir en contact avec des conducteurs nus sous
+tensions, excepté s'il s'agit d'installations à très basse tension, au sens et sous réserve des prescriptions générales
+relatives à la protection des travailleurs dans les établissements qui mettent en oeuvre des courants électriques.
+
+Accéder à tout local ou enceinte dans lesquels des machines, transformateurs et appareils électriques de 2e et 3e catégorie
+sont installés.
+
+Procéder à toute manoeuvre d'appareils généraux de production ou d'alimentation d'un atelier ou d'un ensemble de machines ou
+d'appareils électriques, quelle que soit la catégorie de la tension mise en oeuvre.
+
+Exécuter tous travaux de surveillance ou d'entretien intéressant des installations électriques dans lesquelles la tension
+dépasse 600 volts en courant continu et 250 volts en courant alternatif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R234-20
+
+Il est interdit d'occuper les jeunes travailleurs de moins de dix-huit ans aux travaux énumérés ci-après et de les admettre
+de manière habituelle dans les locaux affectés à ces travaux :
+
+Abattage des animaux dans les abattoirs publics et abattoirs privés (tueries particulières d'animaux de boucherie et de
+charcuterie). Sont exclus de l'interdiction les apprentis dans leur dernière année de contrat.
+
+Acide cyanhydrique : fabrication et emploi industriel.
+
+Acide fluorhydrique : fabrication et utilisation directe au dépolissage du verre.
+
+Acide nitrique fumant : fabrication et manutention.
+
+Air comprimé : travaux dans l'air comprimé.
+
+Amiante : cadrage, filature et tissage.
+
+Arsenic et ses composés oxygénés et sulfurés : fabrication, manipulation et emploi.
+
+Chlore : production et emplois dans la fabrication des hypochlorites ainsi que dans le blanchiment de la pâte à papier et de
+la cellulose.
+
+Esters thiophosphoriques : fabrication et conditionnement.
+
+Explosifs : fabrication et manipulation des engins, artifices ou objets divers en contenant.
+
+Ménageries d'animaux féroces ou venimeux : travaux dans les ménageries.
+
+Mercure : tous travaux exposant habituellement aux vapeurs de mercure, notamment la fabrication des thermomètres, des
+appareils de physique et du matériel électrique.
+
+Mercure : fabrication et manipulation des composés toxiques du mercure ; emploi de ces composés aux travaux de secrétage dans
+l'industrie de la couperie de poils.
+
+Métaux en fusion : travaux de coulée. Sont exclus de l'interdiction les jeunes travailleurs âgés de dix-sept ans révolus.
+
+Méthyle : fabrication du bromure de méthyle, opérations de désinsectisation ou désinfection et de remplissage des extincteurs
+d'incendie à l'aide du bromure de méthyle.
+
+Minerais sulfureux : grillage de ces minerais.
+
+Nitrocellulose : fabrication et utilisation à la préparation des produits nitrés qui en découlent, notamment celluloïde et
+collodion.
+
+Plomb : travaux suivants exposant à l'action du plomb et de ses composés :
+
+Récupération du vieux plomb.
+
+Métallurgie, affinage, fonte du plomb, de ses alliages et des métaux plombifères.
+
+Fabrication et réparation des accumulateurs au plomb.
+
+Trempe au plomb et tréfilage des aciers traités ou enrobés au moyen du plomb ou de ses composés.
+
+Métallisation au plomb par pulvérisation.
+
+Fabrication et manipulation des oxydes et sels de plomb.
+
+Grattage, brûlage, découpage au chalumeau de matières recouvertes de peintures plombifères.
+
+Fabrication et application des émaux contenant des composés du plomb.
+
+Fabrication et manipulation du plomb tétraéthyle.
+
+Radioactivité : travaux exposant à la radioactivité.
+
+Traitement, préparation et emploi des produits radioactifs.
+
+Travaux exposant à l'action des rayons X.
+
+Travaux exposant à l'action des radiations ionisantes.
+
+Silice libre :
+
+Travaux exposant à l'action de la silice libre.
+
+Taille à la main, broyage, tamisage, sciage et polissage à sec de roches ou matières contenant de la silice libre.
+
+Démolition des fours industriels comportant des matériaux réfractaires contenant de la silice libre.
+
+Nettoyage, décapage et polissage au jet de sable sauf lorsque ces travaux s'effectuent en enceinte étanche dont l'atmosphère
+chargée de silice libre est parfaitement isolée de l'air ambiant inhalé par l'opérateur.
+
+Travaux de ravalement des façades au jet de sable.
+
+Nettoyage, ébarbage, roulage, décochage de pièces de fonderie.
+
+Tétrachloréthane : fabrication et emploi.
+
+Tétrachlorure de carbone : fabrication et emploi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R234-22 (V)
+
+
+###### Article R234-21
+
+Il est interdit d'occuper les jeunes travailleurs de moins de dix-huit ans aux travaux énumérés ci-après :
+
+(Toutefois, le séjour dans les locaux affectés à ces travaux ne leur est pas interdit).
+
+Acétylène : surveillance des générateurs fixes d'acétylène.
+
+Acide sulfurique fumant ou oléum : fabrication et manutention.
+
+Air comprimé : travaux à l'aide d'engins du type marteau piqueur mus à l'air comprimé.
+
+Anhydride chromique : fabrication et manutention.
+
+Cyanures : manipulation.
+
+Fours industriels à mazout : surveillance des brûleurs. Sont exclus de l'interdiction les jeunes travailleurs âgés de dix-
+sept ans révolus.
+
+Hydrocarbures aromatiques ; travaux exposant à l'action des dérivés suivants :
+
+Dérivés nitrés et chloronitrés des hydrocarbures benzéniques ; dinitrophénol.
+
+Aniline et homologues, benzidine et homologues, naphtylamines et homologues.
+
+(Toutefois, l'interdiction relative aux dérivés des hydrocarbures aromatiques ne s'applique pas aux cas où les opérations
+sont faites en appareils clos en marche normale).
+
+Lithine : fabrication et manipulation.
+
+Lithium métal : fabrication et manipulation.
+
+Potassium métal : fabrication et manutention.
+
+Scellement à l'aide de pistolet à explosion.
+
+Sodium métal : fabrication et manutention.
+
+Soude caustique : fabrication et manipulation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R234-22
+
+Les jeunes travailleurs de moins de dix-huit ans, apprentis munis d'un contrat d'apprentissage, ainsi que les élèves
+fréquentant les établissements d'enseignement technique y compris les établissements d'enseignement technique agricole,
+publics ou privés peuvent être autorisés à utiliser au cours de leur formation professionnelle les machines ou appareils dont
+l'usage est proscrit par les articles précédents. Ces autorisations sont accordées par le directeur du travail, de l'emploi
+et de la formation professionnelle, après enquête de l'agent de contrôle de l'inspection du travail, après avis favorable du
+médecin du travail ou du médecin chargé de la surveillance des élèves ; en outre, une autorisation du professeur ou du
+moniteur d'atelier est requise pour chaque emploi. L'autorisation est réputée acquise si le directeur du travail, de l'emploi
+et de la formation professionnelle n'a pas fait connaître sa décision dans un délai de deux mois à compter de la réception de
+la demande complète, envoyée par lettre recommandée avec demande d'avis de réception et comportant l'avis favorable du
+médecin et du professeur ou du moniteur responsable. 
+
+Des mesures doivent être prises pour assurer l'efficacité du contrôle exercé par le professeur ou le moniteur d'atelier. 
+
+Les dérogations individuelles accordées en vertu du premier alinéa du présent article sont renouvelables chaque année. Elles
+sont révocables à tout moment si les conditions qui les ont fait accorder cessent d'être remplies. 
+
+Il peut être dérogé dans les mêmes formes et conditions aux interdictions édictées par les articles R. 234-20 et R. 234-21.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R234-20 (V)
+
+
+###### Article R234-23
+
+Les jeunes travailleurs munis du certificat d'aptitude professionnelle correspondant à l'activité qu'ils exercent pourront
+participer aux travaux et être autorisés à utiliser les machines ou appareils mentionnés aux articles précédents sous réserve
+de l'avis favorable du médecin du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+#### CHAPITRE VI : Mesures particulières de protection des salariés dans les établissements qui mettent en oeuvre des courants électriques
+
+##### Section 3 : Protection des salariés contre les risques de contact avec des conducteurs actifs ou des pièces conductrices habituellement sous tension (contact direct)
+
+##### Lignes de contact.
+
+###### Article R236-21
+
+Le raccordement des parties mobiles de matériels électriques tels que chariots de ponts roulants ou ponts roulants eux-mêmes
+doit être réalisé :
+
+- soit à l'aide de canalisations électriques souples en respectant les dispositions du II de l'article R. 236-19 et du III de
+l'article R. 236-20 ;
+
+- soit par des lignes de contact fixes protégées contre les contacts directs conformément aux dispositions de l'article R.
+236-18.
+
+Toutefois, les lignes de contact des ponts roulants, pour lesquelles il est impossible de satisfaire aux dispositions ci-
+dessus en raison du rayonnement calorifique des matières ou produits manutentionnés, peuvent être réalisées en conducteurs
+nus sous réserve :
+
+1° Que la tension de service de la ligne de contact ne dépasse pas la limite supérieure du domaine BTB ;
+
+2° Que les prescriptions de l'article R. 236-16 soient respectées pour le personnel chargé de leur manoeuvre, aussi bien aux
+postes de travail que sur les chemins normaux d'accès à ces postes ;
+
+3° Que les dispositions des articles R. 236-22 et R. 236-48 soient respectées pour le personnel d'entretien.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 V : conditions d'application.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R236-16 (V)
+	  - Code du travail applicable à Mayotte. - art. R236-18 (V)
+	  - Code du travail applicable à Mayotte. - art. R236-19 (V)
+	  - Code du travail applicable à Mayotte. - art. R236-20 (V)
+	  - Code du travail applicable à Mayotte. - art. R236-22 (V)
+	  - Code du travail applicable à Mayotte. - art. R236-48 (V)
+
+
+#### CHAPITRE VIII : Autres mesures particulières relatives à la protection des salariés
+
+##### Section 7 : Mesures particulières relatives aux marins, aux ports, aux navires et autres bâtiments de mer.
+
+###### Article R238-7-1
+
+Les dispositions relatives à la sécurité et à l'hygiène du travail à bord des navires de commerce, de pêche maritime, de
+cultures marines et de plaisance sont prévues par les règlements pris en application de la loi n° 83-581 du 5 juillet 1983
+sur la sauvegarde de la vie humaine en mer, l'habitabilité à bord des navires et la prévention de la pollution rendus
+applicables à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°83-581 du 5 juillet 1983 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R238-7-2
+
+Les dispositions du présent titre sont applicables aux entreprises de manutention portuaire, de construction et de réparation
+navales et d'armement maritime, à l'exception de leur personnel embarqué.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R238-7-3
+
+Les dispositions de la section I du chapitre Ier, à l'exception de celles de l'article R. 231-30 et de la section III du
+chapitre Ier, ainsi que celles des sections II, III, IV et VI du chapitre VIII du présent titre sont applicables aux navires
+immatriculés à Mayotte et à l'ensemble des navires à quai ainsi qu'à leur personnel embarqué, y compris les marins.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R231-30 (V)
+
+
+###### Article R238-7-4
+
+Les services chargés de la lutte contre l'incendie dans les ports prennent, de concert avec les capitaines des navires et
+autres bâtiments de mer amarrés à quai, les mesures nécessaires pour que tout commencement d'incendie puisse être rapidement
+et efficacement combattu dans l'intérêt du sauvetage du personnel et la protection des installations portuaires.
+
+Afin d'éviter la propagation des incendies, les mesures prévues à l'alinéa précédent sont prises dès l'amarrage du navire à
+quai. Lorsque celui-ci transporte des matières inflammables ou explosives, les mesures précitées sont prises au terme d'une
+visite du bord organisée par les services de lutte contre l'incendie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+#### CHAPITRE IX : Dispositions applicables aux opérations de construction dans l'intérêt de l'hygiène et de la sécurité du travail
+
+##### Section 1 : Dispositions générales.
+
+###### Article R239-1
+
+Les dispositions du présent chapitre fixent, en application de l'article L. 230-16, les règles auxquelles sont tenus de se
+conformer les maîtres d'ouvrage entreprenant la construction ou l'aménagement de bâtiments destinés à l'exercice des
+activités mentionnées à l'article L. 230-1, que ces opérations nécessitent ou non l'obtention d'un permis de construire.
+
+**Nota:**
+
+Nota : Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux
+bâtiments et locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à
+compter de cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L230-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L230-16 (M)
+
+
+##### Section 2 : Règles d'hygiène
+
+##### Sous-section 1 : Eclairage.
+
+###### Article R239-2
+
+Les bâtiments doivent être conçus et disposés de manière que la lumière naturelle puisse être utilisée pour l'éclairage des
+locaux destinés à être affectés au travail, sauf dans les cas où la nature technique des activités s'y oppose.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R239-3
+
+Les locaux destinés à être affectés au travail doivent comporter à hauteur des yeux des baies transparentes donnant sur
+l'extérieur, sauf en cas d'incompatibilité avec la nature des activités envisagées.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R239-4
+
+Le maître d'ouvrage doit, dans les limites de sa responsabilité, concevoir et réaliser les bâtiments et leurs aménagements de
+façon qu'ils satisfassent aux dispositions des articles R. 232-42 à R. 232-50 alinéa premier.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-42 (V)
+
+
+###### Article R239-5
+
+Le maître d'ouvrage consigne dans un document qu'il transmet au chef d'établissement utilisateur les niveaux minimum
+d'éclairement, pendant les périodes de travail, des locaux, dégagements et emplacements, ainsi que les éléments d'information
+nécessaires à la détermination des règles d'entretien du matériel, en application du deuxième alinéa de l'article R. 232-50.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-50 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R239-53 (V)
+
+
+##### Sous-section 2 : Aération, assainissement.
+
+###### Article R239-6
+
+Le maître d'ouvrage doit, dans la limite de sa responsabilité, concevoir et réaliser les bâtiments et leurs aménagements de
+façon que les locaux fermés où le personnel est appelé à séjourner satisfassent aux dispositions des articles R. 232-27 à R.
+232-35.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-27 (V)
+
+
+###### Article R239-7
+
+Les installations de ventilation doivent assurer le renouvellement de l'air en tous points des locaux. Ces installations ne
+doivent pas provoquer, dans les zones de travail, de gêne résultant notamment de la vitesse, de la température et de
+l'humidité de l'air, des bruits et des vibrations ; en particulier ces installations ne doivent pas entraîner d'augmentation
+significative des niveaux sonores résultant des activités envisagées dans les locaux.
+
+Toutes dispositions doivent être prises lors de l'installation des équipements de ventilation, de captage ou de recyclage
+pour permettre leur entretien régulier et les contrôles ultérieurs d'efficacité.
+
+Les parois internes des circuits d'arrivée d'air ne doivent pas comporter de matériaux qui peuvent se désagréger ou se
+décomposer en émettant des poussières ou des substances dangereuses pour la santé des salariés.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R239-8
+
+Dans les locaux à pollution non spécifique définis à l'article R. 232-28, le maître d'ouvrage doit : 
+
+1° Prévoir un système de filtration de l'air neuf lorsqu'il existe un risque de pollution de cet air par des particules
+solides et que son introduction est mécanique ; 
+
+2° Prendre les mesures nécessaires pour que ne pénètre pas l'air pollué en provenance des locaux à pollution spécifique
+définis à l'article R. 232-28 précité.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-28 (V)
+
+
+###### Article R239-9
+
+Le maître d'ouvrage doit prévoir dans les locaux sanitaires un débit d'air au moins égal à celui fixé dans le tableau ci-
+dessous :
+
+<table>
+  <tbody><tr>
+    <td> :---------------------------------------------------------------:</td>
+  </tr>
+  <tr>
+    <td> :                                       :  DEBIT MINIMAL D'AIR  :</td>
+  </tr>
+  <tr>
+    <td> :      DESIGNATION DES LOCAUX           : introduit (en mètres  :</td>
+  </tr>
+  <tr>
+    <td> :                                       :  cubes par heure et   :</td>
+  </tr>
+  <tr>
+    <td> :                                       :  par local)           :</td>
+  </tr>
+  <tr>
+    <td> :---------------------------------------:-----------------------:</td>
+  </tr>
+  <tr>
+    <td> : Cabinet d'aisances isolé (++)         :          30           :</td>
+  </tr>
+  <tr>
+    <td> : Salle de bains ou de douches isolée   :          45           :</td>
+  </tr>
+  <tr>
+    <td> : Salle de bains ou de douches commune  :                       :</td>
+  </tr>
+  <tr>
+    <td> :  avec un cabinet d'aisances           :          60           :</td>
+  </tr>
+  <tr>
+    <td> : Bains, douches et cabinets d'aisances : 30 + 15 par équipement:</td>
+  </tr>
+  <tr>
+    <td> : groupés                               :  dans le local        :</td>
+  </tr>
+  <tr>
+    <td> : Lavabos groupés                       : 10 + 5 par équipement :</td>
+  </tr>
+  <tr>
+    <td> :                                       :  dans le local        :</td>
+  </tr>
+  <tr>
+    <td> :---------------------------------------:-----------------------:</td>
+  </tr>
+</tbody></table>
+
+Pour un cabinet d'aisances, une salle de bains ou de douches avec ou sans cabinet d'aisances, le débit minimal d'air
+introduit peut être limité à 15 mètres cubes par heure si ce local n'est pas à usage collectif.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R239-10
+
+Le maître d'ouvrage précise, dans une notice d'instructions qu'il transmet au chef d'établissement, les dispositions prises
+pour la ventilation et l'assainissement des locaux, et les informations permettant au chef d'établissement d'entretenir les
+installations, d'en contrôler l'efficacité et d'établir la consigne d'utilisation prescrite aux deuxième et troisième alinéas
+de l'article R. 232-36.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-36 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R239-53 (V)
+
+
+##### Sous-section 3 : Température des locaux.
+
+###### Article R239-11
+
+Les équipements et caractéristiques des locaux de travail doivent permettre d'adapter la température à l'organisme humain
+pendant le temps de travail, compte tenu des méthodes de travail et des contraintes physiques supportées par les salariés,
+sans préjudice des dispositions législatives ou réglementaires relatives aux caractéristiques thermiques des bâtiments autres
+que d'habitation applicables à Mayotte.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R239-12
+
+Les équipements et caractéristiques des locaux annexes, et notamment des locaux sanitaires, des locaux de restauration et des
+locaux médicaux, doivent permettre d'adapter la température à la destination spécifique de ces locaux, sans préjudice des
+dispositions législatives ou réglementaires relatives aux caractéristiques thermiques des bâtiments autres que d'habitation
+applicables à Mayotte.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+##### Sous-section 4 : Insonorisation.
+
+###### Article R239-13
+
+Les locaux où doivent être installés des machines ou appareils susceptibles d'exposer les salariés à un niveau d'exposition
+sonore quotidienne supérieure à 85 dB (A) doivent être conçus, construits ou aménagés, compte tenu de l'état des techniques,
+de façon à réduire la réverbération du bruit sur les parois de ces locaux lorsque la réverbération doit occasionner une
+augmentation notable du niveau d'exposition des salariés et à limiter la propagation du bruit vers les autres locaux occupés
+par des salariés.
+
+Un arrêté des ministres chargés du travail et de la construction fixe les prescriptions techniques nécessaires à
+l'application du présent article.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+##### Sous-section 5 : Installations sanitaires, restauration.
+
+###### Article R239-14
+
+Les bâtiments doivent satisfaire aux exigences des articles R. 232-16 à R. 232-21 en ce qui concerne les installations
+sanitaires et à celles des articles R. 232-62 à R. 232-64 pour les locaux de restauration et de repos. 
+
+Toutefois, les dispositions de l'article R. 232-97 s'appliquent à la construction et à l'aménagement des bâtiments.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-16 (V)
+	  - Code du travail applicable à Mayotte. - art. R232-62 (V)
+	  - Code du travail applicable à Mayotte. - art. R232-97 (V)
+
+
+###### Article R239-15
+
+Lorsque, en application de l'article R. 232-21, il doit être réalisé dix cabinets d'aisances, l'un d'entre eux ainsi qu'un
+lavabo placé à proximité doivent être aménagés de manière à en permettre l'accès et l'usage autonome par des personnes
+handicapées circulant en fauteuil roulant. 
+
+Lorsque le nombre des cabinets d'aisances est inférieur à dix, l'un d'entre eux et un lavabo sont conçus de telle sorte que,
+dans le cas prévu à l'article R. 232-22, des travaux simples suffisent à réaliser les aménagements prévus à l'alinéa
+précédent.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-21 (V)
+	  - Code du travail applicable à Mayotte. - art. R232-22 (V)
+
+
+##### Section 3 : Règles de sécurité.
+
+###### Article R239-16
+
+Les lieux de travail régis par les dispositions de la présente section sont ceux définis à l'article R. 232-1.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-1 (V)
+
+
+###### Article R239-17
+
+Les bâtiments destinés à abriter des lieux de travail doivent être conçus et réalisés de manière à pouvoir résister, dans
+leur ensemble et dans chacun de leurs éléments, à l'effet combiné de leur poids, des charges climatiques extrêmes et des
+surcharges maximales correspondant à leur type d'utilisation. Ils doivent respecter les règles antisismiques prévues, le cas
+échéant, par la réglementation en vigueur.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R239-18
+
+Les bâtiments et leurs équipements doivent être conçus et réalisés de façon telle que les surfaces vitrées en élévation ou en
+toiture puissent être nettoyées sans danger pour des salariés effectuant ce travail et pour ceux présents dans le bâtiment et
+autour de celui-ci, en choisissant, chaque fois que possible, des solutions de protection collective.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R239-53 (V)
+
+
+###### Article R239-19
+
+Les planchers des locaux doivent être exempts de bosses, de trous ou de plans inclinés dangereux ; ils doivent être fixes,
+stables et non glissants.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R239-20
+
+Les surfaces des planchers, des murs et des plafonds des locaux doivent pouvoir être nettoyées ou ravalées en vue d'obtenir
+des conditions d'hygiène appropriées.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R239-21
+
+Le maître d'ouvrage doit, dans les limites de sa responsabilité, concevoir et réaliser les bâtiments et les installations
+électriques des lieux de travail de telle façon qu'ils soient conformes aux dispositions fixées par la réglementation en
+vigueur sur la sécurité des salariés dans les établissements mettant en oeuvre des courants électriques, prévue par le
+chapitre VI du présent titre.
+
+Un arrêté des ministres chargés du travail et de la construction précise les dispositions à prendre pour la prise de terre
+des masses lors de la construction de nouveaux bâtiments ou de l'extension de bâtiments.
+
+Le maître d'ouvrage précise dans un dossier technique, qu'il transmet au chef d'établissement, la description et les
+caractéristiques des installations électriques réalisées, ainsi que tous les éléments permettant à la personne ou à
+l'organisme choisi par le chef d'établissement pour procéder à la vérification initiale des installations électriques de
+donner un avis sur la conformité de celles-ci aux dispositions réglementaires applicables.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R239-53 (V)
+
+
+###### Article R239-22
+
+Les ouvrants en élévation ou en toiture ne doivent pas, en position d'ouverture, constituer un danger pour les salariés.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R239-23
+
+Les parois transparentes ou translucides doivent être signalées par un marquage à hauteur de vue. Elles doivent être
+constituées de matériaux de sécurité ou être disposées de façon telle que les salariés ne puissent être blessés si ces parois
+volent en éclats.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R239-24
+
+Les portes et portails doivent avoir les caractéristiques définies à l'article R. 232-3.
+
+Leurs dimensions et leurs caractéristiques sont déterminées en fonction de la nature et de l'usage des pièces ou enceintes
+qu'ils desservent, en tenant compte des règles définies à la section IV ci-après relative à la prévention des incendies et à
+l'évacuation.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-3 (V)
+
+
+###### Article R239-25
+
+Les portes et portails automatiques doivent comporter un système de sécurité interrompant immédiatement tout mouvement
+d'ouverture ou de fermeture lorsque ce mouvement peut causer un dommage à une personne. Ils doivent pouvoir également être
+ouverts manuellement, sauf s'ils s'ouvrent automatiquement en cas de panne d'énergie.
+
+Un arrêté des ministres chargés du travail et de la construction précise, en tant que de besoin, les règles de sécurité
+auxquelles doivent être conformes les portes et portails automatiques.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R239-26
+
+L'implantation et les dimensions des voies de circulation, y compris les escaliers, les échelles fixes et les quais et rampes
+de chargement doivent être déterminées en tenant compte des règles définies à la section IV ci-après relative à la prévention
+des incendies et l'évacuation de telle façon que les piétons ou les véhicules puissent les utiliser facilement, en toute
+sécurité, conformément à leur affectation et que les salariés employés à proximité de ces voies de circulation n'encourent
+aucun danger.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R239-35 (V)
+
+
+###### Article R239-27
+
+Les portes et les dégagements destinés aux piétons doivent être situés, par rapport aux voies de circulation destinées aux
+véhicules, à une distance telle qu'elle garantisse aux piétons une circulation sans danger.
+
+Dès que l'importance de la circulation des véhicules ou le danger lié à l'utilisation et à l'équipement des locaux le
+justifie, le marquage au sol des voies de circulation doit être mis en évidence ; à proximité des portails destinés
+essentiellement à la circulation des véhicules, des portes pour les piétons doivent être aménagées, signalées de manière bien
+visible et dégagées en permanence.
+
+Le marquage des voies de circulation doit être conforme à la réglementation en vigueur relative à la signalisation dans les
+lieux de travail.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R239-28
+
+Lorsque la nature des activités envisagées est susceptible d'entraîner sur les lieux de travail des zones de danger qui n'ont
+pu être évitées, ces zones doivent être signalées et matérialisées comme il est dit à l'article R. 232-4.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-4 (V)
+
+
+###### Article R239-29
+
+Les escaliers, les trottoirs roulants, les ascenseurs et les monte-charge doivent fonctionner de manière sûre. Ils doivent
+être installés de façon à permettre l'entretien et la maintenance sans danger et dans de bonnes conditions.
+
+Les escaliers et les trottoirs roulants doivent comporter des dispositifs d'arrêt d'urgence identifiables et accessibles sans
+ambiguïté. Les prescriptions techniques relatives à l'installation de ces équipements sont fixées, en tant que de besoin, par
+un arrêté des ministres chargés du travail et de la construction.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R239-30
+
+Les dimensions des charges susceptibles d'être transportées doivent être prises en compte pour la conception et la
+disposition des quais et rampes de chargement.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R239-31
+
+Les quais de chargement doivent avoir au moins une issue et, lorsque leur longueur est supérieure à 20 mètres, une issue à
+chaque extrémité.
+
+La disposition et l'aménagement des rampes et quais de chargement doivent éviter aux salariés les risques de chute.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R239-32
+
+Les dimensions des locaux de travail, notamment leur hauteur et leur surface, doivent permettre aux salariés d'exécuter leur
+tâche sans risque pour leur sécurité, leur santé ou leur bien-être.
+
+L'espace libre au poste de travail, compte tenu du mobilier, doit être prévu pour que le personnel dispose d'une liberté de
+mouvement suffisante.
+
+Lorsque, pour des raisons propres au poste de travail, ceci ne peut être respecté, il doit être prévu un espace libre
+suffisant à proximité de ce poste.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R239-33
+
+Lorsque l'effectif prévu des salariés est au moins égal à deux cents dans les établissements industriels ou à cinq cents dans
+les autres établissements, un local destiné aux premiers secours, facilement accessible avec des brancards et pouvant
+contenir les installations et le matériel de premiers secours, doit être prévu. 
+
+Les locaux médicaux peuvent être utilisés comme locaux de premiers secours sous réserve de remplir les conditions prévues à
+l'alinéa précédent. 
+
+Le local de premiers secours doit comporter la signalisation conforme aux dispositions de l'article R. 239-37.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-8-8 (V)
+
+
+###### Article R239-34
+
+Les lieux de travail doivent être aménagés en tenant compte de la présence de salariés handicapés selon les principes
+suivants :
+
+1° Lorsqu'un bâtiment est prévu pour recevoir un effectif compris entre vingt et deux cents personnes, au moins un niveau
+doit être aménagé pour permettre de recevoir des salariés handicapés ;
+
+2° Lorsqu'un bâtiment est prévu pour recevoir un effectif supérieur à deux cents personnes, tous les locaux d'usage général
+et susceptibles d'accueillir des personnes handicapées doivent être aménagés pour permettre de recevoir des salariés
+handicapés.
+
+Les dispositions adoptées pour les accès, portes, dégagements et ascenseurs desservant les postes de travail et les locaux
+annexes tels que locaux sanitaires, locaux de restauration, parcs de stationnement doivent permettre l'accès et l'évacuation
+des personnes handicapées, notamment celles circulant en fauteuil roulant.
+
+L'aménagement des postes de travail doit être réalisé, ou rendu ultérieurement possible.
+
+Des dispenses aux dispositions du présent article pourront être accordées par le directeur du travail, de l'emploi et de la
+formation professionnelle ou le fonctionnaire assimilé.
+
+Les modalités d'application des dispositions du présent article sont définies par arrêté des ministres chargés du travail et
+de la construction.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R239-35
+
+Les postes de travail, voies de circulation et autres emplacements ou installations à l'air libre destinés à être occupés ou
+utilisés par des salariés lors de leurs activités doivent être conçus de telle façon que la circulation des piétons et des
+véhicules puisse se faire de manière sûre. 
+
+Les articles R. 239-26 et R. 239-27 s'appliquent également aux voies de circulation principales sur le terrain de
+l'entreprise, aux voies de circulation utilisées pour la surveillance et l'entretien régulier des installations de
+l'entreprise ainsi qu'aux quais de chargement extérieurs.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R239-26 (V)
+
+
+###### Article R239-36
+
+Si des postes de travail extérieurs sont prévus, ceux-ci doivent être conçus et aménagés suivant les prescriptions de
+l'article R. 232-11.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-11 (V)
+
+
+###### Article R239-37
+
+La signalisation de sécurité et de santé installée sur les lieux de travail est conforme aux dispositions de l'article R.
+232-14.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-14 (V)
+
+
+##### Section 4 : Prévention des incendies, évacuation
+
+##### Sous-section 1 : Dispositions générales.
+
+###### Article R239-38
+
+Les dispositions de la présente section s'appliquent aux établissements mentionnés à l'article R. 232-72. 
+
+Les bâtiments et les locaux régis par la présente section doivent être conçus et réalisés de manière à permettre en cas de
+sinistre : 
+
+a) L'évacuation rapide de la totalité des occupants dans des conditions de sécurité maximale ; 
+
+b) L'accès de l'extérieur et l'intervention des services de secours et de lutte contre l'incendie ; 
+
+c) La limitation de la propagation de l'incendie à l'intérieur et à l'extérieur des bâtiments. 
+
+Ces bâtiments et locaux doivent être isolés de ceux occupés par des tiers dans les conditions fixées par la réglementation
+visant ces derniers. 
+
+Les effectifs à prendre en compte sont définis conformément aux dispositions de l'article R. 232-73.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-72 (V)
+	  - Code du travail applicable à Mayotte. - art. R232-73 (V)
+
+
+##### Sous-section 2 : Dégagements.
+
+###### Article R239-39
+
+Les établissements visés par la présente section doivent satisfaire aux articles R. 232-74, R. 232-76, R. 232-77 et R.
+232-79. 
+
+Toutefois, pour l'application des dispositions du deuxième alinéa de l'article R. 232-77, la largeur à prendre en compte est
+au moins égale à deux unités de passage, au sens de l'article R. 239-40.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-74 (V)
+	  - Code du travail applicable à Mayotte. - art. R232-76 (V)
+	  - Code du travail applicable à Mayotte. - art. R232-79 (V)
+	  - Code du travail applicable à Mayotte. - art. R239-40 (V)
+
+
+###### Article R239-40
+
+Chaque dégagement doit avoir une largeur minimale de passage proportionnée au nombre total de personnes appelées à
+l'emprunter. Cette largeur est calculée en fonction d'une largeur type appelée unité de passage de 0,60 mètre.
+
+Toutefois, quand un dégagement ne comporte qu'une ou deux unités de passage, la largeur est respectivement portée de 0,60
+mètre à 0,90 mètre et de 1,20 mètre à 1,40 mètre.
+
+Aucune saillie ou dépôt ne doit réduire la largeur réglementaire des dégagements ; toutefois, les aménagements fixes sont
+admis jusqu'à une hauteur maximale de 1,10 mètre à condition qu'ils ne fassent pas saillie de plus de 0,10 mètre.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R239-39 (V)
+
+
+###### Article R239-41
+
+Tous les locaux où les salariés ont normalement accès doivent être desservis par des dégagements dont le nombre et la largeur
+exigibles sont précisés dans le tableau suivant :
+
+<table>
+  <tbody><tr>
+    <td> :---------------------------------------------------------------:</td>
+  </tr>
+  <tr>
+    <td> :       EFFECTIF           :       NOMBRE        : NOMBRE TOTAL :</td>
+  </tr>
+  <tr>
+    <td> :                          :   de dégagements    :   d'unités   :</td>
+  </tr>
+  <tr>
+    <td> :                          :   réglementaires    :  de passage  :</td>
+  </tr>
+  <tr>
+    <td> :--------------------------:---------------------:--------------:</td>
+  </tr>
+  <tr>
+    <td> : Moins de 20 personnes    :          1          :      1       :</td>
+  </tr>
+  <tr>
+    <td> :--------------------------:---------------------:--------------:</td>
+  </tr>
+  <tr>
+    <td> : De 20 à 50 personnes     :   1 + 1 dégagement  :      1       :</td>
+  </tr>
+  <tr>
+    <td> :                          :    accessoire (a)   :      2       :</td>
+  </tr>
+  <tr>
+    <td> :                          :       ou 1 (b)      :              :</td>
+  </tr>
+  <tr>
+    <td> :--------------------------:---------------------:--------------:</td>
+  </tr>
+  <tr>
+    <td> : De 51 à 100 personnes    :          2          :      2       :</td>
+  </tr>
+  <tr>
+    <td> :                          :   1 + 1 dégagement  :      2       :</td>
+  </tr>
+  <tr>
+    <td> :                          :    accessoire (a)   :              :</td>
+  </tr>
+  <tr>
+    <td> :--------------------------:---------------------:--------------:</td>
+  </tr>
+  <tr>
+    <td> : De 101 à 200 personnes   :          2          :      3       :</td>
+  </tr>
+  <tr>
+    <td> :--------------------------:---------------------:--------------:</td>
+  </tr>
+  <tr>
+    <td> : De 201 à 300 personnes   :          2          :      4       :</td>
+  </tr>
+  <tr>
+    <td> :--------------------------:---------------------:--------------:</td>
+  </tr>
+  <tr>
+    <td> : De 301 à 400 personnes   :          2          :      5       :</td>
+  </tr>
+  <tr>
+    <td> :--------------------------:---------------------:--------------:</td>
+  </tr>
+  <tr>
+    <td> : De 401 à 500 personnes   :          2          :      6       :</td>
+  </tr>
+  <tr>
+    <td> :--------------------------:---------------------:--------------:</td>
+  </tr>
+</tbody></table>
+
+Au-dessus des 500 premières personnes : - le nombre des dégagements est augmenté d'une unité par 500 ou fraction de 500
+personnes ; - la largeur cumulée des dégagements est calculée à raison d'une unité de passage pour 100 personnes ou fraction
+de 100 personnes. Dans le cas de rénovation ou d'aménagement d'un établissement dans un immeuble existant, la largeur de 0,90
+m peut être ramenée à 0,80 m.
+
+(a)  Un dégagement accessoire peut être constitué par une sortie, un escalier, une coursive, une passerelle, un passage
+souterrain ou un chemin de circulation, rapide et sûr, d'une largeur minimale de 0,60 m, ou encore par un balcon filant, une
+terrasse, une échelle fixe.
+
+(b) Cette solution est acceptée si le parcours pour gagner l'extérieur n'est pas supérieur à 25 mètres et si les locaux
+desservis ne sont pas en sous-sol.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R239-42
+
+Pour les locaux situés en sous-sol et dont l'effectif est supérieur à cent personnes, les dégagements sont déterminés en
+prenant pour base l'effectif ainsi calculé :
+
+a) L'effectif des personnes est arrondi à la centaine supérieure ;
+
+b) Il est majoré de 10 % par mètre ou fraction de mètre au-delà de deux mètres de profondeur.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R239-43
+
+Seuls les locaux où la nature technique des activités le justifie peuvent être situés à plus de 6 mètres en dessous du niveau
+moyen des seuils d'évacuation.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R239-44
+
+La distance maximale à parcourir pour gagner un escalier en étage ou en sous-sol ne doit jamais être supérieure à 40 mètres.
+
+Le débouché au niveau du rez-de-chaussée d'un escalier doit s'effectuer à moins de 20 mètres d'une sortie sur l'extérieur.
+
+Les itinéraires de dégagements ne doivent pas comporter de cul-de-sac supérieur à 10 mètres.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R239-45
+
+Les marches ne doivent pas être glissantes. S'il n'y a pas de contremarche, les marches successives doivent se recouvrir de
+0,05 mètre.
+
+Il est interdit de placer une ou deux marches isolées dans les circulations principales.
+
+Les dimensions des marches des escaliers doivent être conformes aux règles de l'art. Les volées ne doivent pas compter plus
+de 25 marches. Les paliers doivent avoir une largeur égale à celle des escaliers et, en cas de volées non contrariées, leur
+longueur doit être supérieure à 1 mètre.
+
+Les escaliers tournants doivent être à balancement continu sans autre palier que ceux desservant les étages. Les dimensions
+des marches sur la ligne de foulée à 0,60 mètre du noyau ou du vide central doivent être conformes aux règles de l'art. Le
+giron extérieur des marches doit être inférieur à 0,42 mètre.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+##### Sous-section 3 : Désenfumage.
+
+###### Article R239-46
+
+Les locaux situés en rez-de-chaussée et en étage de plus de 300 mètres carrés, les locaux aveugles et ceux situés en sous-sol
+de plus de 100 mètres carrés et tous les escaliers doivent comporter un dispositif de désenfumage naturel ou mécanique.
+
+Les dispositifs de désenfumage naturel sont constitués en partie haute et en partie basse d'une ou plusieurs ouvertures
+communiquant avec l'extérieur, ceci pour l'évacuation des fumées et l'amenée d'air.
+
+La surface totale des sections d'évacuation des fumées doit être supérieure au centième de la superficie du local desservi
+avec un minimum de 1 mètre carré ; il en est de même pour celle des amenées d'air.
+
+Chaque dispositif d'ouverture doit être aisément manoeuvrable à partir du plancher.
+
+Dans le cas de désenfumage mécanique, le débit d'extraction doit être calculé sur la base d'un mètre cube par seconde par 100
+mètres carrés.
+
+Les modalités d'application des dispositions de la présente sous-section sont définies par arrêté des ministres chargés du
+travail et de la construction.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+##### Sous-section 4 : Locaux où sont entreposées ou manipulées des matières inflammables.
+
+###### Article R239-47
+
+Les bâtiments doivent être conçus et réalisés de manière à respecter les dispositions de l'article R. 232-80, du troisième
+alinéa de l'article R. 232-81, des premier et deuxième alinéas de l'article R. 232-82 et de l'article R. 232-83.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-80 (V)
+	  - Code du travail applicable à Mayotte. - art. R232-81 (V)
+	  - Code du travail applicable à Mayotte. - art. R232-82 (V)
+	  - Code du travail applicable à Mayotte. - art. R232-83 (V)
+
+
+##### Sous-section 5 : Bâtiments dont le plancher bas du dernier niveau est situé à plus de 8 mètres du sol.
+
+###### Article R239-48
+
+Les bâtiments dont le plancher bas du dernier niveau est situé à plus de 8 mètres du sol extérieur doivent satisfaire aux
+dispositions complémentaires des articles suivants prenant en compte l'augmentation des risques en cas de sinistre.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R239-49
+
+Les bâtiments définis à l'article précédent doivent avoir une structure d'une stabilité au feu de degré de 1 heure et des
+planchers coupe-feu de même degré.
+
+Ils doivent être accessibles au moins sur une façade aux services d'incendie et de secours.
+
+Ils doivent être isolés de tout bâtiment ou local occupé par des tiers au minimum par des parois coupe-feu de degré 1 heure
+ou par des sas comportant des portes pare-flammes de degré demi-heure munies de ferme-porte et s'ouvrant vers l'intérieur du
+sas.
+
+Leurs escaliers et leurs ascenseurs doivent être :
+
+a) Soit encloisonnés dans des cages coupe-feu de degré 1 heure comportant des portes pare-flammes de degré demi-heure et pour
+les escaliers, un dispositif de désenfumage en partie supérieure ;
+
+b) Soit à l'air libre.
+
+La distribution intérieure de ces bâtiments doit permettre, notamment par des recoupements ou des compartimentages, de
+limiter la propagation du feu et des fumées.
+
+L'aménagement intérieur des locaux, notamment les revêtements des murs, des sols et des plafonds, les tentures et les rideaux
+doivent répondre à des caractéristiques relatives à leur réaction au feu pour éviter un développement rapide d'un incendie
+pouvant compromettre l'évacuation.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R239-50
+
+Les prescriptions de l'article précédent s'appliquent compte tenu de la classification des matériaux et des éléments de
+construction en fonction de leur comportement au feu.
+
+Les modalités d'application des dispositions de la présente sous-section sont définies par arrêté des ministres chargés du
+travail et de la construction.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-13 (V)
+
+
+##### Sous-section 6 : Moyens de prévention et de lutte contre l'incendie.
+
+###### Article R239-51
+
+Les dispositions relatives à la construction ou à l'aménagement des bâtiments des articles R. 232-84 à R. 232-89 sont
+applicables.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-84 (V)
+
+
+##### Sous-section 7 : Mesures d'application.
+
+###### Article R239-52
+
+Il peut être accordé dispense d'une partie de l'application des prescriptions de la présente section, notamment dans le cas
+de réaménagement de locaux ou de bâtiments existants, sur proposition de mesures compensatoires assurant un niveau de
+sécurité jugé équivalent.
+
+La dispense est accordée par le directeur du travail, de l'emploi et de la formation professionnelle ou le fonctionnaire de
+contrôle assimilé, après enquête de l'agent de contrôle de l'inspection du travail, après avis, des délégués du personnel.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+##### Section 5 : Dossier de maintenance des lieux de travail.
+
+###### Article R239-53
+
+Les maîtres d'ouvrage doivent élaborer et transmettre aux utilisateurs, au moment de la prise de possession des locaux et au
+plus tard dans le mois qui suit, un dossier d'entretien des lieux de travail. 
+
+Doivent notamment figurer dans ce dossier, outre les documents, notices et dossiers techniques prévus aux articles R. 239-5,
+R. 239-10 et R. 239-21, les dispositions prises : 
+
+a) Pour le nettoyage des surfaces vitrées en élévation et en toiture en application de l'article R. 239-18 ; 
+
+b) Pour l'accès en couverture et notamment :
+
+- les moyens d'arrimage pour les interventions de courte durée ;
+
+- les possibilités de mise en place rapide de garde-corps ou de filets de protection pour les interventions plus
+importantes ;
+
+- les chemins de circulation permanents pour les interventions fréquentes ; 
+
+c) Pour faciliter l'entretien des façades et, notamment, les moyens d'arrimage et de stabilité d'échafaudage ou de nacelle ; 
+
+d) Pour faciliter les travaux d'entretien intérieur et notamment pour ;
+
+- le ravalement des halls de grande hauteur ;
+
+- les accès aux machineries d'ascenseurs ;
+
+- les accès aux canalisations en galerie technique ou en vide sanitaire. 
+
+Ce dossier indique, lorsqu'ils ont été aménagés à cet effet, les locaux techniques de nettoyage et les locaux sanitaires
+pouvant être mis à disposition du personnel chargé des travaux d'entretien. 
+
+Ce dossier est tenu à la disposition de l'agent de contrôle de l'inspection du travail.
+
+**Nota:**
+
+Décret 2004-196 2004-02-25 art. 2 VII : les présentes dispositions sont applicables à compter du 2 mars 2005 aux bâtiments et
+locaux de travail dont la construction ou la reconstruction, l'aménagement ou le réaménagement sont entrepris à compter de
+cette date, que ces opérations nécessitent ou non un permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-12 (V)
+	  - Code du travail applicable à Mayotte. - art. R232-36 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R239-10 (V)
+	  - Code du travail applicable à Mayotte. - art. R239-18 (V)
+	  - Code du travail applicable à Mayotte. - art. R239-21 (V)
+	  - Code du travail applicable à Mayotte. - art. R239-5 (V)
 
 
 ### TITRE V : Pénalités
