@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 1994-03-01
+Version Consolidée au 1994-07-27
 
 # Partie législative
 
@@ -32,6 +32,25 @@ Sauf dispositions contraires, il ne s'applique pas aux fonctionnaires ou agents 
 	  - Code du travail applicable à Mayotte. - art. L211-1 (V)
 	  - Code du travail applicable à Mayotte. - art. L327-1 (V)
 	  - Code du travail applicable à Mayotte. - art. L610-11 (V)
+
+
+###### Article L000-2
+
+L'entreprise qui a son siège social ou son établissement principal dans la collectivité territoriale de Mayotte et qui
+effectue une prestation de services dans un département rémunère les salariés qu'elle y envoie selon des dispositions des
+conventions collectives étendues qui s'appliquent dans ce département. A défaut, elle les rémunère au salaire minimum de
+croissance applicable dans ce département.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Loi n°94-638 du 25 juillet 1994 - art. 22 () JORF 27 juillet 1994
 
 
 ## LIVRE Ier : CONVENTIONS RELATIVES AU TRAVAIL
@@ -10692,7 +10711,7 @@ Un décret en Conseil d'Etat détermine les conditions d'application des disposi
 	  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
 
 
-### TITRE II : AIDES À L'EMPLOI INTERVENTION DU FONDS NATIONAL DE L'EMPLOI *FNE*
+### TITRE II : Aides à l'emploi, intervention du Fonds national de l'emploi et de la collectivité territoriale
 
 #### CHAPITRE Ier : Généralités.
 
@@ -10710,9 +10729,9 @@ nouveaux.
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+	  - Loi n°94-638 du 25 juillet 1994 - art. 23 () JORF 27 juillet 1994
 
 	**Cité par**:
 
@@ -10735,9 +10754,9 @@ coopération avec les différents partenaires énumérés au présent article.
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+	  - Loi n°94-638 du 25 juillet 1994 - art. 23 () JORF 27 juillet 1994
 
 	**Cité par**:
 
@@ -10758,9 +10777,9 @@ comité de la formation professionnelle, de la promotion sociale et de l'emploi.
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+	  - Loi n°94-638 du 25 juillet 1994 - art. 23 () JORF 27 juillet 1994
 
 
 ###### Article L321-4
@@ -10778,9 +10797,9 @@ protection sociale des stagiaires.
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+	  - Loi n°94-638 du 25 juillet 1994 - art. 23 () JORF 27 juillet 1994
 
 	**Cité par**:
 
@@ -10810,9 +10829,9 @@ saisis, chaque année [*périodicité*], d'un rapport sur le déroulement des co
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+	  - Loi n°94-638 du 25 juillet 1994 - art. 23 () JORF 27 juillet 1994
 
 	**Cité par**:
 
@@ -10882,9 +10901,9 @@ y ait lieu à dommages et intérêts tels que prévus par l'article L. 122-10.
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+	  - Loi n°94-638 du 25 juillet 1994 - art. 23 () JORF 27 juillet 1994
 
 	**Cité par**:
 
@@ -10906,9 +10925,9 @@ par le nombre d'heures de travail effectuées.
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+	  - Loi n°94-638 du 25 juillet 1994 - art. 23 () JORF 27 juillet 1994
 
 
 ###### Article L322-4
@@ -10932,9 +10951,9 @@ La part de la rémunération prise en charge par l'Etat est calculée sur la bas
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+	  - Loi n°94-638 du 25 juillet 1994 - art. 23 () JORF 27 juillet 1994
 
 	**Cité par**:
 
@@ -10962,9 +10981,9 @@ sociales d'origine légale ou conventionnelle. Elle est également exonérée de
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+	  - Loi n°94-638 du 25 juillet 1994 - art. 23 () JORF 27 juillet 1994
 
 
 ###### Article L322-6
@@ -10980,14 +10999,311 @@ législatives et réglementaires qui se réfèrent à une condition d'effectif m
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+	  - Loi n°94-638 du 25 juillet 1994 - art. 23 () JORF 27 juillet 1994
 
 	**Cité par**:
 
 	  - Code du travail applicable à Mayotte. - art. D322-6 (T)
 	  - Code du travail applicable à Mayotte. - art. R322-4 (VD)
+
+
+#### Chapitre III : Dispositions relatives aux contrats de retour à l'emploi
+
+###### Article L323-1
+
+L'Etat peut passer des conventions avec des employeurs pour favoriser l'insertion professionnelle des personnes sans emploi
+rencontrant des difficultés particulières d'accès à l'emploi, principalement des chômeurs de longue durée, en portant une
+attention privilégiée aux personnes isolées assumant ou ayant assumé des charges de famille.
+
+Les contrats de retour à l'emploi, conclus en vertu de ces conventions, donnent droit :
+
+1° A la prise en charge par l'Etat des frais de formation lorsque le contrat associe l'exercice d'une activité
+professionnelle et le bénéfice d'une formation liée à cette activité et dispensée pendant le temps de travail dans le cadre
+d'un cahier des charges comportant notamment :
+
+- la nature, l'objet, la durée et les effectifs des stages prévus dans les conventions mentionnées au premier alinéa du
+présent article,
+
+- les moyens pédagogiques et techniques mis en oeuvre,
+
+- les facilités accordées, le cas échéant, aux salariés pour poursuivre les stages prévus dans les conventions mentionnées au
+premier alinéa du présent article, notamment les congés, aménagements ou réductions d'horaires dont ils bénéficient en
+application de dispositions législatives, réglementaires ou contractuelles,
+
+- les modalités de contrôle des connaissances et la nature de la sanction de la formation dispensée ;
+
+2° A l'exonération du paiement des cotisations sociales dans les conditions fixées à l'article L. 323-3.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L323-3
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Loi n°94-638 du 25 juillet 1994 - art. 24 () JORF 27 juillet 1994
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R323-1 (Ab)
+	  - Code du travail applicable à Mayotte. - art. R323-4 (Ab)
+	  - Code du travail applicable à Mayotte. - art. R324-1 (M)
+
+
+###### Article L323-2
+
+Les contrats de retour à l'emploi sont des contrats de travail à durée indéterminée ou à durée déterminée, auxquels ne
+s'appliquent pas les restrictions prévues à l'article L. 122-1. Ils doivent avoir une durée d'au moins six mois. La durée du
+contrat à durée déterminée ne peut excéder vingt-quatre mois.
+
+Ils sont passés par écrit et font l'objet d'un dépôt auprès de la direction du travail, de l'emploi et de la formation
+professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-1
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Loi n°94-638 du 25 juillet 1994 - art. 24 () JORF 27 juillet 1994
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D313-1 (V)
+
+
+###### Article L323-3
+
+L'employeur est exonéré du paiement des cotisations à sa charge dues à la caisse de prévoyance sociale à raison de l'emploi
+du salarié bénéficiaire d'un contrat de retour à l'emploi.
+
+L'exonération porte sur les rémunérations dues :
+
+1° Dans une limite de vingt-quatre mois suivant la date d'embauche pour les demandeurs d'emploi depuis plus de trois ans ;
+
+2° Dans la limite d'une période de douze mois suivant la date d'embauche pour les autres bénéficiaires.
+
+L'exonération est subordonnée à la production d'une attestation de la direction du travail, de l'emploi et de la formation
+professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Loi n°94-638 du 25 juillet 1994 - art. 24 () JORF 27 juillet 1994
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L323-1 (Ab)
+	  - Code du travail applicable à Mayotte. - art. R323-6 (Ab)
+
+
+###### Article L323-4
+
+Pendant un an à compter de la date d'embauche, les titulaires des contrats de retour à l'emploi ne sont pas pris en compte
+dans le calcul de l'effectif du personnel des entreprises dont ils relèvent pour l'application à ces entreprises des
+dispositions législatives et réglementaires qui se réfèrent à une condition d'effectif minimum des salariés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Loi n°94-638 du 25 juillet 1994 - art. 24 () JORF 27 juillet 1994
+
+
+#### Chapitre IV : Dispositions relatives au contrat emploi-jeune
+
+###### Article L324-1
+
+La collectivité territoriale peut conclure avec des employeurs établis sur son territoire, à l'exclusion des personnes
+morales de droit public, des conventions ayant pour objet de favoriser l'insertion en entreprise des jeunes rencontrant des
+difficultés d'accès à l'emploi dans le cadre d'un contrat de travail dénommé contrat emploi-jeune.
+
+Le contrat emploi-jeune est ouvert aux jeunes de seize à vingt-cinq ans d'un niveau de formation égal au plus au niveau V. Il
+est accompagné d'un temps de formation au moins égal à deux cents heures et au plus à quatre cents heures assuré soit par
+l'entreprise, soit par un organisme de formation agréé par les services chargés du travail, de l'emploi et de la formation
+professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Loi n°94-638 du 25 juillet 1994 - art. 26 () JORF 27 juillet 1994
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D313-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L324-2 (VD)
+	  - Code du travail applicable à Mayotte. - art. R324-1 (V)
+
+
+###### Article L324-2
+
+Le contrat emploi-jeune est un contrat de travail à durée indéterminée.
+
+Le contrat, assorti du programme de formation, fait l'objet d'un dépôt auprès des services chargés du travail, de l'emploi et
+de la formation professionnelle, dans un délai d'un mois suivant sa date de prise d'effet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Loi n°94-638 du 25 juillet 1994 - art. 26 () JORF 27 juillet 1994
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R324-4 (V)
+	  - Code du travail applicable à Mayotte. - art. R324-5 (V)
+
+
+###### Article L324-3
+
+Les salariés titulaires de ce contrat perçoivent une rémunération déterminée en pourcentage du salaire minimum
+interprofessionnel garanti, dans des conditions fixées par arrêté du représentant du Gouvernement. Le taux varie en fonction
+de l'âge du bénéficiaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Loi n°94-638 du 25 juillet 1994 - art. 26 () JORF 27 juillet 1994
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L324-5 (VD)
+	  - Code du travail applicable à Mayotte. - art. R324-10 (V)
+	  - Code rural - art. L372-4 (M)
+
+
+###### Article L324-4
+
+L'employeur est exonéré du paiement des cotisations à sa charge dues à la caisse de prévoyance sociale, à raison des
+rémunérations versées aux bénéficiaires des contrats emploi-jeunes, dans la limite d'une durée d'un an suivant la date
+d'embauche.
+
+L'exonération des cotisations est compensée par la collectivité territoriale au profit de la caisse de prévoyance sociale.
+L'exonération est subordonnée à la production d'une attestation délivrée par les services chargés du travail, de l'emploi et
+de la formation professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Loi n°94-638 du 25 juillet 1994 - art. 26 () JORF 27 juillet 1994
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D324-16 (V)
+	  - Code du travail applicable à Mayotte. - art. R324-14 (V)
+	  - Code du travail applicable à Mayotte. - art. R324-19 (V)
+	  - Code du travail applicable à Mayotte. - art. R324-22 (V)
+	  - Code du travail applicable à Mayotte. - art. R324-4 (V)
+
+
+###### Article L324-5
+
+Les bénéficiaires des contrats emploi-jeunes ne sont pas pris en compte, pendant une durée d'un an à compter de la date de
+prise d'effet du contrat, dans le calcul de l'effectif du personnel de l'employeur dont ils relèvent pour l'application à cet
+employeur des dispositions législatives et réglementaires qui se réfèrent à une condition d'effectif minimum de salariés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Loi n°94-638 du 25 juillet 1994 - art. 26 () JORF 27 juillet 1994
+
+
+#### Chapitre V : Dispositions relatives à l'aide à la création d'entreprise à l'initiative de demandeurs d'emploi
+
+###### Article L325-1
+
+Ont droit à une aide de l'Etat les demandeurs d'emploi inscrits depuis six mois auprès de la direction du travail, de
+l'emploi et de la formation professionnelle qui créent ou reprennent une entreprise industrielle, commerciale, artisanale ou
+agricole, soit à titre individuel, soit sous la forme d'une société, à condition d'en exercer effectivement le contrôle, ou
+qui entreprennent l'exercice d'une autre profession non salariée.
+
+Le montant de cette aide forfaitaire est fixé par décret. Elle est réputée accordée si un refus explicite n'intervient pas
+dans le mois qui suit la demande.
+
+L'Etat peut participer par convention au financement des actions de conseil ou de formation à la gestion d'entreprise qui
+sont organisées avant la création ou la reprise d'entreprise et pendant trois années après.
+
+Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Loi n°94-638 du 25 juillet 1994 - art. 25 () JORF 27 juillet 1994
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D325-1-1 (Ab)
+	  - Code du travail applicable à Mayotte. - art. L325-4 (V)
+	  - Code du travail applicable à Mayotte. - art. R324-1 (M)
+	  - Code du travail applicable à Mayotte. - art. R325-1 (V)
+	  - Code du travail applicable à Mayotte. - art. R325-2 (V)
+	  - Code du travail applicable à Mayotte. - art. R325-3 (M)
+	  - Code du travail applicable à Mayotte. - art. R325-5 (M)
+	  - Code du travail applicable à Mayotte. - art. R325-6 (M)
+	  - Code du travail applicable à Mayotte. - art. R325-7 (M)
+	  - Code du travail applicable à Mayotte. - art. R325-8 (M)
+	  - Code du travail applicable à Mayotte. - art. R325-9 (M)
 
 
 ### TITRE III : MAIN-D'OEUVRE ÉTRANGÈRE.
@@ -11049,6 +11365,88 @@ Dans la collectivité territoriale de Mayotte, il est interdit à toute personne
 	  - Code du travail applicable à Mayotte. - art. L342-2 (M)
 
 
+###### Article L330-3
+
+Est puni d'une amende l'étranger qui exerce une activité professionnelle salariée sans avoir obtenu au préalable une
+autorisation de travail. Le montant maximum de l'amende est égal à vingt-cinq fois le taux horaire du salaire minimum
+interprofessionnel garanti en vigueur dans la collectivité territoriale.
+
+Sans préjudice des poursuites judiciaires qui peuvent être intentées à son encontre, l'employeur qui engage ou conserve à son
+service un étranger non muni d'une autorisation de travail est également puni d'une amende. Le montant maximum de celle-ci
+est égal à cent fois le taux horaire du salaire minimum interprofessionnel garanti en vigueur dans la collectivité
+territoriale. L'amende est due pour chaque étranger employé sans titre de travail.
+
+Le montant de l'amende due par l'étranger ou l'employeur varie en fonction de la durée de l'emploi.
+
+Les officiers et agents de police judiciaire ainsi que les inspecteurs et contrôleurs du travail sont habilités à constater
+les manquements prévus au présent article au moyen de procès-verbaux transmis directement au représentant du Gouvernement.
+
+Pour effectuer cette constatation, les agents précités disposent des pouvoirs d'investigation accordés par les textes
+particuliers qui leur sont applicables.
+
+Les amendes qui sanctionnent ces manquements sont prononcées par décision motivée du représentant du Gouvernement à Mayotte à
+l'issue d'une procédure contradictoire. Cette décision est susceptible d'un recours de pleine juridiction.
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Loi n°94-638 du 25 juillet 1994 - art. 27 () JORF 27 juillet 1994
+
+	**Cité par**:
+
+	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 30 (VT)
+	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 13 (M)
+	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 15 (M)
+	  - Code du travail applicable à Mayotte. - art. R326-41 (V)
+	  - Code du travail applicable à Mayotte. - art. R330-6 (T)
+	  - Code du travail applicable à Mayotte. - art. R330-7 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. L330-11 (V)
+
+
+###### Article L330-4
+
+Nul ne peut se faire remettre ou tenter de se faire remettre, de manière occasionnelle ou renouvelée, des fonds, des valeurs
+ou des biens mobiliers en vue ou à l'occasion de l'introduction dans la collectivité territoriale d'un travailleur étranger
+ou de son embauchage [*interdiction*].
+
+**Nota:**
+
+[*Nota - Code du travail applicable dans la collectivité territoriale de Mayotte art. L. 342-1 : sanction pénale.*]
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L342-1
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Loi n°94-638 du 25 juillet 1994 - art. 28 () JORF 27 juillet 1994
+
+	**Cité par**:
+
+	  - Ordonnance n°2016-160 du 18 février 2016 - art. 1 (V)
+	  - Loi n°2016-274 du 7 mars 2016 - art. 61
+	  - Code du travail applicable à Mayotte. - art. L342-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L342-2 (M)
+
+
 ### TITRE IV : PÉNALITÉS
 
 #### CHAPITRE Ier : Travail clandestin.
@@ -11065,6 +11463,9 @@ l'infraction ou ont été utilisés à cette occasion.
 
 En outre, le tribunal pourra prononcer la confiscation des objets sur lesquels aura porté le travail clandestin.
 
+Le tribunal pourra prononcer à l'encontre de la personne condamnée l'exclusion des marchés publics pour une durée de cinq ans
+au plus.
+
 En cas de récidive, les peines d'emprisonnement et d'amende peuvent être portées au double.
 
 **Liens relatifs à cet article**
@@ -11078,9 +11479,9 @@ En cas de récidive, les peines d'emprisonnement et d'amende peuvent être port�
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+	  - Loi n°94-638 du 25 juillet 1994 - art. 29 () JORF 27 juillet 1994
 
 	**Cité par**:
 
@@ -11093,25 +11494,28 @@ En cas de récidive, les peines d'emprisonnement et d'amende peuvent être port�
 
 ###### Article L342-1
 
-Toute infraction aux dispositions de l'article L. 330-2 est punie d'un emprisonnement de deux mois [*durée*] à deux ans et
-d'une amende de 2 000 F à 20 000 F [*montant*] ou de l'une de ces deux peines seulement.
+Toute infraction aux dispositions des articles L. 330-2 et L. 330-4 est punie d'un emprisonnement de deux mois [*durée*] à
+deux ans et d'une amende de 2 000 F à 20 000 F [*montant*] ou de l'une de ces deux peines seulement.
 
 L'amende est appliquée autant de fois qu'il y a d'étrangers concernés.
+
+En cas de récidive, les peines d'emprisonnement et d'amende peuvent être portées au double.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code du travail applicable dans la collectivité territoriale de Mayotte L330-2
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L330-2, L330-4
 
 	**Codifié par**:
 
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+	  - Loi n°94-638 du 25 juillet 1994 - art. 30 () JORF 27 juillet 1994
+	  - Loi n°94-638 du 25 juillet 1994 - art. 31 () JORF 27 juillet 1994
 
 	**Cité par**:
 
@@ -11131,20 +11535,44 @@ du travail effectué par les étrangers dépourvus de l'autorisation visée à l
 
 Le tribunal devra désigner les objets sur lesquels portera la confiscation.
 
+I. - En cas de condamnation pour les faits prévus aux articles L. 330-2 et L. 330-4, le tribunal peut ordonner, aux frais de
+la personne condamnée, l'affichage du jugement aux portes des établissements de l'entreprise et sa publication dans les
+journaux qu'il désigne. Il peut également prononcer l'interdiction de séjour pour une durée de cinq ans au plus.
+
+II. - En cas de condamnation pour les faits prévus à l'article L. 330-4, le tribunal peut également prononcer la confiscation
+de tout ou partie des outils, machines, matériaux, véhicules, embarcations, navires ou aéronefs utilisés ou stockés à
+l'occasion de l'infraction ou qui auront servi à la commettre, ainsi que du produit du travail effectué par les étrangers
+dépourvus de l'autorisation visée à l'article L. 330-1. Le tribunal devra désigner les objets sur lesquels portera la
+confiscation.
+
+III. - Il peut également prononcer, pour les personnes condamnées au titre de l'infraction visée au deuxième alinéa du I de
+l'article L. 342-1, la confiscation de tout ou partie de leurs biens, quelle qu'en soit la nature, meubles ou immeubles,
+divis ou indivis."
+
+III. - Le deuxième alinéa de l'article L. 610-1 est complété par la phrase suivante :
+
+"Ils constatent également les infractions prévues par les articles 28 et 28-1 de l'ordonnance n° 2000-373 du 26 avril 2000
+relative aux conditions d'entrée et de séjour des étrangers à Mayotte."
+
+IV. - A la fin de l'article L. 610-6, il est ajouté un alinéa ainsi rédigé :
+
+"Les inspecteurs et les contrôleurs du travail sont habilités à demander aux employeurs et aux personnes occupées dans les
+établissements assujettis au présent code de justifier de leur identité et de leur adresse."
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code du travail applicable dans la collectivité territoriale de Mayotte L330-2, L330-4, L330-1
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L330-2, L330-1, L330-4
 
 	**Codifié par**:
 
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+	  - Loi n°94-638 du 25 juillet 1994 - art. 31 () JORF 27 juillet 1994
 
 	**Cité par**:
 
