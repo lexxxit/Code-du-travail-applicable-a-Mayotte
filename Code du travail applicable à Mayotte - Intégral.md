@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2001-07-13
+Version Consolidée au 2001-07-13 00:00:01 +0200
 
 # Partie législative
 
@@ -18235,26 +18235,25 @@ Communication des statuts doit être donnée par le maire au procureur de la Ré
 
 #### CHAPITRE II : Droit syndical et représentativité des syndicats
 
+##### Section 1 : Critères de représentativité
+
 ###### Article R412-1
 
-Un arrêté du représentant de l'Etat fixe les conditions dans lesquelles sont allouées les indemnités de déplacement des
-membres de la commission consultative du travail, des commissions mixtes visées à l'article L. 133-1 et du comité de la
-formation professionnelle, de la promotion sociale et de l'emploi et, pour les membres autres que les fonctionnaires en
-activité, les vacations.
+Les enquêtes relatives à la détermination de la représentativité sont diligentées par le préfet.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°91-1263 1991-12-16 annexe
+	  - Décret n°91-1263 du 16 décembre 1991
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 4
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L133-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L133-1
 
 
 ### Titre 3 : Pénalités.
