@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2002-02-23
+Version Consolidée au 2002-12-14
 
 # Partie législative
 
@@ -2483,13 +2483,14 @@ Toute stipulation contraire aux dispositions de la présente section est nulle d
 	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-##### Section 5 : Règles particulières aux salariés candidats ou élus à l'Assemblée nationale ou au Sénat.
+##### Section 5 : Règles particulières aux salariés candidats ou élus à un mandat parlementaire ou local.
 
 ###### Article L122-42
 
-Les employeurs sont tenus [*obligations*] de laisser à leurs salariés, candidats à l'Assemblée nationale ou au Sénat, le
-temps nécessaire [*crédit d'heures*] pour participer à la campagne électorale dans la limite de vingt jours ouvrables
-[*délai*].
+Les employeurs sont tenus de laisser à leurs salariés, candidats à l'Assemblée nationale ou au Sénat, le temps nécessaire
+pour participer à la campagne électorale dans la limite de vingt jours ouvrables. Le même droit est accordé, sur leur
+demande, aux salariés candidats au Parlement européen, au conseil municipal dans une commune d'au moins 3500 habitants ou au
+conseil général de Mayotte, dans la limite de dix jours ouvrables.
 
 Le salarié bénéficie à sa convenance des dispositions de l'alinéa précédent, à condition que chaque absence soit au moins
 d'une demi-journée entière. Il doit avertir son employeur vingt-quatre heures au moins avant le début de chaque absence.
@@ -2501,17 +2502,7 @@ les absences ne sont pas rémunérées ; elles donnent alors lieu à récupérat
 La durée de ces absences est assimilée à une période de travail effectif pour la détermination des droits à congés payés
 ainsi que des droits liés à l'ancienneté résultant des dispositions législatives, réglementaires et conventionnelles.
 
-**Nota:**
-
-[*Nota : Code du travail applicable dans la collectivité territoriale de Mayotte L122-44 : Les dispositions de la présente
-section sont applicables aux agents non titulaires de l'Etat et aux personnels des collectivités locales, des établissements
-et entreprises publics, pour autant qu'ils ne bénéficient pas déjà de dispositions plus favorables.*]
-
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L122-44
 
 	**Codifié par**:
 
@@ -2520,7 +2511,8 @@ et entreprises publics, pour autant qu'ils ne bénéficient pas déjà de dispos
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance 2002-1450 2002-12-12 art. 8 I, II JORF 14 décembre 2002
+	  - Ordonnance n°2002-1450 du 12 décembre 2002 - art. 8 () JORF 14 décembre 2002
 
 
 ###### Article L122-43
@@ -2530,7 +2522,7 @@ l'expiration de son mandat, s'il justifie d'une ancienneté minimale d'une anné
 fonction.
 
 La suspension prend effet quinze jours après la notification qui en est faite à l'employeur, à la diligence du salarié, par
-lettre recommandée avec demande d'avis de réception [*point de départ, délai, conditions de forme*].
+lettre recommandée avec demande d'avis de réception.
 
 Le salarié doit manifester son intention de reprendre son emploi en adressant à son employeur une lettre recommandée avec
 demande d'avis de réception au plus tard dans les deux mois qui suivent l'expiration de son mandat.
@@ -2551,17 +2543,7 @@ qu'il avait acquis au moment de son départ.
 Un décret fixera les conditions dans lesquelles les droits des salariés, notamment en matière de prévoyance et de retraite,
 leur seront conservés durant la durée du mandat.
 
-**Nota:**
-
-[*Nota : Code du travail applicable dans la collectivité territoriale de Mayotte L122-44 : Les dispositions de la présente
-section sont applicables aux agents non titulaires de l'Etat et aux personnels des collectivités locales, des établissements
-et entreprises publics, pour autant qu'ils ne bénéficient pas déjà de dispositions plus favorables.*]
-
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L122-44
 
 	**Codifié par**:
 
@@ -2570,7 +2552,7 @@ et entreprises publics, pour autant qu'ils ne bénéficient pas déjà de dispos
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2002-1450 du 12 décembre 2002 - art. 8 () JORF 14 décembre 2002
 
 	**Cité par**:
 
@@ -2593,7 +2575,7 @@ plus favorables.
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2002-1450 du 12 décembre 2002 - art. 8 () JORF 14 décembre 2002
 
 
 ##### Section 6 : Protection de la maternité et éducation des enfants.
