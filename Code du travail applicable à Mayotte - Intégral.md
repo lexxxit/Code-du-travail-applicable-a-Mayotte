@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 1994-07-27
+Version Consolidée au 1995-11-08
 
 # Partie législative
 
@@ -16925,7 +16925,7 @@ L'affichage est assuré sur un panneau dont les indications sont lisibles de la 
 	  - Code du travail applicable à Mayotte. - art. R341-1 (V)
 
 
-### Titre 2 : Aides à l'emploi - Intervention du fonds national de l'emploi
+### Titre 2 : Aides à l'emploi, intervention du Fonds national de l'emploi et de la collectivité territoriale
 
 #### Chapitre 1er : Généralités.
 
@@ -16946,9 +16946,9 @@ Ces actions peuvent être conduites dans le cadre des conventions de coopératio
 
 	  - Décret n°91-1263 1991-12-16 annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+	  - Décret n°95-1163 du 6 novembre 1995 - art. 1 () JORF 8 novembre 1995
 
 	**Cité par**:
 
@@ -16971,9 +16971,9 @@ dans le cadre d'une évolution de l'emploi au sein des entreprises.
 
 	  - Décret n°91-1263 1991-12-16 annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+	  - Décret n°95-1163 du 6 novembre 1995 - art. 1 () JORF 8 novembre 1995
 
 
 ###### Article R321-3
@@ -16987,9 +16987,9 @@ l'accomplissement des actions de formation aux postes de travail sous la directi
 
 	  - Décret n°91-1263 1991-12-16 annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+	  - Décret n°95-1163 du 6 novembre 1995 - art. 1 () JORF 8 novembre 1995
 
 
 ###### Article R321-4
@@ -17016,9 +17016,9 @@ sections de formation hors production, sa participation à l'équipement en mat�
 
 	  - Décret n°91-1263 1991-12-16 annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+	  - Décret n°95-1163 du 6 novembre 1995 - art. 1 () JORF 8 novembre 1995
 
 
 ###### Article R321-5
@@ -17035,9 +17035,9 @@ Les représentants du personnel sont consultés sur les projets relatifs aux con
 
 	  - Décret n°91-1263 1991-12-16 annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+	  - Décret n°95-1163 du 6 novembre 1995 - art. 1 () JORF 8 novembre 1995
 
 
 ###### Article R321-6
@@ -17058,9 +17058,488 @@ professionnelle, de la promotion sociale et de l'emploi.
 
 	  - Décret n°91-1263 1991-12-16 annexe
 
+	**Modifié par**:
+
+	  - Décret n°95-1163 du 6 novembre 1995 - art. 1 () JORF 8 novembre 1995
+
+
+#### Chapitre 3 : Dispositions relatives au contrat de retour à l'emploi
+
+###### Article R323-1
+
+Peuvent bénéficier de contrats de retour à l'emploi, en application de l'article L. 323-1 :
+
+1° Les personnes qui ont été inscrites comme demandeurs d'emploi pendant au moins douze mois durant les dix-huit mois qui ont
+précédé la date d'embauche ;
+
+2° Les personnes âgées de plus de cinquante ans privées d'emploi depuis plus de trois mois ;
+
+3° A titre exceptionnel, des personnes ne remplissant pas les conditions prévues aux 1° et 2° ci-dessus et rencontrant des
+difficultés particulières d'accès à l'emploi.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L323-1
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
 	**Créé par**:
 
-	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+	  - Décret n°95-1163 du 6 novembre 1995 - art. 2 () JORF 8 novembre 1995
+
+
+###### Article R323-2
+
+La durée hebdomadaire du travail ne peut être inférieure à vingt-quatre heures. Cette durée inclut, le cas échéant, le temps
+passé en formation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°95-1163 du 6 novembre 1995 - art. 2 () JORF 8 novembre 1995
+
+
+###### Article R323-3
+
+La demande de convention de contrat de retour à l'emploi doit être présentée à la direction du travail, de l'emploi et de la
+formation professionnelle avant la date d'embauche du salarié bénéficiaire ou dans un délai maximum d'un mois après celle-ci.
+
+Aucune convention ne peut être conclue pour une embauche bénéficiant d'une autre aide à l'emploi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°95-1163 du 6 novembre 1995 - art. 2 () JORF 8 novembre 1995
+
+
+###### Article R323-4
+
+La convention doit préciser notamment :
+
+a) Le nom et l'adresse du bénéficiaire ;
+
+b) Son âge et son niveau de formation au moment de l'embauche ;
+
+c) L'identité et la qualité de l'employeur ;
+
+d) Les caractéristiques de l'emploi proposé ;
+
+e) La nature et la durée du contrat de travail ;
+
+f) La durée hebdomadaire de travail ;
+
+g) Le montant de la rémunération correspondante ;
+
+h) Les modalités de contrôle de l'application de la convention.
+
+Lorsque l'Etat concourt à la prise en charge d'une formation au titre de l'article L. 323-1, sont précisés dans la convention
+ou un avenant conclu ultérieurement :
+
+a) La nature de cette formation, sa durée et les modalités de son organisation ;
+
+b) La période pendant laquelle elle est dispensée ;
+
+c) Le nom et la qualification professionnelle de la personne chargée au sein de l'entreprise de suivre le déroulement de la
+formation ;
+
+d) La nature de la sanction de la formation dispensée ;
+
+e) Le montant et les modalités de la prise en charge de cette formation par l'Etat.
+
+La convention prend effet à compter de la date d'embauche du salarié. Copie en est remise au salarié.
+
+L'employeur doit signaler à la direction du travail, de l'emploi et de la formation professionnelle toute rupture du contrat
+de travail qui interviendrait avant la fin de la convention.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L323-1
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°95-1163 du 6 novembre 1995 - art. 2 () JORF 8 novembre 1995
+
+
+###### Article R323-5
+
+Lorsque la convention ou un avenant à celle-ci prévoit une formation, la durée de celle-ci doit être au minimum de 200 heures
+et au maximum égale à la moitié de la durée du contrat lorsqu'il est à durée déterminée. Cette formation doit être dispensée
+dans le cadre d'une convention avec un organisme de formation agréé par le représentant du Gouvernement.
+
+Les frais de formation pris en charge par l'Etat sont calculés sur une base forfaitaire par heure de formation dispensée et
+dans la limite de mille heures. Un premier versement égal à 40 p. 100 du coût de la formation est effectué à la date du début
+de la formation. Le solde est versé, au terme du sixième mois à compter de la date d'embauche du salarié ou au terme de la
+formation si celle-ci s'achève à une date ultérieure, sur présentation d'une attestation signée par l'organisme de formation,
+l'employeur et le salarié.
+
+Le montant horaire de cette aide forfaitaire est fixé par arrêté du représentant du Gouvernement à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°95-1163 du 6 novembre 1995 - art. 2 () JORF 8 novembre 1995
+
+
+###### Article R323-6
+
+L'employeur est tenu d'adresser une copie de la convention à la caisse de prévoyance sociale pour pouvoir bénéficier de
+l'exonération des cotisations prévue à l'article L. 323-3.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L323-3
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°95-1163 du 6 novembre 1995 - art. 2 () JORF 8 novembre 1995
+
+
+###### Article R323-7
+
+En cas de rupture du contrat de travail à l'initiative de l'employeur avant le terme de la formation, les sommes déjà versées
+à l'employeur correspondant à des heures de formation non réalisées font l'objet d'un reversement à l'Etat. Si la convention
+ou l'avenant a prévu des heures de formation dispensées en entreprise, ces heures sont réputées être également réparties sur
+la période de formation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°95-1163 du 6 novembre 1995 - art. 2 () JORF 8 novembre 1995
+
+
+#### Chapitre 5 : Dispositions relatives à l'aide à la création d'entreprise à l'initiative de demandeurs d'emploi
+
+###### Article R325-1
+
+Pour l'application de l'article L. 325-1, sont considérées comme exerçant effectivement le contrôle d'une entreprise
+constituée sous la forme d'une société :
+
+1° La ou les personnes détenant individuellement ou collectivement plus de la moitié du capital ;
+
+2° La personne exerçant dans la société une fonction de dirigeant et détenant au moins un tiers du capital de celle-ci, dès
+lors qu'aucun autre actionnaire ne détient directement ou indirectement plus de la moitié du capital.
+
+Les parts de capital éventuellement acquises par le conjoint, les ascendants ou les descendants du demandeur de l'aide
+entrent en compte dans les montants de capital fixés aux 1° et 2° du présent article. Dans ce cas, toutefois, la ou les
+personnes mentionnées au 1° doivent posséder, à titre personnel, plus de 35 p. 100 du capital de l'entreprise ; la personne
+mentionnée au 2° doit posséder à titre personnel plus de 25 p. 100 dudit capital.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°95-1163 du 6 novembre 1995 - art. 3 () JORF 8 novembre 1995
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R325-4 (M)
+	  - Code du travail applicable à Mayotte. - art. R325-9 (M)
+
+
+###### Article R325-2
+
+Dans le cas de détention collective de plus de la moitié du capital, le bénéfice de l'aide instituée par l'article L. 325-1
+est subordonné à l'acquisition par chaque demandeur d'emploi du dixième au moins de la fraction du capital détenue par la
+personne qui possède la fraction la plus forte de ce capital.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°95-1163 du 6 novembre 1995 - art. 3 () JORF 8 novembre 1995
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R325-4 (M)
+
+
+###### Article R325-3
+
+I. - La demande tendant à obtenir l'aide instituée par l'article L. 325-1 doit être adressée au représentant du Gouvernement
+par pli recommandé avec demande d'avis de réception postal.
+
+Elle doit être préalable à la création ou à la reprise de l'entreprise ou à l'exercice de la nouvelle activité.
+
+La demande doit être accompagnée d'un dossier permettant d'apprécier la réalité et la consistance du projet de création ou de
+reprise de la nouvelle activité ; ce dossier doit comporter des indications précises sur le contenu du projet, les conditions
+d'acquisition des actifs, les apports de fonds propres et les concours financiers nécessaires pour assurer l'exploitation de
+l'entreprise ainsi que sur les conditions de l'exercice effectif du contrôle de celle-ci.
+
+Un arrêté du représentant du Gouvernement précise la composition du dossier.
+
+II. - Si le dossier est incomplet, la demande fait l'objet d'une décision de rejet en l'état dans le délai d'un mois à
+compter de sa réception. Cette décision fait connaître au demandeur la liste des pièces manquantes ou incomplètes.
+
+L'envoi au représentant du Gouvernement du complément de dossier, par pli recommandé avec demande d'avis de réception postal,
+fait courir de nouveau le délai d'un mois mentionné au deuxième alinéa de l'article L. 325-1.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°95-1163 du 6 novembre 1995 - art. 3 () JORF 8 novembre 1995
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R325-4 (M)
+
+
+###### Article R325-4
+
+Le représentant du Gouvernement statue sur le droit au bénéfice de l'aide.
+
+Lorsque les conditions fixées par les articles R. 325-1 et R. 325-2 et par le I de l'article R. 325-3 sont remplies, le
+représentant du Gouvernement prend l'avis d'un comité composé du receveur particulier des finances, du directeur du travail,
+de l'emploi et de la formation professionnelle, du directeur de l'Institut d'émission d'outre-mer ou de leurs représentants
+et de deux personnalités qualifiées désignées par le représentant du Gouvernement en raison de leur expérience dans le
+domaine de la création et de la gestion d'entreprise ; ce comité est présidé par le représentant du Gouvernement ou par toute
+personne qu'il désigne pour le représenter.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte R325-1, R325-2, R325-3
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°95-1163 du 6 novembre 1995 - art. 3 () JORF 8 novembre 1995
+
+
+###### Article R325-5
+
+Lorsque le droit à l'aide institué par l'article L. 325-1 est reconnu, le représentant du Gouvernement délivre une
+attestation d'admission au bénéfice de l'article L. 325-1.
+
+Cette attestation est également délivrée par le représentant du Gouvernement, sur demande de l'intéressée, à la personne à
+laquelle l'aide doit être réputée accordée en application du deuxième alinéa de l'article L. 325-1.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°95-1163 du 6 novembre 1995 - art. 3 () JORF 8 novembre 1995
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R325-7 (V)
+	  - Code du travail applicable à Mayotte. - art. R325-8 (M)
+
+
+###### Article R325-6
+
+Lorsqu'une personne a obtenu l'aide de l'Etat au titre de l'article L. 325-1, elle ne peut obtenir à nouveau cette aide qu'à
+l'expiration d'un délai de trois ans suivant la précédente décision du représentant du Gouvernement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°95-1163 du 6 novembre 1995 - art. 3 () JORF 8 novembre 1995
+
+
+###### Article R325-7
+
+L'aide est versée en une fois, après constatation de l'exercice de la nouvelle activité, sous réserve que cette constatation
+puisse être opérée dans le délai de trois mois à compter de la notification de la décision du représentant du Gouvernement
+ou, le cas échéant, de l'expiration du délai au terme duquel l'aide doit être réputée accordée en application du deuxième
+alinéa de l'article L. 325-1.
+
+Cette aide doit être exclusivement employée à la couverture de dépenses directement nécessaires à l'exercice de la nouvelle
+activité.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°95-1163 du 6 novembre 1995 - art. 3 () JORF 8 novembre 1995
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R325-4 (Ab)
+	  - Code du travail applicable à Mayotte. - art. R325-8 (M)
+
+
+###### Article R325-8
+
+L'aide allouée en application de l'article L. 325-1 est retirée par décision du représentant du Gouvernement s'il est établi
+qu'elle a été obtenue à la suite de fausses déclarations ou qu'elle n'a pas été utilisée conformément au deuxième alinéa de
+l'article R. 325-7.
+
+L'intéressé doit alors rembourser l'aide qu'il a perçue.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L325-1, R325-7
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°95-1163 du 6 novembre 1995 - art. 3 () JORF 8 novembre 1995
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R325-7 (V)
+
+
+###### Article R325-9
+
+L'accompagnement des personnes qui souhaitent créer ou reprendre une entreprise et qui répondent aux conditions fixées par
+les articles L. 325-1 et R. 325-1 est notamment assuré par la mise en place d'actions de conseil et de délivrance
+individuelle de chéquiers-conseil.
+
+La délivrance de chéquiers-conseil qui intervient avant la création ou la reprise effective de l'entreprise et dans l'année
+qui suit permet aux intéressés de consulter, pendant les trois années prévues à l'article L. 325-1, des organismes
+spécialisés répondant à leurs besoins sur la préparation, le démarrage, les problèmes techniques rencontrés à l'occasion de
+la mise en place de l'entreprise ou de son redressement si celle-ci est confrontée à des difficultés.
+
+Le représentant du Gouvernement désigne les organismes-conseil habilités à fournir ces prestations sur le territoire.
+
+L'Etat participe au financement des chéquiers-conseil dont les modalités de mise en oeuvre sont définies par arrêté du
+représentant du Gouvernement.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L325-1, R325-1
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°95-1163 du 6 novembre 1995 - art. 3 () JORF 8 novembre 1995
 
 
 ### TITRE III : Main-d'oeuvre étrangère
