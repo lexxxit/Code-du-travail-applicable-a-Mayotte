@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2004-05-02
+Version Consolidée au 2004-06-02
 
 # Partie législative
 
@@ -20164,6 +20164,747 @@ de l'avis favorable du médecin du travail.
 	  - Décret n°2004-196 2004-02-25
 
 
+#### CHAPITRE V : Mesures particulières de protection et de salubrité applicables aux établissements dont les salariés exécutent des travaux de bâtiment, des travaux publics et tous autres travaux concernant les immeubles
+
+##### Section 1 : Mesures générales de sécurité
+
+##### Sous-section 2 : Mesures de protection collective destinées à empêcher les chutes des salariés.
+
+###### Article R235-5
+
+Lorsque des salariés travaillent ou circulent à une hauteur de plus de trois mètres en se trouvant exposés à un risque de
+chute dans le vide, il doit être installé, au niveau du plan de travail ou de circulation, des garde-corps placés à une
+hauteur de 90 centimètres et des plinthes de 15 centimètres de hauteur au moins. 
+
+A défaut de garde-corps et de plinthes, il doit être installé soit des auvents, éventails, planchers ou tous autres
+dispositifs de protection collective capables d'arrêter un salarié avant qu'il ne soit tombé de plus de trois mètres en chute
+libre, soit des filets ou tous autres dispositifs présentant une élasticité au moins équivalente, capables de l'arrêter avant
+qu'il ne soit tombé de plus de six mètres en chute libre. 
+
+Toutefois, les dispositions ci-dessus du présent article ne concernent ni les planchers des échafaudages, plates-formes de
+travail et passerelles qui, quelle que soit la hauteur à laquelle ils sont situés doivent être munis des dispositifs de
+protection prévus respectivement par les articles R. 235-117, R. 235-132, R. 235-146 et R. 235-149, ni les emplacements de
+travail visés par l'article R. 235-105, ni les travaux visés par les articles R. 235-140 et R. 235-66 à R. 235-68. 
+
+Lorsque la durée prévue d'exécution des travaux n'excède pas une journée, l'observation des dispositions des alinéas 1 et 2
+du présent article n'est pas obligatoire, sous réserve que des systèmes d'arrêt de chute soient mis à la disposition des
+salariés ou soient utilisés par les travailleurs indépendants et que des points d'accrochage sûrs et adaptés à la nature des
+travaux existent. Ces systèmes d'arrêt de chute doivent satisfaire aux conditions prévues à l'article R. 235-17.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-105 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-117 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-132 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-140 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-146 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-149 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-17 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-66 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-161 (V)
+
+
+###### Article R235-6
+
+Lorsque certaines parties d'une construction ne sont pas livrables au service du chantier et que leur accès présente des
+dangers pour les salariés, ces parties doivent être nettement délimitées et visiblement signalées ; en outre, leur accès doit
+être interdit par des dispositifs matériels.
+
+Les ouvertures ouvrant sur le vide (telles que les baies) doivent être munies, une fois le gros oeuvre d'un étage terminé, de
+garde-corps placés à 90 centimètres des planchers et de plinthes d'une hauteur de 15 centimètres au moins, sauf si les
+ouvertures comportent des dispositifs de protection d'une efficacité au moins équivalente ou si leur accès a été interdit en
+application des dispositions de l'alinéa précédent.
+
+Au cas où, pour l'exécution des travaux à l'intérieur, il serait installé des plates-formes coupant les ouvertures en bordure
+du vide dans leur hauteur, à une distance verticale de plus de 90 centimètres de la partie supérieure des ouvertures, un
+garde-corps et une plinthe seraient établis au droit desdites ouvertures.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-7
+
+Les orifices des puits, ceux des galeries d'une inclinaison de plus de 45°, et les ouvertures (telles que celles qui sont
+ménagées en vue du passage des ascenseurs, ou telles que les trémies de cheminées ou les trappes) pouvant exister dans les
+planchers d'une construction ainsi que dans les planchers des échafaudages, passerelles ou toutes autres installations,
+doivent être clôturés par un garde-corps placé à une hauteur de 90 centimètres et une plinthe d'une hauteur minimale de 15
+centimètres, ou clôturés par un plancher provisoire jointif convenablement fixé ou tout autre dispositif équivalent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-95 (V)
+
+
+###### Article R235-8
+
+Les garde-corps prescrits par le présent chapitre doivent être rigides. Ils peuvent être constitués soit par des traverses en
+bois, soit par des barres ou des tubes métalliques.
+
+Ils doivent avoir une section suffisante, compte tenu de la nature des matériaux qui les constituent, de leur portée et des
+efforts auxquels ils peuvent être soumis.
+
+Lorsque l'intervalle compris entre les montants supportant un garde-corps est inférieur à 1 mètre, le garde-corps peut être
+constitué par une chaîne, un câble ou un cordage. Dans ce cas, le garde-corps doit être doublé par une autre chaîne, un autre
+câble ou un autre cordage placé à 45 centimètres au-dessus du plancher.
+
+Les chaînes, câbles ou cordages utilisés comme garde-corps doivent toujours être tendus et solidement fixés à chaque montant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-9
+
+Lorsque l'exécution d'un travail déterminé et de courte durée nécessite l'enlèvement d'un dispositif de sécurité, des mesures
+compensatrices de sécurité doivent être prises.
+
+Tout dispositif qui a dû être enlevé doit être remis en place dès que le travail a été effectué.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-10
+
+Des moyens d'accès sûrs doivent être aménagés pour toutes les plates-formes et tous les autres emplacements de travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-11
+
+Les passerelles, ponts de service et toutes autres installations similaires doivent être munis, lorsque leur pente est
+supérieure à 15 %, de liteaux cloués en travers des planchers ou de tout autre dispositif propre à prévenir les risques de
+glissade.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-12
+
+Tous lieux où sont exécutés des travaux, ainsi que leur accès, doivent être convenablement éclairés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+##### Sous-section 3 : Mesures de protection destinées à empêcher les chutes d'objets et de matériaux et les accidents dus aux planches munies de pointes saillantes.
+
+###### Article R235-13
+
+Toutes précautions doivent être prises pour empêcher les salariés d'être atteints par des objets qui pourraient tomber des
+échafaudages ou d'autres lieux de travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-14
+
+Les matériaux se trouvant sur le chantier ne doivent être ni empilés, ni disposés d'une manière pouvant mettre des salariés
+en danger.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-15
+
+Il est interdit de laisser à l'abandon sur le chantier des planches munies de pointes saillantes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+##### Section 3 : Travaux de terrassement à ciel ouvert et travaux souterrains
+
+##### Sous-section 1 : Travaux de terrassement à ciel ouvert.
+
+###### Article R235-64
+
+Avant de commencer des travaux de terrassement, le chef d'établissement doit, afin de prendre s'il y a lieu les mesures de
+sécurité appropriées, s'informer auprès du service de voirie intéressé en cas de travaux sur le domaine public ou auprès du
+propriétaire ou de son répondant en cas de travaux sur le domaine privé, de l'existence éventuelle de terres rapportées ainsi
+que de l'emplacement et de la nature des canalisations ou câbles souterrains pouvant se trouver dans la zone où les travaux
+doivent être entrepris. Il doit également s'informer des risques d'imprégnation du sous-sol par des émanations ou produits
+nocifs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-65
+
+Les arbres, les blocs de pierre, ainsi que le matériel, les matériaux et objets de toute nature se trouvant à proximité de
+l'emplacement où des fouilles sont entreprises, doivent être enlevés ou solidement maintenus lorsqu'il apparaît que leur
+équilibre risque d'être compromis lors de l'exécution des travaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-66
+
+Les fouilles en tranchée de plus de 1,30 mètre de profondeur et d'une largeur égale ou inférieure aux deux tiers de la
+profondeur doivent, lorsque leurs parois sont verticales ou sensiblement verticales, être blindées, étrésillonnées ou
+étayées.
+
+Les parois des fouilles en tranchée autres que celles qui sont visées à l'alinéa précédent, ainsi que les parois des fouilles
+en excavation ou en butte doivent être aménagées, eu égard à la nature et à l'état des terres, de façon à prévenir les
+éboulements. Si cette condition n'est pas remplie, des blindages, des étrésillons ou des étais appropriés à la nature et à
+l'état des terres doivent être mis en place. Les mesures de protection visées aux deux précédents alinéas doivent être prises
+avant toute descente d'un salarié ou d'un employeur dans la fouille pour un travail autre que celui de la mise en place des
+dispositifs de sécurité.
+
+Lorsque nul n'a à descendre dans la fouille, les zones situées à proximité du bord et qui présenteraient un danger pour les
+salariés doivent cependant être nettement délimitées et visiblement signalées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-5 (V)
+
+
+###### Article R235-67
+
+Il doit être tenu compte, pour la détermination de l'inclinaison à donner aux parois ou pour l'établissement des blindages,
+des étrésillons et des étais des fouilles en tranchée ou en excavation, des surcharges dues aux constructions ou aux dépôts
+de toute nature (tels que matériaux divers, déblais, matériel) existant dans le voisinage, ainsi que des surcharges et des
+ébranlements prévisibles dus à la circulation sur les voies carrossables, les pistes de circulation et les voies ferrées se
+trouvant à proximité des fouilles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-68
+
+La reprise des fondations en sous-oeuvre ne doit être exécutée que par petites portions et au fur et à mesure que les
+blindages, les étrésillons ou les étais mis en place assurent une sécurité suffisante. Toutefois, cette prescription ne fait
+pas obstacle à l'emploi de procédés particuliers assurant aux salariés une sécurité au moins équivalente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-69
+
+Les pentes et les crêtes des parois doivent être débarrassées des éléments dont la chute présenterait un danger.
+
+Lorsque des parties en surplomb d'un terrain ne peuvent être abattues, des mesures appropriées (telles que étaiement,
+consolidation) doivent être prises pour empêcher leur éboulement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-70
+
+La mise en place des blindages, étrésillons ou étais doit être effectuée dès que l'avancement des travaux le permet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-71
+
+Dans le cas où les divers éléments d'un blindage sont assemblés hors de la fouille, la hauteur de ces éléments doit être au
+moins égale à la profondeur totale de la fouille.
+
+Pour éviter tout renversement ou déplacement, le blindage, après avoir été descendu dans la fouille, doit être convenablement
+calé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-72
+
+Afin d'empêcher les chutes de déblais, de matériaux, d'outils ou d'objets de toute nature à l'intérieur des fouilles en
+tranchée de plus de 1,30 mètre de profondeur, celles-ci doivent être entourées de plinthes d'une hauteur de 15 centimètres au
+moins ou comporter un blindage dont les éléments constituants dépassent le niveau du sol d'une hauteur minimale de 15
+centimètres.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-73
+
+Des déblais ou du matériel ne peuvent être déposés le long d'une tranchée de plus de 1,30 mètre de profondeur que s'il est
+possible de ménager une berme d'une largeur de 40 centimètres au moins. Cette berme doit rester constamment dégagée de tout
+dépôt.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-74
+
+Des mesures (telles que le creusement de cunettes, l'exécution de drainages) doivent être prises pour limiter les
+infiltrations provenant des eaux de ruissellement.
+
+Sans préjudice des dispositions de l'alinéa précédent, des mesures (telles que la mise en service de pompes) doivent être
+prévues pour remédier aux effets des infiltrations qui pourraient se produire.
+
+Après une période de pluie, il doit être procédé à un examen du talus des fouilles en excavation ou en tranchée. S'il y a
+lieu, le blindage doit être consolidé.
+
+Le chef d'établissement fait procéder à l'examen prévu à l'alinéa précédent par un salarié compétent ; le nom et la qualité
+de ce salarié doivent être consignés sur le registre prévu par l'article R. 235-22.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-22 (V)
+
+
+###### Article R235-75
+
+Les fouilles en tranchée ou en excavation doivent comporter les moyens nécessaires à une évacuation rapide des salariés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-76
+
+Lorsque des salariés sont appelés à franchir une tranchée de plus de 40 centimètres de largeur, des moyens de passage doivent
+être mis en place.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-77
+
+Il ne peut être procédé à l'enlèvement d'un blindage, d'un étrésillon ou d'un étai que lorsque des mesures de protection
+efficaces ont été prises contre les risques d'éboulement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-78
+
+L'abattage en sous-cave ne peut être effectué qu'à l'aide d'engins mus mécaniquement et à condition qu'il n'en résulte aucun
+danger pour les salariés.
+
+Lors de l'exécution de travaux d'abattage en sous-cave, des mesures doivent être prises pour interdire l'accès de la zone
+dans laquelle l'éboulement est appelé à se produire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-79
+
+En cas de découverte d'un engin susceptible d'exploser, le travail doit être immédiatement interrompu au voisinage jusqu'à ce
+que les autorités compétentes aient fait procéder à l'enlèvement de l'engin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+##### Sous-section 2 : Travaux souterrains
+
+##### I. - Mesures à prendre pour éviter les éboulements et les chutes de blocs.
+
+###### Article R235-80
+
+Dans tous les ouvrages souterrains, les risques d'éboulement ou de chutes de blocs doivent être prévenus soit au moyen d'un
+soutènement appuyé ou suspendu et d'un garnissage approprié à la nature des terrains, soit grâce à la surveillance, au
+sondage et à la purge méthodique des parements et de la couronne suivant des modalités appropriées à la hauteur de l'ouvrage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-81
+
+Les parois des puits et des galeries souterraines, le toit de ces dernières, ainsi que les travaux de consolidation qui ont
+été effectués ou les dispositifs de soutènement qui ont été mis en place, doivent être examinés :
+
+1° Sur toute la hauteur des puits et sur toute la longueur des galeries à la reprise de chaque poste de travail ;
+
+2° Sur une longueur de 50 mètres au moins en arrière du front de tir après chaque tir de mine.
+
+Ces examens doivent être effectués par un salarié compétent choisi par le chef d'établissement ; le nom et la qualité de ce
+salarié doivent être consignés sur le registre prévu par l'article R. 235-22.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-22 (V)
+
+
+###### Article R235-82
+
+Lorsqu'un puits ou une galerie souterraine doivent recevoir un revêtement maçonné ou bétonné, les éléments du dispositif de
+soutènement ne doivent être enlevés qu'au fur et à mesure de l'avancement des travaux et seulement dans la mesure où, eu
+égard à la stabilité du terrain traversé, cet enlèvement ne peut nuire à la sécurité des salariés.
+
+Des précautions similaires doivent être prises pour l'exécution de travaux d'abattage latéral ainsi que pour l'exécution de
+travaux de comblement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+##### II. - Ventilation.
+
+###### Article R235-83
+
+La qualité de l'atmosphère des galeries souterraines en cours de percement et des puits en cours de fonçage doit être
+compatible avec l'hygiène et la sécurité des salariés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-86 (V)
+
+
+###### Article R235-84
+
+Lorsque l'aération naturelle d'une galerie en cours de percement est insuffisante, l'assainissement de l'atmosphère doit être
+obtenu au moyen d'une installation de ventilation artificielle.
+
+Cette installation de ventilation doit assurer au front de taille un débit minimal d'air de vingt-cinq litres par seconde et
+par salarié.
+
+L'air introduit doit être prélevé loin de toute source de viciation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-86 (V)
+
+
+###### Article R235-85
+
+Dans les galeries souterraines en cours de percement où il est fait usage d'explosifs, la ventilation doit être réalisée dans
+les conditions ci-après :
+
+1° Il doit être introduit au front de taille, au moyen d'une installation de ventilation artificielle, 200 litres au moins
+d'air par seconde et par mètre carré de la plus grande section de galerie ventilée ; l'air introduit doit être prélevé loin
+de toute source de viciation ;
+
+2° Après chaque tir, une aspiration doit être effectuée le plus près possible du front de taille, afin d'éliminer au maximum
+les poussières en suspension ;
+
+3° Eventuellement, une ventilation auxiliaire doit permettre d'accélérer l'absorption du bouchon de tir.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-86 (V)
+
+
+###### Article R235-86
+
+Lorsqu'il est fait usage de moteurs à combustion interne ou qu'il existe des émanations nocives, les quantités minimales
+d'air à introduire prévues par les articles R. 235-84 et R. 235-85 doivent être augmentées de façon telle que la qualité de
+l'atmosphère demeure, conformément aux dispositions de l'article R. 235-83, compatible avec l'hygiène et la sécurité des
+salariés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-83 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-84 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-85 (V)
+
+
+###### Article R235-87
+
+Lorsqu'une galerie est percée ou lorsqu'un puits est foncé dans une roche renfermant de la silice libre, seuls des fleurets à
+injection d'eau ou munis d'un dispositif efficace pour le captage à sec des poussières doivent être utilisés.
+
+Une consigne doit indiquer les postes de travail où il est nécessaire de renforcer les mesures de protection collective par
+l'utilisation d'un appareil respiratoire approprié ; cette consigne doit en outre préciser, pour chaque poste de travail, la
+durée maximale de port de l'appareil et les conditions de son entretien.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-88
+
+Dans les travaux où il est fait usage d'explosifs ainsi que dans ceux qui sont exécutés dans des terrains renfermant de la
+silice libre, les déblais doivent être arrosés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-89
+
+Dans les galeries souterraines et les puits où des émanations de gaz susceptibles de former avec l'air un mélange détonant
+sont à craindre, l'usage de lampes ou d'appareils à feu nu est interdit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+##### III. - Circulation.
+
+###### Article R235-90
+
+Dans les puits dont la profondeur dépasse 25 mètres, les treuils utilisés pour le transport des salariés doivent être mus
+mécaniquement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-91
+
+Tant qu'il y a des salariés dans une galerie souterraine ou au fond d'un puits, un salarié doit être constamment présent pour
+la manoeuvre du treuil.
+
+Lorsque la profondeur d'un puits dépasse 6 mètres, le service d'un treuil mû à la main doit être assuré par deux salariés au
+moins.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-92
+
+Dans les puits où est installée une descenderie par échelles, des paliers de repos d'une dimension suffisante pour accueillir
+au moins deux salariés doivent être établis à 6 mètres au plus les uns des autres. Les volées ainsi délimitées peuvent être
+verticales.
+
+A chaque palier, des poignées fixes doivent être placées de façon à en permettre facilement l'accès.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-93
+
+Lorsqu'une galerie est percée dans un terrain où des venues d'eau importantes et soudaines sont à craindre, cette galerie
+doit comporter des issues permettant une évacuation rapide des salariés ; à défaut, des mesures appropriées (telles que
+l'aménagement de niches surélevées en nombre suffisant) doivent être mises en oeuvre.
+
+Lorsqu'un puits est foncé dans un terrain analogue à celui qui est visé à l'alinéa précédent, des échelles de secours doivent
+être installées du fond du puits à l'orifice au jour ou à un emplacement sûr.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-94
+
+Dans les galeries souterraines où se trouvent disposées des voies ferrées, à défaut d'un espace libre de 55 centimètres
+mesuré entre la partie la plus saillante du matériel roulant et les parties les plus saillantes des parois de la galerie, il
+doit être aménagé, au fur et à mesure de l'avancement des travaux et tous les 10 mètres au plus, une niche de sûreté ayant
+des dimensions suffisantes pour abriter simultanément deux salariés et ayant au moins 60 centimètres de profondeur.
+
+En cas d'impossibilité, la sécurité des salariés doit être assurée d'une autre manière par des dispositions idoines que le
+chef d'établissement doit porter préalablement à la connaissance de l'agent de contrôle de l'inspection du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+##### IV. - Signalisation, éclairage.
+
+###### Article R235-95
+
+Indépendamment des mesures de protection prescrites par l'article R. 235-7, les orifices des puits et des galeries d'une
+inclinaison de plus de 45° doivent être convenablement signalés la nuit.
+
+Les ouvertures ou dénivellations existant dans le sol d'une galerie, les passages resserrés, les abaissements de voûte ainsi
+que tous obstacles pouvant présenter un danger ou une gêne pour la circulation des salariés, des véhicules ou des convois
+doivent être convenablement signalés par des moyens appropriés (tels que la pose de feux de position ou de dispositifs
+réfléchissants d'une efficacité équivalente). A défaut d'un éclairage suffisant, des dispositifs avertisseurs doivent être
+prévus (tels que : chaînettes et fils pendants, balais souples, dont le contact permet de signaler aux salariés la présence
+d'un obstacle).
+
+A défaut d'un éclairage suffisant dans les galeries où circulent des véhicules ou des convois, les postes de travail doivent
+être signalés par des feux très visibles et les véhicules ou convois doivent être munis d'un feu blanc à l'avant et d'un feu
+rouge -  ou d'un dispositif réfléchissant de même couleur ou d'une efficacité équivalente - à l'arrière.
+
+Sauf dans les galeries pourvues d'un éclairage fixe suffisant, les véhicules doivent être munis d'un projecteur capable
+d'éclairer sur une distance au moins égale au parcours d'arrêt du véhicule ou du convoi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-7 (V)
+
+
+###### Article R235-96
+
+Lorsque les chantiers souterrains sont éclairés électriquement, un éclairage de sécurité destiné à être utilisé en cas
+d'arrêt du courant pendant le temps nécessaire pour assurer l'évacuation du chantier, doit être mis à la disposition des
+salariés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
 #### CHAPITRE VI : Mesures particulières de protection des salariés dans les établissements qui mettent en oeuvre des courants électriques
 
 ##### Section 3 : Protection des salariés contre les risques de contact avec des conducteurs actifs ou des pièces conductrices habituellement sous tension (contact direct)
@@ -21262,6 +22003,349 @@ professionnelle, après avis des délégués du personnel.
 	**Cité par**:
 
 	  - Décret n°2014-1291 du 23 octobre 2014 - art. (V)
+
+
+##### Section 4 : Mesures particulières de protection applicables aux établissements dans lesquels sont entreposés ou manipulés certains liquides particulièrement inflammables.
+
+###### Article R238-4-1
+
+Indépendamment des mesures générales prescrites par le présent code, les employeurs, chefs d'établissements, gérants ou
+préposés énumérés aux articles L. 230-1 et L. 251-1 sont tenus de prendre les mesures particulières de protection énoncées
+par la présente section en ce qui concerne l'entreposage ou la manutention de l'éther (oxyde d'éthyle), du sulfure de carbone
+et des solutions contenant 30 % au moins de l'un ou l'autre de ces produits.
+
+Les dispositions de la présente section ne s'appliquent pas à ces opérations lorsqu'elles s'effectuent dans les
+établissements où les produits ci-dessus désignés sont fabriqués.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L230-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L251-1 (M)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-4-2 (V)
+
+
+###### Article R238-4-2
+
+Les récipients mobiles de plus de deux litres contenant les liquides visés à l'article R. 238-4-1, susceptibles d'être
+entreposés ou manipulés, doivent être étanches. 
+
+S'ils sont en verre, ils doivent être de bonne fabrication, d'une épaisseur et d'une résistance suffisantes. 
+
+Ils sont, en outre, munis d'une enveloppe métallique étanche convenablement ajustée pour les protéger efficacement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-4-1 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-4-8 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-4-9 (V)
+
+
+###### Article R238-4-3
+
+Les récipients, quels qu'ils soient, qui contiennent ces liquides pour l'approvisionnement des dépôts, magasins,
+laboratoires, ateliers doivent porter, en caractères très lisibles, la dénomination usuelle de la substance qu'ils
+renferment, avec la mention "liquide particulièrement inflammable" et un pictogramme dont l'employeur apprend à chaque
+salarié la signification.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R238-4-4
+
+Ces liquides ne peuvent être entreposés dans les locaux de travail qu'à concurrence de la quantité nécessaire pour la
+consommation d'une journée. Les récipients vides doivent être bouchés et ne doivent jamais séjourner dans ces locaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-4-8 (V)
+
+
+###### Article R238-4-5
+
+Lorsque les récipients ont une capacité supérieure à 20 litres, le transvasement de ces liquides, quel qu'en soit l'état de
+viscosité, ne peut se faire qu'à l'aide soit d'un dispositif évitant le renversement du récipient (siphons ou vide-touries),
+soit de pompes ou autres dispositifs étanches.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R238-4-6
+
+Les locaux où sont entreposés, manipulés ou employés ces liquides en quantité supérieure à 2 litres ne doivent jamais
+contenir aucun foyer, aucune flamme, aucun appareil pouvant donner lieu à la production extérieure d'étincelles électriques
+ou présentant des parties susceptibles d'être portées à l'incandescence ; ils ne peuvent être mis en communication directe
+avec des locaux présentant des dangers d'inflammation du même ordre.
+
+Lesdits locaux ne peuvent être éclairés que par les lampes électriques munies d'une double enveloppe.
+
+Les conducteurs électriques doivent être installés selon les règles de l'art et de façon à éviter tout court-circuit.
+
+Il est interdit d'apporter dans ces locaux une bougie ou une lampe allumée ou tout autre objet produisant des flammes. Il est
+également interdit d'y fumer. Cette dernière interdiction est matérialisée par un pictogramme dont l'employeur apprend à
+chaque salarié la signification.
+
+Dans les locaux où est manipulé du sulfure de carbone ne peuvent exister ou être introduits des matières ou objets d'une
+température supérieure à 120 °C.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-4-8 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-4-9 (V)
+
+
+###### Article R238-4-7
+
+Les locaux visés à l'article précédent doivent être parfaitement ventilés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-4-9 (V)
+
+
+###### Article R238-4-8
+
+Le représentant de l'Etat à Mayotte peut, par arrêté pris sur le rapport de l'inspecteur du travail et après avis de la
+commission consultative du travail, accorder à certaines catégories d'établissements ou parties d'établissements une dispense
+permanente ou temporaire de tout ou partie des prescriptions des articles R. 238-4-2, 
+R. 238-4-4 et R. 238-4-6 dans le cas où il est reconnu que l'application de ces prescriptions est pratiquement impossible et
+que la sécurité des salariés est assurée dans des conditions au moins équivalentes à celles qui sont fixées par la présente
+section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-4-2 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-4-4 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-4-6 (V)
+
+
+###### Article R238-4-9
+
+Les prescriptions de la présente section pour l'application desquelles est prévue la procédure de la mise en demeure en
+application des articles L. 230-10 et L. 230-11 sont celles prévues aux articles R. 238-4-2, alinéa 2, R. 238-4-6, alinéa 3,
+et R. 238-4-7.
+
+Le délai minimum prévu à l'article L. 230-12 pour l'exécution des mises en demeure est fixé :
+
+A quatre jours pour les mises en demeure fondées sur les dispositions des articles R. 238-4-6, alinéa 3, et R. 238-4-7 ;
+
+A un mois pour les mises en demeure fondées sur les dispositions de l'article R. 238-4-2, alinéa 2.
+
+Toutefois, en ce qui concerne les mises en demeure fondées sur les dispositions de l'article R. 238-4-7, le délai minimum est
+porté à un mois, lorsque l'exécution de ces mises en demeure comporte la création d'installations nouvelles et non pas
+seulement l'utilisation d'installations existantes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L230-10 (M)
+	  - Code du travail applicable à Mayotte. - art. L230-11 (M)
+	  - Code du travail applicable à Mayotte. - art. L230-12 (M)
+	  - Code du travail applicable à Mayotte. - art. R238-4-2 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-4-6 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-4-7 (V)
+
+
+###### Article R238-4-10
+
+Les dispositions de la présente section entrent en vigueur trois mois après la publication de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+##### Section 5 : Mesures particulières relatives à la manipulation du linge sale dans les ateliers de blanchissage.
+
+###### Article R238-5-1
+
+Dans les ateliers de blanchissage de linge, les employeurs, chefs d'établissement, gérants ou préposés énumérés aux articles
+L. 230-1 et L. 251-1 sont tenus, indépendamment des mesures générales prescrites par le présent code, de prendre les mesures
+particulières de protection et de salubrité énoncées à la présente section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L230-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L251-1 (M)
+
+
+###### Article R238-5-2
+
+Le linge sale ne doit être introduit dans l'atelier de blanchissage que renfermé dans des sacs, enveloppes spéciales ou tous
+autres récipients soigneusement clos pendant le transport.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R238-5-3
+
+Le linge sale avec son contenant doit être désinfecté avant tout triage par un des procédés de désinfection prévus par arrêté
+du représentant de l'Etat à Mayotte ou par l'ébullition dans une solution alcaline soit, à défaut de l'une de ces opérations,
+tout au moins soumis à une aspersion suffisante pour fixer les poussières. Dans ce dernier cas, les sacs et enveloppes, ou
+tous autres récipients, doivent être lessivés ou désinfectés.
+
+Les mesures de désinfection sont obligatoires pour le linge sale provenant des établissements hospitaliers où l'on reçoit des
+malades.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R238-5-4
+
+Les employeurs, chefs d'établissement, gérants ou préposés sont tenus de mettre à la disposition du personnel employé à la
+manipulation du linge sale des surtouts exclusivement affectés au travail.
+
+Ils assurent le bon entretien et le lavage fréquent de ces vêtements, qui doivent être rangés dans un local séparé de la
+salle de blanchissage et de la salle où se trouve le linge propre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R238-5-5
+
+Il est interdit de manipuler du linge sale non désinfecté ou non lessivé soit dans les salles de repassage, soit dans les
+salles où se trouve du linge blanchi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R238-5-6
+
+Les eaux d'essangeage doivent être évacuées directement hors de l'atelier par canalisation fermée, sans préjudice de toutes
+autres mesures de salubrité à prendre en exécution de l'article 97 de la loi municipale du 5 avril 1884 et des dispositions
+du code de la santé publique applicables à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-5-8 (V)
+
+	**Cite**:
+
+	  - Loi n°1884-04-05 art. 97
+
+
+###### Article R238-5-7
+
+Les employeurs, chefs d'établissement, gérants ou préposés, sont tenus d'afficher dans un endroit apparent des locaux
+professionnels le texte de la présente section.
+
+L'employeur, le chef d'établissement, le gérant, le préposé ou son représentant est tenu de faire savoir à chaque salarié et
+de lui rappeler régulièrement l'obligation qui lui est faite d'utiliser les vêtements de travail mis à sa disposition, de
+prendre des soins de propreté à chaque sortie de l'atelier et de ne consommer aucun aliment ou boisson dans les ateliers de
+manipulation de linge sale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R238-5-8
+
+La procédure de la mise en demeure est prévue en application des articles L. 230-10 et L. 230-11, pour l'application des
+prescriptions de l'article R. 238-5-6.
+
+Le délai minimum d'exécution des mises en demeure prévu à l'article L. 230-12 est fixé à quatre jours pour les mises en
+demeure fondées sur ledit article R. 238-5-6 ; toutefois, ce délai minimum est porté à un mois lorsque l'exécution des mises
+en demeure comporte la création d'installations nouvelles et non pas seulement l'utilisation d'installations existantes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L230-10 (M)
+	  - Code du travail applicable à Mayotte. - art. L230-11 (M)
+	  - Code du travail applicable à Mayotte. - art. L230-12 (M)
+	  - Code du travail applicable à Mayotte. - art. R238-5-6 (V)
 
 
 ##### Section 7 : Mesures particulières relatives aux marins, aux ports, aux navires et autres bâtiments de mer.
