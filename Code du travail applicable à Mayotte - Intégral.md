@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2004-09-02
+Version Consolidée au 2004-11-25
 
 # Partie législative
 
@@ -12836,8 +12836,16 @@ d'emprisonnement et de 75000 euros d'amende.
 
 ###### Article L342-1
 
-Toute infraction aux dispositions des articles L. 330-2 et L. 330-4 est punie d'un emprisonnement de deux mois à deux ans et
-d'une amende de 300 euros à 3000 euros ou de l'une de ces deux peines seulement.
+I. - Toute infraction aux dispositions de l'article L. 330-2 est punie de cinq ans d'emprisonnement et de 15 000 Euros
+d'amende.
+
+Ces peines sont portées à dix ans d'emprisonnement et à 100 000 Euros d'amende lorsque l'infraction est commise en bande
+organisée.
+
+L'amende est appliquée autant de fois qu'il y a d'étrangers concernés.
+
+II. - Toute infraction aux dispositions de l'article L. 330-4 est punie d'un emprisonnement de deux mois à deux ans et d'une
+amende de 300 Euros à 3 000 Euros ou l'une de ces deux peines seulement.
 
 L'amende est appliquée autant de fois qu'il y a d'étrangers concernés.
 
@@ -12852,7 +12860,7 @@ En cas de récidive, les peines d'emprisonnement et d'amende peuvent être port�
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Ordonnance n°2004-1253 du 24 novembre 2004 - art. 142 () JORF 25 novembre 2004
 
 	**Cite**:
 
@@ -12867,15 +12875,19 @@ En cas de récidive, les peines d'emprisonnement et d'amende peuvent être port�
 
 ###### Article L342-2
 
-En cas de condamnation pour les faits prévus aux articles L. 330-2 et L. 330-4 le tribunal peut ordonner, aux frais de la
-personne condamnée, l'affichage du jugement aux portes des établissements de l'entreprise et sa publication dans les journaux
-qu'il désigne.
+I. - En cas de condamnation pour les faits prévus aux articles L. 330-2 et L. 330-4, le tribunal peut ordonner, aux frais de
+la personne condamnée, l'affichage du jugement aux portes des établissements de l'entreprise et sa publication dans les
+journaux qu'il désigne. Il peut également prononcer l'interdiction de séjour pour une durée de cinq ans au plus.
 
-Il peut également prononcer la confiscation de tout ou partie des outils, machines, matériaux, véhicules, embarcations,
-navires ou aéronefs utilisés ou stockés à l'occasion de l'infraction ou qui auront servi à la commettre, ainsi que du produit
-du travail effectué par les étrangers dépourvus de l'autorisation visée à l'article L. 330-1.
+II. - En cas de condamnation pour les faits prévus à l'article L. 330-4, le tribunal peut également prononcer la confiscation
+de tout ou partie des outils, machines, matériaux, véhicules, embarcations, navires ou aéronefs utilisés ou stockés à
+l'occasion de l'infraction ou qui auront servi à la commettre, ainsi que du produit du travail effectué par les étrangers
+dépourvus de l'autorisation visée à l'article L. 330-1. Le tribunal devra désigner les objets sur lesquels portera la
+confiscation.
 
-Le tribunal devra désigner les objets sur lesquels portera la confiscation.
+III. - Il peut également prononcer, pour les personnes condamnées au titre de l'infraction visée au deuxième alinéa du I de
+l'article L. 342-1, la confiscation de tout ou partie de leurs biens, quelle qu'en soit la nature, meubles ou immeubles,
+divis ou indivis.
 
 **Liens relatifs à cet article**
 
@@ -12893,13 +12905,14 @@ Le tribunal devra désigner les objets sur lesquels portera la confiscation.
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2004-1253 du 24 novembre 2004 - art. 142 () JORF 25 novembre 2004
 
 	**Cite**:
 
 	  - Code du travail applicable à Mayotte. - art. L330-1 (M)
 	  - Code du travail applicable à Mayotte. - art. L330-2 (M)
 	  - Code du travail applicable à Mayotte. - art. L330-4 (M)
+	  - Code du travail applicable à Mayotte. - art. L342-1 (M)
 
 
 #### Chapitre III : Mesures pour l'emploi et indemnisation du chômage
@@ -14484,7 +14497,9 @@ agents et officiers de police judiciaire, de constater, s'il y échet, les infra
 
 Ils constatent, en outre, les infractions aux dispositions de protection sociale concernant les accidents du travail et les
 maladies professionnelles du régime en vigueur dans la collectivité départementale de Mayotte ainsi que les infractions
-prévues par les articles 225-13 à 225-16-1 du code pénal.
+prévues par les articles 225-13 à 225-16-1 du code pénal. Ils constatent également les infractions prévues par les articles
+28 et 28-1 de l'ordonnance n° 2000-373 du 26 avril 2000 relative aux conditions d'entrée et de séjour des étrangers à
+Mayotte.
 
 Dans les cas expressément prévus par la loi ou le règlement, ces attributions peuvent être exercées par des fonctionnaires de
 contrôle assimilés.
@@ -14499,6 +14514,12 @@ professions libérales, des sociétés civiles, des syndicats professionnels et 
 
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Cite**:
+
+	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 28 (M)
+	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 28-1 (V)
+	  - Code pénal 225-13 à 225-16-1
 
 	**Cité par**:
 
@@ -14520,11 +14541,7 @@ professions libérales, des sociétés civiles, des syndicats professionnels et 
 
 	**Modifié par**:
 
-	  - Loi n°2003-239 du 18 mars 2003 - art. 132 () JORF 19 mars 2003
-
-	**Cite**:
-
-	  - Code pénal 225-13 à 225-16-1
+	  - Ordonnance n°2004-1253 du 24 novembre 2004 - art. 142 () JORF 25 novembre 2004
 
 
 ###### Article L610-2
@@ -14653,12 +14670,10 @@ distribués ou utilisés. En vue de constater les infractions, ces prélèvement
 instituée par les décrets pris en application de la loi du 1er août 1905 sur les fraudes et falsifications en matière de
 produits ou de services.
 
+Les inspecteurs et les contrôleurs du travail sont habilités à demander aux employeurs et aux personnes occupées dans les
+établissements assujettis au présent code de justifier de leur identité et de leur adresse.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°1905-08-01
-	  - Code du travail applicable à Mayotte. - art. L610-1 (M)
 
 	**Codifié par**:
 
@@ -14667,7 +14682,7 @@ produits ou de services.
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2004-1253 du 24 novembre 2004 - art. 142 () JORF 25 novembre 2004
 
 	**Cité par**:
 
@@ -14676,6 +14691,11 @@ produits ou de services.
 	  - Code de la santé publique - art. L3819-23 (V)
 	  - Code du travail applicable à Mayotte. - art. L610-5 (V)
 	  - Code du travail applicable à Mayotte. - art. L711-4 (Ab)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L610-1 (M)
+	  - Loi n°1905-08-01
 
 
 ###### Article L610-7
