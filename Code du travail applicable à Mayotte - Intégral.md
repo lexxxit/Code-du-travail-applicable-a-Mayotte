@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 1991-12-19
+Version Consolidée au 1992-03-15
 
 # Partie législative
 
@@ -17540,5 +17540,604 @@ susceptibles d'être sanctionnées au titre des dispositions de cet article.
 	**Créé par**:
 
 	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+# Partie réglementaire  - Décrets simples
+
+## Livre 1er : Conventions relatives au travail
+
+### Titre 4 : Salaire
+
+#### Chapitre 1er : Salaire minimum interprofessionnel garanti *SMIG*
+
+##### Section 1 : Dispositions générales
+
+###### Article D141-1
+
+Les salariés de l'un ou l'autre sexe et d'aptitude physique normale, à l'exception de ceux qui sont liés par un contrat
+d'apprentissage, reçoivent de leurs employeurs, lorsque leur salaire horaire contractuel est devenu inférieur au salaire
+minimum interprofessionnel garanti en vigueur, un complément calculé de façon à porter leur rémunération au montant dudit
+salaire minimum interprofessionnel garanti, sous réserve, pour les salariés de moins de dix-huit ans, des dispositions de
+l'article R. 141-1.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte R141-1
+
+	**Codifié par**:
+
+	  - Décret n°92-238 1992-03-09 annexe
+
+	**Créé par**:
+
+	  - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
+
+
+###### Article D141-2
+
+Le salaire horaire à prendre en considération pour l'application de l'article précédent est celui qui correspond à une heure
+de travail effectif, compte tenu des avantages en nature et des majorations diverses ayant le caractère de fait d'un
+complément de salaire, à l'exclusion des sommes versées à titre de remboursement de frais et des majorations pour heures
+supplémentaires prévues par la loi.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable à la collectivité territoriale de Mayotte D141-1
+
+	**Codifié par**:
+
+	  - Décret n°92-238 1992-03-09 annexe
+
+	**Créé par**:
+
+	  - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
+
+
+##### Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement
+
+###### Article D141-3
+
+Les dispositions de la présente section sont applicables aux salariés autres que le personnel navigant de la marine marchande
+et les concierges et gens de maison, lorsque leur rémunération est, de manière habituelle, constituée, pour partie, par la
+fourniture de la nourriture et du logement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°92-238 1992-03-09 annexe
+
+	**Créé par**:
+
+	  - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
+
+
+###### Article D141-4
+
+Pour les salariés auxquels l'employeur fournit la nourriture en totalité ou en partie [*avantages en nature*], le salaire
+minimum en espèces garanti est déterminé en déduisant du salaire minimum interprofessionnel garanti les sommes fixées par la
+convention ou accord collectifs. A défaut, la nourriture est évaluée par journée à un montant fixé par arrêté du représentant
+du Gouvernement à Mayotte en fonction de l'évolution de la rémunération horaire minimale interprofessionnelle garantie fixée
+à l'article L. 141-2, après avis de la commission consultative du travail.
+
+**Nota:**
+
+Nota : Code du travail applicable à la collectivité territoriale de Mayotte art. D141-3 : les dispositions de la présente
+section sont applicables aux salariés autres que le personnel navigant de la marine marchande et les concierges et gens de
+maison, lorsque leur rémunération est, de manière habituelle, constituée, pour partie, par la fourniture de la nourriture et
+du logement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L141-2
+
+	**Codifié par**:
+
+	  - Décret n°92-238 1992-03-09 annexe
+
+	**Créé par**:
+
+	  - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
+
+
+###### Article D141-5
+
+Pour le personnel des hôtels, cafés, restaurants et des établissements ou organismes dans lesquels des denrées alimentaires
+ou des boissons sont consommées sur place et pour le personnel de cuisine des autres établissements qui, en raison des
+conditions particulières de leur travail ou des usages, sont nourris gratuitement par l'employeur [*avantages en nature*] ou
+reçoivent une indemnité compensatrice, la nourriture, calculée conformément aux dispositions de l'article D. 141-4, n'entre
+en compte que pour la moitié de sa valeur.
+
+**Nota:**
+
+Nota : Code du travail applicable à la collectivité territoriale de Mayotte art. D141-3 : les dispositions de la présente
+section sont applicables aux salariés autres que le personnel navigant de la marine marchande et les concierges et gens de
+maison, lorsque leur rémunération est, de manière habituelle, constituée, pour partie, par la fourniture de la nourriture et
+du logement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte D141-4
+
+	**Codifié par**:
+
+	  - Décret n°92-238 1992-03-09 annexe
+
+	**Créé par**:
+
+	  - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
+
+
+###### Article D141-6
+
+Pour les salariés auxquels l'employeur fournit le logement, cette prestation en nature est évaluée, à défaut de convention ou
+d'accord collectifs, à un montant fixé par arrêté du représentant du Gouvernement à Mayotte, après avis de la commission
+consultative du travail.
+
+Les avantages en nature autres que la nourriture ou le logement sont évalués d'après leur valeur réelle, au prix de revient
+pour l'employeur.
+
+Pour le calcul du salaire minimum interprofessionnel garanti en espèces, les sommes correspondant aux avantages ci-dessus
+sont déduites du salaire minimum interprofessionnel garanti.
+
+**Nota:**
+
+Nota : Code du travail applicable à la collectivité territoriale de Mayotte art. D141-3 : les dispositions de la présente
+section sont applicables aux salariés autres que le personnel navigant de la marine marchande et les concierges et gens de
+maison, lorsque leur rémunération est, de manière habituelle, constituée, pour partie, par la fourniture de la nourriture et
+du logement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°92-238 1992-03-09 annexe
+
+	**Créé par**:
+
+	  - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
+
+
+###### Article D141-7
+
+Dans tous les cas où le salarié, logé et nourri, perçoit une rémunération en espèces supérieure au minimum résultant des
+dispositions de la présente section, l'application desdites dispositions n'entraîne aucune modification de cette rémunération
+[*avantages en nature, droits acquis*].
+
+**Nota:**
+
+Nota : Code du travail applicable à la collectivité territoriale de Mayotte art. D141-3 : les dispositions de la présente
+section sont applicables aux salariés autres que le personnel navigant de la marine marchande et les concierges et gens de
+maison, lorsque leur rémunération est, de manière habituelle, constituée, pour partie, par la fourniture de la nourriture et
+du logement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°92-238 1992-03-09 annexe
+
+	**Créé par**:
+
+	  - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
+
+
+## Livre 2 : Réglementation du travail
+
+### Titre 1er : Conditions de travail
+
+#### Chapitre 1er : Age d'admission
+
+###### Article D211-1
+
+La durée du travail des mineurs de seize ans dont l'emploi est autorisé pendant les vacances scolaires conformément aux
+dispositions de l'alinéa 4 de l'article L. 211-1 et à celles des arrêtés du représentant du Gouvernement fixant ses modalités
+d'application ne peut, en aucun cas, excéder trente-neuf heures par semaine, ni huit heures par jour [*durée maximum*].
+
+Leur rémunération ne peut être inférieure au salaire minimum interprofessionnel garanti, compte tenu d'un abattement au plus
+égal à 20 p. 100.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L211-1
+
+	**Codifié par**:
+
+	  - Décret n°92-238 1992-03-09 annexe
+
+	**Créé par**:
+
+	  - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
+
+
+###### Article D211-2
+
+Tout chef d'entreprise qui se propose d'occuper un mineur de seize ans pendant la période des vacances scolaires doit en
+faire par écrit la demande à l'inspecteur du travail dans un délai de quinze jours au moins précédant la date prévue pour
+l'embauchage [*conditions de forme*].
+
+Cette demande indique les nom, prénoms, âge et domicile de l'enfant, la durée du contrat, le lieu d'emploi, la nature et les
+conditions de travail auxquel il est envisagé de l'occuper. Elle précise notamment l'horaire de travail et le montant de la
+rémunération. Elle doit porter l'accord écrit et signé du représentant légal de l'enfant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°92-238 1992-03-09 annexe
+
+	**Créé par**:
+
+	  - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
+
+
+###### Article D211-3
+
+Si l'inspecteur du travail n'a pas manifesté son opposition motivée à l'embauchage dans un délai de huit jours francs à
+compter de l'expédition de la demande [*point de départ*], le cachet de la poste faisant foi, l'autorisation est réputée
+accordée [*accord tacite*].
+
+Si, dans ce même délai, l'inspecteur du travail a fait connaître qu'il subordonnait son autorisation à une ou plusieurs
+modifications ou adjonctions dans le libellé de la demande, cette décision vaut autorisation d'embauchage, sous réserve que
+l'employeur respecte, dans l'exécution du contrat, les obligations résultant des modifications ou adjonctions requises.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°92-238 1992-03-09 annexe
+
+	**Créé par**:
+
+	  - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
+
+
+###### Article D211-4
+
+L'autorisation d'emploi peut être retirée à tout moment s'il est constaté que l'enfant est occupé soit dans des conditions
+non conformes à celles au respect desquelles l'octroi de l'autorisation a été subordonné, soit en contravention aux textes
+relatifs à la réglementation du travail, et notamment à ceux qui protègent la main-d'oeuvre juvénile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°92-238 1992-03-09 annexe
+
+	**Créé par**:
+
+	  - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
+
+
+#### Chapitre 2 : Durée du travail
+
+##### Section 1 : Récupération des heures perdues
+
+###### Article D212-1
+
+Les heures perdues dans les cas prévus à l'article L. 212-3 ne peuvent être récupérées que dans les douze mois précédant ou
+suivant leur perte [*délai*].
+
+L'inspecteur du travail est préalablement informé par le chef d'établissement des interruptions collectives de travail et des
+modalités de la récupération. Toutefois, si le travail est interrompu par un événement imprévu, l'avis est donné
+immédiatement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L212-3
+
+	**Codifié par**:
+
+	  - Décret n°92-238 1992-03-09 annexe
+
+	**Créé par**:
+
+	  - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
+
+
+###### Article D212-2
+
+Les heures de récupération ne peuvent être réparties uniformément sur toute l'année.
+
+Sauf dispositions plus larges des arrêtés pris en application de l'article L. 212-2, elles ne peuvent augmenter la durée
+générale du travail de l'établissement ou de la partie d'établissement de plus d'une heure par jour ni de plus de huit heures
+par semaine.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L212-2
+
+	**Codifié par**:
+
+	  - Décret n°92-238 1992-03-09 annexe
+
+	**Créé par**:
+
+	  - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
+
+
+###### Article D212-3
+
+Le chef d'établissement ne peut débaucher pour manque de travail dans le délai d'un mois suivant une période de récupération
+le personnel habituellement employé dans les établissements ou partie d'établissement où ont été effectuées ces heures de
+récupération. Cette disposition ne s'applique pas aux salariés embauchés temporairement pour faire face au surcroît
+extraordinaire de travail.
+
+Le chef d'établissement qui n'a pas respecté les dispositions de l'alinéa précédent se voit retirer le bénéfice de la
+récupération des heures perdues et de l'utilisation des heures supplémentaires qui auraient été autorisées pour surcroît
+extraordinaire de travail. La durée du retrait ne peut excéder un an.
+
+Certaines industries ou certains établissements peuvent être autorisés à déroger aux règles fixées par le présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°92-238 1992-03-09 annexe
+
+	**Créé par**:
+
+	  - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
+
+
+###### Article D212-4
+
+La faculté de récupération est, en cas de chômage extraordinaire et prolongé survenant dans une catégorie professionnelle,
+suspendue pour cette catégorie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°92-238 1992-03-09 annexe
+
+	**Créé par**:
+
+	  - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
+
+
+###### Article D212-5
+
+Les décisions visées aux alinéas 2 et 3 de l'article D. 212-3 et à l'article D. 212-4 sont prises par arrêté du représentant
+du Gouvernement à Mayotte, sur rapport du chef du service de l'inspection du travail.
+
+La commission consultative du travail est préalablement consultée dans les cas visés au troisième alinéa de l'article D.
+212-3 et à l'article D. 212-4.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte D212-3, D212-4
+
+	**Codifié par**:
+
+	  - Décret n°92-238 1992-03-09 annexe
+
+	**Créé par**:
+
+	  - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
+
+
+### Titre 2 : Repos et congés
+
+#### Chapitre 3 : Congés annuels
+
+###### Article D223-1
+
+L'employeur qui occupe pendant la période fixée pour son congé légal un salarié à un travail rémunéré, même en dehors de
+l'entreprise, est considéré comme ne donnant pas le congé légal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°92-238 1992-03-09 annexe
+
+	**Créé par**:
+
+	  - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
+
+
+###### Article D223-2
+
+La période ordinaire des vacances doit dans tous les cas être portée par l'employeur à la connaissance du personnel au moins
+deux mois [*délai*] avant l'ouverture de cette période.
+
+L'ordre des départs est communiqué à chaque ayant droit quinze jours avant son départ et affiché dans les ateliers, bureaux
+et magasins. Il est fixé par l'employeur, après consultation du personnel ou de ses délégués, en tenant compte de la
+situation de famille des bénéficiaires et de la durée de leurs services dans l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°92-238 1992-03-09 annexe
+
+	**Créé par**:
+
+	  - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D223-1 (V)
+
+
+###### Article D223-3
+
+Ne peuvent être déduits du congé annuel les jours de maladie, les repos des femmes en couches prévus par l'article L. 122-48,
+les périodes obligatoires d'instruction militaire, les jours de chômage, les périodes de délai-congé, les absences
+autorisées.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-48
+
+	**Codifié par**:
+
+	  - Décret n°92-238 1992-03-09 annexe
+
+	**Créé par**:
+
+	  - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
+
+
+###### Article D223-4
+
+Le paiement des indemnités dues pour les congés payés est soumis aux règles qui sont fixées par le livre Ier du présent code
+pour le paiement des salaires et traitements.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°92-238 1992-03-09 annexe
+
+	**Créé par**:
+
+	  - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
+
+
+## Livre 3 : Emploi
+
+### Titre 1er : Déclarations de mouvements de main d'oeuvre
+
+#### Travail clandestin
+
+##### Chapitre 2 : Travail clandestin
+
+###### Article D312-1
+
+Pour l'application des articles L. 312-1 et suivants, les droits et pouvoirs des inspecteurs du travail ou contrôleurs du
+travail tels qu'ils sont définis par le livre VI du présent code sont étendus à tous les établissements dont le chef exerce
+habituellement une profession industrielle, commerciale ou artisanale, même s'il s'agit d'établissements de famille ou
+d'établissements n'occupant pas de salariés.
+
+Les chefs de ces établissements doivent tenir à la disposition des inspecteurs du travail toutes justifications de leurs
+inscriptions soit au registre du commerce, soit au registre des métiers.
+
+D'autre part, les inspecteurs du travail ou les contrôleurs du travail peuvent se faire communiquer, par les chefs
+d'établissement soumis à leur contrôle, la liste des noms et adresses de tous les fournisseurs de ces établissements et, pour
+chacun de ces fournisseurs, une lettre ou tout autre document faisant mention de l'inscription au registre du commerce ou au
+registre des métiers.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L312-1
+
+	**Codifié par**:
+
+	  - Décret n°92-238 1992-03-09 annexe
+
+	**Créé par**:
+
+	  - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
+
+
+## Livre 5 : Conflits du travail
+
+### Titre 1er : Conflits collectifs
+
+#### Chapitre 4 : Médiation
+
+###### Article D514-1
+
+Il est alloué aux personnes désignées en qualité de médiateur, en application des articles L. 514-1, R. 514-1 ou R. 514-2,
+une indemnité forfaitaire pour chaque médiation dont le taux varie suivant l'importance du différend [*rémunération*].
+
+L'indemnité allouée aux médiateurs comprend le remboursement des frais divers de secrétariat, de correspondance ou de
+déplacement à l'intérieur de leur résidence, nécessités par l'accomplissement de leur mission.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L514-1, R514-1, R514-2
+
+	**Codifié par**:
+
+	  - Décret n°92-238 1992-03-09 annexe
+
+	**Créé par**:
+
+	  - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
+
+
+###### Article D514-2
+
+Les experts aux offices desquels les médiateurs peuvent avoir recours sont rémunérés à la vacation.
+
+Les personnes qualifiées qui prêtent leur concours aux médiateurs perçoivent une indemnité forfaitaire [*rémunération*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°92-238 1992-03-09 annexe
+
+	**Créé par**:
+
+	  - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
+
+
+###### Article D514-3
+
+Le taux et les conditions d'attribution de l'indemnité forfaitaire prévue à l'article D. 514-1 ainsi que le taux et les
+conditions d'attribution des vacations et de l'indemnité forfaitaire prévues à l'article D. 514-2 sont fixés par arrêté du
+représentant du Gouvernement à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte D514-1, D514-2
+
+	**Codifié par**:
+
+	  - Décret n°92-238 1992-03-09 annexe
+
+	**Créé par**:
+
+	  - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
+
+
+###### Article D514-4
+
+Les dépenses de déplacement que les médiateurs, les experts et les personnes qualifiées peuvent être appelés à effectuer hors
+de leur résidence pour l'accomplissement de leur mission leur sont remboursées dans les conditions suivantes :
+
+- s'ils sont fonctionnaires en activité, ils perçoivent les indemnités prévues aux barèmes applicables au groupe auquel ils
+appartiennent ;
+
+- s'ils ne possèdent pas la qualité de fonctionnaire en activité, ils perçoivent les indemnités applicables aux
+fonctionnaires du groupe I.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°92-238 1992-03-09 annexe
+
+	**Créé par**:
+
+	  - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
 
 
