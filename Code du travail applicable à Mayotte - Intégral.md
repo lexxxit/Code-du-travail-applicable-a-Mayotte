@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2004-06-02
+Version Consolidée au 2004-08-17
 
 # Partie législative
 
@@ -2481,6 +2481,63 @@ Toute stipulation contraire aux dispositions de la présente section est nulle d
 	**Modifié par**:
 
 	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+
+##### Section 4 bis : Dispositions particulières applicables aux personnes participant à des opérations de secours ou ayant souscrit un engagement dans la réserve de sécurité civile
+
+###### Article L122-41-1
+
+Lorsqu'un salarié membre d'une association agréée en matière de sécurité civile est sollicité pour la mise en oeuvre du plan
+Orsec ou à la demande de l'autorité de police compétente en cas d'accident, sinistre ou catastrophe, il lui appartient
+d'obtenir l'accord de son employeur. Sauf nécessité inhérente à la production ou à la marche de l'entreprise, l'employeur ne
+peut s'opposer à l'absence du salarié.
+
+Aucun licenciement ou déclassement professionnel, aucune sanction disciplinaire ne peuvent être prononcés à l'encontre du
+salarié mobilisé en raison des absences résultant des présentes dispositions.
+
+Les conditions de prise en compte de son absence sont définies en accord avec l'employeur, sous réserve de dispositions plus
+favorables résultant du contrat de travail, de conventions ou accords collectifs de travail ou de conventions conclues entre
+l'employeur et le ministre chargé de la sécurité civile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2004-811 du 13 août 2004 - art. 91 () JORF 17 août 2004
+
+
+###### Article L122-41-2
+
+Lorsque le salarié accomplit son engagement à servir dans la réserve de sécurité civile pendant son temps de travail, il doit
+obtenir l'accord de son employeur, sous réserve de dispositions plus favorables résultant du contrat de travail, de
+conventions ou accords collectifs de travail ou de conventions conclues entre l'employeur et l'autorité de gestion de la
+réserve. Si l'employeur oppose un refus, cette décision doit être motivée et notifiée à l'intéressé ainsi qu'à l'autorité de
+gestion de la réserve dans la semaine qui suit la réception de la demande.
+
+Le contrat de travail du salarié exerçant une activité dans la réserve de sécurité civile pendant son temps de travail est
+suspendu pendant la période en cause.
+
+Toutefois, cette période est considérée comme une période de travail effectif pour les avantages trouvant leur fondement dans
+la loi, un règlement ou une convention en matière d'ancienneté, de congés payés et de droit aux prestations sociales.
+
+Aucun licenciement ou déclassement professionnel, aucune sanction disciplinaire ne peuvent être prononcés à l'encontre d'un
+salarié en raison de ses absences résultant de son engagement à servir dans la réserve de sécurité civile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2004-811 du 13 août 2004 - art. 91 () JORF 17 août 2004
 
 
 ##### Section 5 : Règles particulières aux salariés candidats ou élus à un mandat parlementaire ou local.
