@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 1992-03-15
+Version Consolidée au 1993-09-01
 
 # Partie législative
 
@@ -12744,7 +12744,7 @@ jouissent à ce titre du droit d'entrée et du droit de prélèvement prévus à
 les registres et documents prévus à l'article L. 610-8, lorsqu'ils concernent l'hygiène, la sécurité et les conditions de
 travail. Ils sont tenus [*obligations*] de ne pas révéler les secrets de fabrication et, en général, les procédés
 d'exploitation dont ils pourraient prendre connaissance dans l'exercice de leurs fonctions. Toute violation de ces
-obligations est punie conformément à l'article 378 du code pénal.
+obligations est punie conformément aux articles 226-13 et 226-14 du code pénal.
 
 **Nota:**
 
@@ -12763,16 +12763,17 @@ obligations est punie conformément à l'article 378 du code pénal.
 	**Cite**:
 
 	  - Code du travail applicable dans la collectivité territoriale de Mayotte L610-6, L610-8
-	  - Code pénal 378
+	  - Code pénal - art. 226-13 (M)
+	  - Code pénal - art. 226-14 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
 
 
 ###### Article L610-6
@@ -12935,7 +12936,7 @@ livre 6.*]
 Les inspecteurs et contrôleurs du travail sont tenus de ne point révéler les secrets de fabrication et, en général, les
 procédés d'exploitation dont ils pourraient prendre connaissance dans l'exercice de leurs fonctions.
 
-Toute violation de ces obligations est punie conformément à l'article 378 du code pénal.
+Toute violation de ces obligations est punie conformément aux articles 226-13 et 226-14 du code pénal.
 
 Les interprètes visés à l'article L. 610-7 sont tenus aux mêmes obligations.
 
@@ -12953,16 +12954,17 @@ livre 6.*]
 	**Cite**:
 
 	  - Code du travail applicable dans la collectivité territoriale de Mayotte L610-7
-	  - Code pénal 378
+	  - Code pénal - art. 226-13 (M)
+	  - Code pénal - art. 226-14 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
 
 
 ###### Article L610-11
