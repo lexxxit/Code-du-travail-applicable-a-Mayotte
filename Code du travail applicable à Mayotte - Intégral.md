@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2005-01-22
+Version Consolidée au 2005-03-02
 
 # Partie législative
 
@@ -19140,6 +19140,24 @@ cours de livraison.
 
 ##### Sous-section 2 : Installations sanitaires.
 
+###### Article R232-16
+
+Les employeurs doivent mettre à la disposition des salariés les moyens d'assurer leur propreté individuelle, notamment des
+vestiaires, des lavabos, des cabinets d'aisances et, le cas échéant, des douches.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R231-25 (V)
+	  - Code du travail applicable à Mayotte. - art. R232-95 (V)
+	  - Code du travail applicable à Mayotte. - art. R239-14 (V)
+
+
 ###### Article R232-20
 
 Dans les établissements où sont effectués certains travaux insalubres et salissants et dont la liste est fixée par des
@@ -19167,9 +19185,282 @@ cours de livraison.
 	  - Décret n°2004-196 2004-02-25
 
 
+###### Article R232-21
+
+Les cabinets d'aisances ne doivent pas communiquer directement avec les locaux fermés où le personnel est appelé à
+séjourner. 
+
+Ils doivent être aménagés de manière à ne dégager aucune odeur, être équipés de chasse d'eau et pourvus de papier hygiénique.
+Ils doivent être conformes aux dispositions des articles R. 232-27 à R. 232-36 pour l'aération. 
+
+Le sol et les parois sont en matériaux imperméables permettant un nettoyage efficace. 
+
+Les portes doivent être pleines et munies d'un dispositif de fermeture intérieure décondamnable de l'extérieur. 
+
+Il doit y avoir au moins un cabinet et un urinoir pour vingt hommes et deux cabinets pour vingt femmes. L'effectif pris en
+compte est le nombre maximal de salariés présents simultanément dans l'établissement. Un cabinet au moins doit comporter un
+poste d'eau. 
+
+Dans les établissements occupant un personnel mixte, les cabinets d'aisances sont séparés pour le personnel féminin et
+masculin. Les cabinets d'aisances réservés aux femmes doivent comporter un récipient pour garnitures périodiques. 
+
+L'employeur doit faire procéder au nettoyage et à la désinfection des cabinets d'aisances et des urinoirs au moins une fois
+par jour. 
+
+Les effluents sont évacués conformément aux règlements sanitaires. 
+
+Un arrêté des ministres chargés du travail et de la santé adapte les dispositions des alinéas 5 et 6 du présent article aux
+établissements de soins publics et privés en fonction des conditions de travail particulières à ces établissements.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-27 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-97 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-188 (V)
+	  - Code du travail applicable à Mayotte. - art. R239-15 (V)
+
+
+###### Article R232-23
+
+Lorsque l'aménagement des vestiaires, des lavabos et des douches ne peut, pour des raisons tenant à la disposition des locaux
+de travail, être effectué dans les conditions fixées par les articles R. 231-17 à R. 231-22 ci-dessus, le directeur du
+travail, de l'emploi et de la formation professionnelle peut, après enquête de l'agent de contrôle de l'inspection du travail
+et avis du médecin du travail et des délégués du personnel, et sur la demande du chef d'établissement, dispenser celui-ci de
+certaines obligations prévues aux articles précités à condition que les mesures nécessaires soient prises pour assurer aux
+salariés des conditions d'hygiène correspondant dans toute la mesure du possible à celles prévues par ces articles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R231-17 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-96 (V)
+
+
+##### Sous-section 3 : Postes de distribution de boissons.
+
+###### Article R232-24
+
+Les employeurs doivent mettre à la disposition des salariés de l'eau potable et fraîche pour la boisson.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R232-25
+
+Dans le cas où des conditions particulières de travail entraînent les salariés à se désaltérer fréquemment, l'employeur est
+tenu, en outre, de mettre gratuitement à leur disposition au moins une boisson non alcoolisée.
+
+La liste des postes de travail concernés est établie par l'employeur, après avis du médecin du travail et des délégués du
+personnel.
+
+Le choix des boissons et le choix des aromatisants, qui doivent titrer moins d'un degré d'alcool et être non toxiques, sont
+fixés en tenant compte des souhaits exprimés par les salariés et après avis du médecin du travail.
+
+L'employeur détermine l'emplacement des postes de distribution des boissons qui doit être à proximité des postes de travail
+et dans un endroit remplissant toutes les conditions d'hygiène.
+
+L'employeur doit, en outre, veiller à l'entretien et au bon fonctionnement des appareils de distribution, à la bonne
+conservation des boissons et surtout à éviter toute contamination.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
 ##### Section 2 : Ambiances des lieux de travail
 
+##### Sous-section 1 : Aération, assainissement.
+
+###### Article R232-32
+
+Dans les locaux à pollution spécifique, les concentrations moyennes en poussières totales et alvéolaires de l'atmosphère
+inhalée par une personne, évaluées sur une période de huit heures, ne doivent pas dépasser respectivement 10 et 5
+milligrammes par mètre cube d'air.
+
+Des prescriptions particulières déterminent le cas échéant :
+
+1° D'autres limites que celles qui sont fixées au premier alinéa ci-dessus pour certaines variétés de poussières ;
+
+2° Des valeurs limites pour des substances telles que certains gaz, aérosols liquides ou vapeurs et pour des paramètres
+climatiques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R231-11 (V)
+	  - Code du travail applicable à Mayotte. - art. R231-12 (V)
+	  - Code du travail applicable à Mayotte. - art. R232-35 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-6-6 (V)
+
+
+###### Article R232-34
+
+Les émissions sous forme de gaz, vapeurs, aérosols de particules solides ou liquides, de substances insalubres, gênantes ou
+dangereuses pour la santé des salariés doivent être supprimées lorsque les techniques de production le permettent. 
+
+Dans le cas contraire, elles doivent être captées au fur et à mesure de leur production, au plus près de leur source
+d'émission et aussi efficacement que possible, notamment en tenant compte de la nature, des caractéristiques et du débit des
+polluants ainsi que des mouvements de l'air. 
+
+Toutefois, s'il n'est techniquement pas possible de capter à leur source la totalité des polluants, les polluants résiduels
+doivent être évacués par la ventilation générale du local. 
+
+Les installations de captage et de ventilation doivent être réalisées de telle sorte que les concentrations dans l'atmosphère
+ne soient dangereuses en aucun point pour la santé et la sécurité des salariés et qu'elles restent inférieures aux valeurs
+limites fixées à l'article R. 231-32. 
+
+Les dispositifs d'entrée d'air compensant les volumes extraits doivent être conçus et disposés de façon à ne pas réduire
+l'efficacité des systèmes de captage. 
+
+Un dispositif d'avertissement automatique doit signaler toute défaillance des installations de captage qui n'est pas
+directement décelable par les occupants des locaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R231-19 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R231-32 (V)
+
+
+##### Sous-section 2 : Eclairage.
+
+###### Article R232-50
+
+Le matériel d'éclairage doit pouvoir être entretenu aisément. 
+
+Le chef d'établissement fixe les règles d'entretien périodique du matériel en vue d'assurer la correcte application des
+dispositions des articles R. 232-44, R. 232-45, R. 232-47 et R. 232-49. 
+
+Les règles d'entretien sont consignées dans un document qui est communiqué aux délégués du personnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-44 (V)
+	  - Code du travail applicable à Mayotte. - art. R232-47 (V)
+	  - Code du travail applicable à Mayotte. - art. R232-49 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R239-5 (V)
+
+
 ##### Sous-section 3 : Prévention des risques dûs au bruit.
+
+###### Article R232-54
+
+I. - L'employeur procède à une estimation et, si besoin est, à un mesurage du bruit subi pendant le travail, de façon à
+identifier les salariés pour lesquels l'exposition sonore quotidienne atteint ou dépasse le niveau de 85 dB (A) ou pour
+lesquels la pression acoustique de crête atteint ou dépasse le niveau de 135 dB.
+
+L'employeur effectue, pour ces salariés, un mesurage du niveau d'exposition sonore quotidienne et, le cas échéant, du niveau
+de pression acoustique de crête.
+
+L'employeur procède à une nouvelle estimation et, si besoin est, à un nouveau mesurage tous les trois ans et lorsqu'une
+modification des installations ou des modes de travail est susceptible d'entraîner une élévation des niveaux de bruit.
+
+Un arrêté du ministre chargé du travail fixe la méthode et l'appareillage qui doivent être utilisés pour le mesurage.
+
+II. - Le mesurage est prévu dans un document établi par l'employeur. Ce document est soumis pour avis aux délégués du
+personnel, ainsi qu'au médecin du travail.
+
+Ce document est réexaminé et éventuellement adapté par l'employeur, lors des modifications des installations ou des modes de
+travail, ou sur proposition du médecin du travail.
+
+Ce document et les avis prévus ci-dessus sont tenus à la disposition de l'agent de contrôle de l'inspection du travail et aux
+agents de l'organisme chargé du risque accidents du travail et maladies professionnelles.
+
+III. - Les résultats du mesurage sont tenus à la disposition des salariés exposés, du médecin du travail, des délégués du
+personnel ainsi que de l'agent de contrôle de l'inspection du travail et des agents de l'organisme chargé du risque accidents
+du travail et maladies professionnelles.
+
+Il est fourni aux intéressés les explications nécessaires sur la signification de ces résultats.
+
+Les résultats doivent être conservés dans l'entreprise pendant dix ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-13 (V)
+
+
+###### Article R232-55
+
+I. - Lorsque l'exposition sonore quotidienne subie par un salarié dépasse le niveau de 85 dB (A) ou lorsque la pression
+acoustique de crête dépasse le niveau de 135 dB, des protecteurs individuels doivent être mis à sa disposition.
+
+II. - Lorsque l'exposition sonore quotidienne subie par un salarié dépasse le niveau de 90 dB (A) ou lorsque la pression
+acoustique de crête dépasse le niveau de 140 dB, l'employeur prend toutes dispositions pour que les protecteurs individuels
+soient utilisés.
+
+III. - Les protecteurs individuels doivent être fournis gratuitement par l'employeur à chaque salarié exposé, les modèles
+étant choisis par l'employeur après avis des salariés concernés et du médecin du travail. Les modèles non jetables doivent
+être attribués personnellement et entretenus à la charge de l'employeur.
+
+Les protecteurs doivent être adaptés au salarié et à ses conditions de travail. Ils doivent garantir que l'exposition sonore
+quotidienne résiduelle est inférieure au niveau de 85 dB (A) ou que la pression acoustique de crête résiduelle est inférieure
+au niveau de 135 dB.
+
+IV. - Lorsque le port des protecteurs individuels est susceptible d'entraîner un risque d'accident, toutes mesures
+appropriées, notamment l'emploi de signaux d'avertissement adéquats, doivent être prises.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-58 (V)
+	  - Code du travail applicable à Mayotte. - art. R232-59 (V)
+
 
 ###### Article R232-56
 
