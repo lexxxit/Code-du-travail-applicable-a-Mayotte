@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2003-03-19
+Version Consolidée au 2003-07-22
 
 # Partie législative
 
@@ -4431,6 +4431,84 @@ L'activité de l'association intermédiaire est réputée non lucrative au regar
 	**Cite**:
 
 	  - Code du travail applicable à Mayotte. - art. L124-1 (M)
+
+
+#### CHAPITRE VIII : Titre de travail simplifié.
+
+###### Article L128-1
+
+Il est créé un titre de travail simplifié pour assurer la rémunération et pour la déclaration en vue du paiement des
+cotisations sociales :
+
+- des personnes employées par les entreprises, employeurs et organismes mentionnés à l'article L. 000-1 occupant moins de
+onze salariés ;
+
+- des personnes effectuant des travaux et services au domicile des particuliers.
+
+L'activité de ces personnes est réputée être salariée. Si elle excède, pour la même personne, dans la même entreprise, cent
+jours, consécutifs ou non, par année civile, le contrat de travail est réputé être à durée indéterminée à compter du premier
+jour de dépassement de cette limite.
+
+Le titre de travail simplifié ne peut être utilisé qu'avec l'accord du salarié. Il se substitue à la remise du bulletin de
+paie prévu par l'article L. 143-3. L'entreprise est tenue de procéder à une déclaration nominative préalable à l'embauche,
+auprès de la caisse de prévoyance sociale.
+
+L'employeur et le salarié qui utilisent le titre de travail simplifié sont réputés satisfaire aux obligations mises à la
+charge de l'un ou de l'autre par l'article L. 122-4, ainsi qu'aux déclarations au titre de la médecine du travail et du
+régime des prestations mentionnées à l'article L. 327-1.
+
+La rémunération portée sur le titre de travail simplifié inclut une indemnité de congés payés dont le montant est égal à un
+dixième de la rémunération. Lorsque le contrat de travail est à durée indéterminée, les dispositions des articles L. 223-1 à
+L. 223-12 restent applicables.
+
+Les titres de travail simplifiés sont émis et délivrés par les établissements de crédit ou par les institutions ou services
+du Trésor public, des services financiers de la Poste, de l'institut d'émission des départements d'outre-mer, de l'institut
+d'émission d'outre-mer ou de la Caisse des dépôts et consignations, qui ont passé convention avec l'Etat.
+
+Les cotisations sociales d'origine légale ou conventionnelle imposées par la loi dues au titre des rémunérations versées aux
+salariés visés au présent article sont calculées sur une base forfaitaire réduite et font l'objet d'un versement unique à la
+caisse de prévoyance sociale. Nonobstant les dispositions de l'article 12 du décret n° 57-245 du 24 février 1957 sur la
+réparation et la prévention des accidents du travail et des maladies professionnelles dans les territoires d'outre-mer, le
+taux de la cotisation due au titre des accidents du travail et des maladies professionnelles est fixé par arrêté,
+uniformément, quelle que soit la catégorie de risques dont relève l'établissement.
+
+Par dérogation, ces cotisations peuvent être calculées, d'un commun accord entre l'employeur et le salarié, sur les
+rémunérations réellement versées au salarié. Elles sont calculées sur les rémunérations réellement versées au salarié dans le
+cas d'un contrat à durée indéterminée.
+
+Les modalités de gestion et de répartition de ce versement unique font l'objet d'un accord entre les organismes concernés
+avant le 1er juillet 2004. A défaut d'accord à cette date, ces modalités sont fixées par arrêté interministériel.
+
+Les modalités d'applications du présent article sont déterminées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°57-245 1957-02-24 art. 12
+	  - Code du travail applicable à Mayotte L000-1, L143-3, L122-4, L327-1, L223-1 à L223-12
+	  - Code du travail applicable à Mayotte. - art. L000-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L122-4 (M)
+	  - Code du travail applicable à Mayotte. - art. L143-3 (M)
+	  - Code du travail applicable à Mayotte. - art. L327-1 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-660 du 21 juillet 2003 - art. 14 (V) JORF 22 juillet 2003
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R128-1 (V)
+	  - Code du travail applicable à Mayotte. - art. R128-13 (V)
+	  - Code du travail applicable à Mayotte. - art. R128-14 (V)
+	  - Code du travail applicable à Mayotte. - art. R128-2 (V)
+	  - Code du travail applicable à Mayotte. - art. R128-5 (V)
+	  - Code général des collectivités territoriales - art. L2564-7 (VD)
 
 
 ### TITRE III : CONVENTIONS ET ACCORDS COLLECTIFS DE TRAVAIL
@@ -11529,23 +11607,34 @@ Un décret en Conseil d'Etat détermine les modalités d'application du présent
 
 ###### Article L325-2
 
-Une prime à la création d'emplois financée par l'Etat est instituée pour les entreprises comptant moins de onze salariés dont
-le siège social et l'établissement principal sont situés à Mayotte et n'ayant procédé à aucun licenciement pour cause
-économique depuis au moins un an.
+Une prime à la création d'emploi en faveur des jeunes, financée par l'Etat, est instituée pour les entreprises dont le siège
+social et l'établissement principal sont situés à Mayotte qui n'ont procédé à aucun licenciement pour cause économique depuis
+au moins un an, qui sont à jour du versement de leurs cotisations et contributions sociales, et à condition que le salarié
+n'ait pas travaillé chez l'employeur dans les douze mois précédant cette embauche, sauf s'il était titulaire d'un contrat à
+durée déterminée.
 
-Cette prime est accordée par le représentant de l'Etat pour le recrutement de chaque demandeur d'emploi inscrit auprès des
-services chargés de l'emploi, embauché sous contrat de travail à durée indéterminée ou à durée déterminée d'au moins un an et
-permettant une création nette d'emploi par rapport à l'effectif moyen de l'année civile précédente dans une entreprise dont
-l'activité présente un intérêt pour le développement économique de Mayotte.
+Cette prime est accordée par le représentant de l'Etat à l'occasion du recrutement d'une jeune âgé de seize à vingt-cinq ans
+révolus, demandeur d'emploi inscrit auprès du service chargé de l'emploi, embauché sous contrat de travail à durée
+indéterminée à temps complet sur la base de la durée légale du travail et permettant une création nette d'emploi par rapport
+à l'effectif moyen de l'année civile précédente.
 
-L'aide est versée pendant trois ans, de façon dégressive. Son montant est fixé en pourcentage de la rémunération horaire
-minimale prévue à l'article L. 141-2 multipliée par le nombre d'heures correspondant à la durée légale du travail fixée à
-l'article L. 212-1.
+L'aide est versée pendant trois ans au plus, le cas échéant, de façon dégressive. Son montant est fixé en pourcentage de la
+rémunération horaire minimale prévue à l'article L. 141-2 multipliée par le nombre d'heures correspondant à la durée légale
+du travail fixée à l'article L. 212-1.
 
 L'aide est retirée si l'effectif de l'entreprise diminue par rapport à celui déclaré lors de l'embauche ou s'il est constaté
 que l'entreprise n'est pas à jour de ses obligations fiscales ou sociales.
 
-Un décret en conseil d'Etat détermine les modalités d'application du présent article.
+Le contrat de travail peut être rompu sans préavis à l'initiative du salarié lorsque la rupture a pour objet de permettre à
+celui-ci d'être embauché en vertu du contrat prévu à l'article L. 711-5 ou de suivre l'une des formations qualifiantes
+mentionnées aux articles L. 324-9 et L. 711-2.
+
+La prime n'est pas cumulable avec une autre aide à l'emploi attribuée par l'Etat.
+
+Un accord collectif interprofessionnel peut prévoir les conditions dans lesquelles les salariés visés au deuxième alinéa
+bénéficient d'actions de formation.
+
+Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
 
 **Liens relatifs à cet article**
 
@@ -11554,9 +11643,9 @@ Un décret en conseil d'Etat détermine les modalités d'application du présent
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2002-242 du 21 février 2002 - art. 2 () JORF 23 février 2002
+	  - Loi n°2003-660 du 21 juillet 2003 - art. 13 (V) JORF 22 juillet 2003
 
 	**Cité par**:
 
@@ -11568,6 +11657,9 @@ Un décret en conseil d'Etat détermine les modalités d'application du présent
 
 	  - Code du travail applicable à Mayotte. - art. L141-2 (M)
 	  - Code du travail applicable à Mayotte. - art. L212-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L324-9 (V)
+	  - Code du travail applicable à Mayotte. - art. L711-2 (M)
+	  - Code du travail applicable à Mayotte. - art. L711-5 (M)
 
 
 ###### Article L325-3
@@ -11785,26 +11877,13 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 
 #### Chapitre VI : Placement
 
-###### Article L326-1
+###### Article L326
 
-Les services de l'emploi placés sous l'autorité du représentant de l'Etat sont chargés :
+Comme il est dit à l'article L. 830-1 du code du travail applicable dans les départements de métropole et d'outre-mer ci-
+après reproduit :
 
-a) De l'accueil des personnes à la recherche d'un emploi et de leur inscription sur une liste tenue par leurs soins ;
-
-b) De l'orientation des personnes susceptibles de bénéficier des mesures relatives à la formation professionnelle, à la
-mobilité géographique et professionnelle inscrites sur la liste prévue au a ;
-
-c) Du placement des personnes désireuses de trouver un emploi, notamment par le rapprochement des offres et demandes
-d'emploi ;
-
-d) De la coordination d'actions concertées en matière d'emploi, d'insertion et de formation entre les collectivités
-publiques, les entreprises publiques et privées, les divers types d'établissements d'enseignement, les associations et les
-organisations professionnelles, syndicales et familiales ;
-
-e) Du contrôle de la recherche effective et permanente d'emploi des personnes inscrites, et notamment des personnes
-indemnisées au titre de la perte d'emploi.
-
-Les opérations mentionnées ci-dessus sont effectuées gratuitement.
+"Art. L. 830-1. - L'Agence nationale pour l'emploi prévue à l'article L. 311-7 assure le service public du placement à
+Mayotte dans les conditions prévues par le code du travail applicable localement."
 
 **Liens relatifs à cet article**
 
@@ -11815,9 +11894,51 @@ Les opérations mentionnées ci-dessus sont effectuées gratuitement.
 
 	**Créé par**:
 
-	  - Ordonnance n°2002-242 du 21 février 2002 - art. 4 () JORF 23 février 2002
+	  - Loi n°2003-660 du 21 juillet 2003 - art. 15 (V) JORF 22 juillet 2003
 
-	**Transféré par**:
+	**Cite**:
+
+	  - Code du travail - art. L830-1 (M)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L549-1 (T)
+	  - Code de l'éducation - art. L262-4 (VD)
+	  - Code du travail applicable à Mayotte. - art. L313-4 (V)
+	  - Code du travail applicable à Mayotte. - art. L321-6 (V)
+	  - Code du travail applicable à Mayotte. - art. L321-7 (V)
+	  - Code du travail applicable à Mayotte. - art. L322-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L322-2 (VD)
+	  - Code du travail applicable à Mayotte. - art. L322-20 (VD)
+	  - Code du travail applicable à Mayotte. - art. L322-40 (V)
+	  - Code du travail applicable à Mayotte. - art. L326-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L326-2 (V)
+	  - Code du travail applicable à Mayotte. - art. L326-3 (V)
+	  - Code du travail applicable à Mayotte. - art. L326-4 (V)
+	  - Code du travail applicable à Mayotte. - art. L326-6 (V)
+	  - Code du travail applicable à Mayotte. - art. L326-7 (V)
+	  - Code du travail applicable à Mayotte. - art. L326-8 (V)
+	  - Code du travail applicable à Mayotte. - art. R322-1 (V)
+
+
+###### Article L326-1
+
+Peuvent également concourir au service public du placement les établissements publics, des organismes gérés paritairement par
+les organisations syndicales d'employeurs et de salariés et des associations, s'ils ont été agréés à cet effet par l'Etat ou
+s'ils ont passé convention avec l'Agence nationale pour l'emploi. En cas d'agrément par l'Etat, l'Agence nationale pour
+l'emploi passe convention avec ces organismes.
+
+Les employeurs ou groupes d'employeurs qui entreprennent des actions de reclassement en faveur de leur personnel peuvent
+également effectuer des opérations de placement durant ces actions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Modifié par**:
 
 	  - Loi n°2003-660 du 21 juillet 2003 - art. 15 (V) JORF 22 juillet 2003
 
@@ -11848,12 +11969,9 @@ Les opérations mentionnées ci-dessus sont effectuées gratuitement.
 
 ###### Article L326-2
 
-L'inscription sur la liste prévue à l'article L. 326-1 est subordonnée à la production d'un document attestant de l'état
-civil du demandeur. Les services de l'emploi, pour en vérifier la validité, ont accès aux fichiers des services de l'Etat, de
-la collectivité départementale, des communes ou de leurs établissements publics.
+Tout travailleur recherchant un emploi doit requérir son inscription auprès de l'Agence nationale pour l'emploi.
 
-Lors de l'inscription d'une personne de nationalité étrangère sur cette liste, les services de l'emploi vérifient, sous les
-mêmes conditions, la validité de ses titres de séjour et de travail.
+Tout employeur est tenu de notifier à cette agence toute place vacante dans son entreprise.
 
 **Liens relatifs à cet article**
 
@@ -11862,11 +11980,7 @@ mêmes conditions, la validité de ses titres de séjour et de travail.
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Créé par**:
-
-	  - Ordonnance n°2002-242 du 21 février 2002 - art. 4 () JORF 23 février 2002
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2003-660 du 21 juillet 2003 - art. 15 (V) JORF 22 juillet 2003
 
@@ -11880,16 +11994,239 @@ mêmes conditions, la validité de ses titres de séjour et de travail.
 	  - Code du travail applicable à Mayotte. - art. R326-49 (V)
 	  - Code général des collectivités territoriales - art. L2564-6 (VD)
 
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L326-1 (T)
-
 	**Nouveaux textes**:
 
 	  - Code du travail applicable à Mayotte. - art. L326-8 (V)
 
 
 ###### Article L326-3
+
+Les communes peuvent recevoir des offres d'emploi et effectuer des opérations de placement en faveur de leurs administrés à
+la recherche d'un emploi, après avoir passé, à cet effet, convention avec l'Etat et l'Agence nationale pour l'emploi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2003-660 du 21 juillet 2003 - art. 15 (V) JORF 22 juillet 2003
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L321-6 (V)
+	  - Code du travail applicable à Mayotte. - art. R326-23 (V)
+	  - Code du travail applicable à Mayotte. - art. R326-25 (V)
+	  - Code du travail applicable à Mayotte. - art. R326-4 (V)
+	  - Code du travail applicable à Mayotte. - art. R326-6 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. L326-9 (V)
+
+
+###### Article L326-4
+
+Les collectivités territoriales peuvent concourir à l'insertion professionnelle et sociale de certaines catégories de
+personnes à la recherche d'un emploi dans des conditions définies par une convention passée avec l'Etat et, le cas échéant,
+l'Agence nationale pour l'emploi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-660 du 21 juillet 2003 - art. 15 (V) JORF 22 juillet 2003
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-1 (VD)
+	  - Code du travail applicable à Mayotte. - art. L322-46 (V)
+	  - Code du travail applicable à Mayotte. - art. R322-1 (V)
+	  - Code du travail applicable à Mayotte. - art. R322-2 (VD)
+	  - Code du travail applicable à Mayotte. - art. R322-52 (V)
+	  - Code du travail applicable à Mayotte. - art. R326-53 (V)
+
+
+###### Article L326-5
+
+A leur demande, les maires, pour les besoins du placement ou pour la détermination des avantages sociaux auxquels peuvent
+prétendre les intéressés, ont communication de la liste des demandeurs d'emploi domiciliés dans leur commune.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-660 du 21 juillet 2003 - art. 15 (V) JORF 22 juillet 2003
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R326-26 (V)
+	  - Code du travail applicable à Mayotte. - art. R326-27 (V)
+
+
+###### Article L326-6
+
+Dans les localités où il n'existe pas de bureau de l'Agence nationale pour l'emploi, les maires sont chargés de recevoir et
+de consigner les déclarations des demandeurs d'emploi et de les transmettre à l'Agence nationale pour l'emploi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-660 du 21 juillet 2003 - art. 15 (V) JORF 22 juillet 2003
+
+	**Cité par**:
+
+	  - Décret n°2015-1220 du 1er octobre 2015 (V)
+	  - Ordonnance n°2016-160 du 18 février 2016 - art. 1 (V)
+	  - Code du travail applicable à Mayotte. - art. L127-11 (V)
+	  - Code du travail applicable à Mayotte. - art. L127-15 (V)
+	  - Code du travail applicable à Mayotte. - art. L127-3 (V)
+	  - Code du travail applicable à Mayotte. - art. L127-5 (V)
+	  - Code du travail applicable à Mayotte. - art. L127-7 (V)
+	  - Code du travail applicable à Mayotte. - art. L127-8 (V)
+	  - Code du travail applicable à Mayotte. - art. L313-4 (V)
+	  - Code du travail applicable à Mayotte. - art. L321-7 (M)
+	  - Code du travail applicable à Mayotte. - art. L322-1 (VD)
+	  - Code du travail applicable à Mayotte. - art. L322-11 (V)
+	  - Code du travail applicable à Mayotte. - art. L322-15 (V)
+	  - Code du travail applicable à Mayotte. - art. L326-12 (V)
+	  - Code du travail applicable à Mayotte. - art. L326-13 (V)
+	  - Code du travail applicable à Mayotte. - art. L326-18 (V)
+	  - Code du travail applicable à Mayotte. - art. L326-19 (V)
+	  - Code du travail applicable à Mayotte. - art. L326-2 (V)
+	  - Code du travail applicable à Mayotte. - art. L326-32 (V)
+	  - Code du travail applicable à Mayotte. - art. L326-45 (V)
+	  - Code du travail applicable à Mayotte. - art. L326-46 (V)
+	  - Code du travail applicable à Mayotte. - art. L326-48 (V)
+	  - Code du travail applicable à Mayotte. - art. L326-49 (V)
+	  - Code du travail applicable à Mayotte. - art. L326-5 (V)
+	  - Code du travail applicable à Mayotte. - art. L326-50 (V)
+	  - Code du travail applicable à Mayotte. - art. L326-55 (V)
+	  - Code du travail applicable à Mayotte. - art. L326-7 (VD)
+	  - Code du travail applicable à Mayotte. - art. L326-8 (V)
+	  - Code du travail applicable à Mayotte. - art. L326-9 (V)
+	  - Code du travail applicable à Mayotte. - art. L327-37 (V)
+	  - Code du travail applicable à Mayotte. - art. L327-47 (V)
+	  - Code du travail applicable à Mayotte. - art. L327-52-1 (VD)
+	  - Code du travail applicable à Mayotte. - art. L327-52-2 (VD)
+	  - Code du travail applicable à Mayotte. - art. L327-52-3 (VD)
+	  - Code du travail applicable à Mayotte. - art. L327-53 (V)
+	  - Code du travail applicable à Mayotte. - art. L327-54 (V)
+	  - Code du travail applicable à Mayotte. - art. L327-55 (V)
+	  - Code du travail applicable à Mayotte. - art. L327-56 (V)
+	  - Code du travail applicable à Mayotte. - art. L327-6 (V)
+	  - Code du travail applicable à Mayotte. - art. L327-8 (V)
+	  - Code du travail applicable à Mayotte. - art. L721-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L741-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L742-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L742-14 (V)
+	  - Code du travail applicable à Mayotte. - art. L742-4 (V)
+	  - Code du travail applicable à Mayotte. - art. R322-1 (V)
+	  - Code du travail applicable à Mayotte. - art. R322-52 (V)
+	  - Code du travail applicable à Mayotte. - art. R322-54 (V)
+	  - Code du travail applicable à Mayotte. - art. R326-1 (V)
+	  - Code du travail applicable à Mayotte. - art. R327-41 (VT)
+	  - Code du travail applicable à Mayotte. - art. R327-44 (T)
+
+
+###### Article L326-7
+
+L'Agence nationale pour l'emploi est chargée :
+
+a) De l'accueil des personnes à la recherche d'un emploi et de leur inscription sur une liste tenue par leurs soins ;
+
+b) De l'orientation des personnes susceptibles de bénéficier des mesures relatives à la formation professionnelle, à la
+mobilité géographique et professionnelle inscrites sur la liste prévue au a ;
+
+c) Du placement des personnes désireuses de trouver un emploi, notamment par le rapprochement des offres et demandes
+d'emploi ;
+
+d) De la coordination d'actions concertées en matière d'emploi, d'insertion et de formation entre les collectivités
+publiques, les entreprises publiques et privées, les divers types d'établissements d'enseignement, les associations et les
+organisations professionnelles, syndicales et familiales ;
+
+e) Du contrôle de la recherche effective et permanente d'emploi des personnes inscrites, et notamment des personnes
+indemnisées au titre de la perte d'emploi.
+
+Les opérations mentionnées ci-dessus sont effectuées gratuitement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Cité par**:
+
+	  - Décret n°2001-635 du 17 juillet 2001 - art. 34-1 (Ab)
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 12 (V)
+	  - Code de l'action sociale et des familles - art. L542-6 (VD)
+	  - Code de l'action sociale et des familles - art. L549-1 (T)
+	  - Code du travail applicable à Mayotte. - art. L326-9 (V)
+	  - Code du travail applicable à Mayotte. - art. L327-2 (V)
+	  - Code du travail applicable à Mayotte. - art. L328-48 (V)
+	  - Code du travail applicable à Mayotte. - art. L343-1 (Ab)
+	  - Code du travail applicable à Mayotte. - art. R326-5 (V)
+
+	**Créé par**:
+
+	  - Loi n°2003-660 du 21 juillet 2003 - art. 15 (V) JORF 22 juillet 2003
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. L326-1 (T)
+
+
+###### Article L326-8
+
+L'inscription sur la liste prévue à l'article L. 326-1 est subordonnée à la production d'un document attestant de l'état
+civil du demandeur. L'Agence nationale pour l'emploi, pour en vérifier la validité, a accès aux fichiers des services de
+l'Etat, de la collectivité départementale, des communes ou de leurs établissements publics.
+
+Lors de l'inscription d'une personne de nationalité étrangère sur cette liste, l'Agence nationale pour l'emploi vérifie, sous
+les mêmes conditions, la validité de ses titres de séjour et de travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-660 du 21 juillet 2003 - art. 15 (V) JORF 22 juillet 2003
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L326-1 (T)
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. L326-2 (T)
+
+
+###### Article L326-9
 
 Un décret en Conseil d'Etat fixe en tant que de besoin les modalités d'application du présent chapitre, et notamment les
 obligations et sanctions pesant sur les personnes inscrites sur la liste prévue à l'article L. 326-1.
@@ -11903,28 +12240,20 @@ obligations et sanctions pesant sur les personnes inscrites sur la liste prévue
 
 	**Créé par**:
 
-	  - Ordonnance n°2002-242 du 21 février 2002 - art. 4 () JORF 23 février 2002
-
-	**Transféré par**:
-
 	  - Loi n°2003-660 du 21 juillet 2003 - art. 15 (V) JORF 22 juillet 2003
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. L321-6 (V)
-	  - Code du travail applicable à Mayotte. - art. R326-23 (V)
-	  - Code du travail applicable à Mayotte. - art. R326-25 (V)
-	  - Code du travail applicable à Mayotte. - art. R326-4 (V)
-	  - Code du travail applicable à Mayotte. - art. R326-6 (V)
 
 	**Cite**:
 
 	  - Code du travail applicable à Mayotte. - art. L326-1 (T)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du travail applicable à Mayotte. - art. L326-9 (M)
-	  - Code du travail applicable à Mayotte. - art. L326-9 (V)
+	  - Code du travail applicable à Mayotte. - art. L326-3 (T)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R326-14 (V)
+	  - Code du travail applicable à Mayotte. - art. R327-53 (V)
 
 
 #### Chapitre VII : Indemnisation du chômage
@@ -11991,7 +12320,7 @@ Les accords prévus ci-dessus et les arrêtés d'agrément sont soumis aux condi
 Pour être agréé, l'accord instituant un régime d'assurance contre le risque de privation totale d'emploi doit prévoir :
 
 - l'indemnisation des salariés licenciés pour cause économique inscrits comme demandeurs d'emploi dans les conditions prévues
-à l'article L. 326-1, recherchant activement un nouvel emploi ; l'accord doit préciser également les conditions d'âge et
+à l'article L. 326-7, recherchant activement un nouvel emploi ; l'accord doit préciser également les conditions d'âge et
 d'activité auxquelles ces salariés doivent répondre ;
 
 - le calcul de l'allocation, soit en fonction de la rémunération antérieurement perçue dans la limite d'un plafond, soit en
@@ -12013,13 +12342,13 @@ indemnisation.
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2002-242 du 21 février 2002 - art. 5 () JORF 23 février 2002
+	  - Loi n°2003-660 du 21 juillet 2003 - art. 15 (V) JORF 22 juillet 2003
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L326-1 (T)
+	  - Code du travail applicable à Mayotte. - art. L326-7 (V)
 
 	**Cité par**:
 
