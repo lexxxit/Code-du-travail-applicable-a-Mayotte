@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2004-01-03
+Version Consolidée au 2004-01-29
 
 # Partie législative
 
@@ -15664,7 +15664,16 @@ Pour bénéficier de la protection prévue par les articles L. 122-45 et suivant
 qui est tenu d'en délivrer un récépissé, soit lui envoyer par lettre recommandée avec demande d'avis de réception un
 certificat médical attestant, suivant le cas, son état de grossesse et la date présumée de son accouchement ou la date
 effective de celui-ci ainsi que, s'il y a lieu, l'existence et la durée prévisible de son état pathologique rendant
-nécessaire une augmentation de la période de suspension de son contrat de travail.
+nécessaire une augmentation de la période de suspension de son contrat de travail. 
+
+L'avertissement que la femme doit faire parvenir à son employeur, en application du sixième alinéa de l'article L. 122-48,
+est envoyé par lettre recommandée avec demande d'avis de réception ou remis directement à l'employeur ou à son représentant,
+qui est tenu d'en délivrer un récépissé. 
+
+Pour l'application des dispositions du présent article et de celles de la section 6 du chapitre II du titre II du livre Ier
+de la partie Législative du présent code, les formalités sont réputées accomplies au jour de la présentation de la lettre
+recommandée avec demande d'avis de réception ou au jour de la remise en main propre à l'employeur ou à son représentant des
+documents nécessaires.
 
 **Liens relatifs à cet article**
 
@@ -15674,11 +15683,12 @@ nécessaire une augmentation de la période de suspension de son contrat de trav
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Décret n°2004-93 du 27 janvier 2004 - art. 2 () JORF 29 janvier 2004
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L122-45 (M)
+	  - Code du travail applicable à Mayotte. - art. L122-45 (V)
+	  - Code du travail applicable à Mayotte. - art. L122-48 (V)
 
 	**Cité par**:
 
@@ -18963,28 +18973,149 @@ la période de formation.
 	  - Décret n°2012-658 du 4 mai 2012 - art. 1
 
 
-#### Chapitre 5 : Dispositions relatives à l'aide à la création d'entreprise à l'initiative de demandeurs d'emploi
+#### CHAPITRE IV : Dispositions particulières relatives à l'emploi des jeunes
+
+##### Projet initiative-jeune
+
+###### Article R324-1
+
+I. - La demande tendant au bénéfice de l'aide à un projet initiative-jeune est adressée au représentant de l'Etat à Mayotte
+préalablement à la réalisation de ce projet professionnel.
+
+Elle est accompagnée d'un dossier justifiant que le demandeur appartient à l'une des catégories énumérées à l'article L.
+324-9 et permettant d'apprécier la réalité et la consistance du projet répondant à l'une ou l'autre des aides énumérées à ces
+mêmes dispositions, ainsi que sa viabilité.
+
+Un arrêté du représentant de l'Etat à Mayotte précise la composition de ce dossier et les modalités de son dépôt.
+
+Pour l'élaboration de son projet en vue de réaliser une formation en mobilité, le demandeur bénéficie du concours, le cas
+échéant, d'un organisme agréé dans les conditions prévues par le X du présent article.
+
+II. - L'instruction du dossier est assurée :
+
+a) Pour la création d'entreprises, dans les mêmes conditions que pour les aides prévues à l'article L. 325-1 et peut être
+examinée conjointement à celles-ci ;
+
+b) Pour la formation en mobilité, par l'Agence nationale pour l'insertion et la promotion des travailleurs d'outre-mer ou par
+l'organisme agréé à cet effet selon les modalités prévues au X du présent article avec, le cas échéant, le concours de
+l'Agence nationale pour l'emploi.
+
+III. - Pour l'application des dispositions du a de l'article L. 324-9, est considéré comme remplissant la condition de
+direction effective de l'entreprise créée ou reprise le demandeur qui, sous sa propre responsabilité, assure la direction de
+l'entreprise et la représente dans ses rapports avec les tiers.
+
+IV. - Le délai dont dispose le représentant de l'Etat pour statuer sur la demande d'aide à la formation en mobilité est d'un
+mois. Le silence gardé par le représentant de l'Etat pendant plus d'un mois vaut décision de rejet.
+
+V. - L'aide à la formation en mobilité comprend une allocation mensuelle dans la limite d'un montant maximum fixé par décret.
+Elle comporte également une prise en charge des frais liés à la formation, notamment des frais d'installation, dans la limite
+d'un montant fixé par ce même décret.
+
+L'allocation est versée dans la limite de vingt-quatre mensualités à compter du premier jour du mois où débute la formation
+jusqu'au premier jour du mois civil suivant celui où a pris fin la formation, ou, le cas échéant, sur justification de
+l'inscription sur la liste des demandeurs d'emploi, jusqu'au terme d'une période de deux mois à l'issue de la formation s'il
+est attesté d'une recherche effective d'emploi.
+
+VI. - La gestion des crédits et le versement de l'aide en capital ainsi que des mensualités pour la formation en mobilité
+sont confiés au Centre national pour l'aménagement des structures des exploitations agricoles, sous réserve des dispositions
+prévues au dernier alinéa du présent paragraphe. Lorsque la formation en mobilité se déroule à l'étranger, la gestion des
+crédits et le versement des aides précités peuvent être confiés à un organisme qui passe une convention à cet effet dans les
+conditions prévues au dernier alinéa du présent paragraphe.
+
+La gestion de l'aide pour les frais liés à la formation est assurée par l'Agence nationale pour l'insertion et la promotion
+des travailleurs d'outre-mer ou un organisme agréé dans les conditions prévues par le X du présent article.
+
+Les modalités de la gestion par les organismes gestionnaires visés au présent article sont précisées par une convention
+qu'ils passent avec le ministre chargé de l'outre-mer.
+
+VII. - Le bénéfice du versement de l'aide à un projet initiative-jeune est suspendu par décision du représentant de l'Etat à
+Mayotte lorsque le projet professionnel n'est plus conforme au projet initial ainsi que dans les cas suivants :
+
+1° En cas d'aide à la création d'entreprises, lorsque l'entreprise a cessé son activité, en cas de procédure de redressement
+ou de liquidation judiciaire, ou si la condition de direction effective de l'entreprise créée ou reprise cesse d'être
+remplie.
+
+2° En cas d'aide à la formation en mobilité pour manque d'assiduité à la formation professionnelle prévue.
+
+Le bénéfice du versement de l'aide est supprimé par décision du représentant de l'Etat en l'absence de modification de la
+situation du bénéficiaire à l'expiration d'un délai de trois mois suivant la notification de la décision par laquelle l'aide
+est suspendue ou en cas de fausse déclaration du bénéficiaire de l'aide. Dans le cas de déclarations frauduleuses, le
+bénéficiaire rembourse à l'organisme gestionnaire l'aide versée.
+
+VIII. - Ne peuvent être cumulés avec l'aide à la création d'entreprise : le contrat d'apprentissage prévu à l'article L.
+111-1, le contrat emploi-solidarité prévu à l'article L. 322-1, le contrat emploi consolidé prévu à l'article L. 322-7, le
+contrat de retour à l'emploi prévu à l'article L. 323-1, le contrat d'insertion-adaptation prévu à l'article L. 324-1, la
+prime à la création d'emplois prévue à l'article L. 325-2, le contrat de qualification prévu à l'article L. 711-5 ou le
+contrat emploi-développement prévu à l'article L. 325-6.
+
+IX. - La formation en mobilité est dispensée sous la forme d'un contrat d'apprentissage prévu à l'article L. 111-1, d'un
+stage intéressant l'une des actions de formation prévue à l'article L. 711-2, d'un contrat en alternance, ou prend la forme
+d'un stage en entreprise accompli en France ou à l'étranger.
+
+Ne peuvent être cumulés avec l'aide à la formation en mobilité :
+
+le contrat emploi-solidarité prévu à l'article L. 322-1, le contrat emploi consolidé prévu à l'article L. 322-7, le contrat
+de retour à l'emploi prévu à l'article L. 323-1, le contrat d'insertion-adaptation prévu à l'article L. 324-1, la prime à la
+création d'emplois prévue à l'article L. 325-2, ou le contrat emploi-développement prévu à l'article L. 325-6.
+
+X. - Peut être agréé au titre du b de l'article L. 324-9 tout organisme, public ou privé, ayant la capacité de proposer ou de
+faire accéder à une formation professionnelle, en France ou à l'étranger, ainsi que d'assurer un accompagnement du stagiaire.
+
+Un arrêté du représentant de l'Etat à Mayotte précise la composition du dossier que doit remplir et transmettre l'organisme
+pour permettre l'instruction de la demande d'agrément, les modalités de son dépôt ainsi que les conditions d'agrément.
+
+L'agrément est délivré par le représentant de l'Etat pour une durée d'un à trois ans, éventuellement renouvelable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-93 du 27 janvier 2004 - art. 3 () JORF 29 janvier 2004
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L111-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L322-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L322-7 (M)
+	  - Code du travail applicable à Mayotte. - art. L323-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L324-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L324-9 (V)
+	  - Code du travail applicable à Mayotte. - art. L325-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L325-2 (M)
+	  - Code du travail applicable à Mayotte. - art. L325-6 (V)
+	  - Code du travail applicable à Mayotte. - art. L711-2 (M)
+	  - Code du travail applicable à Mayotte. - art. L711-5 (M)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R324-2 (V)
+	  - Code du travail applicable à Mayotte. - art. R324-3 (V)
+
+
+#### CHAPITRE V : Dispositions relatives à la création d'entreprises et à la création d'emplois
+
+##### Section 1 : Aide à la création d'entreprises à l'initiative des demandeurs d'emploi
 
 ###### Article R325-1
 
 Pour l'application de l'article L. 325-1, sont considérées comme exerçant effectivement le contrôle d'une entreprise
-constituée sous la forme d'une société :
+constituée sous la forme d'une société : 
 
-1° La ou les personnes détenant individuellement ou collectivement plus de la moitié du capital ;
+1° La ou les personnes détenant individuellement ou collectivement plus de la moitié du capital ; 
 
 2° La personne exerçant dans la société une fonction de dirigeant et détenant au moins un tiers du capital de celle-ci, dès
-lors qu'aucun autre actionnaire ne détient directement ou indirectement plus de la moitié du capital.
+lors qu'aucun autre actionnaire ne détient directement ou indirectement plus de la moitié du capital. 
 
 Les parts de capital éventuellement acquises par le conjoint, les ascendants ou les descendants du demandeur de l'aide
 entrent en compte dans les montants de capital fixés aux 1° et 2° du présent article. Dans ce cas, toutefois, la ou les
-personnes mentionnées au 1° doivent posséder, à titre personnel, plus de 35 p. 100 du capital de l'entreprise ; la personne
-mentionnée au 2° doit posséder à titre personnel plus de 25 p. 100 dudit capital.
+personnes mentionnées au 1° doivent posséder, à titre personnel, plus de 35% du capital de l'entreprise ; la personne
+mentionnée au 2° doit posséder à titre personnel plus de 25% dudit capital.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
 
 	**Codifié par**:
 
@@ -18992,7 +19123,8 @@ mentionnée au 2° doit posséder à titre personnel plus de 25 p. 100 dudit cap
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Décret n°2004-93 2004-01-27 art. 4 I, III JORF 29 janvier 2004
+	  - Décret n°2004-93 du 27 janvier 2004 - art. 4 () JORF 29 janvier 2004
 
 	**Cite**:
 
@@ -19012,52 +19144,136 @@ personne qui possède la fraction la plus forte de ce capital.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - TXT_SOURCE: Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
-
 	**Codifié par**:
 
 	  - Décret n°91-1263 1991-12-16 annexe
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Décret n°2004-93 2004-01-27 art. 4 I, III JORF 29 janvier 2004
+	  - Décret n°2004-93 du 27 janvier 2004 - art. 4 () JORF 29 janvier 2004
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L325-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L325-1 (V)
 
 	**Cité par**:
 
 	  - Code du travail applicable à Mayotte. - art. R325-4 (M)
 
 
+##### Section 3 : Agence mahoraise pour le développement d'activités d'utilité sociale
+
 ###### Article R325-3
 
-I. - La demande tendant à obtenir l'aide instituée par l'article L. 325-1 doit être adressée au représentant de l'Etat par
-pli recommandé avec demande d'avis de réception postal.
+I. - Outre le représentant de l'Etat à Mayotte, président du conseil d'administration de l'agence, sont membres du conseil
+d'administration :
 
-Elle doit être préalable à la création ou à la reprise de l'entreprise ou à l'exercice de la nouvelle activité.
+1° Quatre représentants des services de l'Etat dans la collectivité départementale, membres de droit :
 
-La demande doit être accompagnée d'un dossier permettant d'apprécier la réalité et la consistance du projet de création ou de
-reprise de la nouvelle activité ; ce dossier doit comporter des indications précises sur le contenu du projet, les conditions
-d'acquisition des actifs, les apports de fonds propres et les concours financiers nécessaires pour assurer l'exploitation de
-l'entreprise ainsi que sur les conditions de l'exercice effectif du contrôle de celle-ci.
+- le directeur du travail, de l'emploi et de la formation professionnelle ou son représentant ;
 
-Un arrêté du représentant de l'Etat précise la composition du dossier.
+- le directeur des affaires sanitaires et sociales ou son représentant ;
 
-II. - Si le dossier est incomplet, la demande fait l'objet d'une décision de rejet en l'état dans le délai d'un mois à
-compter de sa réception. Cette décision fait connaître au demandeur la liste des pièces manquantes ou incomplètes.
+- le directeur de la jeunesse et des sports ou son représentant ;
 
-L'envoi au représentant de l'Etat du complément de dossier, par pli recommandé avec demande d'avis de réception postal, fait
-courir de nouveau le délai d'un mois mentionné au troisième alinéa de l'article L. 325-1.
+- le délégué de l'Agence nationale pour l'emploi ou son représentant.
+
+2° Trois membres du conseil général de Mayotte, désignés par cette assemblée, et un maire désigné par l'association locale
+des maires.
+
+3° Quatre personnalités qualifiées en matière de développement économique et social désignées par le représentant de l'Etat à
+Mayotte.
+
+II. - La durée du mandat des membres du conseil d'administration prévus aux 2° et 3° du I est de trois ans, renouvelable une
+fois.
+
+Tout membre qui perd la qualité au titre de laquelle il a été nommé cesse de faire partie du conseil. Il est remplacé dans un
+délai de deux mois. En ce cas, le mandat du nouveau membre expire à la date à laquelle aurait dû prendre fin celui de son
+prédécesseur.
+
+En cas de démission, d'empêchement définitif ou de décès d'un membre, il est procédé à son remplacement dans les mêmes
+conditions.
+
+III. - Les fonctions de membre du conseil d'administration sont exercées à titre gratuit.
+
+IV. - Le conseil d'administration établit son règlement intérieur et le soumet à l'approbation du ministre chargé de l'outre-
+mer.
+
+V. - Le conseil d'administration se réunit au moins trois fois par an sur convocation du président. La réunion du conseil
+d'administration est de droit lorsqu'elle est demandée par la moitié de ses membres ou par le ministre chargé de l'outre-mer.
+
+Le directeur, le contrôleur financier et l'agent comptable assistent avec voix consultative aux réunions du conseil
+d'administration. Le directeur peut se faire assister par les collaborateurs de son choix. En cas d'empêchement, il est
+représenté par la personne qu'il désigne à cet effet.
+
+Toute personne qualifiée dont le président ou le directeur estime utile de recueillir l'avis peut être entendue par le
+conseil d'administration.
+
+VI. - L'ordre du jour des réunions du conseil est préparé par le directeur et arrêté par le président.
+
+Est inscrite d'office à l'ordre du jour toute question que le ministre chargé de l'outre-mer ou la moitié des membres du
+conseil demandent au président d'évoquer.
+
+VII. - Le conseil d'administration ne peut valablement délibérer que si la moitié au moins de ses membres est présente. Si le
+quorum n'est pas atteint, le conseil d'administration se réunit à nouveau dans un délai de quinze jours et délibère
+valablement sur le même ordre du jour, quel que soit le nombre de ses membres présents.
+
+Les délibérations du conseil d'administration sont adoptées à la majorité des membres présents. En cas de partage égal des
+voix, celle du président est prépondérante.
+
+VIII. - Le secrétariat du conseil est assuré par le directeur. Les procès-verbaux des séances sont signés du président et
+adressés par le directeur au ministre chargé de l'outre-mer ainsi qu'aux membres du conseil d'administration dans les quinze
+jours qui suivent la date de la séance.
+
+IX. - Le conseil d'administration délibère sur les matières suivantes :
+
+1° La détermination des orientations générales de l'action conduite par l'agence de développement pour l'exécution de ses
+missions ;
+
+2° Le programme annuel de développement prévu à l'article L. 325-4 ;
+
+3° Les modalités générales de la participation des organismes utilisateurs ;
+
+4° La mise en place d'un dispositif d'évaluation indépendante et régulière des actions menées ;
+
+5° Le rapport annuel d'activité, qui prend notamment en compte l'utilisation des crédits, les actions entreprises et les
+résultats obtenus dans le cadre de l'exécution du programme annuel de développement. Après son adoption, ce rapport est
+adressé par le directeur aux ministres chargés de l'outre-mer, de l'emploi et du budget ;
+
+6° Le budget de l'agence et les décisions modificatives ;
+
+7° Le compte financier ;
+
+8° Le règlement financier et le tableau des emplois ;
+
+9° Les acquisitions, échanges et aliénations de biens immobiliers ;
+
+10° L'organisation générale de l'agence ;
+
+11° L'acceptation des dons et legs ;
+
+12° Les actions en justice ;
+
+13° Les baux et locations et les marchés ;
+
+14° La fixation du siège de l'agence, dans la collectivité départementale.
+
+Les délibérations du conseil d'administration deviennent exécutoires si, dans les quinze jours suivant la notification du
+procès-verbal, le ministre chargé de l'outre-mer n'a pas fait connaître au directeur son opposition motivée.
+
+Toutefois, les délibérations mentionnées aux 6°, 7°, 8° et 9° ci-dessus ne sont exécutoires qu'après avoir été approuvées par
+arrêté conjoint du ministre chargé de l'outre-mer et du ministre chargé du budget ou, à défaut d'arrêté, dans le délai d'un
+mois à compter de la date de réception de ces délibérations par les ministres précités.
+
+X. - Le conseil d'administration donne son avis sur les questions qui lui sont soumises par le président ou par le directeur
+de l'agence et par le ministre chargé de l'outre-mer.
+
+XI. - Le conseil d'administration peut, par délibération, déléguer au directeur de l'agence, dans les conditions et limites
+qu'il détermine, ses attributions relatives aux matières définies aux 10°, 11°, 12° et 13° du IX. Cette délibération devient
+exécutoire dans les conditions prévues à l'avant-dernier alinéa du IX.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
 
 	**Codifié par**:
 
@@ -19065,11 +19281,12 @@ courir de nouveau le délai d'un mois mentionné au troisième alinéa de l'arti
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Décret n°2004-93 2004-01-27 art. 4 I, IV JORF 29 janvier 2004
+	  - Décret n°2004-93 du 27 janvier 2004 - art. 4 () JORF 29 janvier 2004
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L325-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L325-4 (V)
 
 	**Cité par**:
 
@@ -19078,20 +19295,33 @@ courir de nouveau le délai d'un mois mentionné au troisième alinéa de l'arti
 
 ###### Article R325-4
 
-Le représentant de l'Etat statue sur le droit au bénéfice de l'aide.
+I.-Le directeur de l'agence est nommé pour trois ans par arrêté du ministre chargé de l'outre-mer. 
 
-Lorsque les conditions fixées par les articles R. 325-1 et R. 325-2 et par le I de l'article R. 325-3 sont remplies, le
-représentant de l'Etat prend l'avis d'un comité composé du receveur particulier des finances, du directeur du travail, de
-l'emploi et de la formation professionnelle, du directeur de l'Institut d'émission d'outre-mer ou de leurs représentants et
-de deux personnalités qualifiées désignées par le représentant de l'Etat en raison de leur expérience dans le domaine de la
-création et de la gestion d'entreprise ; ce comité est présidé par le représentant de l'Etat ou par toute personne qu'il
-désigne pour le représenter.
+Le directeur dirige les services de l'agence. Il a autorité sur l'ensemble du personnel de l'agence qu'il recrute, nomme et
+licencie. 
+
+Il représente l'agence en justice et dans tous les actes de la vie civile. 
+
+Il conclut, au nom de l'agence, les conventions ou contrats prévus aux articles R. 325-7 et R. 325-8. 
+
+Il est ordonnateur des dépenses et des recettes de l'agence. 
+
+Il assure la préparation des réunions du conseil d'administration, fait appliquer les délibérations de celui-ci, le tient
+informé de leur exécution et prend toutes les décisions nécessaires à l'exercice des missions de l'agence. 
+
+Il transmet trimestriellement les statistiques reflétant l'activité de l'établissement au ministre chargé de l'outre-mer. 
+
+II.-Le personnel de l'agence comprend : 
+
+1° Des fonctionnaires placés en position de détachement ou de mise à disposition ; 
+
+2° Des agents contractuels de droit public ; 
+
+3° Eventuellement, des vacataires. 
+
+En outre, l'agence emploie des salariés dans le cadre des contrats prévus à l'article L. 325-6.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
 
 	**Codifié par**:
 
@@ -19099,28 +19329,52 @@ désigne pour le représenter.
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Décret n°2004-93 2004-01-27 art. 4 I, IV JORF 29 janvier 2004
+	  - Décret n°2004-93 du 27 janvier 2004 - art. 4 () JORF 29 janvier 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2016-135 du 9 février 2016 - art. 2
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. R325-1 (M)
-	  - Code du travail applicable à Mayotte. - art. R325-2 (M)
-	  - Code du travail applicable à Mayotte. - art. R325-3 (M)
+	  - Code du travail applicable à Mayotte. - art. L325-6
+	  - Code du travail applicable à Mayotte. - art. R325-7
 
 
 ###### Article R325-5
 
-Lorsque le droit à l'aide institué par l'article L. 325-1 est reconnu, le représentant de l'Etat délivre une attestation
-d'admission au bénéfice de l'article L. 325-1.
+I. - Le programme annuel de développement des activités est préparé par le directeur de l'agence qui le soumet au conseil
+d'administration au plus tard le 31 janvier de l'année pour laquelle il est établi.
 
-Cette attestation est également délivrée par le représentant de l'Etat, sur demande de l'intéressée, à la personne à laquelle
-l'aide doit être réputée accordée en application du deuxième alinéa de l'article L. 325-1.
+Ce programme évalue les besoins émergents à satisfaire dans la collectivité départementale parmi lesquels ceux relatifs à
+l'aide au développement de la production agricole et de la pêche, de la production artisanale, de l'activité commerciale.
+Pour chaque besoin recensé, le programme précise :
+
+a) La nature des tâches et la durée prévue pour leur exécution ;
+
+b) Le lieu d'exécution des tâches ;
+
+c) L'effectif envisagé ;
+
+d) Le cas échéant, le nom de la collectivité, personne ou organisme qui pourra être chargé, par voie de convention, d'assurer
+l'exécution des tâches.
+
+II. - Lorsque le conseil d'administration n'a pas adopté le programme de développement des activités de l'année en cours
+avant le 31 janvier, les actions nécessaires à l'exécution du projet non encore adopté sont mises en oeuvre par le directeur,
+après approbation du ministre de tutelle.
+
+Le projet de programme non adopté est adressé sans délai par le directeur au ministre chargé de l'outre-mer. Si ce dernier ne
+s'est pas prononcé dans le délai de quinze jours courant à compter de la réception du projet du programme, celui-ci devient
+exécutoire.
+
+III. - Le conseil d'administration de l'agence de développement est tenu informé par le directeur de l'état d'avancement et
+de réalisation du programme annuel de développement des activités.
+
+En vue de son adaptation aux besoins recensés après son adoption, ce programme peut faire l'objet de décisions modificatives
+arrêtées dans les mêmes formes que le programme lui-même.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
 
 	**Codifié par**:
 
@@ -19128,11 +19382,8 @@ l'aide doit être réputée accordée en application du deuxième alinéa de l'a
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L325-1 (M)
+	  - Décret n°2004-93 2004-01-27 art. 4 I, IV JORF 29 janvier 2004
+	  - Décret n°2004-93 du 27 janvier 2004 - art. 4 () JORF 29 janvier 2004
 
 	**Cité par**:
 
@@ -19142,14 +19393,50 @@ l'aide doit être réputée accordée en application du deuxième alinéa de l'a
 
 ###### Article R325-6
 
-Lorsqu'une personne a obtenu l'aide de l'Etat au titre de l'article L. 325-1, elle ne peut obtenir à nouveau cette aide qu'à
-l'expiration d'un délai de trois ans suivant la précédente décision du représentant de l'Etat.
+I. - Les ressources de l'agence, outre les ressources prévues à l'article L. 325-8, comprennent :
+
+1° Les revenus des immeubles ;
+
+2° Les dons et legs et leurs revenus ;
+
+3° Les subventions des organismes publics nationaux ou internationaux ;
+
+4° D'une manière générale, toutes les ressources autorisées par les lois et règlements en vigueur.
+
+II. - Sont inscrites au budget de l'agence :
+
+1° Les dépenses de rémunération du personnel de l'agence, de fonctionnement et d'équipement ;
+
+2° Les dépenses afférentes à la mise en oeuvre du programme annuel de développement et, d'une manière générale, toutes celles
+que justifient les activités de l'établissement.
+
+III. - Le budget de l'agence est présenté et voté par chapitre. Il comporte une section de fonctionnement et une section des
+opérations en capital.
+
+Il est préparé par le directeur et présenté au conseil d'administration de l'agence, qui en délibère au plus tard le 31
+janvier de l'année en cours.
+
+IV. - L'agent comptable de l'agence est nommé par arrêté conjoint du ministre chargé de l'outre-mer et du ministre chargé du
+budget.
+
+Des comptables secondaires peuvent être désignés par le directeur de l'agence, sur proposition de l'agent comptable et avec
+l'agrément du ministre chargé du budget.
+
+V. - L'agence est soumise au contrôle financier de l'Etat dans les conditions fixées par le décret du 25 octobre 1935
+instituant le contrôle financier des offices et établissements publics autonomes de l'Etat.
+
+Un arrêté conjoint du ministre chargé de l'outre-mer et du ministre chargé du budget détermine les modalités de ce contrôle.
+
+VI. - Des régies de recettes et d'avances peuvent être instituées conformément aux dispositions du décret n° 92-681 du 20
+juillet 1992 relatif aux régies de recettes et aux régies d'avances des organismes publics.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Cite**:
 
-	  - TXT_SOURCE: Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
+	  - Décret n°1935-10-25
+	  - Décret n°92-681 1992-07-20
+	  - Code du travail applicable à Mayotte. - art. L325-8 (V)
 
 	**Codifié par**:
 
@@ -19157,28 +19444,56 @@ l'expiration d'un délai de trois ans suivant la précédente décision du repr�
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L325-1 (M)
+	  - Décret n°2004-93 2004-01-27 art. 4 I, IV JORF 29 janvier 2004
+	  - Décret n°2004-93 du 27 janvier 2004 - art. 4 () JORF 29 janvier 2004
 
 
 ###### Article R325-7
 
-L'aide est versée en une fois, après constatation de l'exercice de la nouvelle activité, sous réserve que cette constatation
-puisse être opérée dans le délai de trois mois à compter de la notification de la décision du représentant de l'Etat ou, le
-cas échéant, de l'expiration du délai au terme duquel l'aide doit être réputée accordée en application du deuxième alinéa de
-l'article L. 325-1.
+L'agence mahoraise passe avec l'Agence nationale pour l'emploi une convention de coopération qui fixe notamment les
+conditions dans lesquelles, sous réserve de l'examen de leur situation individuelle, les personnes à la recherche d'un emploi
+mentionnées à l'article L. 325-5 font l'objet d'un placement, soit auprès de l'agence mahoraise, soit auprès de tout autre
+employeur ou dispensateur de formation. 
 
-Cette aide doit être exclusivement employée à la couverture de dépenses directement nécessaires à l'exercice de la nouvelle
-activité.
+I.-Le contrat emploi-développement est régi par les dispositions des articles L. 322-1 à L. 322-6, à l'exception du cinquième
+alinéa de l'article L. 322-2, lorsque le contrat porte sur le développement d'une activité non salariée dans l'un des
+domaines visés au I de l'article R. 325-5. 
+
+En aucun cas, le contrat emploi-développement ne peut avoir pour objet ou pour effet de remplacer un salarié occupant un
+emploi permanent. 
+
+II.-En cas de mise à disposition dans les conditions prévues à l'article R. 325-8, le contrat mentionne la durée de la mise à
+disposition, le cas échéant la zone géographique dans laquelle le salarié peut exercer son activité, et la possibilité de
+devoir exécuter les tâches qui lui sont confiées auprès de plusieurs employeurs successifs. 
+
+III.-La durée du travail hebdomadaire est égale à vingt heures. 
+
+La formation du salarié n'est pas prise en compte dans son temps de travail. 
+
+IV.-Le déroulement de chaque contrat emploi-développement fait l'objet d'un suivi régulier assuré par l'agence. 
+
+En cas de mise à disposition dans les conditions définies à l'article R. 325-8, la responsabilité du suivi incombe à
+l'utilisateur qui rend compte à l'agence. 
+
+V.-L'agence organise un plan de formation des salariés titulaires d'un contrat emploi-développement. 
+
+Les frais engagés pour permettre à ces salariés de suivre une formation complémentaire non rémunérée peuvent être pris en
+charge par l'agence, dans la limite de deux cents heures et sur la base d'un montant dont le plafond est arrêté conjointement
+par les ministres chargés de l'outre-mer et du budget. 
+
+Cette formation doit être dispensée dans le cadre d'une convention passée par l'agence avec un organisme de formation. 
+
+Le salarié qui veut bénéficier d'une telle prise en charge en fait la demande au directeur de l'agence. Sa demande doit
+préciser la nature de la formation souhaitée. 
+
+La décision du directeur de l'agence doit faire l'objet d'une notification à l'intéressé dans un délai de quinze jours à
+compter de la réception de la demande. Tout refus est motivé. 
+
+VI.-Lorsque le contrat emploi-développement porte sur le développement d'une activité non salariée dans l'un des domaines
+visés au I de l'article R. 325-5, il précise les modalités de l'appui éventuellement apporté par l'agence au titulaire du
+contrat à l'issue de ce dernier.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
 
 	**Codifié par**:
 
@@ -19186,11 +19501,15 @@ activité.
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Décret n°2004-93 2004-01-27 art. 4 I, IV JORF 29 janvier 2004
+	  - Décret n°2004-93 du 27 janvier 2004 - art. 4 () JORF 29 janvier 2004
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L325-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L322-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L322-2 (V)
+	  - Code du travail applicable à Mayotte. - art. L325-5 (V)
+	  - Code du travail applicable à Mayotte. - art. R325-5 (V)
 
 	**Cité par**:
 
@@ -19200,17 +19519,56 @@ activité.
 
 ###### Article R325-8
 
-L'aide allouée en application de l'article L. 325-1 est retirée par décision du représentant de l'Etat s'il est établi
-qu'elle a été obtenue à la suite de fausses déclarations ou qu'elle n'a pas été utilisée conformément au deuxième alinéa de
-l'article R. 325-7.
+I.-L'agence peut conclure avec les collectivités, personnes et organismes mentionnés à l'article L. 322-1 des conventions de
+mise à disposition des titulaires de contrats emploi-développement, ayant pour objet de développer des activités d'utilité
+sociale. 
 
-L'intéressé doit alors rembourser l'aide qu'il a perçue.
+II.-Chaque convention doit notamment : 
+
+1° Fixer par activité le nombre de salariés titulaires d'un contrat emploi-développement qui y sont affectés ; 
+
+2° Mentionner :
+
+- les conditions dans lesquelles sont assurés l'accueil et l'encadrement des salariés, l'hygiène et la sécurité, la
+fourniture des équipements de protection individuelle ainsi que la surveillance médicale prévue à l'article L. 240-1 ;
+
+- les tâches à remplir, le lieu de leur exécution et la durée prévisible ;
+
+- le terme de la mise à disposition de chaque équipe de salariés ou, en tant que de besoin, de chaque salarié ;
+
+- pour chaque équipe de salariés ou, en tant que de besoin, pour chaque salarié, la répartition de la durée mensuelle du
+travail entre les semaines du mois et l'horaire de travail ;
+
+- le nom des personnes chargées par l'utilisateur de suivre et d'encadrer le déroulement de chaque contrat emploi-
+développement ;
+
+- les modalités de contrôle par l'agence de l'exécution de la convention et de règlement amiable des difficultés auxquelles
+elle peut donner lieu ;
+
+- les conditions dans lesquelles il est procédé, le cas échéant, au remplacement des salariés mis à disposition ;
+
+- l'obligation de transmission par l'agence à l'utilisateur d'une liste avec le nom et l'adresse ou la domiciliation de
+chacun des salariés mis à disposition, qui est mise à jour en cas de remplacement de salarié ;
+
+- les modalités de l'appui apporté par l'agence au titulaire du contrat à l'issue de ce dernier, lorsque le contrat emploi-
+développement porte sur le développement d'une activité non salariée dans un des domaines visés au I de l'article R. 325-5.
+
+La convention de mise à disposition prévoit en outre que l'utilisateur doit adresser mensuellement au directeur de l'agence
+un document nominatif faisant ressortir les heures travaillées et les absences pour chacun des salariés mis à sa disposition
+ainsi que les accidents du travail survenus. 
+
+La convention prend effet à compter de la date de mise à disposition effective du premier des salariés qu'elle concerne. 
+
+III.-La convention de mise à disposition ne peut avoir ni pour objet ni pour effet de remplacer le personnel permanent de
+l'utilisateur. 
+
+IV.-Pendant la durée de la mise à disposition, l'utilisateur est responsable des conditions d'exécution du travail. 
+
+L'utilisateur est également responsable de celles des conditions d'exécution du travail qui ont trait au travail de nuit, à
+l'hygiène et à la sécurité, au travail des femmes et des jeunes travailleurs, au repos hebdomadaire et aux jours fériés,
+telles que ces conditions sont déterminées par les dispositions législatives et réglementaires applicables à Mayotte.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
 
 	**Codifié par**:
 
@@ -19218,38 +19576,48 @@ L'intéressé doit alors rembourser l'aide qu'il a perçue.
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Décret n°2004-93 2004-01-27 art. 4 I, IV JORF 29 janvier 2004
+	  - Décret n°2004-93 du 27 janvier 2004 - art. 4 () JORF 29 janvier 2004
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L325-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L240-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L322-1 (V)
+	  - Code du travail applicable à Mayotte. - art. R325-5 (V)
 
 	**Cité par**:
 
 	  - Code du travail applicable à Mayotte. - art. R325-7 (V)
 
 
+##### Section 4 : Fonds pour l'emploi
+
 ###### Article R325-9
 
-L'accompagnement des personnes qui souhaitent créer ou reprendre une entreprise et qui répondent aux conditions fixées par
-les articles L. 325-1 et R. 325-1 est notamment assuré par la mise en place d'actions de conseil et de délivrance
-individuelle de chéquiers-conseil.
+I. - Les ressources qui sont attribuées à Mayotte par le Fonds pour l'emploi dans les départements d'outre-mer, à Saint-
+Pierre-et-Miquelon et à Mayotte (FEDOM) proviennent des crédits ouverts chaque année au budget du ministère de l'outre-mer.
+Les conditions de fonctionnement de ce fonds sont prévues aux articles R. 835-1 à R. 835-10 du code du travail applicable
+dans les départements de métropole et d'outre-mer.
 
-La délivrance de chéquiers-conseil qui intervient avant la création ou la reprise effective de l'entreprise et dans l'année
-qui suit permet aux intéressés de consulter, pendant les trois années prévues à l'article L. 325-1, des organismes
-spécialisés répondant à leurs besoins sur la préparation, le démarrage, les problèmes techniques rencontrés à l'occasion de
-la mise en place de l'entreprise ou de son redressement si celle-ci est confrontée à des difficultés.
+II. - Les dépenses du FEDOM au profit de Mayotte correspondent aux actions suivantes :
 
-Le représentant de l'Etat désigne les organismes-conseil habilités à fournir ces prestations sur le territoire.
+1° Le financement des contrats emploi-solidarité prévus à l'article L. 322-1 ;
 
-L'Etat participe au financement des chéquiers-conseil dont les modalités de mise en oeuvre sont définies par arrêté du
-représentant de l'Etat.
+2° Le financement des contrats emploi consolidé prévus à l'article L. 322-7 ;
+
+3° Le financement du projet initiative-jeune prévu à l'article L. 324-9 ;
+
+4° Le financement de la prime à la création d'emploi prévue à l'article L. 325-2 ;
+
+5° L'attribution à l'agence mahoraise pour le développement d'activités d'utilité sociale des contributions de l'Etat au
+titre des contrats emploi-développement mentionnés à l'article L. 325-6 ;
+
+6° Le versement à l'agence mahoraise pour le développement d'activités d'utilité sociale de la subvention mentionnée à
+l'article L. 325-8.
+
+Par ailleurs, le fonds prend en charge ses dépenses de fonctionnement, l'évaluation et le suivi des actions qu'il finance.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
 
 	**Codifié par**:
 
@@ -19257,12 +19625,248 @@ représentant de l'Etat.
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Décret n°2004-93 2004-01-27 art. 4 I, IV JORF 29 janvier 2004
+	  - Décret n°2004-93 du 27 janvier 2004 - art. 4 () JORF 29 janvier 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L325-1 (M)
-	  - Code du travail applicable à Mayotte. - art. R325-1 (M)
+	  - Code du travail R835-1 à R835-10
+	  - Code du travail applicable à Mayotte. - art. L322-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L322-7 (M)
+	  - Code du travail applicable à Mayotte. - art. L324-9 (V)
+	  - Code du travail applicable à Mayotte. - art. L325-2 (M)
+	  - Code du travail applicable à Mayotte. - art. L325-6 (V)
+	  - Code du travail applicable à Mayotte. - art. L325-8 (V)
+
+
+#### CHAPITRE VII : Indemnisation du chômage
+
+##### Section 2 : Perte temporaire de salaire
+
+###### Article R327-10
+
+Les allocations prévues par l'article L. 327-10 sont attribuées par le représentant de l'Etat à Mayotte ou, sur délégation,
+par le directeur du travail, de l'emploi et de la formation professionnelle de Mayotte au vu d'une demande préalable de
+l'entreprise qui s'engage à assurer le versement au salarié de l'allocation spécifique et de l'allocation complémentaire
+prévues à l'article L. 327-10.
+
+Ces allocations peuvent être attribuées aux salariés des entreprises qui sont contraintes de réduire ou de suspendre
+temporairement leur activité en raison de la conjoncture économique, de difficultés d'approvisionnement en matières premières
+ou en énergie, d'un sinistre ou d'intempéries de caractère exceptionnel, d'une transformation, restructuration ou
+modernisation de l'entreprise ou de toute autre circonstance de caractère exceptionnel.
+
+Ces allocations sont attribuées dans la limite d'un contingent annuel d'heures indemnisables fixé, en tenant compte de la
+situation économique, par arrêté du ministre chargé de l'emploi. Cette limite ne peut être dépassée que dans des cas
+exceptionnels résultant de la situation particulière de l'entreprise, sur décision conjointe des ministres chargés de
+l'emploi, du budget et de l'outre-mer.
+
+Au sein de ce contingent, l'arrêté précité fixe, dans la limite correspondant au volume horaire du nombre de semaines défini
+au dernier alinéa du présent article, le nombre d'heures pouvant être indemnisées en cas de modernisation des installations
+et des bâtiments de l'entreprise à caractère exceptionnel. Cette limite ne peut être dépassée que dans des cas exceptionnels
+résultant de la situation particulière de l'entreprise, sur décision conjointe du représentant de l'Etat à Mayotte et du
+trésorier-payeur général.
+
+L'arrêté fixe également le nombre d'heures pouvant être indemnisées en cas de fermeture temporaire d'un établissement, dans
+la limite de douze semaines de suspension d'activité.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité départementale de Mayotte L327-10
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-93 du 27 janvier 2004 - art. 5 () JORF 29 janvier 2004
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1204 du 30 octobre 2012 - art. 1
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R321-10 (M)
+
+
+###### Article R327-11
+
+Ne peuvent bénéficier des allocations :
+
+1° Les personnes dont le salaire hebdomadaire habituel est inférieur à dix-huit fois le salaire minimum interprofessionnel
+garanti ;
+
+2° Les personnes dont le chômage est provoqué par un différend collectif de travail intéressant l'établissement qui les
+emploie ; toutefois, dans le cas d'un lock-out se prolongeant plus de trois jours, le versement des allocations peut être
+autorisé par décision du représentant de l'Etat à Mayotte ;
+
+3° Les chômeurs saisonniers ; toutefois, ceux-ci peuvent bénéficier des allocations si leur état de chômage a un caractère
+exceptionnel à l'époque de l'année à laquelle il se produit. Ils doivent alors faire la preuve qu'au cours d'une des deux
+années précédentes ils occupaient à la même époque et pendant la même période un emploi salarié dont ils tiraient une
+rémunération régulière.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-93 du 27 janvier 2004 - art. 5 () JORF 29 janvier 2004
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1204 du 30 octobre 2012 - art. 1
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R321-11 (M)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R327-12 (V)
+	  - Code du travail applicable à Mayotte. - art. R327-13 (V)
+
+
+###### Article R327-12
+
+Le nombre d'heures perdues pouvant justifier des allocations attribuées en application de l'article L. 327-10 correspond à la
+différence entre la durée légale du travail applicable dans l'entreprise ou, lorsqu'elle est inférieure à la durée collective
+du travail ou à la durée stipulée au contrat et le nombre d'heures réellement travaillées sur la période considérée.
+
+Ces allocations prennent la forme d'indemnités horaires dont le taux est fixé par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 du 16 décembre 1991
+
+	**Créé par**:
+
+	  - Décret n°2004-93 du 27 janvier 2004 - art. 5 () JORF 29 janvier 2004
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1204 du 30 octobre 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L327-10
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R321-12 (M)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R327-13 (V)
+	  - Code du travail applicable à Mayotte. - art. R327-27 (V)
+
+
+###### Article R327-13
+
+L'employeur doit, préalablement à la mise au chômage partiel de ses salariés, adresser à l'autorité administrative une
+demande d'indemnisation précisant les motifs justifiant le recours au chômage partiel, la durée prévisible de la sous-
+activité, le nombre de salariés concernés ainsi que, pour chacun d'entre eux, la durée du travail habituellement effectuée.
+
+Toutefois, en cas de suspension d'activité due à un sinistre ou à des intempéries, l'employeur dispose d'un délai de 30 jours
+pour adresser sa demande.
+
+L'autorité administrative dispose d'un délai de 20 jours à compter de la date de réception de la demande pour notifier à
+l'employeur sa décision d'acceptation ou de refus.
+
+L'allocation pour privation partielle d'emploi est liquidée mensuellement. Les indemnités sont versées aux salariés à la date
+normale de paie par l'employeur.
+
+L'employeur est remboursé sur production d'états nominatifs, visés par l'autorité administrative compétente, précisant le
+nombre d'heures chômées par chaque salarié ainsi que le montant de l'allocation complémentaire qui lui est versé par
+l'employeur en application de l'article L. 327-10.
+
+Toutefois, en cas de redressement ou de liquidation judiciaire, ou de difficultés financières de l'employeur, le représentant
+de l'Etat à Mayotte ou, sur délégation, le directeur du travail, de l'emploi et de la formation professionnelle peut faire
+procéder au paiement direct des allocations aux salariés. La procédure de paiement direct des allocations aux salariés peut
+également être employée pour assurer, sous le contrôle du directeur du travail, de l'emploi ou de la formation
+professionnelle, l'indemnisation des travailleurs à domicile habituellement occupés par plusieurs employeurs.
+
+A l'occasion du paiement des allocations, un document indiquant le nombre des heures indemnisées, les taux appliqués et les
+sommes versées au titre de la période considérée est remis au salarié par l'employeur ou, en cas de paiement direct, par les
+services chargés du paiement. Ce document distingue la partie de l'allocation qui est remboursée par l'Etat, ou allocation
+spécifique, et la partie de l'allocation qui est à la charge de l'employeur, ou allocation complémentaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-93 du 27 janvier 2004 - art. 5 () JORF 29 janvier 2004
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L327-10 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R327-14 (T)
+
+
+###### Article R327-14
+
+Les entreprises appliquant un accord de modulation du temps de travail peuvent bénéficier des allocations de chômage partiel
+pour chaque heure perdue en deçà de la durée du travail prévue dans le programme indicatif des salariés concernés sur la
+période considérée dans les limites de la durée légale ou de la durée hebdomadaire moyenne sur l'année ou sur la période
+retenue par l'accord ou la convention, si elle est inférieure.
+
+L'employeur doit adresser une demande d'indemnisation selon la procédure prévue à l'article R. 327-13 ; il doit en outre
+communiquer à l'autorité administrative compétente le programme indicatif sur la période considérée ainsi que les mesures
+mises en oeuvre pour éviter le recours au chômage partiel.
+
+Les indemnités sont versées aux salariés dans les conditions définies à l'article R. 327-13.
+
+L'employeur est remboursé sur production d'états nominatifs, à la fin de la période de modulation, et au vu des heures
+effectivement travaillées sur l'année figurant dans le bilan de la modulation du temps de travail, dressé par l'employeur et
+communiqué à l'autorité administrative.
+
+Toutefois, l'employeur est remboursé mensuellement dans les cas suivants :
+
+1° Lorsqu'il est avéré que l'entreprise ne pourra pas atteindre, au plus, en moyenne, la durée hebdomadaire légale du travail
+par semaine travaillée, compte tenu des durées maximales du travail et de l'amplitude de la modulation ;
+
+2° Lorsque l'autorité administrative estime que la situation exceptionnelle de l'entreprise ou des difficultés économiques
+sérieuses et avérées nécessitent le remboursement mensuel de l'allocation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 du 16 décembre 1991
+
+	**Créé par**:
+
+	  - Décret n°2004-93 du 27 janvier 2004 - art. 5 () JORF 29 janvier 2004
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1204 du 30 octobre 2012 - art. 1
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R321-14 (M)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R327-13
 
 
 ### TITRE III : Main-d'oeuvre étrangère
@@ -20407,6 +21011,47 @@ susceptibles d'être sanctionnées au titre des dispositions de cet article.
 	  - Code du travail applicable à Mayotte. - art. R632-1 (V)
 
 
+## LIVRE VII : Formation professionnelle
+
+### Chapitre unique : Dispositions communes aux contrats de qualification et aux contrats d'orientation
+
+###### Article R711-1
+
+Le directeur du travail, de l'emploi et de la formation professionnelle de Mayotte peut, par décision motivée, prononcer le
+retrait du bénéfice de l'exonération prévue à l'article L. 711-9 lorsqu'il est constaté par les services chargés du contrôle
+de l'exécution du contrat que l'employeur a méconnu tout ou partie des obligations mises à sa charge par les articles L.
+711-5 à L. 711-8.
+
+La décision est notifiée à l'employeur. Elle est également communiquée :
+
+a) Aux services chargés du contrôle de l'exécution du contrat ;
+
+b) S'ils existent, aux délégués du personnel ;
+
+c) A l'organisme chargé du recouvrement des cotisations de sécurité sociale ;
+
+d) A l'organisme paritaire collecteur agréé ayant pris en charge les dépenses liées aux actions d'orientation
+professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité départementale de Mayotte L711-9, L711-5 à L711-8
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-93 du 27 janvier 2004 - art. 6 () JORF 29 janvier 2004
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D711-13 (VT)
+
+
 # Partie réglementaire  - Décrets simples
 
 ## Livre 1er : Conventions relatives au travail
@@ -21050,6 +21695,124 @@ registre des métiers.
 	  - Code du travail applicable à Mayotte. - art. D312-9 (V)
 
 
+### Titre 2 : Aides à l'emploi - Intervention du fonds national de l'emploi
+
+#### Chapitre 4 : Dispositions particulières relatives à l'emploi des jeunes - Projet initiative-jeune
+
+###### Article D324-9
+
+Le montant maximum de l'aide prévue au a de l'article L. 324-9 est de 7 320 Euros.
+
+Le montant maximum de l'aide mensuelle prévue au b de l'article L. 324-9 est de 305 Euros.
+
+Les frais liés à la formation peuvent faire l'objet d'une prise en charge forfaitaire d'un montant maximum de 762 Euros.
+Lorsque l'aide est destinée à la création d'entreprises, 15 % maximum de son montant est consacré à des actions de conseil ou
+de formation à la gestion d'entreprises.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité départementale de Mayotte L324-9
+
+	**Codifié par**:
+
+	  - Décret n°92-238 du 9 mars 1992
+
+	**Créé par**:
+
+	  - Décret n°2004-94 du 27 janvier 2004 - art. 1 () JORF 29 janvier 2004
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D324-2 (Ab)
+
+
+#### Chapitre 5 : Dispositions relatives à la création d'entreprises et à la création d'emplois - Aide à la création d'entreprises à l'initiative des demandeurs d'emploi
+
+###### Article D325-1
+
+I. - Le montant du plafond de l'aide à la création d'entreprises mentionnée à l'article L. 325-1 est fixé à 4 200 Euros.
+
+Le montant de l'aide accordée est apprécié, à la vue du dossier, en fonction de la réalité et de la viabilité juridique,
+économique, financière et technique du projet ainsi que de son intérêt pour le développement local de l'emploi.
+
+II. - Le chéquier-conseil est composé de six chèques d'un montant unitaire de 46 Euros pris en charge par l'Etat. Un chèque
+équivaut à une heure de conseil, l'heure de conseil ouvrant droit aux chèques-conseil est fixée à 61 Euros.
+
+III. - Toute personne qui retire un dossier de demande d'aide à la création d'entreprises et qui répond aux conditions fixées
+par l'article L. 235-1 peut demander le bénéfice d'un ou de deux chéquiers-conseil.
+
+Toute personne dont l'aide prévue à l'article L. 235-1 a été mandatée peut demander le bénéfice de chéquiers-conseil dans la
+limite de trois, déduction faite de ceux dont elle a déjà bénéficié avant la création de l'entreprise pour le même projet.
+
+IV. - Les chéquiers-conseil sont délivrés par la direction du travail, de l'emploi et de la formation professionnelle. Ils
+sont nominatifs. Ils ont une validité de trente-six mois à compter de la date de leur délivrance.
+
+V. - Les chèques représentant la contribution de l'Etat sont utilisés par les bénéficiaires auprès d'organismes habilités
+désignés par le représentant de l'Etat. La liste des organismes est actualisée tous les ans. Seront habilités les organismes
+qui, au préalable, auront adhéré à une convention type définissant les principes et modalités d'intervention, dont le modèle
+est arrêté par le représentant de l'Etat à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité départementale de Mayotte L325-1, L235-1
+
+	**Codifié par**:
+
+	  - Décret n°92-238 du 9 mars 1992
+
+	**Créé par**:
+
+	  - Décret n°2004-94 du 27 janvier 2004 - art. 2 () JORF 29 janvier 2004
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D325-1-1 (Ab)
+
+
+#### Chapitre 7 : Indemnisation du chômage
+
+##### Section 2 : Perte temporaire de salaire
+
+###### Article D327-10
+
+Le taux horaire de l'allocation spécifique pour privation partielle d'emploi prévu à l'article L. 327-10 est fixé à 1,5
+Euros.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité départementale de Mayotte L327-10
+
+	**Codifié par**:
+
+	  - Décret n°92-238 du 9 mars 1992
+
+	**Créé par**:
+
+	  - Décret n°2004-94 du 27 janvier 2004 - art. 3 () JORF 29 janvier 2004
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D321-12-1 (Ab)
+
+
 ## Livre 5 : Conflits du travail
 
 ### Titre 1er : Conflits collectifs
@@ -21169,5 +21932,621 @@ fonctionnaires du groupe I.
 	**Nouveaux textes**:
 
 	  - Code du travail applicable à Mayotte. - art. D514-10 (V)
+
+
+## Livre 7 : De la formation professionnelle
+
+### Chapitre 2 : Contrats de formation en alternance Section 1 : Contrats de qualification
+
+###### Article D712-1
+
+Le contrat de qualification prévu à l'article L. 711-5 s'adresse aux personnes de moins de trente ans n'ayant pas acquis de
+qualification au cours de leur scolarité ou ayant acquis une qualification qui ne leur a pas permis d'obtenir un emploi.
+
+Les périodes en entreprises effectuées au titre de la scolarité ne peuvent pas donner lieu à la conclusion de contrats de
+qualification.
+
+Les actions de formation qui constituent des éléments de la formation initiale de jeunes gens sous statut scolaire ou
+universitaire ne peuvent faire l'objet d'un contrat de qualification ni donner lieu à la conclusion de conventions conclues
+en application des dispositions de l'article L. 711-6.
+
+Des actions de formation ne peuvent être mises en place par un organisme de formation ou un établissement d'enseignement dans
+le cadre d'un contrat de qualification qu'après signature d'une convention de formation conclue en application des
+dispositions de l'article L. 711-6.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité départementale de Mayotte L711-5, L711-6
+
+	**Codifié par**:
+
+	  - Décret n°92-238 du 9 mars 1992
+
+	**Créé par**:
+
+	  - Décret n°2004-94 du 27 janvier 2004 - art. 4 () JORF 29 janvier 2004
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D711-2 (VT)
+
+
+###### Article D712-2
+
+L'habilitation prévue à l'article L. 711-6 est subordonnée au dépôt d'un dossier qui comporte :
+
+1° Le texte de la convention mentionnée au deuxième alinéa de l'article L. 711-6, ou la justification de l'adhésion à un
+accord-cadre conclu dans les conditions prévues au même article.
+
+2° Lorsque l'entreprise ne relève pas d'un accord cadre, le compte rendu de la consultation des délégués du personnel, s'ils
+existent.
+
+3° L'indication du nombre de personnes susceptibles de bénéficier de contrats de qualification et de la durée de ceux-ci.
+
+4° La définition des emplois offerts à ces personnes.
+
+5° Le nom et la mention des qualifications professionnelles du ou des tuteurs, dont le choix, la qualification et la mission
+sont déterminés conformément aux dispositions de l'article D. 712-13.
+
+6° Le cas échéant, les références de l'entreprise en matière de formation professionnelle et, s'il y a lieu, la liste des
+titres ou diplômes homologués ou reconnus par une convention collective ou figurant sur une liste établie par le représentant
+de l'Etat à Mayotte en application des dispositions de l'article L. 711-5.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité départementale de Mayotte L711-6, D712-13, L711-5
+
+	**Codifié par**:
+
+	  - Décret n°92-238 du 9 mars 1992
+
+	**Créé par**:
+
+	  - Décret n°2004-94 du 27 janvier 2004 - art. 4 () JORF 29 janvier 2004
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D711-3 (VT)
+
+
+###### Article D712-3
+
+L'habilitation est accordée au vu du dossier prévu à l'article précédent et en tenant compte, en outre, des conditions de
+travail, d'hygiène et de sécurité dans l'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°92-238 1992-03-09 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-94 du 27 janvier 2004 - art. 4 () JORF 29 janvier 2004
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D711-4 (VT)
+
+
+###### Article D712-4
+
+La demande d'habilitation accompagnée du dossier est adressée, par lettre recommandée avec accusé de réception, au
+représentant de l'Etat à Mayotte.
+
+L'habilitation est réputée acquise à défaut de décision de refus notifiée par représentant de l'Etat dans le mois qui suit la
+réception du dossier.
+
+L'habilitation peut être retirée par décision motivée du représentant de l'Etat à Mayotte prise après avis du comité de la
+formation professionnelle, de la promotion sociale et de l'emploi en cas de méconnaissance des dispositions des sections I et
+III du chapitre II du livre VII de la partie Législative du présent code ou des engagements pris en la matière par
+l'employeur.
+
+Si une entreprise habilitée désire conclure des contrats de qualification comportant des formations en alternance autres que
+celles qui font l'objet de l'habilitation, elle présente une nouvelle demande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°92-238 du 9 mars 1992
+
+	**Créé par**:
+
+	  - Décret n°2004-94 du 27 janvier 2004 - art. 4 () JORF 29 janvier 2004
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D711-5 (VT)
+
+
+###### Article D712-5
+
+Lorsque la qualification est reconnue dans les classifications d'une convention collective, un document écrit, annexé au
+contrat, précise les caractéristiques de l'emploi, les objectifs, le programme et les conditions d'évaluation de la
+formation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°92-238 1992-03-09 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-94 du 27 janvier 2004 - art. 4 () JORF 29 janvier 2004
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D711-6 (VT)
+
+
+###### Article D712-6
+
+Le dépôt du contrat de qualification prévu à l'article L. 711-5 intervient au plus tard dans le mois qui suit le début du
+contrat.
+
+La direction du travail, de l'emploi et de la formation professionnelle de Mayotte s'assure que le contrat est conforme à la
+décision d'habilitation et aux dispositions législatives, réglementaires ou conventionnelles qui le régissent.
+
+Si l'administration n'a pas fait connaître ses observations dans le délai d'un mois à compter de la date du dépôt, le contrat
+est considéré comme conforme.
+
+L'intéressé qui entend contester la décision de refus d'enregistrement doit, préalablement à tout recours contentieux, former
+un recours devant le ministre chargé du travail. Ce recours doit être formé dans un délai d'un mois à compter de la
+notification de la décision.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité départementale de Mayotte L711-5
+
+	**Codifié par**:
+
+	  - Décret n°92-238 1992-03-09 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-94 du 27 janvier 2004 - art. 4 () JORF 29 janvier 2004
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D711-7 (VT)
+
+
+###### Article D712-7
+
+Lorsque la qualification n'est pas sanctionnée par un diplôme, elle donne lieu à une attestation écrite remise par
+l'employeur au titulaire du contrat de qualification. Dans le cas où la qualification est reconnue dans les classifications
+d'une convention collective, cette attestation est établie en liaison avec l'organisme de formation, dans les conditions
+prévues au contrat ; dans le cas où la qualification est définie par l'arrêté du représentant de l'Etat à Mayotte en
+application de l'article L. 711-5, cette attestation est établie dans les conditions prévues par ledit arrêté.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité départementale de Mayotte L711-5
+
+	**Codifié par**:
+
+	  - Décret n°92-238 du 9 mars 1992
+
+	**Créé par**:
+
+	  - Décret n°2004-94 du 27 janvier 2004 - art. 4 () JORF 29 janvier 2004
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D711-8 (VT)
+
+
+### Chapitre 2 : Contrats de formation en alternance Section 2 : Contrats d'orientation
+
+###### Article D712-8
+
+La conclusion d'un contrat d'orientation est subordonnée à la signature d'une convention conclue entre l'employeur et le ou
+les organismes chargés de mettre en oeuvre les actions d'orientation professionnelle définies à l'article D. 712-10.
+
+La convention doit préciser :
+
+a) La nature et la durée des actions d'orientation professionnelle prévues ;
+
+b) Les modalités d'organisation de ces actions ;
+
+c) Les modalités de la coordination entre le tuteur et l'organisme chargé de la mise en oeuvre de ces actions.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité départementale de Mayotte D712-10
+
+	**Codifié par**:
+
+	  - Décret n°92-238 1992-03-09 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-94 du 27 janvier 2004 - art. 4 () JORF 29 janvier 2004
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D711-9 (VT)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D712-9 (T)
+
+
+###### Article D712-9
+
+Le contrat d'orientation conclu entre le jeune et l'employeur après la signature de la convention mentionnée à l'article D.
+712-8 comporte notamment les mentions spécifiques suivantes :
+
+a) L'identification du diplôme le plus élevé obtenu par le jeune ;
+
+b) La nature des activités exercées et la rémunération ;
+
+c) La nature et la durée des actions d'orientation professionnelle prévues ;
+
+d) Le nom et la qualification du tuteur ;
+
+e) La durée hebdomadaire du travail.
+
+Lors de la conclusion du contrat d'orientation, l'employeur remet à la personne concernée un document d'information sur les
+objectifs et le contenu des actions d'orientation professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité départementale de Mayotte D712-8
+
+	**Codifié par**:
+
+	  - Décret n°92-238 1992-03-09 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-94 du 27 janvier 2004 - art. 4 () JORF 29 janvier 2004
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D711-10 (VT)
+
+
+###### Article D712-10
+
+Pendant la durée du contrat, l'employeur est tenu de faire participer le titulaire du contrat d'orientation à des actions
+d'orientation et de désigner un tuteur chargé du suivi de ce salarié et de la coordination avec l'organisme chargé de la mise
+en oeuvre de ces actions.
+
+Ces actions d'orientation doivent avoir pour objet de favoriser, par une première expérience en entreprise et l'élaboration
+d'un projet professionnel, l'orientation des titulaires de contrats d'orientation en vue de leur permettre, à terme, soit
+d'accéder directement à un emploi, soit d'acquérir une qualification, notamment par la voie d'un contrat d'apprentissage ou
+d'un contrat de qualification.
+
+Elles peuvent consister en des actions de mise à niveau, de connaissance de l'entreprise et de ses métiers, de bilan de
+compétences et d'évaluation des acquis, de construction de projet professionnel, de recherche active d'emploi.
+
+Ces actions doivent être au minimum d'une durée égale à 25 % de la durée du contrat.
+
+Ces actions sont réalisées pour un minimum de 75 % de leur durée dans les organismes avec lesquels la convention mentionnée à
+l'article D. 712-8 a été conclue.
+
+Ces durées peuvent être modifiées par voie d'accord de branche ou interprofessionnel étendu.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité départementale de Mayotte D712-8
+
+	**Codifié par**:
+
+	  - Décret n°92-238 1992-03-09 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-94 du 27 janvier 2004 - art. 4 () JORF 29 janvier 2004
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D711-11 (VT)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D712-11 (T)
+	  - Code du travail applicable à Mayotte. - art. D712-8 (T)
+
+
+###### Article D712-11
+
+L'employeur est tenu de déposer à la direction du travail, de l'emploi et de la formation professionnelle de Mayotte, dès la
+conclusion du contrat, un dossier composé des pièces suivantes :
+
+1° Le contrat de travail accompagné du document d'information mentionné à l'article D. 712-9.
+
+2° La copie de la convention conclue avec le ou les organismes chargés de mettre en oeuvre les actions d'orientation
+professionnelle définies à l'article D. 712-10.
+
+Le directeur du travail, de l'emploi et de la formation professionnelle de Mayotte s'assure que le contrat et la convention
+sont conformes aux dispositions législatives, réglementaires ou conventionnelles qui régissent le contrat d'orientation et
+que les conditions de travail, d'hygiène et de sécurité dans l'entreprise sont compatibles avec le déroulement d'un contrat
+d'orientation.
+
+Si l'administration n'a pas fait connaître ses observations dans un délai d'un mois à compter de la date du dépôt, le contrat
+est considéré comme conforme.
+
+L'intéressé qui entend contester la décision de refus d'enregistrement doit, préalablement à tout recours contentieux, former
+un recours devant le ministre chargé du travail. Ce recours doit être formé dans un délai d'un mois à compter de la
+notification de la décision.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité départementale de Mayotte D712-9, D712-10
+
+	**Codifié par**:
+
+	  - Décret n°92-238 1992-03-09 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-94 du 27 janvier 2004 - art. 4 () JORF 29 janvier 2004
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D711-12 (VT)
+
+
+### Chapitre 2 : Contrats de formation en alternance Section 3 : Dispositions communes aux contrats de qualification et d'orientation
+
+###### Article D712-12
+
+Les cotisations dont l'employeur a été exonéré avant la notification de la décision prévue à l'article R. 711-1 doivent être
+versées au plus tard en même temps que les cotisations dues au titre de la première paie suivant la date de la notification.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité départementale de Mayotte R711-1
+
+	**Codifié par**:
+
+	  - Décret n°92-238 1992-03-09 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-94 du 27 janvier 2004 - art. 4 () JORF 29 janvier 2004
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D711-13 (VT)
+
+
+###### Article D712-13
+
+Pour chaque personne titulaire d'un contrat de qualification ou d'orientation, l'employeur, à moins qu'il n'assure lui-même
+le tutorat, choisit un tuteur, avec son accord, parmi les salariés qualifiés de l'entreprise justifiant d'une expérience
+professionnelle d'au moins deux ans, en tenant compte de son niveau de qualification et de l'objectif à atteindre.
+
+Le tuteur a pour mission d'accueillir, d'aider, d'informer et de guider le jeune pendant la durée du contrat et de veiller au
+respect de son emploi du temps. Il assure la liaison avec le ou les organismes chargés de mettre en oeuvre les actions
+d'orientation, de qualification ou d'adaptation et participe à l'évaluation du jeune. L'employeur lui permet de disposer du
+temps nécessaire pour exercer ses fonctions.
+
+Le tuteur ne peut exercer simultanément ses fonctions à l'égard de plus de trois salariés titulaires des contrats visés au
+premier alinéa ci-dessus ou de contrats d'apprentissage. L'employeur ne peut assurer simultanément le tutorat à l'égard de
+plus de deux salariés titulaires de tels contrats.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°92-238 du 9 mars 1992
+
+	**Créé par**:
+
+	  - Décret n°2004-94 du 27 janvier 2004 - art. 4 () JORF 29 janvier 2004
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D711-14 (VT)
+
+
+###### Article D712-14
+
+Lorsqu'un contrat de qualification ou d'orientation est rompu avant son terme, l'employeur signale cette rupture :
+
+a) Au directeur du travail, de l'emploi et de la formation professionnelle de Mayotte ;
+
+b) Le cas échéant, à l'organisme paritaire collecteur agréé ayant pris en charge les dépenses liées aux actions de
+formation ;
+
+c) Lorsque le contrat ouvre droit à une exonération de cotisations, à l'organisme chargé du recouvrement des cotisations de
+sécurité sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°92-238 1992-03-09 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-94 du 27 janvier 2004 - art. 4 () JORF 29 janvier 2004
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D711-15 (VT)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D712-16 (T)
+
+
+###### Article D712-15
+
+Les ressources de l'organisme paritaire prévu à l'article L. 711-1 peuvent être destinées :
+
+a) Au financement des dépenses de formation des bénéficiaires des contrats de qualification prévus à l'article L. 711-5 ;
+
+b) Au financement des actions d'évaluation des bénéficiaires des contrats d'orientation prévus à l'article L. 711-7 ;
+
+c) Aux dépenses exposées à l'occasion de la formation des tuteurs telle que prévue à l'article D. 712-13 ;
+
+d) Au financement des dépenses liées à l'exercice par les tuteurs des missions suivantes :
+
+- accueillir, aider, informer et guider les personnes visées au présent chapitre ;
+
+- initier ces personnes aux différentes activités de l'entreprise ;
+
+- contribuer à l'acquisition par ces personnes des savoir-faire professionnels ;
+
+- organiser avec les salariés concernés l'activité de ces personnes dans l'entreprise ;
+
+- assurer, le cas échéant, la liaison avec les organismes chargés de la formation, du bilan ou de l'orientation
+professionnelle, ou de l'accompagnement de la personne à l'extérieur de l'entreprise.
+
+Un arrêté du représentant de l'Etat à Mayotte définit l'assiette de prise en charge ainsi que les modalités de la
+participation de l'organisme paritaire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité départementale de Mayotte L711-1, L711-5, L711-7, D712-13
+
+	**Codifié par**:
+
+	  - Décret n°92-238 1992-03-09 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-94 du 27 janvier 2004 - art. 4 () JORF 29 janvier 2004
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D711-16 (VT)
+
+
+###### Article D712-16
+
+Lorsqu'ils existent, les délégués du personnel sont consultés sur les effectifs des personnes ayant conclu avec l'entreprise
+des contrats d'orientation et des contrats d'adaptation, leur âge, leur sexe, leur niveau initial de formation, sur les
+conditions dans lesquelles se dérouleront les contrats, ainsi que les résultats obtenus en fin de contrat et leurs conditions
+d'appréciation et de validation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°92-238 1992-03-09 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-94 du 27 janvier 2004 - art. 4 () JORF 29 janvier 2004
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D711-17 (VT)
+
+
+###### Article D712-17
+
+L'exonération des cotisations à la charge de l'employeur dues au titre des assurances sociales, des accidents du travail et
+des allocations familiales afférentes à la rémunération des titulaires de contrats de qualification porte sur la partie du
+salaire n'excédant pas le salaire minimum interprofessionnel garanti.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°92-238 1992-03-09 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-94 du 27 janvier 2004 - art. 4 () JORF 29 janvier 2004
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D711-18 (VT)
 
 
