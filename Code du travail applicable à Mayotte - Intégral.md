@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2004-08-17
+Version Consolidée au 2004-09-02
 
 # Partie législative
 
@@ -18604,6 +18604,268 @@ année.
 
 ### TITRE III : Hygiène, sécurité et conditions de travail
 
+#### CHAPITRE Ier : Dispositions générales
+
+##### Section 3 : Manutention des charges.
+
+###### Article R231-50
+
+Les dispositions de la présente section s'appliquent à toutes les manutentions dites manuelles comportant des risques,
+notamment dorso-lombaires, pour les salariés en raison des caractéristiques de la charge ou des conditions ergonomiques
+défavorables.
+
+On entend par manutention manuelle toute opération de transport ou de soutien d'une charge, dont le levage, la pose, la
+poussée, la traction, le port ou le déplacement, qui exige l'effort physique d'un ou de plusieurs salariés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R231-51
+
+L'employeur doit prendre les mesures d'organisation appropriées ou utiliser les moyens adéquats, et notamment les équipements
+mécaniques, afin d'éviter le recours à la manutention manuelle de charges par les salariés.
+
+Toutefois, lorsque la nécessité d'une manutention manuelle de charges ne peut être évitée, notamment en raison de la
+configuration des lieux où cette manutention est effectuée, l'employeur doit prendre les mesures d'organisation appropriées
+ou mettre à la disposition des salariés les moyens adaptés, si nécessaire en combinant leurs effets, de façon à limiter
+l'effort physique et à réduire le risque encouru lors de cette opération.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R231-52
+
+Sans préjudice des autres dispositions du présent code, lorsque la manutention manuelle ne peut être évitée, l'employeur
+doit :
+
+1° Evaluer, si possible préalablement, les risques que font encourir les opérations de manutention pour la sécurité et la
+santé des salariés ;
+
+2° Organiser les postes de travail de façon à éviter ou à réduire les risques, notamment dorso-lombaires, en mettant en
+particulier à la disposition des salariés des aides mécaniques ou, à défaut de pouvoir les mettre en oeuvre, les accessoires
+de préhension propres à rendre leur tâche plus sûre et moins pénible.
+
+Sans préjudice des autres dispositions du présent code, pour l'évaluation préalable des risques et l'organisation des postes
+de travail, l'employeur doit tenir compte des critères d'évaluation, relatifs notamment aux caractéristiques de la charge, à
+l'effort physique requis, aux caractéristiques du milieu de travail et aux exigences de l'activité, et des facteurs
+individuels de risque, tels que définis par arrêté du ministre chargé du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R231-48 (V)
+
+
+###### Article R231-53
+
+Le médecin du travail conseille l'employeur lors de l'évaluation des risques et de l'organisation des postes de travail.
+
+Un arrêté du ministre chargé du travail énonce les recommandations à faire au médecin du travail, notamment pour lui
+permettre d'exercer son rôle de conseiller prévu au premier alinéa.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R231-54
+
+L'employeur doit veiller à ce que les salariés reçoivent des indications estimatives et, chaque fois que possible, des
+informations précises sur le poids de la charge et sur la position de son centre de gravité ou de son côté le plus lourd
+lorsque la charge est placée de façon excentrée dans un emballage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R231-55
+
+L'employeur doit faire bénéficier les salariés dont l'activité comporte des manutentions manuelles : 
+
+1° D'une information sur les risques qu'ils encourent lorsque les activités ne sont pas exécutées d'une manière techniquement
+correcte, en tenant compte des critères d'évaluation définis par l'arrêté prévu à l'article R. 231-3 ; 
+
+2° D'une formation adéquate à la sécurité relative à l'exécution de ces opérations ; au cours de cette formation, qui doit
+être essentiellement à caractère pratique, les salariés sont instruits sur les gestes et postures à adopter pour réaliser en
+sécurité les manutentions manuelles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R231-3 (V)
+
+
+###### Article R231-56
+
+Lorsque le recours à la manutention manuelle est inévitable et que les aides mécaniques prévues au 2° de l'article R. 231-3
+ne peuvent être mises en oeuvre, un salarié ne peut être admis à porter d'une façon habituelle des charges supérieures à 55
+kilogrammes qu'à condition d'y avoir été reconnu apte par le médecin du travail, sans que ces charges puissent être
+supérieures à 105 kilogrammes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R231-3 (V)
+
+
+##### Section 4 : Transport du personnel dans des véhicules de transport de marchandises.
+
+###### Article R231-57
+
+Sans préjudice des mesures générales prescrites par d'autres textes législatifs ou réglementaires, et notamment celles
+intéressant la police de la circulation routière, sont soumis aux dispositions de la présente section tous les véhicules de
+transport de marchandises utilisés par tout employeur pour le transport de son personnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R231-58
+
+Le véhicule utilisé pour le transport de personnel ne doit pas assurer simultanément le transport de matériels, gros ou
+petits, de marchandises ou de matériaux.
+
+Le transport de personnel est interdit dans des camions-bennes, dans des remorques attelées à des véhicules de transport de
+marchandises, employés ou non au transport en commun de personnes et dans des véhicules de transport de marchandises utilisés
+pour transporter des matières inflammables ou explosives.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R231-59
+
+Le transport des salariés debout n'est pas autorisé.
+
+Des banquettes ou des sièges doivent être mis à la disposition du personnel transporté. Leur disposition doit permettre son
+évacuation rapide.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R231-64 (V)
+
+
+###### Article R231-60
+
+Les véhicules ouverts doivent être aménagés de façon à empêcher toute chute de personne hors de ces véhicules.
+
+En particulier, les camions à plateau ne peuvent être utilisés pour le transport des salariés que s'ils sont équipés de
+ridelles et que si le bord supérieur des ridelles ou des rehausses dépasse de 0,50 mètre au moins le niveau des sièges ou
+banquettes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R231-61
+
+Il n'est toléré aucun passager au côté du conducteur pendant le transport en commun de personnes.
+
+Le nombre de passagers doit être tel qu'il n'affecte pas la stabilité du véhicule, à l'arrêt ou en marche.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R231-62
+
+Les véhicules utilisés pour le transport du personnel doivent être soumis au moins une fois par trimestre à des révisions
+complètes qui portent particulièrement sur les pièces, organes et accessoires intéressant la sécurité (et notamment les
+organes de direction et de freinage, les projecteurs, les avertisseurs, les portes,...) en vue de décider le remplacement de
+ceux qui ne paraîtraient plus susceptibles d'un service suffisant et d'assurer un bon réglage et la mise au point de toutes
+ces pièces, organes et accessoires ; entre-temps, l'entretien courant doit être assuré.
+
+Ces contrôles trimestriels doivent être effectués par du personnel qualifié appartenant ou non à l'entreprise.
+
+Les dates de ces contrôles trimestriels et le relevé des vérifications faites doivent être consignés dans un carnet tenu à la
+disposition du conducteur.
+
+Ce carnet doit être présenté, sur leur demande, aux agents chargés du contrôle de l'application de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R231-63
+
+Les infractions à la présente délibération sont constatées par les agents de contrôle de l'inspection du travail et les
+officiers de police judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R231-64
+
+Les infractions aux dispositions de la présente section sont passibles des peines prévues pour les contraventions de la 5e
+classe et, le cas échéant, de leur récidive. 
+
+En cas d'infraction aux dispositions des articles R. 231-59 à R. 231-61, l'amende est appliquée autant de fois qu'il y a de
+salariés de l'entreprise concernés par la ou les infractions constatées par procès-verbal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R231-59 (V)
+
+
 #### CHAPITRE II : Hygiène, aménagement des lieux de travail, prévention des incendies
 
 ##### Section 1 : Aménagement et hygiène des lieux de travail
@@ -18813,6 +19075,35 @@ cours de livraison.
 
 	  - Code de la construction et de l'habitation. - art. R161-5 (V)
 	  - Code du travail applicable à Mayotte. - art. R232-85 (V)
+	  - Code du travail applicable à Mayotte. - art. R239-47 (V)
+
+
+###### Article R232-82
+
+Dans les locaux mentionnés à l'article précédent ainsi que dans ceux où sont entreposées ou manipulées des substances ou
+préparations classées facilement inflammables, ainsi que des matières dans un état physique tel qu'elles sont susceptibles de
+prendre feu instantanément au contact d'une flamme ou d'une étincelle et de propager rapidement l'incendie, aucun poste
+habituel de travail ne doit se trouver à plus de dix mètres d'une issue donnant sur l'extérieur ou sur un local donnant lui-
+même sur l'extérieur. Les portes de ces locaux doivent s'ouvrir vers l'extérieur.
+
+Si les fenêtres de ces locaux sont munies de grilles ou grillages, ceux-ci doivent s'ouvrir très facilement de l'intérieur.
+
+Il est interdit de déposer et de laisser séjourner les substances, préparations ou matières visées à l'alinéa premier dans
+les escaliers, passages et couloirs, sous les escaliers ainsi qu'à proximité des issues des locaux et bâtiments.
+
+Les chiffons, cotons et papiers imprégnés de liquides inflammables ou de matières grasses doivent être, après usage, enfermés
+dans des récipients métalliques clos et étanches.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-87 (V)
+	  - Code du travail applicable à Mayotte. - art. R232-88 (VD)
 	  - Code du travail applicable à Mayotte. - art. R239-47 (V)
 
 
@@ -20223,7 +20514,102 @@ de l'avis favorable du médecin du travail.
 
 #### CHAPITRE V : Mesures particulières de protection et de salubrité applicables aux établissements dont les salariés exécutent des travaux de bâtiment, des travaux publics et tous autres travaux concernant les immeubles
 
+###### Article R235-1
+
+Indépendamment des mesures prescrites par le titre III du livre II du présent code ainsi que par les décrets et arrêtés
+relatifs à son exécution, les employeurs visés par l'article L. 230-1, les chefs d'établissement, directeurs, gérants ou
+préposés visés par l'article L. 251-1 et, notamment ceux du bâtiment et des travaux publics, dont les salariés effectuent,
+même à titre occasionnel, des travaux de terrassement, de construction, d'installation, de démolition, d'entretien, de
+réfection, de nettoyage, toutes opérations annexes et tous autres travaux prévus par le présent chapitre, portant sur les
+immeubles par nature ou par destination, sont tenus de prendre les mesures spéciales de protection et de salubrité énoncées
+aux articles ci-après.
+
+Sont soumis aux dispositions du présent chapitre, à l'exception de la section 8, les travailleurs indépendants et les
+employeurs mentionnés à l'article L. 230-1-1.
+
+Sont aussi soumis aux dispositions du présent chapitre les chefs d'établissement dont les salariés effectuent, même à titre
+occasionnel, les travaux prévus au premier alinéa du présent article sur les navires amarrés, les aéronefs au sol et dans les
+installations portuaires, y compris les travaux de construction et de réparation navales.
+
+Les mesures de protection prévues par le présent chapitre doivent être mises en oeuvre de façon à assurer la protection de
+toute personne n'ayant pas la qualité d'employeur, de salarié, de travailleur indépendant et d'employeur mentionné à
+l'article L. 230-1-1 qui est autorisée à circuler sur les lieux de travail entrant dans le champ d'application du présent
+chapitre par les employeurs visés par l'article L. 230-1, les chefs d'établissement, directeurs, gérants ou préposés visés
+par l'article L. 251-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L230-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L230-1-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L251-1 (M)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-52 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-25 (V)
+
+
 ##### Section 1 : Mesures générales de sécurité
+
+##### Sous-section 1 : Résistance et stabilité.
+
+###### Article R235-2
+
+Les échafaudages, plates-formes, passerelles, boisages, cintres, coffrages, soutènements et toutes autres installations, les
+garde-corps, rampes, filets, ceintures de sécurité et tous autres dispositifs ou appareils de protection, les chaînes, câbles
+ou cordages, les échelles ainsi que les matériels et engins de toute nature doivent être appropriés aux travaux à effectuer
+et aux risques que ces travaux peuvent engendrer.
+
+Les installations, les dispositifs, les matériels ou les engins utilisés doivent avoir notamment une résistance suffisante
+pour supporter les charges et les efforts auxquels ils sont soumis.
+
+En outre, la stabilité des installations et des engins de toute nature mis en oeuvre sur les chantiers doit être assurée
+d'une manière efficace.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-3
+
+Le matériel et les installations de toute nature (notamment les échelles ainsi que les échafaudages et les dispositifs qui
+s'y rattachent), les appareils ou dispositifs de protection, les câbles, cordages et chaînes, les appareils de levage ou de
+manutention et tous autres engins utilisés sur un chantier doivent être maintenus en bon état.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-4
+
+Lorsque des échafaudages, plates-formes, passerelles ou toutes autres installations, des échelles, des garde-corps ou tous
+autres dispositifs de protection comportent des éléments en bois, ces éléments doivent être constitués par des bois sains et
+être exempts de tout défaut pouvant en compromettre la solidité. Si les bois utilisés sont en grume, ils doivent être
+complètement débarrassés de leur écorce.
+
+Lorsque les installations, matériels et dispositifs utilisés comportent des éléments métalliques, ces éléments ne doivent
+être affaiblis ni par la rouille, ni par l'action d'aucun autre corrodant. En particulier, il est interdit d'utiliser des
+tubes ayant été antérieurement soumis, dans des chaudières ou des appareils divers, soit à des températures élevées, soit à
+l'action de liquides ou de gaz corrosifs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
 
 ##### Sous-section 2 : Mesures de protection collective destinées à empêcher les chutes des salariés.
 
@@ -20416,6 +20802,990 @@ Il est interdit de laisser à l'abandon sur le chantier des planches munies de p
 	**Codifié par**:
 
 	  - Décret n°2004-196 2004-02-25
+
+
+##### Sous-section 4 : Mesures de protection individuelle.
+
+###### Article R235-16
+
+Dans le cas où les moyens de protection collective ne peuvent pas être mis en oeuvre de manière satisfaisante, des
+équipements de protection individuelle et des produits de protection appropriés (tels que systèmes d'arrêt de chute, casques,
+lunettes, équipements chaussants, vêtements spécifiques, gants, brassières, maniques, épaulières, tabliers, enduits aptes à
+s'opposer à l'action du ciment) doivent être utilisés dans les conditions prévues par le présent chapitre et par les autres
+dispositions du code du travail.
+
+Les équipements de protection individuelle doivent être toujours en état d'utilisation immédiate.
+
+Les chefs d'établissement doivent veiller à l'utilisation effective des équipements de protection individuelle et des
+produits de protection.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-214 (V)
+
+
+###### Article R235-17
+
+Les systèmes d'arrêt de chute doivent être adaptés à la conformation de leur utilisateur.
+
+Ces appareils ne doivent pas permettre une chute libre de plus de 1 mètre, à moins qu'un dispositif approprié ne limite aux
+mêmes effets une chute de plus grande hauteur.
+
+Les chefs d'établissement sont tenus de s'assurer que leur utilisation est effectivement possible.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-5 (V)
+
+
+###### Article R235-18
+
+Lorsque la protection d'un salarié ne peut être assurée que par un système d'arrêt de chute, ce salarié ne doit jamais
+demeurer seul sur le chantier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+##### Sous-section 5 : Travaux exécutés par grands vents.
+
+###### Article R235-19
+
+Par grands vents, le travail ne peut continuer que si toutes les précautions ont été prises pour assurer la sécurité des
+salariés notamment quant à la stabilité des matériels et appareils utilisés. Ces dispositifs sont établis en tenant compte
+des plus fortes poussées du vent à prévoir suivant les conditions locales.
+
+A cette fin, l'employeur doit se tenir informé de la situation météorologique par tout moyen approprié.
+
+En tout cas le travail cesse lorsque le vent atteint une valeur de service de 72 kilomètres/heure, sauf en cas de travaux
+urgents dont l'exécution immédiate est nécessaire pour prévenir des accidents imminents, organiser des mesures de sauvetage
+ou réparer des accidents survenus soit au matériel, soit aux installations, soit aux bâtiments, soit aux navires, ou de
+travaux exécutés dans l'intérêt de la sûreté et de la défense nationales ou d'un service public sur ordre du représentant de
+l'Etat constatant la nécessité de la poursuite desdits travaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+##### Sous-section 6 : Dispositions concernant la circulation des véhicules, appareils et engins de chantier.
+
+###### Article R235-20
+
+Lorsqu'un chantier comporte habituellement un important mouvement de camions ou de tous autres véhicules de transport
+similaires, des pistes spécialement réservées à la circulation de ces véhicules et convenablement balisées doivent être
+aménagées.
+
+Lorsque le conducteur d'un camion doit exécuter une manoeuvre, et notamment une manoeuvre de recul, dans des conditions de
+visibilité insuffisantes, un ou, le cas échéant, plusieurs salariés doivent soit par la voix, soit par des signaux
+conventionnels, d'une part, diriger le conducteur, d'autre part, avertir les salariés survenant dans la zone où évolue le
+véhicule. Les mêmes précautions doivent être prises lors du déchargement d'une benne de camion.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-21
+
+Lorsqu'un véhicule, appareil ou engin de chantier mobile se trouve, sans son conducteur, à l'arrêt sur un terrain déclive, il
+doit être maintenu immobilisé par tout moyen approprié.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+##### Sous-section 7 : Examens, vérifications, registres.
+
+###### Article R235-22
+
+Le matériel, les engins, les installations et les dispositifs de protection de toute nature utilisés sur un chantier doivent,
+avant leur mise ou remise en service, être examinés dans toutes leurs parties en vue de s'assurer qu'ils sont conformes aux
+prescriptions édictées.
+
+Les examens doivent être renouvelés toutes les fois qu'il est nécessaire, et notamment à la suite de toute défaillance du
+matériel, des engins, des installations ou des dispositifs de sécurité ayant entraîné ou non un accident, après tout effort
+anormal ou incident ayant pu provoquer un désordre dans les installations, ou chaque fois que le matériel, les engins, les
+installations ou les dispositifs de sécurité ont subi des démontages ou des modifications, ou que l'une de leurs parties a
+été remplacée.
+
+Tant qu'il n'a pas été procédé à ces examens et, éventuellement, aux réparations nécessaires, le matériel, l'engin,
+l'installation ou le dispositif de sécurité dont l'état paraît défectueux doit être retiré du service.
+
+Tout matériel, tout engin, toute installation ou tout dispositif réformé doit être définitivement retiré du service.
+
+Les chefs d'établissement font réaliser ces examens par un salarié compétent désigné à cet effet. Le nom et la qualité de ce
+salarié doivent être consignés sur un registre - dit "registre de sécurité" ; ce registre doit être conservé sur le chantier
+même ou, en cas d'impossibilité, au siège de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-116 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-141 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-160 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-23 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-54 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-63 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-74 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-81 (V)
+
+
+###### Article R235-23
+
+L'agent de contrôle de l'inspection du travail peut, à tout moment, prescrire au chef d'établissement ou au travailleur
+indépendant de faire procéder à une vérification de tout ou partie du matériel, des installations ou dispositifs de sécurité
+par les soins d'un vérificateur ou d'un organisme agréé par arrêté du ministre chargé du travail. 
+
+Les résultats des vérifications faites en vertu de l'alinéa précédent doivent être notifiés par écrit dans les quatre jours
+par le chef d'établissement à l'agent de contrôle de l'inspection du travail. 
+
+Les résultats et les dates de ces vérifications, ainsi que les noms, qualités et adresses des salariés qui les ont
+effectuées, doivent être consignés sur le " registre de sécurité " prévu à l'article R. 235-22.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-15 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-54 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-214 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-22 (V)
+
+
+###### Article R235-24
+
+Un registre spécial, dit "registre d'observations", doit être mis à la disposition des salariés et des délégués du personnel,
+pour qu'ils puissent y consigner leurs observations en ce qui concerne l'état du matériel et des installations, l'existence
+de causes susceptibles d'en compromettre la solidité et l'application des dispositions qui font l'objet du présent chapitre.
+
+Ce registre, sur lequel le chef d'établissement a également la faculté de consigner ses observations, doit être tenu à la
+disposition de l'agent de contrôle de l'inspection du travail, du médecin du travail ainsi que des délégués du personnel des
+entreprises intervenantes.
+
+Le "registre d'observations" doit être conservé sur le chantier même ou, en cas d'impossibilité, au siège de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+##### Section 2 : Appareils de levage, câbles, chaînes, cordages et crochets
+
+##### Sous-section 1 : Appareils de levage mus mécaniquement.
+
+###### Article R235-25
+
+Sans préjudice des dispositions non contraires aux articles de la section 2 du chapitre VIII du présent titre, les appareils
+de levage utilisés dans les établissements dont les salariés exécutent les travaux qui sont visés à l'article R. 235-1
+doivent, lorsqu'ils sont mus mécaniquement, satisfaire aux prescriptions des articles R. 235-26 à R. 235-45.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-1 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-26 (V)
+
+
+##### I. - Installation des appareils et des voies.
+
+###### Article R235-26
+
+Les appareils de levage mus mécaniquement doivent être établis sur une surface d'appui présentant une résistance suffisante.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-25 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-46 (V)
+
+
+###### Article R235-27
+
+La stabilité des appareils de levage mus mécaniquement doit être constamment assurée, même en dehors du service, par des
+lests, haubans, vérins, scellements, amarres ou tous autres dispositifs ou moyens appropriés.
+
+Les voies de roulement sur lesquelles circulent les grues doivent être dressées, nivelées et calées, afin de demeurer
+horizontales.
+
+Sur tout appareil de levage mû mécaniquement, il doit être apposé en permanence, auprès du conducteur ainsi qu'à la partie
+inférieure de l'appareil, une plaque indiquant les limites d'emploi de l'appareil, compte tenu notamment de l'importance et
+de la position du contrepoids, de l'orientation et de l'inclinaison de la flèche, de la charge levée en fonction de la portée
+et de la vitesse du vent compatible avec la stabilité.
+
+Lorsqu'il s'agit d'un appareil qui n'a pas été construit par l'utilisateur, les indications portées sur les plaques dont
+l'apposition est prescrite à l'alinéa précédent doivent être conformes aux renseignements fournis par le constructeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-46 (V)
+
+
+###### Article R235-28
+
+Lorsqu'une grue à tour est montée sur rails, un dispositif doit atténuer efficacement les chocs soit en fin de course, soit
+en cas de rencontre avec un autre appareil circulant sur la même voie.
+
+Les voies doivent être prolongées au-delà des butoirs d'une longueur suffisante pour assurer une répartition admissible du
+poids des appareils sur le sol quand ces appareils viennent toucher les butoirs. En aucun cas la longueur du prolongement des
+voies au-delà des butoirs ne doit être inférieure à 1 mètre.
+
+En outre, les grues à tour circulant sur des voies doivent comporter des chasse-pierres robustes pouvant prendre appui sur
+les rails si les organes de translation quittent ces dernières, ou tout autre dispositif d'une efficacité au moins
+équivalente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-29
+
+Des moyens de calage, d'amarrage ou de freinage doivent être utilisés pour immobiliser à l'arrêt les appareils de levage
+mobiles, tels que grues, et éviter leur déplacement sous l'action du vent. Ces dispositifs doivent être établis en tenant
+compte très largement des plus fortes poussées du vent à prévoir suivant les conditions locales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-30
+
+Un espace libre de 60 centimètres au moins doit être ménagé entre les obstacles fixes et les pièces les plus saillantes d'un
+appareil circulant sur une voie de roulement.
+
+Lorsqu'il est impossible d'observer les prescriptions de l'alinéa précédent, des dispositifs matériels doivent interdire aux
+salariés de pénétrer dans la zone dangereuse. Toutefois, lorsqu'il s'agit d'appareils situés à proximité de lieux de passage,
+des refuges peuvent être aménagés à des intervalles n'excédant pas dix mètres.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+##### II. - Organes et dispositifs annexes.
+
+###### Article R235-31
+
+L'organe de commande de tout treuil ou palan mû mécaniquement (isolé ou incorporé dans un appareil de levage) doit être muni
+d'un dispositif de verrouillage approprié. 
+
+La dérogation prévue au second alinéa de l'article R. 238-2-21 en faveur des grues à utilisation particulière (telles que les
+pelles de terrassement), pour lesquelles l'adjonction d'un limiteur de vitesse au mécanisme de descente n'est pas exigée, est
+étendue aux appareils conçus en vue d'effectuer un travail de préhension (tels que les bennes preneuses), sous réserve que le
+dispositif de verrouillage maintenant l'outil de travail dans sa position haute soit d'un modèle supprimant tout risque de
+déclenchement involontaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-2-21 (V)
+
+
+###### Article R235-32
+
+Les tambours des treuils mus mécaniquement - qu'ils soient usinés ou non, isolés ou incorporés dans un appareil de levage -
+utilisés pour l'enroulement des câbles ou des cordages, ainsi que les gorges des poulies de mouflage ou de guidage, doivent
+présenter des surfaces lisses.
+
+Le diamètre des tambours doit être au moins égal à vingt fois le diamètre du câble.
+
+Le diamètre des poulies doit être au moins égal à vingt-deux fois le diamètre du câble.
+
+Les flasques du tambour d'enroulement du câble doivent dépasser la dernière couche enroulée en travail d'au moins deux fois
+le diamètre du câble.
+
+Le diamètre du câble utilisé sur un tambour à rainures ou une poulie à gorge ne doit pas être supérieur au pas des rainures
+du tambour ou à la largeur de la gorge de la poulie.
+
+Les poulies doivent être munies d'un dispositif empêchant le câble de sortir de la gorge.
+
+Il doit toujours rester, quelle que soit la position de travail d'un treuil, au moins trois tours de câble sur le tambour.
+
+La résistance du système d'attache du câble au tambour doit être au moins égale à trois fois la charge d'utilisation normale
+du câble.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-33
+
+Les poulies à alvéoles des treuils à chaînes ne peuvent être utilisées qu'avec des chaînes dont les dimensions correspondent
+à celles de leurs empreintes.
+
+En outre, toutes précautions doivent être prises pour qu'aucune torsion de la chaîne ne se produise lors de son enroulement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-34
+
+Les poulies de levage ou de mouflage se trouvant à portée de la main doivent être munies d'un dispositif de protection
+s'opposant à l'entraînement de la main entre le câble et le réa. Les poulies de mouflage doivent, en outre, être munies de
+dispositifs permettant de les déplacer sans que les utilisateurs soient obligés de porter les mains sur les câbles ou les
+chaînes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-35
+
+Les bennes basculantes doivent être munies d'un dispositif de verrouillage s'opposant efficacement au basculement accidentel.
+Ce dispositif doit pouvoir, en particulier, résister au choc des outils ou des matériaux pendant le chargement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-36
+
+Le chariot de guidage d'un monte-matériaux doit être muni d'un dispositif-parachute capable d'arrêter, en cas de rupture du
+câble de levage, la chute du plateau.
+
+La charge transportée ne doit pas déborder du plateau. Les brouettes ou wagonnets se trouvant sur le plateau doivent être
+soigneusement immobilisés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-37
+
+Lorsque le dispositif de verrouillage destiné à empêcher le plateau pivotant d'un monte-matériaux de tourner autour du mât
+pendant les opérations de levage n'est pas d'un modèle permettant le déverrouillage automatique, il doit être agencé de telle
+manière que le salarié préposé à la recette puisse l'actionner sans être obligé de se pencher au-dessus du vide ou de monter
+sur le plateau.
+
+Lorsque, pour des opérations de chargement ou de déchargement, le plateau se trouve à la hauteur de la recette, un dispositif
+approprié doit l'empêcher de tourner librement autour du mât.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+##### III. - Recettes.
+
+###### Article R235-38
+
+Les recettes doivent être aménagées de telle sorte que les salariés préposés aux opérations de chargement et de déchargement
+ne soient pas obligés, pour tirer la charge, de se pencher au-dessus du vide.
+
+Lorsqu'il s'agit du chargement ou du déchargement de matériaux ou d'objets d'un poids inférieur ou égal à 50 kilogrammes, il
+peut être satisfait aux prescriptions de l'alinéa précédent en mettant à la disposition des salariés, d'une part, des
+crochets d'une longueur suffisante pour amener les charges à l'aplomb du plancher de la recette, ou tout autre dispositif
+équivalent, d'autre part, des appuis leur permettant d'assurer efficacement leur équilibre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-50 (V)
+
+
+##### IV. - Manoeuvres.
+
+###### Article R235-39
+
+Le poste de manoeuvre d'un appareil de levage doit être disposé de telle façon que le conducteur puisse suivre des yeux
+toutes les manoeuvres effectuées par les éléments mobiles de l'appareil.
+
+Si les conditions d'utilisation d'un appareil de levage ne permettent pas l'observation des dispositions de l'alinéa
+précédent, un chef de manoeuvre, aidé, le cas échéant, par un ou plusieurs salariés postés de manière à pouvoir suivre des
+yeux les éléments mobiles pendant leur déplacement, doit, soit par la voix, soit par des signaux conventionnels, d'une part
+diriger le conducteur, d'autre part avertir les salariés qui peuvent survenir dans la zone où évoluent les éléments mobiles
+de l'appareil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-40
+
+Des mesures efficaces doivent être prises pour empêcher la chute ou l'accrochage des matériaux, agrès ou toutes autres pièces
+soulevées.
+
+Les matériaux, agrès ou toutes autres pièces dépassant le bord de la benne ou du dispositif similaire utilisé doivent être
+attachés au câble, à la chaîne ou au cordage de suspension, lorsque leur équilibre risque d'être compromis.
+
+Les charges constituées par des matériaux de longues dimensions (tels que : planches, poutres, poutrelles) doivent, en cas de
+nécessité, et notamment lorsqu'il existe des risques particuliers d'accrochage, être guidées à distance pendant leur
+déplacement. En outre, ces matériaux doivent être solidement amarrés afin d'éviter tout glissement.
+
+Les matériaux de faibles dimensions (tels que : briques, tuiles, ardoises) ne peuvent être levés qu'au moyen de bennes, de
+plateaux, de palettes, ou tous autres dispositifs similaires, d'un modèle s'opposant efficacement à leur chute.
+
+Les conducteurs de grues et les salariés préposés à la manoeuvre des appareils de levage doivent être protégés contre les
+chutes de menus matériaux, d'outils ou de tous autres objets similaires par un toit de sûreté. Ce toit, d'une résistance
+suffisante, doit être établi de telle sorte qu'il ne puisse les empêcher de surveiller la manoeuvre de la charge.
+
+Toutefois, la protection des salariés préposés à la manoeuvre des poulies de levage peut être assurée au moyen d'un casque,
+lorsque l'établissement d'un toit de sûreté est impossible.
+
+Lorsque des appareils de levage sont à l'arrêt, aucune charge ne doit être suspendue au crochet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-41
+
+Lorsqu'un appareil de levage se dresse à proximité d'une construction sur laquelle des salariés sont occupés, l'espace libre
+entre les éléments mobiles de l'appareil et le dernier plancher doit être de 2 mètres au minimum. Si la charge passe à moins
+de 2 mètres du dernier plancher, un salarié doit être désigné pour signaler l'approche des charges.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-42
+
+Il est interdit de préposer à la conduite des appareils de levage des salariés que leur connaissance imparfaite des consignes
+et des manoeuvres rendrait impropres à remplir ces fonctions et dont les aptitudes n'auraient pas été reconnues
+satisfaisantes par un examen médical préalable. Il en est de même en ce qui concerne les salariés chargés de diriger les
+manoeuvres effectuées par ces appareils au moyen de signaux donnés au conducteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+##### V. - Transport ou élévation des salariés.
+
+###### Article R235-43
+
+Pour le transport ou l'élévation des salariés, il est interdit d'utiliser des appareils autres que ceux qui ont été
+spécialement conçus à cet effet et qui répondent aux dispositions, ou bien ceux qui ont été aménagés de manière à satisfaire
+aux dispositions de l'article R. 235-44.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-44 (V)
+
+
+###### Article R235-44
+
+Lorsque la disposition d'un poste de travail rend son accès dangereux, l'utilisation exceptionnelle d'un appareil de levage
+destiné au transport des marchandises, matériels ou matériaux est autorisée pour le transport ou l'élévation des salariés,
+sous réserve de l'observation des dispositions suivantes :
+
+1° Il est interdit de transporter ou d'élever plus de deux salariés à la fois.
+
+2° La charge maximale admise doit, compte tenu du poids de la nacelle, de la benne ou du dispositif similaire utilisé, être
+réduite de 50 % pour les appareils fixes et de 60 % pour les appareils mobiles.
+
+3° Si les conditions d'emploi de l'appareil ne permettent pas au conducteur de suivre des yeux le déplacement de la nacelle,
+de la benne ou du dispositif similaire utilisé, un chef de manoeuvre doit diriger les mouvements de la nacelle, de la benne
+ou du dispositif similaire utilisé par des signaux conventionnels.
+
+4° La portion de l'espace dans laquelle se déplace la nacelle, la benne ou le dispositif similaire utilisé doit être exempte
+de tout obstacle.
+
+5° Lorsque la nacelle, la benne ou le dispositif similaire utilisé se déplace le long d'une paroi comportant des ouvertures,
+celles-ci doivent être munies de platelages, de grillages ou de tous autres dispositifs capables d'empêcher la chute d'objets
+dans la portion de l'espace où les salariés sont transportés.
+
+6° Des mesures doivent être prises afin d'empêcher :
+
+a) Le déplacement de l'ensemble de l'appareil lorsque des salariés se trouvent dans la nacelle, la benne ou le dispositif
+similaire utilisé en position haute ;
+
+b) Les mouvements giratoires dangereux ;
+
+c) Que les parties mobiles et amovibles soient soumises à des oscillations dangereuses.
+
+7° La vitesse linéaire de la nacelle, de la benne ou du dispositif similaire utilisé ne doit pas dépasser 50 cm par seconde,
+tant à la montée qu'à la descente.
+
+8° Il est interdit de descendre la charge sous le seul contrôle du frein.
+
+9° La nacelle, la benne ou le dispositif similaire utilisé pour le transport ou l'élévation des salariés doit comporter soit
+un garde-corps placé à une hauteur de 1,10 mètre, une lisse intermédiaire et une plinthe de 15 cm de hauteur, soit un
+dispositif au moins équivalent.
+
+10° La nacelle, la benne ou le dispositif similaire utilisé doit être fixé au câble par un crochet conforme au modèle
+prescrit par l'article R. 238-2-19 (alinéa 1) et comporter un amarrage de sécurité.
+
+11° Le transport ou l'élévation des salariés dans une nacelle, une benne ou tout autre dispositif similaire contenant des
+matériaux n'est autorisé que s'il est effectué conformément aux dispositions ci-après :
+
+a) Un espace suffisant doit être ménagé pour les salariés transportés ou élevés ;
+
+b) Les matériaux doivent être convenablement arrimés ; ils ne doivent pas dépasser le rebord de la nacelle, de la benne ou du
+dispositif similaire utilisé.
+
+12° Des dispositions doivent être prises pour que les salariés puissent accéder à la nacelle, à la benne ou au dispositif
+similaire utilisé, ou en descendre, sans être exposés à des chutes.
+
+13° Les appareils utilisés doivent comporter :
+
+a) Un frein agissant directement sur le tambour d'enroulement du câble dès que cesse l'intervention du machiniste ou
+l'alimentation en force motrice ; toutefois, cette disposition ne fait pas obstacle à l'emploi d'un dispositif d'une
+efficacité au moins équivalente ;
+
+b) Un système d'inversion de marche sans point-mort intermédiaire ;
+
+c) Un limiteur de vitesse ;
+
+d) Un limiteur de fin de course haute du crochet.
+
+Une consigne doit préciser les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-142 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-168 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-43 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-45 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-52 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-2-19 (V)
+
+
+##### VI. - Epreuves, examens et inspections.
+
+###### Article R235-45
+
+Les appareils de levage mus mécaniquement, ainsi que leurs accessoires, doivent être éprouvés, examinés et inspectés dans les
+conditions prévues aux articles R. 238-2-31 à R. 238-2-36, compte tenu des dispositions de l'arrêté du ministre du travail
+prévu par l'article R. 235-55.
+
+Lorsque les appareils mus mécaniquement sont aménagés en vue du transport ou de l'élévation des salariés, conformément aux
+dispositions de l'article R. 235-44, ils doivent, comme les appareils aménagés conformément aux dispositions de l'article R.
+238-2-28, être examinés et inspectés, ainsi que leurs accessoires, au moins tous les six mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte R238-2-31 à R238-2-36, R235-55, R235-44, R238-2-28
+	  - Code du travail applicable à Mayotte. - art. R235-44 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-55 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-2-28 (V)
+
+
+##### Sous-section 2 : Appareils de levage mus à la main
+
+##### I. - Installation et résistance des appareils.
+
+###### Article R235-46
+
+Les dispositions des articles R. 235-26 et R. 235-27 (alinéa 1) sont applicables aux appareils de levage mus à la main.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-26 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-27 (V)
+
+
+###### Article R235-47
+
+Les haubans des chèvres, mâts de levage, derricks à charpente et tous autres appareils similaires doivent être disposés et
+amarrés de façon à empêcher toute chute des appareils.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-48
+
+Les appareils de levage mus à la main doivent pouvoir résister, dans toutes leurs parties constituantes, ainsi que leurs
+supports et ancrages, aux contraintes résultant de leur usage et, s'il y a lieu, aux plus fortes poussées du vent à prévoir
+suivant les conditions locales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+##### II. - Treuils, recettes, manoeuvres.
+
+###### Article R235-49
+
+Les treuils mus à la main ou tous autres appareils similaires (tels que les treuils à mâchoires) doivent être munis d'un
+dispositif de sécurité permettant leur immobilisation immédiate et s'opposant à un retour de manivelle ou au déplacement
+intempestif de l'organe de commande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-50
+
+Les recettes utilisées pour les opérations de chargement ou de déchargement doivent satisfaire aux prescriptions de l'article
+R. 235-38.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-38 (V)
+
+
+###### Article R235-51
+
+Les dispositions des articles R. 235-39 à R. 235-42 sont applicables aux manoeuvres effectuées par les appareils de levage
+mus à la main.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte R235-39 à R235-42
+
+
+##### III. - Transport ou élévation des salariés.
+
+###### Article R235-52
+
+Lorsque la disposition d'un poste de travail rend son accès dangereux, les appareils de levage mus à la main peuvent être
+utilisés pour le transport ou l'élévation des salariés, sous réserve de l'observation des dispositions des alinéas 2 et 3 du
+présent article.
+
+Les appareils de levage mus à la main qui sont utilisés pour le transport ou l'élévation des salariés doivent satisfaire aux
+prescriptions des alinéas 1° à 12° de l'article R. 235-44.
+
+Une consigne doit préciser les conditions d'application des prescriptions visées à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-142 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-44 (V)
+
+
+###### Article R235-53
+
+Les appareils de levage mus à la main, ainsi que leurs organes annexes (tels que les dispositifs de suspension, d'attache,
+d'ancrage ou de fixation), doivent, sauf dans le cas visé par l'alinéa 3 du présent article, être examinés à fond à douze
+mois d'intervalle au plus.
+
+En outre, les organes annexes de ces mêmes appareils doivent faire l'objet d'un examen préalable chaque fois qu'ils sont
+remis en service après un arrêt de quelque durée, sauf dans le cas où ils auront été examinés depuis moins de trois mois.
+
+Les appareils de levage mus à la main, ainsi que leurs organes annexes, doivent, lorsqu'ils sont utilisés pour le transport
+ou l'élévation des salariés, être examinés à fond à trois mois d'intervalle au plus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-54 (V)
+
+
+###### Article R235-54
+
+Les examens prescrits par l'article R. 235-53 doivent être effectués par un salarié choisi au titre de sa compétence par le
+chef d'établissement.
+
+Les résultats et les dates de ces examens, ainsi que les noms et qualités des salariés qui les ont effectués, doivent être
+consignés, pour chaque appareil, sur le registre prévu par l'article R. 235-22.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-22 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-53 (V)
+
+
+##### Sous-section 3 : Câbles, chaînes, cordages et crochets.
+
+###### Article R235-55
+
+Les câbles, chaînes de charge, cordages en fibres naturelles et en fibres synthétiques ne doivent pas être soumis à des
+charges supérieures à celles qui seront fixées par arrêté du ministre du travail.
+
+Toutes indications utiles concernant les conditions d'emploi des câbles, chaînes et cordages doivent être données aux
+salariés préposés à leur utilisation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-133 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-45 (V)
+
+
+###### Article R235-56
+
+Tout câble métallique présentant une hernie, un étranglement ou une déformation doit être retiré du service.
+
+Tout câble métallique présentant soit un toron cassé, soit un nombre de fils cassés visibles, décomptés sur deux pas de
+câblage, égal ou supérieur à 20 % du nombre total de fils entrant dans la constitution du câble, doit être mis au rebut.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-57
+
+Les câbles, chaînes et cordages utilisés pour une opération de levage ou pour la suspension d'une charge ou d'une
+installation ne doivent présenter aucun noeud. Toutefois, cette prescription n'est applicable ni aux échelles de corde, ni
+aux cordes à noeud.
+
+Les câbles et les cordages ne doivent comporter aucune épissure ou boucle, sauf aux extrémités, qui doivent au moins
+comporter une ligature ou tout autre dispositif empêchant le décommettage des torons.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-58
+
+Les raccordements ou épissures ainsi que les noeuds d'amarrage doivent être effectués par un salarié désigné au titre de sa
+compétence par le chef d'établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-59
+
+Tant en service qu'en magasin, les câbles, chaînes de charge ou cordages ne doivent pas être en contact direct avec des
+angles vifs (tels que les arêtes des pierres de taille, les tranches des tuiles). En cas de nécessité, des rondins, des
+chiffons ou tous autres dispositifs de protection d'une efficacité au moins équivalente doivent être intercalés pour éviter
+tout contact entre le câble, la chaîne ou le cordage et l'angle vif.
+
+Des mesures doivent être prises pour protéger, tant en service qu'en magasin, les câbles et les cordages contre l'action du
+feu et des produits corrosifs, tels que : ammoniaque, acide chlorhydrique (ou esprit-de-sel), chaux, ciment.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-60
+
+Les câbles et cordages qui ne sont pas en service doivent être conservés à l'abri des intempéries et des rongeurs ainsi que
+de toute émanation ou de tout contact qui pourrait leur être nuisible.
+
+Les dispositifs utilisés pour suspendre des câbles ou des cordages doivent avoir un profil convenablement arrondi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-61
+
+Il est interdit d'utiliser une chaîne de charge comportant même un seul maillon déformé, aplati, ouvert, allongé ou usé.
+
+L'utilisateur ne peut faire procéder au remplacement d'un maillon, à la répartition et, éventuellement, au traitement
+thermique d'une chaîne de charge que par un fabricant de chaînes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-62
+
+Les crochets de suspension doivent être d'un modèle ne permettant pas le décrochage accidentel des fardeaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-63
+
+Les câbles, chaînes de charge, cordages et crochets de suspension autres que ceux qui font partie d'un appareil de levage
+doivent être examinés à fond à douze mois d'intervalle au plus. Lorsqu'il s'agit de câbles, de chaînes, de cordages ou de
+crochets utilisés pour l'élévation des salariés (tels que ceux qui sont employés pour la suspension des échafaudages
+volants), ces examens doivent avoir lieu au moins une fois tous les trois mois.
+
+Il sera tenu compte des examens effectués en vertu de l'article R. 235-22.
+
+Les examens prescrits par le présent article doivent être effectués par un salarié compétent choisi par le chef
+d'établissement. Le nom et la qualité de ce salarié, ainsi que le résultat et la date des examens qu'elle a effectués,
+doivent être consignés sur le registre prévu à l'article R. 235-22.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-22 (V)
 
 
 ##### Section 3 : Travaux de terrassement à ciel ouvert et travaux souterrains
@@ -20960,6 +22330,2334 @@ salariés.
 	**Codifié par**:
 
 	  - Décret n°2004-196 2004-02-25
+
+
+##### Section 4 : Travaux de démolition.
+
+###### Article R235-97
+
+Avant que les travaux de démolition d'un ouvrage ne soient commencés, le chef d'établissement ou son préposé ou le
+travailleur indépendant doit se rendre compte de la résistance et de la stabilité de chacune des parties de cet ouvrage
+(notamment des planchers). S'il y a lieu des étaiements sûrs doivent être mis en place.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-98
+
+Aucun salarié ne doit être chargé d'un travail de démolition ou de démontage pour lequel il ne serait pas compétent et qui
+comporterait, pour lui ou pour les autres salariés du chantier, un risque anormal.
+
+Dès que les travaux nécessitent l'emploi de dix salariés, un chef d'équipe doit être exclusivement affecté à la surveillance
+des travaux.
+
+Il doit y avoir au moins un chef d'équipe pour dix salariés.
+
+Lorsque des travaux nécessitent l'intervention simultanée de plusieurs équipes, les chefs de ces équipes doivent être placés
+sous l'autorité d'un chef unique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-99
+
+La démolition des ouvrages en béton armé ou en matériaux précontraints, ainsi que la démolition des ouvrages soutenus par une
+charpente métallique, ne peut être effectuée que sous la direction de salariés ayant l'expérience des techniques
+particulières qui doivent être mises en oeuvre pour la démolition de ces ouvrages.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-100
+
+Le port du casque de protection est obligatoire pour les travaux de démolition.
+
+Les salariés ne peuvent être occupés à des hauteurs différentes que si les précautions sont prises pour assurer la sécurité
+de ceux qui travaillent dans les plans inférieurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-101
+
+Les murs à abattre doivent être préalablement débarrassés de toutes les pièces de bois ou de fer en saillie qui ne sont pas
+scellées ou qui, quoique scellées, sont en saillie de plus de deux mètres.
+
+Lorsque, dans une construction, des éléments présentant une certaine élasticité sont soumis à des contraintes et qu'un
+fouettement peut résulter de leur rupture ou de leur brusque libération, ou que leur dépose peut avoir des conséquences
+graves sur la stabilité de tout ou partie de la construction, il ne peut être procédé à l'enlèvement de ces éléments que
+d'une manière sûre et, s'agissant de salariés, que conformément aux directives du chef d'établissement ou de son préposé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-102
+
+Lorsque la démolition d'un pan de mur ou de tout autre élément de construction est effectuée par des tractions exercées au
+moyen de câbles métalliques, de cordages ou de tous autres dispositifs similaires, la zone dans laquelle le pan de mur ou
+l'élément de construction viendra s'écrouler doit être délimitée avec soin.
+
+Dans le cas où la démolition d'un pan de mur ou de tout autre élément de construction est effectuée au moyen de poussées ou
+de chocs, des mesures appropriées doivent être prises pour empêcher l'écroulement du mur ou de l'élément de construction du
+côté où se trouvent les salariés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-103
+
+Lorsque, par suite de la démolition de certains éléments d'un ouvrage, l'équilibre des parties restantes ou des constructions
+voisines paraît compromis, des mesures (telles que la pose d'étais) doivent être prises pour prévenir tout risque
+d'écroulement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-104
+
+Le sapement d'un ouvrage au moyen d'un engin mû mécaniquement n'est autorisé que s'il n'en résulte aucun danger.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-105
+
+La mise en place d'un plancher de travail est obligatoire pour les travaux de démolition effectués à une hauteur de plus de 6
+mètres au-dessus du sol.
+
+Si ce plancher est situé en bordure du vide, il doit être clôturé par des garde-corps et des plinthes établis conformément
+aux dispositions des articles R. 235-117 ou R. 235-146.
+
+Lorsque les travaux de démolition sont effectués à une hauteur qui ne dépasse pas 6 mètres au-dessus du sol, l'installation
+d'un plancher de travail n'est pas obligatoire, sous réserve de l'observation des dispositions ci-après :
+
+1° Les travaux ne peuvent être confiés qu'à des salariés qualifiés.
+
+2° Il est interdit aux chefs d'établissement de laisser monter des salariés, et aux travailleurs indépendants et aux
+employeurs mentionnés à l'article L. 230-1-1 de monter sur des murs à déraser de moins de 35 centimètres d'épaisseur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-117 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-146 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-5 (V)
+
+
+##### Section 5 : Echafaudages, plates-formes, passerelles et escaliers
+
+##### Sous-section 1 : Echafaudages
+
+##### I. - Dispositions générales.
+
+###### Article R235-106
+
+Des échafaudages convenables doivent être prévus pour tout travail qui ne peut être exécuté sans danger avec une échelle ou
+par d'autres moyens.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-107
+
+Le chef d'établissement doit s'assurer, avant d'autoriser l'usage par ses salariés d'un échafaudage construit ou non par ses
+soins, que cet échafaudage répond aux exigences du présent chapitre.
+
+Les travailleurs indépendants et les employeurs visés à l'article L. 235-18 du code du travail visés à l'article L. 230-1-1
+ne peuvent utiliser que des échafaudages conformes aux exigences du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail - art. L235-18 (AbD)
+	  - Code du travail applicable à Mayotte. - art. L230-1-1 (M)
+
+
+###### Article R235-108
+
+Les échafaudages et les dispositifs qui s'y rattachent doivent être constitués par des matériaux de bonne qualité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-109
+
+Les échafaudages doivent être construits de manière à empêcher, en cours d'utilisation, le déplacement d'une quelconque de
+leurs parties constituantes par rapport à l'ensemble.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+##### II. - Dispositions communes aux échafaudages fixes en bois ou en métal.
+
+###### Article R235-110
+
+Les échafaudages fixes doivent être construits, entretoisés et contreventés de manière à supporter les charges auxquelles ils
+sont soumis et à résister aux contraintes résultant de la poussée du vent. Ils doivent être, en outre, solidement amarrés ou
+ancrés au gros oeuvre ou à tout autre point présentant une résistance suffisante.
+
+Dans tous les cas, la charge de service qu'il convient de ne pas dépasser par plancher ainsi que la charge totale admissible
+pour l'échafaudage doivent être visiblement indiquées sur l'échafaudage ainsi que sur chacun des planchers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-131 (V)
+
+
+###### Article R235-111
+
+Les montants des échafaudages doivent reposer sur des sols ou assises d'une résistance suffisante. En particulier, lorsque
+les échafaudages sont établis sur les toitures, leurs montants doivent reposer sur des parties solides de la construction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-112
+
+Lorsque l'assemblage des éléments horizontaux aux éléments verticaux est réalisé au moyen de dispositifs constitués par des
+chaînes, des câbles, des raccords métalliques ou des colliers, ces dispositifs doivent avoir été spécialement conçus pour cet
+usage. Ils doivent être fixés de manière à ne pas glisser sous les efforts auxquels ils sont soumis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-131 (V)
+
+
+###### Article R235-113
+
+Les boulins doivent être soigneusement fixés à leurs extrémités. Leur écartement doit être en rapport avec les charges
+supportées et la nature du plancher.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-145 (V)
+
+
+###### Article R235-114
+
+Les planchers des échafaudages doivent avoir une largeur suffisante pour permettre la réalisation des travaux en toute
+sécurité.
+
+Les planches, bastings ou madriers constituant le plancher d'un échafaudage doivent avoir une portée en rapport avec leur
+résistance et les charges supportées, et reposer sur trois boulins au moins de manière à ne pouvoir basculer.
+
+Les planches, bastings ou madriers dont la longueur ne dépasse pas 1,50 mètre peuvent ne reposer que sur deux boulins.
+
+S'il subsiste un porte-à-faux dangereux, ou lorsque l'installation ne comporte que deux boulins, le basculement doit être
+empêché par une fixation.
+
+Les planches, bastings ou madriers d'une même file doivent se recouvrir au-dessus d'un boulin sur une longueur d'au moins 10
+centimètres de part et d'autre de l'axe du boulin. Lorsqu'ils sont mis bout à bout, de manière à éviter un ressaut, leurs
+extrémités doivent reposer sur deux boulins distincts.
+
+Les planches, bastings ou madriers constituant le plancher d'un échafaudage doivent être placés les uns contre les autres,
+sans intervalles, de façon à couvrir toute la portée des boulins.
+
+Le bord du plancher d'un échafaudage ne doit pas être éloigné de plus de 20 centimètres de la construction.
+
+La pente des planchers ne doit jamais être supérieure à 15 %.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-115 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-145 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-149 (V)
+
+
+###### Article R235-115
+
+Les planchers des échafaudages dont l'ossature est constituée par des cadres métalliques préfabriqués peuvent, par dérogation
+aux dispositions de l'article R. 235-114 (alinéa 2), ne reposer que sur deux boulins. 
+
+Les extrémités des planchers mis bout à bout des échafaudages visés à l'alinéa précédent peuvent, par dérogation aux
+dispositions de l'article R. 235-114 (alinéa 5), ne reposer que sur un seul boulin. 
+
+Toutefois, l'application de ces dispositions est subordonnée à l'observation des prescriptions de l'article R. 235-116.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-114 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-116 (V)
+
+
+###### Article R235-116
+
+Les planchers des échafaudages mentionnés à l'article R. 235-115 doivent être assujettis aux cadres par un dispositif
+spécialement conçu à cet effet, de manière à ne pouvoir ni basculer, ni se déplacer. 
+
+Ils doivent avoir, eu égard à la nature des matériaux qui les constituent, une résistance suffisante pour supporter les
+charges et les efforts auxquels ils sont soumis. 
+
+Lorsque les planchers sont en bois, le coefficient d'utilisation des planchers (c'est-à-dire le rapport entre la charge de
+rupture et la charge de service admissible indiquée par le constructeur) doit être au moins égal à 6. 
+
+Dans tous les cas :
+
+- la charge de rupture et la charge de service admissible par plancher doivent être mentionnées sur le " registre de sécurité
+" prévu à l'article R. 235-22 ;
+
+- la charge de service qu'il convient de ne pas dépasser par plancher doit être visiblement indiquée sur l'échafaudage ainsi
+que sur chacun des planchers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-115 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-22 (V)
+
+
+###### Article R235-117
+
+Les échafaudages doivent être munis, sur les côtés extérieurs :
+
+1° De garde-corps constitués par deux lisses placées l'une à 1 mètre, l'autre à 45 centimètres au-dessus du plancher ;
+
+2° De plinthes d'une hauteur de 15 centimètres au moins.
+
+Toutefois, ces prescriptions ne font pas obstacle à l'établissement de dispositifs de protection d'une efficacité au moins
+équivalente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-105 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-132 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-5 (V)
+
+
+###### Article R235-118
+
+Lorsqu'un échafaudage est établi contre un mur ou toute autre construction ne dépassant pas de 90 centimètres au moins le
+niveau du plancher, il doit être installé, sur l'autre face du mur ou de la construction, soit un auvent, un éventail, une
+plate-forme, ou tout autre dispositif protecteur en mesure d'interdire une chute libre de plus de trois mètres, soit un filet
+ou tout autre dispositif présentant une élasticité au moins équivalente en mesure d'interdire une chute libre de plus de six
+mètres.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-119
+
+Lorsque deux échafaudages se rejoignent à l'angle d'un bâtiment, un montant doit être placé à l'intersection des longerons
+extérieurs prolongés. 
+
+Toutefois, ces dispositions ne s'appliquent pas aux échafaudages visés par les articles R. 235-120, R. 235-121, R. 235-122 et
+R. 235-127.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-120 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-127 (V)
+
+
+###### Article R235-120
+
+Lorsque les échafaudages fixes sont établis en porte-à-faux, ils doivent être supportés par des pièces convenablement
+entretoisées et d'une résistance suffisante, eu égard aux efforts auxquels ils seront soumis. Les extrémités intérieures de
+ces pièces doivent être solidement maintenues. Seules les parties résistantes de la construction peuvent être utilisées comme
+point d'appui des pièces d'échafaudage.
+
+Seuls les échafaudages légers peuvent reposer sur des supports simplement scellés dans le mur. Dans ce cas, le mur utilisé
+doit avoir une épaisseur minimale de 35 centimètres, les scellements, faits dans la maçonnerie proprement dite, devant avoir
+une profondeur de 16 centimètres au moins (il ne peut en aucun cas être tenu compte de l'épaisseur des crépis ou enduits). En
+outre, l'extrémité libre de chaque support doit être reliée par un cordage à une pièce résistante de la construction ou
+soutenue par une jambe de force.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-119 (V)
+
+
+###### Article R235-121
+
+Les échafaudages construits sur des consoles ou potences et qui ne reposent pas sur le sol (tels que les échafaudages de
+couvreurs) doivent prendre appui sur des parties solides de la construction ou être suspendus à des crampons ou anneaux
+solidement scellés.
+
+Les crampons ou anneaux visés à l'alinéa précédent ne peuvent être scellés dans une maçonnerie qu'après reconnaissance de sa
+résistance. L'état des scellements doit être examiné avant toute utilisation de l'échafaudage.
+
+La stabilité des consoles ou potences doit être constamment assurée dans toutes les directions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-122
+
+Dans les échafaudages établis sur des consoles, taquets, étriers ou chevalets, les supports doivent permettre la mise en
+place des montants destinés à la fixation des garde-corps et des plinthes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+##### III. - Dispositions particulières aux échafaudages fixes en bois.
+
+###### Article R235-123
+
+Les montants des échafaudages fixes en bois doivent être encastrés dans le sol ou fixés de manière à empêcher tout
+déplacement du pied.
+
+En cas d'enture des montants, l'assemblage doit être fait de telle façon que la résistance de la partie entée soit au moins
+égale à celle de la partie qui lui est immédiatement inférieure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-124
+
+Deux longerons situés à un même niveau ne peuvent être assemblés qu'au droit d'un montant. Toutefois, cette prescription ne
+fait pas obstacle à l'emploi de tout autre dispositif ou procédé d'assemblage d'une efficacité au moins équivalente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-125
+
+Lorsqu'il est fait usage de cordages pour fixer les éléments horizontaux aux éléments verticaux, ils doivent être d'une seule
+pièce (avec ou sans épissure) et d'une longueur suffisante pour faire un nombre de tours en rapport avec leur résistance et
+la charge supportée ; en aucun cas, ils ne doivent faire moins de cinq fois le tour des éléments horizontaux et des éléments
+verticaux ; les brélages doivent être effectués de façon telle que les brins soient également serrés.
+
+Lorsqu'il est fait usage de clous, leurs dimensions, leur nombre et leur disposition doivent être appropriés aux efforts mis
+en jeu. Dans le cas où il y a un risque de sollicitation à l'arrachement, les pointes doivent être rabattues.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-126
+
+Lorsqu'un échafaudage de pied sans consoles ne comporte qu'un seul rang d'échasses, les boulins doivent être fixés d'un bout
+au gros oeuvre. Les scellements, faits dans la maçonnerie proprement dite, doivent avoir une profondeur d'au moins 10
+centimètres (il ne peut, en aucun cas, être tenu compte de l'épaisseur des crépis ou enduits). A défaut de scellement,
+l'ensemble doit être solidement amarré au gros oeuvre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-127
+
+Lorsque des échelles sont utilisées comme montants d'échafaudages, ces échelles doivent être en bon état et soigneusement
+étrésillonnées.
+
+Les échelles ordinaires en bois ne peuvent être utilisées que pour la construction d'échafaudages légers. Leurs montants
+doivent dépasser le plancher le plus élevé de 1 mètre au moins.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-119 (V)
+
+
+###### Article R235-128
+
+Lorsqu'un échafaudage comporte des consoles en bois fixées par clouage sur des montants, ceux-ci doivent être soit équarris,
+soit entaillés d'une manière telle que l'appui se fasse sur une face plane d'une surface suffisante.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-129
+
+Les garde-corps doivent être solidement fixés à l'intérieur des montants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+##### IV. - Dispositions particulières aux échafaudages fixes en métal.
+
+###### Article R235-130
+
+Des clés appropriées doivent être utilisées pour le serrage des boulons, afin que ceux-ci ne subissent, lors de cette
+opération, que des déformations élastiques.
+
+L'extrémité inférieure des montants reposant sur le sol doit être soutenue par une embase qui doit avoir une surface et une
+épaisseur lui permettant de résister sans déformation à la charge ; elle doit être assemblée avec le montant de telle façon
+que la charge soit centrée sur elle.
+
+La construction des échafaudages métalliques d'une hauteur de plus de 31 mètres doit être justifiée par une note de calcul et
+un plan de montage qui doivent être conservés sur le chantier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+##### V. - Echafaudages montés sur roues.
+
+###### Article R235-131
+
+Les dispositions de l'article R. 235-110 ainsi que les dispositions des articles R. 235-112 à R. 235-118 sont applicables aux
+échafaudages montés sur roues. 
+
+Indépendamment des prescriptions visées à l'alinéa précédent, les échafaudages montés sur roues doivent satisfaire aux
+dispositions complémentaires ci-après : 
+
+1° Ils doivent être calés et fixés pendant leur utilisation, de manière à ne pouvoir ni se déplacer ni basculer ; 
+
+2° Ils doivent être munis d'un dispositif (tel que des béquilles métalliques) capable d'empêcher leur renversement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-110 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-112 (V)
+
+
+##### VI. - Echafaudages volants.
+
+###### Article R235-132
+
+Les échafaudages volants doivent satisfaire aux conditions énoncées ci-après : 
+
+1° Leur longueur ne doit pas dépasser 8 mètres ; 
+
+2° Les planches, bastings ou madriers constituant le plancher doivent être placés les uns contre les autres, sans
+intervalles ; 
+
+3° Le plancher doit être supporté par les longerons d'une seule pièce. Ces longerons doivent reposer sur des étriers
+métalliques espacés de 3,50 mètres au plus ; le porte-à-faux au-delà des étriers ne doit, en aucun cas, dépasser 50
+centimètres ; 
+
+4° Ils doivent être munis : 
+
+a) Sur les côtés extérieurs, de garde-corps et de plinthes établis conformément aux dispositions de l'article R. 235-117 ; 
+
+b) Sur le côté tourné vers le parement, d'un garde-corps constitué par une lisse rigide placée à 70 centimètres du plancher,
+ou de tout autre dispositif d'une efficacité au moins équivalente ; 
+
+5° Les garde-corps doivent être portés par des montants espacés de 1,75 mètre au plus, solidement fixés au plancher ; 
+
+6° L'ensemble constitué par le plancher, les garde-corps et les plinthes doit être rendu rigide, avant que l'échafaudage ne
+soit hissé, par une fixation solide des garde-corps et des plinthes aux étriers ; 
+
+7° Lorsqu'un échafaudage volant est en position de travail, le plancher doit toujours être sensiblement horizontal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-117 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-5 (V)
+
+
+###### Article R235-133
+
+Les échafaudages volants doivent reposer sur trois étriers au moins suspendus par des cordages, câbles ou chaînes ; les
+cordages, câbles ou chaînes doivent être adaptés aux étriers. 
+
+Les échafaudages volants dont la longueur ne dépasse pas 3 mètres peuvent ne reposer que sur deux étriers. Dans ce cas, des
+moyens complémentaires doivent être mis en oeuvre pour assurer la sécurité des salariés. 
+
+Les cordages, câbles ou chaînes servant à la suspension des échafaudages volants doivent être amarrés à des parties solides
+d'une construction. Toutefois, cette prescription ne fait pas obstacle à l'utilisation d'un dispositif spécialement conçu
+pour l'amarrage des échafaudages volants, sous réserve que le dispositif utilisé soit d'une résistance suffisante. 
+
+Les chèvres utilisées pour la suspension des échafaudages volants doivent être établies sur des parties solides de la
+construction et être disposées de manière à ne pouvoir riper, même dans le cas d'une forte inclinaison ou d'un ébranlement. 
+
+Lorsque les échafaudages volants sont suspendus par des cordages, ceux-ci doivent être manoeuvrés par des moufles ou des
+organes similaires. 
+
+Lorsque les échafaudages volants sont suspendus par des câbles, les treuils de manoeuvre doivent être munis d'au moins deux
+organes de sécurité indépendants, dont un frein automatique ne permettant la descente que sur l'intervention effective de
+celui qui le manoeuvre. Les treuils utilisés doivent être spécialement et uniquement prévus pour la manoeuvre des
+échafaudages volants. Les câbles équipant ces treuils doivent être d'un type souple ; ils doivent être protégés contre
+l'oxydation par des moyens appropriés, tels que la galvanisation. 
+
+Les câbles, cordages ou chaînes utilisés pour suspendre les échafaudages volants ne doivent, en aucun cas, être soumis à des
+charges supérieures à celles qui sont fixées par l'arrêté prévu à l'article R. 235-55. 
+
+Tout cordage, câble ou chaîne de suspension d'un échafaudage volant doit se trouver dans un plan vertical perpendiculaire au
+parement de la construction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-55 (V)
+
+
+###### Article R235-134
+
+Lorsque, sur un échafaudage volant, l'exécution de certains travaux nécessite l'enlèvement du dispositif de protection établi
+sur le côté tourné vers le parement, cet enlèvement ne peut avoir lieu qu'une fois l'échafaudage solidement relié au gros
+oeuvre, à moins que la sécurité de l'opération ne soit assurée par des moyens d'une efficacité au moins équivalente.
+
+Le dispositif de protection doit être remis avant l'enlèvement du dispositif reliant, le cas échéant, l'échafaudage au gros
+oeuvre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-135
+
+Il est interdit de prolonger le plateau d'un échafaudage volant par un plancher prenant appui soit sur la construction, soit
+sur un échafaudage voisin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+##### VII. - Dispositions diverses.
+
+###### Article R235-136
+
+Les échafaudages ne doivent pas être surchargés et les charges doivent être réparties aussi uniformément que possible.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-137
+
+Avant d'installer des appareils de levage sur des échafaudages, des précautions spéciales doivent être prises pour assurer la
+résistance et la stabilité de ces échafaudages.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-138
+
+Les échafaudages doivent être constamment débarrassés de tous gravats et décombres.
+
+Il est interdit de laisser en porte-à-faux, à proximité des échafaudages, des matériaux ou du matériel non fixés, sur
+lesquels un salarié risque de marcher ou de prendre appui.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-139
+
+Lorsque les échafaudages sont rendus glissants, des mesures doivent être prises pour prévenir toute glissade.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-140
+
+Les échafaudages ne peuvent être construits démontés ou sensiblement modifiés que :
+
+1° Sous la direction d'un salarié compétent responsable ;
+
+2° Autant que possible par des salariés compétents et habitués à ce genre de travail.
+
+Le port d'un système d'arrêt de chute est obligatoire à l'occasion de la construction, du démontage ou de la modification
+significative d'un échafaudage.
+
+L'accès des échafaudages en cours de montage ou de démontage n'est autorisé qu'aux salariés chargés de ces opérations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-5 (V)
+
+
+###### Article R235-141
+
+Compte tenu des examens effectués en vertu de l'article R. 235-22, les échafaudages doivent être examinés, dans toutes leurs
+parties constituantes, au moins tous les trois mois par un salarié compétent. 
+
+Les résultats et les dates de ces examens, ainsi que les noms et qualité des salariés qui les ont effectués, doivent être
+consignés sur le registre prévu par l'article R. 235-22.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-22 (V)
+
+
+###### Article R235-142
+
+Lorsque le peu d'importance de certains travaux (de couverture, de fumisterie, de plomberie, d'entretien ou de peinture
+notamment) ou la disposition des lieux ne permet pas l'établissement d'échafaudages volants, l'usage de plates-formes,
+nacelles ou tous autres dispositifs similaires suspendus à un câble, cordage ou chaîne, ainsi que l'usage de cordes à noeuds,
+de sellettes et d'échelles suspendues, est toléré, à condition que les câbles, cordages ou chaînes, les cordes à noeuds ou
+les échelles suspendues soient fixés à une partie solide de la construction et que les salariés appelés à utiliser ces
+dispositifs en connaissent la manoeuvre. 
+
+Les plates-formes, nacelles et dispositifs similaires visés à l'alinéa précédent, ainsi que les appareils de levage auxquels
+ces plates-formes, nacelles ou dispositifs similaires sont suspendus, doivent satisfaire : 
+
+a) Aux prescriptions de l'article R. 238-2-27, si les appareils utilisés sont spécialement conçus pour le transport ou
+l'élévation des salariés ; 
+
+b) Aux prescriptions de l'article R. 235-44, si les appareils utilisés sont mus mécaniquement et destinés au transport des
+marchandises, matériels ou matériaux ; 
+
+c) Aux prescriptions de l'article R. 235-52, si les appareils utilisés sont mus à la main. 
+
+Le port d'un système d'arrêt de chute est obligatoire lors de l'utilisation d'échelles suspendues.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-44 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-52 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-2-27 (V)
+
+
+##### Sous-section 2 : Plates-formes, passerelles et escaliers.
+
+###### Article R235-143
+
+Les plates-formes de travail, les passerelles et les escaliers doivent être :
+
+1° Construits de manière qu'aucune de leurs parties ne puisse subir une flexion exagérée ou inégale ;
+
+2° Construits et entretenus de manière à réduire autant que possible, compte tenu des conditions existantes, les risques de
+trébuchement ou de glissement de salariés ;
+
+3° Etre maintenus libres de tout encombrement inutile ;
+
+4° Etre constamment débarrassés de tous gravats et décombres.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-144
+
+Les plates-formes de travail doivent être établies sur des parties solides de la construction.
+
+En particulier, les plates-formes servant à l'exécution de travaux à l'intérieur des constructions doivent prendre appui non
+sur des hourdis de remplissage, mais sur des traverses reposant sur des solives.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-145
+
+Les boulins supportant le plancher d'une plate-forme de travail doivent satisfaire aux prescriptions de l'article R. 235-113,
+relatif aux boulins sur lesquels repose le plancher d'un échafaudage. 
+
+Les planchers des plates-formes de travail doivent satisfaire aux prescriptions de l'article R. 235-114 relatif aux planchers
+des échafaudages.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-113 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-114 (V)
+
+
+###### Article R235-146
+
+Les plates-formes de travail doivent être munies, sur les côtés extérieurs :
+
+1° De garde-corps constitués par deux lisses placées l'une à 1 mètre, l'autre à 45 centimètres au-dessus du plancher ;
+
+2° De plinthes d'une hauteur de 15 centimètres au moins.
+
+Toutefois, ces prescriptions ne font pas obstacle à l'établissement de dispositifs de protection d'une efficacité au moins
+équivalente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-105 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-5 (V)
+
+
+###### Article R235-147
+
+Les garde-corps des plates-formes de travail doivent être solidement fixés à l'intérieur des montants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-148
+
+Lorsque des plates-formes reposent sur des chevalets ou des tréteaux, ces chevalets ou ces tréteaux ne doivent pas être
+espacés de plus de 2 mètres. Ils doivent être rigides, avoir leurs pieds soigneusement étrésillonnés et reposer sur des
+points d'appui résistants. Il est interdit de les surélever par des moyens de fortune, de les superposer et de les disposer
+sur le plancher d'un autre échafaudage ou d'une autre plate-forme.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-149
+
+Les planchers des passerelles doivent satisfaire aux prescriptions de l'article R. 235-114 relatif aux planchers des
+échafaudages. 
+
+Les passerelles ainsi que les diverses installations sur lesquelles circulent des salariés doivent être munies, en bordure du
+vide, de garde-corps placés à une hauteur de 90 centimètres et de plinthes de 15 centimètres de hauteur au moins ou de tous
+autres dispositifs de protection d'une efficacité au moins équivalente. 
+
+Lorsque les passerelles sont rendues glissantes, des mesures doivent, comme pour les échafaudages, être prises pour prévenir
+toute glissade.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-114 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-5 (V)
+
+
+###### Article R235-150
+
+Tant que les escaliers ne sont pas munis de leurs rampes définitives, ils doivent être bordés, du côté du vide, de garde-
+corps et de plinthes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+##### Sous-section 3 : Echelles.
+
+###### Article R235-151
+
+Les échelles doivent être d'une longueur suffisante pour offrir, dans toutes les positions dans lesquelles elles sont
+utilisées, un appui sûr aux mains et aux pieds.
+
+Les échelles doivent être fixées ou maintenues de façon à ne pouvoir ni glisser du bas, ni basculer.
+
+Les échelles de service doivent dépasser l'endroit où elles donnent accès d'un mètre au moins, ou être prolongées par une
+main courante à l'arrivée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-152
+
+Les échelons doivent être rigides et emboîtés solidement dans les montants.
+
+L'espacement des échelons doit être constant sur une même échelle ; il ne doit pas être supérieur à 0,33 mètre d'axe en axe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-153
+
+Il est interdit de réparer une échelle au moyen d'éclisses ou de ligatures.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-154
+
+Lorsque des échelles relient des étages, des dispositifs de protection doivent être établis à chaque étage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-155
+
+Les échelles ne peuvent être utilisées pour le transport de fardeaux dépassant 50 kilogrammes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-156
+
+Les échelles doubles doivent, pendant leur emploi, avoir leurs montants reliés ou immobilisés afin d'éviter tout écartement
+accidentel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-157
+
+Les échelles à coulisses doivent être d'un modèle assurant, lors de leur plus grand développement, une longueur de
+recouvrement des plans d'au moins 1 mètre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+##### Section 6 : Travaux sur les toitures, travaux de montage, de démontage et de levage de charpentes et ossatures et travaux de construction comportant la mise en oeuvre d'éléments préfabriqués lourds
+
+##### Sous-section 1 : Travaux sur les toitures.
+
+###### Article R235-158
+
+Lorsque des salariés doivent travailler sur un toit présentant des dangers de chute de salariés ou de matériaux d'une hauteur
+de plus de 3 mètres, des précautions convenables doivent être prises pour éviter la chute des salariés ou des matériaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-159
+
+Les échafaudages utilisés pour exécuter des travaux sur les toitures doivent être munis de garde-corps constitués par des
+éléments jointifs ou écartés de façon telle qu'ils ne puissent permettre le passage d'un corps humain. Ces garde-corps
+doivent être d'une solidité suffisante pour s'opposer efficacement à la chute dans le vide d'un salarié ayant perdu
+l'équilibre.
+
+A défaut d'échafaudages appropriés, des dispositifs de protection collective d'une efficacité au moins équivalente doivent
+être mis en place.
+
+Le port d'un système d'arrêt de chute est obligatoire lorsque l'utilisation de ces dispositifs de protection est reconnue
+impossible.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-160
+
+Lorsqu'il existe des dispositifs permanents de protection (tels que crochets de service, rambardes, mains courantes), ceux-ci
+ne peuvent être utilisés qu'après avoir été examinés en vue de s'assurer de leur solidité. 
+
+Ces examens doivent être effectués par un salarié compétent choisi par le chef d'établissement ; le nom et la qualité de ce
+salarié doivent être consignés sur le registre prévu par l'article R. 235-22.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-22 (V)
+
+
+###### Article R235-161
+
+Les salariés occupés sur des toitures en matériaux d'une résistance insuffisante (tels que : vitres, plaques en agglomérés à
+base de ciment, tôles) ou vétustes doivent travailler sur des échafaudages, plates-formes, planches ou échelles leur
+permettant de ne pas prendre directement appui sur ces matériaux. 
+
+Les dispositifs ainsi interposés entre ces salariés et la toiture doivent porter sur une étendue de toiture comprenant
+plusieurs éléments de charpente, dont un à chaque extrémité des dispositifs et être agencés de manière à prévenir tout effet
+de bascule. 
+
+Au fur et à mesure de l'avancement des travaux, ces dispositifs doivent pouvoir, le cas échéant, être déplacés sans que les
+salariés aient à prendre directement appui sur la couverture. 
+
+Lorsque l'observation des prescriptions des alinéas 1 à 3 du présent article est reconnue impossible, il y a lieu d'installer
+au-dessous de la toiture, dans les conditions prévues à l'alinéa 2 de l'article R. 235-5, des dispositifs propres à prévenir
+efficacement les conséquences d'une chute. Le port d'un système d'arrêt de chute est obligatoire lorsque la mise en place de
+ces dispositifs est reconnue impossible. 
+
+Dans les travaux de vitrage, les débris de verre doivent être immédiatement enlevés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-5 (V)
+
+
+###### Article R235-162
+
+Les échelles plates (dites "échelles de couvreurs") doivent être fixées de manière à ne pouvoir ni glisser ni basculer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-163
+
+Les antennes de radio ou de télévision, les haubans ainsi que les obstacles de toute nature pouvant exister sur les parties
+de toiture sur lesquelles les salariés sont appelés à circuler doivent être signalés, pendant la durée des travaux, par les
+dispositifs visibles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-164
+
+Lorsque des salariés ou des travailleurs indépendants doivent effectuer fréquemment, pendant plus d'une journée, sur des
+chéneaux, chemins de marche ou tous autres lieux de passage, des déplacements comportant des risques de chute sur une toiture
+en matériaux d'une résistance insuffisante, cette toiture doit, à défaut de garde-corps ou d'un dispositif permanent de
+protection, être recouverte de planches ou de tous autres dispositifs capables d'arrêter une personne ayant perdu
+l'équilibre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-165
+
+Il est interdit de travailler sur des toits rendus glissants par les circonstances atmosphériques, sauf s'il existe des
+dispositifs de protection installés à cet effet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+##### Sous-section 2 : Travaux de montage, de démontage et de levage de charpentes et ossatures.
+
+###### Article R235-166
+
+Lors des travaux de montage, de démontage et de levage de charpente et ossatures, toutes mesures doivent être prises pour
+réduire au minimum les travaux et déplacements en hauteur qui exposent les salariés à un risque de chute.
+
+Dans ce but il doit être procédé, chaque fois que cela est possible, à l'assemblage des pièces au sol et à la mise en oeuvre
+de dispositifs d'accrochage ou de décrochage à distance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-167 (V)
+
+
+###### Article R235-167
+
+I.-Lorsque, dans les travaux de montage, de démontage et de levage de charpentes et ossatures, les salariés sont appelés à
+accéder à un poste de travail ou à circuler en se trouvant exposés à un risque de chute dans le vide, les chefs
+d'établissement sont tenus : 
+
+a) Soit d'installer des échelles de service en nombre suffisant fixées en tête et au pied, et des paliers de repos
+convenablement aménagés ; 
+
+b) Soit d'installer des passerelles munies de garde-corps placés à une hauteur de 90 centimètres et de plinthes de 15
+centimètres de hauteur au moins, susceptibles d'être déplacées à l'aide d'un appareil de levage ; 
+
+c) Soit de transporter, dans les conditions prévues par l'article R. 235-168, les salariés dans les nacelles-ou tous autres
+dispositifs similaires-suspendues à un appareil de levage ; 
+
+II.-Lorsque, dans les travaux de montage, de démontage et de levage, des salariés sont appelés à travailler en se trouvant
+exposés à un risque de chute dans le vide, les chefs d'établissement sont tenus : 
+
+a) Soit d'installer des planchers de travail fixes, munis de garde-corps placés à une hauteur de 90 centimètres et de
+plinthes de 15 centimètres de hauteur au moins ; 
+
+b) Soit de mettre en oeuvre, dans les conditions prévues par l'article R. 235-166, des plates-formes de travail mobiles ou
+tous autres dispositifs similaires suspendues à un appareil de levage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-166 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-168 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-169 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-170 (V)
+
+
+###### Article R235-168
+
+Les plates-formes, nacelles et dispositifs similaires utilisés pour le transport ou le travail en élévation des salariés
+occupés à des travaux visés par le présent titre, ainsi que les appareils de levage auxquels ces plates-formes, nacelles ou
+dispositifs similaires sont suspendus, doivent satisfaire : 
+
+a) Aux prescriptions de l'article R. 238-2-27, si les appareils utilisés sont spécialement conçus pour le transport ou
+l'élévation des salariés ; 
+
+b) Aux prescriptions des alinéas 2° à 13° de l'article R. 235-44, si les appareils utilisés sont mus mécaniquement et
+destinés au transport des marchandises, matériels ou matériaux ; 
+
+c) Aux prescriptions des alinéas 2° à 12° de l'article R. 235-44 précité, si les appareils utilisés sont mus à la main. 
+
+Les appareils mus mécaniquement et destinés au transport des marchandises, matériels et matériaux peuvent, par dérogation au
+premier alinéa de l'article R. 235-44, être habituellement utilisés pour le transport ou le travail en élévation des
+salariés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-167 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-44 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-2-27 (V)
+
+
+###### Article R235-169
+
+A défaut de l'installation des dispositifs visés par l'article R. 235-167, ou à défaut de l'utilisation de nacelles et de
+plates-formes-ou tous autres dispositifs similaires-suspendues à un appareil de levage, il doit être installé : 
+
+a) Soit des auvents, éventails ou planchers propres à empêcher une chute libre de plus de 3 mètres ; 
+
+b) Soit des filets, ou tous autres dispositifs présentant une élasticité au moins équivalente, propres à empêcher une chute
+libre de plus de 6 mètres. 
+
+Les dispositifs visés par le présent article doivent être agencés de manière à prévenir les effets de bascule ou de
+rebondissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-167 (V)
+
+
+###### Article R235-170
+
+Lorsque la mise en oeuvre des mesures de sécurité prescrites par les articles R. 235-167 à R. 235-169 paraît impossible, le
+port d'un système d'arrêt de chute est obligatoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-167 (V)
+
+
+###### Article R235-171
+
+Le port d'un casque de protection muni d'une mentonnière est obligatoire pour les travaux de montage, de démontage et de
+levage de charpentes et ossatures.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+##### Sous-section 3 : Travaux de construction comportant la mise en oeuvre d'éléments préfabriqués lourds.
+
+###### Article R235-172
+
+Les mesures particulières de protection du présent article sont applicables lors de l'exécution des travaux de construction
+comportant la mise en oeuvre d'éléments préfabriqués lourds.
+
+La stabilité de chacun de ces éléments doit être assurée, dès sa mise en place, par des dispositifs rigides appropriés.
+
+L'enlèvement des dispositifs mis en oeuvre ne peut être effectué que sur l'ordre du chef de chantier et sous son contrôle
+personnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+##### Section 7 : Travaux au voisinage de lignes, canalisations et installations électriques
+
+##### Sous-section 1.
+
+###### Article R235-173
+
+Les prescriptions du présent chapitre doivent être observées lors de l'exécution de travaux au voisinage de lignes,
+canalisations et installations électriques :
+
+a) Situées à l'extérieur de locaux et du domaine basse tension A (BTA), c'est-à-dire dont la tension excède 50 volts sans
+dépasser 500 volts en courant alternatif ou excède 120 volts sans dépasser 750 volts en courant continu lisse ;
+
+b) Situées à l'extérieur ou à l'intérieur de locaux et du domaine basse tension B (BTB), c'est-à-dire dont la tension excède
+500 volts sans dépasser 1 000 volts en courant alternatif ou excède 750 volts sans dépasser 1 500 volts en courant continu
+lisse ;
+
+c) Situées à l'extérieur ou à l'intérieur de locaux et du domaine haute tension A (HTA), c'est-à-dire dont la tension excède
+1 000 volts en courant alternatif sans dépasser 50 000 volts ou excède 1 500 volts sans dépasser 75 000 volts en courant
+continu lisse ;
+
+d) Situées à l'extérieur ou à l'intérieur de locaux et du domaine haute tension B (HTB), c'est-à-dire dont la tension excède
+50 000 volts en courant alternatif ou excède 75 000 volts en courant continu lisse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-177 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-179 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-184 (V)
+
+
+###### Article R235-174
+
+Tout chef d'établissement qui se propose d'effectuer des travaux au voisinage de lignes ou d'installations électriques doit
+s'informer auprès de l'exploitant - qu'il s'agisse du représentant local de la distribution d'énergie ou de l'exploitant de
+la ligne ou installation publique ou privée en cause - de la valeur des tensions de ces lignes ou installations, afin de
+pouvoir s'assurer qu'au cours de l'exécution des travaux les salariés ne seront pas susceptibles de s'approcher eux-mêmes ou
+d'approcher les outils, appareils ou engins qu'il utilisera, ou une partie quelconque des matériels et matériaux qu'il
+manutentionnera, à une distance dangereuse des pièces conductrices nues normalement sous tension, et notamment à une distance
+inférieure à :
+
+a) 3 mètres pour les lignes ou installations dont la plus grande des tensions (en valeur efficace pour le courant alternatif)
+existant en régime normal entre deux conducteurs quelconques est inférieure à 50 000 volts ;
+
+b) 5 mètres pour les lignes ou installations dont la plus grande des tensions (en valeur efficace pour le courant alternatif)
+existant en régime normal entre deux conducteurs quelconques est égale ou supérieure à 50 000 volts.
+
+Il doit être tenu compte, pour déterminer les distances minimales qu'il convient de respecter par rapport aux pièces
+conductrices nues normalement sous tension, d'une part, de tous les mouvements possibles des pièces conductrices nues sous
+tension de la ligne, canalisation ou installation électrique, d'autre part, de tous les mouvements, déplacements,
+balancements, fouettements (notamment en cas de rupture éventuelle d'un organe) ou chutes possibles des engins utilisés pour
+les travaux envisagés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-181 (V)
+
+
+###### Article R235-175
+
+Tout chef d'établissement qui se propose d'effectuer des travaux de terrassement, des fouilles, des forages ou des
+enfoncements doit s'informer, auprès du service de voirie intéressé en cas de travaux sur le domaine public, auprès du
+propriétaire ou de son répondant en cas de travaux sur le domaine privé et, dans tous les cas, auprès du représentant local
+de la distribution d'énergie électrique, s'il existe des canalisations électriques souterraines - qu'elles soient ou non
+enterrées - à l'intérieur du périmètre des travaux projetés ou à moins de 1,50 mètre à l'extérieur de ce périmètre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-180 (V)
+
+
+###### Article R235-176
+
+Le chef d'établissement ne peut procéder aux travaux qu'après la mise hors tension de l'installation électrique, à moins que
+l'exploitant ait fait connaître par écrit qu'il ne peut, pour une raison qu'il juge impérieuse, effectuer la mise hors
+tension. 
+
+Dans ce dernier cas, le chef d'établissement doit se conformer aux prescriptions des articles R. 235-178 à R. 235-181.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-178 (V)
+
+
+###### Article R235-177
+
+Lorsque les travaux doivent être effectués au voisinage d'une ligne, d'une canalisation ou d'une installation électrique-
+souterraine ou non-qu'il a été convenu de mettre hors tension, le chef d'établissement doit demander à l'exploitant de faire
+procéder à cette mise hors tension. Il doit fixer, après accord écrit de l'exploitant, les dates auxquelles les travaux
+pourront avoir lieu et, pour chaque jour, l'heure du début et de la fin des travaux, ces indications utiles pour
+l'organisation des travaux ne dispensant pas d'établir et de remettre les attestations et avis visés ci-après. 
+
+Le travail ne peut commencer que lorsque le chef d'établissement est en possession d'une " attestation de mise hors tension "
+écrite, datée et signée par l'exploitant. 
+
+Le travail ayant cessé, qu'il soit interrompu ou terminé, le chef d'établissement doit s'assurer que les salariés ont évacué
+le chantier ou ne courent plus aucun risque. Il établit alors et signe " un avis de cessation de travail ", qu'il remet à
+l'exploitant, cette remise valant décharge. 
+
+Lorsque le chef d'établissement a délivré " l'avis de cessation de travail ", il ne peut reprendre les travaux que s'il est
+en possession d'une nouvelle " attestation de mise hors tension ". 
+
+" L'attestation de mise hors tension " et " l'avis de cessation de travail " doivent être conformes à un modèle fixé par un
+arrêté du ministre du travail. 
+
+La remise de la main à la main de ces documents peut être remplacée par l'échange de messages téléphoniques enregistrés sur
+un carnet spécial et relus en retour, avec le numéro d'enregistrement, lorsque le temps de transmission d'un document écrit
+augmenterait dans une mesure excessive la durée de l'interruption de la distribution. 
+
+Toutefois, dans le cas de travaux exécutés dans le voisinage d'une ligne, canalisation ou installation électrique du domaine
+basse tension A (BTA) au sens de l'article R. 235-173, et dans ce cas seulement, le chef d'établissement peut, sous réserve
+de l'accord écrit de l'exploitant, procéder à la mise hors tension avant les travaux et au rétablissement de la tension après
+les travaux. Il doit alors : 
+
+1° N'ordonner le début du travail qu'après avoir vérifié que la mise hors tension est effective ; 
+
+2° Signaler de façon visible la mise hors tension ; 
+
+3° Se prémunir contre le rétablissement inopiné de la tension pendant la durée des travaux, de préférence en condamnant, en
+position d'ouverture, les appareils de coupure ou de sectionnement correspondants ; 
+
+4° Ne rétablir la tension que lorsque les travaux ont cessé et que les salariés ne courent plus aucun danger.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-173 (V)
+
+
+###### Article R235-178
+
+Lorsque l'exploitant a fait connaître par écrit qu'il ne peut, pour une raison qu'il juge impérieuse, mettre hors tension la
+ligne, la canalisation ou l'installation électrique au voisinage de laquelle les travaux seront effectués, le chef
+d'établissement doit, avant le début des travaux et en accord avec l'exploitant, arrêter les mesures de sécurité à prendre.
+Le chef d'établissement doit, au moyen de la consigne prévue par l'article R. 235-183, porter ces mesures à la connaissance
+des salariés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-176 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-183 (V)
+
+
+###### Article R235-179
+
+Lorsque les travaux doivent être effectués au voisinage d'une ligne ou d'une installation électrique autre qu'une
+canalisation souterraine et que l'exploitant, pour une raison qu'il juge impérieuse, estime qu'il ne peut mettre hors tension
+cette ligne ou cette installation, la consigne prévue par l'article R. 235-183 doit préciser les mesures à prendre pour
+mettre la ligne ou l'installation hors d'atteinte des salariés. 
+
+Si la ligne ou l'installation électrique est du domaine basse tension A (BTA), au sens de l'article R. 235-173, cette mise
+hors d'atteinte doit être réalisée : 
+
+a) Soit en mettant en place des obstacles efficaces solidement fixés ; 
+
+b) Soit en isolant par recouvrement les conducteurs ou autres pièces nus sous tension, ainsi que le neutre. 
+
+S'il n'est pas possible de recourir à de telles mesures, la consigne prévue par l'article R. 235-183 doit prescrire aux
+salariés de porter des gants isolants, qui seront mis à leur disposition par le chef d'établissement, ainsi que des vêtements
+à manches longues et une coiffure, sans préjudice des mesures propres à isoler les salariés par rapport au sol. 
+
+Lorsque la ligne ou l'installation électrique est des domaines basse tension B (BTB), haute tension A (HTA) et haute tension
+B (HTB), au sens de l'article R. 235-173, la mise hors d'atteinte de cette ligne ou de cette installation doit être réalisée
+en mettant en place des obstacles efficaces solidement fixés devant les conducteurs ou pièces nus sous tension, ainsi que
+devant le neutre. 
+
+Si cette mesure ne peut être envisagée, la zone de travail doit être délimitée matériellement, dans tous les plans possibles,
+par une signalisation très visible (telle que : pancartes, barrières, rubans). La consigne prévue par l'article R. 235-183
+doit préciser les conditions dans lesquelles cette délimitation doit être effectuée. Le chef d'établissement est tenu, en
+outre, de désigner un salarié compétent ayant pour unique fonction de s'assurer que les salariés ne franchissent pas la
+limite de la zone de travail et de les alerter dans le cas contraire. 
+
+Les mises hors d'atteinte susceptibles d'amener des salariés à une distance dangereuse des pièces conductrices nues
+normalement sous tension, ainsi que l'intervention directe sur des lignes, installations électriques ou pièces nues
+normalement sous tension, ne peuvent être effectuées que par des salariés compétents et pourvus du matériel approprié.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-173 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-183 (V)
+
+
+###### Article R235-180
+
+Lorsque des travaux de terrassement, des fouilles, des forages ou des enfoncements doivent être effectués au voisinage de
+canalisations électriques souterraines de quelque classe que ce soit, le parcours des canalisations et l'emplacement des
+installations doivent être balisés de façon très visible à l'aide de pancartes, banderoles, fanions, peintures ou tous autres
+dispositifs ou moyens équivalents. Ce balisage doit être réalisé en tenant compte des informations recueillies par
+application des articles R. 235-175 à R. 235-178 ; il doit être effectué avant le début des travaux et maintenu pendant toute
+leur durée. 
+
+Le chef d'établissement est tenu, en outre, de désigner un salarié compétent pour surveiller les salariés et les alerter dès
+qu'ils s'approchent ou approchent leurs outils à moins de 1,50 mètre des canalisations et installations électriques
+souterraines.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-175 (V)
+
+
+###### Article R235-181
+
+Lorsque des engins de terrassement, de transport, de levage ou de manutention doivent être utilisés ou déplacés au voisinage
+d'une ligne, installation ou canalisation électrique de quelque classe que ce soit et que l'exploitant, pour une raison qu'il
+juge impérieuse, estime qu'il ne peut mettre hors tension cette ligne, installation ou canalisation, les emplacements à
+occuper et les itinéraires à suivre par ces engins doivent, dans toute la mesure du possible, être choisis de manière à
+éviter qu'une partie quelconque des engins approche de la ligne, installation ou canalisation à une distance inférieure aux
+distances fixées par les articles R. 235-174 et R. 235-175. 
+
+S'il ne peut en être ainsi, la consigne prévue par l'article R. 253-183 doit préciser les précautions à prendre pour éviter
+de tels rapprochements, même s'il existe des limiteurs de déplacement des éléments mobiles ou si des dispositions appropriées
+d'avertissement ou d'arrêt ont été prises.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-174 (V)
+
+
+###### Article R235-182
+
+En cas de désaccord entre le chef d'établissement et l'exploitant, soit sur la possibilité de mettre l'installation hors
+tension, soit, dans le cas où la mise hors tension est reconnue impossible, sur les mesures à prendre pour assurer la
+protection des salariés, les contestations doivent être portées par le chef d'établissement devant le service chargé de
+l'inspection du travail, qui tranche le litige, en accord, s'il y a lieu, avec le service chargé du contrôle de la
+distribution d'énergie électrique en cause.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-183
+
+Le chef d'établissement doit, avant le début des travaux :
+
+1° Faire mettre en place les dispositifs protecteurs prescrits par le présent chapitre ;
+
+2° Porter à la connaissance des salariés, au moyen d'une consigne écrite, les mesures de protection qui, en application des
+dispositions du présent chapitre, doivent être mises en oeuvre lors de l'exécution des travaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-178 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-179 (V)
+
+
+##### Sous-section 2.
+
+###### Article R235-184
+
+Les prescriptions du présent chapitre doivent être observées lors de l'exécution de travaux à l'intérieur de locaux ne
+comportant que des lignes ou installations électriques du domaine basse tension A (BTA) au sens de l'article R. 235-173.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-173 (V)
+
+
+###### Article R235-185
+
+Si les salariés risquent, au cours de l'exécution des travaux, d'entrer directement ou indirectement en contact soit avec un
+conducteur ou pièce conductrice sous tension nu ou insuffisamment isolé, soit avec une masse métallique pouvant être mise
+accidentellement sous tension, les travaux ne doivent être effectués que lorsque la ligne ou l'installation a été mise hors
+tension ; 
+
+Excepté le cas où les travaux sont exécutés dans des locaux très conducteurs et le cas où les salariés sont susceptibles
+d'avoir les pieds ou les mains humides, il peut être dérogé aux dispositions de l'alinéa précédent lorsque l'exploitant a
+fait connaître par écrit qu'il ne peut, pour une raison qu'il juge impérieuse, mettre la ligne ou l'installation hors
+tension, sous réserve toutefois que les travaux soient exécutés dans les conditions fixées par l'article R. 235-187.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-187 (V)
+
+
+###### Article R235-186
+
+En cas de mise hors tension de la ligne ou de l'installation, le chef d'établissement doit demander à l'exploitant ou à
+l'usager de la ligne ou de l'installation de procéder à cette mise hors tension ou obtenir de lui l'autorisation de
+l'effectuer lui-même.
+
+Le chef d'établissement doit alors :
+
+1° N'ordonner le début du travail qu'après avoir vérifié que la mise hors tension est effective ;
+
+2° Signaler de façon visible la mise hors tension ;
+
+3° Se prémunir contre le rétablissement inopiné de la tension pendant la durée des travaux, de préférence en condamnant, en
+position d'ouverture, les appareils de coupure ou de sectionnement correspondants ;
+
+4° Ne rétablir la tension que lorsque les travaux ont cessé et que les salariés ne courent plus aucun danger.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-187
+
+Lorsque les travaux sont effectués alors que la ligne ou l'installation demeure sous tension, les parties de la ligne ou de
+l'installation susceptibles de provoquer des contacts dangereux doivent être mises hors d'atteinte :
+
+a) Soit en disposant des obstacles efficaces solidement fixés ;
+
+b) Soit en faisant procéder, soit en procédant à une isolation efficace par recouvrement des conducteurs et pièces nus ou
+insuffisamment isolés sous tension ou susceptibles d'y être portés.
+
+Toutefois, les dispositions ci-dessus ne font pas obstacle à la mise en oeuvre, en accord avec l'usager, de toute autre
+mesure de protection appropriée à chaque cas considéré (telle que l'isolation des salariés au moyen de vêtements, de gants,
+de coiffures ou de planchers isolants). Le chef d'établissement doit alors, au moyen d'une consigne, porter à la connaissance
+des salariés intéressés les mesures de sécurité mises en oeuvre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-185 (V)
+
+
+##### Section 8 : Mesures générales d'hygiène et logement provisoire des salariés
+
+##### Sous-section 1 : Mesures générales d'hygiène.
+
+###### Article R235-188
+
+Il peut être dérogé, dans les chantiers de bâtiment ou de génie civil dont la durée n'excède pas quatre mois, aux
+dispositions des articles R. 232-17 à R. 232-19, R. 232-21 à R. 232-23 et R. 232-62 à R. 232-64 du présent code, sous réserve
+de l'observation des mesures d'hygiène correspondantes prévues par le présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-17 (V)
+	  - Code du travail applicable à Mayotte. - art. R232-21 (V)
+	  - Code du travail applicable à Mayotte. - art. R232-62 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-189 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-190 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-191 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-194 (V)
+
+
+###### Article R235-189
+
+Dans les chantiers visés au premier alinéa de l'article R. 235-188, les chefs d'établissement sont tenus de mettre un local
+vestiaires à la disposition des salariés. 
+
+Ce local doit être convenablement aéré et éclairé. 
+
+Il doit être tenu en état constant de propreté et nettoyé au moins une fois par jour. 
+
+Il est interdit d'y entreposer des produits ou matériels dangereux ou salissants ainsi que des matériaux. 
+
+Il doit être pourvu d'un nombre suffisant de sièges. 
+
+Lorsque l'exiguïté du chantier ne permet pas d'équiper le local d'armoires vestiaires individuelles en nombre suffisant, le
+local doit être équipé de patères en nombre suffisant. 
+
+Pour les chantiers souterrains, le local doit être installé au jour.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-188 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-195 (V)
+
+
+###### Article R235-190
+
+Dans les chantiers visés au premier alinéa de l'article R. 235-188, lorsque les installations ne sont pas adaptées à la
+nature du chantier, des véhicules de chantier spécialement aménagés à cet effet peuvent être utilisés pour permettre aux
+salariés appelés à intervenir d'assurer leur propreté individuelle, de disposer de cabinets d'aisances, de vestiaires et, si
+possible, de douches à l'abri des intempéries. 
+
+L'utilisation d'un local en sous-sol doit être exceptionnelle et n'est tolérée que s'il est possible de le tenir en état
+constant de propreté, de l'aérer et de l'éclairer convenablement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-188 (V)
+
+
+###### Article R235-191
+
+Les chefs d'établissement doivent mettre à la disposition des salariés une quantité d'eau potable suffisante pour assurer
+leur propreté individuelle. Dans les cas où l'eau courante est impossible, un réservoir d'eau potable d'une capacité
+suffisante doit être raccordé aux lavabos afin de permettre leur alimentation. 
+
+Dans les chantiers visés à l'alinéa premier de l'article R. 235-188, doivent être installés des lavabos ou des rampes, si
+possible à température réglable, à raison d'un orifice pour dix salariés. 
+
+Des moyens de nettoyage et de séchage ou d'essuyage appropriés, entretenus et changés chaque fois que nécessaire, doivent
+être mis à disposition des salariés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-188 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-195 (V)
+
+
+###### Article R235-192
+
+Lorsque des salariés prennent leur repas sur le chantier, un local réfectoire doit être mis à leur disposition. Il doit être
+pourvu de tables et de chaises en nombre suffisant. Ce local doit disposer d'au moins un appareil permettant d'assurer le
+réchauffage ou la cuisson des aliments et d'un garde-manger destiné à protéger les aliments d'une capacité suffisante et, si
+possible, d'un réfrigérateur. Ce local doit être tenu en parfait état de propreté.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-193
+
+Les chefs d'établissement doivent mettre à la disposition des salariés de l'eau potable et fraîche pour la boisson, à raison
+de trois litres au moins par jour et par salarié.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-195 (V)
+
+
+###### Article R235-194
+
+Sur les chantiers visés au premier alinéa de l'article R. 235-188, des cabinets d'aisances doivent être mis à la disposition
+des salariés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-188 (V)
+
+
+###### Article R235-195
+
+Au cas où la disposition des lieux ne permet pas de mettre en place les installations visées à l'alinéa 1er de l'article R.
+235-189 et aux articles R. 235-191 et R. 235-193, les chefs d'établissement sont tenus de rechercher à proximité du chantier
+un local ou un emplacement offrant des conditions au moins équivalentes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-189 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-191 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-193 (V)
+
+
+##### Sous-section 2 : Logement provisoire des salariés - Réfectoires et cuisines.
+
+###### Article R235-196
+
+Des réfectoires doivent être tenus à la disposition des salariés.
+
+Un espace de 65 centimètres au minimum doit être prévu par place.
+
+Ces réfectoires doivent être situés à proximité de la cuisine, sinon une installation permettant de réchauffer les plats doit
+être prévue.
+
+Des lavabos, cabinets d'aisances et urinoirs doivent être installés à proximité des réfectoires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-197
+
+Les réfectoires doivent être nettoyés après chaque repas, les tables après chaque service. Leur accès doit être interdit aux
+usagers en dehors des heures d'utilisation.
+
+Le sol doit être formé d'un revêtement imperméable ou d'un revêtement jointif se prêtant facilement au lavage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-198
+
+Le sol et les parois des cuisines doivent être en matériaux imperméables se prêtant à un lavage facile ; à défaut, les parois
+doivent être recouvertes d'un enduit lavable refait au moins deux fois par an. Les peintures doivent être d'un ton clair.
+
+Un nettoyage complet doit être fait au moins une fois par jour.
+
+Les résidus putrescibles ne doivent jamais séjourner dans les cuisines, à moins d'être déposés dans des récipients
+hermétiquement clos, vidés et lavés au moins une fois par jour.
+
+Toutes les mesures doivent être prises pour la destruction des insectes et des rongeurs.
+
+Les cuisines doivent être largement aérées. Des hottes doivent être éventuellement prévues pour l'évacuation des buées.
+
+Elles doivent être convenablement éclairées.
+
+Elles doivent être pourvues uniquement d'eau potable en quantité suffisante.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+##### Section 9 : Dispositions diverses.
+
+###### Article R235-199
+
+La conception des étaiements d'une hauteur de plus de 6 mètres doit être justifiée par une note de calcul et leur
+construction réalisée conformément à un plan de montage préalablement établi, sauf en cas d'urgence ou d'impossibilité. La
+note de calcul et le plan de montage doivent être conservés sur le chantier.
+
+Les dispositions de l'alinéa précédent ne sont pas applicables aux étaiements mis en oeuvre pour l'exécution des travaux
+souterrains.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-200
+
+La mise en tension des armatures du béton précontraint ainsi que l'enlèvement des vérins utilisés pour cette opération ne
+peuvent être effectués que sous la surveillance du chef de chantier ou d'un agent des cadres ou d'un ingénieur désigné par le
+chef d'établissement en raison de sa compétence.
+
+Cet agent a le devoir de veiller à la mise en place de dispositifs appropriés pour protéger efficacement les salariés contre
+le danger qui pourrait résulter d'une libération intempestive de l'énergie emmagasinée dans les armatures au cours de leur
+mise en tension.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-201
+
+L'enlèvement des cintres et des coffrages ainsi que l'enlèvement des charpentes soutenant ces installations ne peut être
+effectué que sous le contrôle d'un salarié désigné par le chef d'établissement en raison de sa compétence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-202
+
+Des mesures doivent être prises pour éviter que les salariés puissent être blessés par des projections de béton, de mortier
+ou de ciment mis en oeuvre par des moyens mécaniques ou pneumatiques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-203
+
+Le port de lunettes de sûreté est obligatoire pour tous travaux sur des matériaux durs susceptibles de produire des éclats.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-204
+
+Les travaux de soudage, de rivetage et de sablage ne peuvent être confiés qu'à des salariés compétents.
+
+Des moyens de protection individuelle, tels que des gants, des guêtres ou cuissards, des tabliers ou gilets de protection,
+des baudriers "supports de tas", des masques ou cagoules, des lunettes de sûreté, doivent être mis à la disposition de ces
+salariés et de leurs aides, afin de les protéger contre les risques de brûlure ou de projections de matières. Lors de ces
+travaux, les travailleurs indépendants et les employeurs visés à l'article L. 230-1-1 sont également tenus de porter des
+moyens de protection individuelle appropriés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L230-1-1 (M)
+
+
+###### Article R235-205
+
+Des appareils respiratoires capables d'empêcher l'inhalation des vapeurs ou poussières nocives doivent être mis à la
+disposition des salariés qui effectuent des travaux de rivetage, de soudage ou de découpage sur des éléments recouverts de
+peinture au minium de plomb ainsi qu'à la disposition des salariés qui effectuent des travaux de métallisation ou de sablage.
+
+Les appareils respiratoires visés à l'alinéa précédent doivent être maintenus en bon état de fonctionnement et désinfectés
+avant d'être attribués à un nouveau titulaire.
+
+Lors de ces travaux, les travailleurs indépendants et les employeurs visés à l'article L. 230-1-1 sont également tenus de
+porter des appareils respiratoires appropriés et en bon état de fonctionnement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L230-1-1 (M)
+
+
+###### Article R235-206
+
+Lorsque des travaux de soudage à l'arc sont effectués sur un chantier, des écrans doivent masquer les arcs aux salariés
+autres que les soudeurs ou leurs aides, afin de supprimer les risques d'éblouissement et les dangers du rayonnement
+ultraviolet. A défaut d'écrans protecteurs, les zones dangereuses doivent être délimitées et convenablement signalées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-207
+
+Les chefs d'établissement dont les salariés effectuent des travaux exposant à des risques de noyade sont tenus de prendre,
+indépendamment des mesures de sécurité prescrites par les articles ci-dessus, les mesures particulières de protection
+énoncées ci-après :
+
+1° Les salariés exposés doivent être munis de plastrons de sauvetage ;
+
+2° Un signal d'alarme doit être prévu ;
+
+3° Le cas échéant, une barque au moins, conduite par des salariés sachant nager et plonger, doit se trouver en permanence
+auprès des postes de travail les plus dangereux ; cette barque doit être équipée de gaffes, de cordages et de bouées de
+sauvetage ; le nombre de barques de sauvetage doit être en rapport avec le nombre de salariés exposés au risque de noyade ;
+
+4° Lorsque des travaux sont effectués la nuit, des projecteurs orientables doivent être installés, afin de permettre
+l'éclairage de la surface de l'eau, et les mariniers doivent être munis de lampes puissantes ;
+
+5° Lorsqu'un chantier fixe occupant plus de vingt salariés pendant plus de quinze jours est éloigné de tout poste de secours,
+un appareil de respiration artificielle doit se trouver en permanence sur le chantier ; toutefois, cette disposition ne fait
+pas obstacle à l'emploi de tout autre dispositif ou moyen d'une efficacité au moins équivalente.
+
+Lors de ces travaux, les travailleurs indépendants et les employeurs visés à l'article L. 230-1-1 sont également tenus de
+porter des plastrons de sauvetage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L230-1-1 (M)
+
+
+###### Article R235-208
+
+Aucun travail ne doit être entrepris sous la benne d'un camion ou sous une partie mobile d'un engin de chantier sans qu'un
+dispositif approprié soit utilisé pour empêcher un accident en cas de défaillance du dispositif normal de retenue.
+
+Dans les bétonnières, le dispositif courant d'arrêt de la benne agissant sur le câble de manoeuvre doit être doublé par un
+dispositif complémentaire d'immobilisation en position haute. Ce dispositif doit être indépendant du mécanisme de manoeuvre,
+fixé en attente au châssis, et toujours prêt à être utilisé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-209
+
+Les crics doivent être munis d'un dispositif capable de s'opposer à un retour de manivelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-210
+
+Des mesures appropriées doivent être prises pour donner rapidement les premiers secours à tout salarié blessé au cours du
+travail.
+
+Dans les chantiers où la durée des travaux dépasse une semaine, les chefs d'établissement doivent indiquer, par un avis,
+l'adresse ou le numéro téléphonique du service d'urgence auquel il conviendra de s'adresser en cas d'accident.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-211
+
+Les consignes prescrites par le présent chapitre doivent être affichées à une place convenable, être aisément accessibles et
+tenues dans un bon état de lisibilité.
+
+Un exemplaire de ces consignes doit être remis à chacun des salariés auxquels elles s'adressent.
+
+Les consignes de sécurité prescrites par le présent chapitre doivent faire l'objet d'une présentation orale de la part de
+l'employeur ou de son représentant à l'ensemble des salariés avant qu'ils ne commencent à travailler sur le chantier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-212
+
+Lorsque des normes homologuées intéressent la sécurité des salariés du bâtiment et des travaux publics, elles peuvent être
+rendues obligatoires dans les établissements visés par le présent chapitre, par arrêté du représentant de l'Etat à Mayotte
+pris sur le rapport du directeur du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-213
+
+Le représentant de l'Etat à Mayotte, par décision prise sur le rapport du directeur du travail et après avis de la commission
+consultative du travail, peut autoriser ou non des chantiers déterminés et, le cas échéant, pour une certaine nature de
+travaux, des dérogations temporaires et limitées à certaines dispositions du présent chapitre.
+
+Il peut également autoriser par arrêté, pour une durée déterminée, des dérogations de portée générale à certaines
+dispositions.
+
+Ces décisions et arrêtés ne peuvent intervenir que sous réserve de prévoir des mesures compensatrices de sécurité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R235-214
+
+Les prescriptions du présent chapitre pour l'application desquelles est prévue la procédure de la mise en demeure en
+application des articles L. 230-10 et L. 230-11 et le délai minimal prévu à l'article L. 230-12 pour l'exécution des mises en
+demeure sont fixés conformément au tableau ci-après :
+
+PRESCRIPTIONS pour lesquelles est prévue la mise en demeure : Article R. 235-16 (alinéa 1)
+
+DELAI MINIMAL D'EXECUTION des mises en demeure : 4 jours 
+
+PRESCRIPTIONS pour lesquelles est prévue la mise en demeure : Article R. 235-23 (1re phrase)
+
+DELAI MINIMAL D'EXECUTION des mises en demeure : 8 jours
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L230-10 (M)
+	  - Code du travail applicable à Mayotte. - art. L230-11 (M)
+	  - Code du travail applicable à Mayotte. - art. L230-12 (M)
+	  - Code du travail applicable à Mayotte. - art. R235-16 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-23 (V)
 
 
 #### CHAPITRE VI : Mesures particulières de protection des salariés dans les établissements qui mettent en oeuvre des courants électriques
@@ -22062,6 +25760,1475 @@ professionnelle, après avis des délégués du personnel.
 	  - Décret n°2014-1291 du 23 octobre 2014 - art. (V)
 
 
+##### Section 2 : Mesures particulières de sécurité relatives aux appareils de levage.
+
+###### Article R238-2-1
+
+Les employeurs, chefs d'établissements, gérants ou préposés énumérés à l'article L. 230-1 et L. 251-1 dont le personnel fait
+usage, même à titre occasionnel, d'appareils de levage mus mécaniquement, autres que les appareils élévateurs (tels que les
+ascenseurs ou les monte-charge) dont la cabine ou la plate-forme se déplace entre des glissières ou guides verticaux ou
+sensiblement verticaux sont soumis, indépendamment des mesures générales prescrites par le présent code, aux mesures
+particulières de protection déterminées par la présente section.
+
+La présente section est également applicable aux travailleurs indépendants et aux employeurs mentionnés à l'article L.
+230-1-1.
+
+Ces mesures ne font pas obstacle aux prescriptions du chapitre VI du présent titre relatif à la protection des salariés dans
+les établissements qui mettent en oeuvre des courants électriques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L230-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L230-1-1 (M)
+
+
+##### Sous-section 1 : Installation des appareils et des voies.
+
+###### Article R238-2-2
+
+Les appareils de levage dans toutes leurs parties constituantes ainsi que leurs supports doivent pouvoir résister aux
+contraintes résultant de leur usage et, s'il y a lieu, aux efforts dus au vent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-2-33 (V)
+
+
+###### Article R238-2-3
+
+Si l'appareil comporte une ou plusieurs passerelles accessibles, le risque qui, pour les personnes se trouvant sur ces
+passerelles, résulte de la présence d'obstacles fixes ou mobiles situés au-dessus d'elles, doit être absolument éliminé. 
+
+En conséquence, l'une des mesures de sécurité ci-dessous doit être appliquée : 
+
+a) Il doit exister une distance verticale de deux mètres entre l'une quelconque de ces passerelles et tous obstacles
+susceptibles de se présenter au-dessus du passage de l'appareil de levage ; 
+
+b) Un grillage ou une armature rigide, de résistance mécanique suffisante et formant plafond, doit obliger les salariés se
+trouvant sur l'une quelconque des passerelles à rester en dehors des zones dangereuses ; 
+
+c) Sur les appareils ne satisfaisant pas à l'une des conditions précédentes, des dispositifs matériels doivent assurer
+l'inaccessibilité des passerelles aussi longtemps que l'appareil se trouve en service. 
+
+Les mêmes prescriptions sont applicables lorsque deux appareils doivent se mouvoir l'un au-dessus de l'autre. 
+
+Dans tous les cas, les opérations d'entretien, de réglage et d'essai qui nécessiteraient l'accès aux passerelles doivent être
+effectuées en conformité des prescriptions de l'article R. 238-2-32.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-2-32 (V)
+
+
+###### Article R238-2-4
+
+Les extrémités des appareils situés au-dessus du sol ainsi que celles des chemins de roulement doivent être munies de
+dispositifs atténuant efficacement les chocs, soit en fin de course, soit en cas de rencontre avec un autre appareil
+circulant sur la même voie.
+
+Ces dispositifs sont agencés de la manière la plus favorable pour éviter le déraillement et le renversement des appareils.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R238-2-5
+
+Des moyens de calage, d'amarrage ou de freinage sont utilisés pour immobiliser à l'arrêt les appareils de levage montés sur
+roues, tels que ponts, portiques roulants, monorails, grues et, s'il y a lieu, éviter leur déplacement sous l'action du vent.
+Ces dispositifs sont établis en tenant compte très largement des plus fortes poussées du vent à prévoir suivant les
+conditions locales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-2-42 (V)
+
+
+##### Sous-section 2 : Installations électriques.
+
+###### Article R238-2-6
+
+Les fils nus des lignes de prise de courant doivent se trouver à l'abri de tout contact fortuit de la part des ouvriers à
+leur poste de travail ou sur le chemin qu'ils sont autorisés à prendre pour s'y rendre.
+
+En tout cas, les dispositifs matériels qui mettent les salariés à l'abri des contacts fortuits sur les lignes en question
+doivent être capables de résister aux efforts auxquels ils peuvent être soumis, compte tenu du travail, des manutentions et
+des transports usuels.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R238-2-7
+
+Toutes mesures doivent être prises ou toutes consignes doivent être données pour que, à aucun moment, les organes des
+appareils de levage, quels qu'ils soient, ainsi que les charges suspendues ne puissent entrer en contact direct avec les
+conducteurs nus sous tension ou détériorer les conducteurs isolés.
+
+Entre le branchement et le trolley général doit être disposé un interrupteur ou un disjoncteur permettant de couper toutes
+les phases ou tous les pôles. Cet appareil doit être muni d'un dispositif permettant de le condamner dans la position
+d'ouverture. Sa manoeuvre à distance, si elle est réalisée, doit faire l'objet de consignes spéciales et doit être assurée
+par un personnel désigné à cet effet.
+
+Un interrupteur ou un contacteur général permettant d'isoler tout l'appareil de la source d'énergie doit être installé à
+l'arrivée de l'alimentation. Sa commande doit être et rester parfaitement accessible.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-2-42 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-3-6 (V)
+
+
+###### Article R238-2-8
+
+Dans les cabines d'appareils de levage, les pièces nues sous tension mettant en oeuvre d'autres courants que ceux dits à très
+basse tension doivent être soustraites à tout contact fortuit.
+
+Il doit être prévu des dispositifs matériels pour interdire aux personnes non qualifiées d'accéder aux pièces sous tension et
+aux organes dont le réglage intéresse la sécurité.
+
+Les dispositifs utilisés à ces effets doivent être d'une solidité en rapport avec les contraintes auxquelles ils sont
+exposés.
+
+S'ils sont métalliques, ils doivent être reliés électriquement à l'ossature de la cabine et de l'appareil de levage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-2-42 (V)
+
+
+###### Article R238-2-9
+
+Les mesures nécessaires doivent être prises pour éviter les risques de contact simultanés avec les masses fixes ou mobiles
+des appareils de levage ainsi qu'avec les sols, planchers, murs ou parois, etc., du fait de l'apparition de potentiels
+différents sur les uns et sur les autres.
+
+Si les masses fixes ou mobiles sont mises à la terre, cette mise à la terre doit s'effectuer par un dispositif lui assurant
+une continuité satisfaisante. Cette continuité ne peut être considérée comme suffisamment réalisée par les seuls contacts
+glissants ou roulants sur une ligne spéciale. Par contre, les contacts galets-rails de roulement peuvent assurer cette
+continuité si l'éclissage électrique des rails est réalisé et si les surfaces de contact sont maintenues en parfait état de
+propreté.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+##### Sous-section 3 : Cabines et moyens d'accès.
+
+###### Article R238-2-10
+
+Les cabines qui ne sont pas en toutes circonstances accessibles du sol doivent être construites en matériaux résistant au
+feu.
+
+Elles doivent être disposées de telle manière que le machiniste puisse, de son poste de travail, voir toutes les manoeuvres
+et que, même s'il est obligé de se pencher au dehors pour les diriger, il ne soit pas amené à se mettre dans une position
+dangereuse.
+
+Dans les ateliers où des projections de matières brûlantes ou corrosives sont à craindre, les cabines doivent présenter
+toutes dispositions de sécurité nécessaires contre les dangers en résultant.
+
+En outre, les meilleures dispositions sont prises pour mettre les conducteurs à l'abri des fumées, gaz, vapeurs toxiques,
+rayonnements et autres émanations nuisibles.
+
+Des mesures appropriées doivent être prises pour empêcher la vapeur d'échappement provenant des engins de levage de gêner la
+visibilité en tout lieu de travail occupé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-2-42 (V)
+
+
+###### Article R238-2-11
+
+Le plancher de service et les passerelles doivent être en matériaux résistant au feu. Les appareils en service à la date de
+publication du présent article et sur lesquels cette prescription ne serait pas observée doivent être modifiés en conséquence
+en profitant de leurs immobilisations pour réparations.
+
+En cas d'emploi de tôles perforées ou de tous autres matériaux ne formant pas une surface continue, les dimensions des
+perforations ou des interstices doivent être telles qu'une sphère de 2 cm de diamètre ne puisse passer par ces ouvertures.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R238-2-12
+
+L'accès des cabines doit être facile et réalisé dans les meilleures conditions possibles de sécurité. A défaut de passerelles
+desservies par des escaliers munis de rampes, des échelles fixes avec rampes ou crinolines ou dispositions équivalentes sont
+disposées de façon à déboucher sur des paliers munis de garde-corps, au niveau et en retrait des cabines ou chemins de
+roulement.
+
+Il est interdit d'utiliser les chemins de roulement comme cheminement normal d'accès et seul le personnel chargé de
+l'entretien peut être autorisé à les utiliser.
+
+Aucun espace libre au-dessus du vide ne doit exister dans le trajet que doit parcourir normalement l'ouvrier pour prendre ou
+quitter son poste de travail.
+
+Si l'accès susvisé cesse d'être utilisable du fait du déplacement de la cabine inhérent à la course de l'appareil, il doit
+être mis à la disposition du personnel une échelle lui permettant de quitter la cabine, en quelque endroit qu'elle se trouve,
+facilement et sans avoir à pénétrer dans un compartiment dont l'accès est réservé au personnel d'entretien.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-2-42 (V)
+
+
+###### Article R238-2-13
+
+Les chemins de roulement, situés au-dessus du sol et accessibles pendant que les appareils sont en service, doivent ménager
+un espace libre d'au moins 50 centimètres entre les pièces les plus saillantes des appareils et les parois des bâtiments ou
+entre les pièces les plus saillantes de deux appareils se déplaçant au même niveau.
+
+Des dispositifs matériels doivent assurer l'inaccessibilité des chemins de roulement situés au-dessus du sol et ne
+satisfaisant pas aux conditions susmentionnées aussi longtemps que les appareils se trouvent en service.
+
+Toutefois, dans les installations existant à la date de publication de la présente section où cette disposition ne pourrait
+être appliquée sans d'importantes transformations, il doit être prévu tous les 10 mètres au maximum soit des refuges, soit
+des boutons très visibles permettant de provoquer l'arrêt de la translation des appareils et d'actionner un signal sonore.
+
+Lesdits chemins de roulement doivent être munis du côté opposé au pont d'un garde-corps rigide d'un mètre de haut composé
+d'une main courante d'une lisse et d'une plinthe de 15 centimètres.
+
+Si ce côté est constitué par un mur, celui-ci est muni d'une main courante également rigide.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R238-2-14
+
+Toutes dispositions doivent être prises afin d'éviter une élévation exagérée de la température au sein de la cabine. En tant
+que de besoin, un dispositif de ventilation mécanique doit être installé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R238-2-15
+
+Tout emmagasinage de chiffons, déchets, huiles ou autres matières combustibles dans la cabine de manoeuvre est formellement
+interdit.
+
+Des récipients métalliques fermés sont aménagés en dehors des cabines pour recevoir les chiffons ou déchets ; ils sont vidés
+périodiquement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R238-2-16
+
+Les cabines sont munies d'appareils extincteurs permettant de combattre efficacement tout commencement d'incendie.
+
+Le produit utilisé pour l'extinction ne doit pas être une source de risques pour le personnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-2-42 (V)
+
+
+###### Article R238-2-17
+
+Tous les organes mobiles énumérés au deuxième alinéa de l'article L. 230-3 doivent être munis de protecteurs partout où leur
+mouvement pourrait constituer un danger, et ceci même dans les cas exclus par ledit article. 
+
+Les galets de roulement sont munis de garde-roues, à moins que leurs dispositions ne donnent une sécurité équivalente. 
+
+Tous les organes mobiles des moteurs ou des commandes du pont, montés en porte à faux, sont munis d'un carter ou d'une
+enveloppe métallique capable de les retenir en cas de chute.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L230-3 (Ab)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-2-42 (V)
+
+
+###### Article R238-2-18
+
+Toutes mesures utiles sont prises pour éviter les chutes d'objets du haut des appareils ou voies de roulement et pour
+soustraire les personnes aux dangers résultant de ces chutes.
+
+Les parties amovibles telles que couvercles, boîtiers, enveloppes doivent être reliées aux bâtis de façon à éviter leur chute
+éventuelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-2-42 (V)
+
+
+###### Article R238-2-19
+
+Les crochets de suspension sont d'un modèle s'opposant au décrochage accidentel des fardeaux.
+
+Les élingues sont calculées, choisies, disposées et entretenues de façon à ne pas se rompre, glisser ou être coupées. Elles
+ne sont pas en contact direct avec les angles vifs des fardeaux qu'elles soutiennent. L'angle formé par les brins des
+élingues reliés aux crochets est toujours tel que le risque de rupture du brin soit exclu.
+
+Les chaînes ne doivent pas être raccourcies au moyen de noeuds et des précautions sont prises pour éviter qu'elles soient
+endommagées par frottement contre des arêtes vives.
+
+Les oeillets et épissures des câbles métalliques doivent comporter au moins trois tours avec un toron entier du câble et deux
+tours avec la moitié des fils coupés dans chaque toron. Toutefois, cette prescription ne fait pas obstacle à l'usage d'une
+autre forme d'épissure d'une efficacité équivalente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-44 (V)
+
+
+##### Sous-section 4 : Moteurs, chaînes et câbles, limiteurs de course.
+
+###### Article R238-2-20
+
+Tous les appareils de levage mus mécaniquement sont munis de freins ou de tous autres dispositifs équivalents capables
+d'arrêter la charge ou l'appareil dans toutes leurs positions.
+
+Ces dispositifs sont installés de façon à pouvoir fonctionner automatiquement ou à être actionnés par le préposé à la
+manoeuvre de l'appareil immédiatement et directement de son poste de travail, et ceci même en cas d'interruption de
+l'alimentation de l'appareil en énergie motrice.
+
+Toutefois, cette dernière condition n'est pas applicable aux mouvements de direction lorsque, toute action du vent exclue et
+la source d'alimentation étant brusquement coupée, l'organe intéressé s'arrête de lui-même sur 50 centimètres.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-2-42 (V)
+
+
+###### Article R238-2-21
+
+La descente des charges sous le seul contrôle d'un frein n'est admise que si le mécanisme comporte un limiteur de vitesse et
+si l'usage du frein nécessite l'intervention du machiniste pendant toute la durée de la descente, c'est-à-dire si le frein se
+trouve automatiquement serré dès que cette intervention cesse.
+
+L'adjonction du limiteur de vitesse au mécanisme de descente n'est pas exigée sur les appareils utilisés normalement pour la
+seule montée des charges. Il en est de même pour les grues à utilisation particulière telles que les pelles de terrassement.
+Dans ce dernier cas, la présence d'un frein normalement serré n'est pas obligatoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-31 (V)
+
+
+###### Article R238-2-22
+
+Tous les appareils de levage sont munis de l'ensemble des dispositifs de sécurité qui s'avéreront nécessaires tels que
+limiteurs de course, limiteurs de relevage et, éventuellement, limiteurs d'orientation.
+
+Ces dispositifs sont de construction robuste et s'il y a lieu réenclenchables de la cabine ou du poste de manoeuvre.
+
+Les limiteurs de course sont réglés pour éviter la rupture des chaînes ou des câbles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-2-42 (V)
+
+
+###### Article R238-2-23
+
+Les poulies de mouflages doivent être munies de dispositifs permettant de les déplacer au moment de l'accrochage des charges
+sans que les intervenants soient obligés de porter les mains sur les câbles ou sur les chaînes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-2-42 (V)
+
+
+###### Article R238-2-24
+
+Les appareils de préhension électromagnétique et les bennes preneuses, ne sont admis que s'ils sont munis de dispositifs
+efficaces évitant la chute de la charge.
+
+Les dispositifs prévus ci-dessus ne sont pas obligatoires si des mesures efficaces sont prises pour interdire aux personnes
+l'accès des zones où des chutes intempestives pourraient se produire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+##### Sous-section 5 : Manoeuvres.
+
+###### Article R238-2-25
+
+Il est interdit de soulever une charge supérieure à celle marquée sur l'appareil compte tenu de ses conditions d'emploi.
+
+Il est interdit de transporter habituellement des charges au-dessus des personnes. Chaque conducteur d'appareil doit disposer
+d'un avertisseur sonore de puissance suffisante qu'il fera fonctionner avant tout déplacement et à l'approche des zones
+dangereuses telles que croisement ou superpositions de ponts ou de portiques.
+
+Lorsqu'un appareil de levage n'est pas commandé du sol mais d'une cabine suspendue, un agent doit constamment assurer la
+liaison par signaux entre le conducteur et les personnes occupées au sol sur l'aire que la charge est susceptible de
+surplomber. Cet agent dirige l'amarrage, l'enlèvement, la translation, la dépose et le décrochage des charges. Il doit se
+trouver à un endroit d'où il puisse voir toute personne située dans le champ d'action de l'appareil ; en cas d'impossibilité,
+il est assisté par d'autres personnes.
+
+Des dispositions sont prises pour que le personnel respecte l'interdiction de monter sur les charges ou de se suspendre aux
+crochets et aux élingues.
+
+Lorsque la charge d'un appareil de levage croise un passage, des mesures spéciales et efficaces doivent être prises pour
+prévenir les dangers résultant de la chute éventuelle des charges.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R238-2-26
+
+Pour le transport ou l'élévation des personnes, il est interdit d'utiliser des appareils autres que ceux spécialement conçus
+à cet effet et répondant aux dispositions de l'article R. 238-2-27 ou bien ceux qui ont été aménagés conformément aux
+conditions fixées par l'article R. 238-2-28.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-2-27 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-2-28 (V)
+
+
+###### Article R238-2-27
+
+Les appareils élévateurs spécialement conçus pour le transport ou l'élévation des personnes doivent répondre aux dispositions
+suivantes : 
+
+1° La plate-forme utilisée pour le transport des personnes ou les travaux en élévation doit comporter soit un garde-corps de
+1,10 mètre de hauteur, une lisse intermédiaire et une plinthe de 15 centimètres de hauteur, soit un dispositif au moins
+équivalent ; 
+
+2° La stabilité de l'appareil doit être assurée quels que soient la position ou les déplacements de la plate-forme ; 
+
+3° La charge maximale que l'appareil peut normalement supporter ne doit pas être inférieure à 165 kg pour le transport d'une
+seule personne ; cette charge est majorée de 100 kg par personne supplémentaire ; 
+
+4° La consigne prévue à l'article R. 238-2-38 doit rappeler : 
+
+a) Le nombre maximal de personnes admises sur l'appareil ; 
+
+b) La charge maximale que peut normalement supporter l'appareil compte tenu du nombre de personnes ; 
+
+c) L'interdiction de déplacer l'ensemble de l'appareil lorsque des personnes se trouvent sur la plate-forme en position
+haute.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-142 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-168 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-2-26 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-2-38 (V)
+
+
+###### Article R238-2-28
+
+Les appareils de levage affectés au transport des marchandises, matériels ou matériaux peuvent exceptionnellement, après
+autorisation du directeur du travail, de l'emploi et de la formation professionnelle de Mayotte, être utilisés pour
+l'élévation des personnes ; si l'élévation est supérieure à 2 mètres, ils doivent être aménagés de manière à satisfaire aux
+dispositions suivantes : 
+
+1° La nacelle doit comporter soit un garde-corps de 1,30 mètre de hauteur, une lisse intermédiaire et une plinthe de 15
+centimètres de hauteur, soit un dispositif au moins équivalent ; 
+
+2° Des mesures doivent être prises pour éviter un balancement excessif de la nacelle ; 
+
+3° La charge maximale admise pour le transport des marchandises, matériels ou matériaux doit être réduite de 50 % pour les
+appareils fixes et de 60 % pour les appareils mobiles ; 
+
+4° La consigne prévue à l'article R. 238-2-38 doit rappeler : 
+
+a) Le nombre maximal de personnes admises sur l'appareil ; 
+
+b) La charge maximale réduite prévue pour le transport des personnes ; 
+
+c) L'interdiction d'accéder à la nacelle quand elle est en mouvement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Décret n°2014-1291 du 23 octobre 2014 - art. (V)
+	  - Code du travail applicable à Mayotte. - art. R235-45 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-2-26 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-2-34 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-2-38 (V)
+
+
+###### Article R238-2-29
+
+Si plusieurs appareils fonctionnent ou circulent dans des plans différents, les uns au-dessus des autres, une priorité de
+manoeuvre doit être instituée et toutes mesures convenables prises pour éviter le heurt des charges par les appareils
+circulant dans les plans inférieurs. Les mêmes dispositions s'appliquent également lorsque les voies de translation sont
+perpendiculaires. Dans l'un et l'autre cas, les signaux sonores ou lumineux doivent aviser les pontonniers et amarreurs du
+passage de l'appareil ayant la priorité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R238-2-30
+
+Il est interdit de balancer les charges pour les déposer en un point qui ne peut être atteint normalement par l'appareil de
+levage, sauf nécessité absolue.
+
+Dans ce dernier cas, on ne peut y procéder que sous la responsabilité d'un chef de manoeuvre, toutes précautions étant prises
+pour éviter les accidents.
+
+Dans le cas de tractions obliques, toutes dispositions sont prises pour éviter le balancement. En aucun cas il ne doit être
+exercé directement un effort sur les charges.
+
+Il est interdit d'utiliser les engins de levage à la traction de véhicules quelconques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+##### Sous-section 6 : Visites et entretien.
+
+###### Article R238-2-31
+
+En vue d'effectuer des opérations de vérification, de graissage et d'entretien, il doit être prévu des accès réservés aux
+personnes qui en ont la charge et leur permettant d'atteindre, sans qu'elles soient amenées à se livrer à des manoeuvres
+dangereuses, les différents points où elles sont appelées à intervenir.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-2-42 (V)
+
+
+###### Article R238-2-32
+
+Le graissage, le nettoyage, l'entretien et les réparations des appareils doivent être opérés à l'arrêt.
+
+Lorsque des travaux de construction, d'installation, de réparation ou d'entretien de quelque nature que ce soit sont
+effectués à proximité d'un appareil de levage, tout mouvement de cet appareil est interdit tant que des personnes se trouvent
+occupées dans la zone dangereuse.
+
+Toutefois, lorsqu'il est absolument nécessaire de mettre l'appareil en mouvement, hors de son service, en vue d'effectuer
+certains travaux spéciaux, ces travaux doivent être faits sous la direction d'un surveillant qualifié.
+
+L'intervention d'un surveillant qualifié est également obligatoire lors de travaux nécessitant l'accès au voisinage des
+conducteurs nus sous tension ou l'accès aux chemins de roulement sur lesquels tous les appareils ne sont pas mis à l'arrêt.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-2-3 (V)
+
+
+###### Article R238-2-33
+
+Avant leur mise en service, les appareils sont éprouvés dans des conditions fixées par un arrêté du ministre du travail et de
+la sécurité sociale. 
+
+Cet arrêté détermine, en outre, les circonstances dans lesquelles les appareils doivent être soumis à une nouvelle épreuve. 
+
+Conformément à l'article R. 238-2-2, les appareils doivent, dans toutes leurs parties, résister sans rupture, ni déformation
+permanente aux contraintes résultant de ces épreuves.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-2-2 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-2-35 (V)
+
+
+###### Article R238-2-34
+
+Indépendamment des épreuves mentionnées à l'article précédent, les appareils sont examinés à fond à douze mois d'intervalle
+au plus. 
+
+Les chaînes, câbles, cordages, élingues, palonniers et crochets de suspension sont inspectés à douze mois d'intervalle au
+plus. 
+
+En outre, les mêmes accessoires font l'objet d'une inspection préalable chaque fois qu'ils sont remis en service après un
+arrêt de quelque durée, sauf dans le cas où ils auraient été inspectés depuis moins de trois mois. 
+
+Ces inspections seront renouvelées chaque fois que les appareils auront subi des démontages ou des modifications intéressant
+lesdits organes. 
+
+Lorsque les appareils sont aménagés en vue de l'élévation des personnes, conformément aux dispositions de l'article R.
+238-2-28, les examens et inspections prévus au présent article sont effectués au moins tous les six mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-2-28 (V)
+
+
+###### Article R238-2-35
+
+Le chef d'établissement doit faire exécuter les épreuves, examens et inspections par des techniciens dûment qualifiés et
+spécialisés appartenant soit à l'établissement lui-même, soit à un organisme exerçant régulièrement cette activité
+particulière. 
+
+Toutefois, l'arrêté prévu par l'article R. 238-2-33 peut, sous certaines conditions, dispenser l'utilisateur d'effectuer les
+épreuves préalables à la mise en service des chariots automoteurs de manutention. 
+
+L'agent de contrôle de l'inspection du travail peut prescrire au chef d'établissement de faire procéder à l'épreuve, à
+l'examen ou à l'inspection de tout ou partie des appareils de levage par les soins d'un vérificateur ou organisme agréé
+choisi par le chef d'établissement sur une liste dressée par le ministre du travail et de la sécurité sociale. Un arrêté
+ministériel fixe les conditions et modalités de l'agrément de ces vérificateurs ou organismes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-2-33 (V)
+
+
+###### Article R238-2-36
+
+Les résultats des épreuves, examens et inspections prévus aux articles précédents, les dates de chacune de ces opérations
+ainsi que les noms, qualités et adresses des personnes qui les ont effectuées doivent être consignés, pour chaque appareil de
+levage, sur un registre ou carnet spécial sur lequel sera décrit, avec tous ces accessoires dûment repérés, l'appareil en
+question.
+
+Les résultats des épreuves, examens et inspections prescrits par l'agent de contrôle de l'inspection du travail devront lui
+être notifiés dans les quatre jours par le chef d'établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+##### Sous-section 7 : Dispositions diverses
+
+###### Article R238-2-37
+
+Il est interdit de préposer à la conduite des appareils de levage de toute nature des salariés que leurs connaissances
+imparfaites des consignes et des manoeuvres, leur état de santé, leurs aptitudes physiques visuelles ou auditives rendent
+impropres à remplir ces fonctions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R238-2-38
+
+Des consignes sont dressées par le chef d'établissement après consultation des délégués du personnel.
+
+Ces consignes devront préciser :
+
+1° Les mesures de sécurité à prendre à l'occasion du service normal de l'appareil, et notamment l'obligation d'interrompre
+l'alimentation en énergie lorsque le conducteur quitte son poste de travail ;
+
+2° Les précautions à prendre pour éviter les chutes d'objets, soit que ces objets soient transportés par l'appareil de
+levage, soit qu'ils soient heurtés par celui-ci ou par sa charge au cours de ses déplacements ;
+
+3° Les mesures de sécurité à imposer pour assurer la sauvegarde du personnel participant aux opérations de visite, de
+graissage, de nettoyage, d'entretien ou de réparation.
+
+Les consignes sont affichées dans les locaux ou emplacements où chacune d'elles s'applique et dans la cabine de manoeuvre des
+appareils de levage.
+
+Elles devront être portées à la connaissance du personnel et rappelées régulièrement sous la forme la plus appropriée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-2-27 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-2-28 (V)
+
+
+###### Article R238-2-39
+
+La charge maximum d'utilisation, c'est-à-dire le poids maximum qu'il est loisible de faire mouvoir par l'appareil de levage
+et cela, s'il y a lieu, dans les différents cas de son emploi, doit être inscrite bien visiblement sur l'appareil.
+
+Il en est de même pour les accessoires (chaînes, câbles, cordages, élingues, palonniers, crochets de suspension), la charge
+inscrite représentant la force de traction maximum qu'il est loisible de faire supporter par l'accessoire en question.
+
+Ces indications sont directement marquées en chiffres ou lettres bien lisibles, notamment sur les chaînes, câbles ou cordages
+eux-mêmes, à moins qu'elles ne figurent en permanence sur une plaque ou un anneau solidement fixé à l'objet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R238-2-40
+
+Le directeur du travail, de l'emploi et de la formation professionnelle peut, lorsque des circonstances particulières le
+justifient, dispenser un chef d'établissement ou un travailleur indépendant de certaines des obligations imposées par la
+présente section par décision prise sur le rapport de l'agent de contrôle de l'inspection du travail.
+
+Ces décisions, prises après avis de la commission consultative du travail, fixent les mesures compensatrices de sécurité
+auxquelles les dérogations sont subordonnées ainsi que la durée pour laquelle elles sont accordées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R238-2-41
+
+Lorsque des normes homologuées relatives aux appareils de levage ou à leurs accessoires intéressent la sécurité du travail,
+le ministre chargé du travail peut prendre des arrêtés obligeant les chefs d'établissement et les travailleurs indépendants
+soumis à la présente section à ne mettre en service, pour ce qui concerne le matériel neuf, que des appareils ou des
+accessoires conformes aux normes correspondantes énumérées par ces arrêtés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R238-2-42
+
+Les prescriptions de la présente section pour l'application desquelles est prévue la procédure de la mise en demeure, en
+application des articles L. 230-10 et L. 230-11, et le délai minimum prévu à l'article L. 230-12 pour l'exécution des mises
+en demeure sont fixés conformément au tableau ci-après :
+
+<table>
+  <tbody><tr>
+    <td> :---------------------------------------------:</td>
+  </tr>
+  <tr>
+    <td> :     PRESCRIPTIONS      :    DELAI MAXIMUM   :</td>
+  </tr>
+  <tr>
+    <td> :   pour lesquelles est  :   d'exécution des  :</td>
+  </tr>
+  <tr>
+    <td> :   prévue la mise en    :   mises en demeure :</td>
+  </tr>
+  <tr>
+    <td> :   demeure              :                    :</td>
+  </tr>
+  <tr>
+    <td> :------------------------:--------------------:</td>
+  </tr>
+  <tr>
+    <td> :  Article R. 238-2-5    :      15 jours      :</td>
+  </tr>
+  <tr>
+    <td> :  Article R. 238-2-7,   :                    :</td>
+  </tr>
+  <tr>
+    <td> :  alinéas 2 et 3        :      15 jours      :</td>
+  </tr>
+  <tr>
+    <td> :  Article R. 238-2-8,   :                    :</td>
+  </tr>
+  <tr>
+    <td> :  alinéas 2 et 3        :      15 jours      :</td>
+  </tr>
+  <tr>
+    <td> :  Article R. 238-2-10   :       1 mois       :</td>
+  </tr>
+  <tr>
+    <td> :  Article R. 238-2-12,  :                    :</td>
+  </tr>
+  <tr>
+    <td> :  alinéa 1              :      15 jours      :</td>
+  </tr>
+  <tr>
+    <td> :  Article R. 238-2-16,  :                    :</td>
+  </tr>
+  <tr>
+    <td> :  alinéa 2              :       4 jours      :</td>
+  </tr>
+  <tr>
+    <td> :  Article R. 238-2-17,  :                    :</td>
+  </tr>
+  <tr>
+    <td> :  alinéa 3              :       8 jours      :</td>
+  </tr>
+  <tr>
+    <td> :  Article R. 238-2-18,  :                    :</td>
+  </tr>
+  <tr>
+    <td> :  alinéa 2              :       8 jours      :</td>
+  </tr>
+  <tr>
+    <td> :  Article R. 238-2-20,  :                    :</td>
+  </tr>
+  <tr>
+    <td> :  alinéa 2              :       1 mois       :</td>
+  </tr>
+  <tr>
+    <td> :  Article R. 238-2-22,  :                    :</td>
+  </tr>
+  <tr>
+    <td> :  alinéas 1 et 2        :       1 mois       :</td>
+  </tr>
+  <tr>
+    <td> :  Article R. 238-2-23   :       8 jours      :</td>
+  </tr>
+  <tr>
+    <td> :  Article R. 238-2-31   :      15 jours      :</td>
+  </tr>
+  <tr>
+    <td> :------------------------:--------------------:</td>
+  </tr>
+</tbody></table>
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L230-10 (M)
+	  - Code du travail applicable à Mayotte. - art. L230-11 (M)
+	  - Code du travail applicable à Mayotte. - art. L230-12 (M)
+	  - Code du travail applicable à Mayotte. - art. R238-2-10 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-2-12 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-2-16 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-2-17 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-2-18 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-2-20 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-2-22 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-2-23 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-2-31 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-2-5 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-2-7 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-2-8 (V)
+
+
+##### Section 3 : Mesures particulières relatives à la protection des salariés qui exécutent des travaux de peinture et de pulvérisation.
+
+###### Article R238-3-1
+
+Les employeurs, chefs d'établissements, gérants ou préposés énumérés à l'article L. 230-1 et L. 251-1 dont le personnel
+procède, même à titre occasionnel, à l'application par pulvérisation de peintures ou de vernis renfermant des mélanges
+toxiques ou inflammables sont soumis, indépendamment des mesures générales prescrites par le présent code, aux mesures
+particulières de protection déterminées par la présente section.
+
+Doit être considéré comme mélange toxique tout mélange qui renferme un ou plusieurs produits visés par les tableaux des
+maladies professionnelles prévus par le régime de réparation et de prévention des accidents du travail et des maladies
+professionnelles à Mayotte.
+
+Doit être considéré comme mélange inflammable tout mélange qui émet à des températures inférieures à 55° des vapeurs
+susceptibles de prendre feu au contact d'une flamme.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L230-1 (M)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-3-14 (V)
+
+
+##### Sous-section 1 : Prévention des intoxications.
+
+###### Article R238-3-2
+
+L'application de peintures ou de vernis par pulvérisation sur des objets de petites ou de moyennes dimensions, s'effectue à
+l'intérieur d'une cage ou, à défaut, d'une hotte.
+
+Le salarié opère obligatoirement de l'extérieur de celles-ci.
+
+L'atmosphère de la cage ou de la hotte est constamment renouvelée au moyen d'une aspiration mécanique efficace.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-3-20 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-3-3 (V)
+
+
+###### Article R238-3-3
+
+Si, pour des raisons d'ordre technique, les dispositions de l'article R. 238-3-2 ne peuvent être observées, l'application des
+peintures ou vernis par pulvérisation est pratiquée dans une cabine. 
+
+La cabine à pulvérisation est de dimensions telles que le salarié puisse se déplacer librement autour de l'objet à peindre ou
+à vernir. 
+
+Les parois, le sol et le plafond sont lisses et construits en matériaux imperméables. 
+
+Les angles intérieurs de la cabine sont arrondis. 
+
+La cabine est pourvue d'un système d'aération suffisamment puissant pour permettre l'évacuation des buées et des vapeurs au
+fur et à mesure de leur production, ainsi que le renouvellement de l'air.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-3-2 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-3-20 (V)
+
+
+###### Article R238-3-4
+
+Dans les cas tels que ceux des chantiers du bâtiment ou des travaux publics, de la construction ou de la réparation de
+navires, où il serait impossible d'installer des dispositifs de captation des buées ou vapeurs, des masques ou appareils
+respiratoires efficaces doivent être mis à la disposition des salariés effectuant des travaux de peinture ou vernissage par
+pulvérisation.
+
+Les masques ou appareils respiratoires sont nettoyés chaque jour et maintenus en bon état de fonctionnement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R238-3-5
+
+Les chefs d'entreprises doivent fournir à chaque salarié une combinaison avec serrage au cou, aux poignets et aux chevilles
+ainsi qu'une coiffure protégeant hermétiquement les cheveux.
+
+Ils assurent le bon entretien et le lavage fréquent de ces effets.
+
+La fourniture des vêtements de travail n'est pas obligatoire dans le cas des salariés qui travaillent exclusivement à
+l'intérieur d'une cage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R238-3-6
+
+Le chef d'entreprise est tenu de désigner un médecin qui procède aux examens prévus à l'article R. 238-2-7.
+
+La rémunération de ce médecin est à la charge de l'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-2-7 (V)
+
+
+###### Article R238-3-7
+
+Aucun salarié ne doit être admis à pratiquer la peinture ou le vernissage par pulvérisation sans une attestation du médecin
+estimant qu'il est apte à accomplir ce travail.
+
+Aucun salarié ne doit être maintenu à ce travail si cette attestation n'est pas renouvelée un mois après l'embauchage et
+ensuite une fois tous les six mois au moins.
+
+En dehors des visites périodiques, le chef d'entreprise est tenu de faire examiner par le médecin tout salarié qui se déclare
+indisposé par le travail auquel il est occupé, ainsi que tout salarié s'étant absenté plus d'une semaine pour cause de
+maladie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-3-8 (V)
+
+
+###### Article R238-3-8
+
+Un registre spécial ; mis constamment à jour et tenu à la disposition de l'agent de contrôle de l'inspection du travail,
+mentionne pour chaque salarié : 
+
+1° Les dates et durées d'absence pour cause de maladie quelconque ; 
+
+2° Les dates des certificats présentés pour justifier ces absences et le nom du médecin qui les a délivrés ; 
+
+3° Les attestations formulées par le médecin de l'établissement par application de l'article R. 238-3-7. 
+
+Ce registre est également tenu à la disposition du médecin-inspecteur du travail et des délégués du personnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-3-7 (V)
+
+
+##### Sous-section 2 : Prévention des incendies.
+
+###### Article R238-3-9
+
+Les cabines, cages, étuves dans lesquelles s'effectuent l'application ou le séchage des peintures et vernis ainsi que les
+canalisations d'évacuation des vapeurs ou fumées doivent être construites en matériaux résistant au feu et à parois lisses et
+imperméables.
+
+L'atelier ne doit commander aucune issue des locaux voisins.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-3-20 (V)
+
+
+###### Article R238-3-10
+
+Toutes dispositions doivent être prises afin d'éviter une élévation exagérée de la température au sein des ateliers. En tant
+que de besoin, un dispositif de ventilation mécanique ou électrique doit être installé.
+
+Les éléments de ventilation sont disposés de telle façon qu'aucun objet ne puisse y être posé et qu'aucun dépôt de matières
+inflammables ne puisse s'y accumuler.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-3-20 (V)
+
+
+###### Article R238-3-11
+
+Les objets métalliques à peindre ou à vernir, les parties métalliques des cabines, cages, étuves et systèmes d'aspiration
+sont mis électriquement à la terre.
+
+L'appareil d'application des peintures ou vernis par pulvérisation est également mis électriquement à la terre par un fil
+métallique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-3-20 (V)
+
+
+###### Article R238-3-12
+
+Un interrupteur permettant l'arrêt du fonctionnement des systèmes d'aspiration et des ventilateurs est installé à l'extérieur
+de l'atelier et dans un endroit facilement accessible.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-3-20 (V)
+
+
+###### Article R238-3-13
+
+Les systèmes d'aspiration doivent être nettoyés au moins une fois par semaine.
+
+Pour faciliter le nettoyage, des portes ou trappes de visite sont disposées sur les gaines d'aspiration.
+
+L'emploi de lampes à souder ou d'appareils à flamme pour ces opérations de nettoyage est interdit.
+
+Les résidus de nettoyage sont immédiatement placés dans des récipients métalliques et étanches, et évacués de l'atelier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R238-3-14
+
+Il est interdit d'utiliser pour le nettoyage des ateliers, cabines, cages ou étuves des liquides inflammables tels qu'ils
+sont définis à l'article R. 238-3-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-3-1 (V)
+
+
+###### Article R238-3-15
+
+Les objets peints ou vernis doivent être séchés dans des conditions excluant tous risques d'inflammation ou d'explosion.
+
+Les vapeurs provenant de cette opération doivent être évacuées, condensées ou détruites.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-3-20 (V)
+
+
+###### Article R238-3-16
+
+Il ne doit être entreposé dans l'atelier que la quantité de produits nécessaires au travail de la journée et dans les cabines
+à pulvérisation que celle nécessaire au travail en cours.
+
+Ces produits sont conservés dans des récipients métalliques clos.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R238-3-17
+
+L'application de peintures ou vernis à base d'huiles siccatives est interdite dans les cabines ou cages où il est fait usage
+de peintures ou vernis nitrocellulosiques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R238-3-18
+
+Si l'application de peintures ou de vernis est pratiquée sur des véhicules automobiles, ceux-ci ne doivent pas contenir
+d'essence dans leur réservoir.
+
+Les batteries d'accumulateurs doivent être enlevées ; le châssis doit être mis électriquement à la terre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+##### Sous-section 3 : Dispositions finales.
+
+###### Article R238-3-19
+
+Le représentant de l'Etat à Mayotte peut, sur proposition de l'agent de contrôle de l'inspection du travail, par arrêté pris
+après avis de la commission consultative du travail, autoriser l'emploi de dispositifs de protection offrant des garanties au
+moins équivalentes à celles qui sont prévues par la présente section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Décret n°2014-1291 du 23 octobre 2014 - art. (V)
+
+
+###### Article R238-3-20
+
+Les prescriptions de la présente section pour l'application desquelles est prévue la procédure de la mise en demeure en
+application des articles L. 230-10 et L. 230-11 et le délai minimum prévu à l'article L. 230-12 pour l'exécution des mises en
+demeure sont fixés conformément au tableau ci-après :
+
+<table>
+  <tbody><tr>
+    <td> :------------------------------------------:</td>
+  </tr>
+  <tr>
+    <td> :      PRESCRIPTIONS     :  DELAI MINIMUM  :</td>
+  </tr>
+  <tr>
+    <td> :   pour lesquelles est  : d'exécution des :</td>
+  </tr>
+  <tr>
+    <td> :   prévue la mise en    : mises en demeure:</td>
+  </tr>
+  <tr>
+    <td> :   demeure              :                 :</td>
+  </tr>
+  <tr>
+    <td> :------------------------:-----------------:</td>
+  </tr>
+  <tr>
+    <td> :  Article R. 238-3-2    :                 :</td>
+  </tr>
+  <tr>
+    <td> :  alinéa 1              :      1 mois     :</td>
+  </tr>
+  <tr>
+    <td> :  Article R. 238-3-3,   :                 :</td>
+  </tr>
+  <tr>
+    <td> :  alinéas 2, 3, 4       :      1 mois     :</td>
+  </tr>
+  <tr>
+    <td> :  Article R. 238-3-9    :      1 mois     :</td>
+  </tr>
+  <tr>
+    <td> :  Article R. 238-3-10,  :                 :</td>
+  </tr>
+  <tr>
+    <td> :  alinéa 3              :     8 jours     :</td>
+  </tr>
+  <tr>
+    <td> :  Article R. 238-3-11   :     8 jours     :</td>
+  </tr>
+  <tr>
+    <td> :  Article R. 238-3-12   :     8 jours     :</td>
+  </tr>
+  <tr>
+    <td> :  Article R. 238-3-15,  :                 :</td>
+  </tr>
+  <tr>
+    <td> :  alinéa 2              :      1 mois     :</td>
+  </tr>
+  <tr>
+    <td> :------------------------:-----------------:</td>
+  </tr>
+</tbody></table>
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L230-10 (M)
+	  - Code du travail applicable à Mayotte. - art. L230-11 (M)
+	  - Code du travail applicable à Mayotte. - art. L230-12 (M)
+	  - Code du travail applicable à Mayotte. - art. R238-3-10 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-3-11 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-3-12 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-3-15 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-3-2 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-3-3 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-3-9 (V)
+
+
 ##### Section 4 : Mesures particulières de protection applicables aux établissements dans lesquels sont entreposés ou manipulés certains liquides particulièrement inflammables.
 
 ###### Article R238-4-1
@@ -22403,6 +27570,911 @@ en demeure comporte la création d'installations nouvelles et non pas seulement 
 	  - Code du travail applicable à Mayotte. - art. L230-11 (M)
 	  - Code du travail applicable à Mayotte. - art. L230-12 (M)
 	  - Code du travail applicable à Mayotte. - art. R238-5-6 (V)
+
+
+##### Section 6 : Mesures particulières relatives à la protection des salariés intervenant en milieu hyperbare
+
+##### Sous-section 1 : Champ d'application, définitions.
+
+###### Article R238-6-1
+
+Les dispositions de la présente section sont applicables dans les établissements, sur les chantiers soumis aux dispositions
+de l'article L. 230-1 dans lesquels des salariés sont appelés à intervenir à une pression supérieure à la pression
+atmosphérique locale.
+
+Toutefois, pour les activités pour lesquelles la pression relative d'intervention demeure en permanence inférieure à 100
+hectopascals (0, 1 bar), seules les dispositions de la sous-section 2 et des articles R. 238-6-2, R. 238-6-39, R. 238-6-40 et
+R. 238-6-41 sont applicables.
+
+Sans préjudice du deuxième alinéa ci-dessus, les dispositions des articles R. 238-6-2 à R. 238-6-12 s'appliquent aux
+travailleurs indépendants et aux employeurs tels qu'ils sont mentionnés à l'article L. 230-1-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte L230-1, R238-6-2, R238-6-39, R238-6-40, R238-6-41, R238-6-2 à R238-6-12, L230-1-1
+	  - Code du travail applicable à Mayotte. - art. L230-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L230-1-1 (M)
+	  - Code du travail applicable à Mayotte. - art. R238-6-2 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-6-39 (V)
+
+
+###### Article R238-6-2
+
+La pression d'intervention est la pression absolue au niveau des voies respiratoires du salarié au moment où elle atteint sa
+valeur maximale pendant la durée de travail.
+
+La pression relative d'intervention est la pression d'intervention diminuée de la pression atmosphérique locale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-6-1 (V)
+
+
+##### Sous-section 2 : Conditions d'accès en milieu hyperbare.
+
+###### Article R238-6-3
+
+I. - Les travaux en milieu hyperbare ne peuvent être effectués que par des salariés titulaires d'un certificat d'aptitude à
+l'hyperbarie approprié à la nature des opérations et détenteurs d'un livret individuel.
+
+II. - Ce certificat d'aptitude indique l'une des classes ou sous-classes de travaux hyperbares auxquelles le salarié a accès
+et mentionne l'activité qu'il est habilité à pratiquer en hyperbarie.
+
+Les trois classes, définies en fonction de la pression de l'intervention, sont les suivantes :
+
+- classe I pour une pression relative maximale n'excédant pas 4 000 hectopascals (4 bars) ;
+
+- classe II pour une pression relative maximale n'excédant pas 6 000 hectopascals (6 bars) ;
+
+- classe III pour une pression relative maximale supérieure à 6 000 hectopascals (6 bars).
+
+La classe I comprend deux sous-classes :
+
+- classe I A pour une pression relative maximale n'excédant pas 1 200 hectopascals (1,2 bar) ;
+
+- classe I B pour une pression relative maximale supérieure à 1 200 hectopascals (1,2 bar).
+
+Un arrêté du ministre chargé du travail fixe la liste des mentions d'activité ainsi que les modalités d'obtention du
+certificat d'aptitude à l'hyperbarie et les conditions dans lesquelles est assurée la formation correspondant à chacune de
+ces mentions.
+
+III. - Le livret individuel prévu au I ci-dessus est remis à tout salarié titulaire du certificat d'aptitude à l'issue de sa
+formation initiale. Ce livret dont les caractéristiques et les modalités de présentation sont définies par arrêté du ministre
+chargé du travail doit comporter, outre l'indication de la classification et de la mention acquise par le salarié, la date
+d'établissement de la dernière fiche d'aptitude médicale et l'avis d'aptitude qui en résulte, visés par le médecin du
+travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-6-34 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-6-37 (V)
+
+
+###### Article R238-6-4
+
+Ne peuvent postuler au certificat d'aptitude à l'hyperbarie que les personnes âgées de dix-huit ans au moins et de quarante
+ans au plus. Un arrêté du ministre chargé du travail fixe les conditions d'éventuelles dérogations pour certaines activités
+hyperbares.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+##### Sous-section 3 : Gaz respiratoires.
+
+###### Article R238-6-5
+
+Pour l'exécution des travaux en atmosphère hyperbare dans les établissements et chantiers visés à l'article L. 230-1, la
+respiration d'air comprimé est autorisée, conformément aux prescriptions des articles R. 238-6-7 et R. 238-6-10 ci-dessous,
+jusqu'à la pression relative de 6 000 hectopascals (6 bars).
+
+Au-delà de 6 000 hectopascals (6 bars), des mélanges respiratoires spécifiques doivent être employés dans les conditions
+fixées à la présente sous-section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L230-1 (M)
+	  - Code du travail applicable à Mayotte. - art. R238-6-10 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-6-7 (V)
+
+
+###### Article R238-6-6
+
+L'air ou les mélanges respirés au cours de l'intervention doivent présenter : 
+
+a) S'agissant du gaz carbonique, une pression partielle inférieure à 10 hectopascals (10 millibars) ; 
+
+b) S'agissant de l'oxyde de carbone, une pression partielle inférieure à 5 pascals (0,05 millibar) ; 
+
+c) S'agissant de la vapeur d'eau, pour les expositions d'une durée supérieure à 24 heures, un degré hygrométrique compris
+entre 60 % et 80 % ; 
+
+d) S'agissant des vapeurs d'huile, une pression partielle exprimée en équivalent méthane inférieure à 0,5 hectopascal (0,5
+millibar) et une concentration inférieure à 0,5 mg/ m3 ; 
+
+e) S'agissant des poussières, une concentration maximale inférieure aux limites fixées à l'article R. 232-32 ; 
+
+f) S'agissant des vapeurs et des gaz dangereux, notamment des solvants et produits de nettoyage, des pressions partielles
+inférieures à celles correspondant à la pression atmosphérique, aux valeurs limites d'expositions. 
+
+La masse volumique d'un mélange respiratoire ne doit pas excéder 9 grammes par litre à la pression d'utilisation sauf
+dérogation accordée, notamment pour des motifs de recherche scientifique, par arrêté du ministre intéressé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-32 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-6-10 (V)
+
+
+###### Article R238-6-7
+
+La pression partielle d'azote dans un mélange respiré doit être inférieure à 5 600 hectopascals (5,6 bars).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-6-10 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-6-11 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-6-5 (V)
+
+
+###### Article R238-6-8
+
+I. - La respiration d'oxygène pur sous pression avec un appareil respiratoire individuel est réservée aux périodes de
+décompression conformément à des tables définies par arrêté du ministre chargé du travail ou aux périodes de traitement des
+accidents liés à l'hyperbarie.
+
+II. - La pression partielle d'oxygène d'un mélange respiré ne doit pas être inférieure à 160 hectopascals (160 millibars).
+
+III. - La pression partielle d'oxygène d'un mélange respiré ne doit pas dépasser les valeurs suivantes :
+
+a) En période d'activités physiques, en dehors des phases de compression et de décompression et pour des durées continues
+d'exposition n'excédant pas respectivement 3, 4, 5, 6 et 8 heures :
+
+1 600 hectopascals (1,6 bar), 1 400 hectopascals (1,4 bar), 1 200 hectopascals (1,2 bar), 1 000 hectopascals (1 bar) et 900
+hectopascals (0,9 bar) ;
+
+b) Lors de la phase de décompression en immersion, 1 600 hectopascals (1,6 bar) ;
+
+c) Lors de la phase de décompression au sec, 2 200 hectopascals (2,2 bars) pour une décompression d'une durée inférieure à 24
+heures et 800 hectopascals (0,8 bar) pour une décompression d'une durée supérieure à 24 heures ;
+
+d) Lors des phases de compression ou de repos à saturation, entre 300 hectopascals (0,3 bar) et 450 hectopascals (0,45 bar) ;
+
+e) Lors d'une recompression d'urgence après un accident de décompression, 2 800 hectopascals (2,8 bars), sauf prescription
+médicale.
+
+La pression partielle d'oxygène doit être évaluée avec une précision de 50 hectopascals (50 millibars).
+
+La pression partielle de l'oxygène dans une enceinte hyperbare de travail ne doit jamais être supérieure à 25 % de la
+pression totale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-6-12 (V)
+
+
+###### Article R238-6-9
+
+Les conditions d'emploi et la concentration dans un gaz respiratoire des gaz diluant l'oxygène peuvent être fixées par un
+arrêté du ministre chargé du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R238-6-10
+
+L'air et les mélanges respiratoires préparés dans l'établissement ou sur le chantier fournis par des compresseurs et destinés
+à la respiration hyperbare doivent être analysés après tout montage d'une installation nouvelle, puis au moins une fois par
+an, ainsi qu'après constatation d'une anomalie ou après toute réparation de l'installation. 
+
+Ces analyses devront permettre de vérifier la conformité avec les dispositions de l'article R. 238-6-6 ci-dessus. 
+
+L'aspiration des compresseurs doit se faire dans un endroit ne présentant pas de risque de pollution, notamment par des gaz
+d'échappement de moteur, des brouillards de vapeurs d'huile ou d'hydrocarbures, du gaz carbonique ou de l'oxyde de carbone. 
+
+En outre, pour les mélanges respiratoires préparés dans l'établissement, l'employeur doit vérifier la conformité de ceux-ci
+avec les dispositions des articles R. 238-6-7, R. 238-6-8 et R. 236-6-9.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-6-5 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-6-6 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-6-7 (V)
+
+
+###### Article R238-6-11
+
+Les mélanges destinés à la respiration hyperbare préparés hors de l'établissement ou du chantier ne peuvent être mis sur le
+marché qu'accompagnés d'une fiche d'analyse et de garantie qui permette à l'employeur de vérifier la conformité avec les
+dispositions des articles R. 238-6-7, R. 238-6-8 et R. 236-6-9 ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-6-7 (V)
+
+
+###### Article R238-6-12
+
+Adaptation des mélanges respiratoires aux activités hyperbares. 
+
+Les mélanges respiratoires doivent être adaptés, en composition et en température, à la pression de travail et des phases de
+compression, de décompression, de secours et de traitement éventuel. 
+
+La conformité de la teneur en oxygène des mélanges avec les dispositions de l'article R. 238-6-8 doit en outre être vérifiée
+par analyse avant utilisation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-6-8 (V)
+
+
+##### Sous-section 4 : Equipement collectif.
+
+###### Article R238-6-13
+
+Outre l'outillage spécifique adapté à la situation hyperbare et nécessaire aux travaux entrepris, l'équipement collectif
+comprend :
+
+a) Les moyens d'accès, de séjour et de sortie de la situation d'hyperbarie ;
+
+b) Les moyens de surveillance des salariés en situation d'hyperbarie ;
+
+c) Les moyens de production, de transfert, de stockage, de distribution et de contrôle des gaz respiratoires ;
+
+d) Les moyens de secours (réanimation, incendie, recompression).
+
+Un arrêté du ministre chargé du travail peut préciser les spécifications techniques auxquelles, pour certaines situations
+hyperbares, devront satisfaire ces équipements.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R238-6-14
+
+Un moyen d'accès adapté à la situation hyperbare, ou à l'immersion, doit être disponible pour permettre aux salariés d'être
+pressurisés conformément aux procédures décrites dans le manuel de procédures et de sécurité hyperbares prévu à l'article R.
+238-6-29 et à une personne au moins de porter secours au personnel sous pression. 
+
+Un moyen de sortie de la situation hyperbare doit être en permanence disponible ; il doit permettre de décomprimer et, s'il y
+a lieu, de sortir de l'eau, les salariés éventuellement blessés ou inconscients, ainsi que les personnes qui leur ont porté
+secours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-6-29 (V)
+
+
+###### Article R238-6-15
+
+Tout salarié intervenant sous pression doit être surveillé à partir d'un poste de contrôle situé en un lieu soumis à la
+pression atmosphérique locale, regroupant les moyens de communication, d'alerte et de secours et les informations nécessaires
+sur la pression au niveau du lieu du travail, la nature des gaz respirés et les volumes des stocks de gaz disponibles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-6-31 (V)
+
+
+###### Article R238-6-16
+
+I. - L'utilisation de disques de rupture pour la protection des enceintes pressurisées habitables est interdite. Cette
+protection doit être assurée au moyen d'une soupape de sécurité tarée.
+
+En outre, une vanne à fermeture rapide, placée entre la soupape tarée et l'enceinte concernée, facilement accessible,
+maintenue ouverte et scellée par un fil plombé, doit être utilisée pour isoler cette soupape.
+
+II. - Les dates d'épreuve hydraulique doivent être portées de façon apparente ; les codes de couleur normalisés doivent être
+utilisés pour les récipients de stockage ou les canalisations.
+
+III. - La couleur des marques portées sur les récipients de stockage et les canalisations ainsi que les marques de conformité
+des raccords utilisés pour les circuits de distribution de gaz sont définies par arrêté du ministre chargé du travail.
+
+IV. - Les locaux dans lesquels sont entreposés les gaz sous pression doivent répondre aux spécifications de protection contre
+l'incendie fixées à la section 3 du chapitre III du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R238-6-17
+
+L'usage des caissons monoplaces sans sas à personnel est interdit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R238-6-18
+
+Des arrêtés du ministre chargé du travail peuvent fixer, selon leur usage ou leur destination, les prescriptions
+d'utilisation applicables aux enceintes pressurisées habitées, notamment aux caissons de recompression, aux caissons de
+saturation, aux chambres d'oxygénothérapie hyperbare, aux tourelles de plongées, aux sas à personnel des tunneliers et aux
+caissons immergés de travaux en air comprimé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R238-6-19
+
+Les détendeurs destinés à ramener la pression du gaz d'un réservoir à la pression d'utilisation convenable doivent être
+maintenus en bon état de fonctionnement et faire l'objet d'un contrôle au moins une fois par an.
+
+Lorsque la défaillance d'un détendeur peut entraîner la mise en dépression du personnel, le circuit de gaz correspondant doit
+être protégé par un clapet antiretour.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R238-6-20
+
+Pour pallier toute défaillance de l'alimentation d'un appareil respiratoire ou d'une enceinte pressurisée habitée, une source
+de gaz de secours ou un compresseur avec un réservoir tampon doit être immédiatement disponible.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R238-6-21
+
+Les tuyaux flexibles d'alimentation des appareils respiratoires ne peuvent être utilisés qu'à des pressions inférieures à la
+moitié de leur pression de service inscrite sur les tuyaux. La pression des tuyaux d'utilisation flexible doit être égale à
+la pression de service des autres éléments de l'installation.
+
+Les raccords utilisés sur ces tuyaux flexibles ne doivent pas pouvoir se désaccoupler lorsqu'ils sont en pression.
+
+L'ensemble des éléments de raccordement des tuyaux flexibles doit posséder une résistance à la traction au moins égale à
+celle des tuyaux flexibles eux-mêmes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R238-6-22
+
+Les compresseurs et appareils de transfert de gaz doivent être lubrifiés avec des produits ne dégageant pas de vapeurs
+dangereuses au sens des articles L. 230-4 et L. 230-5.
+
+Un moyen de vérification doit permettre de décider du changement ou du nettoyage du dispositif d'épuration lorsqu'il est
+saturé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L230-4 (M)
+	  - Code du travail applicable à Mayotte. - art. L230-5 (M)
+
+
+###### Article R238-6-23
+
+Des moyens de premiers secours en nombre suffisant, comprenant au moins un inhalateur d'oxygène et une trousse d'urgence,
+doivent être disponibles sur le site.
+
+L'employeur doit en outre s'assurer qu'il existe un caisson de recompression disponible en cas d'accident, correspondant au
+nombre de personnes intervenant simultanément sous pression, ainsi que le personnel qualifié pour le mettre en oeuvre.
+
+Le délai d'accès à ce caisson ne peut en aucun cas excéder deux heures ; des arrêtés du ministre chargé du travail peuvent
+prévoir des délais inférieurs selon la nature de l'exposition au risque hyperbare.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-6-31 (V)
+
+
+###### Article R238-6-24
+
+Toutes dispositions de prévention contre l'incendie doivent être prises à l'intérieur et à l'extérieur des enceintes.
+
+Les moyens d'extinction intérieurs aux enceintes habitées doivent être efficaces en atmosphère pressurisée.
+
+Les moyens d'extinction extérieurs aux enceintes pressurisées doivent tenir compte de la situation particulière des salariés
+sous pression, de la présence de gaz comprimé et éventuellement de la présence d'oxygène.
+
+Des moyens de survie en atmosphère enfumée doivent être disponibles pour les salariés de conduite des enceintes habitées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+##### Sous-section 5 : Equipement individuel.
+
+###### Article R238-6-25
+
+L'employeur doit fournir les vêtements de protection adaptés à la situation hyperbare concernée, les appareils respiratoires,
+les appareils respiratoires de secours et les accessoires appropriés aux méthodes d'intervention et de secours et, le cas
+échéant, un dispositif de réserve de gaz de secours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R238-6-26
+
+Les appareils respiratoires doivent fournir automatiquement l'air ou le mélange respiratoire, sans résistance excessive, à
+une pression qui correspond à celle du niveau où se trouve l'intervenant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R238-6-27
+
+Des arrêtés du ministre chargé du travail peuvent spécifier, en fonction des différentes situations hyperbares, les
+caractéristiques minimales auxquelles devront répondre ces appareils.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+##### Sous-section 6 : Procédures de sécurité.
+
+###### Article R238-6-28
+
+I. - L'employeur doit établir et mettre à disposition de tout salarié impliqué dans une opération de travaux hyperbares un
+manuel de procédures de sécurité en milieu hyperbare.
+
+II. - Ce manuel doit définir les règles générales propres à l'établissement :
+
+a) Les fonctions et les rôles respectifs des différentes personnes intervenant lors des opérations, en particulier ceux du
+chef d'opération prévu à l'article R. 238-6-30 ci-dessous, du surveillant, du personnel placé en milieu hyperbare pressurisé
+et du personnel de secours ;
+
+b) Les équipements requis selon les méthodes d'intervention employées par l'entreprise et les vérifications devant être
+effectuées avant leur mise en oeuvre ;
+
+c) Les procédures retenues par l'employeur pour les diverses méthodes d'intervention notamment en ce qui concerne le choix
+des gaz, les tables de compression et de décompression, les procédures opérationnelles et de secours, la conduite à tenir
+devant les accidents liés à l'hyperbarie ;
+
+d) Les règles de sécurité à observer au cours des différents types d'opérations ;
+
+e) Les limitations de déplacements à bord d'aéronefs après les interventions hyperbares ;
+
+f) Les éléments définissant un site et qui doivent être pris en compte lors du déroulement des opérations propres à chaque
+chantier et notamment la connaissance des lieux, la météorologie, les interférences avec d'autres opérations, la pression
+d'intervention, les moyens de secours extérieurs disponibles, les procédures d'alerte.
+
+III. - Le manuel de sécurité hyperbare et ses modifications successives sont soumis à l'avis préalable du médecin du travail
+et à celui des délégués du personnel.
+
+Il est en outre tenu à la disposition de l'agent de contrôle de l'inspection du travail, qui peut mettre en demeure
+l'employeur de faire procéder à d'éventuelles modifications.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-6-30 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-6-34 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-6-37 (V)
+
+
+###### Article R238-6-29
+
+L'employeur doit mettre à la disposition de tout salarié impliqué dans une opération hyperbare un document de chantier
+définissant les modalités, les procédures normales et de secours de ladite opération.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-6-14 (V)
+
+
+###### Article R238-6-30
+
+Toute intervention en milieu hyperbare doit être dirigée par un chef d'opération désigné par l'employeur et apte à la
+conduite des opérations en milieu hyperbare.
+
+L'employeur doit remettre un exemplaire du manuel de procédures et de sécurité hyperbares au chef d'opération.
+
+Le chef d'opération, conformément à ce manuel, prend sur le site et sous la responsabilité de l'employeur toute mesure propre
+à assurer la sécurité des salariés intervenant sous pression.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-6-28 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-6-31 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-6-32 (V)
+
+
+###### Article R238-6-31
+
+Tout salarié intervenant sous pression doit être surveillé en permanence, jusqu'à son retour à la pression atmosphérique, par
+une personne compétente, présente au poste de contrôle défini à l'article R. 238-6-15 ci-dessus ; cette personne peut être,
+si la nature de l'intervention le permet, le chef d'opération visé à l'article R. 238-6-30 ci-dessus. 
+
+Par ailleurs, au moins une personne titulaire du certificat d'aptitude à l'hyperbarie doit être susceptible d'intervenir à
+tout moment en milieu hyperbare pour porter secours aux salariés sous pression ; un arrêté du ministre chargé du travail peut
+toutefois définir les conditions dans lesquelles il peut être dérogé à tout ou partie de cette prescription et fixe, dans ces
+circonstances, les mesures d'effet équivalent propres à garantir la sécurité des salariés sous pression. 
+
+En tout état de cause, l'employeur est tenu d'informer sans délai l'agent de contrôle de l'inspection du travail des
+dérogations qu'il aura été amené à envisager en vertu du présent article ; il devra en outre faire connaître par écrit aux
+salariés concernés la nature des prescriptions d'effet équivalent propres à garantir leur sécurité. 
+
+Sur chaque site où est pratiqué un travail en hyperbarie, un membre du personnel au moins doit être spécialement formé pour
+donner les premiers secours en cas d'urgence et mettre en oeuvre les moyens prévus à l'article R. 238-6-23 ci-dessus. 
+
+Lorsque le caisson de recompression n'est pas sur le site, l'employeur doit s'assurer que le personnel qualifié pour sa mise
+en oeuvre est aussi disponible.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-6-15 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-6-23 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-6-30 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-6-34 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-6-38 (V)
+
+
+###### Article R238-6-32
+
+La composition minimale des équipes engagées dans les opérations hyperbares, les limitations en durée et en fréquence des
+séjours sous pression, les modalités et procédures de compression, de décompression en conditions normales ou en cas
+d'accident, la durée d'exposition aux fortes pressions d'oxygène, les modalités de formation et les critères d'aptitudes des
+personnes prévues aux articles R. 238-6-30 et R. 238-6-31 ainsi que les conditions dans lesquelles il peut être dérogé aux
+dispositions ainsi fixées sont définis par arrêté du ministre chargé du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-6-30 (V)
+
+
+##### Sous-section 7 : Surveillance médicale du personnel.
+
+###### Article R238-6-33
+
+I.-Un salarié ne peut être affecté à des interventions en milieu hyperbare que si la fiche d'aptitude médicale établie en
+application de l'arrêté prévu à l'article L. 240-3 atteste qu'il ne présente pas de contre-indication médicale à ces
+interventions ; pour les personnes âgées de plus de quarante ans cette fiche est établie tous les six mois. 
+
+II.-Le salarié ou l'employeur peut contester les mentions de cette fiche d'aptitude dans les quinze jours qui suivent sa
+délivrance. 
+
+La contestation est portée devant l'agent de contrôle de l'inspection du travail. Celui-ci statue après avis conforme du
+médecin inspecteur du travail, qui peut faire pratiquer, aux frais de l'employeur, des examens complémentaires par les
+spécialistes de son choix. 
+
+III.-L'employeur est tenu de faire examiner par le médecin du travail tout salarié ayant été victime d'un incident
+d'hyperbarie ou qui se déclare indisposé par le travail auquel il est affecté.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L240-3 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-6-34 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-6-35 (V)
+
+
+###### Article R238-6-34
+
+Les examens médicaux pratiqués en exécution des dispositions de l'article précédent doivent comprendre un examen clinique
+général et des examens spécialisés complémentaires.
+
+Ces examens sont à la charge de l'employeur.
+
+Un arrêté du ministre chargé du travail définit la recommandation aux médecins et la liste des examens médicaux
+complémentaires spécialisés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L240-3 (M)
+	  - Code du travail applicable à Mayotte. - art. R238-6-28 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-6-3 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-6-31 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-6-33 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-6-35 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-6-36 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-6-37 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-6-38 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-6-39 (V)
+
+
+###### Article R238-6-35
+
+Un dossier médical spécial est tenu par le médecin du travail pour chaque salarié affecté à des travaux en milieu hyperbare. 
+
+Mention de ce dossier doit être faite au dossier médical ordinaire de médecine du travail prévu par l'arrêté mentionné à
+l'article L. 240-3. 
+
+Ce dossier médical doit contenir : 
+
+1° Une fiche relative aux conditions de travail du salarié, dans laquelle doivent être notamment mentionnés la nature du
+travail effectué en milieu hyperbare, la durée des périodes d'hyperbarie et les autres risques auxquels le salarié peut être
+exposé ; 
+
+2° Les dates et les résultats des analyses et des examens médicaux pratiqués en application de l'article R. 238-6-33 ci-
+dessus, ainsi que les accidents survenus en cours de travail et les manifestations pathologiques. 
+
+L'ensemble du dossier médical doit être conservé pendant au moins vingt ans par le service médical du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L240-3 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-6-33 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-6-34 (V)
+
+
+###### Article R238-6-36
+
+L'employeur est tenu de prévoir des moyens de transport rapides pour permettre à un médecin de se rendre auprès des victimes
+d'accident.
+
+L'employeur ou le chef d'opération doit avertir immédiatement le médecin du travail en cas d'accident.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-6-34 (V)
+
+
+##### Sous-section 8 : Dispositions diverses
+
+###### Article R238-6-37
+
+Le livret individuel ainsi que le certificat d'aptitude à l'hyperbarie, définis à l'article R. 238-6-3 ci-dessus, doivent
+être, pour chaque salarié concerné, tenus à la disposition de l'agent de contrôle de l'inspection du travail et des agents de
+l'organisme chargé du risque accidents du travail et maladies professionnelles. 
+
+En outre, l'employeur doit présenter à toute demande de l'agent de contrôle de l'inspection du travail ou d'un agent de
+l'organisme chargé du risque accidents du travail et maladies professionnelles le manuel d'opération défini à l'article R.
+238-6-28 ci-dessus ainsi que les feuilles d'intervention et les comptes rendus des essais et des vérifications pratiqués en
+application de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-6-28 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-6-3 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-6-34 (V)
+
+
+###### Article R238-6-38
+
+Doivent être affichés sur le site de l'intervention en milieu hyperbare : 
+
+a) Le nom de la personne prévue à l'article R. 238-6-31 pour porter les premiers secours ; 
+
+b) Le nom et l'adresse du médecin du travail et des secours médicaux spécialisés désignés par lui pour intervenir en cas
+d'accident ; 
+
+c) L'adresse et les coordonnées téléphoniques du centre de recompression apte à intervenir en cas d'accident lié à
+l'hyperbarie ; 
+
+d) L'adresse du service médical du travail où sont effectués les examens médicaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-6-31 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-6-34 (V)
+
+
+###### Article R238-6-39
+
+En ce qui concerne les personnes exerçant la profession de marin, les attributions dévolues par la présente section au
+médecin du travail sont exercées par le médecin des gens de mer, celles dévolues à l'inspection du travail par le chef de
+quartier des affaires maritimes, celles dévolues au médecin inspecteur du travail et de la main-d'oeuvre par le médecin-chef
+régional des affaires maritimes et celles dévolues aux délégués du personnel par les délégués de bord.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-6-1 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-6-34 (V)
 
 
 ##### Section 7 : Mesures particulières relatives aux marins, aux ports, aux navires et autres bâtiments de mer.
