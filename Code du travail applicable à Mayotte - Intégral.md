@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2003-07-22
+Version Consolidée au 2004-01-03
 
 # Partie législative
 
@@ -12750,6 +12750,9 @@ au plus.
 
 En cas de récidive, les peines d'emprisonnement et d'amende peuvent être portées au double.
 
+Toutefois, en cas de travail clandestin d'un mineur soumis à l'obligation scolaire, les peines encourues sont de cinq ans
+d'emprisonnement et de 75000 euros d'amende.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -12759,7 +12762,7 @@ En cas de récidive, les peines d'emprisonnement et d'amende peuvent être port�
 
 	**Modifié par**:
 
-	  - Loi n°2003-239 du 18 mars 2003 - art. 135 () JORF 19 mars 2003
+	  - Loi n°2004-1 du 2 janvier 2004 - art. 8 () JORF 3 janvier 2004
 
 	**Cite**:
 
