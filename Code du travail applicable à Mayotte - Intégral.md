@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2000-04-01
+Version Consolidée au 2001-03-31
 
 # Partie législative
 
@@ -2088,6 +2088,36 @@ ne s'appliquent pas au contrat d'apprentissage.*]
 	**Créé par**:
 
 	  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+
+
+###### Article L122-15-1
+
+Par dérogation aux dispositions de l'article L. 122-1, lorsqu'un salarié sous contrat à durée déterminée est exposé à des
+rayonnements ionisants et qu'au terme de son contrat cette exposition excède la valeur limite annuelle rapportée à la durée
+du contrat, l'employeur est tenu de lui proposer une prorogation du contrat pour une durée telle que l'exposition constatée à
+l'expiration de la prorogation soit au plus égale à la valeur limite annuelle rapportée à la durée totale du contrat. Cette
+prorogation est sans effet sur la qualification du contrat à durée déterminée. Un décret fixe la valeur limite utilisée pour
+les besoins du présent article.
+
+**Nota:**
+
+Nota : Ordonnance 2001-270 2001-03-28 art. 12 I 2° : les dispositions de l'article L122-15-1 s'appliquent aux contrats
+conclus après leur entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-1
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-270 du 28 mars 2001 - art. 12 () JORF 31 mars 2001
 
 
 ###### Article L122-16
@@ -9671,6 +9701,41 @@ représentant du Gouvernement à Mayotte.
 	  - Code du travail applicable à Mayotte. - art. R233-76 (MMN)
 
 
+###### Article L230-7-1
+
+Dans les établissements mentionnés à l'article L. 230-1, les dispositions relatives à la protection des travailleurs,
+salariés ou non, contre les risques d'exposition aux rayonnements ionisants sont fixées dans le respect des principes
+généraux de radioprotection des personnes énoncés à l'article L. 1333-1 du code de la santé publique et des obligations
+prévues à l'article L. 1333-10 du même code.
+
+Les modalités d'application aux travailleurs, salariés ou non, des dispositions mentionnées à l'alinéa précédent, et
+notamment les valeurs limites que doivent respecter l'exposition de ces travailleurs, les références d'exposition et les
+niveaux qui leur sont applicables, compte tenu des situations particulières d'exposition, ainsi que les éventuelles
+restrictions ou interdictions concernant les activités, procédés, dispositifs ou substances dangereux pour les travailleurs,
+sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L230-1
+	  - Code de la santé publique - art. L1333-1 (M)
+	  - Code de la santé publique - art. L1333-10 (T)
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-270 du 28 mars 2001 - art. 12 () JORF 31 mars 2001
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L251-12 (M)
+
+
 ###### Article L230-8
 
 Il est interdit à toute personne d'introduire ou de distribuer et à tout chef d'établissement, directeur, gérant, préposé,
@@ -10621,6 +10686,28 @@ dispositions législatives ou réglementaires, soit sur la démolition des bâti
 	**Nouveaux textes**:
 
 	  - Code du travail applicable à Mayotte. - art. L251-10 (V)
+
+
+###### Article L251-12
+
+Seront punis des mêmes peines que celles prévues à l'article L. 251-1 les chefs d'établissement, directeurs, gérants ou
+préposés qui, par leur faute personnelle, ont enfreint les dispositions de l'article L. 230-7-1 ou les dispositions prises
+pour leur application.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L251-1, L230-7-1
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-270 du 28 mars 2001 - art. 12 () JORF 31 mars 2001
 
 
 #### CHAPITRE II : Surveillance médicale.
@@ -14528,13 +14615,12 @@ travail ;
 7° La réalisation d'un bilan de compétences professionnelles et personnelles pour définir un projet professionnel et, le cas
 échéant, de formation ;
 
-8° La lutte contre l'illettrisme.
+8° La lutte contre l'illettrisme ;
+
+9° Les actions de formation continue relatives à la radioprotection des personnes prévues par l'article L. 1333-11 du code de
+la santé publique.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du travail applicable dans la collectivité territoriale de Mayotte L711-1
 
 	**Codifié par**:
 
@@ -14573,9 +14659,14 @@ travail ;
 	  - Code du travail applicable à Mayotte. - art. R721-1 (V)
 	  - Code général des collectivités territoriales - art. R3522-2 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+	  - Ordonnance n°2001-270 du 28 mars 2001 - art. 12 () JORF 31 mars 2001
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L711-1
+	  - Code de la santé publique - art. L1333-11 (T)
 
 
 ###### Article L711-3
