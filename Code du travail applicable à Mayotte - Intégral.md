@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 1991-03-06
+Version Consolidée au 1991-12-19
 
 # Partie législative
 
@@ -13430,5 +13430,4115 @@ livre 6.*]
 	**Cité par**:
 
 	  - Code du travail applicable à Mayotte. - art. L711-4 (Ab)
+
+
+# Partie réglementaire - Décrets en Conseil d'Etat
+
+## LIVRE Ier : Conventions relatives au travail
+
+### TITRE II : Contrat de travail
+
+#### CHAPITRE II : Règles propres au contrat de travail
+
+##### Section 1 : Règles générales.
+
+###### Article R122-1
+
+La lettre [*de licenciement*] prévue à l'article L. 122-27 indique l'objet de l'entretien entre le salarié et l'employeur
+[*mentions obligatoires*]. Elle prévoit en outre la date, l'heure et le lieu de cet entretien et rappelle que le salarié peut
+se faire assister pour cet entretien par une personne de son choix [*conseiller*] appartenant au personnel de l'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-27
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R122-2
+
+Dans le cas où les délais prévus par le livre Ier, titre II, chapitre II, section II (partie Législative) expirent
+normalement un samedi, un dimanche ou un jour férié ou chômé, ils sont prorogés jusqu'au premier jour ouvrable suivant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R122-3 (V)
+
+
+###### Article R122-3
+
+Le reçu pour solde de tout compte prévu par l'article L. 122-34 est établi en double exemplaire [*conditions de forme*].
+Mention en est faite sur le reçu. L'un des exemplaires est remis au travailleur.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-34
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R122-4
+
+La dénonciation du reçu pour solde de tout compte est faite par lettre recommandée [*conditions de forme*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+##### Section 2 : Service national.
+
+###### Article R122-5
+
+La notification par le salarié à son employeur de son intention de reprendre son emploi après sa libération du service
+national est faite par lettre recommandée avec demande d'avis de réception [*conditions de forme*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R122-6
+
+Les dispositions des articles L. 122-35 [*réintégration dans l'entreprise*] et L. 122-36 [*priorité à l'embauche*] sont
+applicables aux personnes qui, ayant cessé d'être aptes au service national après leur incorporation, ont été classées "
+réformés temporaires " ou " réformés définitifs " et renvoyées dans leur foyer.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-35, L122-36
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R151-6 (T)
+	  - Code du travail applicable à Mayotte. - art. R161-6 (V)
+
+
+##### Section 3 : Repos des femmes en couches et des femmes allaitant leurs enfants.
+
+###### Article R122-7
+
+Pour bénéficier de la protection prévue par les articles L. 122-45 et suivants, la femme doit, soit remettre à son employeur,
+qui est tenu d'en délivrer un récépissé, soit lui envoyer par lettre recommandée avec demande d'avis de réception un
+certificat médical attestant, suivant le cas, son état de grossesse et la date présumée de son accouchement ou la date
+effective de celui-ci ainsi que, s'il y a lieu, l'existence et la durée prévisible de son état pathologique rendant
+nécessaire une augmentation de la période de suspension de son contrat de travail.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-45
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R161-7 (V)
+
+
+###### Article R122-8
+
+La durée d'une heure dont disposent les mères pour l'allaitement de leurs enfants est répartie en deux périodes de trente
+minutes, l'une pendant le travail du matin, l'autre pendant l'après-midi.
+
+Le moment où le travail est arrêté pour l'allaitement est déterminé par accord entre les intéressées et leurs employeurs. A
+défaut d'accord, il est placé au milieu de chaque demi-journée de travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R122-9
+
+Il doit être mis à la disposition des mères qui désirent allaiter leur enfant dans l'entreprise, en application des
+dispositions des cinquième et sixième alinéas de l'article L. 122-48, un local qui satisfasse aux conditions suivantes :
+
+a) Etre séparé de tout local de travail ;
+
+b) Etre pourvu d'eau en quantité suffisante ou se trouver à proximité d'un lavabo ;
+
+c) Etre pourvu de sièges convenables pour l'allaitement ;
+
+d) Etre tenu en état constant de propreté ;
+
+e) Etre maintenu à une température convenable dans des conditions hygiéniques.
+
+En outre, dans les établissements qui sont soumis à des prescriptions particulières relatives à l'hygiène, le local doit être
+nettement séparé de tout local affecté à des travaux pour lesquels ont été édictées ces prescriptions particulières. Cette
+séparation doit notamment être telle que le local soit soustrait à l'action des causes d'insalubrité ou dangers qui ont
+motivé lesdites prescriptions.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-48
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-64 (V)
+
+
+###### Article R122-10
+
+Les enfants ne peuvent séjourner dans le local prévu à l'article précédent que pendant le temps nécessaire à l'allaitement.
+
+Aucun enfant atteint ou paraissant atteint d'une maladie transmissible ne doit être admis dans ce local. Des mesures doivent
+être prises pour que la présence des mères n'y apporte aucun danger de contamination [*conditions d'hygiène*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte R122-9
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+##### Section 4 : Règlement intérieur, protection des salariés et droit disciplinaire
+
+##### Sous-section 1 : Règlement intérieur.
+
+###### Article R122-11
+
+Le règlement intérieur doit être affiché à une place convenable aisément accessible dans les lieux où le travail est effectué
+ainsi que dans les locaux et à la porte des locaux où se fait l'embauchage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R122-13 (Ab)
+	  - Code du travail applicable à Mayotte. - art. R161-8 (V)
+
+
+###### Article R122-12
+
+Le dépôt prévu au deuxième alinéa de l'article L. 122-70 est effectué au greffe de la juridiction du travail.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-70
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R122-13 (Ab)
+
+
+###### Article R122-13
+
+Le délai prévu au deuxième alinéa de l'article L. 122-70 court à compter de la dernière en date des formalités de publicité
+et de dépôt définies aux articles R. 122-11 et R. 122-12 [*point de départ*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-70, R122-11, R122-12
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R122-14
+
+La communication du texte du règlement intérieur prévue au troisième alinéa de l'article L. 122-70 est effectuée en deux
+exemplaires.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-70
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R122-15
+
+Le règlement intérieur prescrit à l'article L. 122-67 doit être établi dans les trois mois [*délai*] suivant l'ouverture de
+l'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-67
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+##### Sous-section 2 : Protection des salariés et droit disciplinaire.
+
+###### Article R122-16
+
+La convocation prévue au deuxième alinéa de l'article L. 122-74 indique l'objet de l'entretien entre l'employeur et le
+salarié. Elle précise la date, l'heure et le lieu de cet entretien ; elle rappelle que le salarié peut se faire assister par
+une personne de son choix appartenant au personnel de l'entreprise.
+
+Cette convocation est écrite. Elle est, soit remise en main propre contre décharge dans le délai de deux mois fixé au premier
+alinéa de l'article L. 122-77, soit adressée par lettre recommandée envoyée dans le même délai.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-74, L122-77
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R122-17
+
+La sanction mentionnée au deuxième alinéa de l'article L. 122-74 fait l'objet d'une décision écrite et motivée.
+
+La décision est notifiée au salarié, soit sous la forme d'une lettre remise en main propre de l'intéressé contre décharge,
+dans le délai d'un mois fixé par l'alinéa de l'article L. 122-74 précité, soit par l'envoi, dans le même délai, d'une lettre
+recommandée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-74
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R122-18
+
+Le délai d'un mois prévu au deuxième alinéa de l'article L. 122-74 expire à vingt-quatre heures le jour du mois suivant qui
+porte le même quantième que le jour fixé pour l'entretien. A défaut d'un quantième identique, le délai expire le dernier jour
+du mois suivant à vingt-quatre heures. Lorsque le dernier jour de ce délai est un samedi, un dimanche ou un jour férié ou
+chômé, le délai est prorogé jusqu'au premier jour ouvrable suivant.
+
+Les mêmes dispositions sont applicables au délai de deux mois prévu au premier alinéa de l'article L. 122-77.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-74, L122-77
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+#### CHAPITRE IV : Marchandage
+
+###### Article R124-1
+
+Dans le cas où un sous-entrepreneur non inscrit au registre du commerce ou immatriculé au répertoire des métiers, non
+propriétaire d'un fonds de commerce, fait exécuter des travaux dans les ateliers, magasins ou chantiers autres que ceux de
+l'entrepreneur principal qui lui a confié ces travaux, il doit apposer dans chacun de ces ateliers, magasins ou chantiers,
+une affiche indiquant le nom et l'adresse de la personne de qui il tient les travaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R124-2 (V)
+	  - Code du travail applicable à Mayotte. - art. R152-1 (V)
+
+
+#### CHAPITRE V : Cautionnements
+
+###### Article R125-1
+
+Tout commerçant ou industriel qui, à titre de cautionnement, se fait remettre par ses ouvriers et employés, soit des sommes
+d'argent en espèces, quel qu'en soit le montant, soit des titres, doit mentionner exactement les sommes et titres ainsi
+versés sur un registre spécial, tenu à la disposition de l'inspecteur du travail. Lorsqu'il s'agit de titres, la mention
+portée au registre doit en indiquer la nature et la valeur nominale.
+
+Ce registre est émargé par l'ouvrier ou l'employé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R153-1 (V)
+
+
+#### CHAPITRE VI : Groupements d'employeurs
+
+###### Article R126-1
+
+Pour l'application du troisième alinéa de l'article L. 126-1, le groupement d'employeurs adresse à l'inspecteur du travail,
+dans le mois suivant sa constitution, une déclaration qui comporte les mentions et à laquelle sont joints les documents
+[*obligatoires*] suivants :
+
+1° Le nom, le siège social et la forme juridique du groupement ;
+
+2° Les nom, prénoms, domicile des dirigeants du groupement ;
+
+3° Les statuts ;
+
+4° Une copie de l'extrait de déclaration d'association parue au Journal officiel ;
+
+5° Une liste des membres du groupement comportant pour chacun d'eux :
+
+a) Lorsqu'il s'agit d'une personne morale, son siège et l'adresse de ses établissements, ainsi que la nature de sa ou de ses
+activités ;
+
+b) Lorsqu'il s'agit d'une personne physique, son adresse et, le cas échéant, le siège de l'entreprise au titre de laquelle
+elle adhère au groupement ainsi que la nature de la ou des activités et l'adresse des établissements ;
+
+c) Le nombre de salariés qu'il occupe ;
+
+6° La convention collective ou, à défaut, l'accord collectif désigné à l'article L. 126-2, dans le champ d'application de
+laquelle entre le groupement.
+
+La déclaration, datée et signée par la personne habilitée à cet effet par le groupement, est envoyée par lettre recommandée
+avec demande d'avis de réception.
+
+Le groupement est tenu de faire connaître à l'inspecteur du travail toute modification ultérieure aux informations énumérées
+aux 1°, 2°, 3°, aux a et b du 5° et au 6° du présent article dans un délai d'un mois suivant la modification.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L126-1, L126-2
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R126-3 (V)
+	  - Code du travail applicable à Mayotte. - art. R126-5 (V)
+
+
+###### Article R126-2
+
+L'agrément [*à la création du groupement d'employeurs*] prévu à l'article L. 126-2 est accordé par le représentant du
+Gouvernement après avis du chef du service de l'inspection du travail.
+
+La demande d'agrément, datée et signée par la personne habilitée à cet effet par le groupement, est adressée par lettre
+recommandée avec demande d'avis de réception au chef du service de l'inspection du travail.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L126-2
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R126-3
+
+La demande d'agrément comporte les mentions et documents énumérés aux 1° à 6° de l'article R. 126-1 et l'intitulé de la
+convention collective ou de l'accord collectif dans le champ d'application de laquelle entre chacun des membres du
+groupement.
+
+Elle mentionne la convention collective ou l'accord collectif que le groupement se propose d'appliquer.
+
+Elle indique le nombre et la qualification des salariés que le groupement envisage d'employer.
+
+L'agrément est accordé si la convention collective ou l'accord collectif choisi par le groupement d'employeurs est adapté
+tant aux classifications professionnelles et aux niveaux d'emploi des salariés que le groupement envisage d'employer qu'à
+l'activité des différents membres du groupement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte R126-1
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R126-6 (V)
+
+
+###### Article R126-4
+
+Le représentant du Gouvernement dispose d'un délai d'un mois suivant la réception de la demande pour notifier sa décision au
+groupement.
+
+Cette notification est faite par lettre recommandée avec demande d'avis de réception [*conditions de forme*].
+
+A défaut de notification dans le délai d'un mois suivant la réception de la demande, l'agrément est réputé refusé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R126-5
+
+Le groupement agréé est tenu de faire connaître au représentant du Gouvernement toute modification aux informations
+mentionnées au deuxième alinéa de l'article R. 126-1 dans le délai d'un mois suivant la modification.
+
+Il doit demander un nouvel agrément lorsqu'il se propose de changer de convention collective.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte R126-1
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R126-6
+
+Le représentant du Gouvernement peut, sur le rapport du chef du service de l'inspection du travail, mettre fin à tout moment
+à son agrément, par décision motivée :
+
+1° Lorsque les dispositions législatives ou réglementaires relatives aux groupements d'employeurs ne sont pas respectées ;
+
+2° Lorsque les stipulations de la convention collective ou de l'accord collectif choisi ne sont pas respectées ou lorsque
+ceux-ci ont été dénoncés ;
+
+3° Lorsqu'il n'est plus satisfait aux conditions fixées au dernier alinéa de l'article R. 126-3.
+
+Le groupement est avisé au préalable des motifs du retrait projeté et invité à présenter ses observations dans un délai d'un
+mois suivant la réception dudit avis.
+
+La décision mettant fin à l'agrément est notifiée au groupement par lettre recommandée avec demande d'avis de réception.
+
+En cas de décision mettant fin à l'agrément, le groupement doit cesser son activité dans un délai, fixé par la décision, qui
+ne peut dépasser trois mois.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte R126-3
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+### TITRE III : Conventions et accords collectifs de travail
+
+#### CHAPITRE II : Nature et validité des conventions et accords collectifs de travail
+
+###### Article R132-1
+
+Le dépôt des conventions et accords collectifs de travail, de leurs avenants et de leurs annexes, prévu au 1er alinéa de
+l'article L. 132-10, est opéré en cinq exemplaires signés des parties. Le dépôt est effectué auprès du service de
+l'inspection du travail.
+
+Les déclarations de dénonciation et d'adhésion, intervenues en application des articles L. 132-8 et L. 132-9, sont déposées,
+selon les mêmes modalités, par la partie qui en est signataire au service de l'inspection du travail.
+
+Un récépissé est délivré au déposant.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L132-10, L132-8, L132-9
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R132-2
+
+Toute personne intéressée peut prendre connaissance gratuitement des textes déposés auprès du service de l'inspection du
+travail. Elle peut en obtenir des copies à ses frais.
+
+Toutefois, dans le cas où une instance juridictionnelle est engagée, copie de tout ou partie de la convention ou de l'accord
+en cause est délivrée gratuitement, sur sa demande, à chacune des parties à l'instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+#### Chapitre 3 : Conventions et accords collectifs susceptibles d'être étendus et procédure d'extension et d'élargissement.
+
+###### Article R133-1
+
+Les organisations et les personnes intéressées disposent d'un délai de quinze jours à compter de la publication au Recueil
+des actes administratifs de la collectivité territoriale de Mayotte de l'avis mentionné au premier alinéa de l'article L.
+133-7 pour présenter leurs observations.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L133-7
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R133-2
+
+Lorsqu'une organisation n'a pas envoyé de représentant habilité, conformément aux dispositions de l'article L. 132-3, à la
+commission mixte convoquée en application de l'article L. 133-1, une nouvelle convocation lui est adressée dans le délai d'un
+mois par lettre recommandée avec demande d'avis de réception ou par avertissement délivré contre récépissé.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L132-3, L133-1
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R155-3 (T)
+	  - Code du travail applicable à Mayotte. - art. R162-3 (V)
+
+
+#### CHAPITRE V : Application des conventions et accords collectifs de travail
+
+###### Article R135-1
+
+Dans les établissements soumis à l'application d'une convention ou d'un accord collectif de travail, l'avis prévu à l'article
+L. 135-7 doit être affiché dans les lieux de travail, aux emplacements réservés aux communications destinées au personnel.
+
+Cet avis doit comporter [*mentions obligatoires*] l'intitulé des conventions et des accords collectifs de travail applicables
+dans l'établissement. Il doit préciser où les textes sont tenus à la disposition du personnel ainsi que les modalités propres
+à permettre à tout salarié de l'établissement de les consulter, pendant son temps de présence sur le lieu de travail.
+
+En ce qui concerne les concierges ou gardiens d'immeuble, les employés de maison, les travailleurs isolés ou à domicile, la
+délivrance par l'employeur à chaque salarié de ces catégories d'un document reprenant les informations qui doivent figurer
+sur l'avis se substitue à l'obligation d'affichage de ce dernier.
+
+Les modifications ou compléments à apporter aux informations figurant sur l'avis ou le document qui en tient lieu, selon le
+cas, doivent l'être dans un délai d'un mois au plus tard à compter de leur date d'effet.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L135-7
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R155-1 (T)
+	  - Code du travail applicable à Mayotte. - art. R162-1 (V)
+
+
+### TITRE IV : Salaire
+
+#### CHAPITRE PRELIMINAIRE : Egalité de rémunération entre les hommes et les femmes
+
+###### Article R140-1
+
+L'inspecteur du travail peut exiger communication des différents éléments qui concourent à la détermination des rémunérations
+dans l'entreprise, et notamment des normes, catégories, critères et bases de calcul mentionnés à l'article L. 140-2.
+
+Il procède, le cas échéant, à une enquête contradictoire au cours de laquelle l'employeur et le ou les salariés intéressés
+peuvent se faire assister d'une personne de leur choix.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L140-2
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R140-4 (V)
+	  - Code du travail applicable à Mayotte. - art. R156-1 (Ab)
+
+
+#### CHAPITRE Ier : Salaire minimum interprofessionnel garanti
+
+###### Article R141-1
+
+Le salaire minimum interprofessionnel garanti [*SMIG*] applicable aux jeunes travailleurs de l'un ou de l'autre sexe, âgés de
+moins de dix-huit ans et de capacité physique normale, comporte un abattement désormais fixé :
+
+- à 20 p. 100 avant dix-sept ans ;
+
+- à 10 p. 100 entre dix-sept ans et dix-huit ans.
+
+Cet abattement est supprimé pour les jeunes travailleurs justifiant de six mois de pratique professionnelle dans la branche
+d'activité dont ils relèvent.
+
+**Nota:**
+
+[*Nota : Code du travail applicable à Mayotte art R141-3 : les dispositions du présent chapitre ne sont pas applicables aux
+jeunes liés par un contrat d'apprentissage.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D141-2-1 (V)
+
+
+###### Article R141-2
+
+Pour déterminer la rémunération mensuelle minimale garantie d'un salarié prévue à l'article L. 141-3, il est retenu le nombre
+d'heures correspondant à la durée légale, conventionnelle ou conforme aux usages pour le mois considéré dans l'entreprise qui
+l'emploie.
+
+Les heures correspondant aux fêtes légales désignées au premier alinéa de l'article L. 222-1 ou aux autres jours fériés
+prévus par le deuxième alinéa du même article ainsi que les heures chômées par décision de l'employeur pour tout autre motif
+que ceux énumérés au deuxième alinéa de l'article L. 141-3 sont comprises dans cette durée. Il en va de même en ce qui
+concerne les jours ouvrables chômés compris entre un jour férié et un jour de repos hebdomadaire.
+
+**Nota:**
+
+[*Nota : Code du travail applicable à Mayotte art R141-3 : les dispositions du présent chapitre ne sont pas applicables aux
+jeunes liés par un contrat d'apprentissage.*]
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L141-3, L222-1
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+	**Cité par**:
+
+	  - Décret n°2004-1529 du 30 décembre 2004 - art. 10 (V)
+	  - Décret n°2005-143 du 17 février 2005 - art. 7-1 (Ab)
+	  - Décret n°2006-1412 du 20 novembre 2006 - art. 24 (Ab)
+	  - Code du travail applicable à Mayotte. - art. R414-3 (V)
+
+
+###### Article R141-3
+
+Les dispositions du présent chapitre ne sont pas applicables aux jeunes liés par un contrat d'apprentissage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+#### CHAPITRE III : Paiement du salaire
+
+###### Article R143-1
+
+Le paiement ne peut être effectué un jour où le salarié a droit au repos, soit en vertu de la loi, soit en vertu de la
+convention.
+
+Il ne peut avoir lieu dans les débits de boissons ou magasins de vente, sauf pour les personnes qui y sont employées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R156-3 (Ab)
+
+
+###### Article R143-2
+
+Le bulletin de paie prévu à l'article L. 143-3 comporte obligatoirement [*mentions obligatoires*] :
+
+1° Le nom et l'adresse de l'employeur ainsi que, le cas échéant, la désignation de l'établissement dont dépend le salarié ;
+
+2° La référence de l'organisme auquel l'employeur verse les cotisations sociales et le numéro sous lequel ces cotisations
+sont versées ;
+
+3° S'il y a lieu, l'intitulé de la convention collective de branche applicable au salarié ;
+
+4° Le nom et l'emploi du salarié ainsi que sa position dans la classification conventionnelle qui lui est applicable ; la
+position du salarié est notamment définie par le niveau ou le coefficient hiérarchique qui lui est attribué ;
+
+5° La période et le nombre d'heures de travail auxquels se rapporte le salaire en distinguant, s'il y a lieu, les heures qui
+sont payées au taux normal et celles qui comportent une majoration pour heures supplémentaires ou pour toute autre cause et
+en mentionnant le ou les taux appliqués aux heures correspondantes ; en outre, lorsque les cotisations sociales sont
+calculées sur la base d'un salaire forfaitaire par journée ou demi-journée de travail, l'indication du nombre de journées ou
+demi-journées correspondant à la durée du travail ; lorsque, par exception, la base de calcul du salaire n'est pas la durée
+du travail, l'indication de la nature de cette base ;
+
+6° La nature et le montant des accessoires de salaire qui s'ajoutent au salaire mentionné au 5° ci-dessus ;
+
+7° Le montant de la rémunération brute du salarié ;
+
+8° La nature et le montant des diverses déductions opérées sur cette rémunération brute ;
+
+9° La nature et le montant des sommes s'ajoutant à la rémunération et non soumises aux déductions mentionnées au 8° ;
+
+10° Le montant de la somme effectivement reçue par le salarié ;
+
+11° La date de paiement de ladite somme ;
+
+12° Les dates de congé et le montant de l'indemnité correspondante, lorsqu'une période de congé annuel est comprise dans la
+période de paie considérée.
+
+Il ne doit être fait mention ni de l'exercice du droit de grève ni de l'activité de représentation des salariés. La nature et
+le montant de la rémunération de l'activité de représentation figurent sur une fiche annexée au bulletin de paie qui a le
+même régime juridique que celui-ci et que l'employeur est tenu d'établir et de fournir au salarié.
+
+Le bulletin de paie doit comporter en caractères apparents une mention incitant le salarié à le conserver sans limitation de
+durée.
+
+Le livre de paie prévu à l'article L. 143-5 est tenu par ordre de date, sans blancs, lacunes, ratures, surcharges ni
+apostilles. Il est coté, paraphé et visé dans la forme ordinaire et sans frais, soit par un juge du tribunal de première
+instance, soit par l'inspecteur du travail.
+
+L'employeur est tenu [*obligation*] de conserver ce livre pendant cinq ans à dater de sa clôture.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L143-3, L143-5
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R143-11 (V)
+	  - Code du travail applicable à Mayotte. - art. R143-3 (V)
+	  - Code du travail applicable à Mayotte. - art. R143-7 (V)
+	  - Code du travail applicable à Mayotte. - art. R156-3 (Ab)
+	  - Code du travail applicable à Mayotte. - art. R312-4 (V)
+	  - Code du travail applicable à Mayotte. - art. R312-7 (V)
+
+
+#### CHAPITRE V : Saisie-arrêt et cession de rémunérations dues par un employeur
+
+##### Section 1 : Règles générales.
+
+###### Article R145-1
+
+Les proportions dans lesquelles les rémunérations annuelles visées à l'article L. 145-1 sont saisissables ou cessibles sont
+fixées comme suit :
+
+Pour la totalité, sur la tranche supérieure à un plafond fixé par arrêté du représentant du Gouvernement ;
+
+Pour les deux tiers, sur la tranche supérieure aux cinq sixièmes du plafond défini ci-dessus et inférieure ou égale à celui-
+ci ;
+
+Pour le tiers, sur la tranche supérieure aux deux tiers, inférieure ou égale aux cinq sixièmes du plafond ;
+
+Pour le quart, sur la tranche supérieure à la moitié, inférieure ou égale aux deux tiers du plafond ;
+
+Pour le cinquième, sur la tranche supérieure au tiers, inférieure ou égale à la moitié du plafond ;
+
+Pour le dixième, sur la tranche supérieure au sixième, inférieure ou égale au tiers du plafond ;
+
+Pour le vingtième, sur la tranche supérieure ou égale au sixième du plafond.
+
+Sur justification présentée par l'intéressé, le plafond et les seuils déterminés ci-dessus sont augmentés, par enfant à la
+charge du débiteur saisi ou du cédant, d'un montant fixé par l'arrêté du représentant du Gouvernement.
+
+Pour l'application de l'alinéa précédent, est considéré comme enfant à charge tout enfant se trouvant à la charge effective
+et permanente du débiteur saisi ou du cédant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+	**Cité par**:
+
+	  - Code des procédures civiles d'exécution - art. R612-2 (V)
+	  - Code des procédures civiles d'exécution - art. R612-3 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L145-1
+
+
+##### Section 2 : Procédure de cession et de saisie-arrêt.
+
+###### Article R145-2
+
+La cession des créances mentionnées à l'article L. 145-1 ne peut être consentie, quel qu'en soit le montant, que par une
+déclaration souscrite par le cédant en personne devant le greffier du tribunal de première instance [*autorité compétente*].
+
+Le greffier fait mention de la déclaration sur les fiches individuelles prévues à l'article R. 145-20. Il adresse, lorsqu'il
+en est requis par les parties ou par l'une d'elles, une notification par lettre recommandée au débiteur de la rémunération ou
+à son représentant préposé au paiement, au lieu où travaille le cédant.
+
+La retenue est opérée sur cette seule notification.
+
+La cession qui n'est pas notifiée dans le délai d'un an est périmée.
+
+Le cessionnaire touche directement les retenues du débiteur de la rémunération sur la production d'une copie certifiée
+conforme de la déclaration.
+
+Toutefois, lorsque la cession est paralysée par une ou plusieurs oppositions antérieures, les sommes retenues sont versées au
+greffe du tribunal de première instance, conformément aux dispositions de l'article R. 145-12.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L145-1, R145-20, R145-12
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R145-3
+
+La saisie-arrêt portant sur les rémunérations mentionnées à l'article L. 145-1 ne peut, quel qu'en soit le montant, être
+faite, même si le créancier a titre, qu'après un essai de conciliation devant le président du tribunal de première instance
+ou du juge désigné par lui à cet effet.
+
+Sur la réquisition du créancier, le juge convoque le débiteur devant lui au moyen d'une lettre recommandée adressée par le
+greffier avec demande d'avis de réception [*condition de forme*] Le délai pour la comparution est de huit jours à partir de
+la date de remise figurant à l'avis de réception [*point de départ*].
+
+Les lieu, jour et heure de l'essai de conciliation sont indiqués verbalement au créancier au moment où il formule sa
+réquisition.
+
+A défaut d'avis de réception et si le débiteur ne se présente pas, le créancier doit, sauf s'il a un titre exécutoire, le
+citer à nouveau en conciliation par exploit d'huissier dans le délai prescrit à l'alinéa 2 du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L145-1
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R145-10 (V)
+	  - Code du travail applicable à Mayotte. - art. R145-8 (V)
+
+
+###### Article R145-4
+
+Le juge, assisté de son greffier, dresse procès-verbal sommaire de la comparution des parties, qu'elle soit ou non suivie
+d'arrangement, aussi bien que de la non-comparution de l'une d'elles.
+
+Quand les parties conviennent d'un arrangement, le juge en mentionne les conditions s'il y en a.
+
+Quand les parties ne conviennent pas d'un arrangement, le juge, s'il y a titre ou s'il n'y a pas de contestation sérieuse sur
+l'existence ou sur le montant de la créance, autorise la saisie-arrêt dans une ordonnance où il énonce la somme pour laquelle
+elle sera formée.
+
+Quand le débiteur ne se présente pas malgré une convocation régulière, le juge autorise également et dans les mêmes formes la
+saisie-arrêt.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R145-5
+
+Dans le délai de quarante-huit heures à partir de la date de l'ordonnance, le greffier donne avis qu'elle a été rendue au
+tiers saisi ou à son représentant, préposé au paiement de la rémunération dans le lieu où travaille le débiteur. Cet avis est
+donné par lettre recommandée. Il vaut opposition.
+
+Le greffier donne également avis dans les mêmes formes au débiteur lorsque celui-ci ne s'est pas présenté aux tentatives
+d'arrangement amiable.
+
+Ces avis contiennent :
+
+1° Mention de l'ordonnance autorisant la saisie-arrêt et de la date à laquelle elle a été rendue ;
+
+2° Les nom, prénoms, profession, domicile du créancier saisissant, du débiteur saisi et du tiers saisi ;
+
+3° L'évaluation de la créance par le juge.
+
+Le débiteur peut toucher du tiers saisi la portion non saisie de sa rémunération.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R145-12 (V)
+	  - Code du travail applicable à Mayotte. - art. R145-17 (V)
+
+
+###### Article R145-6
+
+Lorsqu'une saisie-arrêt aura été pratiquée, s'il survient d'autres créanciers, leurs demandes signées et déclarées sincères
+par eux et contenant toutes les pièces de nature à mettre le juge à même de faire l'évaluation des créances sont inscrites
+par le greffier sur les fiches individuelles prévues à l'article R. 145-20. Le greffier en donne avis dans les quarante-huit
+heures au tiers saisi par lettre recommandée qui vaut opposition et également par lettre recommandée au débiteur saisi.
+
+En cas de changement de domicile, le créancier saisissant ou intervenant doit déclarer au greffe sa nouvelle résidence et il
+en est fait mention par le greffier sur les fiches sus-indiquées.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte R145-20
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R145-7
+
+Tout créancier saisissant, le débiteur et le tiers saisi peuvent requérir la convocation des intéressés devant le juge du
+débiteur saisi par une déclaration qui sera mentionnée sur les fiches individuelles prévues à l'article R. 145-20.
+
+Le juge peut aussi ordonner d'office cette convocation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte R145-20
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R145-13 (V)
+
+
+###### Article R145-8
+
+Dans les quarante-huit heures [*délai*] de la réquisition ou de l'ordonnance, le greffier adresse :
+
+1° Au saisi ;
+
+2° Au tiers saisi ;
+
+3° A tous autres créanciers opposants,
+
+un avertissement recommandé à comparaître devant le juge à l'audience que celui-ci aura fixée. Le délai à observer est le
+même que celui qui est prévu à l'article R. 145-3.
+
+A cette audience ou à toute autre fixée par lui, le juge prononçant sans appel dans les limites de sa compétence en dernier
+ressort, et à charge d'appel, à quelque valeur que la demande puisse s'élever, statue sur la validité, la nullité ou la
+mainlevée de la saisie, ainsi que sur la déclaration que le tiers saisi est tenu de faire, audience tenante, à moins qu'il ne
+l'ait faite au préalable par lettre recommandée adressée au greffier. Cette déclaration indique exactement et avec précision
+la situation de droit existant entre le tiers saisi et le débiteur saisi.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte R145-3
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R145-9
+
+Le jugement qui prononce la validité de la saisie-arrêt ne confère au saisissant sur les sommes saisies aucun droit exclusif
+au préjudice des intervenants.
+
+L'attribution des sommes saisies aux saisissants ou intervenants résulte des répartitions prévues à l'article R. 145-14, à
+concurrence de la somme répartie.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte R145-14
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R145-10
+
+Si le jugement est rendu par défaut, avis de ses dispositions est transmis par le greffier à la partie défaillante par lettre
+recommandée dans les trois jours [*délai*] du prononcé.
+
+L'opposition n'est recevable que dans les quinze jours de la date de remise de cette lettre. Elle consiste dans une
+déclaration au greffe du tribunal de première instance, laquelle est consignée sur les fiches individuelles prévues à
+l'article R. 145-20.
+
+Toutes parties intéressées sont prévenues par lettre recommandée du greffier, pour la prochaine audience utile, en observant
+les délais de l'article R. 145-3. Le jugement qui intervient est réputé contradictoire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte R145-20, R145-3
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R145-13 (V)
+
+
+###### Article R145-11
+
+Le délai pour interjeter appel est de quinze jours. Il court pour les jugements contradictoires du jour du prononcé du
+jugement ; pour les jugements réputés contradictoires, du jour de leur notification [*point de départ*].
+
+Le jugement contradictoire n'a pas besoin d'être signifié.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R145-12
+
+Dans les quinze jours qui suivent chaque trimestre, à partir de l'avis prévu à l'article R. 145-5 ou dans les quinze jours
+qui suivent l'époque où les retenues cesseraient d'être opérées, le tiers saisi verse au greffier en chef le montant des
+sommes retenues ; il est valablement libéré sur la seule quittance du greffier en chef.
+
+Le tiers saisi a la faculté de remettre au greffier en chef le montant desdites sommes par l'intermédiaire de
+l'administration des postes, au moyen d'un mandat-carte accompagné d'une demande d'avis de réception. L'avis de réception
+délivré par l'administration des postes au tiers saisi a la même valeur que la quittance du greffier en chef.
+
+Le tiers saisi opérant son versement remet au greffier en chef une note indicative des noms des parties, de la somme versée
+et de ses causes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte R145-5
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R145-14 (V)
+	  - Code du travail applicable à Mayotte. - art. R145-2 (V)
+
+
+###### Article R145-13
+
+Lorsque le tiers saisi n'a pas effectué son versement à l'époque fixée ci-dessus, il peut y être contraint en vertu d'une
+ordonnance qui est rendue d'office par le juge et dans laquelle le montant de la somme à verser est énoncé.
+
+Cette ordonnance peut être sollicitée par les parties dans les formes prévues par le premier alinéa de l'article R. 145-7.
+
+L'ordonnance est notifiée par le greffier, sous pli recommandé, dans les trois jours de sa date. Le tiers saisi dispose de
+quinze jours à partir de cette notification pour former opposition au moyen d'une déclaration au greffe, qui est portée sur
+les fiches individuelles prévues à l'article R. 145-20. Il est statué sur cette opposition conformément aux règles de
+compétence et de procédure contenues dans les articles R. 145-7 et R. 145-10.
+
+L'ordonnance du juge non frappée d'opposition dans le délai de quinze jours devient définitive. Elle est exécutée à la
+requête du débiteur saisi ou du créancier le plus diligent sur une expédition délivrée par le greffier et revêtue de la
+formule exécutoire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte R145-7, R145-20, R145-10
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R145-14
+
+La répartition des sommes encaissées dans les conditions prévues aux articles R. 145-12 et R. 145-13 est faite au greffe par
+le juge assisté du greffier, après convocation des parties intéressées.
+
+Cette répartition est effectuée dès que la somme à distribuer atteint, déduction faite des frais à prélever et des créances
+privilégiées, un dividende de 35 p. 100 au moins.
+
+Toutefois, en cas de cause grave, notamment à la cessation des services du débiteur saisi, il est procédé à cette répartition
+quel que soit le montant des sommes à distribuer.
+
+En aucun cas il ne peut être sursis à la répartition plus de six mois à compter du premier encaissement au greffe ou de la
+dernière distribution.
+
+Si les parties ne s'entendent pas amiablement devant le juge, celui-ci procède à la répartition entre les ayants droit et
+dresse un procès-verbal indiquant le montant des frais à prélever, le montant des créances privilégiées, s'il en existe, et
+le montant des sommes attribuées à chaque ayant droit.
+
+Les sommes versées aux ayants droit sont quittancées sur le procès-verbal.
+
+Si les parties se sont entendues avant de comparaître devant le juge, la répartition amiable sera visée par lui, pourvu
+qu'elle ne comporte aucune disposition contraire à la loi et qu'elle ne comprenne aucun frais à la charge du débiteur. Le
+juge la fera porter sur les fiches individuelles prévues à l'article R. 145-20.
+
+Il n'est pas fait de répartition de sommes au-dessous de 10 F, à moins que les retenues opérées jusqu'à cette somme soient
+suffisantes pour désintéresser les créanciers.
+
+Toute partie intéressée peut réclamer, à ses frais, une copie ou un extrait de l'état de répartition.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte R145-12, R145-13, R145-20
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R145-9 (V)
+
+
+###### Article R145-15
+
+La saisie-arrêt et les interventions consignées par le greffier sur les fiches prévues à l'article R. 145-20 sont radiées par
+le greffier en vertu, soit d'un jugement les annulant, soit d'une attribution, soit d'une répartition constatant l'entière
+libération du débiteur, soit d'une mainlevée amiable que le créancier peut donner par acte sous seing privé légalisé et
+enregistré ou par une simple déclaration sur lesdites fiches. Dans tous les cas, un avis recommandé est adressé immédiatement
+au tiers saisi par le greffier.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte R145-20
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R145-16
+
+Si, depuis la première répartition, aucune nouvelle créance n'a été enregistrée au greffe, le juge, lors de la deuxième
+répartition, invite les créanciers à donner mainlevée de leur saisie, sous la condition que leur débiteur s'acquitte du
+reliquat de ses obligations dans un délai qu'ils déterminent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R156-4 (T)
+	  - Code du travail applicable à Mayotte. - art. R163-2 (V)
+
+
+###### Article R145-17
+
+Aucun créancier, compris dans les répartitions ci-dessus mentionnées, ne peut former une nouvelle saisie-arrêt sur la
+rémunération du débiteur, à moins qu'il ne soit pas payé à l'une des échéances convenues.
+
+Si un créancier, non compris dans ces répartitions ou dont la créance serait née postérieurement à l'ordonnance de mainlevée
+forme une saisie-arrêt ou si l'un de ces créanciers dont la saisie a été levée n'est pas payé au terme convenu et forme, pour
+cette cause, une nouvelle saisie, tous les créanciers, antérieurement saisissants ou intervenants, sont réinscrits d'office
+et sans frais pour la portion de leur créance non éteinte. Cette réinscription est faite par le greffier qui en avise le
+tiers saisi, dans les formes et délais prévus à l'article R. 145-5.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte R145-5
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R145-18
+
+Le juge qui a autorisé la saisie-arrêt reste compétent, même lorsque le débiteur transporte sa résidence dans le ressort d'un
+autre tribunal, tant qu'il n'a pas été procédé à une saisie dans le ressort du tribunal de la nouvelle résidence contre le
+même débiteur entre les mains du même tiers saisi.
+
+Dès que le tiers saisi est avisé de la saisie-arrêt nouvelle, il remet au greffier en chef du tribunal de première instance
+le solde des sommes retenues en vertu de la saisie primitive et il est fait une répartition qui met fin à la procédure
+initiale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R145-19
+
+Les frais de saisie-arrêt et de distribution sont à la charge du débiteur saisi. Ils sont prélevés sur la somme à distribuer.
+
+Tous frais de contestation jugée mal fondée sont mis à la charge de la partie qui succombe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R145-20
+
+Il est tenu au greffe du tribunal de première instance des fiches individuelles sur lesquelles sont mentionnés tous les actes
+d'une nature quelconque, décisions et formalités auxquels donne lieu l'exécution des dispositions de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R145-10 (V)
+	  - Code du travail applicable à Mayotte. - art. R145-13 (V)
+	  - Code du travail applicable à Mayotte. - art. R145-14 (V)
+	  - Code du travail applicable à Mayotte. - art. R145-15 (V)
+	  - Code du travail applicable à Mayotte. - art. R145-2 (V)
+	  - Code du travail applicable à Mayotte. - art. R145-6 (V)
+	  - Code du travail applicable à Mayotte. - art. R145-7 (V)
+
+
+###### Article R145-21
+
+Le greffier en chef verse les sommes dont il est comptable à l'une des caisses publiques ou banques désignées en application
+des dispositions de l'article L. 125-2, qui lui ouvre un compte spécial. Il opère ses retraits pour les besoins des
+répartitions, sur simple quittance, en justifiant de l'autorisation du juge.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L125-2
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+#### CHAPITRE VI : Règles particulières au contrôle et à la répartition des pourboires
+
+###### Article R146-1
+
+L'employeur est tenu de justifier de l'encaissement et de la remise à son personnel des sommes mentionnées à l'article L.
+146-1 [*pourboires*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L146-1
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R156-3 (Ab)
+
+
+###### Article R146-2
+
+Les modes de justification à la charge de l'employeur, les catégories de personnel qui doivent prendre part à la répartition
+des sommes visées à l'article L. 146-1 [*pourboires*] et les modalités de cette répartition sont déterminés par profession ou
+par catégorie professionnelle par les conventions collectives ou, à défaut, par des arrêtés du représentant du Gouvernement à
+Mayotte après consultation des organisations d'employeurs et de travailleurs intéressées.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L146-1
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R156-3 (Ab)
+
+
+### TITRE V : Pénalités
+
+#### CHAPITRE Ier : Contrat d'apprentissage et contrat de travail
+
+##### Section 1 : Contrat d'apprentissage.
+
+###### Article R151-1
+
+L'employeur qui contrevient aux dispositions des articles L. 113-3, L. 113-4, L. 113-6, L. 113-7, L. 113-8, L. 113-10 et L.
+114-2 est passible de l'amende prévue pour les contraventions de la 4e classe.
+
+En cas de récidive, le tribunal de police peut prononcer, outre l'amende prévue pour les contraventions de la 5e classe, un
+emprisonnement de dix jours à un mois [*durée*].
+
+L'employeur qui contrevient à l'article L. 113-5 [*conditions d'agrément*] est passible d'un emprisonnement de dix jours à un
+mois et de l'amende prévue pour les contraventions de la 5e classe ou de l'une de ces deux peines seulement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L113-3, L113-4, L113-6, L113-7, L113-8, L113-10, L114-2, L113-5
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L113-3, L113-4, L113-6, L113-7, L113-8, L113-10, L114-2, L113-5
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R151-2
+
+Sont passibles de l'amende prévue pour les contraventions de la 5e classe [*(1) montant*] les employeurs qui paient des
+salaires inférieurs au minimum prévu par l'article L. 113-9 [*pourcentage du SMIG*].
+
+L'amende sera appliquée autant de fois qu'il y aura d'apprentis rémunérés dans des conditions illégales.
+
+En cas de récidive dans le délai d'un an, le contrevenant est passible de l'amende prévue pour les contraventions de la 5e
+classe en récidive et d'une peine d'emprisonnement d'un mois à deux mois [*durée*].
+
+En cas de pluralité de contraventions entraînant les peines de récidive, l'amende sera appliquée autant de fois qu'il aura
+été relevé de nouvelles contraventions.
+
+En cas de condamnation, le tribunal peut ordonner l'affichage du jugement, conformément aux dispositions de l'article 471 du
+code pénal.
+
+**Nota:**
+
+[*Nota : (1) voir l'article 131-13 du code pénal.*]
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L113-9
+	  - Code pénal 471
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R151-3
+
+L'employeur qui contrevient aux dispositions de l'article L. 114-3 [*horaires de travail*] est passible de l'amende prévue
+pour les contraventions de la 4e classe.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L114-3
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L114-3
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R151-4
+
+L'employeur qui contrevient aux dispositions des articles L. 114-4 [*travail de nuit*] et L. 114-5 [*congés pour la
+préparation des épreuves des apprentis*] est passible de l'amende prévue pour les contraventions de la 5e classe.
+
+En cas de récidive, l'amende prévue pour les contraventions de la 5e classe commises en état de récidive est encourue.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L114-4, L114-5
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L114-4, L114-5
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+##### Section 2 : Contrat de travail.
+
+###### Article R151-5
+
+Toute contravention à l'article L. 122-33 [*obligation de délivrer un certificat à l'expiration du contrat de travail*] sera
+passible de l'amende prévue pour les contraventions de la 4e classe. En cas de récidive, le tribunal de police pourra
+prononcer, outre l'amende prévue pour les contraventions de la 5e classe, un emprisonnement de dix jours à un mois [*durée*].
+
+**Nota:**
+
+[*Nota : (1) voir l'article 131-13 du code pénal.*]
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L122-33
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-33
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R151-6
+
+Toute infraction aux dispositions des articles L. 122-35 [*réintégration dans l'entreprise aprés la libération des
+obligations militaires*] L. 122-36 [*priorité à l'embauche*] et L. 122-37 et à celles de l'article R. 122-6 est punie de
+l'amende prévue pour les contraventions de la 5e classe.
+
+En cas de récidive dans le délai d'un an, le tribunal peut prononcer, outre l'amende prévue pour les contraventions de la 5e
+classe en récidive, un emprisonnement d'un mois à deux mois [*durée*].
+
+**Nota:**
+
+[*Nota : (1) voir l'article 131-13 du code pénal.*]
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L122-35, L122-36, L122-37, R122-6
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-35, L122-37, R122-6
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R151-7
+
+Sans préjudice de l'application de l'article L. 122-53 (alinéa 1er), est passible des peines d'amende prévue pour les
+contraventions de la 5e classe, en première infraction et en récidive, l'employeur qui contrevient aux dispositions des
+articles L. 122-45 à L. 122-51 et aux dispositions des articles R. 122-7 à R. 122-10.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L122-45, L122-46, L122-47, L122-48, L122-49, L122-50, L122-51, R122-7, R122-8, R122-9, R122-10
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-53, L122-45 à L122-51, R122-7 à R122-10
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R151-8
+
+Toute contravention aux articles L. 122-67 à L. 122-71, R. 122-11 à R. 122-15 [*réglement intérieur de l'entreprise*] sera
+passible de l'amende prévue pour les contraventions de la 4e classe. En cas de récidive, le tribunal de police pourra
+prononcer, outre l'amende prévue pour les contraventions de la 5e classe, un emprisonnement de dix jours à un mois [*durée*].
+
+**Nota:**
+
+[*Nota : (1) voir l'article 131-13 du code pénal.*]
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-67 à L122-71, R122-11 à R122-15
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L122-67, L122-68, L122-69, L122-70, L122-71, R122-11, R122-12, R122-13, R122-14, R122-15
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+#### CHAPITRE II : Marchandages
+
+###### Article R152-1
+
+Toute contravention à l'article R. 124-1 [*publicité obligatoire*] sera passible de l'amende prévue pour les contraventions
+de la 4e classe. En cas de récidive, le tribunal pourra prononcer, outre l'amende prévue pour les contraventions de la 5e
+classe, un emprisonnement de dix jours à un mois [*durée*].
+
+**Nota:**
+
+[*Nota : (1) voir l'article 131-13 du code pénal.*]
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte R124-1
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte R124-1
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R152-7 (V)
+
+
+#### CHAPITRE III : Cautionnements
+
+###### Article R153-1
+
+Toute infraction aux prescriptions des articles L. 125-1, L. 125-2 et des arrêtés pris pour leur application ainsi qu'aux
+prescriptions de l'article R. 125-1 [*règles relatives au cautionnement*] sera passible de l'amende prévue pour les
+contraventions de la 5e classe.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L125-1, L125-2, R125-1
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L125-1, L125-2, R125-1
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+#### CHAPITRE IV : Groupements d'employeurs
+
+###### Article R154-1
+
+Sera punie de la peine d'amende prévue pour les contraventions de la 5e classe la personne responsable de la gestion des
+installations ou des moyens de transports collectifs qui, dans une entreprise utilisatrice, aura contrevenu aux dispositions
+de l'article L. 126-5 en empêchant un salarié mis à sa disposition par le groupement d'avoir accès, dans les mêmes conditions
+que les salariés de cette entreprise, à ces équipements collectifs.
+
+En cas de récidive, les peines prévues pour les contraventions de la 5e classe commises en récidive seront applicables.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L126-5
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L126-5
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+#### CHAPITRE V : Conventions et accords collectifs de travail
+
+###### Article R155-1
+
+Lorsqu'une convention ou un accord collectif a fait l'objet d'un arrêté d'extension, l'employeur lié par cette convention ou
+cet accord qui paye des salaires inférieurs à ceux qui sont fixés par cette convention ou cet accord sera puni de la peine
+d'amende prévue pour les contraventions de la 4e classe. En cas de récidive dans le délai d'un an, la peine d'amende sera
+celle qui est prévue pour les contraventions de la 5e classe.
+
+L'amende est prononcée autant de fois qu'il y a de salariés lésés et, en cas de pluralité de contraventions entraînant des
+peines de récidive, autant de fois qu'il a été relevé de nouvelles contraventions.
+
+Est passible des mêmes peines d'amende l'employeur qui contrevient aux stipulations relatives aux accessoires du salaire qui
+ont fait l'objet d'un arrêté d'extension. Est passible des mêmes peines l'employeur qui contrevient à des dispositions
+législatives et réglementaires relatives aux accessoires du salaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+#### CHAPITRE VI : Salaire
+
+##### Section 1 : Egalité de rémunération entre les hommes et les femmes.
+
+###### Article R156-1
+
+I. - Tout employeur qui contrevient aux dispositions des articles L. 140-1 et L. 140-2 [*égalité entre les hommes et les
+femmes*] est passible de l'amende prévue pour les contraventions de la 5e classe.
+
+L'amende sera appliquée autant de fois qu'il y aura de travailleurs rémunérés dans des conditions illégales.
+
+En cas de récidive dans le délai d'un an, la peine d'amende sera celle prévue pour les contraventions de la 5e classe en
+récidive et une peine d'emprisonnement de un mois à deux mois [*durée*] pourra être prononcée.
+
+En cas de condamnation, le tribunal peut ordonner l'affichage du jugement, conformément aux dispositions de l'article 471 du
+code pénal.
+
+II. - Le défaut de communication par l'employeur des éléments [*qui concourent à la détermination des rémunérations dans
+l'entreprise*] définis à l'article R. 140-1 est passible de l'amende prévue pour les contraventions de la 3e classe pouvant
+être portée à celle prévue pour les contraventions de la 4e classe en cas de récidive dans le délai d'un an.
+
+**Nota:**
+
+[*Nota : (1) voir l'article 131-13 du code pénal.*]
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L140-1, L140-2
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L140-1, L140-2, R140-1
+	  - Code pénal 471
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+##### Section 2 : Salaire minimum garanti et rémunération mensuelle minimale garantie.
+
+###### Article R156-2
+
+Sont passibles de l'amende prévue pour les contraventions de la 5e classe les employeurs qui paient des salaires inférieurs
+au minimum prévu par l'article L. 141-2 ainsi que les employeurs qui paient des rémunérations inférieures à la rémunération
+mensuelle minimale garantie par l'article L. 141-3.
+
+L'amende sera appliquée autant de fois qu'il y aura de travailleurs rémunérés dans des conditions illégales.
+
+En cas de récidive dans le délai d'un an, le contrevenant est passible de l'amende prévue pour les contraventions de la 5e
+classe en récidive et d'une peine d'emprisonnement d'un mois à deux mois [*durée*].
+
+En cas de pluralité de contraventions entraînant des peines de récidive, l'amende sera appliquée autant de fois qu'il aura
+été relevé de nouvelles contraventions.
+
+En cas de condamnation, le tribunal peut ordonner l'affichage du jugement, conformément aux dispositions de l'article 471 du
+code pénal.
+
+**Nota:**
+
+[*Nota : (1) voir l'article 131-13 du code pénal.*]
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L141-2, L141-3
+	  - Code pénal 471
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+##### Section 3 : Paiement du salaire.
+
+###### Article R156-3
+
+Sans préjudice de la responsabilité civile, toute contravention aux prescriptions des articles L. 143-1 à L. 143-3, L. 143-5,
+L. 146-1, L. 146-2, R. 143-1, R. 143-2 et R. 146-1 ainsi que des arrêtés prévus à l'article R. 146-2, sera passible de
+l'amende prévue pour les contraventions de la 3e classe.
+
+En cas de récidive dans le délai d'un an, l'amende sera celle prévue pour les contraventions de la 4e classe.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L143-1 à L143-3, L143-5, L146-1, L146-2, R143-1, R143-2, R146-1, R146-2
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L143-1, L143-2, L143-3, L143-5, L146-1, L146-2, R143-1, R143-2, R146-1, R146-2
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+##### Section 4 : Retenues sur le salaire.
+
+###### Article R156-4
+
+Les contraventions aux dispositions de l'article L. 144-3 sont passibles de l'amende prévue pour les contraventions de la 4e
+classe, le tribunal peut en outre ordonner la mesure prévue à l'article L. 156-2.
+
+Ces peines seront indépendantes des restitutions et des dommages-intérêts auxquels pourront donner lieu les faits incriminés.
+
+Seront condamnés aux peines de la banqueroute frauduleuse les individus convaincus d'avoir frauduleusement inscrit, pour
+prendre part à la mainlevée prévue aux articles L. 145-4 et R. 145-16, des créances supposées.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L144-3
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L144-3, L156-2, L145-4, R145-16
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+## LIVRE II : Réglementation du travail
+
+### TITRE Ier : Conditions de travail
+
+#### CHAPITRE II : Durée du travail
+
+###### Article R212-1
+
+Les recours hiérarchiques dirigés contre les décisions prévues à l'article L. 212-6 [*heures supplémentaires*] sont portés
+devant le directeur du travail chargé de la coordination des départements d'outre-mer et des collectivités territoriales
+[*autorité compétente*].
+
+Ces recours doivent, à peine de forclusion, être présentés dans les quinze jours suivant la notification des décisions
+contestées, à l'inspection du travail, qui les transmet sans délai au directeur mentionné à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L212-6
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R212-2 (V)
+
+
+###### Article R212-2
+
+Lorsqu'il statue sur les recours prévus à l'article R. 212-1, le directeur du travail chargé de la coordination des
+départements d'outre-mer et des collectivités territoriales se prononce en tenant compte notamment de la situation de
+l'emploi.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte R212-1
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+#### CHAPITRE III : Travail de nuit
+
+###### Article R213-1
+
+Les employeurs des industries qui, en application de l'article L. 213-4, veulent déroger temporairement aux dispositions des
+articles L. 213-1 et L. 213-2 interdisant le travail de nuit des femmes, doivent adresser à l'inspecteur du travail une
+demande justificative faisant en outre connaître le nombre et la date des nuits pendant lesquelles il doit être fait usage de
+l'autorisation, ainsi que le nombre de femmes majeures auxquelles s'appliquera cette dérogation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L213-4, L213-1, L213-2
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R213-2 (M)
+
+
+###### Article R213-2
+
+Les chefs d'établissement qui, en cas de chômage résultant d'une interruption accidentelle ou de force majeure, veulent, en
+application de l'article L. 213-5, déroger temporairement aux dispositions des articles L. 213-1 et L. 213-2 interdisant le
+travail de nuit des femmes, doivent adresser à l'inspecteur du travail, une demande dans la forme prévue à l'article R.
+213-1.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L213-5, L213-1, L213-2, R213-1
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+### TITRE II : Repos et congés
+
+#### CHAPITRE Ier : Repos hebdomadaire
+
+###### Article R221-1
+
+Lorsqu'un établissement veut bénéficier de l'une des exceptions à l'attribution le dimanche du repos hebdomadaire, qui sont
+prévues à l'article L. 221-7, il est tenu d'adresser une demande au représentant du Gouvernement à Mayotte.
+
+Les avis prévus audit article doivent être donnés dans le délai d'un mois.
+
+Le représentant du Gouvernement statue ensuite par un arrêté motivé qu'il notifie dans la huitaine.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L221-7
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R221-2
+
+Les demandes formées en vertu de l'article L. 221-8 sont adressées au représentant du Gouvernement à Mayotte [*autorité
+compétente*].
+
+Celui-ci statue par un arrêté motivé qu'il notifie dans la huitaine aux établissements intéressés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L221-8
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R221-3
+
+Les employeurs des établissements qui ne donnent pas à tout le personnel sans exception le repos de la journée entière du
+dimanche sont soumis aux obligations ci-après :
+
+1° Lorsque le repos est donné collectivement à la totalité ou à une partie du personnel, soit un autre jour que le dimanche,
+soit du dimanche midi au lundi midi, soit le dimanche après-midi sous réserve du repos compensateur, soit suivant tout autre
+mode exceptionnel permis par la loi, des affiches doivent indiquer les jours et heures du repos collectif ainsi donné.
+
+2° Lorsque le repos n'est pas donné collectivement à tout le personnel, soit pendant la journée entière du dimanche, soit
+sous l'une des autres formes prévues par la loi, un registre spécial doit mentionner les noms des salariés soumis à un régime
+particulier de repos et indiquer ce régime. En ce qui concerne chacune de ces personnes, le registre doit fait connaître le
+jour et, éventuellement, les fractions de journées choisies pour le repos.
+
+L'inscription sur ce registre des salariés récemment embauchés devient obligatoire après un délai de six jours. Jusqu'à
+l'expiration de ce délai, et à défaut d'inscription sur le registre, il ne peut être réclamé par les agents chargés du
+contrôle qu'un cahier régulièrement tenu portant l'indication du nom et la date d'embauchage des salariés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R221-4
+
+L'affiche doit être facilement accessible et lisible.
+
+Un exemplaire est envoyé, avant affichage, à l'inspecteur du travail.
+
+Le registre est tenu constamment à jour. La mention des journées de repos dont bénéficie un salarié peut toujours être
+modifiée. Il suffit que la modification de service soit portée au registre avant de recevoir exécution. Toutefois, la
+modification ainsi faite ne peut en aucun cas priver le remplaçant du repos auquel il a droit.
+
+Le registre reste à la disposition des agents chargés du contrôle et doit être communiqué aux salariés qui en font la
+demande. Il est visé par les agents chargés du contrôle au cours de leurs visites.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R221-5
+
+Tout employeur qui veut suspendre le repos hebdomadaire, en vertu des articles L. 221-13, L. 221-22 et L. 221-23, doit en
+aviser l'inspecteur du travail immédiatement et, sauf le cas de force majeure, avant le commencement du travail.
+
+Il doit faire connaître à ce fonctionnaire les circonstances qui justifient la suspension du repos hebdomadaire, indiquer la
+date et la durée de cette suspension et spécifier le nombre de salariés auxquels elle s'applique.
+
+En outre, dans le cas prévu par l'article L. 221-13, lorsque des travaux urgents sont exécutés par une entreprise distincte,
+l'avis du chef, du directeur ou du gérant de cette entreprise mentionne la date du jour de repos compensateur assuré au
+personnel.
+
+Pour les industries déterminées à l'article L. 221-23, l'avis indique les deux jours de repos mensuels réservés aux salariés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L221-13, L221-22, L221-23
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R221-6
+
+Dans les cas prévus à l'article précédent, copie de l'avis doit être affichée dans l'établissement pendant toute la durée de
+la dérogation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte R221-5
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+#### CHAPITRE II : Jours fériés
+
+###### Article R222-1
+
+L'indemnité de privation de salaire pour la journée du 1er mai prévue par le deuxième alinéa de l'article L. 222-7 est
+calculée sur la base de l'horaire de travail et de la répartition de la durée hebdomadaire du travail habituellement
+pratiquée dans l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L222-7
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R254-5 (V)
+
+
+#### CHAPITRE III : Congés annuels
+
+###### Article R223-1
+
+Le point de départ de la période prise en considération pour l'application du droit au congé est fixé au 1er juin de chaque
+année.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+### TITRE V : Pénalités
+
+#### Chapitre préliminaire.
+
+###### Article R250-1
+
+Les infractions à l'article L. 200-1 et aux règlements pris pour son application seront passibles de l'amende prévue pour les
+contraventions de la 3e classe.
+
+En cas de récidive dans le délai d'un an, les contrevenants seront passibles de l'amende prévue pour les contraventions de la
+4e classe.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L200-1
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L200-1
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R250-2 (V)
+
+
+###### Article R250-2
+
+L'amende est appliquée autant de fois qu'il y a de personnes employées dans des conditions contraires aux prescriptions
+mentionnées aux articles R. 250-1, R 253-1, R. 253-4, R. 253-5, R. 253-6, R. 253-7, R. 254-1, R. 254-3 et R. 254-6.
+
+En cas de pluralité de contraventions entraînant les peines de la récidive, l'amende est appliquée autant de fois qu'il a été
+relevé de nouvelles infractions.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte R250-1, R253-1, R253-4, R253-5, R253-6, R253-7, R254-1, R254-3, R254-6
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte R250-1, R253-1, R253-4, R253-5, R253-6, R253-7, R254-1, R254-3, R254-6
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+#### Chapitre 1er : Hygiène et sécurité.
+
+###### Article R251-1
+
+Le chef d'établissement sera puni de l'amende prévue pour les contraventions de la 5e classe lorsque, à l'expiration du délai
+prévu dans la mise en demeure notifiée en application de l'article R. 230-9, il n'aura pas été remédié aux infractions
+constatées.
+
+L'amende est appliquée autant de fois qu'il y a de salariés directement exposés à la situation dangereuse visée par la mise
+en demeure.
+
+En cas de récidive, il pourra être prononcé une peine d'emprisonnement d'une durée d'un mois à deux mois [*durée*] et
+l'amende prévue pour les contraventions de la 5e classe en récidive ou une de ces deux peines seulement.
+
+**Nota:**
+
+[*Nota : (1) voir l'article 131-13 du code pénal.*]
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte R230-9
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+#### Chapitre 3 : Conditions du travail
+
+##### Section 1 : Age d'admission.
+
+###### Article R253-1
+
+Seront passibles de l'amende prévue pour les contraventions de la 5e classe les infractions aux articles L. 211-1, L. 211-2
+et L. 211-3 ainsi qu'aux règlements pris pour leur application.
+
+En cas de récidive dans le délai d'un an, l'amende sera celle prévue pour les contraventions de la 5e classe en récidive.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L211-1, L211-2, L211-3
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L211-1, L211-2, L211-3
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R250-2 (V)
+
+
+##### Section 2 : Durée du travail
+
+##### Paragraphe 1 : Dispositions générales
+
+###### Article R253-2
+
+Tout chef d'établissement qui contrevient aux dispositions de l'article L. 212-1 et à celles des règlements prévus par
+l'article L. 212-2 sera passible de l'amende prévue pour les contraventions de la 4e classe.
+
+Les contraventions donneront lieu à autant d'amendes qu'il y a d'ouvriers indûment employés.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L212-1, L212-2
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L212-1, L212-2
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+##### Paragraphe 2 : Heures supplémentaires
+
+###### Article R253-3
+
+Les infractions aux articles L. 212-5 et L. 212-6 sont punies de l'amende prévue pour les contraventions de la 4e classe. Les
+dispositions de l'article L. 250-1 leur sont applicables. Les contraventions donneront lieu à autant d'amendes qu'il y a
+d'ouvriers indûment employés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L212-5, L212-6, L250-1
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L212-5, L212-6, L250-1
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+##### Paragraphe 3 : Dispositions relatives aux jeunes travailleurs
+
+###### Article R253-4
+
+Seront passibles de l'amende prévue pour les contraventions de la 5e classe les infractions à l'article L. 212-8.
+
+En cas de récidive dans le délai d'un an, l'amende sera celle prévue pour les contraventions de la 5e classe en récidive.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L212-8
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L212-8
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R250-2 (V)
+
+
+###### Article R253-5
+
+Toute infraction à l'article L. 212-7 est passible de l'amende prévue pour les contraventions de la 4e classe.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L212-7
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L212-7
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+##### Section 3 : Travail de nuit.
+
+###### Article R253-6
+
+Seront passibles de l'amende prévue pour les contraventions de la 5e classe les infractions aux articles L. 213-1 à L. 213-8
+ainsi qu'aux règlements pris pour leur application.
+
+En cas de récidive dans le délai d'un an, l'amende sera celle prévue pour les contraventions de la 5e classe en récidive.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L213-1, L213-2, L213-3, L213-4, L213-5, L213-6, L213-7, L213-8
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L213-1, L213-2, L213-3, L213-4, L213-5, L213-6, L213-7, L213-8
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R253-7
+
+Toute infraction à l'article L. 213-9 est passible de l'amende prévue pour les contraventions de la 4e classe.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L213-9
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L213-9
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+#### Chapitre 4 : Repos et congés
+
+##### Section 1 : Repos hebdomadaire.
+
+###### Article R254-1
+
+Seront passibles de l'amende prévue pour les contraventions de la 5e classe les infractions aux articles L. 221-2, L. 221-4 à
+L. 221-28 ainsi qu'aux règlements pris pour leur application.
+
+En cas de récidive dans le délai d'un an, l'amende sera celle prévue pour les contraventions de la 5e classe en récidive.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L221-2, L221-4 à L221-28
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L221-2, L221-4 à L221-28
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R250-2 (V)
+
+
+###### Article R254-2
+
+Toute infraction à l'article L. 221-3 est passible de l'amende prévue pour les contraventions de la 4e classe.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L221-3
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L221-3
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+##### Section 2 : Jours fériés
+
+##### Paragraphe 1 : Dispositions générales
+
+###### Article R254-3
+
+Seront passibles de l'amende prévue pour les contraventions de la 5e classe les infractions aux articles L. 222-3 et L. 222-4
+ainsi qu'aux règlements pris pour leur application.
+
+En cas de récidive dans le délai d'un an, l'amende sera celle prévue pour les contraventions de la 5e classe en récidive.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L222-3, L222-4
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L222-3, L222-4
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R250-2 (V)
+
+
+###### Article R254-4
+
+Toute infraction à l'article L. 222-5 est passible de l'amende prévue pour les contraventions de la 4e classe.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L222-5
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L222-5
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+##### Paragraphe 2 : Dispositions particulières à la journée du 1er mai.
+
+###### Article R254-5
+
+Toute contravention aux articles L. 222-6 à L. 222-8 et R. 222-1 est passible de l'amende prévue pour les contraventions de
+la 4e classe.
+
+L'amende est appliquée autant de fois qu'il y a des salariés indûment employés ou rémunérés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L222-6, L222-7, L222-8, R222-1
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L222-6, L222-7, L222-8, R222-1
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+##### Section 3 : Congés annuels.
+
+###### Article R254-6
+
+Seront passibles de l'amende prévue pour les contraventions de la 5e classe les infractions aux articles L. 223-1 à L. 223-12
+ainsi qu'aux règlements pris pour leur application.
+
+En cas de récidive dans le délai d'un an, l'amende sera celle prévue pour les contraventions de la 5e classe en récidive.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L223-1 à L223-12
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L223-1 à L223-12
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R250-2 (V)
+
+
+## LIVRE III : Emploi
+
+### TITRE Ier : Déclaration des mouvements de main-d'oeuvre - Travail clandestin
+
+#### Chapitre 1er : Déclaration des mouvements de main-d'oeuvre.
+
+###### Article R311-1
+
+Les employeurs des établissements mentionnés à l'article L. 311-1 sont tenus [*obligation*] d'adresser, dans les huit
+premiers jours de chaque mois [*délai*], au chef du service de l'inspection du travail, le relevé des contrats de travail
+conclus ou résiliés au cours du mois précédent.
+
+Ce relevé doit contenir les mentions [*obligatoires*] suivantes :
+
+1° Nom et adresse de l'employeur ;
+
+2° Nature de l'activité de l'entreprise ;
+
+3° Nom, prénoms, nationalité, date de naissance, sexe, emploi et qualification du ou des salariés dont le contrat a été
+conclu ou résilié ;
+
+4° Date d'effet du ou des contrats de travail ou de leur résiliation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L311-1
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R342-1 (M)
+	  - Code du travail applicable à Mayotte. - art. R342-2 (V)
+
+
+#### Chapitre 2 : Travail clandestin.
+
+###### Article R312-1
+
+Tout entrepreneur travaillant sur un chantier ayant donné lieu à la délivrance d'un permis de construire doit, pendant la
+durée d'affichage du permis, afficher sur ce chantier son nom, sa raison ou sa dénomination sociale ainsi que son adresse.
+
+L'affichage est assuré sur un panneau dont les indications sont lisibles de la voie publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R341-1 (V)
+
+
+### Titre 2 : Aides à l'emploi - Intervention du fonds national de l'emploi
+
+#### Chapitre 1er : Généralités.
+
+###### Article R321-1
+
+Les actions d'urgence que le représentant du Gouvernement à Mayotte est habilité à engager en application des dispositions
+des articles L. 321-1 comportent notamment des mesures temporaires de formation professionnelle.
+
+Ces actions peuvent être conduites dans le cadre des conventions de coopération prévues à l'article L. 321-2.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L321-1, L321-2
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R321-2 (V)
+
+
+###### Article R321-2
+
+Les conventions mentionnées à l'article R. 321-1 sont conclues pour une durée limitée en vue d'organiser des actions de
+reconversion, de formation ou d'adaptation destinées à des salariés devant acquérir un nouveau savoir-faire professionnel
+dans le cadre d'une évolution de l'emploi au sein des entreprises.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte R321-1
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R321-3
+
+Les conventions peuvent prévoir, soit l'organisation de sessions de formation en dehors de la production, soit
+l'accomplissement des actions de formation aux postes de travail sous la direction de moniteurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R321-4
+
+Les conventions de formation déterminent notamment [*contenu*] :
+
+- l'objet, la nature et la durée de la formation dispensée ainsi que le nombre prévu de stagiaires ;
+
+- les modalités du contrôle technique permettant notamment de fixer le temps de formation servant de base à la participation
+de l'Etat aux dépenses de fonctionnement ;
+
+- les conditions de création et de fonctionnement des stages ;
+
+- les conditions de prise en charge des frais de formation pédagogique des moniteurs et de leur rémunération ;
+
+- la participation de l'Etat aux dépenses de matières d'oeuvre et d'amortissement des machines, et éventuellement, pour les
+sections de formation hors production, sa participation à l'équipement en matériel et à l'aménagement des locaux ;
+
+- la partie de la rémunération et des charges sociales des stagiaires prise en charge par l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R321-5
+
+Les représentants du personnel sont consultés sur les projets relatifs aux conventions mentionnées à l'article L. 321-2.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L321-2
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R321-6
+
+Le comité de la formation professionnelle, de la promotion sociale et de l'emploi est informé sur les conditions générales de
+mise en oeuvre, dans la collectivité territoriale, des conventions mentionnées à l'article L. 321-2.
+
+Les conventions mentionnées à l'article L. 321-2 sont, avant leur conclusion, soumises pour avis au comité de la formation
+professionnelle, de la promotion sociale et de l'emploi.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L321-2
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+### TITRE III : Main-d'oeuvre étrangère
+
+###### Article R330-1
+
+Tout étranger, pour exercer à temps plein ou à temps partiel une activité professionnelle salariée à Mayotte doit être
+titulaire d'une autorisation de travail en cours de validité [*condition obligatoire*].
+
+L'autorisation est délivrée par le représentant du Gouvernement. Elle autorise l'étranger à exercer, selon les cas, une ou
+plusieurs activités professionnelles salariées ou activité professionnelle salariée de son choix dans la collectivité
+territoriale de Mayotte.
+
+L'autorisation prend la forme d'un titre comportant notamment la photographie de l'intéressé. Ce titre doit être présenté à
+toute réquisition des autorités chargées du contrôle des conditions de travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+	**Cité par**:
+
+	  - Décret n°2016-1456 du 28 octobre 2016 - art. 18
+
+
+###### Article R330-2
+
+La durée de l'autorisation de travail ne peut excéder trente-six mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R330-3
+
+L'étranger qui demande à exercer à Mayotte une activité professionnelle salariée doit joindre à la première demande
+d'autorisation de travail qu'il souscrit, un contrat de travail [*document obligatoire*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R330-4
+
+L'étranger qui sollicite le renouvellement d'une autorisation de travail doit joindre à sa demande un contrat ou une promesse
+de contrat précisant la profession, le salaire offert et la durée hebdomadaire de travail [*document obligatoire*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R330-5
+
+Pour accorder ou refuser l'autorisation de travail sollicitée le représentant du Gouvernement [*autorité compétente*] prend
+notamment en considération les éléments suivants d'appréciation :
+
+1° La situation de l'emploi présente et à venir dans la profession demandée par le travailleur étranger ;
+
+2° Les conditions d'application par l'employeur de la réglementation relative au travail ;
+
+3° Les conditions d'emploi et de rémunération offertes au travailleur étranger, qui doivent être identiques à celles dont
+bénéficient les travailleurs français ;
+
+4° Les dispositions prises par l'employeur pour assurer ou faire assurer, dans des conditions normales, le logement du
+travailleur étranger.
+
+Seuls les éléments d'appréciation mentionnés au 2° et 3° ci-dessus sont pris en considération pour l'examen des demandes
+présentées par les réfugiés et par les apatrides.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+### TITRE IV : Pénalités
+
+#### CHAPITRE Ier : Travail clandestin
+
+###### Article R341-1
+
+Les infractions aux dispositions de l'article R. 312-1 seront punies de l'amende prévue pour les contraventions de la 5e
+classe.
+
+Le tribunal pourra ordonner, aux frais du condamné, l'affichage du jugement sur le chantier ainsi qu'à la porte du principal
+établissement de l'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte R312-1
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte R312-1
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+#### CHAPITRE II : Déclaration des mouvements de main-d'oeuvre
+
+###### Article R342-1
+
+Toute personne qui aura contrevenu aux dispositions de l'article L. 311-1 ainsi qu'à l'arrêté du représentant du Gouvernement
+pris pour son application sera punie de la peine d'amende prévue pour les contraventions de la 4e classe.
+
+Sera punie de la même peine toute personne qui n'aura pas fourni les renseignements prévus à l'article R. 311-1.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L311-1
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L311-1, R311-1
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+## LIVRE IV : Les groupements professionnels - La représentation des salariés
+
+### TITRE Ier : Les syndicats professionnels
+
+#### CHAPITRE Ier : Statut juridique des syndicats
+
+###### Article R411-1
+
+Le dépôt [*des statuts*] prévu à l'article L. 411-3 a lieu à la mairie de la localité où le syndicat est établi.
+
+Communication des statuts doit être donnée par le maire au procureur de la République.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L411-3
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R430-1 (Ab)
+	  - Code du travail applicable à Mayotte. - art. R451-1 (V)
+
+
+#### CHAPITRE II : Droit syndical et représentativité des syndicats
+
+###### Article R412-1
+
+Un arrêté du représentant du Gouvernement fixe les conditions dans lesquelles sont allouées les indemnités de déplacement des
+membres de la commission consultative du travail, des commissions mixtes visées à l'article L. 133-1 et du comité de la
+formation professionnelle, de la promotion sociale et de l'emploi et, pour les membres autres que les fonctionnaires en
+activité, les vacations.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L133-1
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+### Titre 3 : Pénalités.
+
+###### Article R430-1
+
+Les directeurs ou administrateurs de syndicats ou d'unions de syndicats qui auront commis des infractions aux dispositions de
+l'article R. 411-1 seront punis de l'amende prévue pour les contraventions de la 5e classe.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte R411-1
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte R411-1
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+## LIVRE V : Conflits du travail
+
+### TITRE Ier : Conflits collectifs
+
+#### CHAPITRE III : Conciliation
+
+###### Article R513-1
+
+Tout conflit collectif de travail est immédiatement notifié par la partie la plus diligente, au représentant du Gouvernement
+qui, en liaison avec l'inspection du travail, intervient en vue de rechercher une solution amiable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+##### Section 1 : Composition des commissions de conciliation.
+
+###### Article R513-2
+
+Les membres des commissions de conciliation sont nommés pour trois ans [*durée*].
+
+Les représentants des employeurs et ceux des salariés sont nommés sur proposition des organisations syndicales d'employeurs
+et de salariés les plus représentatives à Mayotte. Ces organisations soumettent à cet effet des listes comportant des noms en
+nombre double de celui des postes à pourvoir.
+
+Avant de procéder aux nominations, le représentant du Gouvernement prend l'avis du chef du service de l'inspection du
+travail.
+
+Des membres suppléants, en nombre double de celui des membres titulaires, sont désignés dans les mêmes conditions que ces
+derniers. Ils ne peuvent siéger qu'en l'absence des titulaires.
+
+Les représentants titulaires et suppléants des employeurs et des salariés au sein de la commission de conciliation sont
+choisis parmi les employeurs et les salariés qui exercent effectivement leur activité professionnelle dans le ressort de
+cette commission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R513-3
+
+Les membres des commissions doivent être de nationalité française et jouir de leurs droits civils et politiques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+##### Section 2 : Fonctionnement des commissions de conciliation.
+
+###### Article R513-4
+
+En cas de recours par les parties à la procédure réglementaire de conciliation, la partie la plus diligente adresse au
+président de la commission une requête rédigée sur papier libre et exposant les points sur lesquels porte le litige.
+
+Lorsque le représentant du Gouvernement saisit la commission de conciliation, la convocation adressée aux membres de celle-ci
+précise l'objet du conflit.
+
+Les requêtes et communications susvisées doivent être inscrites à leur date sur un registre spécial ouvert au service de
+l'inspection du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R513-5
+
+Devant les commissions de conciliation, les parties peuvent être assistées d'un membre de l'organisation syndicale ou
+professionnelle à laquelle elles appartiennent.
+
+Sauf les personnes morales qui sont représentées dans les conditions prévues au septième alinéa de l'article L. 513-4, les
+parties ne peuvent se substituer un représentant qu'en cas d'empêchement grave constaté par la commission.
+
+Dans l'un et l'autre cas le représentant doit appartenir à la même organisation que la partie qu'il représente ou exercer
+effectivement, à titre permanent, une activité dans l'entreprise où a lieu le conflit. Il doit être dûment mandaté et avoir
+qualité pour conclure un accord de conciliation au nom de son mandant.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L513-4
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R514-4 (V)
+
+
+###### Article R513-6
+
+La convocation des parties au conflit doit être faite, à la diligence du président de la commission, soit par lettre
+recommandée avec demande d'avis de réception, soit par avertissement délivré contre récépissé signé par l'intéressé
+[*condition de forme*].
+
+Lorsque l'une d'elles, régulièrement convoquée, ne comparaît pas ou ne se fait pas représenter devant la commission dans les
+cas et conditions prévus aux deux premiers alinéas de l'article L. 513-4, le président, après avoir constaté son absence,
+fixe séance tenante une nouvelle date de réunion qui ne peut être distante de plus de huit jours de la date primitivement
+fixée. Il notifie sur-le-champ cette date de réunion à la partie présente ou représentée et il convoque la partie défaillante
+en les formes prévues à l'alinéa 1er ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L513-4
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R514-4 (V)
+
+
+###### Article R513-7
+
+En cas de non-comparution à la nouvelle réunion de la commission, sans motif légitime, d'une partie régulièrement convoquée,
+le président établit un procès-verbal de carence indiquant les points de désaccord précisés par la partie présente ou
+représentée.
+
+La non-comparution de la partie qui a introduit la requête aux fins de conciliation vaut renonciation à la demande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R513-8
+
+Lorsqu'un accord est intervenu devant une commission de conciliation, procès-verbal en est dressé et notifié sur-le-champ par
+le président de la commission aux parties.
+
+Le dépôt en est effectué conformément aux dispositions de l'article L. 132-10.
+
+Si les parties ne se mettent pas d'accord sur tout ou partie du litige, un procès-verbal de non-conciliation, énonçant avec
+précision les points sur lesquels les parties se sont mises d'accord et ceux sur lesquels le différend persiste, est aussitôt
+dressé et notifié aux parties par lettre recommandée avec demande d'avis de réception.
+
+Le procès-verbal est signé par le président et les membres de la commission et par les parties présentes ou leurs
+représentants.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L132-10
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R513-9
+
+Le secrétariat de la commission est assuré par le service de l'inspection du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R513-10
+
+Un arrêté du représentant du Gouvernement fixe les conditions dans lesquelles sont allouées les indemnités de déplacement des
+membres des commissions et, pour les membres autres que les fonctionnaires en activité, les vacations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+#### CHAPITRE IV : Médiation
+
+###### Article R514-1
+
+La partie qui désire recourir à la médiation adresse à cet effet une requête écrite et motivée [*condition de forme*] au
+représentant du Gouvernement. La requête précise les points sur lesquels porte ou persiste le différend.
+
+Dès réception de la requête, le service de l'inspection du travail l'inscrit sur un registre spécial et constitue le dossier.
+
+Dans le cas prévu au c de l'article L. 514-1, la requête conjointe des parties est aussi adressée au représentant du
+Gouvernement, qui désigne, s'il y a lieu, le médiateur choisi et lui transmet le dossier constitué sur le différend.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L514-1
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D514-7 (V)
+
+
+###### Article R514-2
+
+Lorsqu'il engage la procédure à son initiative ou lorsque les parties ne lui proposent pas une personnalité choisie d'un
+commun accord, le représentant du Gouvernement désigne un médiateur choisi en fonction de son autorité morale et de sa
+compétence dans le domaine économique et social, après avis du chef du service de l'inspection du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D514-7 (V)
+
+
+###### Article R514-3
+
+Le médiateur reçoit le dossier constitué sur le différend en même temps que la notification de sa désignation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R514-4
+
+Le médiateur accomplit sa mission dans les conditions prévues à l'article L. 514-2. Il peut procéder à toutes auditions qu'il
+juge utiles. Les parties lui transmettent le mémoire et lui communiquent les documents et renseignements mentionnés audit
+article. Le médiateur, toutes les fois qu'il l'estime nécessaire, les invite, dans les formes prévues au premier alinéa de
+l'article R. 513-6, à comparaître personnellement ; elles peuvent toutefois, en cas d'empêchement grave, se substituer un
+représentant ayant qualité pour conclure un accord.
+
+Les personnes morales parties au conflit sont tenues de se faire représenter devant le médiateur dans les conditions prévues
+à l'article L. 513-4 et à l'article R. 513-5.
+
+Lorsqu'une partie régulièrement convoquée ne comparaît pas ou ne se fait pas représenter devant le médiateur sans motif
+légitime, le médiateur établit conformément aux dispositions de l'article L. 520-1, un rapport qu'il envoie au représentant
+du Gouvernement aux fins de transmission au parquet.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L514-2, R513-6, L513-4, R513-5, L520-1
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R514-5
+
+Après avoir, s'il y a lieu, essayé de concilier les parties, le médiateur leur soumet, sous forme de recommandation motivée,
+des propositions en vue du règlement des points en litige précisés dans la requête.
+
+Le médiateur peut, en accord avec les parties, suspendre l'établissement de sa recommandation et la subordonner à la reprise
+des discussions entre elles sous une forme et dans un délai qu'il précise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R514-6
+
+Les médiateurs, les experts et les personnes qualifiées aux offices desquels peuvent recourir les médiateurs doivent être de
+nationalité française et jouir de leurs droits civils et politiques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+#### CHAPITRE V : Arbitrage
+
+###### Article R515-1
+
+La sentence est notifiée aux parties dans les vingt-quatre heures [*délai*] de sa date par les soins de l'arbitre. Cette
+notification est faite par lettre recommandée avec demande d'avis de réception ou par lettre remise en main propre contre
+décharge datée du jour de cette remise.
+
+Lorsqu'à l'issue d'une procédure d'arbitrage, la sentence est notifiée dans les conditions prévues au précédent alinéa,
+l'arbitre procède immédiatement à l'envoi, aux frais des parties, au représentant du Gouvernement, par lettre recommandée
+avec demande d'avis de réception, d'un exemplaire de la sentence et des pièces au vu desquelles la sentence a été rendue.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R515-2
+
+Les recours contre les sentences arbitrales sont formés et instruits devant la Cour supérieure d'arbitrage, selon les
+modalités prévues par la section II du chapitre V du titre II du livre V du code du travail (partie Réglementaire).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+### TITRE II : Pénalités
+
+###### Article R520-1
+
+Les employeurs compris dans le champ d'application d'une sentence arbitrale ou d'un accord intervenu au cours d'une procédure
+de conciliation ou de médiation et dont les dispositions ont fait l'objet d'un arrêté d'extension, qui auront payé des
+salaires inférieurs à ceux qui sont fixés par cette sentence arbitrale ou cet accord, seront passibles des peines prévues à
+l'article R. 153-1.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte R153-1
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+## LIVRE VI : Contrôle de l'application de la législation et de la réglementation du travail
+
+### TITRE Ier : Services de contrôle
+
+###### Article R610-1
+
+Les inspecteurs du travail ont pour mission [*attributions*], en dehors de la surveillance qui leur est confiée, d'établir la
+statistique des conditions du travail industriel dans le secteur qu'ils sont chargés de surveiller.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R610-2
+
+Les inspecteurs du travail doivent fournir, chaque année [*périodicité*], des rapports circonstanciés sur l'application, dans
+toute l'étendue de leur circonscription, des dispositions dont ils sont chargés d'assurer l'exécution.
+
+Ces rapports mentionnent les accidents dont les travailleurs ont été victimes et leurs causes.
+
+Ils contiennent des propositions relatives aux prescriptions nouvelles qui seraient de nature à mieux assurer la sécurité du
+travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R610-3
+
+Les inspecteurs du travail sont chargés [*attributions*] d'assurer l'exécution des dispositions du présent code relatives aux
+salariés des offices publics et ministériels, des professions libérales, des sociétés civiles, des syndicats professionnels
+et associations de quelque nature que ce soit.
+
+Toutefois, dans les offices ministériels, les inspecteurs du travail assurent l'exécution de ces dispositions concurremment
+avec les chambres de discipline.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+### TITRE II : Obligations des employeurs
+
+###### Article R620-1
+
+La déclaration [*préalable*] prévue à l'article L. 620-1 est effectuée par l'employeur et, dans le cas prévu au 2° du
+deuxième alinéa dudit article, par le nouvel employeur au moyen d'une lettre recommandée adressée à l'inspecteur du travail.
+
+Le récépissé de cette lettre doit être présenté par l'employeur ou son préposé sur la demande de l'inspecteur du travail à la
+première visite de celui-ci.
+
+La déclaration précise auxquels des cas prévus à l'article L. 620-1 elle répond et indique en outre le nom et l'adresse du
+déclarant, l'emplacement de l'établissement, la nature exacte des industries ou des commerces exercés et le cas échéant, s'il
+y a emploi d'enfants de moins de dix-huit ans ou de femmes ainsi qu'utilisation de force motrice ou d'outillage mécanique.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L620-1
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R632-1 (V)
+
+
+###### Article R620-2
+
+Un duplicata de l'affiche mentionnée à l'article L. 620-2 [*affichage des horaires de travail*] est envoyé à l'inspecteur du
+travail.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L620-2
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R620-3
+
+Les indications complémentaires prévues au deuxième alinéa de l'article L. 620-3 qui doivent être portées sur le registre
+unique du personnel pour chaque salarié sont les suivantes [*mentions obligatoires*] :
+
+1° Nationalité ;
+
+2° Date de naissance ;
+
+3° Sexe ;
+
+4° Emploi ;
+
+5° Qualification ;
+
+6° Dates d'entrée et de sortie de l'établissement ;
+
+7° Pour les travailleurs étrangers assujettis à la possession d'un titre autorisant l'exercice d'une activité salariés : le
+type et le numéro d'ordre du titre valant autorisation de travail.
+
+En outre, les copies de ces mêmes titres doivent être annexées au registre unique du personnel et tenues à la disposition des
+personnes mentionnées au troisième alinéa de l'article 620-3 sur chaque chantier ou lieu de travail distinct de
+l'établissement pour ceux des ressortissants étrangers qui y sont occupés.
+
+En sus des indications énumérées à l'alinéa précédent des mentions complémentaires peuvent être exigées par arrêté du
+représentant du Gouvernement.
+
+Les mentions obligatoires portées sur le registre doivent être conservées pendant cinq ans à compter de la date à laquelle le
+salarié a quitté l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L620-3, 620-3
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R620-4
+
+Les chefs des établissements autres qu'agricoles, énumérés à l'article L. 230-1 doivent tenir à la disposition de
+l'inspecteur du travail, au siège de leur établissement, une liste de leurs chantiers et autres lieux de travail à caractère
+temporaire.
+
+Ils doivent, en outre, aviser par écrit l'inspecteur du travail de l'ouverture de tout chantier ou autre lieu de travail
+occupant dix personnes au moins pendant plus d'une semaine.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L230-1
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R238-1-3 (V)
+
+
+###### Article R620-5
+
+Les chefs des établissements agricoles doivent indiquer, à la demande de l'inspecteur du travail, le lieu de travail de
+chacun de leurs salariés.
+
+Ils doivent, en outre, dans les huit jours [*délai*] de l'ouverture de tout chantier comptant plus de deux salariés et devant
+durer au moins un mois, en aviser par écrit le chef du service de l'inspection du travail, en précisant sa situation exacte,
+le nombre des salariés et la durée prévisible des travaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+### TITRE III : Pénalités
+
+#### CHAPITRE Ier : Service de contrôle
+
+###### Article R631-1
+
+Toute contravention aux prescriptions de l'article L. 610-8 sera passible de l'amende prévue pour les contraventions de 3e
+classe.
+
+En cas de récidive dans le délai d'un an, l'amende sera celle prévue pour les contraventions de 4e classe.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L610-8
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L610-8
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+#### CHAPITRE II : Obligations des employeurs
+
+###### Article R632-1
+
+Seront punies de l'amende prévue pour les contraventions de la 4e classe :
+
+1° Les infractions aux articles L. 620-1 à L. 620-7 ;
+
+2° Les infractions aux articles R. 620-1 à R. 620-5 ;
+
+En cas de récidive, l'amende applicable sera celle prévue pour les contraventions de la 5e classe.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L620-1 à L620-7, R620-1 à R620-5
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L620-1, L620-2, L620-3, L620-4, L620-5, L620-6, L620-7, R620-1, R620-2, R620-3, R620-4, R620-5
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R632-2 (V)
+
+
+###### Article R632-2
+
+L'amende prévue par l'article R. 632-1 est appliquée autant de fois qu'il y a de personnes employées dans des conditions
+susceptibles d'être sanctionnées au titre des dispositions de cet article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte R632-1
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
 
 
