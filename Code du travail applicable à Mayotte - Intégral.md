@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2004-12-09
+Version Consolidée au 2005-01-01
 
 # Partie législative
 
@@ -16663,34 +16663,34 @@ n'est pas satisfaite.
 
 ###### Article R128-14
 
-La déclaration nominative préalable à l'embauche mentionnée à l'article L. 128-1 doit comporter les mentions suivantes :
+La déclaration nominative préalable à l'embauche mentionnée à l'article L. 128-1 doit comporter les mentions suivantes : 
 
 a) Dénomination sociale ou nom et prénoms de l'employeur, numéro d'immatriculation de l'entreprise ou numéro sous lequel les
-cotisations de sécurité sociale sont versées ;
+cotisations de sécurité sociale sont versées ; 
 
-b) Nom patronymique, prénoms, nationalité, date et lieu de naissance du salarié ainsi que son numéro d'identification s'il
-est déjà immatriculé à la sécurité sociale ;
+b) Nom de famille, prénoms, nationalité, date et lieu de naissance du salarié ainsi que son numéro d'identification s'il est
+déjà immatriculé à la sécurité sociale ; 
 
-c) Date et heure d'embauche ;
+c) Date et heure d'embauche ; 
 
-d) Nature et durée du contrat.
+d) Nature et durée du contrat. 
 
 La déclaration nominative préalable à l'embauche est adressée au plus tôt dans les huit jours précédant la date prévisible de
-l'embauche par l'un des moyens suivants :
+l'embauche par l'un des moyens suivants : 
 
 1° Télécommunication, télématique ou échanges de données informatisées : l'organisme destinataire communique immédiatement à
-l'employeur un numéro de dossier.
+l'employeur un numéro de dossier. 
 
 2° Télécopie : l'avis de bonne réception émis par l'appareil doit être conservé avec le document transmis par l'employeur
 jusqu'à réception, dans les cinq jours ouvrables suivant celui de la réception de la déclaration, d'un document accusant
-réception de la déclaration et mentionnant les informations enregistrées.
+réception de la déclaration et mentionnant les informations enregistrées. 
 
 3° Lettre datée et signée de l'employeur, et postée en recommandé avec accusé de réception, au plus tard le dernier jour
 ouvrable précédent l'embauche, le cachet de la poste faisant foi : l'employeur conserve un double de la lettre et le
-récépissé postal jusqu'à réception du document accusant réception, mentionné au 2° ci-dessus.
+récépissé postal jusqu'à réception du document accusant réception, mentionné au 2° ci-dessus. 
 
 L'indisponibilité de l'un de ces moyens n'exonère pas l'employeur de son obligation de déclaration par l'un des deux autres
-moyens.
+moyens. 
 
 Un arrêté du ministre chargé du travail fixe le modèle des formulaires sur lesquels la déclaration peut être effectuée.
 
@@ -16700,9 +16700,9 @@ Un arrêté du ministre chargé du travail fixe le modèle des formulaires sur l
 
 	  - Décret n°91-1263 1991-12-16 annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-253 du 19 mars 2004 - art. 13 () JORF 21 mars 2004
+	  - Décret n°2004-1159 du 29 octobre 2004 - art. 19 (V) JORF 31 octobre 2004 en vigueur le 1er janvier 2005
 
 	**Cite**:
 
@@ -31531,6 +31531,911 @@ Par ailleurs, le fonds prend en charge ses dépenses de fonctionnement, l'évalu
 	  - Code du travail applicable à Mayotte. - art. L325-2 (M)
 	  - Code du travail applicable à Mayotte. - art. L325-6 (V)
 	  - Code du travail applicable à Mayotte. - art. L325-8 (V)
+
+
+#### CHAPITRE VI : Placement
+
+##### Section 1 : Agence nationale pour l'emploi
+
+###### Article R326-1
+
+I. - La délégation de l'Agence nationale pour l'emploi de Mayotte est dirigée par un délégué nommé par le directeur général
+de l'Agence nationale pour l'emploi et placé sous son autorité. Le délégué est assisté dans l'exercice de ses missions par le
+comité de l'Agence nationale pour l'emploi de Mayotte.
+
+II. - Le fonctionnement des services de l'Agence nationale pour l'emploi de Mayotte est régi par les dispositions des
+articles R. 311-4-5, R. 311-4-14, R. 311-4-15, R. 311-4-16 et R. 311-4-18 du code du travail applicable dans les départements
+de métropole et d'outre-mer. Pour l'application de l'article R. 311-4-15, l'enveloppe budgétaire attribuée à la délégation de
+Mayotte est fixée de la même façon que celle attribuée à chaque délégation régionale de l'Agence nationale pour l'emploi.
+
+III. - Le directeur général de l'Agence nationale pour l'emploi :
+
+1° Rend compte aux ministres chargés de l'emploi et de l'outre-mer des activités du service public du placement qu'elle
+assure à Mayotte avec le concours des organismes visés aux articles L. 326-1 et L. 326-3 ;
+
+2° Communique chaque mois aux ministres chargés de l'emploi et de l'outre-mer les éléments permettant l'établissement des
+statistiques du marché du travail à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte R311-4-5, R311-4-14, R311-4-15, R311-4-16, R311-4-18
+
+
+###### Article R326-2
+
+Le comité de l'Agence nationale pour l'emploi de Mayotte comprend :
+
+1° Un président ;
+
+2° Cinq membres représentant les employeurs et cinq membres représentant les salariés désignés par les organisations
+d'employeurs et de salariés représentatives au sens de l'article L. 412-3 ;
+
+3° Cinq membres représentant les administrations concernées, dont le directeur du travail, de l'emploi et de la formation
+professionnelle, désignés par le représentant de l'Etat à Mayotte.
+
+Le président est nommé par arrêté du représentant de l'Etat à Mayotte parmi les personnalités de Mayotte ayant une compétence
+en matière d'emploi.
+
+Les membres représentant les employeurs, les salariés ainsi que leurs suppléants sont nommés par arrêté du représentant de
+l'Etat à Mayotte.
+
+Le délégué et l'agent comptable secondaire participent aux séances avec voix consultative.
+
+Les membres du comité sont désignés pour trois ans. Leur mandat est renouvelable.
+
+Les membres décédés ou démissionnaires doivent être remplacés dans un délai de trois mois. Dans ce cas, le mandat des
+nouveaux membres expire à la date à laquelle aurait normalement pris fin celui de leur prédécesseur.
+
+Le comité élit pour un an un vice-président, pris alternativement parmi les représentants des employeurs et ceux des
+salariés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L412-3 (M)
+
+
+###### Article R326-3
+
+Le comité de l'Agence nationale pour l'emploi de Mayotte est réuni au moins quatre fois par an sur convocation de son
+président.
+
+L'ordre du jour de chaque réunion est arrêté par le président, sur proposition du délégué de l'Agence nationale pour l'emploi
+de Mayotte.
+
+Le président est tenu de convoquer le comité si le représentant de l'Etat à Mayotte, le délégué ou la majorité des membres le
+demande sur un ordre du jour déterminé.
+
+A sa demande, le représentant de l'Etat à Mayotte est entendu par le comité.
+
+Le comité ne peut valablement délibérer que si le nombre des membres présents est au moins égal à la moitié du nombre des
+membres en exercice. Si ce nombre n'est pas atteint, le comité est convoqué à nouveau dans un délai de quinze jours et peut
+se prononcer valablement quel que soit le nombre de membres présents.
+
+Le comité se prononce à la majorité des voix des membres présents.
+
+Le secrétariat du comité est assuré à la diligence du délégué.
+
+Les délibérations, signées par le président et le vice-président, sont transmises dans un délai de quinze jours au directeur
+général de l'Agence nationale pour l'emploi.
+
+Les procès-verbaux sont transmis aux membres du comité, au président du conseil d'administration et au directeur général de
+l'Agence nationale pour l'emploi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+
+###### Article R326-4
+
+Le comité assiste le délégué de l'Agence nationale pour l'emploi de Mayotte.
+
+I. - Il fait des propositions sur :
+
+1° Les orientations spécifiques de l'Agence nationale pour l'emploi et les plans de développement de ses activités ;
+
+2° Le programme d'implantation des unités de l'Agence nationale pour l'emploi ;
+
+3° Les relations de l'agence et de ses usagers.
+
+II. - Il élabore :
+
+1° Le projet de répartition des dépenses de la délégation de l'Agence nationale pour l'emploi à Mayotte, dans la limite de
+l'enveloppe du budget de l'Agence nationale pour l'emploi qui lui est allouée ;
+
+2° Le rapport annuel d'activité.
+
+III. - Le comité donne également son avis sur les demandes de convention émanant des organismes mentionnés à l'article L.
+326-1 et sur les projets de convention avec les communes mentionnés à l'article L. 326-3.
+
+Le projet de répartition des dépenses mentionné au 1° ci-dessus est transmis au conseil d'administration de l'Agence
+nationale pour l'emploi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L326-1 (T)
+	  - Code du travail applicable à Mayotte. - art. L326-3 (T)
+
+
+###### Article R326-5
+
+Le représentant de l'Etat à Mayotte assisté par le directeur du travail, de l'emploi et de la formation professionnelle
+coordonne l'action de l'Agence nationale pour l'emploi avec celle des autres services et organismes chargés de la mise en
+oeuvre de la politique de l'emploi définie à Mayotte par les pouvoirs publics.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+
+###### Article R326-6
+
+Le délégué de l'Agence nationale pour l'emploi de Mayotte :
+
+1° Est ordonnateur secondaire ;
+
+2° Informe le représentant de l'Etat à Mayotte et le directeur du travail, de l'emploi et de la formation professionnelle de
+Mayotte des activités du service public du placement assuré par l'agence avec le concours des organismes visés aux articles
+L. 326-1 et L. 326-3 ;
+
+3° Fournit, sur sa demande, au directeur du travail, de l'emploi et de la formation professionnelle de Mayotte, les
+statistiques et informations relatives au marché du travail en sa possession et, notamment, les renseignements relatifs aux
+demandeurs d'emploi bénéficiaires d'un revenu de remplacement dans les conditions fixées par le chapitre VII du titre II du
+livre III du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L326-1 (T)
+	  - Code du travail applicable à Mayotte. - art. L326-3 (T)
+
+
+###### Article R326-7
+
+L'Agence nationale pour l'emploi de Mayotte apporte son concours à l'orientation et au placement des travailleurs handicapés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+
+##### Section 2 : Organismes qui concourent au service public du placement
+
+###### Article R326-8
+
+Les établissements publics, les organismes gérés paritairement par les organisations syndicales d'employeurs et de salariés
+et les associations mentionnées à l'article L. 326-1 acquièrent la qualité de correspondant de l'Agence nationale pour
+l'emploi dès qu'ils ont passé avec cette dernière la convention prévue audit article.
+
+Lorsque la demande de convention s'est heurtée à un refus de l'agence, les établissements, organismes et associations
+susmentionnés deviennent correspondants après avoir été agréés à cet effet par l'Etat. Une convention est alors passée avec
+l'Agence nationale pour l'emploi aux conditions fixées par l'agrément.
+
+L'agrément est donné et les conventions sont conclues pour une période déterminée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L326-1 (T)
+
+
+###### Article R326-9
+
+La convention prévue à l'article L. 326-1 est conclue par le délégué de l'Agence nationale pour l'emploi de Mayotte lorsque
+l'activité de l'établissement, de l'organisme ou de l'association n'excède pas les limites de la collectivité départementale
+et par le directeur général de l'Agence nationale pour l'emploi dans les autres cas.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L326-1 (T)
+
+
+###### Article R326-10
+
+L'établissement, l'organisme ou l'association qui sollicite le bénéfice d'une convention prévue à l'article L. 326-1 doit
+joindre à sa demande de convention et, le cas échéant, d'agrément copie des décisions de l'instance délibérative qui ont
+décidé ou approuvé la demande tendant à ce qu'il ou elle devienne correspondant de l'agence.
+
+A l'appui de leur demande, les associations doivent en outre fournir deux exemplaires de leurs statuts et indiquer les noms,
+prénoms et domiciles des personnes qui, à un titre quelconque, sont chargées de leur administration ou direction. La même
+obligation s'applique aux délégués locaux et aux personnes qui assurent les fonctions de direction de l'association
+lorsqu'elles sont distinctes de celles précédemment énumérées. L'Agence nationale pour l'emploi peut également demander aux
+associations communication de leur bilan ou compte financier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L326-1 (T)
+
+
+###### Article R326-11
+
+La convention est conclue et, le cas échéant, l'agrément accordé, compte tenu :
+
+1° Des garanties offertes par le demandeur quant à la gratuité, la moralité et la permanence ;
+
+2° Des moyens humains, techniques et financiers qu'il s'engage à mettre en oeuvre ;
+
+3° Des correspondants déjà existants dans le même champ géographique et professionnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+
+###### Article R326-12
+
+L'agrément est accordé et retiré par :
+
+1° Le représentant de l'Etat lorsque l'activité de l'établissement, l'organisme ou de l'association n'excède pas les limites
+de Mayotte ;
+
+2° Le ministre chargé de l'emploi dans les autres cas.
+
+Le retrait d'agrément peut être prononcé soit en cas de manquement aux obligations résultant des dispositions législatives ou
+réglementaires en vigueur ou des stipulations de la convention, soit pour mauvais fonctionnement de l'établissement,
+l'organisme ou l'association de placement, soit lorsque ces derniers cessent d'être utiles au service public du placement.
+
+Le retrait d'agrément ne peut être prononcé sans que le correspondant ait été préalablement avisé des motifs de la mesure
+envisagée et mis en mesure de faire connaître ses observations.
+
+Le retrait d'agrément entraîne dénonciation de la convention et cessation de l'activité de placement à la date fixée par
+l'arrêté qui le prononce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+
+##### Section 3 : Notification par les employeurs des places vacantes
+
+###### Article R326-13
+
+L'obligation de notification des places vacantes prévue à l'article L. 326-2 concerne celles auxquelles l'entreprise veut
+pourvoir par l'intermédiaire d'organismes ou de moyens d'information extérieurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L326-2 (T)
+
+
+##### Section 4 : Inscription et radiation de la liste des demandeurs d'emploi
+
+###### Article R326-14
+
+I. - La liste des demandeurs d'emploi est tenue par l'Agence nationale pour l'emploi.
+
+II. - Pour demander leur inscription sur la liste des demandeurs d'emploi, les travailleurs recherchant un emploi doivent se
+présenter personnellement auprès des services de l'Agence nationale pour l'emploi.
+
+Ils sont tenus de justifier de leur identité et d'indiquer le lieu de leur domicile auprès des services mentionnés ci-dessus.
+Les travailleurs étrangers doivent en outre justifier de la régularité de leur situation au regard des dispositions qui
+réglementent l'exercice d'activités professionnelles par les étrangers.
+
+Lors de leur inscription, les demandeurs d'emploi sont informés de leurs droits et obligations.
+
+III. - Les travailleurs recherchant un emploi sont inscrits sur un registre spécial tenu par l'Agence nationale pour l'emploi
+qui mentionne leur nom, prénom, âge et adresse.
+
+L'agence les oriente vers les organismes compétents lorsqu'ils sont susceptibles de bénéficier des mesures relatives à la
+formation professionnelle ou à la mobilité géographique et professionnelle au regard des critères suivants : expériences et
+projets professionnels, âge et aptitudes, situation du marché local de l'emploi ou propre à certains secteurs ou professions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R326-15 (V)
+	  - Code du travail applicable à Mayotte. - art. R326-22 (V)
+
+
+###### Article R326-15
+
+Les changements de situation que les demandeurs d'emploi sont tenus de porter à la connaissance de l'Agence nationale pour
+l'emploi et qui, affectant leur situation, sont susceptibles d'avoir une incidence sur leur inscription sur le registre prévu
+au III de l'article R. 326-14 sont les suivants :
+
+1° L'exercice de toute activité professionnelle, même occasionnelle ou réduite et quelle que soit sa durée ;
+
+2° Toute période d'indisponibilité due à une maladie, une maternité, un accident de travail ou une incarcération ;
+
+3° La participation à une action de formation, rémunérée ou non, y compris dans le cadre du service militaire adapté ;
+
+4° Pour les travailleurs étrangers, la date d'échéance de leur titre de travail.
+
+Les changements de situation doivent être portés à la connaissance de l'Agence nationale pour l'emploi dans un délai de
+soixante-douze heures.
+
+Les demandeurs d'emploi inscrits sur la liste sont en outre tenus d'informer l'Agence nationale pour l'emploi de toute
+absence de leur domicile habituel d'une durée supérieure à sept jours.
+
+Ils sont également tenus de signaler, dans le même délai, tout changement de domicile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R326-14 (V)
+
+
+###### Article R326-16
+
+Sont considérées comme immédiatement disponibles pour occuper un emploi les personnes qui n'exercent aucune activité
+professionnelle, qui ne suivent aucune action de formation professionnelle et dont la situation personnelle leur permet
+d'occuper sans délai un emploi.
+
+Sont en outre réputées immédiatement disponibles les personnes qui, au moment de leur inscription à l'Agence nationale pour
+l'emploi ou du renouvellement de leur demande d'emploi :
+
+1° Exercent ou ont exercé au cours du mois précédent une activité occasionnelle ou réduite n'excédant pas soixante-dix-huit
+heures par mois ;
+
+2° Suivent une action de formation n'excédant pas au total quarante heures ou dont les modalités d'organisation, notamment
+sous forme de cours du soir ou par correspondance, leur permettent d'occuper simultanément un emploi ;
+
+3° S'absentent de leur domicile habituel, après en avoir avisé l'Agence nationale pour l'emploi, dans la limite de trente-
+cinq jours dans l'année ;
+
+4° Sont en congé de maladie ou en incapacité temporaire de travail, pour une durée n'excédant pas quinze jours ;
+
+5° Sont incarcérées pour une durée n'excédant pas quinze jours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+
+###### Article R326-17
+
+Les demandeurs d'emploi immédiatement disponibles sont tenus d'accomplir de manière permanente, tant sur proposition de
+l'Agence nationale pour l'emploi que de leur propre initiative, toutes les démarches en leur pouvoir en vue de leur
+reclassement ou de leur insertion professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+
+###### Article R326-18
+
+Le délégué de l'Agence nationale pour l'emploi de Mayotte radie de la liste des demandeurs d'emploi les personnes qui :
+
+1° Refusent, sans motif légitime :
+
+a) Un emploi compatible avec leur spécialité ou leur formation antérieure et rétribué à un taux de salaire normalement
+pratiqué dans la profession à Mayotte ;
+
+b) De suivre une action de formation prévue au livre VII ou une action d'insertion prévue au livre III du présent code ;
+
+c) Une proposition de contrat d'apprentissage ;
+
+d) De répondre à toute convocation de l'Agence nationale pour l'emploi ;
+
+e) De se soumettre à une visite médicale auprès des services médicaux du travail destinée à vérifier leur aptitude au travail
+ou à certains types d'emploi ;
+
+2° Ne peuvent justifier de l'accomplissement d'actes de recherche d'emploi. Le caractère réel et sérieux de ces actes est
+apprécié compte tenu de la situation du demandeur d'emploi et de la situation locale de l'emploi ;
+
+3° Ont fait de fausses déclarations pour être ou demeurer inscrites sur la liste des demandeurs d'emploi.
+
+Les décisions de radiation sont transmises sans délai au directeur du travail, de l'emploi et de la formation professionnelle
+de Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R326-19 (V)
+
+
+###### Article R326-19
+
+Le délégué de l'Agence nationale pour l'emploi de Mayotte peut, pour l'exercice des attributions définies à l'article R.
+326-18, déléguer sa signature aux agents placés sous son autorité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R326-18 (V)
+
+
+###### Article R326-20
+
+La radiation de la liste des demandeurs d'emploi entraîne l'impossibilité d'obtenir une nouvelle inscription pendant une
+période comprise entre deux mois et six mois consécutifs.
+
+Toutefois, en cas de fausse déclaration, la durée de radiation sera comprise entre six mois et un an.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+
+###### Article R326-21
+
+La décision de radiation intervient après que l'intéressé a été mis à même de présenter préalablement ses observations.
+
+Les décisions de radiation de la liste des demandeurs d'emploi sont motivées et notifiées aux intéressés. Elles indiquent la
+durée de la radiation.
+
+Les personnes qui entendent les contester doivent former un recours préalable devant le délégué de l'Agence nationale pour
+l'emploi de Mayotte. Ce recours, qui n'est pas suspensif, est soumis pour avis à une commission composée du directeur du
+travail, de l'emploi et de la formation professionnelle, du délégué de l'Agence nationale pour l'emploi de Mayotte et
+d'employeurs et de salariés en nombre égal nommés par le représentant de l'Etat sur proposition des organisations
+professionnelles et syndicales représentatives au sens de l'article L. 412-3.
+
+L'avis de la commission lie le délégué de l'Agence nationale pour l'emploi de Mayotte.
+
+Le silence gardé pendant plus de quatre mois sur un recours gracieux vaut décision de rejet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L412-3 (M)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R326-22 (V)
+
+
+###### Article R326-22
+
+Les demandeurs d'emploi qui ne satisfont pas à l'obligation de renouvellement périodique de leur demande d'emploi ou pour
+lesquels l'employeur ou un organisme leur assurant une indemnisation, un avantage social ou une formation porte à la
+connaissance de l'Agence nationale pour l'emploi une reprise d'emploi ou d'activité, une entrée en formation ou tout autre
+changement affectant leur situation au regard des conditions d'inscription sur le registre prévu au III de l'article R.
+326-14 cessent d'être inscrits sur la liste des demandeurs d'emploi.
+
+La décision motivée par laquelle l'Agence nationale pour l'emploi constate la cessation d'inscription sur la liste des
+demandeurs d'emploi est notifiée à l'intéressé. Les personnes qui entendent la contester doivent former un recours préalable
+dans les conditions prévues à l'article R. 326-21.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R326-14 (V)
+	  - Code du travail applicable à Mayotte. - art. R326-21 (V)
+
+
+##### Section 5 : Collectivités territoriales
+
+###### Article R326-23
+
+Lorsqu'elles entendent bénéficier des dispositions de l'article L. 326-3, les communes adressent leur demande de convention
+au représentant de l'Etat à Mayotte et au délégué de l'Agence nationale pour l'emploi de Mayotte.
+
+A cette demande est jointe copie de la délibération du conseil municipal autorisant le maire à passer convention avec
+l'agence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L326-3 (T)
+
+
+###### Article R326-24
+
+Le projet de convention est soumis par le délégué ou, à défaut, par le représentant de l'Etat à Mayotte à l'avis du comité de
+l'Agence nationale pour l'emploi de Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+
+###### Article R326-25
+
+La convention prévue à l'article L. 326-3, par laquelle une commune devient correspondant de l'Agence nationale pour
+l'emploi, est conclue compte tenu des moyens que la commune est disposée à mettre en oeuvre au profit des usagers du service
+public du placement.
+
+La convention est signée par le représentant de l'Etat à Mayotte et par le délégué.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L326-3 (T)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R326-26 (V)
+
+
+###### Article R326-26
+
+Lorsque des informations sont communiquées au maire au titre de l'article L. 326-5, elles comprennent les noms, prénoms et
+adresses des demandeurs d'emploi et, le cas échéant, l'indication qu'un revenu de remplacement mentionné au chapitre VII du
+titre II du livre III est versé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L326-5 (V)
+
+
+###### Article R326-27
+
+Les informations reçues par le maire en application de l'article L. 326-5 ne peuvent être partagées par lui qu'avec ses
+adjoints ayant reçu délégation en matière soit de placement soit d'attribution d'avantages sociaux ainsi qu'avec les services
+municipaux compétents dans l'un de ces domaines.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L326-5 (V)
+
+
+###### Article R326-28
+
+Les dépenses occasionnées par la communication au maire de la liste des demandeurs d'emploi sont réparties entre l'Agence
+nationale pour l'emploi et la commune dans les conditions fixées par arrêté des ministres chargés de l'outre-mer, du budget
+et de l'emploi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+
+##### Section 6 : Dispositions diverses
+
+###### Article R326-29
+
+Les conventions conclues au titre de l'article L. 326-1 entre l'Agence nationale pour l'emploi et ses correspondants
+comprennent, d'une part, des clauses générales conformes à un cahier des charges type et, d'autre part, des clauses
+particulières.
+
+I. - Le cahier des charges type, approuvé par le ministre chargé de l'emploi, détermine notamment :
+
+1° Les obligations liées à la participation au service public du placement, relatives notamment à la protection des droits
+des usagers ;
+
+2° Les modalités et les délais de la transmission à l'Agence nationale pour l'emploi des offres recueillies par les
+correspondants ;
+
+3° Les motifs et conditions de résiliation des conventions ;
+
+4° La publicité des conventions.
+
+II. - Les clauses particulières des conventions déterminent :
+
+1° Le champ territorial et professionnel d'intervention du correspondant ;
+
+2° Les services qu'il fournit ;
+
+3° Les moyens que le correspondant met en oeuvre et le concours qu'apporte éventuellement l'Agence nationale pour l'emploi ;
+
+4° Les modalités d'examen avec l'Agence nationale pour l'emploi de l'activité du correspondant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L326-1 (T)
+
+
+###### Article R326-30
+
+Sans préjudice des conventions éventuellement conclues à d'autres fins que le placement, les conventions conclues entre
+l'Agence nationale pour l'emploi et ses correspondants ne peuvent donner droit à subvention de l'Etat ou de l'Agence
+nationale pour l'emploi.
+
+Les correspondants de l'Agence nationale pour l'emploi ne peuvent percevoir de leurs usagers, à l'occasion d'une opération de
+placement, une somme quelconque, même à titre de remboursement de frais.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+
+###### Article R326-31
+
+Les opérations de placement ne peuvent être effectuées par les correspondants de l'Agence nationale pour l'emploi qu'au
+profit des usagers qui entrent dans leur champ d'activité géographique et, le cas échéant, professionnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+
+###### Article R326-32
+
+Les dispositions des sections 1 et 2 du présent chapitre sont applicables aux demandes de renouvellement des conventions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+
+###### Article R326-33
+
+Les agents de l'Agence nationale pour l'emploi à Mayotte peuvent avoir accès aux entreprises, administrations et services
+publics, après autorisation de leur responsable.
+
+Ils sont tenus de ne rien révéler des situations individuelles ou des procédés d'exploitation dont ils auraient connaissance
+à l'occasion de l'exercice de leurs fonctions.
+
+Les agents des services de l'Etat, de la collectivité départementale, des communes ou de leurs établissements publics sont
+tenus de prêter leur concours à ceux de l'Agence nationale pour l'emploi et de leur communiquer toute information nécessaire
+à l'accomplissement de leurs missions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+
+###### Article R326-34
+
+Les conditions et modalités réglementaires de remboursement des frais engagés par les personnels civils de l'Etat à
+l'occasion de leurs déplacements sont applicables aux déplacements de service du personnel de la délégation de l'Agence
+nationale pour l'emploi de Mayotte sous réserve de dispositions particulières concernant certains personnels et déterminées
+par arrêté conjoint des ministres chargés des départements d'outre-mer, de l'emploi, du budget et de la fonction publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
 
 
 #### CHAPITRE VII : Indemnisation du chômage
