@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 1993-09-01
+Version Consolidée au 1994-03-01
 
 # Partie législative
 
@@ -6984,28 +6984,35 @@ fournitures à prix coûtant.
 
 ###### Article L151-1
 
-Toute infraction aux dispositions de l'article L. 123-1 sera punie d'un emprisonnement de deux mois à un an [*durée*] et
-d'une amende de 2 000 F [*montant*] à 20 000 F ou de l'une de ces deux peines seulement.
+Toute infraction aux dispositions de l'article L. 123-1 sera punie d'un emprisonnement d'un an *durée* et d'une amende de 25
+000 F (1) *montant ou de l'une de ces deux peines seulement.
 
 Le tribunal pourra ordonner, aux frais de la personne condamnée, l'affichage du jugement dans les conditions prévues à
-l'article 51 du code pénal et son insertion, intégrale ou par extraits, dans les journaux qu'il désigne, sans que ces frais
-puissent excéder le maximum de l'amende encourue.
+l'article 131-35 du code pénal et son insertion, intégrale ou par extraits, dans les journaux qu'il désigne, sans que ces
+frais puissent excéder le maximum de l'amende encourue.
+
+(1) Amende applicable depuis le 1er mars 1994.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Code du travail applicable dans la collectivité territoriale de Mayotte L123-1
-	  - Code pénal 51
+	  - Code pénal - art. 131-35 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L123-1
 
 	**Codifié par**:
 
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 331 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 
 ###### Article L151-2
@@ -7067,8 +7074,10 @@ y a lieu de prononcer une dispense de peine ou d'infliger les peines prévues pa
 
 ###### Article L151-4
 
-Toute infraction aux dispositions de l'article L. 122-73 est punie d'une amende de 2 000 F à 20 000 F [*montant*] et, en cas
-de récidive, d'une amende de 10 000 F à 40 000 F.
+Toute infraction aux dispositions de l'article L. 122-73 est punie d'une amende de 25 000 F (1) [*montant*] et, en cas de
+récidive, d'une amende de 50 000 F (1).
+
+(1) Amende applicable depuis le 1er mars 1994.
 
 **Liens relatifs à cet article**
 
@@ -7076,33 +7085,40 @@ de récidive, d'une amende de 10 000 F à 40 000 F.
 
 	  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-73
 
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L122-73
+
 	**Codifié par**:
 
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 
 #### CHAPITRE II : Marchandage.
 
 ###### Article L152-1
 
-Toute infraction aux dispositions de l'article L. 124-1 est punie d'une amende de 4 000 F à 20 000 F [*montant*]. La récidive
-est punie d'une amende de 8 000 F à 40 000 F et d'un emprisonnement de deux mois à six mois [*durée*] ou de l'une de ces deux
-peines seulement.
+Toute infraction aux dispositions de l'article L. 124-1 est punie d'une amende de 25 000 F (1) [*montant*]. La récidive est
+punie d'une amende de 50 000 F (1) et d'un emprisonnement de six mois [*durée*] ou de l'une de ces deux peines seulement.
 
 Le tribunal peut prononcer, en outre, l'interdiction d'exercer l'activité de sous-entrepreneur de main-d'oeuvre pour une
 durée de deux ans à dix ans.
 
-Sont passibles d'une amende de 8 000 F à 40 000 F et d'un emprisonnement de deux mois à six mois ou de l'une de ces deux
-peines seulement ceux qui, directement ou par personne interposée, contreviennent à l'interdiction prononcée en application
-de l'alinéa qui précède.
+Sont passibles d'une amende de 40 000 F (2) et d'un emprisonnement de six mois ou de l'une de ces deux peines seulement ceux
+qui, directement ou par personne interposée, contreviennent à l'interdiction prononcée en application de l'alinéa qui
+précède.
 
 Dans tous les cas, le tribunal peut ordonner, aux frais de la personne condamnée, l'affichage du jugement aux portes des
 établissements de l'entreprise et sa publication dans les journaux qu'il désigne.
+
+(1) Amende applicable depuis le 1er mars 1994.
+
+(2) Amende applicable depuis le 8 mars 1991.
 
 **Liens relatifs à cet article**
 
@@ -7110,14 +7126,18 @@ Dans tous les cas, le tribunal peut ordonner, aux frais de la personne condamné
 
 	  - Code du travail applicable dans la collectivité territoriale de Mayotte L124-1
 
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L124-1
+
 	**Codifié par**:
 
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 	**Cité par**:
 
@@ -7159,14 +7179,20 @@ l'article 408, paragraphe premier, du code pénal.
 
 ###### Article L154-1
 
-Toute infraction aux dispositions des articles L. 126-1, L. 126-2 et L. 126-3 est punie d'une amende de 2 000 F à 20 000 F
-[*montant*]. La récidive est punie d'une amende de 4 000 F à 40 000 F et d'un emprisonnement de deux mois à six mois
-[*durée*] ou de l'une de ces deux peines seulement.
+Toute infraction aux dispositions des articles L. 126-1, L. 126-2 et L. 126-3 est punie d'une amende de 25 000 F (1)
+[*montant*]. La récidive est punie d'une amende de 50 000 F (1) et d'un emprisonnement de six mois [*durée*] ou de l'une de
+ces deux peines seulement.
 
 Dans tous les cas, le tribunal peut ordonner, aux frais de la personne condamnée, l'affichage du jugement à la porte du siège
 du groupement et aux portes des entreprises utilisatrices et sa publication dans les journaux qu'il désigne.
 
+(1) Amende applicable depuis le 1er mars 1994.
+
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L126-1, L126-2, L126-3
 
 	**Cite**:
 
@@ -7177,9 +7203,9 @@ du groupement et aux portes des entreprises utilisatrices et sa publication dans
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 
 #### CHAPITRE V : Conventions et accords collectifs de travail.
@@ -7275,8 +7301,10 @@ contravention, le contrevenant a encouru une condamnation pour infraction aux di
 
 ###### Article L156-3
 
-Toute infraction aux dispositions de l'article L. 147-1 [*économat*] est punie d'une amende de 2 000 F à 20 000 F [*montant*]
-et, en cas de récidive, d'une amende de 10 000 F à 40 000 F.
+Toute infraction aux dispositions de l'article L. 147-1 [*économat*] est punie d'une amende de 25 000 F (1) [*montant*] et,
+en cas de récidive, d'une amende de 50 000 F (1).
+
+(1) Amende applicable depuis le 1er mars 1994.
 
 **Liens relatifs à cet article**
 
@@ -7284,14 +7312,18 @@ et, en cas de récidive, d'une amende de 10 000 F à 40 000 F.
 
 	  - Code du travail applicable dans la collectivité territoriale de Mayotte L147-1
 
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L147-1
+
 	**Codifié par**:
 
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 
 ## LIVRE II : RÉGLEMENTATION DU TRAVAIL
@@ -9983,14 +10015,16 @@ au chef d'établissement ou à son préposé que s'il a agi sciemment.
 ###### Article L251-1
 
 Les chefs d'établissements, directeurs, gérants ou préposés qui, par leur faute personnelle, ont enfreint les dispositions
-des chapitres Ier et II du titre III du présent livre et des décrets pris pour leur application sont punis d'une amende de
-500 à 15 000 F [*montant*].
+des chapitres Ier et II du titre III du présent livre et des décrets pris pour leur application sont punis d'une amende de 25
+000 F (1) [*montant*].
 
 L'amende est appliquée autant de fois qu'il y a de salariés de l'entreprise concernés par la ou les infractions relevées dans
 le procès-verbal visé aux articles L. 611-9 et L. 611-11.
 
 Conformément à l'article 5 du code pénal, les peines prévues au présent article et à l'article L. 251-5 ne se cumulent pas
 [*non cumul*] avec celles prévues aux articles 319 et 320 du code pénal.
+
+(1) Amende applicable depuis le 1er mars 1994.
 
 **Nota:**
 
@@ -10013,9 +10047,9 @@ L251-1 ne sont pas applicables aux établissements de l'Etat.*]
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 	**Cité par**:
 
@@ -10120,8 +10154,10 @@ juge des référés, qui peut ordonner la fermeture totale ou partielle de l'ét
 assurer ladite exécution.
 
 Le chef d'entreprise qui, dans les délais prévus, n'a pas présenté le plan visé au deuxième alinéa ci-dessus ou n'a pas pris
-les mesures nécessaires à la réalisation du plan arrêté par le juge en vertu du troisième alinéa est puni d'une amende de 2
-000 à 120 000 F [*montant*] ainsi que des peines prévues à l'article L. 251-7.
+les mesures nécessaires à la réalisation du plan arrêté par le juge en vertu du troisième alinéa est puni d'une amende de 120
+000 F (1) [*montant*] ainsi que des peines prévues à l'article L. 251-7.
+
+(1) Amende applicable depuis le 8 mars 1991.
 
 **Nota:**
 
@@ -10143,9 +10179,9 @@ L251-4 ne sont pas applicables aux établissements de l'Etat.*]
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 	**Cité par**:
 
@@ -10156,8 +10192,7 @@ L251-4 ne sont pas applicables aux établissements de l'Etat.*]
 ###### Article L251-5
 
 En cas de récidive, les infractions aux dispositions auxquelles se réfère l'article L. 251-1 sont passibles d'un
-emprisonnement de deux mois à un an [*durée*] et d'une amende de 2 000 à 60 000 F [*montant*] ou de l'une de ces deux peines
-seulement.
+emprisonnement d'un an [*durée*] et d'une amende de 60 000 F (1) [*montant*] ou de l'une de ces deux peines seulement.
 
 Toutefois, aucune infraction nouvelle ne pourra être relevée pour la même cause pendant le cours du délai qui aura
 éventuellement été accordé en vertu des dispositions de l'article précédent.
@@ -10169,6 +10204,8 @@ salubrité imposés par la loi ou les règlements.
 
 Le jugement est susceptible d'appel, le tribunal supérieur d'appel statue d'urgence.
 
+(1) Amende applicable depuis le 8 mars 1991.
+
 **Nota:**
 
 [*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L251-9 : les dispositions de l'article
@@ -10176,22 +10213,23 @@ L251-5 ne sont pas applicables aux établissements de l'Etat.*]
 
 **Liens relatifs à cet article**
 
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L251-1
+	  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L251-9
+
 	**Cite**:
 
 	  - Code du travail applicable dans la collectivité territoriale de Mayotte L251-1, L610-9, L610-11
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L251-9
 
 	**Codifié par**:
 
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 	**Cité par**:
 
@@ -10294,8 +10332,10 @@ Il peut, en cas de récidive, en outre, prononcer contre l'auteur de l'infractio
 maximale de cinq ans, certaines fonctions qu'il énumère soit dans l'entreprise, soit dans une ou plusieurs catégories
 d'entreprises qu'il définit.
 
-La violation de cette interdiction est punie d'une amende de 2 000 F à 60 000 F et d'un emprisonnement de deux mois à deux
-ans ou de l'une de ces peines seulement.
+La violation de cette interdiction est punie d'une amende de 60 000 F (1) [*montant*] et d'un emprisonnement de deux ans
+[*durée*] ou de l'une de ces peines seulement.
+
+(1) Amende applicable depuis le 8 mars 1991.
 
 **Nota:**
 
@@ -10310,6 +10350,7 @@ L251-8 ne sont pas applicables aux établissements de l'Etat.*]
 
 	**Liens**:
 
+	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L251-1, L251-5
 	  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L251-9
 
 	**Codifié par**:
@@ -10317,9 +10358,9 @@ L251-8 ne sont pas applicables aux établissements de l'Etat.*]
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 	**Cité par**:
 
@@ -10353,10 +10394,12 @@ Les articles L. 230-9, L. 230-10 et L. 251-1 à L. 251-8 ne sont pas applicables
 
 Les infractions aux dispositions des articles L. 240-1 à L. 240-4 et des règlements pris pour leur exécution sont passibles,
 en cas de récidive dans le délai de trois ans, d'une peine d'emprisonnement pouvant aller jusqu'à quatre mois [*durée*] et
-d'une amende pouvant aller jusqu'à 15 000 F [*montant*].
+d'une amende pouvant aller jusqu'à 50 000 F (1) [*montant*].
 
 Le tribunal ordonne, en outre, l'affichage [*publicité*] du jugement aux portes de l'établissement du délinquant et sa
 publication dans tels journaux qu'il désigne, le tout aux frais du délinquant.
+
+(1) Amende applicable depuis le 1er mars 1994.
 
 **Liens relatifs à cet article**
 
@@ -10364,14 +10407,18 @@ publication dans tels journaux qu'il désigne, le tout aux frais du délinquant.
 
 	  - Code du travail applicable dans la collectivité territoriale de Mayotte L240-1 à L240-4
 
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L240-1 à L240-4
+
 	**Codifié par**:
 
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 
 ## LIVRE III : EMPLOI
@@ -11890,11 +11937,13 @@ Elle se réunit au moins deux fois par an [*nombre, périodicité*].
 ###### Article L430-1
 
 Les directeurs ou administrateurs de syndicats ou d'unions de syndicats qui auront commis des infractions aux dispositions de
-l'article L. 411-1 seront punis d'une amende de 2 000 F à 15 000 F [*montant*]. La dissolution du syndicat ou de l'union de
+l'article L. 411-1 seront punis d'une amende de 25 000 F (1) [*montant*]. La dissolution du syndicat ou de l'union de
 syndicats pourra, en outre, être prononcée à la diligence du procureur de la République.
 
 En cas de fausse déclaration relative aux statuts et aux noms et qualités des directeurs ou administrateurs, l'amende sera de
-2 000 F à 15 000 F.
+25 000 F (1).
+
+(1) Amende applicable depuis le 1er mars 1994.
 
 **Liens relatifs à cet article**
 
@@ -11907,9 +11956,9 @@ En cas de fausse déclaration relative aux statuts et aux noms et qualités des 
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 	**Nouveaux textes**:
 
@@ -11919,8 +11968,10 @@ En cas de fausse déclaration relative aux statuts et aux noms et qualités des 
 ###### Article L430-2
 
 Les chefs d'établissement, directeurs ou gérants qui auront enfreint les dispositions des articles L. 412-2 et L. 413-2
-seront passibles d'une amende de 2 000 F à 15 000 F [*montant*] et, en cas de récidive, d'un emprisonnement de deux mois à un
-an [*durée*] et d'une amende de 4 000 F à 16 000 F ou de l'une de ces deux peines seulement.
+seront passibles d'une amende de 25 000 F (1) [*montant*] et, en cas de récidive, d'un emprisonnement d'un an [*durée*] et
+d'une amende de 50 000 F (1) ou de l'une de ces deux peines seulement.
+
+(1) Amende applicable depuis le 1er mars 1994.
 
 **Liens relatifs à cet article**
 
@@ -11928,14 +11979,18 @@ an [*durée*] et d'une amende de 4 000 F à 16 000 F ou de l'une de ces deux pei
 
 	  - Code du travail applicable dans la collectivité territoriale de Mayotte L412-2, L413-2
 
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L412-2, L413-2
+
 	**Codifié par**:
 
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 	**Nouveaux textes**:
 
@@ -12549,11 +12604,13 @@ présent titre.
 Lorsqu'une partie régulièrement convoquée dans des conditions prévues au troisième alinéa de l'article L. 513-4 ou à
 l'article L. 514-3 ne comparaît pas, sans motif légitime, devant la commission de conciliation ou le médiateur, ou ne se fait
 pas représenter, rapport en est établi par le président de la commission ou le médiateur. Ce rapport est remis à l'autorité
-administrative compétente qui le transmet au parquet. L'infraction est punie d'une amende de 2 000 F à 20 000 F [*montant*].
+administrative compétente qui le transmet au parquet. L'infraction est punie d'une amende de 25 000 F (1) [*montant*].
 
 Lorsque la communication des documents visés à l'article L. 514-2 est sciemment refusée au médiateur, le médiateur remet un
-rapport à l'autorité administrative compétente qui le transmet au parquet. L'infraction est punie d'une amende de 2 000 F à
-20 000 F.
+rapport à l'autorité administrative compétente qui le transmet au parquet. L'infraction est punie d'une amende de 25 000 F
+(1).
+
+(1) Amende applicable depuis le 1er mars 1994.
 
 **Liens relatifs à cet article**
 
@@ -12566,9 +12623,9 @@ rapport à l'autorité administrative compétente qui le transmet au parquet. L'
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 	**Cité par**:
 
@@ -13367,11 +13424,12 @@ livre 6.*]
 
 ###### Article L630-1
 
-Est passible d'un emprisonnement de deux mois à un an [*durée*] et d'une amende de 2 000 F à 20 000 F [*montant*] ou de l'une
-de ces deux peines seulement quiconque met obstacle à l'accomplissement des devoirs d'un inspecteur ou d'un contrôleur du
-travail.
+Est passible d'un emprisonnement d'un an [*durée*] et d'une amende de 25 000 F (1) [*montant*] ou de l'une de ces deux peines
+seulement quiconque met obstacle à l'accomplissement des devoirs d'un inspecteur ou d'un contrôleur du travail.
 
-En cas de récidive, l'emprisonnement pourra être porté à deux ans et l'amende à 40 000 F.
+En cas de récidive, l'emprisonnement pourra être porté à deux ans et l'amende à 50 000 F.
+
+(1) Amende applicable depuis le 1er mars 1994.
 
 **Nota:**
 
@@ -13389,9 +13447,9 @@ livre 6.*]
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 	**Cité par**:
 
@@ -15148,7 +15206,7 @@ salaires inférieurs au minimum prévu par l'article L. 113-9 [*pourcentage du S
 L'amende sera appliquée autant de fois qu'il y aura d'apprentis rémunérés dans des conditions illégales.
 
 En cas de récidive dans le délai d'un an, le contrevenant est passible de l'amende prévue pour les contraventions de la 5e
-classe en récidive et d'une peine d'emprisonnement d'un mois à deux mois [*durée*].
+classe en récidive.
 
 En cas de pluralité de contraventions entraînant les peines de récidive, l'amende sera appliquée autant de fois qu'il aura
 été relevé de nouvelles contraventions.
@@ -15171,9 +15229,9 @@ code pénal.
 
 	  - Décret n°91-1263 1991-12-16 annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+	  - Décret n°93-726 1993-03-29 art. 1 JORF 30 mars 1993 en vigueur le 1er mars 1994
 
 
 ###### Article R151-3
@@ -15231,8 +15289,8 @@ En cas de récidive, l'amende prévue pour les contraventions de la 5e classe co
 ###### Article R151-5
 
 Toute contravention à l'article L. 122-33 [*obligation de délivrer un certificat à l'expiration du contrat de travail*] sera
-passible de l'amende prévue pour les contraventions de la 4e classe. En cas de récidive, le tribunal de police pourra
-prononcer, outre l'amende prévue pour les contraventions de la 5e classe, un emprisonnement de dix jours à un mois [*durée*].
+passible de l'amende prévue pour les contraventions de la 4e classe [*(1) montant*]. En cas de récidive, le tribunal de
+police pourra prononcer l'amende prévue pour les contraventions de la 5e classe.
 
 **Nota:**
 
@@ -15240,31 +15298,31 @@ prononcer, outre l'amende prévue pour les contraventions de la 5e classe, un em
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L122-33
-
 	**Cite**:
 
 	  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-33
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L122-33
 
 	**Codifié par**:
 
 	  - Décret n°91-1263 1991-12-16 annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+	  - Décret n°93-726 1993-03-29 art. 1 JORF 30 mars 1993 en vigueur le 1er mars 1994
 
 
 ###### Article R151-6
 
 Toute infraction aux dispositions des articles L. 122-35 [*réintégration dans l'entreprise aprés la libération des
 obligations militaires*] L. 122-36 [*priorité à l'embauche*] et L. 122-37 et à celles de l'article R. 122-6 est punie de
-l'amende prévue pour les contraventions de la 5e classe.
+l'amende prévue pour les contraventions de la 5e classe [*(1) montant*].
 
-En cas de récidive dans le délai d'un an, le tribunal peut prononcer, outre l'amende prévue pour les contraventions de la 5e
-classe en récidive, un emprisonnement d'un mois à deux mois [*durée*].
+En cas de récidive dans le délai d'un an, le tribunal peut prononcer l'amende prévue pour les contraventions de la 5e classe
+en récidive.
 
 **Nota:**
 
@@ -15284,9 +15342,9 @@ classe en récidive, un emprisonnement d'un mois à deux mois [*durée*].
 
 	  - Décret n°91-1263 1991-12-16 annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+	  - Décret n°93-726 1993-03-29 art. 1 JORF 30 mars 1993 en vigueur le 1er mars 1994
 
 
 ###### Article R151-7
@@ -15317,8 +15375,8 @@ articles L. 122-45 à L. 122-51 et aux dispositions des articles R. 122-7 à R. 
 ###### Article R151-8
 
 Toute contravention aux articles L. 122-67 à L. 122-71, R. 122-11 à R. 122-15 [*réglement intérieur de l'entreprise*] sera
-passible de l'amende prévue pour les contraventions de la 4e classe. En cas de récidive, le tribunal de police pourra
-prononcer, outre l'amende prévue pour les contraventions de la 5e classe, un emprisonnement de dix jours à un mois [*durée*].
+passible de l'amende prévue pour les contraventions de la 4e classe [*(1) montant*]. En cas de récidive, le tribunal de
+police pourra prononcer l'amende prévue pour les contraventions de la 5e classe.
 
 **Nota:**
 
@@ -15338,9 +15396,9 @@ prononcer, outre l'amende prévue pour les contraventions de la 5e classe, un em
 
 	  - Décret n°91-1263 1991-12-16 annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+	  - Décret n°93-726 1993-03-29 art. 1 JORF 30 mars 1993 en vigueur le 1er mars 1994
 
 
 #### CHAPITRE II : Marchandages
@@ -15348,8 +15406,8 @@ prononcer, outre l'amende prévue pour les contraventions de la 5e classe, un em
 ###### Article R152-1
 
 Toute contravention à l'article R. 124-1 [*publicité obligatoire*] sera passible de l'amende prévue pour les contraventions
-de la 4e classe. En cas de récidive, le tribunal pourra prononcer, outre l'amende prévue pour les contraventions de la 5e
-classe, un emprisonnement de dix jours à un mois [*durée*].
+de la 4e classe [*(1) montant*]. En cas de récidive, le tribunal pourra prononcer l'amende prévue pour les contraventions de
+la 5e classe.
 
 **Nota:**
 
@@ -15369,9 +15427,9 @@ classe, un emprisonnement de dix jours à un mois [*durée*].
 
 	  - Décret n°91-1263 1991-12-16 annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+	  - Décret n°93-726 1993-03-29 art. 1 JORF 30 mars 1993 en vigueur le 1er mars 1994
 
 	**Cité par**:
 
@@ -15469,12 +15527,12 @@ législatives et réglementaires relatives aux accessoires du salaire.
 ###### Article R156-1
 
 I. - Tout employeur qui contrevient aux dispositions des articles L. 140-1 et L. 140-2 [*égalité entre les hommes et les
-femmes*] est passible de l'amende prévue pour les contraventions de la 5e classe.
+femmes*] est passible de l'amende prévue pour les contraventions de la 5e classe [*(1) montant*].
 
 L'amende sera appliquée autant de fois qu'il y aura de travailleurs rémunérés dans des conditions illégales.
 
 En cas de récidive dans le délai d'un an, la peine d'amende sera celle prévue pour les contraventions de la 5e classe en
-récidive et une peine d'emprisonnement de un mois à deux mois [*durée*] pourra être prononcée.
+récidive.
 
 En cas de condamnation, le tribunal peut ordonner l'affichage du jugement, conformément aux dispositions de l'article 471 du
 code pénal.
@@ -15502,23 +15560,23 @@ l'entreprise*] définis à l'article R. 140-1 est passible de l'amende prévue p
 
 	  - Décret n°91-1263 1991-12-16 annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+	  - Décret n°93-726 1993-03-29 art. 1 JORF 30 mars 1993 en vigueur le 1er mars 1994
 
 
 ##### Section 2 : Salaire minimum garanti et rémunération mensuelle minimale garantie.
 
 ###### Article R156-2
 
-Sont passibles de l'amende prévue pour les contraventions de la 5e classe les employeurs qui paient des salaires inférieurs
-au minimum prévu par l'article L. 141-2 ainsi que les employeurs qui paient des rémunérations inférieures à la rémunération
-mensuelle minimale garantie par l'article L. 141-3.
+Sont passibles de l'amende prévue pour les contraventions de la 5e classe [*(1) montant*] les employeurs qui paient des
+salaires inférieurs au minimum prévu par l'article L. 141-2 ainsi que les employeurs qui paient des rémunérations inférieures
+à la rémunération mensuelle minimale garantie par l'article L. 141-3.
 
 L'amende sera appliquée autant de fois qu'il y aura de travailleurs rémunérés dans des conditions illégales.
 
 En cas de récidive dans le délai d'un an, le contrevenant est passible de l'amende prévue pour les contraventions de la 5e
-classe en récidive et d'une peine d'emprisonnement d'un mois à deux mois [*durée*].
+classe en récidive.
 
 En cas de pluralité de contraventions entraînant des peines de récidive, l'amende sera appliquée autant de fois qu'il aura
 été relevé de nouvelles contraventions.
@@ -15541,9 +15599,9 @@ code pénal.
 
 	  - Décret n°91-1263 1991-12-16 annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+	  - Décret n°93-726 1993-03-29 art. 1 JORF 30 mars 1993 en vigueur le 1er mars 1994
 
 
 ##### Section 3 : Paiement du salaire.
@@ -15974,15 +16032,14 @@ relevé de nouvelles infractions.
 
 ###### Article R251-1
 
-Le chef d'établissement sera puni de l'amende prévue pour les contraventions de la 5e classe lorsque, à l'expiration du délai
-prévu dans la mise en demeure notifiée en application de l'article R. 230-9, il n'aura pas été remédié aux infractions
-constatées.
+Le chef d'établissement sera puni de l'amende prévue pour les contraventions de la 5e classe [*(1) montant*] lorsque, à
+l'expiration du délai prévu dans la mise en demeure notifiée en application de l'article R. 230-9, il n'aura pas été remédié
+aux infractions constatées.
 
 L'amende est appliquée autant de fois qu'il y a de salariés directement exposés à la situation dangereuse visée par la mise
 en demeure.
 
-En cas de récidive, il pourra être prononcé une peine d'emprisonnement d'une durée d'un mois à deux mois [*durée*] et
-l'amende prévue pour les contraventions de la 5e classe en récidive ou une de ces deux peines seulement.
+En cas de récidive, il pourra être prononcé l'amende prévue pour les contraventions de la 5e classe en récidive.
 
 **Nota:**
 
@@ -15998,9 +16055,9 @@ l'amende prévue pour les contraventions de la 5e classe en récidive ou une de 
 
 	  - Décret n°91-1263 1991-12-16 annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+	  - Décret n°93-726 1993-03-29 art. 1 JORF 30 mars 1993 en vigueur le 1er mars 1994
 
 
 #### Chapitre 3 : Conditions du travail
