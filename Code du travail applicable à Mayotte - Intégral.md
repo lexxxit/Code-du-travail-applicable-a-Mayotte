@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2003-01-01
+Version Consolidée au 2003-03-19
 
 # Partie législative
 
@@ -12406,13 +12406,13 @@ ou de son embauchage.
 
 ###### Article L341-1
 
-Toute infraction aux interdictions définies à l'article L. 312-1 sera punie d'un emprisonnement de deux mois [*durée*] à deux
-ans et d'une amende de 2 000 F à 200 000 F [*montant*] ou de l'une de ces deux peines seulement. Dans tous les cas, le
-tribunal pourra ordonner que le jugement de condamnation soit publié intégralement ou par extraits dans les journaux qu'il
-désignera et affiché dans les lieux qu'il indiquera pendant une durée de quinze jours, le tout aux frais du condamné, sans
-toutefois que les frais de cette publication puissent dépasser le maximum de l'amende encourue. Le tribunal pourra également
-prononcer la confiscation des outils, machines, matériaux, véhicules utilisés ou stockés qui ont servi à commettre
-l'infraction ou ont été utilisés à cette occasion.
+Toute infraction aux interdictions définies à l'article L. 312-1 sera punie d'un emprisonnement de deux mois à trois ans et
+d'une amende de 300 euros à 45 000 euros ou de l'une de ces deux peines seulement. Dans tous les cas, le tribunal pourra
+ordonner que le jugement de condamnation soit publié intégralement ou par extraits dans les journaux qu'il désignera et
+affiché dans les lieux qu'il indiquera pendant une durée de quinze jours, le tout aux frais du condamné, sans toutefois que
+les frais de cette publication puissent dépasser le maximum de l'amende encourue. Le tribunal pourra également prononcer la
+confiscation des outils, machines, matériaux, véhicules utilisés ou stockés qui ont servi à commettre l'infraction ou ont été
+utilisés à cette occasion.
 
 En outre, le tribunal pourra prononcer la confiscation des objets sur lesquels aura porté le travail clandestin.
 
@@ -12430,7 +12430,7 @@ En cas de récidive, les peines d'emprisonnement et d'amende peuvent être port�
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Loi n°2003-239 du 18 mars 2003 - art. 135 () JORF 19 mars 2003
 
 	**Cite**:
 
@@ -14094,7 +14094,8 @@ travail conclus en application du titre III du livre Ier du présent code. Ils s
 agents et officiers de police judiciaire, de constater, s'il y échet, les infractions à ces dispositions.
 
 Ils constatent, en outre, les infractions aux dispositions de protection sociale concernant les accidents du travail et les
-maladies professionnelles du régime en vigueur dans la collectivité départementale de Mayotte.
+maladies professionnelles du régime en vigueur dans la collectivité départementale de Mayotte ainsi que les infractions
+prévues par les articles 225-13 à 225-16-1 du code pénal.
 
 Dans les cas expressément prévus par la loi ou le règlement, ces attributions peuvent être exercées par des fonctionnaires de
 contrôle assimilés.
@@ -14109,10 +14110,6 @@ professions libérales, des sociétés civiles, des syndicats professionnels et 
 
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cité par**:
 
@@ -14131,6 +14128,14 @@ professions libérales, des sociétés civiles, des syndicats professionnels et 
 	  - Code du travail applicable à Mayotte. - art. R235-238 (V)
 	  - Code du travail applicable à Mayotte. - art. R235-251 (V)
 	  - Code du travail applicable à Mayotte. - art. R235-253 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2003-239 du 18 mars 2003 - art. 132 () JORF 19 mars 2003
+
+	**Cite**:
+
+	  - Code pénal 225-13 à 225-16-1
 
 
 ###### Article L610-2
