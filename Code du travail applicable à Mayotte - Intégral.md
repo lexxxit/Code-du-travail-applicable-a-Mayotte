@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2001-07-13 00:00:01 +0200
+Version Consolidée au 2002-01-01
 
 # Partie législative
 
@@ -6697,25 +6697,14 @@ fournitures à prix coûtant.
 
 ###### Article L151-1
 
-Toute infraction aux dispositions de l'article L. 123-1 sera punie d'un emprisonnement d'un an *durée* et d'une amende de 25
-000 F (1) *montant ou de l'une de ces deux peines seulement.
+Toute infraction aux dispositions de l'article L. 123-1 sera punie d'un emprisonnement d'un an et d'une amende de 3750 euros.
+ou de l'une de ces deux peines seulement.
 
 Le tribunal pourra ordonner, aux frais de la personne condamnée, l'affichage du jugement dans les conditions prévues à
 l'article 131-35 du code pénal et son insertion, intégrale ou par extraits, dans les journaux qu'il désigne, sans que ces
 frais puissent excéder le maximum de l'amende encourue.
 
-(1) Amende applicable depuis le 1er mars 1994.
-
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L123-1
-
-	**Cite**:
-
-	  - Code du travail applicable dans la collectivité territoriale de Mayotte L123-1
-	  - Code pénal - art. 131-35 (M)
 
 	**Codifié par**:
 
@@ -6724,7 +6713,12 @@ frais puissent excéder le maximum de l'amende encourue.
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Cite**:
+
+	  - Code pénal - art. 131-35 (M)
+	  - Code du travail applicable à Mayotte. - art. L123-1 (M)
 
 
 ###### Article L151-2
@@ -6790,62 +6784,47 @@ y a lieu de prononcer une dispense de peine ou d'infliger les peines prévues pa
 
 ###### Article L151-4
 
-Toute infraction aux dispositions de l'article L. 122-73 est punie d'une amende de 25 000 F (1) [*montant*] et, en cas de
-récidive, d'une amende de 50 000 F (1).
-
-(1) Amende applicable depuis le 1er mars 1994.
+Toute infraction aux dispositions de l'article L. 122-73 est punie d'une amende de 3750 euros et, en cas de récidive, d'une
+amende de 7500 euros.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L122-73
-
-	**Cite**:
-
-	  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-73
-
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L122-73
 
 
 #### CHAPITRE II : Marchandage.
 
 ###### Article L152-1
 
-Toute infraction aux dispositions des articles L. 124-1 et L. 124-3 est punie d'une amende de 25 000 F (1) [*montant*]. La
-récidive est punie d'une amende de 50 000 F (1) et d'un emprisonnement de six mois [*durée*] ou de l'une de ces deux peines
-seulement.
+Toute infraction aux dispositions des articles L. 124-1 et L. 124-3 est punie d'une amende de 3750 euros. La récidive est
+punie d'une amende de 7500 euros et d'un emprisonnement de six mois ou de l'une de ces deux peines seulement.
 
 Le tribunal peut prononcer, en outre, l'interdiction d'exercer l'activité de sous-entrepreneur de main-d'oeuvre pour une
 durée de deux ans à dix ans.
 
-Sont passibles d'une amende de 40 000 F (2) et d'un emprisonnement de six mois ou de l'une de ces deux peines seulement ceux
+Sont passibles d'une amende de 6000 euros et d'un emprisonnement de six mois ou de l'une de ces deux peines seulement ceux
 qui, directement ou par personne interposée, contreviennent à l'interdiction prononcée en application de l'alinéa qui
 précède.
 
 Dans tous les cas, le tribunal peut ordonner, aux frais de la personne condamnée, l'affichage du jugement aux portes des
 établissements de l'entreprise et sa publication dans les journaux qu'il désigne.
 
-(1) Amende applicable depuis le 1er mars 1994.
-
-(2) Amende applicable depuis le 8 mars 1991.
-
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L124-1
-
-	**Cite**:
-
-	  - Code du travail applicable dans la collectivité territoriale de Mayotte L124-1, L124-3
 
 	**Codifié par**:
 
@@ -6854,7 +6833,11 @@ Dans tous les cas, le tribunal peut ordonner, aux frais de la personne condamné
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L124-1 (M)
 
 	**Cité par**:
 
@@ -6896,33 +6879,30 @@ l'article 408, paragraphe premier, du code pénal.
 
 ###### Article L154-1
 
-Toute infraction aux dispositions des articles L. 126-1, L. 126-2 et L. 126-3 est punie d'une amende de 25 000 F (1)
-[*montant*]. La récidive est punie d'une amende de 50 000 F (1) et d'un emprisonnement de six mois [*durée*] ou de l'une de
-ces deux peines seulement.
+Toute infraction aux dispositions des articles L. 126-1, L. 126-2 et L. 126-3 est punie d'une amende de 3750 euros. La
+récidive est punie d'une amende de 7500 euros et d'un emprisonnement de six mois ou de l'une de ces deux peines seulement.
 
 Dans tous les cas, le tribunal peut ordonner, aux frais de la personne condamnée, l'affichage du jugement à la porte du siège
 du groupement et aux portes des entreprises utilisatrices et sa publication dans les journaux qu'il désigne.
 
-(1) Amende applicable depuis le 1er mars 1994.
-
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du travail applicable dans la collectivité territoriale de Mayotte L126-1, L126-2, L126-3
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L126-1, L126-2, L126-3
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. L126-8 (VD)
 
 
 #### CHAPITRE V : Conventions et accords collectifs de travail.
@@ -7032,20 +7012,10 @@ encouru une condamnation pour infraction aux dispositions de l'article L. 144-3.
 
 ###### Article L156-3
 
-Toute infraction aux dispositions de l'article L. 147-1 [*économat*] est punie d'une amende de 25 000 F (1) [*montant*] et,
-en cas de récidive, d'une amende de 50 000 F (1).
-
-(1) Amende applicable depuis le 1er mars 1994.
+Toute infraction aux dispositions de l'article L. 147-1 est punie d'une amende de 3750 euros et, en cas de récidive, d'une
+amende de 7500 euros.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du travail applicable dans la collectivité territoriale de Mayotte L147-1
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L147-1
 
 	**Codifié par**:
 
@@ -7054,7 +7024,15 @@ en cas de récidive, d'une amende de 50 000 F (1).
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L147-1 (M)
 
 
 ## LIVRE II : RÉGLEMENTATION DU TRAVAIL
@@ -9873,16 +9851,14 @@ au chef d'établissement ou à son préposé que s'il a agi sciemment.
 ###### Article L251-1
 
 Les chefs d'établissements, directeurs, gérants ou préposés qui, par leur faute personnelle, ont enfreint les dispositions
-des chapitres Ier et II du titre III du présent livre et des décrets pris pour leur application sont punis d'une amende de 25
-000 F (1) [*montant*].
+des chapitres Ier et II du titre III du présent livre et des décrets pris pour leur application sont punis d'une amende de
+3750 euros.
 
 L'amende est appliquée autant de fois qu'il y a de salariés de l'entreprise concernés par la ou les infractions relevées dans
 le procès-verbal visé aux articles L. 611-9 et L. 611-11.
 
 Conformément à l'article 5 du code pénal, les peines prévues au présent article et à l'article L. 251-5 ne se cumulent pas
-[*non cumul*] avec celles prévues aux articles 319 et 320 du code pénal.
-
-(1) Amende applicable depuis le 1er mars 1994.
+avec celles prévues aux articles 319 et 320 du code pénal.
 
 **Liens relatifs à cet article**
 
@@ -9893,7 +9869,7 @@ Conformément à l'article 5 du code pénal, les peines prévues au présent art
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -9985,10 +9961,8 @@ juge des référés, qui peut ordonner la fermeture totale ou partielle de l'ét
 assurer ladite exécution.
 
 Le chef d'entreprise qui, dans les délais prévus, n'a pas présenté le plan visé au deuxième alinéa ci-dessus ou n'a pas pris
-les mesures nécessaires à la réalisation du plan arrêté par le juge en vertu du troisième alinéa est puni d'une amende de 120
-000 F (1) [*montant*] ainsi que des peines prévues à l'article L. 251-7.
-
-(1) Amende applicable depuis le 8 mars 1991.
+les mesures nécessaires à la réalisation du plan arrêté par le juge en vertu du troisième alinéa est puni d'une amende de
+18000 euros ainsi que des peines prévues à l'article L. 251-7.
 
 **Liens relatifs à cet article**
 
@@ -9999,7 +9973,7 @@ les mesures nécessaires à la réalisation du plan arrêté par le juge en vert
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -10014,7 +9988,7 @@ les mesures nécessaires à la réalisation du plan arrêté par le juge en vert
 ###### Article L251-5
 
 En cas de récidive, les infractions aux dispositions auxquelles se réfère l'article L. 251-1 sont passibles d'un
-emprisonnement d'un an [*durée*] et d'une amende de 60 000 F (1) [*montant*] ou de l'une de ces deux peines seulement.
+emprisonnement d'un an et d'une amende de 9000 euros ou de l'une de ces deux peines seulement.
 
 Toutefois, aucune infraction nouvelle ne pourra être relevée pour la même cause pendant le cours du délai qui aura
 éventuellement été accordé en vertu des dispositions de l'article précédent.
@@ -10026,13 +10000,7 @@ salubrité imposés par la loi ou les règlements.
 
 Le jugement est susceptible d'appel, le tribunal supérieur d'appel statue d'urgence.
 
-(1) Amende applicable depuis le 8 mars 1991.
-
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L251-1
 
 	**Codifié par**:
 
@@ -10041,7 +10009,7 @@ Le jugement est susceptible d'appel, le tribunal supérieur d'appel statue d'urg
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -10120,24 +10088,18 @@ Lorsque la fermeture totale et définitive entraîne le licenciement du personne
 
 ###### Article L251-8
 
-En cas de condamnation prononcée en application des articles L. 251-1 et L. 251-5, le tribunal ordonne l'affichage
-[*publicité*] du jugement aux portes des magasins, usines ou ateliers du délinquant et sa publication dans tels journaux
-qu'il désigne, le tout aux frais du délinquant.
+En cas de condamnation prononcée en application des articles L. 251-1 et L. 251-5, le tribunal ordonne l'affichage du
+jugement aux portes des magasins, usines ou ateliers du délinquant et sa publication dans tels journaux qu'il désigne, le
+tout aux frais du délinquant.
 
 Il peut, en cas de récidive, en outre, prononcer contre l'auteur de l'infraction l'interdiction d'exercer, pendant une durée
 maximale de cinq ans, certaines fonctions qu'il énumère soit dans l'entreprise, soit dans une ou plusieurs catégories
 d'entreprises qu'il définit.
 
-La violation de cette interdiction est punie d'une amende de 60 000 F (1) [*montant*] et d'un emprisonnement de deux ans
-[*durée*] ou de l'une de ces peines seulement.
-
-(1) Amende applicable depuis le 8 mars 1991.
+La violation de cette interdiction est punie d'une amende de 9000 euros et d'un emprisonnement de deux ans ou de l'une de ces
+peines seulement.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L251-1, L251-5
 
 	**Codifié par**:
 
@@ -10146,7 +10108,7 @@ La violation de cette interdiction est punie d'une amende de 60 000 F (1) [*mont
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -10279,19 +10241,13 @@ pour leur application.
 ###### Article L252-1
 
 Les infractions aux dispositions des articles L. 240-1 à L. 240-4 et des règlements pris pour leur exécution sont passibles,
-en cas de récidive dans le délai de trois ans, d'une peine d'emprisonnement pouvant aller jusqu'à quatre mois [*durée*] et
-d'une amende pouvant aller jusqu'à 50 000 F (1) [*montant*].
+en cas de récidive dans le délai de trois ans, d'une peine d'emprisonnement pouvant aller jusqu'à quatre mois et d'une amende
+pouvant aller jusqu'à 7500 euros.
 
-Le tribunal ordonne, en outre, l'affichage [*publicité*] du jugement aux portes de l'établissement du délinquant et sa
-publication dans tels journaux qu'il désigne, le tout aux frais du délinquant.
-
-(1) Amende applicable depuis le 1er mars 1994.
+Le tribunal ordonne, en outre, l'affichage du jugement aux portes de l'établissement du délinquant et sa publication dans
+tels journaux qu'il désigne, le tout aux frais du délinquant.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L240-1 à L240-4
 
 	**Codifié par**:
 
@@ -10300,7 +10256,7 @@ publication dans tels journaux qu'il désigne, le tout aux frais du délinquant.
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -11428,8 +11384,8 @@ En cas de récidive, les peines d'emprisonnement et d'amende peuvent être port�
 
 ###### Article L342-1
 
-Toute infraction aux dispositions des articles L. 330-2 et L. 330-4 est punie d'un emprisonnement de deux mois [*durée*] à
-deux ans et d'une amende de 2 000 F à 20 000 F [*montant*] ou de l'une de ces deux peines seulement.
+Toute infraction aux dispositions des articles L. 330-2 et L. 330-4 est punie d'un emprisonnement de deux mois à deux ans et
+d'une amende de 300 euros à 3000 euros ou de l'une de ces deux peines seulement.
 
 L'amende est appliquée autant de fois qu'il y a d'étrangers concernés.
 
@@ -11444,7 +11400,7 @@ En cas de récidive, les peines d'emprisonnement et d'amende peuvent être port�
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -12357,13 +12313,11 @@ Elle se réunit au moins deux fois par an.
 ###### Article L430-1
 
 Les directeurs ou administrateurs de syndicats ou d'unions de syndicats qui auront commis des infractions aux dispositions de
-l'article L. 411-1 seront punis d'une amende de 25 000 F (1) [*montant*]. La dissolution du syndicat ou de l'union de
-syndicats pourra, en outre, être prononcée à la diligence du procureur de la République.
+l'article L. 411-1 seront punis d'une amende de 3750 euros. La dissolution du syndicat ou de l'union de syndicats pourra, en
+outre, être prononcée à la diligence du procureur de la République.
 
 En cas de fausse déclaration relative aux statuts et aux noms et qualités des directeurs ou administrateurs, l'amende sera de
-25 000 F (1).
-
-(1) Amende applicable depuis le 1er mars 1994.
+3750 euros.
 
 **Liens relatifs à cet article**
 
@@ -12374,7 +12328,11 @@ En cas de fausse déclaration relative aux statuts et aux noms et qualités des 
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Transféré par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 21 (V) JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -12388,10 +12346,8 @@ En cas de fausse déclaration relative aux statuts et aux noms et qualités des 
 ###### Article L430-2
 
 Les chefs d'établissement, directeurs ou gérants qui auront enfreint les dispositions des articles L. 412-2 et L. 413-2
-seront passibles d'une amende de 25 000 F (1) [*montant*] et, en cas de récidive, d'un emprisonnement d'un an [*durée*] et
-d'une amende de 50 000 F (1) ou de l'une de ces deux peines seulement.
-
-(1) Amende applicable depuis le 1er mars 1994.
+seront passibles d'une amende de 3750 euros et, en cas de récidive, d'un emprisonnement d'un an et d'une amende de 7500 euros
+ou de l'une de ces deux peines seulement.
 
 **Liens relatifs à cet article**
 
@@ -12402,7 +12358,11 @@ d'une amende de 50 000 F (1) ou de l'une de ces deux peines seulement.
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Transféré par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 21 (V) JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -12982,13 +12942,10 @@ présent titre.
 Lorsqu'une partie régulièrement convoquée dans des conditions prévues au troisième alinéa de l'article L. 513-4 ou à
 l'article L. 514-3 ne comparaît pas, sans motif légitime, devant la commission de conciliation ou le médiateur, ou ne se fait
 pas représenter, rapport en est établi par le président de la commission ou le médiateur. Ce rapport est remis à l'autorité
-administrative compétente qui le transmet au parquet. L'infraction est punie d'une amende de 25 000 F (1) [*montant*].
+administrative compétente qui le transmet au parquet. L'infraction est punie d'une amende de 3750 euros.
 
 Lorsque la communication des documents visés à l'article L. 514-2 est sciemment refusée au médiateur, le médiateur remet un
-rapport à l'autorité administrative compétente qui le transmet au parquet. L'infraction est punie d'une amende de 25 000 F
-(1).
-
-(1) Amende applicable depuis le 1er mars 1994.
+rapport à l'autorité administrative compétente qui le transmet au parquet. L'infraction est punie d'une amende de 3750 euros.
 
 **Liens relatifs à cet article**
 
@@ -12999,7 +12956,7 @@ rapport à l'autorité administrative compétente qui le transmet au parquet. L'
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -13628,12 +13585,10 @@ L. 620-1 et L. 620-3, à l'exception de celles relatives aux travailleurs étran
 
 ###### Article L630-1
 
-Est passible d'un emprisonnement d'un an [*durée*] et d'une amende de 25 000 F (1) [*montant*] ou de l'une de ces deux peines
-seulement quiconque met obstacle à l'accomplissement des devoirs d'un inspecteur ou d'un contrôleur du travail.
+Est passible d'un emprisonnement d'un an et d'une amende de 3750 euros ou de l'une de ces deux peines seulement quiconque met
+obstacle à l'accomplissement des devoirs d'un inspecteur ou d'un contrôleur du travail.
 
-En cas de récidive, l'emprisonnement pourra être porté à deux ans et l'amende à 50 000 F.
-
-(1) Amende applicable depuis le 1er mars 1994.
+En cas de récidive, l'emprisonnement pourra être porté à deux ans et l'amende à 7500 euros.
 
 **Liens relatifs à cet article**
 
@@ -13653,7 +13608,7 @@ En cas de récidive, l'emprisonnement pourra être porté à deux ans et l'amend
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article L630-2
