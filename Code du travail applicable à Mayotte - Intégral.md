@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 1995-11-08
+Version Consolidée au 1997-08-01
 
 # Partie législative
 
@@ -17645,6 +17645,159 @@ présentées par les réfugiés et par les apatrides.
 	**Créé par**:
 
 	  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+
+
+###### Article R330-6
+
+Lorsqu'ils constatent les manquements visés à l'article L. 330-3, les officiers et agents de police judiciaire ainsi que les
+inspecteurs et contrôleurs du travail habilités établissent un procès-verbal pour chaque manquement constaté et en remettent
+une copie au salarié étranger et à l'employeur intéressés ou, en cas d'absence de ce dernier, à l'un de ses préposés contre
+récépissé. En cas de refus de recevoir l'acte, il en est expressément fait mention au procès-verbal.
+
+Le salarié et l'employeur peuvent consigner au procès-verbal des observations rédigées de leur main au sujet des manquements
+qui leur sont reprochés. Si l'un ou l'autre ne peut ou ne veut consigner de telles observations, les agents chargés du
+contrôle le mentionnent au procès-verbal et, dans le premier cas, recueillent les observations de l'employeur ou du salarié.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L330-3
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°97-561 du 27 mai 1997 - art. 1 () JORF 31 mai 1997 en vigueur le 1er août 1997
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R330-7 (T)
+	  - Code du travail applicable à Mayotte. - art. R330-9 (V)
+
+
+###### Article R330-7
+
+Le procès-verbal prévu à l'article R. 330-6 doit comporter les mentions suivantes :
+
+1° La date et le lieu du contrôle ;
+
+2° Les nom, prénoms, qualité ou grade, service, adresse administrative et numéro de téléphone des agents chargés du
+contrôle ;
+
+3° La raison sociale, l'adresse et, le cas échéant, le numéro de téléphone de l'entreprise ;
+
+4° Les nom, prénoms et adresse de l'employeur ;
+
+5° Les nom, prénoms, nationalité, date d'embauche et salaire horaire du salarié qui, pour l'application de l'article L.
+330-3, est réputé être domicilié chez l'employeur ;
+
+6° Le montant approximatif des sommes dues au salarié par l'employeur au moment du contrôle ;
+
+7° Le cas échéant, les observations des intéressés, consignées par eux-mêmes ou recueillies par les agents chargés du
+contrôle ;
+
+8° La date, le lieu et l'heure de la convocation de l'employeur et du salarié en vue de l'audition prévue à l'article R.
+330-8 ;
+
+9° La mention selon laquelle il est expressément indiqué à l'employeur et au salarié que chacun d'eux pourrait, lors de
+l'audition, se faire assister par la personne de son choix ;
+
+10° La mention selon laquelle il a été expressément indiqué à l'employeur et au salarié que leur défaut de comparution à
+l'audition ne ferait pas obstacle au prononcé de l'amende ;
+
+11° Les signatures de l'employeur, du salarié et des agents chargés du contrôle.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte R330-6, L330-3, R330-8
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°97-561 du 27 mai 1997 - art. 1 () JORF 31 mai 1997 en vigueur le 1er août 1997
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R330-1 (V)
+	  - Code du travail applicable à Mayotte. - art. R330-2 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R330-9 (V)
+
+
+###### Article R330-8
+
+A peine de nullité, les agents chargés du contrôle doivent transmettre le procès-verbal au représentant du Gouvernement dans
+les trois jours de sa signature.
+
+L'employeur et le salarié doivent être entendus par un fonctionnaire désigné par le représentant du Gouvernement, dans un
+délai compris entre quatre et neuf jours suivant la remise aux intéressés de la copie du procès-verbal.
+
+Sauf à se faire représenter en cas d'empêchement pour un motif légitime, l'employeur ou le représentant légal de l'entreprise
+et le salarié sont tenus de comparaître en personne. Ils peuvent se faire assister par la personne de leur choix et présenter
+tout document ou observation utile à leur défense.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°97-561 du 27 mai 1997 - art. 1 () JORF 31 mai 1997 en vigueur le 1er août 1997
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R330-10 (V)
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R330-6 (T)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R330-7 (T)
+	  - Code du travail applicable à Mayotte. - art. R330-9 (V)
+
+
+###### Article R330-9
+
+S'il décide de prononcer l'amende, le représentant du Gouvernement notifie sa décision à l'employeur et au salarié et en
+transmet une copie dans un délai de quatre jours au comptable du Trésor territorialement compétent.
+
+Le montant de l'amende est fixé par référence au salaire minimum interprofessionnel garanti en vigueur à la date du procès-
+verbal constatant le manquement sanctionné.
+
+L'amende est mise en recouvrement conformément aux dispositions qui régissent les états exécutoires émis pour le recouvrement
+des créances de la collectivité territoriale de Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°97-561 du 27 mai 1997 - art. 1 () JORF 31 mai 1997 en vigueur le 1er août 1997
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R330-11 (V)
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R330-7 (T)
 
 
 ### TITRE IV : Pénalités
