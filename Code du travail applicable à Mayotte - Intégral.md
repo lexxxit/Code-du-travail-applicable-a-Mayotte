@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2005-05-10
+Version Consolidée au 2006-01-01
 
 # Partie législative
 
@@ -15,6 +15,19 @@ Le présent code du travail s'applique :
 
 Sauf dispositions contraires, il ne s'applique pas aux fonctionnaires ou agents de droit public.
 
+Il ne s'applique pas, non plus, au contrat de travail des salariés des entreprises établies dans les départements de
+métropole ou d'outre-mer ou dans les Etats de l'Union européenne envoyés à Mayotte par celles-ci dans le cadre d'une
+prestation de services pour une durée n'excédant pas vingt-quatre mois.
+
+Sous réserve des dispositions du présent article, tout contrat de travail conclu pour être exécuté à Mayotte est soumis aux
+dispositions du présent code, quels que soient le lieu de sa conclusion et la résidence ou le lieu du siège social de l'une
+ou l'autre des parties.
+
+Les dispositions du présent code ne portent pas atteinte aux stipulations des contrats individuels de travail plus favorables
+pour les salariés dans la mesure où elles ne sont pas contraires aux dispositions d'ordre public du présent code.
+
+Est nulle ou de nul effet toute clause de juridiction incluse dans un contrat de travail.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -24,7 +37,7 @@ Sauf dispositions contraires, il ne s'applique pas aux fonctionnaires ou agents 
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 1 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -55,6 +68,61 @@ croissance applicable dans ce département.
 	**Abrogé par**:
 
 	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+
+###### Article L000-3
+
+Par dérogation aux dispositions des 4° et 5° de l'article 3 de la loi n° 2001-616 du 11 juillet 2001 relative à Mayotte, les
+sanctions pénales ainsi que les dispositions de procédure pénale figurant au code du travail applicable dans les départements
+de métropole et d'outre-mer ne trouvent pas effet à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Cite**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 3
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 2 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+
+###### Article L000-4
+
+Pour l'offre d'emploi, l'embauche et les relations de travail, ne peuvent être pris en considération l'origine, le statut
+civil, le sexe, les moeurs, l'orientation sexuelle, l'âge, l'état de grossesse, la situation de famille, les caractéristiques
+génétiques, l'appartenance ou la non-appartenance, vraie ou supposée, à une ethnie, une nation ou une race, les opinions
+politiques, les activités syndicales ou mutualistes, les convictions religieuses, l'apparence physique, le patronyme ou, sauf
+inaptitude constatée par le médecin chargé de la surveillance médicale du travail, l'état de santé ou le handicap.
+
+Toute disposition ou tout acte contraire à l'égard d'un salarié est nul de plein droit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 2 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L000-6 (VT)
+	  - Code du travail applicable à Mayotte. - art. L326-16 (V)
+	  - Code du travail applicable à Mayotte. - art. L328-12 (VD)
+	  - Code du travail applicable à Mayotte. - art. L328-26 (V)
 
 
 ## LIVRE Ier : CONVENTIONS RELATIVES AU TRAVAIL
@@ -1190,32 +1258,6 @@ Le contrat de travail est exempt de timbre et d'enregistrement.
 	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-###### Article L121-3
-
-Quels que soient le lieu de la conclusion du contrat et la résidence de l'une ou l'autre partie, tout contrat de travail
-conclu pour être exécuté à Mayotte est soumis aux dispositions du présent titre.
-
-Est nulle et de nul effet toute clause attributive de juridiction incluse dans un contrat de travail.
-
-Il peut être fait exception aux dispositions du présent article pour les travailleurs dont le contrat est régi par le code du
-travail qui sont en mission à Mayotte pour une durée n'excédant pas trois mois.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 1 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
-
-
 ###### Article L121-4
 
 On ne peut engager ses services qu'à temps ou pour une entreprise déterminée.
@@ -2041,9 +2083,9 @@ le nouvel employeur et le personnel de l'entreprise.
 ###### Article L122-25
 
 A moins que la modification visée au deuxième alinéa de l'article L. 122-24 n'intervienne dans le cadre d'une procédure de
-redressement judiciaire ou de liquidation judiciaire, ou d'une substitution d'employeurs intervenue sans qu'il y ait eu de
-convention entre ceux-ci, le nouvel employeur est en outre tenu, à l'égard des salariés dont les contrats de travail
-subsistent, des obligations qui incombaient à l'ancien employeur à la date de cette modification.
+sauvegarde ou de redressement judiciaire ou de liquidation judiciaire, ou d'une substitution d'employeurs intervenue sans
+qu'il y ait eu de convention entre ceux-ci, le nouvel employeur est en outre tenu, à l'égard des salariés dont les contrats
+de travail subsistent, des obligations qui incombaient à l'ancien employeur à la date de cette modification. 
 
 Le premier employeur est tenu de rembourser les sommes acquittées par le nouvel employeur en application de l'alinéa
 précédent, sauf s'il a été tenu compte de la charge résultant de ces obligations dans la convention intervenue entre eux.
@@ -2057,11 +2099,11 @@ précédent, sauf s'il a été tenu compte de la charge résultant de ces obliga
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L122-24 (M)
+	  - Code du travail applicable à Mayotte. - art. L122-24 (V)
 
 	**Cité par**:
 
@@ -2094,12 +2136,17 @@ En cas de litige, le juge se prononce conformément aux dispositions du premier 
 ###### Article L122-27
 
 L'employeur ou son représentant qui envisage de licencier un salarié doit, avant toute décision, convoquer l'intéressé par
-lettre recommandée ou par lettre remise en main propre contre décharge en lui indiquant l'objet de la convocation. Au cours
-de l'entretien l'employeur est tenu d'indiquer le ou les motifs de la décision envisagée et de recueillir les explications du
-salarié.
+lettre recommandée ou par lettre remise en main propre contre décharge en lui indiquant l'objet de la convocation.
+L'entretien préalable ne peut avoir lieu moins de cinq jours ouvrables après la présentation de la lettre recommandée ou la
+remise en main propre de la lettre de convocation. Au cours de l'entretien, l'employeur est tenu d'indiquer les motifs de la
+décision envisagée et de recueillir les explications du salarié.
 
 Lors de cette audition, le salarié peut se faire assister par une personne de son choix appartenant au personnel de
-l'entreprise.
+l'entreprise. Mention doit être faite de cette faculté dans la lettre de convocation prévue à l'alinéa précédent.
+
+Les dispositions des alinéas qui précèdent ne sont pas applicables en cas de licenciement pour motif économique de dix
+salariés et plus dans une même période de trente jours lorsqu'il existe un comité d'entreprise ou des délégués du personnel
+dans l'entreprise.
 
 **Liens relatifs à cet article**
 
@@ -2110,7 +2157,7 @@ l'entreprise.
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 3 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -2125,13 +2172,22 @@ l'entreprise.
 	  - Code du travail applicable à Mayotte. - art. R445-10 (V)
 
 
-###### Article L122-28
+###### Article L122-27-1
 
 L'employeur qui décide de licencier un salarié doit notifier le licenciement par lettre recommandée avec demande d'avis de
-réception ou remise en main propre contre décharge ; la date de présentation de la lettre recommandée ou, selon le cas, la
-date figurant sur la décharge précitée fixe le point de départ du délai congé.
+réception ou remise en main propre contre décharge ; la date de présentation de la lettre recommandée fixe le point de départ
+du délai-congé. 
 
-L'employeur est tenu d'énoncer le ou les motifs du licenciement dans la lettre de licenciement.
+Cette lettre ne peut être expédiée moins de deux jours ouvrables après la date pour laquelle le salarié a été convoqué en
+application des dispositions de l'article L. 122-27.
+
+Toutefois, si le salarié est licencié individuellement pour un motif d'ordre économique ou s'il est inclus dans un
+licenciement collectif d'ordre économique concernant moins de dix salariés dans une même période de trente jours, la lettre
+prévue au premier alinéa du présent article ne peut lui être adressée moins de sept jours ouvrables à compter de la date pour
+laquelle le salarié a été convoqué en application de l'article L. 122-27. 
+
+Les dispositions de l'alinéa précédent ne sont pas applicables en cas de procédure de sauvegarde ou de redressement ou de
+liquidation judiciaire.
 
 **Liens relatifs à cet article**
 
@@ -2142,7 +2198,45 @@ L'employeur est tenu d'énoncer le ou les motifs du licenciement dans la lettre 
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L122-27 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L122-28 (V)
+
+
+###### Article L122-28
+
+L'employeur est tenu d'énoncer le ou les motifs du licenciement dans la lettre de licenciement mentionnée à l'article L.
+122-27-1. 
+
+Lorsque le licenciement est prononcé pour un motif économique, la lettre de licenciement doit énoncer les motifs économiques
+ou de changement technologique invoqués par l'employeur. En outre, l'employeur est tenu, à la demande écrite du salarié, de
+lui indiquer par écrit les critères retenus en application de l'article L. 320-2. 
+
+Lorsque le licenciement est prononcé pour un motif économique, mention doit être faite dans la lettre de licenciement de la
+priorité de réembauchage prévue par l'article L. 320-13 et de ses conditions de mise en oeuvre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 3 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L122-27-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L320-13 (V)
+	  - Code du travail applicable à Mayotte. - art. L320-2 (V)
 
 	**Cité par**:
 
@@ -3365,14 +3459,14 @@ accident du travail ou d'une maladie professionnelle, survenu ou contractée au 
 
 ###### Article L122-65
 
-En cas de redressement judiciaire, les dispositions de l'article L. 143-14 sont applicables au paiement des indemnités
-prévues aux articles L. 122-60 et L. 122-61.
+En cas de procédure de sauvegarde ou de redressement judiciaire, les dispositions de l'article L. 143-14 sont applicables au
+paiement des indemnités prévues aux articles L. 122-60 et L. 122-61.
 
 **Nota:**
 
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L122-64 : les dispositions de la présente
-section ne sont pas applicables aux rapports entre un employeur et son salarié victime d'un accident du travail ou d'une
-maladie professionnelle, survenue ou contractée au service d'un autre employeur.*]
+code du travail applicable dans la collectivité territoriale de Mayotte L122-64 : les dispositions de la présente section ne
+sont pas applicables aux rapports entre un employeur et son salarié victime d'un accident du travail ou d'une maladie
+professionnelle, survenue ou contractée au service d'un autre employeur.
 
 **Liens relatifs à cet article**
 
@@ -3383,7 +3477,7 @@ maladie professionnelle, survenue ou contractée au service d'un autre employeur
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
@@ -3394,14 +3488,14 @@ maladie professionnelle, survenue ou contractée au service d'un autre employeur
 
 ###### Article L122-66
 
-Les dispositions de l'article L. 143-14 sont également applicables en cas de redressement judiciaire aux indemnités prévues à
-l'article L. 122-63.
+Les dispositions de l'article L. 143-14 sont également applicables en cas de procédure de sauvegarde ou de redressement
+judiciaire aux indemnités prévues à l'article L. 122-63.
 
 **Nota:**
 
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L122-64 : les dispositions de la présente
-section ne sont pas applicables aux rapports entre un employeur et son salarié victime d'un accident du travail ou d'une
-maladie professionnelle, survenue ou contractée au service d'un autre employeur.*]
+code du travail applicable dans la collectivité territoriale de Mayotte L122-64 : les dispositions de la présente section ne
+sont pas applicables aux rapports entre un employeur et son salarié victime d'un accident du travail ou d'une maladie
+professionnelle, survenue ou contractée au service d'un autre employeur.
 
 **Liens relatifs à cet article**
 
@@ -3412,7 +3506,7 @@ maladie professionnelle, survenue ou contractée au service d'un autre employeur
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
@@ -4409,32 +4503,6 @@ bénéficier ces salariés.
 	  - Code du travail applicable à Mayotte. - art. R154-1 (T)
 
 
-###### Article L126-6
-
-Pour l'application aux entreprises utilisatrices des dispositions législatives ou réglementaires qui se réfèrent à une
-condition d'effectif du personnel, et en particulier de celles de l'article L. 126-1, cet effectif est calculé en ajoutant au
-nombre des salariés permanents le nombre moyen par jour ouvrable des salariés mis à leur disposition au cours de l'exercice.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 28 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L126-1 (M)
-
-
 ###### Article L126-7
 
 Les organisations syndicales représentatives dans l'entreprise utilisatrice ou dans le groupement peuvent exercer en justice
@@ -4622,8 +4690,7 @@ catégories professionnelles intéressées. L'accord collectif traite un ou des 
 
 ###### Article L132-2
 
-La convention ou l'accord collectif de travail est un acte, écrit à peine de nullité et rédigé en français, qui est conclu
-entre :
+La convention ou l'accord collectif de travail est un acte, écrit à peine de nullité, qui est conclu entre :
 
 - d'une part, une ou plusieurs organisations syndicales de salariés reconnues représentatives au sens de l'article L. 412-3
 du présent code ou qui sont affiliées auxdites organisations ou qui ont fait la preuve de leur représentativité dans le champ
@@ -4645,7 +4712,7 @@ conférées à celles-ci par le présent titre.
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 4 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -4663,6 +4730,23 @@ conférées à celles-ci par le présent titre.
 
 	  - Code du travail applicable à Mayotte. - art. L412-3 (M)
 	  - Loi n°1901-07-01
+
+
+###### Article L132-2-1
+
+Les conventions et accords collectifs de travail et les conventions d'entreprise ou d'établissement doivent être rédigés en
+français. Toute disposition rédigée dans une autre langue est inopposable au salarié à qui elle ferait grief.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 4 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article L132-3
@@ -4736,6 +4820,25 @@ complète, il doit être précisé conformément aux dispositions de l'alinéa c
 	  - Code du travail applicable à Mayotte. - art. L133-2-1 (V)
 
 
+###### Article L132-5-1
+
+La convention collective applicable est celle dont relève l'activité principale exercée par l'employeur. En cas de concours
+d'activités rendant incertaine l'application de ce critère pour le rattachement d'une entreprise à un champ conventionnel,
+les conventions collectives et les accords professionnels peuvent, par des clauses réciproques et de nature identique,
+prévoir les conditions dans lesquelles l'entreprise détermine les conventions et accords qui lui sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 4 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+
 ###### Article L132-6
 
 La convention ou l'accord collectif est conclu pour une durée déterminée ou pour une durée indéterminée. A défaut de
@@ -4761,6 +4864,15 @@ Quand la convention ou l'accord est conclu pour une durée déterminée, celle-c
 La convention et l'accord collectif de travail prévoient dans quelle forme et à quelle époque ils pourront être renouvelés ou
 révisés.
 
+Les organisations syndicales de salariés représentatives au sens de l'article L. 132-2 qui sont signataires d'une convention
+ou d'un accord collectif de travail ou qui y ont adhéré conformément aux dispositions de l'article L. 132-9 sont seules
+habilitées à signer, dans les conditions visées à l'article L. 132-2-2, les avenants portant révision de cette convention ou
+de cet accord.
+
+L'avenant portant révision de tout ou partie de la convention ou de l'accord collectif se substitue de plein droit aux
+stipulations de la convention ou de l'accord qu'il modifie et est opposable, dans les conditions fixées à l'article L.
+132-10, à l'ensemble des employeurs et des salariés liés par la convention ou l'accord collectif de travail.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -4770,7 +4882,14 @@ révisés.
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 4 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte L132-2, L132-9, L132-2-2, L132-10
+	  - Code du travail applicable à Mayotte. - art. L132-10 (M)
+	  - Code du travail applicable à Mayotte. - art. L132-2 (M)
+	  - Code du travail applicable à Mayotte. - art. L132-9 (M)
 
 
 ###### Article L132-8
@@ -4940,6 +5059,18 @@ hiérarchiques. A cet effet, un rapport est remis par la partie patronale aux or
 avant la date d'ouverture de la négociation. Au cours de cet examen, la partie patronale fournira aux organisations
 syndicales les informations nécessaires pour permettre de négocier en toute connaissance de cause.
 
+Les organisations visées au premier alinéa se réunissent pour négocier tous les trois ans sur les mesures tendant à assurer
+l'égalité professionnelle entre les femmes et les hommes et sur les mesures de rattrapage tendant à remédier aux inégalités
+constatées. La négociation porte notamment sur les points suivants :
+
+a) Les conditions d'accès à l'emploi, à la formation et à la promotion professionnelle ;
+
+b) Les conditions de travail et d'emploi.
+
+La négociation sur l'égalité professionnelle se déroule sur la base d'un rapport présentant la situation comparée des hommes
+et des femmes dans ces domaines et sur la base d'indicateurs pertinents, reposant sur des éléments chiffrés, pour chaque
+secteur d'activité.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -4949,7 +5080,7 @@ syndicales les informations nécessaires pour permettre de négocier en toute co
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 4 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -5262,6 +5393,44 @@ Dans ce cas, l'employeur doit convoquer les parties à la négociation dans les 
 	  - Code du travail applicable à Mayotte. - art. L132-28 (VD)
 
 
+###### Article L132-26
+
+Des commissions paritaires professionnelles ou interprofessionnelles peuvent être instituées, par accord conclu dans les
+conditions prévues à l'article L. 132-2.
+
+Ces commissions paritaires :
+
+1° Concourent à l'élaboration et à l'application des conventions et accords collectifs de travail, y compris
+interprofessionnels, négocient et concluent des accords d'intérêt local, notamment en matière d'emploi et de formation ;
+
+2° Examinent les réclamations et différends individuels et collectifs nés de l'interprétation ou de l'application des
+conventions et accords collectifs de travail ;
+
+3° Examinent toute autre question relative aux conditions d'emploi et de travail des salariés intéressés.
+
+Les accords visés au premier alinéa fixent les modalités d'exercice du droit de s'absenter, de la compensation des pertes de
+salaires ou du maintien de ceux-ci, ainsi que de l'indemnisation des frais de déplacement des salariés appelés à participer
+aux négociations, de même qu'aux réunions des commissions paritaires. Ces accords déterminent également les modalités de
+protection contre le licenciement des salariés membres de ces commissions et les conditions dans lesquelles ils bénéficient
+de la protection prévue par les dispositions du chapitre V du titre III du livre IV intéressant le licenciement des délégués
+du personnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 4 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L132-2 (M)
+
+
 #### CHAPITRE III : Conventions et accords susceptibles d'être étendus et procédures d'extension et d'élargissement
 
 ##### Section 1 : Conventions et accords susceptibles d'être étendus.
@@ -5313,6 +5482,116 @@ fixer, dans les convocations, le nombre maximum de représentants par organisati
 	**Modifié par**:
 
 	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+
+###### Article L133-2-1
+
+I. - La convention de branche conclue au niveau de la collectivité de Mayotte contient obligatoirement, pour pouvoir être
+étendue, outre les clauses prévues aux articles L. 132-5 et L. 132-7, des dispositions concernant :
+
+1° L'exercice du droit syndical et la liberté d'opinion des salariés, le déroulement de carrière des salariés exerçant des
+responsabilités syndicales et l'exercice de leurs fonctions ;
+
+2° Les délégués du personnel, les comités d'entreprise et le financement des activités sociales et culturelles gérées par
+lesdits comités ;
+
+3° Les éléments essentiels servant à la détermination des classifications professionnelles et des niveaux de qualification,
+notamment les mentions relatives aux diplômes professionnels ou à leurs équivalences, à condition que ces diplômes aient été
+créés depuis plus d'un an ;
+
+4° Les éléments énumérés ci-dessous du salaire applicable par catégories professionnelles, ainsi que les procédures et la
+périodicité prévues pour sa révision :
+
+a) Le salaire minimum professionnel des salariés sans qualification ;
+
+b) Les coefficients hiérarchiques afférents aux diverses qualifications professionnelles ;
+
+c) Les majorations pour travaux pénibles, physiquement ou nerveusement, dangereux, insalubres ;
+
+d) Les modalités d'application du principe à travail égal, salaire égal et les procédures du règlement des difficultés
+pouvant naître à ce sujet, compte tenu notamment des situations révélées par l'application de l'article L. 132-12, deuxième
+alinéa ;
+
+5° Les congés payés ;
+
+6° Les conditions d'embauchage des salariés, sans que les dispositions prévues puissent porter atteinte au libre choix du
+syndicat par ceux-ci ;
+
+7° Les conditions de la rupture des contrats de travail, notamment quant au délai-congé et à l'indemnité de licenciement ;
+
+8° Les modalités d'organisation et de fonctionnement, de l'apprentissage, de la formation professionnelle et de la formation
+permanente dans le cadre de la branche considérée, y compris des modalités particulières aux personnes handicapées ;
+
+9° L'égalité professionnelle entre les femmes et les hommes et les mesures de rattrapage tendant à remédier aux inégalités
+constatées. Ces mesures s'appliquent notamment à l'accès à l'emploi, à la formation et à la promotion professionnelle et aux
+conditions de travail et d'emploi ;
+
+10° L'égalité de traitement entre salariés, quel que soit leur statut civil, leur appartenance à une ethnie, une nation ou
+une race, notamment en matière d'accès à l'emploi, de formation, de promotion professionnelle et de conditions de travail ;
+
+11° Les conditions propres à concrétiser le droit au travail de toutes personnes handicapées en état d'exercer une
+profession ;
+
+12° En tant que de besoin dans la branche :
+
+a) Les conditions particulières de travail des femmes enceintes ou allaitant et des jeunes ;
+
+b) Les conditions d'emploi et de rémunération du personnel à temps partiel ;
+
+c) Les conditions d'emploi et de rémunération des travailleurs à domicile ;
+
+d) Les garanties des salariés appelés à exercer leur activité hors de Mayotte ;
+
+e) Les conditions d'emploi des salariés des entreprises extérieures ;
+
+f) Les conditions dans lesquelles le ou les salariés, auteurs d'une invention dévolue à l'employeur en vertu de l'article L.
+611-7 du code de la propriété intellectuelle bénéficient d'une rémunération supplémentaire ;
+
+13° Les procédures conventionnelles de conciliation suivant lesquelles seront réglés les conflits collectifs de travail
+susceptibles de survenir entre les employeurs et les salariés liés par la convention ;
+
+14° Les modalités d'accès à un régime de prévoyance maladie ;
+
+15° Les modalités de prise en compte dans la branche ou l'entreprise des demandes relatives aux thèmes de négociation émanant
+d'une ou des organisations syndicales de salariés représentatives.
+
+II. - La convention de branche susceptible d'extension peut également contenir, sans que cette énumération soit limitative,
+des dispositions concernant :
+
+1° Les conditions particulières de travail :
+
+a) Heures supplémentaires ;
+
+b) Travaux par roulement ;
+
+c) Travaux de nuit ;
+
+d) Travaux du dimanche ;
+
+e) Travaux des jours fériés ;
+
+2° Les conditions générales de la rémunération du travail au rendement pour les catégories intéressées, sauf s'il s'agit de
+travaux dangereux, pénibles ou insalubres ;
+
+3° Les primes d'ancienneté et d'assiduité ;
+
+4° Les indemnités pour frais professionnels ou assimilés, notamment les indemnités de déplacement ;
+
+5° Les procédures conventionnelles d'arbitrage suivant lesquelles seront ou pourront être réglés les conflits collectifs de
+travail susceptibles de survenir entre les employeurs et les salariés liés par la convention ;
+
+6° Les conditions d'exercice des responsabilités mutualistes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 4 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 
 ##### Section 2 : Procédures d'extension et d'élargissement.
@@ -5706,10 +5985,18 @@ groupements, liés par la convention ou l'accord, qui violeraient à leur égard
 
 ###### Article L135-7
 
-L'employeur lié par une convention ou un accord collectif du travail doit en procurer un exemplaire aux représentants du
-personnel.
+I. - Les conditions d'information des salariés et des représentants du personnel sur le droit conventionnel applicable dans
+l'entreprise et l'établissement sont définies par convention de branche, accord professionnel ou, à défaut,
+interprofessionnel. Si ceux-ci ne précisent pas ces conditions d'information, les modalités définies au II s'appliquent.
 
-En outre, ledit employeur tient un exemplaire à la disposition du personnel. Un avis est affiché à ce sujet.
+II. - L'employeur lié par une convention ou un accord collectif de travail doit fournir un exemplaire de ce texte au comité
+d'entreprise ainsi qu'aux délégués du personnel.
+
+En outre, l'employeur tient un exemplaire à jour de cette convention, accord collectif professionnel ou interprofessionnel
+par lequel il est lié à la disposition du personnel sur le lieu de travail. Un avis est affiché à ce sujet.
+
+Dans les entreprises dotées d'un intranet, l'employeur met sur celui-ci à disposition des salariés un exemplaire à jour de la
+convention ou de l'accord collectif de travail par lequel il est lié.
 
 **Liens relatifs à cet article**
 
@@ -5720,7 +6007,7 @@ En outre, ledit employeur tient un exemplaire à la disposition du personnel. Un
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 4 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -6359,10 +6646,10 @@ de travail ou du contrat d'apprentissage sont garanties dans les conditions fix�
 
 ###### Article L143-9
 
-Lorsqu'est ouverte une procédure de redressement judiciaire, les rémunérations de toute nature dues aux salariés et apprentis
-pour les soixante derniers jours de travail ou d'apprentissage doivent, déduction faite des acomptes déjà perçus, être
-payées, nonobstant l'existence de toute autre créance privilégiée, jusqu'à concurrence d'un plafond mensuel identique pour
-toutes les catégories de bénéficiaires.
+Lorsqu'est ouverte une procédure de sauvegarde ou de redressement judiciaire, les rémunérations de toute nature dues aux
+salariés et apprentis pour les soixante derniers jours de travail ou d'apprentissage doivent, déduction faite des acomptes
+déjà perçus, être payées, nonobstant l'existence de toute autre créance privilégiée, jusqu'à concurrence d'un plafond mensuel
+identique pour toutes les catégories de bénéficiaires.
 
 Ce plafond est fixé par arrêté du représentant de l'Etat à Mayotte.
 
@@ -6385,7 +6672,7 @@ jours de travail.
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
@@ -6400,9 +6687,10 @@ jours de travail.
 
 ###### Article L143-10
 
-En outre, lorsque est ouverte une procédure de redressement judiciaire, les indemnités de congés payés prévues aux articles
-L. 223-8 à L. 223-11 doivent être payées nonobstant l'existence de toute autre créance privilégiée, jusqu'à concurrence d'un
-plafond identique à celui établi pour une période de trente jours de rémunération par l'article L. 143-8.
+En outre, lorsque est ouverte une procédure de sauvegarde ou de redressement judiciaire, les indemnités de congés payés
+prévues aux articles L. 223-8 à L. 223-11 doivent être payées nonobstant l'existence de toute autre créance privilégiée,
+jusqu'à concurrence d'un plafond identique à celui établi pour une période de trente jours de rémunération par l'article L.
+143-8.
 
 **Liens relatifs à cet article**
 
@@ -6413,7 +6701,7 @@ plafond identique à celui établi pour une période de trente jours de rémuné
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
@@ -6430,10 +6718,11 @@ plafond identique à celui établi pour une période de trente jours de rémuné
 
 ###### Article L143-11
 
-En cas de redressement judiciaire, doivent être aussi payées nonobstant l'existence de toute autre créance privilégiée, les
-créances résultant de la rupture des contrats de travail intervenant pendant la période d'observation, dans le mois suivant
-le jugement qui arrête le plan de redressement, dans les quinze jours suivant le jugement de liquidation et pendant le
-maintien provisoire de l'activité autorisé par le jugement de liquidation judiciaire.
+En cas de procédures de sauvegarde ou de redressement judiciaire, doivent être aussi payées nonobstant l'existence de toute
+autre créance privilégiée, les créances résultant de la rupture des contrats de travail intervenant pendant la période
+d'observation, dans le mois suivant le jugement qui arrête le plan de sauvegarde ou de redressement, dans les quinze jours
+suivant le jugement de liquidation et pendant le maintien provisoire de l'activité autorisé par le jugement de liquidation
+judiciaire.
 
 Il en est de même lorsque le tribunal prononce la liquidation judiciaire, dans la limite d'un montant maximal correspondant à
 un mois et demi de travail pour les sommes dues au cours de la période d'observation, des quinze jours suivant le jugement de
@@ -6450,7 +6739,7 @@ de liquidation.
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
@@ -6491,7 +6780,7 @@ intention de rompre le contrat de travail.
 
 Nonobstant l'existence de toute autre créance, les créances que garantit le privilège établi aux articles L. 143-9 et L.
 143-10 doivent être payées par l'administrateur par ordonnance du juge-commissaire, dans les dix jours du prononcé du
-jugement ouvrant la procédure de redressement judiciaire, si l'administrateur dispose des fonds nécessaires.
+jugement ouvrant la procédure de sauvegarde ou de redressement judiciaire, si l'administrateur dispose des fonds nécessaires.
 
 Toutefois, avant tout établissement du montant de ces créances, l'administrateur doit, avec l'autorisation du juge-
 commissaire et dans la mesure des fonds disponibles, verser immédiatement aux salariés, à titre provisionnel, une somme égale
@@ -6510,7 +6799,7 @@ rentrées de fonds.
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
@@ -6520,7 +6809,7 @@ rentrées de fonds.
 
 ###### Article L143-14
 
-Le représentant des créanciers établit les relevés des créances dans les conditions suivantes :
+Le mandataire judiciaire établit les relevés des créances dans les conditions suivantes :
 
 1° Pour les créances mentionnées aux articles L. 143-9 et L. 143-10, dans les dix jours suivant le prononcé du jugement
 d'ouverture de la procédure ;
@@ -6543,7 +6832,11 @@ concurrence du plafond mentionné aux articles L. 143-9 et L. 143-10 ;
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
 	**Cité par**:
 
@@ -7231,6 +7524,69 @@ amende de 7500 euros.
 	  - Code du travail applicable à Mayotte. - art. L147-1 (M)
 
 
+#### Chapitre VII : Corruption et violation des secrets de fabrique
+
+###### Article L157-1
+
+Le fait, pour tout directeur ou salarié d'une entreprise de solliciter ou d'agréer, directement ou indirectement, à l'insu et
+sans l'autorisation de son employeur, des offres ou des promesses, des dons, présents, escomptes ou primes pour accomplir ou
+s'abstenir d'accomplir un acte de sa fonction ou facilité par sa fonction, est puni de deux ans d'emprisonnement et de 30 000
+Euros d'amende.
+
+Est puni des mêmes peines le fait, par quiconque, de céder aux sollicitations définies à l'alinéa précédent ou d'en prendre
+l'initiative.
+
+Dans les cas prévus au présent article, le tribunal peut également prononcer, à titre de peine complémentaire, pour une durée
+de cinq ans au plus, l'interdiction des droits civiques, civils et de famille prévue par l'article 131-26 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 5 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+	**Cite**:
+
+	  - Code pénal - art. 131-26 (V)
+
+
+###### Article L157-2
+
+Le fait, pour tout directeur ou salarié d'une entreprise de révéler ou de tenter de révéler un secret de fabrique est puni de
+deux ans d'emprisonnement et de 30 000 Euros d'amende.
+
+Le tribunal peut également prononcer, à titre de peine complémentaire, pour une durée de cinq ans au plus, l'interdiction des
+droits civiques, civils et de famille prévue par l'article 131-26 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 5 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+	**Cite**:
+
+	  - Code pénal - art. 131-26 (V)
+
+
 ## LIVRE II : RÉGLEMENTATION DU TRAVAIL
 
 ### CHAPITRE PRÉLIMINAIRE : Généralités.
@@ -7493,6 +7849,32 @@ travail.
 	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
+###### Article L212-4-1
+
+Sont considérés comme salariés à temps partiel les salariés dont la durée du travail est inférieure à la durée légale du
+travail ou à cette durée appliquée au mois ou à l'année, ou, en temps que de besoin, à la durée conventionnelle ou aux durées
+du travail applicables dans l'établissement.
+
+Les salariés à temps partiel bénéficient des droits reconnus aux salariés à temps complet par la loi et, sous réserve des
+modalités spécifiques qu'ils prévoient, par les conventions et accords collectifs interprofessionnels, de branche,
+d'entreprise ou d'établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 6 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R212-3 (V)
+
+
 ##### Section 2 : Heures supplémentaires.
 
 ###### Article L212-5
@@ -7628,19 +8010,19 @@ Aucune période de travail effectif ininterrompu ne peut excéder une durée max
 
 #### CHAPITRE III : Travail de nuit
 
-##### Section 1 : Dispositions relatives aux femmes.
+##### Section 1 : Dispositions générales.
 
 ###### Article L213-1
 
-Les femmes ne peuvent être employées à aucun travail de nuit dans les usines, manufactures, mines et carrières, chantiers,
-ateliers et leurs dépendances, de quelque nature que ce soit, publics ou privés, laïques ou religieux, même lorsque ces
-établissements ont un caractère d'enseignement professionnel ou de bienfaisance, ainsi que dans les offices publics et
-ministériels, les établissements des professions libérales, des sociétés civiles, des syndicats professionnels et des
-associations de quelque nature que ce soit.
+Le recours au travail de nuit doit être exceptionnel. Il doit prendre en compte les impératifs de protection de la sécurité
+et de la santé des salariés et doit être justifié par la nécessité d'assurer la continuité de l'activité économique ou des
+services d'utilité sociale.
 
-Les dispositions de l'alinéa précédent ne sont pas applicables aux femmes qui occupent des postes de direction ou de
-caractère technique et impliquant une responsabilité, non plus qu'aux femmes occupées dans les services de l'hygiène et du
-bien être qui n'effectuent pas normalement un travail manuel.
+La mise en place dans une entreprise ou un établissement du travail de nuit au sens de l'article L. 213-3 ou son extension à
+de nouvelles catégories de salariés sont subordonnées à la conclusion préalable d'une convention ou d'un accord collectif
+étendu ou d'un accord d'entreprise ou d'établissement.
+
+Cet accord collectif doit comporter les justifications du recours au travail de nuit visées au premier alinéa.
 
 **Liens relatifs à cet article**
 
@@ -7651,7 +8033,11 @@ bien être qui n'effectuent pas normalement un travail manuel.
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 7 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L213-3 (M)
 
 	**Cité par**:
 
@@ -7663,13 +8049,13 @@ bien être qui n'effectuent pas normalement un travail manuel.
 
 ###### Article L213-2
 
-Tout travail entre vingt-deux heures et cinq heures est considéré comme travail de nuit.
+Tout travail entre 20 heures et 5 heures est considéré comme travail de nuit.
 
-Toutefois, une convention ou un accord collectif étendu peut prévoir une autre période de sept heures consécutives, comprise
-entre 22 heures et 7 heures, pouvant être substituée à la période prévue à l'alinéa précédent.
-
-L'utilisation de cette dérogation est subordonnée à l'autorisation de l'inspecteur du travail donnée après avis des
-représentants du personnel.
+Une autre période de neuf heures consécutives, comprise entre 19 heures et 6 heures mais comprenant, en tout état de cause,
+l'intervalle compris entre 24 heures et 5 heures, peut être substituée à la période mentionnée au premier alinéa par une
+convention ou un accord collectif étendu ou un accord d'entreprise ou d'établissement. A défaut d'accord et lorsque les
+caractéristiques particulières de l'activité de l'entreprise le justifient, cette substitution peut être autorisée par
+l'inspecteur du travail après avis du comité d'entreprise ou des délégués du personnel s'ils existent.
 
 **Liens relatifs à cet article**
 
@@ -7680,7 +8066,7 @@ représentants du personnel.
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 7 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -7693,7 +8079,17 @@ représentants du personnel.
 
 ###### Article L213-3
 
-Le repos de nuit des femmes doit avoir une durée de onze heures consécutives au minimum.
+Est salarié de nuit tout salarié qui :
+
+1° Soit accomplit, au moins deux fois par semaine, selon son horaire de travail habituel, au moins trois heures de son temps
+de travail quotidien durant la période définie à l'article L. 213-2 ;
+
+2° Soit accomplit, au cours d'une période de référence, un nombre minimal d'heures de travail de nuit au sens de l'article L.
+213-2.
+
+Le nombre minimal d'heures de travail de nuit et la période de référence mentionnés au 2° sont fixés par convention ou accord
+collectif étendu ou, à défaut, par décret en Conseil d'Etat pris après consultation de la commission consultative du travail
+prévue à l'article L. 420-1.
 
 **Liens relatifs à cet article**
 
@@ -7704,7 +8100,7 @@ Le repos de nuit des femmes doit avoir une durée de onze heures consécutives a
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 7 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -7715,13 +8111,27 @@ Le repos de nuit des femmes doit avoir une durée de onze heures consécutives a
 	  - Code du travail applicable à Mayotte. - art. L213-5-4 (V)
 	  - Code du travail applicable à Mayotte. - art. R213-1 (V)
 
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L213-2 (M)
+	  - Code du travail applicable à Mayotte. - art. L420-1 (M)
+
 
 ###### Article L213-4
 
-Dans les industries dans lesquelles le travail s'applique soit à des matières premières, soit à des matières en élaboration
-qui seraient susceptibles d'altération très rapide, les chefs d'entreprise, lorsque cela est nécessaire pour sauver ces
-matières d'une perte inévitable, peuvent déroger temporairement aux dispositions de la présente section, sur autorisation de
-l'inspecteur du travail, en ce qui concerne les femmes majeures.
+La durée quotidienne du travail effectué par un salarié de nuit ne peut excéder huit heures.
+
+Il peut être dérogé aux dispositions de l'alinéa précédent par convention ou accord collectif étendu ou par convention ou
+accord d'entreprise ou d'établissement, dans des conditions fixées par décret en Conseil d'Etat. Il peut également être
+dérogé aux dispositions du même alinéa en cas de circonstances exceptionnelles, sur autorisation de l'inspecteur du travail
+donnée après avis du comité d'entreprise ou des délégués du personnel s'ils existent, selon des modalités fixées par le
+décret mentionné au présent alinéa.
+
+La durée hebdomadaire de travail des salariés de nuit, calculée sur une période quelconque de douze semaines consécutives, ne
+peut dépasser quarante heures. Une convention ou un accord de branche étendu ou une convention ou un accord d'entreprise ou
+d'établissement peut porter cette limite à quarante-quatre heures lorsque les caractéristiques propres à l'activité d'un
+secteur le justifient. Un arrêté du représentant de l'Etat à Mayotte peut fixer la liste des secteurs pour lesquels cette
+durée est fixée entre quarante et quarante-quatre heures.
 
 **Liens relatifs à cet article**
 
@@ -7732,7 +8142,7 @@ l'inspecteur du travail, en ce qui concerne les femmes majeures.
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 7 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -7746,10 +8156,20 @@ l'inspecteur du travail, en ce qui concerne les femmes majeures.
 
 ###### Article L213-5
 
-En cas de chômage résultant d'une interruption accidentelle ou de force majeure ne présentant pas un caractère périodique, le
-chef d'établissement peut, pour n'importe quelle industrie et dans la limite du nombre des journées perdues, déroger aux
-dispositions des articles L. 213-1 et L. 213-2 en ce qui concerne les femmes majeures, sur autorisation de l'inspecteur du
-travail.
+Les salariés de nuit bénéficient de contreparties au titre des périodes de nuit pendant lesquelles ils sont occupés sous
+forme de repos compensateur et, le cas échéant, sous forme de compensation salariale.
+
+La convention ou l'accord collectif mentionnés à l'article L. 213-1 prévoient ces contreparties. La convention ou l'accord
+collectif prévoient, en outre, des mesures destinées à améliorer les conditions de travail des salariés, à faciliter
+l'articulation de leur activité nocturne avec l'exercice de responsabilités familiales et sociales, notamment en ce qui
+concerne les moyens de transport, et à assurer l'égalité professionnelle entre les femmes et les hommes, notamment par
+l'accès à la formation. La convention ou l'accord collectif prévoient également l'organisation des temps de pause.
+
+Par dérogation à l'article L. 213-1, à défaut de convention ou d'accord collectif et à condition que l'employeur ait engagé
+sérieusement et loyalement des négociations tendant à la conclusion d'un tel accord, les salariés peuvent être affectés à des
+postes de nuit après autorisation de l'inspecteur du travail accordée notamment après vérification des contreparties qui leur
+seront accordées au titre de l'obligation définie au premier alinéa ci-dessus, de l'existence de temps de pause et selon des
+modalités fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -7760,7 +8180,7 @@ travail.
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 7 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -7771,7 +8191,103 @@ travail.
 	**Cite**:
 
 	  - Code du travail applicable à Mayotte. - art. L213-1 (M)
+
+
+###### Article L213-5-1
+
+Les salariés de nuit au sens de l'article L. 213-3 qui souhaitent occuper ou reprendre un poste de jour et les salariés
+occupant un poste de jour qui souhaitent occuper ou reprendre un poste de nuit dans le même établissement ou, à défaut, dans
+la même entreprise ont priorité pour l'attribution d'un emploi ressortissant à leur catégorie professionnelle ou d'un emploi
+équivalent. L'employeur porte à la connaissance de ces salariés la liste des emplois disponibles correspondants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 7 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L213-3 (M)
+
+
+###### Article L213-5-2
+
+Lorsque le travail de nuit est incompatible avec des obligations familiales impérieuses, notamment avec la garde d'un enfant
+ou la prise en charge d'une personne dépendante, le salarié peut demander son affectation sur un poste de jour.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 7 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+
+###### Article L213-5-3
+
+Lorsque le travail de nuit est incompatible avec des obligations familiales impérieuses, notamment avec la garde d'un enfant
+ou la prise en charge d'une personne dépendante, le salarié peut refuser d'accepter ce changement sans que ce refus constitue
+une faute ou un motif de licenciement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 7 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+
+###### Article L213-5-4
+
+Tout salarié de nuit bénéficie, avant son affectation sur un poste de nuit et à intervalles réguliers d'une durée ne pouvant
+excéder six mois par la suite, d'une surveillance médicale particulière dont les conditions d'application sont déterminées
+par décret en Conseil d'Etat.
+
+Le salarié de nuit, lorsque son état de santé, constaté par le médecin du travail, l'exige, doit être transféré à titre
+définitif ou temporaire sur un poste de jour correspondant à sa qualification et aussi comparable que possible à l'emploi
+précédemment occupé.
+
+L'employeur ne peut prononcer la rupture du contrat de travail du salarié de nuit du fait de son inaptitude au poste
+comportant le travail de nuit au sens des articles L. 213-2 et L. 213-3, à moins qu'il ne justifie par écrit soit de
+l'impossibilité dans laquelle il se trouve de proposer un poste dans les conditions fixées à l'alinéa précédent, soit du
+refus du salarié d'accepter le poste proposé dans ces conditions.
+
+Ces dispositions s'appliquent sans préjudice des prérogatives reconnues au médecin du travail par l'article L. 240-4.
+
+Le médecin du travail est consulté avant toute décision importante relative à la mise en place ou à la modification de
+l'organisation du travail de nuit. Les conditions d'application de cette consultation sont déterminées par décret en Conseil
+d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 7 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
 	  - Code du travail applicable à Mayotte. - art. L213-2 (M)
+	  - Code du travail applicable à Mayotte. - art. L213-3 (M)
+	  - Code du travail applicable à Mayotte. - art. L240-4 (M)
 
 
 ##### Section 2 : Dispositions relatives aux jeunes travailleurs.
@@ -8939,7 +9455,7 @@ fractionné par l'employeur avec l'agrément du salarié. Dans ce cas, une fract
 continus compris entre deux jours de repos hebdomadaire.
 
 Lorsque le congé s'accompagne de la fermeture de l'établissement, le fractionnement peut être effectué par l'employeur sur
-avis conforme des représentants du personnel.
+avis conforme du comité d'entreprise ou, à défaut, des délégués du personnel.
 
 **Liens relatifs à cet article**
 
@@ -8950,7 +9466,7 @@ avis conforme des représentants du personnel.
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 25 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -9149,14 +9665,310 @@ Ils sont assimilés à des jours de travail effectif pour la détermination de l
 	  - Code du travail applicable à Mayotte. - art. L223-2 (M)
 
 
+#### CHAPITRE V : Congés non rémunérés
+
+##### Section 1 : Congé de formation économique, sociale et syndicale
+
+###### Article L225-1
+
+Les salariés désireux de participer à des stages ou sessions de formation économique, sociale, de formation syndicale ou
+intéressant le dialogue social organisés, soit par des centres rattachés à des organisations syndicales de salariés reconnues
+représentatives au sens de l'article L. 412-3, soit par des instituts spécialisés, ont droit, sur leur demande, à un ou
+plusieurs congés.
+
+Les formations sur le dialogue social peuvent également être organisées par la direction du travail, de l'emploi et de la
+formation professionnelle.
+
+La durée totale des congés pris dans l'année par un salarié ne peut excéder douze jours. Elle ne peut excéder dix-huit jours
+pour les animateurs des stages et sessions et pour les salariés appelés à exercer des responsabilités syndicales.
+
+La durée de chaque congé ne peut être inférieure à deux jours.
+
+Le nombre total de jours de congé susceptibles d'être pris chaque année par l'ensemble des salariés de l'établissement au
+titre des formations prévues aux alinéas précédents ainsi qu'à l'article L. 444-9 ne peut dépasser un maximum fixé par arrêté
+du représentant de l'Etat à Mayotte compte tenu de l'effectif de l'établissement.
+
+Cet arrêté fixe aussi, compte tenu de l'effectif de l'établissement, le nombre maximum de jours de congé pouvant être
+utilisés par les animateurs et par les salariés appelés à exercer des responsabilités syndicales, ainsi que le pourcentage
+maximum de salariés pouvant être simultanément absents au titre des congés prévus au présent article.
+
+Les demandeurs d'emploi peuvent participer aux stages visés au premier alinéa du présent article dans la limite des durées de
+douze et dix-huit jours par période annuelle prévues pour les salariés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 8 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L225-2 (VD)
+	  - Code du travail applicable à Mayotte. - art. L225-3 (MMN)
+	  - Code du travail applicable à Mayotte. - art. L225-4 (V)
+	  - Code du travail applicable à Mayotte. - art. L225-5 (V)
+	  - Code du travail applicable à Mayotte. - art. L414-56 (V)
+	  - Code du travail applicable à Mayotte. - art. L444-9 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L412-3 (M)
+
+
+###### Article L225-2
+
+La durée du ou des congés visés à l'article L. 225-1 est assimilée à une durée de travail effectif pour la détermination de
+la durée des congés payés, du droit aux prestations d'assurances sociales et aux prestations familiales ainsi que pour
+l'ensemble des autres droits résultant pour l'intéressé de son contrat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 8 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L225-1 (V)
+
+
+###### Article L225-3
+
+Le congé est de droit, dans les limites fixées à l'article L. 225-1, sauf dans le cas où l'employeur estime, après avis
+conforme du comité d'entreprise ou, s'il n'en existe pas, des délégués du personnel, que cette absence pourrait avoir des
+conséquences préjudiciables à la production et à la bonne marche de l'entreprise.
+
+Le refus du congé par l'employeur doit être motivé.
+
+En cas de différend, le refus de l'employeur peut être directement contesté devant le tribunal du travail qui est saisi et
+statue en dernier ressort, selon les formes applicables au référé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 8 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L225-1 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L444-9 (V)
+	  - Code du travail applicable à Mayotte. - art. R255-1 (V)
+
+
+###### Article L225-4
+
+Les conventions ou accords collectifs de travail peuvent :
+
+a) Contenir des dispositions plus favorables que celles prévues ci-dessus, notamment en matière de rémunération ;
+
+b) Préciser les périodes de congé les mieux adaptées aux nécessités de chaque profession ;
+
+c) Fixer les modalités du financement de la formation prévue à l'article L. 225-1 destiné à couvrir les frais pédagogiques
+ainsi que les dépenses d'indemnisation des frais de déplacement et d'hébergement des stagiaires et animateurs ;
+
+d) Définir les procédures amiables permettant de régler les difficultés qui peuvent survenir pour l'application des
+dispositions qui précèdent.
+
+Les conventions et accords collectifs peuvent prévoir la création de fonds mutualisés en vue d'assurer la rémunération des
+congés et le financement de la formation prévus à l'article L. 225-1.
+
+Des accords d'établissement peuvent fixer la répartition des congés par service ou par catégorie professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 8 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L225-1 (V)
+
+
+##### Section 2 : Modalités de la formation économique, sociale et syndicale des salariés appelés à exercer des fonctions syndicales
+
+###### Article L225-5
+
+La formation des salariés appelés à exercer des responsabilités syndicales, notamment au sein d'organismes de caractère
+économique et social, peut être assurée :
+
+a) Soit par des centres spécialisés, directement rattachés aux organisations syndicales les plus représentatives au sens de
+l'article L. 412-3 ;
+
+b) Soit par des instituts d'universités ou de facultés ;
+
+c) Soit, pour les formations prévues au deuxième alinéa de l'article L. 225-1, par la direction du travail, de l'emploi et de
+la formation professionnelle ou des personnalités qualifiées.
+
+Toutefois, des organismes dont la spécialisation totale ou partielle serait assurée en accord avec des organisations
+syndicales peuvent participer à la formation des salariés appelés à exercer des responsabilités syndicales. Pour bénéficier
+des dispositions des articles L. 225-6 et L. 225-7 ci-dessous, ils doivent avoir reçu l'agrément du ministre chargé du
+travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 8 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L225-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L225-6 (V)
+	  - Code du travail applicable à Mayotte. - art. L412-3 (M)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L225-7 (V)
+	  - Code du travail applicable à Mayotte. - art. R225-1 (V)
+
+
+###### Article L225-6
+
+L'Etat apporte une aide financière à la formation des salariés telle qu'elle est assurée par les centres, instituts et
+organismes mentionnés à l'article précédent. Cette aide peut également être apportée par la direction du travail, de l'emploi
+et de la formation professionnelle.
+
+Des crédits sont inscrits à cet effet au budget du ministère chargé du travail.
+
+Des crédits destinés à contribuer en la matière au fonctionnement des instituts d'université ou de faculté sont également
+inscrits au budget du ministère chargé de l'éducation nationale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 8 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L225-5 (V)
+
+
+###### Article L225-7
+
+Pour bénéficier de l'aide prévue à l'article précédent, les organismes mentionnés ci-dessus établissent des programmes
+préalables de stages ou de sessions précisant, notamment, les matières enseignées et la durée de scolarité.
+
+Des conventions conclues à cet effet entre les organismes mentionnés au a du premier alinéa et au dernier alinéa de l'article
+L. 225-5 et les ministères intéressés ou les universités, facultés, instituts d'université ou de faculté, prévoient les
+conditions dans lesquelles cette aide est utilisée, notamment pour la rémunération du corps enseignant et l'octroi de bourses
+d'études.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 8 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L225-5 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R225-6 (V)
+
+
+###### Article L225-8
+
+Un décret en Conseil d'Etat fixe les modalités d'application des sections 1 et 2 du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 8 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+
+##### Section 3 : Congé mutualiste
+
+###### Article L225-9
+
+Les administrateurs d'une mutuelle au sens des dispositions du code de la mutualité bénéficient, dans les conditions et
+limites prévues au présent article, d'un congé non rémunéré de formation d'une durée maximale de neuf jours ouvrables par an.
+
+La durée du congé est assimilée à une période de travail effectif pour la détermination de la durée des congés payés ainsi
+que pour l'ensemble des autres droits résultant pour l'intéressé de son contrat.
+
+Les modalités d'application du présent article, notamment les conditions dans lesquelles est établie la liste des stages ou
+organismes ouvrant droit à ce congé, les règles selon lesquelles est déterminé, par entreprise, le nombre maximum de salariés
+ou apprentis susceptibles de bénéficier du congé au cours d'une année et les conditions dans lesquelles l'employeur peut, le
+cas échéant, différer le congé, en raison des nécessités propres de son entreprise, sont déterminées par décret en Conseil
+d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 8 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R225-5 (V)
+	  - Code du travail applicable à Mayotte. - art. R225-7 (V)
+	  - Code du travail applicable à Mayotte. - art. R255-2 (V)
+
+
 ### TITRE III : HYGIÈNE, SÉCURITÉ ET CONDITIONS DE TRAVAIL.
 
-###### Article L230-1
+#### CHAPITRE I : Dispositions générales
 
-Est soumis aux dispositions du présent titre tout employeur quel que soit le statut du personnel placé sous son autorité.
-Sont également soumis à ces dispositions les ateliers des établissements publics dispensant un enseignement technique ou
-professionnel, et les établissements où ne sont employés que les membres de la famille sous l'autorité soit du père, soit de
-la mère, soit du tuteur.
+###### Article L231-1
+
+Sont soumis aux dispositions du présent titre les établissements employant des travailleurs. Sont également soumis à ces
+dispositions les ateliers des établissements publics dispensant un enseignement technique ou professionnel, et les
+établissements où ne sont employés que les membres de la famille sous l'autorité soit du père, soit de la mère, soit du
+tuteur.
 
 **Liens relatifs à cet article**
 
@@ -9165,45 +9977,43 @@ la mère, soit du tuteur.
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
-	  - Code de la santé publique - art. L1515-5 (V)
-	  - Code du travail applicable à Mayotte. - art. L230-16 (Ab)
-	  - Code du travail applicable à Mayotte. - art. L230-7-1 (Ab)
-	  - Code du travail applicable à Mayotte. - art. L230-8 (Ab)
-	  - Code du travail applicable à Mayotte. - art. R231-34 (M)
-	  - Code du travail applicable à Mayotte. - art. R232-72 (MMN)
-	  - Code du travail applicable à Mayotte. - art. R233-2 (M)
-	  - Code du travail applicable à Mayotte. - art. R233-24 (M)
-	  - Code du travail applicable à Mayotte. - art. R233-77 (MMN)
-	  - Code du travail applicable à Mayotte. - art. R235-1 (M)
-	  - Code du travail applicable à Mayotte. - art. R236-1 (M)
-	  - Code du travail applicable à Mayotte. - art. R236-50 (V)
-	  - Code du travail applicable à Mayotte. - art. R236-51 (M)
-	  - Code du travail applicable à Mayotte. - art. R238-1-1 (M)
-	  - Code du travail applicable à Mayotte. - art. R238-2-1 (M)
-	  - Code du travail applicable à Mayotte. - art. R238-3-1 (M)
-	  - Code du travail applicable à Mayotte. - art. R238-4-1 (M)
-	  - Code du travail applicable à Mayotte. - art. R238-5-1 (M)
-	  - Code du travail applicable à Mayotte. - art. R238-6-1 (M)
-	  - Code du travail applicable à Mayotte. - art. R238-6-5 (M)
-	  - Code du travail applicable à Mayotte. - art. R239-1 (M)
-	  - Code du travail applicable à Mayotte. - art. R620-4 (M)
+	  - Code du travail applicable à Mayotte. - art. L231-8 (V)
+	  - Code du travail applicable à Mayotte. - art. L232-2 (V)
+	  - Code du travail applicable à Mayotte. - art. L233-7 (V)
+	  - Code du travail applicable à Mayotte. - art. L234-2 (V)
+	  - Code du travail applicable à Mayotte. - art. L237-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L238-1 (VD)
+	  - Code du travail applicable à Mayotte. - art. L239-1 (V)
+	  - Code du travail applicable à Mayotte. - art. R231-34 (V)
+	  - Code du travail applicable à Mayotte. - art. R232-72 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-2 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-24 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-77 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-1 (V)
+	  - Code du travail applicable à Mayotte. - art. R236-1 (V)
+	  - Code du travail applicable à Mayotte. - art. R236-51 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-1-1 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-2-1 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-3-1 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-4-1 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-5-1 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-6-1 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-6-5 (V)
+	  - Code du travail applicable à Mayotte. - art. R239-1 (V)
+	  - Code du travail applicable à Mayotte. - art. R620-4 (V)
 
 
-###### Article L230-1-1
+###### Article L231-2
 
-1° Les travailleurs indépendants ainsi que les employeurs, lorsqu'ils exercent directement une activité sur un chantier,
-doivent mettre en oeuvre vis-à-vis des autres personnes intervenant dans les opérations de bâtiment et de génie civil et
-d'eux-mêmes les règles de protection et de salubrité prévues aux articles L. 230-3, L. 230-5 et L. 230-6.
+Les travailleurs indépendants ainsi que les employeurs, lorsqu'ils exercent directement une activité sur un chantier, doivent
+mettre en oeuvre vis-à-vis des autres personnes intervenant dans les opérations de bâtiment et de génie civil et d'eux-mêmes
+les règles de protection et de salubrité prévues aux articles L. 231-7, L. 233-1 et L. 233-7.
 
 **Liens relatifs à cet article**
 
@@ -9212,390 +10022,34 @@ d'eux-mêmes les règles de protection et de salubrité prévues aux articles L.
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L230-3 (M)
-	  - Code du travail applicable à Mayotte. - art. L230-5 (M)
-	  - Code du travail applicable à Mayotte. - art. L230-6 (M)
+	  - Code du travail applicable à Mayotte. - art. L231-7 (V)
+	  - Code du travail applicable à Mayotte. - art. L233-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L233-7 (V)
 
 	**Cité par**:
 
-	  - Code du travail applicable à Mayotte. - art. L251-10 (Ab)
-	  - Code du travail applicable à Mayotte. - art. R231-16 (M)
-	  - Code du travail applicable à Mayotte. - art. R233-1 (M)
-	  - Code du travail applicable à Mayotte. - art. R233-2 (M)
-	  - Code du travail applicable à Mayotte. - art. R233-60 (MMN)
-	  - Code du travail applicable à Mayotte. - art. R235-1 (M)
-	  - Code du travail applicable à Mayotte. - art. R235-107 (M)
-	  - Code du travail applicable à Mayotte. - art. R235-204 (M)
-	  - Code du travail applicable à Mayotte. - art. R235-205 (M)
-	  - Code du travail applicable à Mayotte. - art. R235-207 (M)
-	  - Code du travail applicable à Mayotte. - art. R236-1 (M)
-	  - Code du travail applicable à Mayotte. - art. R238-2-1 (M)
-	  - Code du travail applicable à Mayotte. - art. R238-6-1 (M)
-
-
-###### Article L230-2
-
-Les établissements et locaux où sont employés des salariés doivent être tenus dans un constant état de propreté et présenter
-les conditions d'hygiène et de salubrité nécessaires à la santé du personnel.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. L230-9 (Ab)
-
-
-###### Article L230-3
-
-Les établissements, locaux, chantiers et, plus généralement, tous les emplacements de travail doivent être aménagés de façon
-à garantir la sécurité des travailleurs.
-
-Les installations, machines, mécanismes, appareils de transmission, outils et engins doivent être installés, protégés, tenus
-et utilisés dans des conditions assurant la sécurité, dans les meilleurs conditions possibles de sécurité.
-
-Les techniques de travail et les produits utilisés ne doivent pas mettre en péril la sécurité et la santé des travailleurs.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. L230-1-1 (Ab)
-	  - Code du travail applicable à Mayotte. - art. L230-7 (Ab)
-	  - Code du travail applicable à Mayotte. - art. L230-9 (Ab)
-	  - Code du travail applicable à Mayotte. - art. R233-1 (M)
-	  - Code du travail applicable à Mayotte. - art. R238-2-17 (V)
-
-
-###### Article L230-4
-
-En tant que de besoin, des décrets en Conseil d'Etat déterminent les mesures nécessaires à l'application des règles de
-protection et de salubrité prévues aux articles L. 230-1-1 à L. 230-6. Ils déterminent notamment :
-
-1° Les mesures générales de protection et de salubrité applicables à tous les établissements assujettis, notamment en ce qui
-concerne l'éclairage, l'aération ou la ventilation, les eaux potables, les fosses d'aisance, l'évacuation des poussières et
-vapeurs, les précautions à prendre contre les incendies, le couchage du personnel, etc. ;
-
-2° Au fur et à mesure des nécessités constatées, les prescriptions particulières relatives soit à certaines professions, soit
-à certains modes de travail.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L1515-4 (V)
-	  - Code du travail applicable à Mayotte. - art. L230-15 (Ab)
-	  - Code du travail applicable à Mayotte. - art. L230-16 (Ab)
-	  - Code du travail applicable à Mayotte. - art. L230-6 (Ab)
-	  - Code du travail applicable à Mayotte. - art. L230-7 (Ab)
-	  - Code du travail applicable à Mayotte. - art. R233-1 (M)
-	  - Code du travail applicable à Mayotte. - art. R238-6-22 (M)
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte L230-1-1 à L230-6
-
-
-###### Article L230-5
-
-Dans l'intérêt de l'hygiène et de la sécurité du travail, peuvent être limitées, réglementées ou interdites la fabrication,
-la mise en vente, la vente, l'importation, la cession à quelque titre que ce soit ainsi que l'emploi des substances et
-préparations dangereuses pour les travailleurs.
-
-Ces limitations, réglementations ou interdictions peuvent être établies même dans le cas où l'emploi desdites substances ou
-préparations est le fait du chef d'établissement ou des travailleurs indépendants.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. L230-1-1 (Ab)
-	  - Code du travail applicable à Mayotte. - art. R231-14 (M)
-	  - Code du travail applicable à Mayotte. - art. R231-5 (M)
-	  - Code du travail applicable à Mayotte. - art. R232-62 (MMN)
-	  - Code du travail applicable à Mayotte. - art. R238-6-22 (M)
-
-
-###### Article L230-6
-
-Il est interdit d'exposer, de mettre en vente, de vendre, d'importer, de louer, de céder à quelque titre que ce soit ou
-d'utiliser :
-
-a) Des appareils, machines et éléments de machines qui ne sont pas construits, disposés, protégés ou commandés dans des
-conditions assurant la sécurité et l'hygiène des travailleurs ;
-
-b) Des protecteurs de machines ainsi que des dispositifs, équipements ou produits de protection qui ne sont pas de nature à
-garantir les travailleurs contre les dangers de tous ordres auxquels ils sont exposés.
-
-Des décrets pris dans les conditions prévues à l'alinéa 1er de l'article L. 230-4 et après avis des organisations
-professionnelles d'employeurs et de salariés intéressés :
-
-1° Déterminent les matériels, y compris les matériels agricoles, auxquels s'appliquent les dispositions du premier alinéa du
-présent article ;
-
-2° Définissent les conditions d'hygiène et de sécurité auxquelles les matériels les plus dangereux et les protecteurs de
-machines doivent satisfaire pour que soit assurée la protection des travailleurs et fixent la procédure à suivre pour
-vérifier l'efficacité des mesures prescrites à cet effet ;
-
-3° Fixent les règles générales d'hygiène et de sécurité auxquelles doivent satisfaire les autres matériels et déterminent le
-mode d'établissement des prescriptions techniques nécessaires à l'application de ces règles.
-
-Des arrêtés du représentant de l'Etat peuvent établir la liste des normes techniques de sécurité dont le respect permet de
-satisfaire aux règles édictées par les décrets prévus aux 2° et 3° du deuxième alinéa. Ces arrêtés peuvent rendre
-obligatoires certaines de ces normes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. L230-1-1 (Ab)
-	  - Code du travail applicable à Mayotte. - art. R233-63 (MMN)
-	  - Code du travail applicable à Mayotte. - art. R233-64 (MMN)
-	  - Code du travail applicable à Mayotte. - art. R233-74 (MMN)
-	  - Code du travail applicable à Mayotte. - art. R233-76 (MMN)
-	  - Code du travail applicable à Mayotte. - art. R233-78 (MMN)
-	  - Code du travail applicable à Mayotte. - art. R233-79 (MMN)
-	  - Code du travail applicable à Mayotte. - art. R233-80 (MMN)
-	  - Code du travail applicable à Mayotte. - art. R233-81 (MMN)
-	  - Code du travail applicable à Mayotte. - art. R233-82 (MMN)
-	  - Code du travail applicable à Mayotte. - art. R233-83 (MMN)
-	  - Code du travail applicable à Mayotte. - art. R233-84 (V)
-	  - Code du travail applicable à Mayotte. - art. R233-85 (MMN)
-	  - Code du travail applicable à Mayotte. - art. R233-86 (MMN)
-	  - Code du travail applicable à Mayotte. - art. R233-87 (MMN)
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L230-4 (M)
-
-
-###### Article L230-7
-
-L'inspecteur du travail ou le contrôleur du travail peuvent, sur mise en demeure, imposer au chef d'établissement de faire
-vérifier l'état de conformité des machines, mécanismes, appareils de transmission, outils et engins mentionnés à l'article L.
-230-3 avec les lois et règlements relatifs au régime du travail, et notamment avec les règlements prévus au premier alinéa de
-l'article L. 230-4. Ces vérifications sont faites par des organismes agréés par le ministre chargé du travail ou par le
-représentant de l'Etat à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L230-3 (M)
-	  - Code du travail applicable à Mayotte. - art. L230-4 (M)
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. R233-3 (M)
-	  - Code du travail applicable à Mayotte. - art. R233-76 (MMN)
-
-
-###### Article L230-7-1
-
-Dans les établissements mentionnés à l'article L. 230-1, les dispositions relatives à la protection des travailleurs,
-salariés ou non, contre les risques d'exposition aux rayonnements ionisants sont fixées dans le respect des principes
-généraux de radioprotection des personnes énoncés à l'article L. 1333-1 du code de la santé publique et des obligations
-prévues à l'article L. 1333-10 du même code.
-
-Les modalités d'application aux travailleurs, salariés ou non, des dispositions mentionnées à l'alinéa précédent, et
-notamment les valeurs limites que doivent respecter l'exposition de ces travailleurs, les références d'exposition et les
-niveaux qui leur sont applicables, compte tenu des situations particulières d'exposition, ainsi que les éventuelles
-restrictions ou interdictions concernant les activités, procédés, dispositifs ou substances dangereux pour les travailleurs,
-sont fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L230-1 (M)
-	  - Code de la santé publique - art. L1333-1 (M)
-	  - Code de la santé publique - art. L1333-10 (T)
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. L251-12 (M)
-
-
-###### Article L230-8
-
-Il est interdit à toute personne d'introduire ou de distribuer et à tout chef d'établissement, directeur, gérant, préposé,
-contremaître, chef de chantier et, en général, à toute personne ayant autorité sur les ouvriers et employés, de laisser
-introduire ou de laisser distribuer dans les établissements et locaux mentionnés à l'article L. 230-1, pour être consommées
-par le personnel, toutes boissons alcooliques autres que le vin, la bière, le cidre, le poiré, l'hydromel non additionnés
-d'alcool.
-
-Il est interdit à tout chef d'établissement, directeur, gérant, préposé, contremaître, chef de chantier et, en général, à
-toute personne ayant autorité sur les ouvriers et employés, de laisser entrer ou séjourner dans les mêmes établissements des
-personnes en état d'ivresse.
-
-Dans les entreprises industrielles et commerciales, les conventions ou accords collectifs de travail ou les contrats
-individuels de travail ne peuvent comporter de dispositions prévoyant l'attribution, au titre d'avantage en nature, de
-boissons alcooliques aux salariés.
-
-Les dispositions du présent article ne s'appliquent pas aux boissons servies à l'occasion des repas constituant un avantage
-en nature.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L230-1 (M)
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. L230-9 (Ab)
-	  - Code du travail applicable à Mayotte. - art. L610-3 (V)
-
-
-###### Article L230-9
-
-En l'absence de dispositions réglementaires, dans les établissements soumis au contrôle de l'inspection du travail ou des
-fonctionnaires de contrôle assimilés, le directeur du travail, de l'emploi et de la formation professionnelle à Mayotte, sur
-le rapport de l'inspecteur ou du contrôleur du travail, met en demeure les chefs d'établissement de réaliser toutes mesures
-utiles pour remédier aux infractions constatées aux dispositions des articles L. 230-2, L. 230-3 et L. 230-8.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. L230-12 (Ab)
-	  - Code du travail applicable à Mayotte. - art. L251-9 (M)
-	  - Code du travail applicable à Mayotte. - art. L610-13 (V)
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L230-2 (M)
-	  - Code du travail applicable à Mayotte. - art. L230-3 (M)
-	  - Code du travail applicable à Mayotte. - art. L230-8 (M)
-
-
-###### Article L230-10
+	  - Code du travail applicable à Mayotte. - art. R231-16 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-1 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-2 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-60 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-1 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-105 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-107 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-204 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-205 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-207 (V)
+	  - Code du travail applicable à Mayotte. - art. R236-1 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-2-1 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-6-1 (V)
+
+
+###### Article L231-3
 
 Lorsque la procédure de mise en demeure est prévue par les dispositions réglementaires relatives à l'hygiène, à la sécurité
 et aux conditions de travail, les inspecteurs et contrôleurs du travail, avant de dresser procès-verbal, doivent mettre les
@@ -9615,32 +10069,32 @@ l'espèce.
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
-	  - Code du travail applicable à Mayotte. - art. L251-6 (M)
-	  - Code du travail applicable à Mayotte. - art. L251-9 (M)
-	  - Code du travail applicable à Mayotte. - art. L610-13 (V)
-	  - Code du travail applicable à Mayotte. - art. R232-100 (MMN)
-	  - Code du travail applicable à Mayotte. - art. R232-59 (MMN)
-	  - Code du travail applicable à Mayotte. - art. R233-59 (MMN)
-	  - Code du travail applicable à Mayotte. - art. R235-214 (M)
-	  - Code du travail applicable à Mayotte. - art. R238-2-42 (M)
-	  - Code du travail applicable à Mayotte. - art. R238-3-20 (M)
-	  - Code du travail applicable à Mayotte. - art. R238-4-9 (M)
-	  - Code du travail applicable à Mayotte. - art. R238-5-8 (M)
+	  - Code du travail applicable à Mayotte. - art. L231-6 (V)
+	  - Code du travail applicable à Mayotte. - art. L251-6 (V)
+	  - Code du travail applicable à Mayotte. - art. L251-9 (V)
+	  - Code du travail applicable à Mayotte. - art. R231-71 (V)
+	  - Code du travail applicable à Mayotte. - art. R232-100 (V)
+	  - Code du travail applicable à Mayotte. - art. R232-59 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-59 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-214 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-2-42 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-3-20 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-4-9 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-5-8 (V)
 
 
-###### Article L230-11
+###### Article L231-4
 
-Les mises en demeure sont faites selon les modalités prévues à l'article L. 610-12 et sont datées et signées.
+Les mises en demeure sont faites selon les modalités prévues à l'article L. 610-12 et sont datées et signées. Elles indiquent
+les infractions constatées et fixent un délai à l'expiration duquel ces infractions devront avoir disparu. Ce délai, qui ne
+peut être inférieur à quatre jours, est fixé en tenant compte des circonstances, à partir du minimum établi pour chaque cas
+par les décrets pris en application du présent titre.
 
 **Liens relatifs à cet article**
 
@@ -9649,11 +10103,7 @@ Les mises en demeure sont faites selon les modalités prévues à l'article L. 6
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
@@ -9663,23 +10113,26 @@ Les mises en demeure sont faites selon les modalités prévues à l'article L. 6
 
 	**Cité par**:
 
-	  - Code du travail applicable à Mayotte. - art. R232-100 (MMN)
-	  - Code du travail applicable à Mayotte. - art. R232-59 (MMN)
-	  - Code du travail applicable à Mayotte. - art. R233-59 (MMN)
-	  - Code du travail applicable à Mayotte. - art. R235-214 (M)
-	  - Code du travail applicable à Mayotte. - art. R238-2-42 (M)
-	  - Code du travail applicable à Mayotte. - art. R238-3-20 (M)
-	  - Code du travail applicable à Mayotte. - art. R238-4-9 (M)
-	  - Code du travail applicable à Mayotte. - art. R238-5-8 (M)
+	  - Code du travail applicable à Mayotte. - art. R232-59 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-214 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-2-42 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-3-20 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-4-9 (V)
 
 
-###### Article L230-12
+###### Article L231-5
 
-Les mises en demeure prévues à l'article L. 230-9 indiquent les infractions constatées et fixent un délai à l'expiration
-duquel ces infractions devront avoir disparu. Ce délai, qui ne peut être inférieur à quatre jours, est fixé en tenant compte
-des circonstances et, le cas échéant, du délai minimum prévu par les textes réglementaires. A l'expiration de ce délai,
-l'inspecteur ou le contrôleur du travail peut dresser procès-verbal par exception aux dispositions des articles L. 251-1 et
-L. 251-4 ; les infractions ainsi constatées sont punies de peine de police.
+Le directeur du travail, de l'emploi et de la formation professionnelle, sur le rapport de l'inspecteur du travail constatant
+une situation dangereuse résultant d'une infraction aux dispositions des articles L. 232-1 et L. 233-1, notamment dans le cas
+où le risque professionnel trouve son origine dans les conditions d'organisation du travail ou d'aménagement du poste de
+travail, l'état des surfaces de circulation, l'état de propreté et d'ordre des lieux de travail, le stockage des matériaux et
+des produits de fabrication, peut mettre en demeure les chefs d'établissement de prendre toutes mesures utiles pour y
+remédier.
+
+Cette mise en demeure est faite par écrit, datée et signée et fixe un délai d'exécution tenant compte des difficultés de
+réalisation. Si, à l'expiration de ce délai, l'inspecteur du travail constate que la situation dangereuse n'a pas cessé, il
+peut dresser procès-verbal au chef d'établissement. Par exception aux dispositions des articles L. 251-1 et L. 251-5 les
+infractions ainsi constatées sont punies de peines de police.
 
 **Liens relatifs à cet article**
 
@@ -9688,36 +10141,76 @@ L. 251-4 ; les infractions ainsi constatées sont punies de peine de police.
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
-	**Abrogé par**:
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L231-12 (V)
+	  - Code du travail applicable à Mayotte. - art. L231-6 (V)
+	  - Code du travail applicable à Mayotte. - art. L251-9 (V)
+	  - Code du travail applicable à Mayotte. - art. R231-70 (V)
+	  - Code du travail applicable à Mayotte. - art. R231-71 (V)
+	  - Code du travail applicable à Mayotte. - art. R251-1 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L232-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L233-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L251-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L251-5 (M)
+
+
+###### Article L231-6
+
+Avant l'expiration du délai fixé en application soit de l'article L. 231-3 soit de l'article L. 231-5 et au plus tard dans
+les quinze jours qui suivent la mise en demeure prononcée sur le fondement de l'un de ces articles, le chef d'établissement
+peut saisir d'une réclamation le ministre chargé du travail et de l'emploi.
+
+Cette réclamation est suspensive. Il y est statué dans un délai fixé par voie réglementaire.
+
+La non-communication au chef d'établissement de la décision du ministre dans le délai prévu à l'alinéa précédent vaut
+acceptation de la réclamation. Tout refus de la part du ministre doit être motivé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
 
 	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L230-9 (M)
-	  - Code du travail applicable à Mayotte. - art. L251-1 (M)
-	  - Code du travail applicable à Mayotte. - art. L251-4 (M)
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. R235-214 (M)
-	  - Code du travail applicable à Mayotte. - art. R238-2-42 (M)
-	  - Code du travail applicable à Mayotte. - art. R238-3-20 (M)
-	  - Code du travail applicable à Mayotte. - art. R238-4-9 (M)
-	  - Code du travail applicable à Mayotte. - art. R238-5-8 (M)
+	  - Code du travail applicable à Mayotte. - art. L231-3 (V)
+	  - Code du travail applicable à Mayotte. - art. L231-5 (V)
 
 
-###### Article L230-13
+###### Article L231-7
 
-Le salarié signale immédiatement à l'employeur ou à son représentant toute situation de travail dont il a un motif
-raisonnable de penser qu'elle présente un danger grave et imminent pour sa vie ou sa santé.
+Sans préjudice de l'application des autres dispositions législatives et réglementaires, les vendeurs ou distributeurs de
+substances ou de préparations dangereuses ainsi que les chefs des établissements où il en est fait usage sont tenus d'apposer
+sur tout récipient, sac ou enveloppe contenant ces substances ou préparations, une étiquette ou une inscription indiquant le
+nom et l'origine de ces substances ou préparations et les dangers que présente leur emploi.
 
-L'employeur, ou son représentant, ne peut demander au salarié de reprendre son activité dans une situation de travail où
-persiste un danger grave ou imminent.
+Les récipients, sacs ou enveloppes contenant les substances ou préparations dangereuses doivent être solides et étanches.
+
+Un arrêté conjoint des ministres chargés du travail, de l'industrie et de l'environnement détermine la nature des substances
+ou préparations prévues à l'alinéa précédent et la proportion au-dessus de laquelle leur présence dans un produit complexe
+rend obligatoire l'apposition de l'étiquette ou de l'inscription prévue ci-dessus.
+
+Cet arrêté détermine la couleur, les dimensions des étiquettes ou inscriptions, les indications qui doivent figurer sur
+celles-ci, ainsi que les conditions auxquelles doivent satisfaire les récipients, sacs ou enveloppes contenant lesdits
+substances, préparations ou produits.
+
+Toute substance ou préparation, qui ne fait pas l'objet d'un arrêté mentionné au troisième alinéa ci-dessus mais donne lieu à
+la fourniture des informations mentionnées au troisième alinéa de l'article L. 231-8, doit être étiquetée et emballée par le
+fabricant, l'importateur ou le vendeur sur la base de ces informations et des règles générales fixées par ledit arrêté en
+application du quatrième alinéa ci-dessus.
 
 **Liens relatifs à cet article**
 
@@ -9726,27 +10219,143 @@ persiste un danger grave ou imminent.
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
-	  - Code du travail applicable à Mayotte. - art. L230-14 (Ab)
+	  - Code du travail applicable à Mayotte. - art. L231-2 (V)
+	  - Code du travail applicable à Mayotte. - art. L251-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L251-14 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L231-8 (V)
 
 
-###### Article L230-14
+###### Article L231-8
+
+Dans l'intérêt de l'hygiène et de la sécurité du travail, peuvent être limités, réglementés ou interdits la fabrication, la
+mise en vente, la vente, l'importation, la cession à quelque titre que ce soit ainsi que l'emploi des substances et
+préparations dangereuses pour les salariés.
+
+Ces limitations, réglementations ou interdictions peuvent être établies même dans le cas où l'emploi desdites substances ou
+préparations est le fait du chef d'établissement ou des travailleurs indépendants.
+
+Avant toute mise sur le marché, soit en l'état, soit au sein d'une préparation, à titre onéreux ou gratuit, d'une substance
+chimique qui n'a pas fait l'objet d'une mise sur le marché d'un Etat membre des Communautés européennes ou d'un autre Etat
+partie à l'accord sur l'Espace économique européen avant le 18 septembre 1981, tout fabricant ou importateur doit fournir à
+un organisme agréé par le ministre chargé du travail les informations nécessaires à l'appréciation des risques encourus par
+les salariés susceptibles d'être exposés à cette substance.
+
+Les fabricants, les importateurs ou les vendeurs de substances ou de préparations dangereuses destinées à être utilisées par
+les personnes ou les établissements mentionnés à l'article L. 231-1 doivent, dans les conditions définies par décret en
+Conseil d'Etat, fournir à un organisme agréé par le ministre chargé du travail toutes les informations nécessaires sur ces
+produits, notamment leur composition, en vue de permettre d'en prévenir les effets sur la santé ou de répondre à toute
+demande d'ordre médical destinée au traitement des affections induites par ces produits, en particulier en cas d'urgence. Un
+décret en Conseil d'Etat détermine les conditions dans lesquelles les informations sont fournies par l'organisme agréé, les
+personnes qui y ont accès et les modalités selon lesquelles sont préservés les secrets de fabrication.
+
+Toutefois, les dispositions précédentes ne s'appliquent pas :
+
+a) A l'importateur d'une substance en provenance d'un Etat membre des Communautés européennes ou d'un autre Etat partie à
+l'accord sur l'Espace économique européen, si cette substance y a fait l'objet d'une mise sur le marché conformément aux
+règles nationales prises pour l'application des directives du Conseil des Communautés européennes ;
+
+b) Au fabricant ou à l'importateur de certaines catégories de substances ou préparations, définies par décret en Conseil
+d'Etat, et soumises à d'autres procédures de déclaration. Ces procédures prennent en compte les risques encourus par les
+travailleurs.
+
+Obligation peut, en outre, être faite aux fabricants, importateurs et vendeurs susvisés de participer à la conservation et à
+l'exploitation de ces informations et de contribuer à la couverture des dépenses qui en résultent.
+
+Par ailleurs, l'inspecteur du travail peut, après avis du médecin du travail, mettre en demeure le chef d'établissement de
+faire procéder, par des organismes agréés par le ministère du travail, à des analyses des produits visés au premier alinéa du
+présent article, en vue d'en connaître la composition et les effets sur l'organisme humain.
+
+Les mesures d'application du présent article font l'objet de décrets en Conseil d'Etat pris dans les conditions prévues à
+l'article L. 231-16, ces décrets peuvent notamment organiser des procédures spéciales lorsqu'il y a urgence à suspendre la
+commercialisation ou l'utilisation des substances et préparations dangereuses, et prévoir les modalités d'indemnisation des
+salariés atteints d'affections causées par ces produits.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L231-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L231-16 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L231-7 (V)
+	  - Code du travail applicable à Mayotte. - art. L233-9 (V)
+	  - Code du travail applicable à Mayotte. - art. L251-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L251-14 (V)
+	  - Code du travail applicable à Mayotte. - art. R231-14 (V)
+	  - Code du travail applicable à Mayotte. - art. R231-5 (V)
+	  - Code du travail applicable à Mayotte. - art. R232-62 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-6-22 (V)
+
+
+###### Article L231-9
+
+Le salarié signale immédiatement à l'employeur ou à son représentant toute situation de travail dont il a un motif
+raisonnable de penser qu'elle présente un danger grave et imminent pour sa vie ou sa santé ainsi que toute défectuosité qu'il
+constate dans les systèmes de protection.
+
+L'employeur ou son représentant ne peut demander au salarié de reprendre son activité dans une situation de travail où
+persiste un danger grave et imminent résultant par exemple d'une défectuosité du système de protection.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L231-11 (V)
+	  - Code du travail applicable à Mayotte. - art. L231-12 (V)
+	  - Code du travail applicable à Mayotte. - art. L231-15 (V)
+
+
+###### Article L231-10
 
 Aucune sanction, aucune retenue de salaire ne peut être prise à l'encontre d'un salarié ou d'un groupe de salariés qui se
 sont retirés d'une situation de travail dont ils avaient un motif raisonnable de penser qu'elle présentait un danger grave et
 imminent pour la vie ou la santé de chacun d'eux.
 
-La faculté ouverte par l'article L. 230-13 doit être exercée de telle manière qu'elle ne puisse créer pour autrui une
-nouvelle situation de risque grave et imminent.
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+
+###### Article L231-11
+
+La faculté ouverte par l'article L. 231-9 doit être exercée de telle manière qu'elle ne puisse créer pour autrui une nouvelle
+situation de risque grave et imminent.
 
 **Liens relatifs à cet article**
 
@@ -9755,24 +10364,33 @@ nouvelle situation de risque grave et imminent.
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L230-13 (M)
+	  - Code du travail applicable à Mayotte. - art. L231-9 (V)
 
 
-###### Article L230-15
+###### Article L231-12
 
-Les décrets en Conseil d'Etat prévus à l'article L. 230-4 déterminent les locaux et les dispositifs ou aménagements de toute
-nature dont doivent être dotés les bâtiments qu'ils désignent en vue d'améliorer les conditions d'hygiène et de sécurité des
-travailleurs appelés à exercer leur activité dans ces bâtiments pour leur construction ou leur entretien.
+Si un représentant du personnel au comité d'hygiène, de sécurité et des conditions de travail constate qu'il existe une cause
+de danger grave et imminent, notamment par l'intermédiaire d'un salarié qui s'est retiré de la situation de travail définie à
+l'article L. 231-9, il en avise immédiatement l'employeur ou son représentant et il consigne cet avis par écrit dans des
+conditions fixées par voie réglementaire. L'employeur ou son représentant est tenu de procéder sur-le-champ à une enquête
+avec le membre du comité d'hygiène, de sécurité et des conditions de travail qui lui a signalé le danger et de prendre les
+dispositions nécessaires pour y remédier.
+
+En cas de divergence sur la réalité du danger ou la façon de le faire cesser, notamment par arrêt du travail, de la machine
+ou de l'installation, le comité d'hygiène, de sécurité et des conditions de travail est réuni d'urgence et, en tout état de
+cause, dans un délai n'excédant pas vingt-quatre heures. En outre, l'employeur est tenu d'informer immédiatement les services
+de l'inspection du travail et de prévention de la caisse de sécurité sociale de Mayotte dont les représentants peuvent
+assister à la réunion du comité d'hygiène, de sécurité et des conditions de travail.
+
+A défaut d'accord entre l'employeur et la majorité du comité d'hygiène, de sécurité et des conditions de travail sur les
+mesures à prendre et leurs conditions d'exécution, l'inspecteur du travail est saisi immédiatement par l'employeur ou son
+représentant. Il met en oeuvre, le cas échéant, soit celle de l'article L. 231-5, soit celle de l'article L. 251-6.
 
 **Liens relatifs à cet article**
 
@@ -9781,30 +10399,27 @@ travailleurs appelés à exercer leur activité dans ces bâtiments pour leur co
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L230-4 (M)
+	  - Code du travail applicable à Mayotte. - art. L231-5 (V)
+	  - Code du travail applicable à Mayotte. - art. L231-9 (V)
+	  - Code du travail applicable à Mayotte. - art. L251-6 (M)
 
 	**Cité par**:
 
-	  - Code du travail applicable à Mayotte. - art. L251-11 (T)
+	  - Code du travail applicable à Mayotte. - art. L238-7 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-8-9 (V)
 
 
-###### Article L230-16
+###### Article L231-13
 
-Les maîtres d'ouvrage entreprenant la construction ou l'aménagement de bâtiments destinés à l'exercice des activités
-mentionnées à l'article L. 230-1 sont tenus de se conformer aux dispositions législatives et réglementaires prévues dans
-l'intérêt de l'hygiène et de la sécurité du travail.
-
-Les modalités d'application du présent article sont fixées par les décrets en Conseil d'Etat prévus à l'article L. 230-4.
+Le chef d'établissement prend les mesures et donne les instructions nécessaires pour permettre aux salariés, en cas de danger
+grave, imminent et inévitable, d'arrêter leur activité et de se mettre en sécurité en quittant immédiatement le lieu de
+travail.
 
 **Liens relatifs à cet article**
 
@@ -9813,23 +10428,1344 @@ Les modalités d'application du présent article sont fixées par les décrets e
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
-	**Abrogé par**:
+
+###### Article L231-14
+
+Les mesures concernant la sécurité, l'hygiène et la santé au travail ne doivent en aucun cas entraîner de charges financières
+pour les salariés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+
+###### Article L231-15
+
+Lorsqu'il constate sur un chantier du bâtiment et des travaux publics qu'un salarié ne s'est pas retiré de la situation de
+travail définie à l'article L. 231-9, alors qu'il existe une cause de danger grave et imminent résultant soit d'un défaut de
+protection contre les chutes de hauteur, soit de l'absence de dispositifs de nature à éviter les risques d'ensevelissement
+constituant une infraction aux obligations des décrets pris en application de l'article L. 231-16, l'inspecteur du travail ou
+le contrôleur du travail, par délégation de l'inspecteur du travail dont il relève et sous son autorité, peut prendre toutes
+mesures utiles visant à soustraire immédiatement le salarié de cette situation, notamment en prescrivant l'arrêt temporaire
+de la partie des travaux en cause.
+
+Lorsque toutes les mesures ont été prises pour faire cesser la situation de danger grave et imminent ou la situation
+dangereuse, l'employeur ou son représentant avise l'inspecteur du travail ou le contrôleur du travail. Après vérification,
+l'inspecteur du travail ou le contrôleur du travail, par délégation de l'inspecteur du travail dont il relève et sous son
+autorité, autorise la reprise des travaux ou de l'activité concernée.
+
+En cas de contestation par l'employeur de la réalité du danger ou de la façon de le faire cesser, notamment par l'arrêt des
+travaux, celui-ci saisit le président du tribunal de première instance qui statue en référé.
+
+Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
 
 	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L230-1 (M)
-	  - Code du travail applicable à Mayotte. - art. L230-4 (M)
+	  - Code du travail applicable à Mayotte. - art. L231-16 (V)
+	  - Code du travail applicable à Mayotte. - art. L231-9 (V)
 
 	**Cité par**:
 
-	  - Code du travail applicable à Mayotte. - art. L251-11 (T)
-	  - Code du travail applicable à Mayotte. - art. R239-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L251-11 (V)
+	  - Code du travail applicable à Mayotte. - art. R231-65 (V)
+
+
+###### Article L231-16
+
+Des décrets en Conseil d'Etat déterminent les mesures nécessaires à l'application des règles de protection et de salubrité
+prévues au présent chapitre. Ils déterminent notamment :
+
+1° Les mesures générales de protection et de salubrité applicables à tous les établissements assujettis, notamment en ce qui
+concerne l'éclairage, l'aération ou la ventilation, les eaux potables, les fosses d'aisances, l'évacuation des poussières et
+vapeurs, les précautions à prendre contre les incendies, le couchage du personnel ;
+
+2° Au fur et à mesure des nécessités constatées, les prescriptions particulières relatives soit à certaines professions, soit
+à certains modes de travail.
+
+Ces décrets sont pris après avis de la commission consultative du travail prévue à l'article L. 420-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Ordonnance n°2016-128 du 10 février 2016 - art. 42
+	  - Code de la santé publique - art. L1513-1 (VD)
+	  - Code du travail applicable à Mayotte. - art. L231-15 (V)
+	  - Code du travail applicable à Mayotte. - art. L231-8 (V)
+	  - Code du travail applicable à Mayotte. - art. L233-6 (V)
+	  - Code du travail applicable à Mayotte. - art. L233-7 (V)
+	  - Code du travail applicable à Mayotte. - art. L236-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L239-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L251-14 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-1 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-6-22 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L420-1 (M)
+
+
+#### CHAPITRE II : Hygiène
+
+###### Article L232-1
+
+Les établissements et locaux où sont employés des salariés doivent être tenus dans un état constant de propreté et présenter
+les conditions d'hygiène et de salubrité nécessaires à la santé du personnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L231-5 (V)
+
+
+###### Article L232-2
+
+Il est interdit à toute personne d'introduire ou de distribuer et à tout chef d'établissement, directeur, gérant, préposé,
+contremaître, chef de chantier et, en général, à toute personne ayant autorité sur les salariés, de laisser introduire ou de
+laisser distribuer dans les établissements et locaux mentionnés à l'article L. 231-1, pour être consommées par le personnel,
+toutes boissons alcooliques.
+
+Il est interdit à tout chef d'établissement, directeur, gérant, préposé, contremaître, chef de chantier et, en général, à
+toute personne ayant autorité sur les salariés, de laisser entrer ou séjourner dans les mêmes établissements des personnes en
+état d'ivresse.
+
+Dans les entreprises industrielles et commerciales, les conventions ou accords collectifs de travail ou les contrats
+individuels de travail ne peuvent comporter de dispositions prévoyant l'attribution, au titre d'avantage en nature, de
+boissons alcooliques aux salariés.
+
+Les dispositions du présent article ne s'appliquent pas aux boissons servies à l'occasion des repas constituant un avantage
+en nature.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L231-1 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L251-1 (V)
+
+
+#### CHAPITRE III : Sécurité
+
+###### Article L233-1
+
+Les établissements, locaux, chantiers et, plus généralement, tous les emplacements de travail doivent être aménagés de façon
+à garantir la sécurité des salariés.
+
+Les installations, machines, mécanismes, appareils de transmission, outils et engins doivent être installés, protégés, tenus
+et utilisés dans des conditions assurant la sécurité, dans les meilleures conditions possibles de sécurité.
+
+Les techniques de travail et les produits utilisés ne doivent pas mettre en péril la sécurité et la santé des salariés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Ordonnance n°2016-128 du 10 février 2016 - art. 42
+	  - Code du travail applicable à Mayotte. - art. L231-2 (V)
+	  - Code du travail applicable à Mayotte. - art. L231-5 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-1 (V)
+
+
+###### Article L233-2
+
+Sans préjudice de l'application des mesures prévues par le présent code relatives à la prévention des incendies et des
+explosions, des moyens appropriés, humains et matériels, de prévention, de lutte contre l'incendie et de secours doivent être
+prévus afin de veiller en permanence à la sécurité des personnes occupées dans l'enceinte de l'établissement. Le chef
+d'établissement définit ces moyens en fonction du nombre de personnes occupées dans l'enceinte de l'établissement et des
+risques encourus. Il consulte le comité d'hygiène, de sécurité et des conditions de travail sur la définition et la
+modification de ces moyens.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+
+###### Article L233-3
+
+Les salariés appelés à travailler dans les puits, conduites de gaz, canaux de fumée, fosses d'aisances, cuves ou appareils
+quelconques pouvant contenir des gaz délétères doivent être attachés par une ceinture ou protégés par un autre dispositif de
+sûreté.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+
+###### Article L233-4
+
+Les puits, trappes et ouvertures de descente doivent être clôturés.
+
+Les moteurs doivent être isolés par des cloisons ou barrières de protection.
+
+Les escaliers doivent être solides et munis de fortes rampes.
+
+Les échafaudages doivent être munis de garde-corps rigides de 90 centimètres de haut.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+
+###### Article L233-5
+
+Les pièces mobiles suivantes des machines et transmissions :
+
+bielles et volants de moteur, roues, arbres de transmission, engrenages, cônes ou cylindres de friction doivent être munies
+d'un dispositif protecteur ou séparées des salariés, à moins qu'elles ne soient hors de portée de la main.
+
+Il en est de même des courroies ou câbles traversant le sol d'un atelier ou fonctionnant sur des poulies de transmission
+placées à moins de 2 mètres du sol.
+
+Des appareils adaptés aux machines ou mis à la disposition du personnel doivent éviter le maniement des courroies en marche.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+
+###### Article L233-6
+
+I. - Les machines, appareils, outils, engins, matériels et installations ci-après désignés par les termes d'équipements de
+travail qui font l'objet des opérations mentionnées au II du présent article doivent être conçus et construits de façon que
+leur mise en place, leur utilisation, leur réglage, leur maintenance, dans des conditions conformes à leur destination,
+n'exposent pas les personnes à un risque d'atteinte à leur sécurité ou leur santé.
+
+Les protecteurs et dispositifs de protection, les équipements et produits de protection individuelle, ci-après dénommés
+moyens de protection, qui font l'objet des opérations mentionnées au II du présent article doivent être conçus et fabriqués
+de manière à protéger les personnes, dans des conditions d'utilisation et de maintenance conformes à leur destination, contre
+les risques pour lesquels ils sont prévus.
+
+II. - Il est interdit d'exposer, de mettre en vente, de vendre, d'importer, de louer, de mettre à disposition ou de céder à
+quelque titre que ce soit des équipements de travail et des moyens de protection mentionnés au 1° du III du présent article
+qui ne répondent pas aux dispositions prévues au 3° du III.
+
+III. - Des décrets en Conseil d'Etat, pris dans les conditions prévues à l'article L. 231-16, déterminent :
+
+1° Les équipements de travail et les moyens de protections soumis aux obligations de sécurité définies au I du présent
+article ;
+
+2° Les procédures de certification de conformité aux règles techniques auxquelles doivent se soumettre les fabricants,
+importateurs et cédants, ainsi que les garanties dont ils bénéficient.
+
+L'issue de la procédure de certification de conformité peut être notamment subordonnée au résultat :
+
+a) De vérifications, même inopinées, effectuées par des organismes habilités, dans les locaux de fabrication ou de stockage
+d'équipements de travail ou de moyens de protection qui, s'ils se révélaient non conformes, seraient susceptibles d'exposer
+les personnes concernées à un risque grave ;
+
+b) D'examens ou essais, même destructifs, lorsque l'état de la technique le requiert ;
+
+3° Les règles techniques auxquelles doit satisfaire chaque type d'équipement de travail et de moyen de protection ainsi que
+la procédure de certification qui lui est applicable ;
+
+4° Les conditions dans lesquelles l'autorité administrative habilitée à contrôler la conformité peut demander au fabricant ou
+à l'importateur communication d'une documentation dont le contenu est précisé par arrêté ; l'absence de communication de
+cette documentation technique dans le délai prescrit constitue un indice de non-conformité de l'équipement de travail ou du
+moyen de protection aux règles techniques qui lui sont applicables, susceptible d'entraîner la mise en oeuvre des mesures
+prévues au 5° ci-après.
+
+Les personnes ayant accès à cette documentation technique sont tenues de ne pas révéler les secrets de fabrication et les
+procédés d'exploitation dont elles pourraient avoir connaissance à cette occasion ;
+
+5° Les conditions dans lesquelles est organisée une procédure de sauvegarde permettant :
+
+a) Soit de s'opposer à ce que des équipements de travail ou des moyens de protection ne répondant pas aux exigences définies
+au I du présent article et à tout ou partie des règles techniques prévues au 3° ci-dessus fassent l'objet des opérations
+visées au II du présent article et au II de l'article L. 233-7 ;
+
+b) Soit de subordonner l'accomplissement de ces opérations à des vérifications, épreuves, règles d'entretien, modifications
+des modes d'emploi des équipements de travail ou moyens de protection concernés.
+
+IV. - Des arrêtés du ministre chargé du travail :
+
+1° Peuvent établir la liste des normes dont le respect est réputé satisfaire aux règles techniques prévues au 3° du III du
+présent article ;
+
+2° Peuvent rendre obligatoires certaines des normes mentionnées au 1° ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D233-1 (T)
+	  - Code du travail applicable à Mayotte. - art. D233-80-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L233-7 (V)
+	  - Code du travail applicable à Mayotte. - art. L233-9 (V)
+	  - Code du travail applicable à Mayotte. - art. L251-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L251-14 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-63 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-64 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-74 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-76 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-78 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-79 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-81 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-82 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-83 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-84 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-85 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-87 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L231-16 (V)
+
+
+###### Article L233-7
+
+I. - Les équipements de travail et les moyens de protection mis en service ou utilisés dans les établissements mentionnés à
+l'article L. 231-1 doivent être équipés, installés, utilisés, réglés et maintenus de manière à préserver la sécurité et la
+santé des salariés, y compris en cas de modification de ces équipements de travail et de ces moyens de protection.
+
+II. - Il est interdit de mettre en service ou d'utiliser des équipements de travail et des moyens de protection mentionnés au
+1° du III de l'article L. 233-6 qui ne répondent pas aux dispositions prévues au 3° du III du même article.
+
+III. - Des décrets en Conseil d'Etat pris dans les conditions prévues à l'article L. 231-16 fixent, en tant que de besoin :
+
+1° Les mesures d'organisation, les conditions de mise en oeuvre et les prescriptions techniques auxquelles est subordonnée
+l'utilisation des équipements de travail et moyens de protection soumis au présent article ;
+
+2° Les conditions dans lesquelles les équipements de travail et, le cas échéant, les moyens de protection existants devront
+être mis en conformité avec les règles énoncées au 1° ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L231-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L231-16 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L231-2 (V)
+	  - Code du travail applicable à Mayotte. - art. L233-6 (V)
+	  - Code du travail applicable à Mayotte. - art. L233-8 (V)
+	  - Code du travail applicable à Mayotte. - art. L251-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L251-14 (V)
+
+
+###### Article L233-8
+
+L'inspecteur du travail ou le contrôleur du travail peut demander au chef d'établissement de faire vérifier par des
+organismes agréés par le ministre chargé du travail ou, par délégation, par le représentant de l'Etat à Mayotte l'état de
+conformité des équipements de travail mentionnés à l'article L. 233-7 avec les dispositions qui leur sont applicables.
+
+Au plus tard dans les quinze jours suivant la demande de vérification, le chef d'établissement peut saisir le ministre chargé
+du travail d'une réclamation qui est suspensive. Il y est statué dans un délai fixé par voie réglementaire.
+
+La non-communication au chef d'établissement de la décision du ministre dans le délai prévu à l'alinéa précédent vaut
+acceptation de la réclamation. Tout refus de la part du ministre doit être motivé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L233-7 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R231-71 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-3 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-76 (V)
+
+
+###### Article L233-9
+
+L'acheteur d'un produit visé à l'article L. 231-8 ainsi que l'acheteur ou le locataire d'un matériel visé à l'article L.
+233-6 qui a été livré dans des conditions contraires aux dispositions de ces articles et des textes pris pour leur
+application peut, nonobstant toute clause contraire, dans le délai d'une année à compter du jour de la livraison, demander la
+résolution de la vente ou du bail ; le tribunal qui prononce cette résolution peut en outre accorder des dommages-intérêts à
+l'acheteur ou au locataire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L231-8 (V)
+	  - Code du travail applicable à Mayotte. - art. L233-6 (V)
+
+
+###### Article L233-10
+
+L'expéditeur de tout colis ou objet pesant 1 000 kg ou plus de poids brut destiné à être transporté par mer devra porter, sur
+le colis, l'indication de son poids marquée à l'extérieur de façon claire et durable.
+
+Dans les cas exceptionnels où il est difficile de déterminer le poids exact, le poids marqué pourra être un poids maximum
+établi d'après le volume et la nature du colis.
+
+A défaut de l'expéditeur, cette obligation incombe au mandataire chargé par lui de l'expédition du colis.
+
+Un décret en Conseil d'Etat précise, s'il y a lieu, les conditions matérielles auxquelles doivent satisfaire les marques à
+apposer sur les colis, en exécution du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L251-1 (V)
+
+
+#### CHAPITRE IV : Dispositions particulières aux femmes et aux jeunes salariés
+
+###### Article L234-1
+
+Les chefs d'établissements industriels et commerciaux dans lesquels sont employés des jeunes salariés de moins de dix-huit
+ans doivent veiller au maintien des bonnes moeurs et à l'observation de la décence publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R251-2 (V)
+
+
+###### Article L234-2
+
+Des décrets en Conseil d'Etat déterminent, pour tous les établissements mentionnés à l'article L. 231-1, y compris les mines
+et carrières et leurs dépendances et les entreprises de transports, les différents genres de travaux présentant des causes de
+danger ou excédant les forces, ou dangereux pour la moralité, et qui sont interdits aux jeunes salariés de moins de dix-huit
+ans et aux femmes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L231-1 (V)
+
+
+###### Article L234-3
+
+Dans les établissements qui sont insalubres ou dangereux et où le salarié est exposé à des manipulations ou à des émanations
+préjudiciables à sa santé, les jeunes salariés et les apprentis âgés de moins de dix-huit ans et les femmes ne peuvent être
+employés que dans les conditions spéciales déterminées, pour chacune de ces catégories de salariés, par des décrets en
+Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+
+###### Article L234-4
+
+Le maître ne doit jamais employer l'apprenti à des travaux qui seraient insalubres ou au-dessus de ses forces.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+
+#### CHAPITRE V : Dispositions particulières applicables aux opérations de bâtiment et de génie civil
+
+###### Article L235-1
+
+Lorsque la durée ou le volume prévus des travaux d'une opération de bâtiment ou de génie civil excèdent des seuils fixés par
+décret en Conseil d'Etat, le maître d'ouvrage doit, avant le début des travaux et dans des délais déterminés par ce décret,
+adresser aux services de l'inspection du travail et de prévention de la caisse de sécurité sociale de Mayotte une déclaration
+préalable dont le contenu est précisé par arrêté du ministre chargé du travail. Le texte de cette déclaration doit être
+affiché sur le chantier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D325-1-1 (Ab)
+	  - Code du travail applicable à Mayotte. - art. L235-5 (V)
+	  - Code du travail applicable à Mayotte. - art. L235-7 (V)
+	  - Code du travail applicable à Mayotte. - art. L251-13 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-215 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-222 (V)
+
+
+###### Article L235-2
+
+Une coordination en matière de sécurité et de santé des travailleurs doit être organisée pour tout chantier de bâtiment ou de
+génie civil où sont appelés à intervenir plusieurs travailleurs indépendants ou entreprises, entreprises sous-traitantes
+incluses, aux fins de prévenir les risques résultant de leurs interventions simultanées ou successives et de prévoir,
+lorsqu'elle s'impose, l'utilisation des moyens communs tels que les infrastructures, les moyens logistiques et les
+protections collectives.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-232 (V)
+
+
+###### Article L235-3
+
+La coordination en matière de sécurité et de santé doit être organisée tant au cours de la conception, de l'étude et de
+l'élaboration du projet qu'au cours de la réalisation de l'ouvrage. Le maître d'ouvrage désigne un coordonnateur, qui peut
+être une personne physique ou morale, pour chacune de ces deux phases ou pour l'ensemble de celles-ci.
+
+Toutefois, pour les opérations de bâtiment ou de génie civil entreprises par un particulier pour son usage personnel, celui
+de son conjoint ou de ses ascendants ou descendants, la coordination est assurée :
+
+1° Lorsqu'il s'agit d'opérations soumises à l'obtention d'un permis de construire, par la personne chargée de la maîtrise
+d'oeuvre pendant la phase de conception, d'étude et d'élaboration du projet, et par la personne qui assure effectivement la
+maîtrise du chantier pendant la phase de réalisation de l'ouvrage ;
+
+2° Lorsqu'il s'agit d'opérations non soumises à l'obtention d'un permis de construire, par l'un des entrepreneurs présents
+sur le chantier au cours des travaux.
+
+Les conditions requises pour l'exercice de la fonction de coordonnateur ainsi que les modalités d'attribution de la mission
+de coordination à l'un des entrepreneurs visés au 2° du présent article sont définies par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L235-4 (V)
+	  - Code du travail applicable à Mayotte. - art. L251-13 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-217 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-219 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-230 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-231 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-243 (V)
+
+
+###### Article L235-4
+
+L'intervention du coordonnateur ne modifie ni la nature ni l'étendue des responsabilités qui incombent, en application des
+autres dispositions du présent code, à chacun des participants aux opérations de bâtiment et de génie civil.
+
+Sauf dans les cas prévus aux 1° et 2° de l'article L. 235-3, les dispositions nécessaires pour assurer aux personnes chargées
+d'une mission de coordination, en application de l'article L. 235-3, l'autorité et les moyens indispensables à l'exercice de
+leur mission sont déterminées par voie contractuelle, notamment par les contrats de maîtrise d'oeuvre.
+
+Les modalités de mise en oeuvre de la coordination sont précisées par un décret en Conseil d'Etat qui définit notamment les
+missions imparties au coordonnateur ainsi que la nature, l'étendue et la répartition des obligations qui incombent
+respectivement aux maîtres d'ouvrage, aux coordonnateurs, aux entrepreneurs et aux maîtres d'oeuvre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L235-3 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L251-13 (V)
+
+
+###### Article L235-5
+
+Lorsque plusieurs entreprises sont appelées à intervenir sur un chantier qui soit fait l'objet de la déclaration préalable
+prévue à l'article L. 235-1, soit nécessite l'exécution d'un ou plusieurs des travaux inscrits sur une liste de travaux
+comportant des risques particuliers fixée par arrêté du ministre chargé du travail, le maître d'ouvrage fait établir par le
+coordonnateur un plan général de coordination en matière de sécurité et de protection de la santé qui est rédigé dès la phase
+de conception, d'étude et d'élaboration du projet et tenu à jour pendant toute la durée des travaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L235-1 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L235-6 (V)
+	  - Code du travail applicable à Mayotte. - art. L235-7 (V)
+	  - Code du travail applicable à Mayotte. - art. L235-8 (V)
+	  - Code du travail applicable à Mayotte. - art. L251-13 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-232 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-240 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-241 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-245 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-247 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-248 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-251 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-254 (V)
+
+
+###### Article L235-6
+
+Avant le début des travaux, un plan particulier de sécurité et de protection de la santé est adressé :
+
+1° Au coordonnateur, par chacune des entreprises, y compris les entreprises sous-traitantes, appelées à intervenir à un
+moment quelconque des travaux sur un chantier soumis à l'obligation visée à l'article L. 235-5 ;
+
+2° Au maître d'ouvrage, par toute entreprise appelée à exécuter seule des travaux dont la durée et le volume prévus excèdent
+des seuils fixés par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L235-5 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L235-7 (V)
+	  - Code du travail applicable à Mayotte. - art. L235-8 (V)
+	  - Code du travail applicable à Mayotte. - art. L251-13 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-244 (V)
+
+
+###### Article L235-7
+
+Les obligations prévues aux articles L. 235-1, L. 235-5 et L. 235-6 ne s'appliquent pas aux travaux d'extrême urgence dont
+l'exécution immédiate est nécessaire pour prévenir des accidents graves et imminents ou organiser des mesures de sauvetage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L235-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L235-5 (V)
+	  - Code du travail applicable à Mayotte. - art. L235-6 (V)
+
+
+###### Article L235-8
+
+Un décret en Conseil d'Etat précise les modalités d'application des articles L. 235-5 et L. 235-6, notamment la nature, le
+contenu et les conditions d'établissement et de contrôle des plans mentionnés auxdits articles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L235-5 (V)
+	  - Code du travail applicable à Mayotte. - art. L235-6 (V)
+
+
+###### Article L235-9
+
+Lorsque, sur un même site, plusieurs opérations de bâtiment ou de génie civil doivent être conduites dans le même temps par
+plusieurs maîtres d'ouvrage, ceux-ci sont tenus de se concerter afin de prévenir les risques résultant de l'interférence de
+ces interventions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+
+#### CHAPITRE VI : Protection des salariés dans les établissements qui mettent en oeuvre des courants électriques
+
+###### Article L236-1
+
+Des décrets en Conseil d'Etat pris dans les conditions prévues à l'article L. 231-16 déterminent les mesures particulières de
+protection des salariés contre dans les établissements qui mettent en oeuvre des courants électriques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L231-16 (V)
+
+
+#### CHAPITRE VII : Protection des travailleurs contre les dangers des rayonnements ionisants
+
+###### Article L237-1
+
+Dans les établissements mentionnés à l'article L. 231-1, les dispositions relatives à la protection des travailleurs,
+salariés ou non, contre les risques d'exposition aux rayonnements ionisants sont fixées dans le respect des principes
+généraux de radioprotection des personnes énoncés à l'article L. 1333-1 du code de la santé publique et des obligations
+prévues à l'article L. 1333-10 du même code.
+
+Les modalités d'application aux travailleurs, salariés ou non, des dispositions mentionnées à l'alinéa précédent, et
+notamment les valeurs limites que doivent respecter l'exposition de ces travailleurs, les références d'exposition et les
+niveaux qui leur sont applicables, compte tenu des situations particulières d'exposition, ainsi que les éventuelles
+restrictions ou interdictions concernant les activités, procédés, dispositifs ou substances dangereux pour les travailleurs,
+sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Ordonnance n°2016-128 du 10 février 2016 - art. 42
+	  - Code du travail applicable à Mayotte. - art. L251-1 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L231-1 (V)
+	  - Code de la santé publique - art. L1333-1 (M)
+	  - Code de la santé publique - art. L1333-10 (T)
+
+
+#### CHAPITRE VIII : Comités d'hygiène, de sécurité et des conditions de travail
+
+###### Article L238-1
+
+Des comités d'hygiène, de sécurité et des conditions de travail sont constitués dans les établissements mentionnés à
+l'article L. 231-1 occupant au moins cinquante salariés. L'effectif est calculé suivant les modalités définies à l'article L.
+620-8.
+
+La mise en place d'un comité d'hygiène, de sécurité et des conditions de travail ne s'impose que si l'effectif d'au moins
+cinquante salariés a été atteint pendant douze mois consécutifs ou non au cours des trois années précédentes. A défaut de
+comité d'hygiène, de sécurité et des conditions de travail dans les établissements de cinquante salariés et plus, les
+délégués du personnel de ces établissements ont les mêmes missions et moyens que les membres desdits comités ; ils sont
+également soumis aux mêmes obligations.
+
+Dans les établissements de moins de cinquante salariés, les délégués du personnel sont investis des missions dévolues aux
+membres du comité d'hygiène, de sécurité et des conditions de travail qu'ils exercent dans le cadre des moyens prévus à
+l'article L. 434-1. Ils sont également soumis aux mêmes obligations.
+
+Les entreprises de moins de cinquante salariés peuvent se regrouper sur un plan professionnel ou interprofessionnel en vue de
+la constitution d'un comité d'hygiène, de sécurité et des conditions de travail.
+
+Dans la branche d'activité du bâtiment et des travaux publics, les dispositions du présent article s'appliquent aux
+établissements occupant habituellement au moins cinquante salariés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L231-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L434-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L620-8 (M)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L238-10 (V)
+	  - Code du travail applicable à Mayotte. - art. L432-6 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-8-2 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-8-3 (V)
+	  - Code du travail applicable à Mayotte. - art. R432-3 (V)
+	  - Code du travail applicable à Mayotte. - art. R433-1 (V)
+
+
+###### Article L238-2
+
+Le comité d'hygiène, de sécurité et des conditions de travail a pour mission de contribuer à la protection de la santé
+physique et mentale et de la sécurité des salariés de l'établissement et de ceux mis à sa disposition par une entreprise
+extérieure, ainsi qu'à l'amélioration des conditions de travail, notamment en vue de faciliter l'accès des femmes à tous les
+emplois et de répondre aux problèmes liés à la maternité. Il a également pour mission de veiller à l'observation des
+prescriptions législatives et réglementaires prises en ces matières.
+
+Le comité procède à l'analyse des risques professionnels auxquels peuvent être exposés les salariés de l'établissement ainsi
+qu'à l'analyse des conditions de travail. Il procède également à l'analyse des risques professionnels auxquels peuvent être
+exposées des femmes enceintes.
+
+Le comité procède, à intervalles réguliers, à des inspections dans l'exercice de sa mission, la fréquence de ces inspections
+étant au moins égale à celle des réunions ordinaires du comité. Il effectue des enquêtes en matière d'accidents du travail ou
+de maladies professionnelles ou à caractère professionnel.
+
+Le comité contribue à la promotion de la prévention des risques professionnels dans l'établissement et suscite toute
+initiative qu'il estime utile dans cette perspective. Il peut proposer, à cet effet, des actions de prévention. Si
+l'employeur s'y refuse, il doit motiver sa décision.
+
+Le comité donne son avis sur les documents se rattachant à sa mission, notamment sur le règlement intérieur.
+
+Le comité est consulté avant toute décision d'aménagement important modifiant les conditions d'hygiène et de sécurité ou les
+conditions de travail et, notamment, avant toute transformation importante des postes de travail découlant de la modification
+de l'outillage, d'un changement de produit ou de l'organisation du travail, avant toute modification des cadences et des
+normes de productivité liées ou non à la rémunération du travail.
+
+Le comité est consulté sur le plan d'adaptation prévu au second alinéa de l'article L. 442-5.
+
+Le comité est consulté sur les mesures prises en vue de faciliter la mise, la remise ou le maintien au travail des accidentés
+du travail, des invalides de guerre, des invalides civils et des travailleurs handicapés, notamment sur l'aménagement des
+postes de travail.
+
+Le comité se prononce sur toute question de sa compétence dont il est saisi par le chef d'entreprise ou d'établissement, le
+comité d'entreprise ou d'établissement et les délégués du personnel.
+
+Le comité peut demander à entendre le chef d'un établissement voisin dont l'activité expose les salariés de son ressort à des
+nuisances particulières : il est informé des suites réservées à ses observations.
+
+Le comité fixe les missions qu'il confie à ses membres pour l'accomplissement des tâches prévues aux alinéas ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L238-10 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-8-10 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L442-5 (V)
+
+
+###### Article L238-3
+
+Le comité d'hygiène, de sécurité et des conditions de travail se réunit au moins tous les trimestres à l'initiative du chef
+d'établissement, plus fréquemment en cas de besoin, notamment dans les branches d'activité à haut risque.
+
+Il est également réuni à la suite de tout accident ayant entraîné ou ayant pu entraîner des conséquences graves ou à la
+demande motivée de deux de ses membres représentants du personnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+
+###### Article L238-4
+
+Le comité d'hygiène, de sécurité et des conditions de travail reçoit du chef d'établissement les informations qui lui sont
+nécessaires pour l'exercice de ses missions, ainsi que les moyens nécessaires à la préparation et à l'organisation des
+réunions et aux déplacements imposés par les enquêtes ou inspections.
+
+Les membres du comité sont tenus à une obligation de discrétion à l'égard des informations présentant un caractère
+confidentiel et données comme telles par le chef d'établissement ou son représentant.
+
+Ils sont, en outre, tenus au secret professionnel pour toutes les questions relatives aux procédés de fabrication.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L238-10 (V)
+
+
+###### Article L238-5
+
+Au moins une fois par an, le chef d'établissement présente au comité d'hygiène, de sécurité et des conditions de travail :
+
+a) Un rapport écrit faisant le bilan de la situation générale de l'hygiène, de la sécurité et des conditions de travail dans
+son établissement et concernant les actions qui ont été menées au cours de l'année écoulée dans les domaines de la protection
+de la santé, de la sécurité ainsi que de l'amélioration des conditions de travail des salariés de l'établissement ou de ceux
+mis à sa disposition par une entreprise extérieure ;
+
+b) Un programme annuel de prévention des risques professionnels et d'amélioration des conditions de travail.
+
+Le comité émet un avis sur le rapport et sur le programme ; il peut proposer un ordre de priorité et l'adoption de mesures
+supplémentaires. Cet avis est transmis pour information à l'inspecteur du travail.
+
+Lorsque certaines des mesures prévues par le chef d'établissement ou demandées par le comité n'ont pas été prises au cours de
+l'année concernée par le programme, le chef d'établissement doit énoncer les motifs de cette inexécution, en annexe au
+rapport prévu au deuxième alinéa.
+
+Le chef d'établissement transmet pour information le rapport et le programme au comité d'entreprise accompagnés de l'avis
+formulé par le comité d'hygiène, de sécurité et des conditions de travail.
+
+Le procès-verbal de la réunion du comité d'hygiène, de sécurité et des conditions de travail consacrée à l'examen du rapport
+et du programme est obligatoirement joint à toute demande présentée par le chef d'établissement en vue d'obtenir des marchés
+publics, des participations publiques, des subventions, des primes de toute nature ou des avantages sociaux ou fiscaux.
+
+Dans les entreprises du bâtiment et des travaux publics occupant entre 50 et 299 salariés et n'ayant pas de comité d'hygiène,
+de sécurité et des conditions de travail, les dispositions du présent article sont mises en oeuvre par le comité
+d'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L238-10 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-8-12 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-8-13 (V)
+
+
+###### Article L238-6
+
+Le comité d'hygiène, de sécurité et des conditions de travail comprend le chef d'établissement ou son représentant et une
+délégation du personnel dont les membres sont désignés par un collège constitué par les membres élus du comité d'entreprise
+et les délégués du personnel. Le chef d'établissement transmet à l'inspecteur du travail le procès-verbal de la réunion de ce
+collège.
+
+La composition de cette délégation, compte tenu du nombre de salariés relevant de chaque comité, les autres conditions de
+désignation des représentants du personnel ainsi que la liste des personnes qui assistent avec voix consultative aux séances
+du comité, compte tenu des fonctions qu'elles exercent dans l'établissement, sont fixées par voie réglementaire.
+
+Les contestations relatives à la délégation des représentants du personnel au comité sont de la compétence du tribunal de
+première instance qui statue en dernier ressort. La décision peut être déférée à la Cour de cassation.
+
+Lorsqu'une contestation rend indispensable le recours à une mesure d'instruction, les dépenses afférentes à cette mesure sont
+à la charge de l'Etat.
+
+Le ou les médecins du travail chargés de la surveillance médicale du personnel figurent obligatoirement sur la liste
+mentionnée au deuxième alinéa.
+
+Le comité d'hygiène, de sécurité et des conditions de travail est présidé par le chef d'établissement ou son représentant. Il
+est procédé par le comité à la désignation d'un secrétaire pris parmi les représentants du personnel. L'ordre du jour de
+chaque réunion est établi par le président et le secrétaire et transmis aux membres du comité et à l'inspecteur du travail
+dans des conditions fixées par voie réglementaire. Le comité peut faire appel à titre consultatif et occasionnel au concours
+de toute personne de l'établissement qui lui paraîtrait qualifiée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L238-10 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-8-4 (V)
+	  - Code du travail applicable à Mayotte. - art. R238-8-8 (V)
+
+
+###### Article L238-7
+
+Le chef d'établissement est tenu de laisser à chacun des représentants du personnel au comité d'hygiène, de sécurité et des
+conditions de travail le temps nécessaire à l'exercice de leurs fonctions. Ce temps est au moins égal à deux heures par mois
+dans les établissements occupant jusqu'à 99 salariés, cinq heures par mois dans les établissements occupant de 100 à 299
+salariés, dix heures par mois dans les établissements occupant de 300 à 499 salariés, quinze heures par mois dans les
+établissements occupant de 500 à 1 499 salariés, vingt heures par mois dans les établissements occupant 1 500 salariés et
+plus. Ce temps peut être dépassé en cas de circonstances exceptionnelles.
+
+Les représentants du personnel peuvent répartir entre eux le temps dont ils disposent ; ils en informent le chef
+d'établissement.
+
+Ce temps est de plein droit considéré comme temps de travail et payé à l'échéance normale. En cas de contestation par
+l'employeur de l'usage fait du temps ainsi alloué, il lui appartient de saisir le tribunal de première instance.
+
+Le temps passé aux réunions, aux enquêtes menées après un accident du travail grave ou des incidents répétés ayant révélé un
+risque grave ou une maladie professionnelle ou à caractère professionnel grave, ou à la recherche de mesures préventives dans
+toute situation d'urgence et de gravité, notamment lors de la mise en oeuvre de la procédure prévue à l'article L. 231-12,
+est également payé comme temps de travail effectif et n'est pas déduit des heures prévues au premier alinéa.
+
+L'inspecteur du travail doit être prévenu de toutes les réunions du comité d'hygiène, de sécurité et des conditions de
+travail et peut y assister.
+
+Lors des visites effectuées par l'inspecteur ou le contrôleur du travail, les représentants du personnel au comité d'hygiène,
+de sécurité et des conditions de travail doivent être informés de sa présence par le chef d'établissement et doivent pouvoir
+présenter leurs observations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L231-12 (V)
+
+
+###### Article L238-8
+
+En ce qui concerne ses modalités de fonctionnement et l'organisation de ses travaux, les décisions du comité d'hygiène, de
+sécurité et des conditions de travail sont adoptées selon la procédure définie au troisième alinéa de l'article L. 444-3. Il
+en est de même des résolutions que le comité d'hygiène, de sécurité et des conditions de travail peut être amené à adopter.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L444-3 (V)
+
+
+###### Article L238-9
+
+Les dispositions des articles L. 445-1, L. 445-2 et L. 445-3 sont applicables aux salariés qui siègent ou ont siégé en
+qualité de représentants du personnel dans un comité d'hygiène, de sécurité et des conditions de travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L251-12 (V)
+	  - Code rural - art. L781-53 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L445-1 (MMN)
+	  - Code du travail applicable à Mayotte. - art. L445-2 (V)
+	  - Code du travail applicable à Mayotte. - art. L445-3 (V)
+
+
+###### Article L238-10
+
+Des décrets en Conseil d'Etat fixent les mesures nécessaires à l'application du présent chapitre, notamment des articles L.
+238-1, L. 238-2, L. 238-4, L. 238-5 et L. 238-6. Ils en adaptent les dispositions aux établissements mentionnés à l'article 2
+du titre IV du statut général des fonctionnaires de l'Etat et des collectivités territoriales, aux entreprises ou
+établissements où le personnel est dispersé, ainsi qu'aux entreprises ou établissements opérant sur un même site, dans un
+même immeuble ou un même local.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L238-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L238-2 (V)
+	  - Code du travail applicable à Mayotte. - art. L238-4 (V)
+	  - Code du travail applicable à Mayotte. - art. L238-5 (V)
+	  - Code du travail applicable à Mayotte. - art. L238-6 (V)
+
+
+###### Article L238-11
+
+Les dispositions qui précèdent ne font pas obstacle aux dispositions plus favorables concernant le fonctionnement, la
+composition ou les pouvoirs des comités d'hygiène, de sécurité et des conditions de travail qui résultent d'accords
+collectifs ou d'usages.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+
+#### CHAPITRE IX : Opérations de construction dans l'intérêt de l'hygiène et de la sécurité du travail
+
+###### Article L239-1
+
+Les maîtres d'ouvrage entreprenant la construction ou l'aménagement de bâtiments destinés à l'exercice des activités exercées
+par les personnes et les établissements mentionnées à l'article L. 231-1 sont tenus de se conformer aux dispositions
+législatives et réglementaires prévues dans l'intérêt de l'hygiène et de la sécurité du travail.
+
+Les modalités d'application du présent article sont fixées par les décrets en Conseil d'Etat prévus à l'article L. 231-16.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L231-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L231-16 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L251-10 (V)
+	  - Code du travail applicable à Mayotte. - art. R239-1 (V)
 
 
 ### TITRE IV : SURVEILLANCE MÉDICALE.
@@ -10047,14 +11983,16 @@ au chef d'établissement ou à son préposé que s'il a agi sciemment.
 ###### Article L251-1
 
 Les chefs d'établissements, directeurs, gérants ou préposés qui, par leur faute personnelle, ont enfreint les dispositions
-des chapitres Ier et II du titre III du présent livre et des décrets pris pour leur application sont punis d'une amende de
-3750 euros.
+des chapitres Ier, II, III, VI et VII du titre III et des décrets pris pour leur application, ainsi que les autres personnes
+qui, par leur faute personnelle, ont enfreint les dispositions des articles L. 231-7, L. 231-8, L. 232-2, L. 233-6, L. 233-7
+II, L. 233-10, L. 237-1 et des décrets pris pour leur application sont punis d'une amende de 3 750 Euros.
 
 L'amende est appliquée autant de fois qu'il y a de salariés de l'entreprise concernés par la ou les infractions relevées dans
-le procès-verbal visé aux articles L. 611-9 et L. 611-11.
+le procès-verbal visé aux articles L. 610-9 et L. 610-11.
 
-Conformément à l'article 5 du code pénal, les peines prévues au présent article et à l'article L. 251-5 ne se cumulent pas
-avec celles prévues aux articles 319 et 320 du code pénal.
+Conformément à l'article 132-3 du code pénal, le cumul des peines prévues au présent article et à l'article L. 251-5 avec les
+peines de même nature encourues pour les infractions prévues aux articles 221-6, 222-19 et 222-20 du code pénal ne peut
+dépasser le maximum légal de la peine de même nature la plus élevée qui est encourue.
 
 **Liens relatifs à cet article**
 
@@ -10065,12 +12003,23 @@ avec celles prévues aux articles 319 et 320 du code pénal.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 10 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
-	  - Code pénal 5, 319, 320
-	  - Code du travail applicable à Mayotte L611-9, L611-11, L251-5
+	  - Code pénal - art. 132-3 (V)
+	  - Code pénal - art. 221-6 (M)
+	  - Code pénal - art. 222-19 (M)
+	  - Code pénal - art. 222-20 (M)
+	  - Code du travail applicable à Mayotte. - art. L231-7 (V)
+	  - Code du travail applicable à Mayotte. - art. L231-8 (V)
+	  - Code du travail applicable à Mayotte. - art. L232-2 (V)
+	  - Code du travail applicable à Mayotte. - art. L233-10 (V)
+	  - Code du travail applicable à Mayotte. - art. L233-6 (V)
+	  - Code du travail applicable à Mayotte. - art. L233-7 (V)
+	  - Code du travail applicable à Mayotte. - art. L237-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L610-11 (M)
+	  - Code du travail applicable à Mayotte. - art. L610-9 (M)
 
 	**Cité par**:
 
@@ -10092,10 +12041,10 @@ avec celles prévues aux articles 319 et 320 du code pénal.
 ###### Article L251-2
 
 Lorsqu'une des infractions énumérées à l'alinéa premier de l'article L. 251-1, qui a provoqué la mort ou les blessures dans
-les conditions définies aux articles 319 et 320 du code pénal ou, involontairement, des blessures, coups ou maladies
-n'entraînant pas une incapacité totale de travail personnelle supérieure à trois mois, a été commise par un préposé, le
-tribunal peut, compte tenu des circonstances de fait et des conditions de travail de l'intéressé, décider que le paiement des
-amendes prononcées et des frais de justice sera mis, en totalité ou en partie, à la charge de l'employeur.
+les conditions prévues par les articles 221-6, 222-19 et 222-20 du code pénal ou, involontairement, des blessures, coups ou
+maladies n'entraînant pas une incapacité totale de travail personnelle supérieure à trois mois, a été commise par un préposé,
+le tribunal peut, compte tenu des circonstances de fait et des conditions de travail de l'intéressé, décider que le paiement
+des amendes prononcées et des frais de justice sera mis, en totalité ou en partie, à la charge de l'employeur.
 
 **Liens relatifs à cet article**
 
@@ -10106,11 +12055,13 @@ amendes prononcées et des frais de justice sera mis, en totalité ou en partie,
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 10 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
-	  - Code pénal 319, 320
+	  - Code pénal - art. 221-6 (M)
+	  - Code pénal - art. 222-19 (M)
+	  - Code pénal - art. 222-20 (M)
 	  - Code du travail applicable à Mayotte. - art. L251-1 (M)
 
 	**Cité par**:
@@ -10169,7 +12120,7 @@ les mesures nécessaires à la réalisation du plan arrêté par le juge en vert
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 10 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -10205,7 +12156,8 @@ Le jugement est susceptible d'appel, le tribunal supérieur d'appel statue d'urg
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Ordonnance 2005-44 2005-01-20 art. 10 III, IV JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 10 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -10224,7 +12176,7 @@ Le jugement est susceptible d'appel, le tribunal supérieur d'appel statue d'urg
 
 ###### Article L251-6
 
-Nonobstant les dispositions de l'article L. 230-10, lorsqu'un risque sérieux d'atteinte à l'intégrité physique d'un
+Nonobstant les dispositions de l'article L. 231-3, lorsqu'un risque sérieux d'atteinte à l'intégrité physique d'un
 travailleur résulte de l'inobservation des dispositions du titre III du présent livre ou des textes pris pour leur
 application, le directeur du travail, de l'emploi et de la formation professionnelle saisit le juge des référés pour voir
 ordonner toutes mesures propres à faire cesser ce risque, telles que la mise hors service, l'immobilisation, la saisie des
@@ -10242,14 +12194,17 @@ astreinte qui sera liquidée au profit du Trésor.
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 10 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
 	  - Code du travail applicable à Mayotte. - art. L230-10 (Ab)
 	  - Code du travail applicable à Mayotte. - art. L231-12 (V)
-	  - Code du travail applicable à Mayotte. - art. L231-3 (V)
 	  - Code du travail applicable à Mayotte. - art. L251-7 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L231-3 (V)
 
 
 ###### Article L251-7
@@ -10292,8 +12247,8 @@ Il peut, en cas de récidive, en outre, prononcer contre l'auteur de l'infractio
 maximale de cinq ans, certaines fonctions qu'il énumère soit dans l'entreprise, soit dans une ou plusieurs catégories
 d'entreprises qu'il définit.
 
-La violation de cette interdiction est punie d'une amende de 9000 euros et d'un emprisonnement de deux ans ou de l'une de ces
-peines seulement.
+La violation de cette interdiction est punie d'un an d'emprisonnement et de 9 000 Euros d'amende ou de l'une de ces peines
+seulement.
 
 **Liens relatifs à cet article**
 
@@ -10304,7 +12259,7 @@ peines seulement.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 10 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -10319,7 +12274,7 @@ peines seulement.
 
 ###### Article L251-9
 
-Les articles L. 230-9, L. 230-10 et L. 251-1 à L. 251-8 ne sont pas applicables aux établissements de l'Etat.
+Les articles L. 231-3, L. 231-5 et L. 251-1 à L. 251-8 ne sont pas applicables aux établissements de l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -10329,54 +12284,21 @@ Les articles L. 230-9, L. 230-10 et L. 251-1 à L. 251-8 ne sont pas applicables
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
 	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte L230-9, L230-10, L251-1 à L251-8
-	  - Code du travail applicable à Mayotte. - art. L230-10 (M)
-	  - Code du travail applicable à Mayotte. - art. L230-9 (M)
-
-
-###### Article L251-10
-
-Les peines prévues par le premier alinéa de l'article L. 251-1 et, en cas de récidive, par le premier alinéa de l'article L.
-251-5 sont applicables aux travailleurs indépendants ainsi qu'aux employeurs, lorsqu'ils exercent eux-mêmes une activité sur
-un chantier de bâtiment ou de génie civil, qui n'ont pas mis en oeuvre les obligations qui leur incombent en application de
-l'article L. 230-1-1.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
 
 	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 10 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L230-1-1 (M)
-	  - Code du travail applicable à Mayotte. - art. L251-1 (M)
-	  - Code du travail applicable à Mayotte. - art. L251-5 (M)
-
-	**Anciens textes**:
-
-	  - Code du travail applicable à Mayotte. - art. L251-11 (T)
+	  - Code du travail applicable à Mayotte L231-3, L231-5, L251-1 à L251-8
+	  - Code du travail applicable à Mayotte. - art. L231-3 (V)
+	  - Code du travail applicable à Mayotte. - art. L231-5 (V)
 
 
-###### Article L251-11
+###### Article L251-10
 
 Le maître d'ouvrage qui a fait construire ou aménager un bâtiment en violation des obligations mises à sa charge en
-application des articles L. 230-15 ou L. 230-16 est puni des peines prévues aux articles L. 440-4 et L. 440-5 du code de
-l'urbanisme applicable dans la collectivité départementale de Mayotte.
+application de l'article L. 239-1 est puni des peines prévues aux articles L. 440-4 et L. 440-5 du code de l'urbanisme
+applicable dans la collectivité départementale de Mayotte.
 
 En cas de condamnation, le tribunal statue soit sur la mise en conformité des lieux ou celle des bâtiments avec les
 dispositions législatives ou réglementaires, soit sur la démolition des bâtiments et le rétablissement des lieux dans leur
@@ -10391,29 +12313,26 @@ dispositions législatives ou réglementaires, soit sur la démolition des bâti
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Transféré par**:
-
 	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 10 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L230-15 (M)
-	  - Code du travail applicable à Mayotte. - art. L230-16 (M)
+	  - Code du travail applicable à Mayotte. - art. L239-1 (V)
 	  - Code de l'urbanisme L440-4, L440-5
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du travail applicable à Mayotte. - art. L251-10 (M)
-	  - Code du travail applicable à Mayotte. - art. L251-10 (V)
+	  - Code du travail applicable à Mayotte. - art. L251-11 (M)
+	  - Code du travail applicable à Mayotte. - art. L251-11 (T)
 
 
-###### Article L251-12
+###### Article L251-11
 
-Seront punis des mêmes peines que celles prévues à l'article L. 251-1 les chefs d'établissement, directeurs, gérants ou
-préposés qui, par leur faute personnelle, ont enfreint les dispositions de l'article L. 230-7-1 ou les dispositions prises
-pour leur application.
+Est passible d'un emprisonnement d'un an et d'une amende de 3 750 Euros ou de l'une de ces deux peines seulement l'employeur
+ou son représentant qui ne s'est pas conformé aux mesures prises par l'inspecteur du travail en application du premier alinéa
+de l'article L. 231-15.
+
+En cas de récidive, l'emprisonnement peut être porté à deux ans et l'amende à 7 500 Euros.
 
 **Liens relatifs à cet article**
 
@@ -10424,12 +12343,116 @@ pour leur application.
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 10 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L230-7-1 (M)
-	  - Code du travail applicable à Mayotte. - art. L251-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L231-15 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. L251-10 (V)
+
+
+###### Article L251-12
+
+Quiconque aura porté ou tenté de porter atteinte soit à la constitution, soit à la libre désignation des membres, soit au
+fonctionnement régulier des comités d'hygiène, de sécurité et des conditions de travail, notamment par la méconnaissance des
+dispositions de l'article L. 238-9 et des textes réglementaires pris pour son application, sera puni d'un emprisonnement d'un
+an et d'une amende de 3 750 Euros ou de l'une de ces deux peines seulement.
+
+En cas de récidive, l'emprisonnement peut être porté à deux ans et l'amende à 7 500 Euros.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 10 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L238-9 (V)
+
+
+###### Article L251-13
+
+I. - Est puni d'une amende de 4 500 Euros le maître d'ouvrage qui n'a pas adressé à l'autorité administrative compétente en
+matière d'hygiène et de sécurité du travail la déclaration préalable prévue à l'article L. 235-1.
+
+II. - Est punie d'une amende de 9 000 Euros :
+
+1° Le maître d'ouvrage :
+
+a) Qui n'a pas désigné de coordonnateur en matière de sécurité et de santé, en méconnaissance du premier alinéa de l'article
+L. 235-3, ou qui n'a pas assuré au coordonnateur l'autorité et les moyens indispensables à l'exercice de sa mission, en
+méconnaissance du deuxième alinéa de l'article L. 235-4 ;
+
+b) Qui a désigné un coordonnateur ne répondant pas aux conditions définies en application du dernier alinéa de l'article L.
+235-3 ;
+
+c) Qui n'a pas fait établir le plan général de coordination prévu à l'article L. 235-5 ;
+
+2° L'entrepreneur qui n'a pas remis au maître d'ouvrage ou au coordonnateur le plan particulier de sécurité et de protection
+de la santé des travailleurs prévu à l'article L. 235-6.
+
+III. - En cas de récidive :
+
+1° Le fait prévu au I ci-dessus est puni d'une amende de 9 000 Euros ;
+
+2° Les faits prévus au II ci-dessus sont punis d'un emprisonnement d'un an et d'une amende de 15 000 Euros ou de l'une de ces
+deux peines seulement ; le tribunal peut, en outre, prononcer les peines prévues à l'article L. 251-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 10 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L235-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L235-3 (V)
+	  - Code du travail applicable à Mayotte. - art. L235-4 (V)
+	  - Code du travail applicable à Mayotte. - art. L235-5 (V)
+	  - Code du travail applicable à Mayotte. - art. L235-6 (V)
+	  - Code du travail applicable à Mayotte. - art. L251-8 (M)
+
+
+###### Article L251-14
+
+Sont punis d'une amende de 4 500 Euros les travailleurs indépendants, ainsi que les employeurs lorsqu'ils exercent eux-mêmes
+une activité sur un chantier de bâtiment ou de génie civil, qui n'ont pas mis en oeuvre les obligations qui leur incombent en
+application des articles L. 231-7, L. 231-8, L. 231-16, L. 233-6 et L. 233-7 du présent code. En cas de récidive, ces faits
+sont punis d'une amende de 9 000 Euros.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 10 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L231-16 (V)
+	  - Code du travail applicable à Mayotte. - art. L231-7 (V)
+	  - Code du travail applicable à Mayotte. - art. L231-8 (V)
+	  - Code du travail applicable à Mayotte. - art. L233-6 (V)
+	  - Code du travail applicable à Mayotte. - art. L233-7 (V)
 
 
 #### CHAPITRE II : Surveillance médicale.
@@ -10463,13 +12486,25 @@ tels journaux qu'il désigne, le tout aux frais du délinquant.
 
 ### TITRE Ier : DÉCLARATION DE MOUVEMENTS DE MAIN-D'OEUVRE TRAVAIL CLANDESTIN
 
-#### CHAPITRE Ier : Déclaration de mouvements de main-d'oeuvre.
+#### CHAPITRE Ier : Obligations des employeurs.
 
 ###### Article L311-1
 
-Les établissements dans lesquels toute embauche ou résiliation de contrat de travail doit être portée à la connaissance de
-l'inspection du travail sont définis par arrêté du représentant de l'Etat à Mayotte pris après avis de la commission
-consultative du travail.
+L'embauche d'un salarié ne peut intervenir qu'après la déclaration nominative préalable effectuée par l'employeur auprès de
+l'organisme de protection sociale désigné à cet effet.
+
+Le non-respect de l'obligation de déclaration, constaté par les agents mentionnés à l'article L. 312-5 et les agents agréés à
+cet effet et assermentés de l'organisme de sécurité sociale, entraîne une pénalité dont le montant est égal à trois cents
+fois le taux horaire du salaire minimum interprofessionnel garanti prévu à l'article L. 141-2. Cette pénalité est recouvrée
+par l'organisme de recouvrement des cotisations de sécurité sociale dont relève l'employeur selon les modalités et dans les
+conditions fixées en cas de défaut de production des documents prévus dans le cadre du versement des cotisations d'assurance
+sociale. Cette action est obligatoirement précédée d'un avertissement du directeur de l'organisme chargé du recouvrement,
+remis contre récépissé ou adressé par lettre recommandée, invitant l'employeur à régulariser sa situation dans le mois.
+
+La déclaration d'embauche peut être rectifiée en cas de modification survenue dans l'état civil du salarié. Cette
+rectification est sans effet sur l'exécution du contrat de travail en cours.
+
+Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
 
 **Liens relatifs à cet article**
 
@@ -10480,10 +12515,7 @@ consultative du travail.
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Transféré par**:
-
+	  - Ordonnance 2005-44 2005-01-20 art. 11 I, III JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 11 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
@@ -10501,20 +12533,53 @@ consultative du travail.
 	  - Code du travail applicable à Mayotte. - art. R342-1 (M)
 	  - Code du travail applicable à Mayotte. - art. R342-2 (V)
 
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L141-2 (M)
+	  - Code du travail applicable à Mayotte. - art. L312-5 (M)
+
 	**Nouveaux textes**:
 
 	  - Code du travail applicable à Mayotte. - art. L311-2 (V)
 
 
-#### CHAPITRE II : Travail clandestin.
+###### Article L311-2
+
+Les établissements dans lesquels toute embauche ou résiliation de contrat de travail doit être portée à la connaissance de
+l'inspection du travail sont définis par arrêté du représentant de l'Etat à Mayotte pris après avis de la commission
+consultative du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 11 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. L311-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L311-1 (T)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R311-5 (V)
+	  - Code du travail applicable à Mayotte. - art. R311-6 (V)
+	  - Code du travail applicable à Mayotte. - art. R342-1 (V)
+
+
+#### CHAPITRE II : Travail dissimulé.
 
 ###### Article L312-1
 
-Le travail clandestin est interdit ainsi que la publicité, par quelque moyen que ce soit, tendant à favoriser, en toute
-connaissance de cause, le travail clandestin. Il est également interdit d'avoir recours sciemment aux services d'un
-travailleur clandestin.
-
-Ces interdictions s'appliquent aux activités définies à l'article L. 312-2 ci-dessous.
+Le travail totalement ou partiellement dissimulé, défini et exercé dans les conditions prévues par l'article L. 312-2, est
+interdit ainsi que la publicité, par quelque moyen que ce soit, tendant à favoriser, en toute connaissance de cause, le
+travail dissimulé. Il est également interdit d'avoir recours sciemment, directement ou par personne interposée, aux services
+de celui qui exerce un travail dissimulé.
 
 Toutefois, sont exclus des interdictions ci-dessus les travaux d'urgence dont l'exécution immédiate est nécessaire pour
 prévenir les accidents imminents ou organiser les mesures de sauvetage.
@@ -10546,7 +12611,7 @@ prévenir les accidents imminents ou organiser les mesures de sauvetage.
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 12 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -10555,19 +12620,22 @@ prévenir les accidents imminents ou organiser les mesures de sauvetage.
 
 ###### Article L312-2
 
-Est réputé clandestin l'exercice à but lucratif d'une activité de production, de transformation, de réparation ou de
-prestation de services ou l'accomplissement d'actes de commerce par toute personne physique ou morale qui s'est soustraite
-intentionnellement à l'une quelconque des obligations suivantes :
+Est réputé travail dissimulé par dissimulation d'activité l'exercice à but lucratif d'une activité de production, de
+transformation, de réparation ou de prestation de services ou l'accomplissement d'actes de commerce par toute personne
+physique ou morale qui, se soustrayant intentionnellement à ses obligations :
 
-1° Requérir son immatriculation au répertoire des métiers ou au registre du commerce et des sociétés, lorsque celle-ci est
-obligatoire ;
+a) N'a pas requis son immatriculation au répertoire des métiers ou au registre du commerce et des sociétés, lorsque celle-ci
+est obligatoire, ou a poursuivi son activité après refus d'immatriculation, ou postérieurement à une radiation ;
 
-2° Procéder aux déclarations exigées par les organisations de protection sociale et par l'administration fiscale ;
+b) Ou n'a pas procédé aux déclarations qui doivent être faites aux organismes de protection sociale ou à l'administration
+fiscale au titre de son activité professionnelle, en vertu des dispositions législatives et réglementaires en vigueur.
 
-3° En cas d'emploi de salariés, effectuer au moins deux des formalités prévues aux articles L. 143-3, L. 143-5 et L. 620-3.
+Est réputé travail dissimulé par dissimulation d'emploi salarié le fait, pour tout employeur, de se soustraire
+intentionnellement à l'accomplissement de l'une des formalités prévues aux articles L. 143-3 et L. 311-1.
 
-Il en est de même de la poursuite d'une des activités mentionnées au premier alinéa du présent article après refus
-d'immatriculation au répertoire des métiers ou au registre du commerce et des sociétés ou postérieurement à une radiation.
+La mention sur le bulletin de paie d'un nombre d'heures de travail inférieur à celui réellement effectué constitue, si cette
+mention ne résulte pas d'une convention ou d'un accord conclu en application du chapitre II du titre Ier du livre II du
+présent code, une dissimulation d'emploi salarié.
 
 **Liens relatifs à cet article**
 
@@ -10597,13 +12665,12 @@ d'immatriculation au répertoire des métiers ou au registre du commerce et des 
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 12 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
 	  - Code du travail applicable à Mayotte. - art. L143-3 (M)
-	  - Code du travail applicable à Mayotte. - art. L143-5 (M)
-	  - Code du travail applicable à Mayotte. - art. L620-3 (M)
+	  - Code du travail applicable à Mayotte. - art. L311-1 (M)
 
 
 ###### Article L312-3
@@ -10623,17 +12690,19 @@ facturation est absente ou frauduleuse.
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 12 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article L312-4
 
-Les infractions aux interdictions mentionnées à l'article L. 312-1 sont constatées par les officiers et agents de police
-judiciaire, les agents des services fiscaux et des douanes, les inspecteurs et les contrôleurs du travail au moyen de procès-
-verbaux transmis directement au parquet.
+Le salarié auquel un employeur a eu recours en violation des dispositions de l'article L. 312-2 a droit, en cas de rupture de
+la relation de travail, à une indemnité forfaitaire égale à six mois de salaire, à moins que l'application d'autres règles
+légales ou de stipulations conventionnelles ne conduise à une solution plus favorable.
 
-Pour effectuer cette constatation, les agents précités disposent des pouvoirs d'investigation accordés par les textes
-particuliers qui leur sont applicables.
+Dans des conditions définies par décret, le salarié obtient des agents de contrôle mentionnés à l'article L. 311-1 les
+informations relatives à l'accomplissement par son employeur de la déclaration préalable à l'embauche le concernant. Dans le
+cas où cette formalité n'est pas accomplie par l'employeur, ces agents sont habilités à communiquer au salarié les
+informations relatives à son inscription sur le registre unique du personnel.
 
 **Liens relatifs à cet article**
 
@@ -10644,11 +12713,12 @@ particuliers qui leur sont applicables.
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 12 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L312-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L311-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L312-2 (M)
 
 	**Cité par**:
 
@@ -10657,8 +12727,37 @@ particuliers qui leur sont applicables.
 
 ###### Article L312-5
 
-Les agents des services fiscaux et de la caisse de prévoyance sociale sont habilités à communiquer aux agents de contrôle
-énumérés à l'article L. 312-4 ci-dessus tous renseignements nécessaires à l'accomplissement de leur mission.
+Les infractions aux interdictions mentionnées à l'article L. 312-1 sont recherchées par les officiers et agents de police
+judiciaire, les agents des services fiscaux et des douanes, les agents agréés à cet effet et assermentés des organismes de
+sécurité sociale, les inspecteurs du travail, les contrôleurs du travail et fonctionnaires de contrôle assimilés au sens de
+l'article L. 610-9, les officiers et les agents assermentés des affaires maritimes, les fonctionnaires des corps techniques
+de l'aviation civile commissionnés à cet effet et assermentés, et constatées par ces agents au moyen des procès-verbaux
+transmis directement au parquet. Ces procès-verbaux font foi jusqu'à preuve contraire.
+
+Pour la recherche et la constatation de ces infractions, les agents précités disposent des pouvoirs d'investigation accordés
+par les textes particuliers qui leur sont applicables.
+
+A l'occasion de la mise en oeuvre de ces pouvoirs, ils peuvent se faire présenter et obtenir copie immédiate des documents
+suivants, quels que soient leur forme ou leur support :
+
+a) Les documents justifiant que l'immatriculation, les déclarations et les formalités mentionnées à l'article L. 312-2 ont
+été effectuées ainsi que ceux relatifs à l'autorisation d'exercice de la profession ou à l'agrément lorsqu'une disposition
+particulière les a prévus ;
+
+b) Les documents justifiant que l'entreprise s'est assurée, conformément aux dispositions des articles L. 312-9 et L. 312-10,
+que son ou ses cocontractants se sont acquittés de leurs obligations au regard de l'article L. 312-2 ou, le cas échéant, des
+réglementations d'effet équivalent de leur pays d'origine ;
+
+c) Les devis, les bons de commande ou de travaux, les factures et les contrats ou documents commerciaux relatifs aux
+prestations exécutées en violation des dispositions de l'article L. 312-1.
+
+Les agents cités au premier alinéa sont en outre habilités à entendre, en quelque lieu que ce soit et avec son consentement,
+toute personne rémunérée, ayant été rémunérée ou présumée être ou avoir été rémunérée par l'employeur ou par un travailleur
+indépendant afin de connaître la nature de ses activités, ses conditions d'emploi et le montant des rémunérations s'y
+rapportant, y compris les avantages en nature. Ces auditions peuvent faire l'objet d'un procès-verbal signé par ces agents et
+les intéressés. Ces agents sont en outre habilités à demander aux employeurs, aux travailleurs indépendants, aux personnes
+occupées dans l'entreprise ou sur le lieu de travail ainsi qu'à toute personne dont ils sont amenés à recueillir les
+déclarations dans l'exercice de leur mission de justifier de leur identité et de leur adresse.
 
 **Liens relatifs à cet article**
 
@@ -10669,13 +12768,12 @@ Les agents des services fiscaux et de la caisse de prévoyance sociale sont habi
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 12 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
 	  - Loi n°2015-1702 du 21 décembre 2015 - art. 94
 	  - Code du travail applicable à Mayotte. - art. L311-1 (V)
-	  - Code du travail applicable à Mayotte. - art. L312-10 (V)
 	  - Code du travail applicable à Mayotte. - art. L312-6 (V)
 	  - Code du travail applicable à Mayotte. - art. L312-8 (Ab)
 	  - Code du travail applicable à Mayotte. - art. L313-1 (V)
@@ -10686,23 +12784,26 @@ Les agents des services fiscaux et de la caisse de prévoyance sociale sont habi
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L312-4 (M)
+	  - Code du travail applicable à Mayotte. - art. L312-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L312-10 (V)
+	  - Code du travail applicable à Mayotte. - art. L312-2 (M)
+	  - Code du travail applicable à Mayotte. - art. L312-9 (V)
+	  - Code du travail applicable à Mayotte. - art. L610-9 (M)
 
 
 ###### Article L312-6
 
-Celui qui a été condamné pour avoir recouru aux services d'un travailleur clandestin est tenu solidairement avec celui-ci au
-paiement des impôts, taxes et cotisations dus par ce dernier au Trésor et à la caisse de prévoyance sociale, à raison des
-travaux ou services effectués pour son compte.
+Les fonctionnaires et agents de contrôle visés à l'article L. 312-5 sont habilités à se communiquer réciproquement tous
+renseignements et tous documents nécessaires à l'accomplissement de leur mission de lutte contre le travail dissimulé.
 
-En ce qui concerne les impôts, taxes et cotisations établis annuellement, le paiement exigible en vertu de l'alinéa précédent
-est fixé au prorata de la valeur des travaux ou services exécutés par les travailleurs clandestins.
+Ces fonctionnaires et agents, sur leur demande écrite, obtiennent de la part de l'organisme chargé du régime de protection
+sociale tous renseignements et tous documents utiles à l'accomplissement de cette mission. A la demande écrite de cet
+organisme, ils lui transmettent tous renseignements et tous documents lui permettant de recouvrer des sommes impayées ou
+d'obtenir le remboursement de sommes indûment versées.
 
-Celui qui confie à un entrepreneur inscrit au registre du commerce ou au répertoire des métiers l'exécution d'un certain
-travail ou la fourniture de certains services, alors que cet entrepreneur, ne possédant manifestement pas lui-même les moyens
-pour assurer ces prestations, les sous-traite à son tour à un entrepreneur clandestin, est tenu solidairement avec celui avec
-lequel il a traité et l'entrepreneur clandestin au paiement des salaires et accessoires, impôts, taxes et cotisations dus aux
-salariés, au Trésor et à la caisse de prévoyance sociale à raison des travaux ou services effectués pour son compte.
+Les fonctionnaires et agents de contrôle mentionnés ci-dessus sont habilités, lorsque le siège de l'entreprise est domicilié
+dans des locaux occupés en commun par plusieurs entreprises, à se faire communiquer par l'entreprise domiciliataire tous
+documents détenus dans ses locaux nécessaires à l'accomplissement de leur mission de lutte contre le travail dissimulé.
 
 **Liens relatifs à cet article**
 
@@ -10713,10 +12814,202 @@ salariés, au Trésor et à la caisse de prévoyance sociale à raison des trava
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 12 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L312-5 (M)
 
 
 ###### Article L312-7
+
+Toute personne condamnée pour avoir recouru directement ou par personne interposée aux services de celui qui exerce un
+travail dissimulé est tenue solidairement avec ce dernier :
+
+1° Au paiement des impôts et taxes prévus par le code des impôts applicable localement et des cotisations obligatoires ainsi
+que des pénalités et majorations dus par celui-ci au Trésor et à l'organisme chargé du régime de protection sociale ;
+
+2° Le cas échéant, au remboursement des sommes correspondant au montant des aides publiques dont il a bénéficié ;
+
+3° Au paiement des rémunérations, indemnités et charges dues par celui-ci à raison de l'emploi de salariés n'ayant pas fait
+l'objet de l'une des formalités prévues aux articles L. 143-3 et L. 311-1.
+
+Les sommes dont le paiement est exigible en application des alinéas précédents sont déterminées au prorata de la valeur des
+travaux réalisés, des services fournis, du bien vendu et de la rémunération en vigueur dans la profession.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 12 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L143-3 (M)
+	  - Code du travail applicable à Mayotte. - art. L311-1 (M)
+
+
+###### Article L312-8
+
+Lorsque l'un des agents de contrôle mentionnés à l'article L. 312-5 a constaté par procès-verbal l'existence d'une infraction
+définie aux articles L. 312-1 et L. 312-2 ainsi qu'aux articles L. 124-1 et L. 124-3, l'autorité administrative compétente,
+eu égard à la gravité des faits constatés, à la nature des aides sollicitées et à l'avantage qu'elles procurent à
+l'employeur, peut, pendant une durée maximale de cinq ans, refuser d'accorder les aides publiques à l'emploi ou à la
+formation professionnelle mentionnées par décret à la personne physique ou morale ayant fait l'objet de cette verbalisation,
+sans préjudice des poursuites judiciaires qui pourront être engagées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 12 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-1068 du 25 août 2006 - art. 5 () JORF 26 août 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L124-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L124-3 (M)
+	  - Code du travail applicable à Mayotte. - art. L312-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L312-2 (M)
+	  - Code du travail applicable à Mayotte. - art. L312-5 (M)
+
+
+###### Article L312-9
+
+Toute personne qui ne s'est pas assurée, lors de la conclusion d'un contrat et tous les six mois, jusqu'à la fin de
+l'exécution du contrat, dont l'objet porte sur une obligation d'un montant au moins égal à 3 000 Euros en vue de l'exécution
+d'un travail, de la fourniture d'une prestation de services ou de l'accomplissement d'un acte de commerce, que son
+cocontractant s'acquitte de ses obligations au regard de l'article L. 312-2, ou de l'une d'entre elles seulement, dans le cas
+d'un contrat conclu par un particulier pour son usage personnel, celui de son ou de ses conjoints ou de ses ascendants ou
+descendants, sera tenue solidairement avec celui qui a fait l'objet d'un procès-verbal pour délit de travail dissimulé :
+
+1° Au paiement des impôts et taxes prévus par le code des impôts applicable localement et des cotisations obligatoires ainsi
+que des pénalités et majorations dus par celui-ci au Trésor ou à l'organisme chargé du régime de protection sociale ;
+
+2° Le cas échéant, au remboursement des sommes correspondant au montant des aides publiques dont il a bénéficié ;
+
+3° Au paiement des rémunérations, indemnités et charges dues par lui à raison de l'emploi de salariés n'ayant pas fait
+l'objet de l'une des formalités prévues aux articles L. 143-3 et L. 311-1.
+
+Les sommes dont le paiement est exigible en application des alinéas précédents sont déterminées au prorata de la valeur des
+travaux réalisés, des services fournis, du bien vendu et de la rémunération en vigueur dans la profession.
+
+Les modalités selon lesquelles sont effectuées les vérifications imposées dans le présent article sont précisées par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 12 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L143-3 (M)
+	  - Code du travail applicable à Mayotte. - art. L311-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L312-2 (M)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L312-10 (V)
+	  - Code du travail applicable à Mayotte. - art. L312-5 (V)
+	  - Code du travail applicable à Mayotte. - art. R312-2 (V)
+	  - Code du travail applicable à Mayotte. - art. R312-3 (V)
+	  - Code du travail applicable à Mayotte. - art. R312-4 (V)
+	  - Code du travail applicable à Mayotte. - art. R312-5 (V)
+
+
+###### Article L312-10
+
+Le maître de l'ouvrage ou le donneur d'ouvrage, informé par écrit par un agent mentionné à l'article L. 312-5 ou par un
+syndicat ou une organisation professionnels ou un délégué du personnel, de l'intervention d'un sous-traitant ou d'un
+subdélégataire en situation irrégulière au regard des obligations fixées par l'article L. 312-2, enjoint aussitôt, par lettre
+recommandée avec demande d'avis de réception ou remise contre décharge, à la personne avec laquelle il a contracté de faire
+cesser sans délai la situation. A défaut, il est tenu solidairement avec son cocontractant au paiement des impôts, taxes,
+cotisations, rémunérations et charges mentionnés aux 1°, 2° et 3° de l'article L. 312-9, dans les conditions fixées au
+cinquième alinéa de cet article.
+
+Les dispositions du présent article ne s'appliquent pas au particulier qui contracte pour son usage personnel, celui de son
+ou de ses conjoints, de ses ascendants ou descendants.
+
+Sans préjudice des dispositions de l'article L. 312-9, toute personne morale de droit public ayant contracté avec une
+entreprise, informée par écrit par un agent mentionné à l'article L. 312-5 de la situation irrégulière de cette entreprise au
+regard des obligations fixées par l'article L. 312-2, l'enjoint aussitôt par lettre recommandée avec demande d'avis de
+réception ou remise contre décharge de faire cesser sans délai cette situation.
+
+L'entreprise ainsi mise en demeure doit, dans un délai de quinze jours, apporter à la personne publique la preuve qu'elle a
+mis fin à la situation délictuelle. A défaut, le contrat peut être résilié sans indemnité, aux frais et risques de
+l'entrepreneur.
+
+La personne publique informe l'agent, auteur du signalement, des suites données par l'entreprise à son injonction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 12 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L312-2 (M)
+	  - Code du travail applicable à Mayotte. - art. L312-9 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L312-5 (V)
+
+
+###### Article L312-11
+
+Lorsque le cocontractant intervenant à Mayotte est établi ou domicilié à l'étranger, les obligations dont le respect doit
+être vérifié sont celles qui résultent de la réglementation d'effet équivalent de son pays d'origine et celles qui lui sont
+applicables au titre de son activité à Mayotte.
+
+Lorsque le cocontractant intervenant à Mayotte est établi ou domicilié dans un département de métropole ou d'outre-mer, les
+obligations dont le respect doit être vérifié sont celles qui résultent de la réglementation d'effet équivalent applicable
+dans ces départements et celles qui lui sont applicables au titre de son activité à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 12 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R312-5 (V)
+	  - Code du travail applicable à Mayotte. - art. R312-6 (V)
+	  - Code du travail applicable à Mayotte. - art. R312-7 (V)
+
+
+###### Article L312-12
 
 Un décret en Conseil d'Etat détermine les conditions d'application des dispositions du présent chapitre.
 
@@ -10727,12 +13020,452 @@ Un décret en Conseil d'Etat détermine les conditions d'application des disposi
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 12 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 
 ### TITRE II : Aides à l'emploi, intervention du Fonds national de l'emploi et de la collectivité départementale
+
+#### CHAPITRE PRELIMINAIRE : Licenciement pour motif économique.
+
+###### Article L320-1
+
+Constitue un licenciement pour motif économique le licenciement effectué par un employeur pour un ou plusieurs motifs non
+inhérents à la personne du salarié résultant d'une suppression ou transformation d'emploi ou d'une modification, refusée par
+le salarié, d'un élément essentiel du contrat de travail, consécutives notamment à des difficultés économiques ou à des
+mutations technologiques.
+
+Les dispositions du présent chapitre sont applicables à toute rupture du contrat de travail résultant de l'une des causes
+énoncées à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 13 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L320-3 (V)
+	  - Code du travail applicable à Mayotte. - art. L320-4 (V)
+
+
+###### Article L320-2
+
+Dans les entreprises ou établissements visés à l'article L. 320-5, en cas de licenciement pour motif économique, à défaut de
+convention ou accord collectif de travail applicable, l'employeur définit, après consultation du comité d'entreprise ou, à
+défaut, des délégués du personnel, les critères retenus pour fixer l'ordre des licenciements. Ces critères prennent notamment
+en compte les charges de famille et en particulier celles de parents isolés, l'ancienneté de service dans l'établissement ou
+l'entreprise, la situation des salariés qui présentent des caractéristiques sociales rendant leur réinsertion professionnelle
+particulièrement difficile, notamment des personnes handicapées et des salariés âgés.
+
+La convention et l'accord collectif de travail ou, à défaut, la décision de l'employeur ne peuvent comporter de dispositions
+établissant une priorité de licenciement à raison des seuls avantages à caractère viager dont bénéficie un salarié.
+
+En cas de licenciement individuel pour motif économique, l'employeur doit prendre en compte, dans le choix du salarié
+concerné, les critères prévus à la dernière phrase du premier alinéa ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 13 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L122-28 (V)
+	  - Code du travail applicable à Mayotte. - art. L320-8 (V)
+	  - Code du travail applicable à Mayotte. - art. R122-2 (V)
+	  - Code du travail applicable à Mayotte. - art. R343-1 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L320-5 (MMN)
+
+
+###### Article L320-3
+
+Lorsque l'employeur, pour l'un des motifs énoncés à l'article L. 320-1, envisage une modification d'un élément essentiel du
+contrat de travail, il en informe chaque salarié par lettre recommandée avec accusé de réception.
+
+La lettre de notification informe le salarié qu'il dispose d'un mois à compter de sa réception pour faire connaître son refus
+ou remise en main propre contre décharge.
+
+A défaut de réponse dans le délai d'un mois, le salarié est réputé avoir accepté la modification proposée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 13 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L320-1 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L320-25 (V)
+
+
+###### Article L320-4
+
+Lorsque, pour l'un des motifs énoncés à l'article L. 320-1, l'employeur envisage le licenciement d'au moins dix salariés
+ayant refusé la modification d'un élément essentiel de leur contrat de travail proposé par leur employeur, ces licenciements
+sont soumis aux dispositions applicables en cas de licenciement collectif pour motif économique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 13 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L320-1 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L320-23 (V)
+
+
+###### Article L320-5
+
+Dans les entreprises ou établissements agricoles, industriels ou commerciaux, publics ou privés, dans les offices publics et
+ministériels, les professions libérales, les sociétés civiles, les syndicats professionnels, les associations de quelque
+nature que ce soit, les employeurs qui envisagent de procéder à un licenciement pour motif économique sont tenus :
+
+1° Lorsque le nombre des licenciements pour motif économique envisagés est inférieur à dix dans une même période de trente
+jours, de réunir et de consulter, en cas de licenciement collectif, le comité d'entreprise ou les délégués du personnel
+conformément aux articles L. 432-1 ou L. 442-1 selon le cas ;
+
+2° Lorsque le nombre de licenciements envisagés est au moins égal à dix dans une même période de trente jours, de réunir et
+de consulter le comité d'entreprise ou les délégués du personnel, conformément à l'article L. 320-7 ;
+
+3° Lorsque les licenciements interviennent dans le cadre d'une procédure de sauvegarde ou de redressement ou de liquidation
+judiciaire, de respecter les dispositions de l'article L. 320-9.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L320-2 (V)
+	  - Code du travail applicable à Mayotte. - art. L320-8 (V)
+	  - Code du travail applicable à Mayotte. - art. R320-1 (V)
+	  - Code du travail applicable à Mayotte. - art. R320-6 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L320-7 (V)
+	  - Code du travail applicable à Mayotte. - art. L320-9 (MMN)
+	  - Code du travail applicable à Mayotte. - art. L432-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L442-1 (MMN)
+
+
+###### Article L320-6
+
+Dans les entreprises employant au moins cinquante salariés où le comité d'entreprise n'a pas été mis en place alors qu'aucun
+procès-verbal de carence n'a été établi et dans les entreprises employant au moins onze salariés où aucun délégué du
+personnel n'a été mis en place alors qu'aucun procès-verbal de carence n'a été établi, tout licenciement pour motif
+économique s'effectuant sans que, de ce fait, les obligations d'information, de réunion et de consultation du comité
+d'entreprise ou des délégués du personnel soient respectées est irrégulier. Le salarié ainsi licencié a droit à une indemnité
+qui ne peut être inférieure à un mois de salaire brut, sans préjudice des indemnités de licenciement et de préavis qui lui
+sont par ailleurs dues.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 13 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L320-8 (V)
+	  - Code du travail applicable à Mayotte. - art. R320-1 (V)
+
+
+###### Article L320-7
+
+Dans les entreprises ou établissements visés à l'article L. 320-5 où sont occupés habituellement moins de cinquante salariés,
+les employeurs qui projettent de prononcer un licenciement pour motif économique sont tenus de réunir et de consulter les
+délégués du personnel lorsque le nombre de licenciements envisagés est au moins égal à dix dans une même période de trente
+jours.
+
+Dans les entreprises ou professions mentionnées ci-dessus où sont occupés habituellement au moins cinquante salariés, les
+employeurs qui projettent d'y effectuer un licenciement dans les conditions visées à l'alinéa précédent sont tenus de réunir
+et de consulter le comité d'entreprise. Ils peuvent procéder à ces opérations concomitamment à la mise en oeuvre des
+procédures de consultation prévues par l'article L. 442-1.
+
+Lorsqu'il n'existe pas de comité d'entreprise et notamment lorsque l'inspecteur du travail a été saisi d'un procès-verbal de
+carence dans les conditions prévues par l'article L. 443-11 du présent code, le projet de licenciement collectif est soumis
+aux délégués du personnel.
+
+Dans les entreprises ou établissements visés au premier alinéa du présent article, les délégués du personnel tiennent deux
+réunions séparées par un délai qui ne peut être supérieur à quatorze jours. Dans les entreprises ou établissements et dans
+les professions visées au deuxième alinéa du présent article, le comité d'entreprise tient deux réunions. Les deux réunions
+doivent être séparées par un délai qui ne peut être supérieur à quatorze jours lorsque le nombre des licenciements est
+inférieur à cent, à vingt et un jours lorsque le nombre des licenciements est au moins égal à cent et inférieur à deux cent
+cinquante, et à vingt-huit jours lorsque le nombre des licenciements est au moins égal à deux cent cinquante, sans préjudice
+des dispositions plus favorables prévues par conventions ou accords collectifs de travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 13 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L320-11 (V)
+	  - Code du travail applicable à Mayotte. - art. L320-5 (V)
+	  - Code du travail applicable à Mayotte. - art. L320-9 (V)
+	  - Code du travail applicable à Mayotte. - art. R445-2 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L442-1 (MMN)
+	  - Code du travail applicable à Mayotte. - art. L443-11 (M)
+
+
+###### Article L320-8
+
+L'employeur est tenu d'adresser aux représentants du personnel, avec la convocation aux réunions prévues à l'article L.
+320-5, tous renseignements utiles sur le projet de licenciement collectif.
+
+Il doit, en tous cas, indiquer :
+
+La ou les raisons économiques, financières ou techniques du projet de licenciement ;
+
+Le nombre de travailleurs dont le licenciement est envisagé ;
+
+Les catégories professionnelles concernées et les critères proposés pour l'ordre des licenciements visé à l'article L.
+320-2 ;
+
+Le nombre de travailleurs, permanents ou non, employés dans l'établissement, et le calendrier prévisionnel des licenciements.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 13 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L320-2 (V)
+	  - Code du travail applicable à Mayotte. - art. L320-5 (MMN)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L320-9 (V)
+
+
+###### Article L320-9
+
+En cas de procédure de sauvegarde ou de redressement ou de liquidation judiciaire, l'administrateur ou, à défaut, l'employeur
+ou le liquidateur, suivant les cas, qui envisage des licenciements économiques doit réunir et consulter le comité
+d'entreprise ou, à défaut, les délégués du personnel dans les conditions prévues aux premier, deuxième et troisième alinéas
+de l'article L. 320-7 et aux articles L. 320-8, L. 432-1, cinquième et sixième alinéa, et L. 442-1, troisième alinéa.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L320-10 (V)
+	  - Code du travail applicable à Mayotte. - art. L320-11 (V)
+	  - Code du travail applicable à Mayotte. - art. L320-5 (V)
+	  - Code du travail applicable à Mayotte. - art. L320-57 (V)
+	  - Code du travail applicable à Mayotte. - art. R445-2 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L320-7 (V)
+	  - Code du travail applicable à Mayotte. - art. L320-8 (V)
+	  - Code du travail applicable à Mayotte. - art. L432-1 (V)
+
+
+###### Article L320-10
+
+Des décrets en Conseil d'Etat peuvent fixer les mesures d'adaptation nécessaires à l'application des dispositions du présent
+chapitre dans les entreprises qui sont tenues de constituer un comité d'entreprise ou des organismes qui en tiennent lieu en
+vertu soit de dispositions législatives ou réglementaires autres que celles qui figurent au présent code, soit de
+stipulations conventionnelles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 13 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D320-7 (V)
+	  - Code du travail applicable à Mayotte. - art. R320-12 (V)
+
+
+###### Article L320-11
+
+Sera puni d'une amende de 3 750 Euros, prononcée autant de fois qu'il y a de salariés concernés par l'infraction, l'employeur
+qui aura effectué un licenciement sans avoir procédé aux consultations prévues à l'article L. 320-7.
+
+Est passible des mêmes peines l'employeur, l'administrateur ou le liquidateur qui n'aura pas observé les dispositions prévues
+à l'article L. 320-9.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 13 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L320-7 (V)
+	  - Code du travail applicable à Mayotte. - art. L320-9 (MMN)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R320-3 (V)
+
+
+###### Article L320-12
+
+Ne sont pas soumis aux dispositions du présent chapitre les licenciements qui, à la fin d'un chantier, revêtent un caractère
+normal selon la pratique habituelle et l'exercice régulier de la profession considérée, sauf dérogations déterminées par
+convention ou accord collectif.
+
+Ces licenciements sont soumis aux dispositions de la section 2, chapitre II, du titre II du livre Ier du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 13 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+
+###### Article L320-13
+
+Le salarié licencié pour motif économique bénéficie d'une priorité de réembauchage durant un délai d'un an à compter de la
+date de rupture de son contrat s'il manifeste le désir d'user de cette priorité au cours de cette année. Dans ce cas,
+l'employeur l'informe de tout emploi devenu disponible et compatible avec sa qualification. En outre, l'employeur est tenu
+d'informer les représentants du personnel des postes disponibles et d'afficher la liste de ces postes. Le salarié ayant
+acquis une nouvelle qualification bénéficie également de la priorité de réembauchage au titre de celle-ci, s'il en informe
+l'employeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 13 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L122-28 (V)
+
+
+###### Article L320-14
+
+Les organisations syndicales représentatives au sens de l'article L. 412-3 peuvent exercer en justice toutes actions qui
+naissent des dispositions légales, réglementaires ou conventionnelles régissant le licenciement pour motif économique d'un
+salarié, sans avoir à justifier d'un mandat de l'intéressé. Celui-ci doit avoir été averti par lettre recommandée avec accusé
+de réception et ne s'y être pas opposé dans un délai de quinze jours à compter de la date à laquelle l'organisation syndicale
+lui a notifié son intention. A l'issue de ce délai, l'organisation syndicale avertit l'employeur par lettre recommandée avec
+accusé de réception de son intention d'ester en justice. Le salarié peut toujours intervenir à l'instance engagée par le
+syndicat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 13 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 12 (V)
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 13 (V)
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 9 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L412-3 (M)
+
 
 #### CHAPITRE Ier : Généralités.
 
@@ -10826,6 +13559,32 @@ protection sociale des stagiaires.
 
 	  - Code du travail applicable à Mayotte. - art. L326-10 (V)
 	  - Code du travail applicable à Mayotte. - art. R721-10 (V)
+
+
+###### Article L321-5
+
+La gestion ou la mise en oeuvre d'actions financées par le fonds pour l'emploi mentionné à l'article L. 325-9 dans le domaine
+de la formation professionnelle et de l'emploi à Mayotte peuvent être confiées par l'Etat, par le moyen de conventions, au
+Centre national pour l'aménagement des structures des exploitations agricoles (CNASEA).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 14 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L312-6 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L325-9 (V)
 
 
 #### CHAPITRE II : Dispositions relatives au contrat emploi-solidarité.
@@ -11363,193 +14122,6 @@ minimum de salariés.
 	**Abrogé par**:
 
 	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 4 (V)
-
-
-###### Article L324-6
-
-Afin de promouvoir le développement d'activités créatrices d'emplois pour les jeunes répondant à des besoins émergents ou non
-satisfaits et présentant un caractère d'utilité sociale, notamment dans les domaines des activités sportives, culturelles,
-éducatives, d'environnement et de proximité, l'Etat peut, en concertation avec les partenaires locaux, conclure avec les
-collectivités territoriales et leurs établissements publics, les autres personnes morales de droit public, les organismes de
-droit privé à but non lucratif et les personnes morales chargées de la gestion d'un service public des conventions
-pluriannuelles prévoyant l'attribution d'aides pour la mise en oeuvre de projets d'activités répondant aux exigences d'un
-cahier des charges comportant notamment les conditions prévisibles de la pérennisation des activités et les dispositions de
-nature à assurer la professionnalisation des emplois.
-
-Ces conventions peuvent être également conclues avec des groupements constitués sous la forme d'associations déclarées de la
-loi du 1er juillet 1901.
-
-Ces conventions ne peuvent s'appliquer aux services rendus aux personnes physiques à leur domicile. Toutefois, elles peuvent
-s'appliquer aux activités favorisant le développement et l'animation de services aux personnes répondant à des besoins
-émergents ou non satisfaits.
-
-Lorsqu'elles sont conclues avec une personne morale de droit public, elles ne peuvent s'appliquer qu'à des activités non
-assurées jusqu'alors par celle-ci. Les collectivités territoriales et leurs établissements publics peuvent conclure ces
-conventions pour les emplois autres que ceux relevant de leurs compétences traditionnelles.
-
-Les projets de développement d'activités présentés par les personnes morales de droit privé à but lucratif chargées de la
-gestion d'un service public ne peuvent faire l'objet d'une convention, sauf si les activités proposées ne sont pas assurées à
-la date de la demande et entrent dans le cadre de la mission de service public qui leur a été confiée.
-
-Les délégués du personnel, lorsqu'ils existent, et les comités techniques paritaires sont informés sur les conventions
-conclues en application du présent article.
-
-Les conventions comportent des dispositions relatives aux objectifs de qualification, aux conditions de la formation
-professionnelle et, selon les besoins, aux modalités du tutorat. Les collectivités territoriales ainsi que, le cas échéant,
-d'autres personnes morales peuvent participer à l'effort de formation.
-
-Le contenu et la durée des conventions, les conditions dans lesquelles leur exécution est suivie et contrôlée ainsi que les
-modalités de dénonciation de la convention en cas de non-respect de celle-ci sont déterminés par décret.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Créé par**:
-
-	  - Ordonnance n°2002-242 du 21 février 2002 - art. 1 () JORF 23 février 2002
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 15 (V) JORF 22 janvier 2005 en vigueur le 1er janvier 2006
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. L324-7 (V)
-	  - Code du travail applicable à Mayotte. - art. L324-8 (Ab)
-	  - Code du travail applicable à Mayotte. - art. L324-9 (V)
-
-	**Cite**:
-
-	  - Loi n°1901-07-01
-
-
-###### Article L324-7
-
-Les aides attribuées par l'Etat en application des conventions mentionnées à l'article L. 324-6 ont pour objet de permettre
-l'accès à l'emploi de jeunes âgés de dix-huit à moins de trente ans lors de leur embauche, inscrits comme demandeurs d'emploi
-ou titulaires d'un des contrats de travail visés aux articles L. 322-1, L. 322-7 et L. 325-6.
-
-Pour chaque poste de travail créé en vertu d'une telle convention et occupé par une personne répondant aux conditions prévues
-à l'alinéa précédent, l'Etat verse à l'organisme employeur une aide forfaitaire dont le montant et la durée sont fixés par
-décret. L'organisme employeur peut verser une rémunération supérieure au salaire minimum interprofessionnel garanti. Ces
-dispositions sont prévues dans la convention. L'Etat peut prendre en charge tout ou partie des coûts d'étude des projets
-mentionnés à l'article L. 324-6.
-
-Ces aides ne donnent lieu à aucune charge fiscale ou parafiscale.
-
-Elles ne peuvent se cumuler, pour un même poste de travail, avec une autre aide de l'Etat à l'emploi, avec une exonération
-totale ou partielle des cotisations patronales de sécurité sociale ou avec l'application de taux spécifiques, d'assiettes ou
-de montants forfaitaires de cotisations de sécurité sociale.
-
-Elles ne peuvent être accordées lorsque l'embauche est en rapport avec la fin du contrat de travail d'un salarié, quel qu'en
-soit le motif.
-
-Le décret mentionné au deuxième alinéa du présent article précise les conditions d'attribution et de versement des aides de
-l'Etat.
-
-L'employeur peut recevoir, pour la part de financement restant à sa charge, des cofinancements provenant notamment des
-collectivités territoriales, des établissements publics locaux ou territoriaux ainsi que de toute autre personne morale de
-droit public ou de droit privé.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Créé par**:
-
-	  - Ordonnance n°2002-242 du 21 février 2002 - art. 1 () JORF 23 février 2002
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 15 (V) JORF 22 janvier 2005 en vigueur le 1er janvier 2006
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L322-1 (M)
-	  - Code du travail applicable à Mayotte. - art. L322-7 (M)
-	  - Code du travail applicable à Mayotte. - art. L324-6 (Ab)
-	  - Code du travail applicable à Mayotte. - art. L325-6 (V)
-
-
-###### Article L324-8
-
-I. - Les contrats de travail conclus en vertu des conventions mentionnées à l'article L. 324-6 sont des contrats de droit
-privé établis par écrit. Ils sont conclus pour la durée légale du travail ou pour la durée collective inférieure applicable à
-l'organisme employeur. Ils peuvent être conclus à temps partiel, à condition que la durée du travail soit au moins égale à un
-mi-temps, et sur dérogation accordée par le représentant de l'Etat signataire de la convention, lorsque la nature de l'emploi
-ou le volume de l'activité ne permettent pas l'emploi d'un salarié à temps plein.
-
-Lorsqu'ils sont pérennisés, les emplois pour lesquels ces contrats ont été conclus sont intégrés dans les grilles de
-classification des conventions ou accords collectifs dont relève l'activité lorsque ces conventions ou accords existent.
-
-Ils peuvent être à durée indéterminée ou à durée déterminée en application du 1° de l'article L. 122-1-1. Toutefois, les
-collectivités territoriales et les autres personnes morales de droit public, à l'exclusion des établissements publics à
-caractère industriel et commercial, ne peuvent conclure que des contrats à durée déterminée.
-
-Les contrats mentionnés au présent article ne peuvent être conclus par les services de l'Etat.
-
-II. - Les contrats de travail à durée déterminée mentionnés au I sont conclus pour une durée de soixante mois.
-
-Ils comportent une période d'essai d'un mois renouvelable une fois.
-
-Sans préjudice de l'application du premier alinéa de l'article L. 122-10, ils peuvent être rompus à l'expiration de chacune
-des périodes annuelles de leur exécution à l'initiative du salarié, moyennant le respect d'un préavis de deux semaines, ou de
-l'employeur, s'il justifie d'une cause réelle et sérieuse.
-
-Dans ce dernier cas, les dispositions des articles L. 122-19, L. 122-27 et L. 122-28 sont applicables. En outre, l'employeur
-qui décide de rompre le contrat du salarié pour une cause réelle et sérieuse doit notifier cette rupture par lettre
-recommandée avec demande d'avis de réception. Cette lettre ne peut être expédiée au salarié moins d'un jour franc après la
-date fixée pour l'entretien préalable prévu à l'article L. 122-27. La date de présentation de la lettre recommandée fixe le
-point de départ du délai-congé prévu par l'article L. 122-19.
-
-En cas de rupture avant terme d'un contrat à durée déterminée conclu en vertu des conventions mentionnées à l'article L.
-324-6, les employeurs peuvent conclure, pour le même poste, un nouveau contrat à durée déterminée dont la durée sera égale à
-la durée de versement de l'aide de l'Etat restant à courir pour le poste considéré. Les dispositions des alinéas précédents
-s'appliquent à ce nouveau contrat.
-
-Par dérogation aux dispositions du deuxième alinéa de l'article L. 122-10, la méconnaissance par l'employeur des dispositions
-relatives à la rupture du contrat de travail prévues aux troisième et quatrième alinéas du présent II ouvre droit pour le
-salarié à des dommages et intérêts correspondant au préjudice subi. Il en est de même lorsque la rupture du contrat
-intervient suite au non-respect de la convention ayant entraîné sa dénonciation.
-
-III. - A l'initiative du salarié, les contrats mentionnés au I peuvent être suspendus avec l'accord de l'employeur afin de
-lui permettre d'effectuer la période d'essai afférente à une offre d'emploi. En cas d'embauche à l'issue de cette période
-d'essai, les contrats précités sont rompus sans préavis.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Créé par**:
-
-	  - Ordonnance n°2002-242 du 21 février 2002 - art. 1 () JORF 23 février 2002
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 15 (V) JORF 22 janvier 2005 en vigueur le 1er janvier 2006
-
-	**Cité par**:
-
-	  - Décret n°2016-1122 du 11 août 2016 - art. 7 (V)
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L122-1-1 (M)
-	  - Code du travail applicable à Mayotte. - art. L122-10 (M)
-	  - Code du travail applicable à Mayotte. - art. L122-19 (M)
-	  - Code du travail applicable à Mayotte. - art. L122-27 (M)
-	  - Code du travail applicable à Mayotte. - art. L122-28 (M)
-	  - Code du travail applicable à Mayotte. - art. L324-6 (Ab)
 
 
 ###### Article L324-9
@@ -12286,7 +14858,7 @@ les mêmes conditions, la validité de ses titres de séjour et de travail.
 ###### Article L326-9
 
 Un décret en Conseil d'Etat fixe en tant que de besoin les modalités d'application du présent chapitre, et notamment les
-obligations et sanctions pesant sur les personnes inscrites sur la liste prévue à l'article L. 326-1.
+obligations et sanctions pesant sur les personnes inscrites sur la liste prévue à l'article L. 326-7.
 
 **Liens relatifs à cet article**
 
@@ -12295,17 +14867,17 @@ obligations et sanctions pesant sur les personnes inscrites sur la liste prévue
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-660 du 21 juillet 2003 - art. 15 (V) JORF 22 juillet 2003
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L326-1 (T)
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 16 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 	**Anciens textes**:
 
 	  - Code du travail applicable à Mayotte. - art. L326-3 (T)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L326-7 (V)
 
 	**Cité par**:
 
@@ -12660,11 +15232,9 @@ Les modalités, de mise en oeuvre du présent article sont fixées par décret e
 
 ###### Article L330-1
 
-Un étranger ne peut exercer une activité professionnelle salariée dans la collectivité départementale de Mayotte sans avoir
-obtenu au préalable une autorisation de travail.
-
-Cette autorisation est délivrée par le représentant de l'Etat dans des conditions qui sont fixées par décret en Conseil
-d'Etat.
+Les dispositions du présent titre sont applicables sous réserve des stipulations des traités, conventions ou accords
+régulièrement ratifiés ou approuvés et publiés, et notamment des traités instituant les communautés européennes ainsi que des
+dispositions des actes des autorités de ces communautés pris pour l'application desdits traités.
 
 **Liens relatifs à cet article**
 
@@ -12675,7 +15245,7 @@ d'Etat.
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 17 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -12684,8 +15254,9 @@ d'Etat.
 
 ###### Article L330-2
 
-Dans la collectivité départementale de Mayotte, il est interdit à toute personne d'engager ou de conserver à son service un
-étranger non muni d'une autorisation de travail délivrée par le représentant de l'Etat.
+Pour entrer à Mayotte en vue d'y exercer une profession salariée, l'étranger doit présenter, outre les documents et visas
+exigés par les conventions internationales et les règlements en vigueur, un contrat de travail visé par l'autorité
+administrative ou une autorisation de travail et un certificat médical.
 
 **Liens relatifs à cet article**
 
@@ -12696,7 +15267,7 @@ Dans la collectivité départementale de Mayotte, il est interdit à toute perso
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 17 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -12708,6 +15279,261 @@ Dans la collectivité départementale de Mayotte, il est interdit à toute perso
 
 
 ###### Article L330-3
+
+Un étranger ne peut exercer une activité professionnelle salariée à Mayotte sans avoir obtenu au préalable l'autorisation
+mentionnée à l'article L. 330-2.
+
+Cette autorisation est délivrée par le représentant de l'Etat dans des conditions qui sont fixées par un décret en Conseil
+d'Etat, sous réserve des dispositions applicables en vertu des troisième, quatrième et cinquième alinéas du présent article.
+
+L'autorisation de travail peut être délivrée à un étranger qui demande l'attribution de la carte de séjour temporaire sous la
+forme de la mention "salarié", de la mention "scientifique" ou, sur présentation d'un contrat de travail d'une durée
+supérieure à trois mois, de la mention "profession artistique et culturelle" apposée sur cette carte. Elle habilite cet
+étranger à exercer à Mayotte les activités professionnelles indiquées sur cette carte.
+
+L'autorisation de travail peut être délivrée à un étranger qui demande l'attribution de la carte de séjour temporaire sous la
+forme de la mention "liens personnels et familiaux" ou de la mention "vie privée et familiale". Elle lui confère le droit
+d'exercer à Mayotte toute activité professionnelle de son choix dans le cadre de la législation en vigueur.
+
+L'autorisation de travail peut être délivrée à un étranger sous la forme d'une carte de résident qui lui confère le droit
+d'exercer à Mayotte toute activité professionnelle salariée de son choix dans le cadre de la législation en vigueur.
+
+Une autorisation provisoire de travail peut être délivrée dans des conditions fixées par décret en Conseil d'Etat à
+l'étranger qui ne peut prétendre ni à la carte de séjour temporaire portant une des mentions énoncées aux troisième et
+quatrième alinéas, ni à la carte de résident.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Cité par**:
+
+	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 30 (VT)
+	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 13 (M)
+	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 15 (M)
+	  - Code du travail applicable à Mayotte. - art. R326-41 (V)
+	  - Code du travail applicable à Mayotte. - art. R330-6 (T)
+	  - Code du travail applicable à Mayotte. - art. R330-7 (T)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 17 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. L330-11 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L330-2 (M)
+
+
+###### Article L330-4
+
+Sous réserve des stipulations plus favorables du contrat de travail, lorsqu'une entreprise non établie à Mayotte y effectue
+une prestation de services, elle soumet les salariés qu'elle y détache temporairement aux dispositions législatives et
+réglementaires applicables aux salariés employés par les entreprises exerçant la même activité établies à Mayotte, en matière
+de sécurité sociale, de rémunérations, de durée et de conditions de travail, dans les limites et selon des modalités
+déterminées par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 17 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Ordonnance n°2016-160 du 18 février 2016 - art. 1 (V)
+	  - Loi n°2016-274 du 7 mars 2016 - art. 61
+	  - Code du travail applicable à Mayotte. - art. L342-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L342-2 (M)
+
+
+###### Article L330-5
+
+Nul ne peut, directement ou par personne interposée, engager, conserver à son service ou employer pour quelque durée que ce
+soit un étranger non muni du titre l'autorisant à exercer une activité salariée à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Cité par**:
+
+	  - Loi n°97-210 du 11 mars 1997 - art. 31 (V)
+	  - Décret n°99-752 du 30 août 1999 - art. 22-1 (VT)
+	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 22 (VT)
+	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 15 (M)
+	  - Décret n°2001-635 du 17 juillet 2001 - art. 34-1 (Ab)
+	  - Ordonnance n°2005-649 du 6 juin 2005 - art. 42-1 (V)
+	  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 92 (VD)
+	  - Décret n°2015-1693 du 17 décembre 2015 - art. 4
+	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 61 (VD)
+	  - Code des transports - art. R3521-2 (V)
+	  - Code du travail applicable à Mayotte. - art. L313-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L342-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L342-2 (V)
+	  - Code du travail applicable à Mayotte. - art. L610-11 (V)
+	  - Code du travail applicable à Mayotte. - art. L610-15 (V)
+	  - Code du travail applicable à Mayotte. - art. R330-14 (V)
+	  - Code du travail applicable à Mayotte. - art. R330-15 (V)
+	  - Code du travail applicable à Mayotte. - art. R330-16 (V)
+	  - Code général des collectivités territoriales - art. L1751-1-1 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 17 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+
+###### Article L330-6
+
+L'étranger employé en violation des dispositions de l'alinéa premier de l'article L. 330-5 est assimilé, à compter de la date
+de son embauchage, à un travailleur régulièrement engagé en ce qui concerne les obligations de l'employeur relatives à la
+réglementation du travail définie au livre II du présent code, ainsi qu'à la prise en compte de l'ancienneté dans
+l'entreprise.
+
+En ce qui concerne les avantages pécuniaires, cet étranger a droit au titre de la période d'emploi illicite :
+
+1° Au paiement du salaire et des accessoires de celui-ci conformément aux dispositions législatives ou réglementaires et aux
+stipulations contractuelles applicables à son emploi, déduction faite des sommes antérieurement perçues au titre de la
+période considérée ;
+
+2° En cas de rupture de la relation de travail, à une indemnité forfaitaire égale à un mois de salaire à moins que
+l'application des règles figurant aux articles L. 122-10, deuxième alinéa, L. 122-21 et L. 122-22 ou des stipulations
+contractuelles correspondantes ne conduise à une solution plus favorable.
+
+Le tribunal du travail saisi peut ordonner par provision le versement de l'indemnité forfaitaire visée à l'alinéa précédent.
+
+Ces dernières dispositions ne font pas obstacle au droit du salarié de demander en justice une indemnisation supplémentaire
+s'il est en mesure d'établir l'existence d'un préjudice non réparé au titre desdites dispositions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 17 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L330-7 (V)
+	  - Code du travail applicable à Mayotte. - art. R330-12 (V)
+	  - Code du travail applicable à Mayotte. - art. R330-13 (V)
+	  - Code du travail applicable à Mayotte. - art. R330-15 (V)
+
+
+###### Article L330-7
+
+Les organisations syndicales représentatives au sens de l'article L. 412-3 peuvent exercer en justice les actions nées en
+faveur des travailleurs étrangers en vertu des dispositions de l'article L. 330-6, sans avoir à justifier d'un mandat de
+l'intéressé, à condition que celui-ci n'ait pas déclaré s'y opposer. L'intéressé peut toujours intervenir à l'instance
+engagée par le syndicat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 17 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 12 (V)
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 13 (V)
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 9 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L330-6 (V)
+	  - Code du travail applicable à Mayotte. - art. L412-3 (M)
+
+
+###### Article L330-8
+
+Les associations régulièrement constituées depuis cinq ans au moins pour la lutte contre les discriminations peuvent saisir
+les organisations syndicales représentatives pour leur demander d'exercer devant toutes les juridictions tous les droits
+réservés à la partie civile pour toutes les infractions relatives à l'emploi de la main-d'oeuvre étrangère.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 17 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+
+###### Article L330-9
+
+Les agents de contrôle visés aux articles L. 610-1 et L. 610-15 sont habilités à se communiquer tous renseignements et tous
+documents relatifs aux dispositions du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 17 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-1068 du 25 août 2006 - art. 5 () JORF 26 août 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L610-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L610-15 (V)
+
+
+###### Article L330-10
+
+Nul ne peut se faire remettre ou tenter de se faire remettre, de manière occasionnelle ou renouvelée, des fonds, des valeurs
+ou des biens mobiliers en vue ou à l'occasion de l'introduction à Mayotte d'un travailleur étranger ou de son embauchage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 17 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L342-3 (V)
+
+
+###### Article L330-11
 
 Est puni d'une amende l'étranger qui exerce une activité professionnelle salariée sans avoir obtenu au préalable une
 autorisation de travail. Le montant maximum de l'amende est égal à vingt-cinq fois le taux horaire du salaire minimum
@@ -12738,77 +15564,32 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Cité par**:
-
-	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 30 (VT)
-	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 13 (M)
-	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 15 (M)
-	  - Code du travail applicable à Mayotte. - art. R326-41 (V)
-	  - Code du travail applicable à Mayotte. - art. R330-6 (T)
-	  - Code du travail applicable à Mayotte. - art. R330-7 (T)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Transféré par**:
+	**Créé par**:
 
 	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 17 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du travail applicable à Mayotte. - art. L330-11 (M)
-	  - Code du travail applicable à Mayotte. - art. L330-11 (V)
-
-
-###### Article L330-4
-
-Nul ne peut se faire remettre ou tenter de se faire remettre, de manière occasionnelle ou renouvelée, des fonds, des valeurs
-ou des biens mobiliers en vue ou à l'occasion de l'introduction dans la collectivité départementale d'un travailleur étranger
-ou de son embauchage.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Code du travail applicable à Mayotte. - art. L330-3 (M)
+	  - Code du travail applicable à Mayotte. - art. L330-3 (T)
 
 	**Cité par**:
 
-	  - Ordonnance n°2016-160 du 18 février 2016 - art. 1 (V)
-	  - Loi n°2016-274 du 7 mars 2016 - art. 61
-	  - Code du travail applicable à Mayotte. - art. L342-1 (M)
-	  - Code du travail applicable à Mayotte. - art. L342-2 (M)
+	  - Code du travail applicable à Mayotte. - art. R330-8 (V)
+	  - Code du travail applicable à Mayotte. - art. R330-9 (V)
 
 
 ### TITRE IV : PÉNALITÉS
 
-#### CHAPITRE Ier : Travail clandestin.
+#### CHAPITRE Ier : Travail dissimulé.
 
 ###### Article L341-1
 
-Toute infraction aux interdictions définies à l'article L. 312-1 sera punie d'un emprisonnement de deux mois à trois ans et
-d'une amende de 300 euros à 45 000 euros ou de l'une de ces deux peines seulement. Dans tous les cas, le tribunal pourra
-ordonner que le jugement de condamnation soit publié intégralement ou par extraits dans les journaux qu'il désignera et
-affiché dans les lieux qu'il indiquera pendant une durée de quinze jours, le tout aux frais du condamné, sans toutefois que
-les frais de cette publication puissent dépasser le maximum de l'amende encourue. Le tribunal pourra également prononcer la
-confiscation des outils, machines, matériaux, véhicules utilisés ou stockés qui ont servi à commettre l'infraction ou ont été
-utilisés à cette occasion.
+Toute infraction aux interdictions définies à l'article L. 312-1 est punie de trois ans d'emprisonnement et de 45 000 Euros
+d'amende.
 
-En outre, le tribunal pourra prononcer la confiscation des objets sur lesquels aura porté le travail clandestin.
-
-Le tribunal pourra prononcer à l'encontre de la personne condamnée l'exclusion des marchés publics pour une durée de cinq ans
-au plus.
-
-En cas de récidive, les peines d'emprisonnement et d'amende peuvent être portées au double.
-
-Toutefois, en cas de travail clandestin d'un mineur soumis à l'obligation scolaire, les peines encourues sont de cinq ans
-d'emprisonnement et de 75000 euros d'amende.
+Toutefois, en cas d'emploi dissimulé d'un mineur soumis à l'obligation scolaire, les peines encourues sont de cinq ans
+d'emprisonnement et de 75 000 Euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -12819,7 +15600,7 @@ d'emprisonnement et de 75000 euros d'amende.
 
 	**Modifié par**:
 
-	  - Loi n°2004-1 du 2 janvier 2004 - art. 8 () JORF 3 janvier 2004
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 18 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -12832,24 +15613,107 @@ d'emprisonnement et de 75000 euros d'amende.
 	  - Code du travail applicable à Mayotte. - art. L341-4 (V)
 
 
+###### Article L341-2
+
+Les personnes physiques coupables de l'infraction prévue à l'article L. 341-1 encourent également les peines complémentaires
+suivantes :
+
+1° L'interdiction, pour une durée de cinq ans au plus, d'exercer, directement ou par personne interposée, l'activité
+professionnelle dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise selon les modalités
+prévues par l'article 131-27 du code pénal ;
+
+2° L'exclusion des marchés publics pour une durée de cinq ans au plus ;
+
+3° La confiscation des objets ayant servi directement ou indirectement à commettre l'infraction ou qui ont été utilisés à
+cette occasion, ainsi que de ceux qui en sont le produit et qui appartiennent au condamné ;
+
+4° L'affichage ou la diffusion de la décision prononcée, dans les conditions prévues par l'article 131-35 du code pénal ;
+
+5° L'interdiction, suivant les modalités prévues par l'article 131-26 du code pénal, des droits civiques, civils et de
+famille.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 18 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code pénal - art. 131-26 (V)
+	  - Code pénal - art. 131-27 (V)
+	  - Code pénal - art. 131-35 (M)
+	  - Code du travail applicable à Mayotte. - art. L341-1 (M)
+
+
+###### Article L341-3
+
+L'interdiction du territoire de la République française peut être prononcée dans les conditions prévues par l'article 131-30
+du code pénal pour une durée de cinq ans au plus à l'encontre de tout étranger coupable de l'infraction définie à l'article
+L. 341-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 18 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code pénal - art. 131-30 (MMN)
+	  - Code du travail applicable à Mayotte. - art. L341-1 (M)
+
+
+###### Article L341-4
+
+Les personnes morales peuvent être déclarées pénalement responsables, dans les conditions prévues par l'article 121-2 du code
+pénal, de l'infraction définie à l'article L. 341-1.
+
+Les peines encourues par les personnes morales sont :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
+
+2° Les peines mentionnées aux 1° à 5°, 8° et 9° de l'article 131-39 du même code.
+
+L'interdiction visée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle
+l'infraction a été commise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 18 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
+	  - Code du travail applicable à Mayotte. - art. L341-1 (M)
+
+
 #### CHAPITRE II : Main-d'oeuvre étrangère.
 
 ###### Article L342-1
 
-I. - Toute infraction aux dispositions de l'article L. 330-2 est punie de cinq ans d'emprisonnement et de 15 000 Euros
-d'amende.
-
-Ces peines sont portées à dix ans d'emprisonnement et à 100 000 Euros d'amende lorsque l'infraction est commise en bande
-organisée.
-
-L'amende est appliquée autant de fois qu'il y a d'étrangers concernés.
-
-II. - Toute infraction aux dispositions de l'article L. 330-4 est punie d'un emprisonnement de deux mois à deux ans et d'une
-amende de 300 Euros à 3 000 Euros ou l'une de ces deux peines seulement.
-
-L'amende est appliquée autant de fois qu'il y a d'étrangers concernés.
-
-En cas de récidive, les peines d'emprisonnement et d'amende peuvent être portées au double.
+Sans préjudice des peines résultant de l'application d'autres lois, le fait de se rendre coupable de fraude ou de fausse
+déclaration pour obtenir, faire obtenir ou tenter de faire obtenir à un étranger le titre visé à l'article L. 330-5 est puni
+d'un an d'emprisonnement et de 3 750 Euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -12860,12 +15724,11 @@ En cas de récidive, les peines d'emprisonnement et d'amende peuvent être port�
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-1253 du 24 novembre 2004 - art. 142 () JORF 25 novembre 2004
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 19 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L330-2 (M)
-	  - Code du travail applicable à Mayotte. - art. L330-4 (M)
+	  - Code du travail applicable à Mayotte. - art. L330-5 (M)
 
 	**Cité par**:
 
@@ -12875,19 +15738,12 @@ En cas de récidive, les peines d'emprisonnement et d'amende peuvent être port�
 
 ###### Article L342-2
 
-I. - En cas de condamnation pour les faits prévus aux articles L. 330-2 et L. 330-4, le tribunal peut ordonner, aux frais de
-la personne condamnée, l'affichage du jugement aux portes des établissements de l'entreprise et sa publication dans les
-journaux qu'il désigne. Il peut également prononcer l'interdiction de séjour pour une durée de cinq ans au plus.
+Toute infraction aux dispositions de l'article L. 330-5 est punie de cinq ans d'emprisonnement et de 15 000 Euros d'amende.
 
-II. - En cas de condamnation pour les faits prévus à l'article L. 330-4, le tribunal peut également prononcer la confiscation
-de tout ou partie des outils, machines, matériaux, véhicules, embarcations, navires ou aéronefs utilisés ou stockés à
-l'occasion de l'infraction ou qui auront servi à la commettre, ainsi que du produit du travail effectué par les étrangers
-dépourvus de l'autorisation visée à l'article L. 330-1. Le tribunal devra désigner les objets sur lesquels portera la
-confiscation.
+Ces peines sont portées à dix ans d'emprisonnement et à 100 000 Euros d'amende lorsque l'infraction est commise en bande
+organisée.
 
-III. - Il peut également prononcer, pour les personnes condamnées au titre de l'infraction visée au deuxième alinéa du I de
-l'article L. 342-1, la confiscation de tout ou partie de leurs biens, quelle qu'en soit la nature, meubles ou immeubles,
-divis ou indivis.
+L'amende est appliquée autant de fois qu'il y a d'étrangers concernés.
 
 **Liens relatifs à cet article**
 
@@ -12905,22 +15761,16 @@ divis ou indivis.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-1253 du 24 novembre 2004 - art. 142 () JORF 25 novembre 2004
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 19 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L330-1 (M)
-	  - Code du travail applicable à Mayotte. - art. L330-2 (M)
-	  - Code du travail applicable à Mayotte. - art. L330-4 (M)
-	  - Code du travail applicable à Mayotte. - art. L342-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L330-5 (M)
 
 
-#### Chapitre III : Mesures pour l'emploi et indemnisation du chômage
+###### Article L342-3
 
-###### Article L343-1
-
-Est passible d'une amende de 3 750 Euros quiconque aura fait de fausses déclarations ou fourni de fausses informations pour
-être inscrit ou demeurer inscrit sur la liste mentionnée à l'article L. 326-1.
+Toute infraction aux dispositions de l'article L. 330-10 est punie de trois ans d'emprisonnement et de 45 000 Euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -12931,11 +15781,158 @@ Est passible d'une amende de 3 750 Euros quiconque aura fait de fausses déclara
 
 	**Créé par**:
 
-	  - Ordonnance n°2002-242 du 21 février 2002 - art. 6 () JORF 23 février 2002
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 19 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L326-1 (T)
+	  - Code du travail applicable à Mayotte. - art. L330-10 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L342-4 (V)
+	  - Code du travail applicable à Mayotte. - art. L342-5 (V)
+
+
+###### Article L342-4
+
+Les personnes physiques coupables des infractions prévues aux articles L. 342-2 et L. 342-3 encourent également les peines
+complémentaires suivantes :
+
+1° L'interdiction, pour une durée de cinq ans au plus, d'exercer, directement ou par personne interposée, l'activité
+professionnelle dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, selon les modalités
+prévues par l'article 131-27 du code pénal ;
+
+2° L'exclusion des marchés publics pour une durée de cinq ans au plus ;
+
+3° La confiscation des objets ayant servi, directement ou indirectement, à commettre l'infraction ou qui ont été utilisés à
+cette occasion à quelque personne qu'ils appartiennent dès lors que leur propriétaire ne pouvait en ignorer l'utilisation
+frauduleuse ainsi que celle des objets qui sont le produit de l'infraction et qui appartiennent au condamné ;
+
+4° L'affichage ou la diffusion de la décision prononcée, dans les conditions prévues par l'article 131-35 du code pénal ;
+
+5° L'interdiction, suivant les modalités prévues par l'article 131-26 du code pénal, des droits civiques, civils et de la
+famille ;
+
+6° L'interdiction de séjour pour une durée de cinq ans au plus.
+
+Les personnes physiques coupables des infractions prévues à l'article L. 342-2 encourent, en outre, la fermeture des locaux
+ou établissements tenus ou exploités par elles et ayant servi à commettre les faits incriminés.
+
+Les personnes physiques condamnées au titre de l'infraction visée au deuxième alinéa de l'article L. 342-2 encourent la peine
+complémentaire de confiscation de tout ou partie de leurs biens, quelle qu'en soit la nature, meubles ou immeubles, divis ou
+indivis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 19 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code pénal - art. 131-26 (V)
+	  - Code pénal - art. 131-27 (V)
+	  - Code pénal - art. 131-35 (M)
+	  - Code du travail applicable à Mayotte. - art. L342-2 (M)
+	  - Code du travail applicable à Mayotte. - art. L342-3 (V)
+
+
+###### Article L342-5
+
+L'interdiction du territoire de la République française peut être prononcée, dans les conditions prévues par les articles
+131-30 à 131-30-2 du code pénal, pour une durée de dix ans au plus ou à titre définitif à l'encontre de tout étranger
+coupable des infractions définies aux articles L. 342-2 et L. 342-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 19 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code pénal 131-30 à 131-30-2
+	  - Code du travail applicable à Mayotte. - art. L342-2 (M)
+	  - Code du travail applicable à Mayotte. - art. L342-3 (V)
+
+
+###### Article L342-6
+
+Les personnes morales peuvent être déclarées pénalement responsables, dans les conditions prévues par l'article 121-2 du code
+pénal, des infractions prévues au présent chapitre, à l'exception de l'article L. 342-1.
+
+Les peines encourues par les personnes morales sont :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
+
+2° Les peines mentionnées aux 2°, pour une durée de cinq ans au plus, 3°, 4°, 5°, 8° et 9° de l'article 131-39 du code pénal.
+
+L'interdiction visée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle
+l'infraction a été commise.
+
+Les personnes morales condamnées au titre de l'infraction visée au deuxième alinéa de l'article L. 342-2 encourent la peine
+complémentaire de confiscation de tout ou partie de leurs biens, quelle qu'en soit la nature, meubles ou immeubles, divis ou
+indivis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Cité par**:
+
+	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 29-2 (VT)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 19 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
+	  - Code du travail applicable à Mayotte. - art. L342-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L342-2 (M)
+
+
+#### Chapitre III : Mesures pour l'emploi et indemnisation du chômage
+
+###### Article L343-1
+
+Est passible d'une amende de 3 750 Euros quiconque aura fait de fausses déclarations ou fourni de fausses informations pour
+être inscrit ou demeurer inscrit sur la liste mentionnée à l'article L. 326-7.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 16 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 7
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L326-7
 
 
 ###### Article L343-2
@@ -13823,73 +16820,897 @@ Elle se réunit au moins deux fois par an.
 	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-### TITRE III : PÉNALITÉS.
-
-###### Article L430-1
-
-Les directeurs ou administrateurs de syndicats ou d'unions de syndicats qui auront commis des infractions aux dispositions de
-l'article L. 411-1 seront punis d'une amende de 3750 euros. La dissolution du syndicat ou de l'union de syndicats pourra, en
-outre, être prononcée à la diligence du procureur de la République.
-
-En cas de fausse déclaration relative aux statuts et aux noms et qualités des directeurs ou administrateurs, l'amende sera de
-3750 euros.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Transféré par**:
-
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 21 (V) JORF 22 janvier 2005 en vigueur le 1er janvier 2006
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L411-1 (M)
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. L450-1 (V)
-
-
-###### Article L430-2
-
-Les chefs d'établissement, directeurs ou gérants qui auront enfreint les dispositions des articles L. 412-2 et L. 413-2
-seront passibles d'une amende de 3750 euros et, en cas de récidive, d'un emprisonnement d'un an et d'une amende de 7500 euros
-ou de l'une de ces deux peines seulement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Transféré par**:
-
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 21 (V) JORF 22 janvier 2005 en vigueur le 1er janvier 2006
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L412-2 (M)
-	  - Code du travail applicable à Mayotte. - art. L413-2 (M)
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. L450-2 (V)
-
-
 ### TITRE III : LES DÉLÉGUÉS DU PERSONNEL
+
+#### CHAPITRE Ier : Champ d'application.
+
+###### Article L431-1
+
+Le personnel élit des délégués dans tous les établissements industriels, commerciaux ou agricoles, les offices publics et
+ministériels, les professions libérales, les sociétés civiles, les syndicats professionnels, les sociétés mutualistes, les
+organismes de sécurité sociale, à l'exception de ceux qui ont le caractère d'établissement public administratif, et les
+associations ou tout organisme de droit privé, quels que soient leur forme et leur objet, où sont occupés au moins onze
+salariés.
+
+La mise en place des délégués du personnel n'est obligatoire que si l'effectif d'au moins onze salariés est atteint pendant
+douze mois, consécutifs ou non, au cours des trois années précédentes.
+
+A l'expiration du mandat des délégués du personnel, l'institution n'est pas renouvelée si les effectifs de l'établissement
+sont restés en dessous de onze salariés pendant au moins douze mois. Dans ce cas, le renouvellement intervient dès que les
+conditions d'effectifs prévues à l'alinéa précédent sont à nouveau remplies, la période de trois ans étant calculée à partir
+de la fin du dernier mandat des délégués du personnel.
+
+Dans les établissements employant moins de onze salariés, des délégués du personnel peuvent être institués par voie
+conventionnelle.
+
+Les dispositions du présent titre sont applicables aux établissements publics à caractère industriel et commercial et aux
+établissements publics déterminés par décret qui assurent tout à la fois une mission de service public à caractère
+administratif et à caractère industriel et commercial, lorsqu'ils emploient du personnel dans les conditions du droit privé.
+Toutefois, ces dispositions peuvent, compte tenu des caractères particuliers de certains de ces établissements et des
+organismes de représentation du personnel éventuellement existants, faire l'objet d'adaptations sous réserve d'assurer les
+mêmes garanties aux salariés de ces établissements. Ces adaptations résultent de décrets en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 22 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L433-16 (V)
+
+
+###### Article L431-2
+
+Les effectifs sont déterminés conformément aux dispositions de l'article L. 620-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 22 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L620-8 (M)
+
+
+#### CHAPITRE II : Attributions et pouvoirs.
+
+###### Article L432-1
+
+Les délégués du personnel ont pour mission :
+
+a) De présenter aux employeurs toutes les réclamations individuelles ou collectives relatives aux salaires, à l'application
+du code du travail et des autres lois et règlements concernant la protection sociale, l'hygiène et la sécurité, ainsi que des
+conventions et accords collectifs de travail applicables dans l'entreprise ;
+
+b) De saisir l'inspection du travail de toutes les plaintes et observations relatives à l'application des prescriptions
+législatives et réglementaires dont elle est chargée d'assurer le contrôle.
+
+c) De proposer toutes mesures utiles en cas d'accidents ou de maladies professionnelles.
+
+Dans les entreprises comportant moins de cinquante salariés, les délégués du personnel doivent être réunis et consultés par
+l'employeur qui envisage de procéder à un licenciement collectif pour motif économique. Le procès-verbal de cette réunion est
+transmis à l'autorité administrative compétente.
+
+Lorsque le nombre de licenciements envisagés est au moins égal à dix dans une même période de trente jours, la consultation
+visée à l'alinéa précédent a lieu dans les formes prévues au chapitre préliminaire du titre II du livre III du présent code.
+
+L'inspecteur du travail doit se faire accompagner dans ses visites par le délégué compétent, si ce dernier le désire.
+
+Les salariés conservent le droit de présenter eux-mêmes leurs observations à l'employeur ou à ses représentants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 22 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L320-5 (V)
+	  - Code du travail applicable à Mayotte. - art. L320-9 (V)
+
+
+###### Article L432-2
+
+Si un délégué du personnel constate, notamment par l'intermédiaire d'un salarié, qu'il existe une atteinte aux droits des
+personnes, à leur santé physique et mentale ou aux libertés individuelles dans l'entreprise qui ne serait pas justifiée par
+la nature de la tâche à accomplir ni proportionnée au but recherché, il en saisit immédiatement l'employeur. Cette atteinte
+aux droits des personnes, à leur santé physique et mentale ou aux libertés individuelles peut notamment résulter de toute
+mesure discriminatoire en matière d'embauche, de rémunération, de formation, de reclassement, d'affectation, de
+classification, de qualification, de promotion professionnelle, de mutation, de renouvellement de contrat, de sanction ou de
+licenciement.
+
+L'employeur ou son représentant est tenu de procéder sans délai à une enquête avec le délégué et de prendre les dispositions
+nécessaires pour remédier à cette situation.
+
+En cas de carence de l'employeur ou de divergence sur la réalité de cette atteinte et à défaut de solution trouvée avec
+l'employeur, le salarié, ou le délégué si le salarié concerné averti par écrit ne s'y oppose pas, saisit le tribunal du
+travail qui statue selon les formes applicables au référé.
+
+Le juge peut ordonner toutes mesures propres à faire cesser cette atteinte et assortir sa décision d'une astreinte qui sera
+liquidée au profit du Trésor.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 22 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+
+###### Article L432-3
+
+Lorsqu'il existe un comité d'entreprise, les délégués du personnel ont qualité pour lui communiquer les suggestions et
+observations du personnel sur toutes les questions entrant dans la compétence du comité.
+
+Il en est de même quand il existe un comité d'hygiène, de sécurité et des conditions de travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 22 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+
+###### Article L432-4
+
+Dans les cas prévus à l'article L. 441-4, les délégués du personnel exercent collectivement les attributions économiques des
+comités d'entreprise qui sont définies aux articles L. 442-1 à L. 442-13.
+
+Les informations sont communiquées et les consultations ont lieu au cours de la réunion mensuelle prévue à l'article L.
+434-4.
+
+Il est établi un procès-verbal concernant les questions économiques examinées. Ce procès-verbal est adopté après
+modifications éventuelles lors de la réunion suivante et peut être affiché après accord entre les délégués du personnel et
+l'employeur.
+
+Dans l'exercice des attributions économiques, les délégués du personnel sont tenus au respect des dispositions de l'article
+L. 442-16.
+
+Les délégués du personnel peuvent avoir recours aux experts rémunérés par le chef d'entreprise dans les conditions prévues à
+l'article L. 444-5.
+
+Le budget de fonctionnement dont le montant est déterminé à l'article L. 444-7 est géré conjointement par l'employeur et les
+délégués du personnel.
+
+Les délégués du personnel bénéficient de la formation économique dans les conditions prévues à l'article L. 444-9.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 22 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte L441-4, L442-1 à L442-13, L434-4, L442-16, L444-5, L444-7, L444-9
+	  - Code du travail applicable à Mayotte. - art. L434-4 (V)
+	  - Code du travail applicable à Mayotte. - art. L441-4 (V)
+	  - Code du travail applicable à Mayotte. - art. L442-16 (V)
+	  - Code du travail applicable à Mayotte. - art. L444-5 (V)
+	  - Code du travail applicable à Mayotte. - art. L444-7 (V)
+	  - Code du travail applicable à Mayotte. - art. L444-9 (V)
+
+
+###### Article L432-5
+
+Dans les cas visés à l'article L. 441-4 et pour l'exercice des attributions du comité d'entreprise prévues à l'article L.
+442-13, les délégués du personnel peuvent demander des explications dans les mêmes conditions que le comité d'entreprise.
+
+Cette demande est inscrite de droit à l'ordre du jour de la première réunion entre les délégués du personnel et l'employeur
+suivant la demande. Il est établi, à cette occasion, un procès-verbal.
+
+S'ils n'ont pu obtenir de réponse suffisante de l'employeur ou si celle-ci révèle le caractère préoccupant de la situation
+économique de l'entreprise, les délégués du personnel, après avoir pris l'avis d'un expert-comptable dans les conditions
+prévues à l'article L. 444-5 et du commissaire aux comptes, s'il en existe un, peuvent :
+
+1° Dans les sociétés à conseil d'administration ou à conseil de surveillance ainsi que dans les autres personnes morales
+dotées d'un organe collégial, saisir de la situation l'organe chargé de l'administration ou de la surveillance dans les
+conditions prévues au III de l'article L. 442-13 ;
+
+2° Dans les autres formes de sociétés ou dans les groupements d'intérêt économique, décider que doivent être informés de la
+situation les associés ou les membres du groupement, auxquels le gérant ou les administrateurs sont tenus de communiquer les
+demandes d'explication des délégués.
+
+L'avis de l'expert-comptable est joint à la saisine ou à l'information mentionnées ci-dessus.
+
+Les informations concernant l'entreprise communiquées en application du présent article ont par nature un caractère
+confidentiel. Toute personne qui y a accès en application de ce même article est tenue à leur égard à une obligation de
+discrétion.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 22 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L441-4 (V)
+	  - Code du travail applicable à Mayotte. - art. L442-13 (V)
+	  - Code du travail applicable à Mayotte. - art. L444-5 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R432-1 (V)
+
+
+###### Article L432-6
+
+En l'absence de comité d'entreprise, les délégués du personnel peuvent communiquer à leur employeur toutes les suggestions
+tendant à l'amélioration du rendement et de l'organisation générale de l'entreprise. Ils assurent, en outre, conjointement
+avec le chef d'entreprise le fonctionnement de toutes les institutions sociales de l'établissement quelles qu'en soient la
+forme et la nature. De plus, ils sont consultés sur les mesures prises en vue de faciliter la mise ou la remise au travail
+des travailleurs handicapés.
+
+S'il n'existe pas de comité d'hygiène, de sécurité et des conditions de travail, les délégués du personnel exercent les
+missions attribuées à ce comité dans les conditions prévues aux deuxième et quatrième alinéas de l'article L. 238-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 22 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L238-1 (V)
+
+
+#### CHAPITRE III : Composition et élections.
+
+###### Article L433-1
+
+Le nombre des délégués du personnel est déterminé selon des bases fixées par voie réglementaire compte tenu du nombre des
+salariés. Il est élu autant de délégués suppléants que de titulaires. Le calcul des effectifs s'effectue dans les conditions
+prévues à l'article L. 620-8 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 22 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L620-8 (M)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R433-1 (V)
+
+
+###### Article L433-2
+
+Les délégués sont élus d'une part par les ouvriers et employés, d'autre part, par les ingénieurs, chefs de service,
+techniciens, agents de maîtrise et assimilés sur les listes établies par les organisations syndicales représentatives au sein
+de chaque établissement pour chaque catégorie de personnel.
+
+Tout syndicat affilié à une organisation représentative sur le plan national ou reconnu représentatif à Mayotte en
+application de l'article L. 412-3 est considéré comme représentatif dans l'entreprise pour l'application du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 22 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 12 (V)
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 9 (V)
+	  - Code du travail applicable à Mayotte. - art. L433-3 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L412-3 (M)
+
+
+###### Article L433-3
+
+Le nombre et la composition des collèges électoraux ne peuvent être modifiés par une convention, un accord collectif de
+travail, étendus ou non, ou un accord préélectoral que lorsque la convention ou l'accord est signé par toutes les
+organisations syndicales représentatives existant dans l'entreprise. L'accord préélectoral est obligatoirement transmis à
+l'inspecteur du travail.
+
+La répartition du personnel dans les collèges électoraux et la répartition des sièges entre les différentes catégories font
+l'objet d'un accord entre le chef d'entreprise ou son représentant et les organisations syndicales intéressées.
+
+Dans le cas où cet accord ne peut être obtenu, l'inspecteur du travail procède à cette répartition entre les collèges
+électoraux conformément à l'alinéa premier ou, à défaut, en application de l'article L. 433-2.
+
+A l'occasion de l'élaboration du protocole d'accord préélectoral visé ci-dessus, les organisations syndicales intéressées
+examinent les voies et moyens en vue d'atteindre une représentation équilibrée des femmes et des hommes sur les listes de
+candidatures.
+
+Au cas où le juge de première instance, saisi préalablement aux élections, décide la mise en place d'un dispositif de
+contrôle de leur régularité, de la liberté et de la sincérité du scrutin, les frais entraînés par ces mesures sont à la
+charge de l'employeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 22 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L433-2 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R433-4 (V)
+	  - Code du travail applicable à Mayotte. - art. R433-6 (V)
+
+
+###### Article L433-4
+
+La perte de la qualité d'établissement distinct reconnue par décision judiciaire emporte la cessation des fonctions des
+délégués du personnel sauf accord contraire conclu entre le chef d'entreprise et les organisations syndicales représentatives
+dans l'entreprise permettant aux délégués du personnel d'achever leur mandat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 22 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+
+###### Article L433-5
+
+Des dispositions sont prises par accord de l'employeur et des organisations syndicales concernées pour faciliter, s'il y a
+lieu, la représentation des salariés travaillant en équipes successives ou dans des conditions qui les isolent de l'ensemble
+des autres salariés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 22 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+
+###### Article L433-6
+
+Dans les établissements ne dépassant pas vingt-cinq salariés et n'élisant qu'un délégué titulaire et un délégué suppléant,
+les délégués du personnel sont élus par un collège électoral unique regroupant l'ensemble des catégories professionnelles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 22 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+
+###### Article L433-7
+
+Sont électeurs les salariés des deux sexes âgés de seize ans accomplis, ayant travaillé trois mois au moins dans
+l'entreprise.
+
+Toutefois, ne doivent pas être inscrites sur les listes électorales :
+
+1° Les personnes condamnées pour les délits de vol, escroquerie, recel, abus de confiance, agressions sexuelles, soustraction
+commise par un dépositaire de l'autorité publique, faux témoignage, corruption et trafic d'influence, faux et pour les délits
+punis des peines du vol, de l'escroquerie et de l'abus de confiance ;
+
+2° Les personnes auxquelles les tribunaux ont interdit le droit de vote et d'élection par application des lois qui autorisent
+cette interdiction, pendant le délai fixé par le jugement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 22 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+
+###### Article L433-8
+
+Sont éligibles, à l'exception des conjoints, ascendants, descendants, frères, soeurs et alliés au même degré du chef
+d'entreprise, les électeurs âgés de dix-huit ans accomplis et ayant travaillé dans l'entreprise sans interruption depuis un
+an au moins.
+
+Les salariés occupant un emploi à temps partiel simultanément dans plusieurs entreprises ne sont éligibles que dans l'une de
+ces entreprises ; ils choisissent celle où ils font acte de candidature.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 22 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+
+###### Article L433-9
+
+Il n'y a pas d'incompatibilité entre les fonctions de délégué du personnel et celles de membre du comité d'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 22 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+
+###### Article L433-10
+
+L'inspecteur du travail peut, après avoir consulté les organisations syndicales représentatives au sens de l'article L.
+412-3, autoriser des dérogations aux conditions d'ancienneté pour l'électorat, notamment dans le cas où leur application
+aurait pour effet de réduire à moins des deux tiers de l'effectif le nombre de salariés remplissant ces conditions.
+
+Il peut également, après avoir consulté les organisations syndicales représentatives au sens de l'article L. 412-3, autoriser
+des dérogations aux conditions d'ancienneté pour l'éligibilité dans le cas où l'application de ces dispositions conduirait à
+une réduction du nombre des éligibles qui ne permettrait pas l'organisation normale des opérations électorales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 22 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 12 (V)
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 9 (V)
+	  - Code du travail applicable à Mayotte. - art. R433-6 (V)
+	  - Code du travail applicable à Mayotte. - art. R442-10 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L412-3 (M)
+
+
+###### Article L433-11
+
+L'élection a lieu au scrutin secret sous enveloppe. Il est procédé à des votes séparés pour les membres titulaires et les
+membres suppléants dans chacune des catégories professionnelles formant des collèges distincts.
+
+L'élection a lieu pendant le temps de travail. Toutefois, un accord contraire peut être conclu entre l'employeur et
+l'ensemble des organisations syndicales représentatives existant dans l'entreprise, notamment en cas de travail en continu.
+
+Les modalités d'organisation et de déroulement des opérations électorales font l'objet d'un accord entre le chef d'entreprise
+et les organisations syndicales intéressées. Cet accord doit respecter les principes généraux du droit électoral. Les
+modalités sur lesquelles aucun accord n'a pu intervenir peuvent être fixées par une décision du juge de première instance
+statuant en dernier ressort en la forme des référés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 22 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R433-4 (V)
+
+
+###### Article L433-12
+
+Le scrutin est de liste à deux tours avec représentation proportionnelle à la plus forte moyenne.
+
+Au premier tour de scrutin, chaque liste est établie par les organisations syndicales représentatives au sens de l'article L.
+412-3. Si le nombre des votants est inférieur à la moitié des électeurs inscrits, il est procédé, dans un délai de quinze
+jours, à un second tour de scrutin pour lequel les électeurs peuvent voter pour les listes autres que celles présentées par
+les organisations syndicales.
+
+Lorsque le nom d'un candidat a été raturé, les ratures ne sont pas prises en compte si leur nombre est inférieur à 10 % des
+suffrages valablement exprimés en faveur de la liste sur laquelle figure ce candidat ; dans ce cas, les candidats sont
+proclamés élus dans l'ordre de présentation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 22 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 12 (V)
+	  - Code du travail applicable à Mayotte. - art. R433-3 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L412-3 (M)
+
+
+###### Article L433-13
+
+Les contestations relatives à l'électorat et à la régularité des opérations électorales sont de la compétence du tribunal de
+première instance qui statue en dernier ressort. La décision peut être déférée à la Cour de cassation.
+
+Lorsqu'une contestation rend indispensable le recours à une mesure d'instruction, les dépenses afférentes à cette mesure sont
+à la charge de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 22 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R433-4 (V)
+
+
+###### Article L433-14
+
+Les délégués du personnel sont élus pour deux ans et rééligibles.
+
+Leurs fonctions prennent fin par le décès, la démission, la résiliation du contrat de travail ou la perte des conditions
+requises pour l'éligibilité. Ils conservent leur mandat en cas de changement de catégorie professionnelle.
+
+En cas de modification dans la situation juridique de l'employeur telle que mentionnée au deuxième alinéa de l'article L.
+122-24, le mandat des délégués du personnel de l'entreprise qui a fait l'objet de la modification subsiste lorsque cette
+entreprise conserve son autonomie juridique.
+
+Si cette entreprise devient un établissement au sens du présent titre ou si la modification visée à l'alinéa précédent porte
+sur un ou plusieurs établissements distincts qui conservent ce caractère, le mandat des délégués du personnel élus dans
+l'entreprise ou dans chaque établissement concerné se poursuit jusqu'à son terme. Toutefois, la durée du mandat peut être
+réduite ou prorogée, pour tenir compte de la date habituelle des élections dans l'entreprise d'accueil, par voie d'accord
+entre le nouvel employeur et les organisations syndicales représentatives existant dans le ou les établissements absorbés ou,
+à défaut, les délégués du personnel concernés.
+
+Tout délégué du personnel peut être révoqué en cours de mandat, sur proposition de l'organisation syndicale qui l'a présenté,
+approuvée au scrutin secret par la majorité du collège électoral auquel il appartient.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 22 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L122-24 (M)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L433-15 (V)
+
+
+###### Article L433-15
+
+Lorsqu'un délégué titulaire cesse ses fonctions pour une des causes indiquées à l'article L. 433-14, ou se trouve
+momentanément absent pour une cause quelconque, son remplacement est assuré par un membre suppléant appartenant à une liste
+présentée par l'organisation syndicale qui a présenté la liste sur laquelle le titulaire à remplacer a été élu, la priorité
+étant donnée au suppléant de la même catégorie.
+
+S'il n'existe pas de suppléant élu sur une liste présentée par l'organisation syndicale qui a présenté le titulaire, le
+remplacement est assuré par le candidat présenté par la même organisation et venant sur la liste immédiatement après le
+dernier candidat élu soit comme titulaire, soit comme suppléant et, à défaut, par le suppléant de la même catégorie qui a
+obtenu le plus grand nombre de voix.
+
+Le suppléant devient titulaire jusqu'au retour de celui qu'il remplace ou jusqu'au renouvellement de l'institution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 22 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L433-14 (M)
+
+
+###### Article L433-16
+
+Dans toute entreprise ou organisme mentionné à l'article L. 431-1, le chef d'entreprise doit informer tous les deux ans le
+personnel par affichage de l'organisation des élections en vue de la désignation des délégués du personnel. Le document
+affiché précise la date envisagée pour le premier tour de ces élections qui doit se placer au plus tard le quarante-cinquième
+jour suivant celui de l'affichage.
+
+Les organisations syndicales intéressées sont en même temps invitées par le chef d'entreprise à négocier le protocole
+d'accord préélectoral et à établir les listes de leurs candidats aux fonctions de délégué du personnel.
+
+Dans le cas d'un renouvellement de l'institution, cette invitation doit être faite un mois avant l'expiration du mandat des
+délégués en exercice. Le premier tour des élections doit avoir lieu dans la quinzaine qui précède l'expiration de ce mandat.
+
+Dans le cas où, en l'absence de délégués du personnel, l'employeur est invité à organiser des élections à la suite d'une
+demande émanant d'un salarié ou d'une organisation syndicale, il est tenu d'engager la procédure ci-dessus, définie dans le
+mois suivant la réception de ladite demande.
+
+Lorsque l'institution n'a pas été mise en place ou renouvelée, un procès-verbal de carence est établi par le chef
+d'entreprise ; celui-ci l'affiche dans l'entreprise et le transmet dans les quinze jours à l'inspecteur du travail qui en
+envoie copie aux organisations syndicales de salariés représentatives au sens de l'article L. 412-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 22 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 9 (V)
+	  - Code du travail applicable à Mayotte. - art. D320-13 (V)
+	  - Code du travail applicable à Mayotte. - art. L450-3 (VT)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L412-3 (M)
+	  - Code du travail applicable à Mayotte. - art. L431-1 (V)
+
+
+###### Article L433-17
+
+L'élection des délégués du personnel et l'élection des représentants du personnel au comité d'entreprise ont lieu à la même
+date.
+
+Ces élections simultanées interviennent pour la première fois soit à l'occasion de la constitution du comité d'entreprise,
+soit à la date du renouvellement de l'institution.
+
+La durée du mandat des délégués du personnel est prorogée à due concurrence. Elle peut être réduite dans le cas où le mandat
+du comité d'entreprise vient à échéance avant celui des délégués du personnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 22 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+
+#### CHAPITRE IV : Fonctionnement.
+
+###### Article L434-1
+
+Le chef d'établissement est tenu de laisser aux délégués du personnel dans les limites d'une durée qui, sauf circonstances
+exceptionnelles, ne peut excéder 15 heures par mois dans les entreprises dont l'effectif est d'au moins cinquante salariés et
+10 heures par mois dans les autres, le temps nécessaire à l'exercice de leurs fonctions.
+
+Ce temps est de plein droit considéré comme temps de travail et payé à l'échéance normale. En cas de contestation par
+l'employeur de l'usage fait du temps ainsi alloué, il lui appartient de saisir la juridiction compétente.
+
+Les délégués du personnel qui exercent les attributions économiques du comité d'entreprise dans les conditions prévues à
+l'article L. 441-4 bénéficient, en outre, d'un crédit de 24 heures par mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 22 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L238-1 (VD)
+	  - Code du travail applicable à Mayotte. - art. L441-2 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L441-4 (V)
+
+
+###### Article L434-2
+
+Le chef d'établissement est tenu de mettre à la disposition des délégués du personnel le local nécessaire pour leur permettre
+de remplir leur mission, et, notamment, de se réunir.
+
+Les délégués peuvent faire afficher les renseignements qu'ils ont pour rôle de porter à la connaissance du personnel sur des
+emplacements obligatoirement prévus à cet effet, et aux portes d'entrée des lieux de travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 22 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+
+###### Article L434-3
+
+Pour l'exercice de leurs fonctions, les délégués du personnel peuvent, durant les heures de délégation, se déplacer hors de
+l'entreprise ; ils peuvent également, tant durant les heures de délégation qu'en dehors de leurs heures habituelles de
+travail, circuler librement dans l'entreprise et y prendre tous contacts nécessaires à l'accomplissement de leur mission,
+notamment auprès d'un salarié à son poste de travail, sous réserve de ne pas apporter de gêne importante à l'accomplissement
+du travail des salariés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 22 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+
+###### Article L434-4
+
+Les délégués sont reçus collectivement par le chef d'établissement ou son représentant au moins une fois par mois. Celui-ci
+peut se faire assister par des collaborateurs ; ensemble, ils ne peuvent être en nombre supérieur à celui des représentants
+du personnel titulaires. Ils sont, en outre, reçus, en cas d'urgence, sur leur demande. S'il s'agit d'une entreprise en
+société anonyme et qu'ils aient des réclamations à présenter auxquelles il ne pourrait être donné suite qu'après délibération
+du conseil d'administration, ils doivent être reçus par celui-ci, sur leur demande, en présence du directeur ou de son
+représentant ayant connaissance des réclamations présentées.
+
+Les délégués sont également reçus par le chef d'établissement ou ses représentants, sur leur demande, soit individuellement,
+soit par catégorie, soit par atelier, service ou spécialité professionnelle selon les questions qu'ils ont à traiter.
+
+Dans tous les cas, les délégués suppléants peuvent assister avec les délégués titulaires aux réunions avec les employeurs.
+Les délégués du personnel peuvent, sur leur demande, se faire assister d'un représentant d'une organisation syndicale.
+
+Le temps passé par les délégués du personnel, titulaires ou suppléants, aux réunions prévues au présent article est payé
+comme temps de travail. Il n'est pas déduit du crédit d'heures dont disposent les délégués du personnel titulaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 22 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L432-4 (V)
+	  - Code du travail applicable à Mayotte. - art. L441-2 (V)
+
+
+###### Article L434-5
+
+Sauf circonstances exceptionnelles, les délégués du personnel remettent au chef d'établissement, deux jours ouvrables avant
+la date où ils doivent être reçus, une note écrite exposant l'objet des demandes présentées.
+
+L'employeur répond par écrit à ces demandes au plus tard dans les six jours ouvrables suivant la réunion.
+
+Les demandes des délégués et les réponses motivées de l'employeur sont soit transcrites sur un registre spécial, soit
+annexées à ce registre.
+
+Ce registre ainsi que les documents qui y sont annexés doivent être tenus, pendant un jour ouvrable par quinzaine et en
+dehors de leur temps de travail, à la disposition des salariés de l'établissement qui désirent en prendre connaissance.
+
+Ils sont également tenus à la disposition de l'inspecteur du travail et des délégués du personnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 22 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
 
 #### CHAPITRE V : Licenciement des délégués du personnel.
 
@@ -13935,14 +17756,14 @@ premier salarié, non mandaté par une organisation syndicale, qui a demandé l'
 
 Cette procédure est également applicable aux délégués du personnel institués par voie conventionnelle.
 
-En cas de redressement ou de liquidation judiciaire, tout licenciement d'un salarié mentionné aux précédents alinéas est
-soumis à la procédure définie au présent article.
+En cas de procédure de sauvegarde ou de redressement ou de liquidation judiciaire, tout licenciement d'un salarié mentionné
+aux précédents alinéas est soumis à la procédure définie au présent article.
 
 **Nota:**
 
-Nota : Ordonnance 2005-44 2005-01-20 art. 36 : les dispositions du chapitre V du titre III du livre IV du code du travail
-applicable à Mayotte relatives au licenciement des délégués du personnel, introduites dans ce code par l'art. 22 de la
-présente ordonnance, entrent en vigueur à la date de publication de celle-ci.
+Ordonnance 2005-44 2005-01-20 art. 36 : les dispositions du chapitre V du titre III du livre IV du code du travail applicable
+à Mayotte relatives au licenciement des délégués du personnel, introduites dans ce code par l'art. 22 de la présente
+ordonnance, entrent en vigueur à la date de publication de celle-ci.
 
 **Liens relatifs à cet article**
 
@@ -13951,9 +17772,9 @@ présente ordonnance, entrent en vigueur à la date de publication de celle-ci.
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 22 () JORF 22 janvier 2005
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
@@ -14055,6 +17876,2201 @@ ordonnance, entrent en vigueur à la date de publication de celle-ci.
 
 	  - Code du travail applicable à Mayotte. - art. L435-1 (M)
 	  - Code du travail applicable à Mayotte. - art. L435-2 (V)
+
+
+#### CHAPITRE VI : Dispositions générales.
+
+###### Article L436-1
+
+Les dispositions du présent titre ne font pas obstacle aux clauses plus favorables résultant de conventions ou d'accords
+collectifs et relatives à la désignation et aux attributions des délégués du personnel.
+
+Aucune limitation ne peut être apportée aux dispositions relatives à la désignation et à l'exercice des fonctions de délégué
+du personnel, tels qu'ils sont définis par le présent titre, par note de service ou décision unilatérale de la direction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 22 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+
+### TITRE IV : LES COMITÉS D'ENTREPRISE
+
+#### CHAPITRE Ier : Champ d'application.
+
+###### Article L441-1
+
+Des comités d'entreprise sont constitués dans toutes les entreprises industrielles et commerciales, les offices publics et
+ministériels, les professions libérales, les sociétés civiles, les syndicats professionnels, les sociétés mutualistes, les
+organismes de sécurité sociale, à l'exception de ceux qui ont le caractère d'établissement public administratif, et les
+associations quels que soient leurs forme et objet, employant au moins cinquante salariés.
+
+La mise en place d'un comité d'entreprise n'est obligatoire que si l'effectif d'au moins cinquante salariés est atteint
+pendant douze mois, consécutifs ou non, au cours des trois années précédentes.
+
+Dans les entreprises employant moins de cinquante salariés, des comités d'entreprise peuvent être créés par convention ou
+accord collectif de travail.
+
+Les dispositions du présent titre sont applicables aux établissements publics à caractère industriel et commercial et aux
+établissements publics déterminés par décret qui assurent tout à la fois une mission de service public à caractère
+administratif et à caractère industriel et commercial, lorsqu'ils emploient du personnel dans les conditions du droit privé.
+Toutefois, ces dispositions peuvent, compte tenu des caractères particuliers de certains de ces établissements et des
+organismes de représentation du personnel éventuellement existants, faire l'objet d'adaptations pour ces établissements, sous
+réserve d'assurer les mêmes garanties aux salariés de ces établissements. Ces adaptations résultent de décrets en Conseil
+d'Etat.
+
+Lesdites dispositions sont également applicables aux exploitations, entreprises et établissements agricoles et assimilés et
+aux organismes professionnels agricoles, de quelque nature qu'ils soient, qui emploient les salariés.
+
+Lorsqu'une unité économique et sociale regroupant au moins cinquante salariés est reconnue par convention ou par décision de
+justice entre plusieurs entreprises juridiquement distinctes, la mise en place d'un comité d'entreprise commun est
+obligatoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L442-14 (V)
+	  - Code du travail applicable à Mayotte. - art. L443-11 (V)
+
+
+###### Article L441-2
+
+Dans les entreprises dont l'effectif est inférieur à deux cents salariés, le chef d'entreprise a la faculté de décider que
+les délégués du personnel constituent la délégation du personnel au comité d'entreprise. Il ne peut prendre cette décision
+qu'après avoir consulté les délégués du personnel et, s'il existe, le comité d'entreprise.
+
+Dans ce cas, les délégués du personnel, dont le nombre est fixé par décret en Conseil d'Etat, et le comité d'entreprise
+conservent l'ensemble de leurs attributions. Les réunions prévues aux articles L. 434-4 et L. 444-3, qui se tiennent au moins
+une fois par mois sur convocation du chef d'entreprise, ont lieu à la suite l'une de l'autre selon les règles propres à
+chacune de ces instances. Par dérogation aux règles prévues aux articles L. 434-1 et L. 444-1, les délégués du personnel
+disposent, dans les limites d'une durée qui, sauf circonstances exceptionnelles, ne peut excéder vingt heures par mois, du
+temps nécessaire à l'exercice des attributions dévolues aux délégués du personnel et au comité d'entreprise.
+
+La faculté prévue au présent article est ouverte à l'occasion de la constitution du comité d'entreprise ou lors du
+renouvellement de l'institution.
+
+La durée du mandat des délégués du personnel est prorogée à due concurrence. Elle peut être réduite dans le cas où le mandat
+du comité d'entreprise vient à échéance avant celui des délégués du personnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L434-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L434-4 (V)
+	  - Code du travail applicable à Mayotte. - art. L444-1 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L444-3 (V)
+	  - Code du travail applicable à Mayotte. - art. R433-2 (V)
+
+
+###### Article L441-3
+
+Les effectifs sont déterminés conformément aux dispositions de l'article L. 620-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L620-8 (M)
+
+
+###### Article L441-4
+
+En l'absence de comité d'entreprise, par suite d'une carence constatée dans les conditions prévues à l'article L. 443-11, les
+attributions économiques qui relèvent du comité sont exercées temporairement par les délégués du personnel.
+
+Toute suppression d'un comité d'entreprise est subordonnée à un accord entre le chef d'entreprise et l'ensemble des
+organisations syndicales représentatives dans l'entreprise.
+
+A défaut d'accord, le directeur du travail, de l'emploi et de la formation professionnelle peut autoriser la suppression du
+comité d'entreprise en cas de réduction importante et durable du personnel qui ramène l'effectif au-dessous de cinquante
+salariés.
+
+Tout syndicat affilié à une organisation représentative sur le plan national ou reconnu représentatif à Mayotte en
+application de l'article L. 412-3 est considéré comme représentatif dans l'entreprise pour l'application du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 12 (V)
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 9 (V)
+	  - Code du travail applicable à Mayotte. - art. L432-4 (V)
+	  - Code du travail applicable à Mayotte. - art. L432-5 (V)
+	  - Code du travail applicable à Mayotte. - art. L434-1 (V)
+	  - Code du travail applicable à Mayotte. - art. R321-11 (V)
+	  - Code du travail applicable à Mayotte. - art. R433-1 (V)
+	  - Code du travail applicable à Mayotte. - art. R441-1 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L412-3 (M)
+	  - Code du travail applicable à Mayotte. - art. L443-11 (M)
+
+
+###### Article L441-5
+
+Le comité d'entreprise a pour objet d'assurer une expression collective des salariés, permettant la prise en compte
+permanente de leurs intérêts dans les décisions relatives à la gestion et à l'évolution économique et financière de
+l'entreprise, à l'organisation du travail, à la formation professionnelle et aux techniques de production.
+
+Il formule, à son initiative, et examine, à la demande du chef d'entreprise, toute proposition de nature à améliorer les
+conditions de travail, d'emploi et de formation professionnelle des salariés, leurs conditions de vie dans l'entreprise.
+
+Il exerce ses missions sans préjudice des dispositions relatives à l'expression des salariés et aux délégués du personnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+
+###### Article L441-6
+
+La décision du chef d'entreprise doit être précédée par la consultation du comité d'entreprise.
+
+Pour lui permettre de formuler un avis motivé, le comité d'entreprise doit disposer d'informations précises et écrites
+transmises par le chef d'entreprise, d'un délai d'examen suffisant et de la réponse motivée du chef d'entreprise à ses
+propres observations.
+
+Pour l'exercice de ses missions, le comité d'entreprise a accès à l'information nécessaire détenue par les administrations
+publiques et les organismes agissant pour leur compte, conformément aux dispositions en vigueur concernant l'accès aux
+documents administratifs.
+
+Il peut, en outre, entreprendre les études et recherches nécessaires à sa mission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L320-23 (V)
+
+
+###### Article L441-7
+
+Lorsque le chef d'entreprise procède à une annonce publique portant exclusivement sur la stratégie économique de l'entreprise
+et dont les mesures de mise en oeuvre ne sont pas de nature à affecter de façon importante les conditions de travail ou
+d'emploi, le comité d'entreprise se réunit de plein droit sur sa demande dans les quarante-huit heures suivant ladite
+annonce. L'employeur est tenu de lui fournir toute explication utile.
+
+Le chef d'entreprise ne peut procéder à une annonce publique dont les mesures de mise en oeuvre sont de nature à affecter de
+façon importante les conditions de travail ou d'emploi des salariés qu'après avoir informé le comité d'entreprise.
+
+L'absence d'information du comité d'entreprise, en application des dispositions qui précèdent, est passible des peines
+prévues aux articles L. 450-3 et L. 450-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L450-3 (V)
+	  - Code du travail applicable à Mayotte. - art. L450-4 (V)
+
+
+###### Article L441-8
+
+Le comité d'entreprise est doté de la personnalité civile et gère son patrimoine.
+
+Il détermine, dans un règlement intérieur, les modalités de son fonctionnement et celles de ses rapports avec les salariés de
+l'entreprise, pour l'exercice des missions qui lui sont conférées par le présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R442-1 (V)
+
+
+###### Article L441-9
+
+Le comité d'entreprise peut organiser, dans le local mis à sa disposition, des réunions d'information, internes au personnel,
+portant notamment sur des problèmes d'actualité.
+
+Le comité d'entreprise peut inviter des personnalités extérieures, syndicales ou autres, sous réserve de l'accord du chef de
+l'entreprise.
+
+Ces réunions ont lieu en dehors du temps de travail des participants, à l'exception des membres du comité d'entreprise qui
+peuvent se réunir sur leur temps de délégation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+
+#### CHAPITRE II : Attributions et pouvoirs.
+
+###### Article L442-1
+
+Dans l'ordre économique, le comité d'entreprise est obligatoirement informé et consulté sur les questions intéressant
+l'organisation, la gestion et la marche générale de l'entreprise et, notamment, sur les mesures de nature à affecter le
+volume ou la structure des effectifs, la durée du travail, les conditions d'emploi, de travail et de formation
+professionnelle du personnel.
+
+Le comité d'entreprise est obligatoirement saisi en temps utile des projets de compression des effectifs ; il émet un avis
+sur l'opération projetée et ses modalités d'application. Cet avis est transmis à l'autorité administrative compétente.
+
+Le comité est informé et consulté sur les modifications de l'organisation économique ou juridique de l'entreprise, notamment
+en cas de fusion, de cession, de modification importante des structures de production de l'entreprise ainsi que lors de
+l'acquisition ou de la cession de filiales au sens de l'article L. 233-1 du code de commerce. Le chef d'entreprise doit
+indiquer les motifs des modifications projetées et consulter le comité sur les mesures qui sont envisagées à l'égard des
+salariés lorsque ces modifications comportent des conséquences pour ceux-ci. Il est également tenu de consulter le comité
+d'entreprise lorsqu'il prend une participation dans une société et de l'informer lorsqu'il a connaissance d'une prise de
+participation dont son entreprise est l'objet.
+
+En cas de dépôt d'une offre publique d'achat ou d'offre publique d'échange portant sur une entreprise, le chef de cette
+entreprise réunit immédiatement le comité d'entreprise pour l'en informer. Au cours de cette réunion, le comité décide s'il
+souhaite entendre l'auteur de l'offre et peut se prononcer sur le caractère amical ou hostile de l'offre. Ce dernier adresse
+au comité de l'entreprise qui en fait l'objet, dans les trois jours suivant sa publication, la note d'information mentionnée
+au troisième alinéa de l'article L. 621-8 du code monétaire et financier. L'audition de l'auteur de l'offre se déroule dans
+les formes, les conditions, les délais et sous les sanctions prévues aux alinéas suivants.
+
+Dans les quinze jours suivant la publication de la note d'information, le comité d'entreprise est réuni pour procéder à son
+examen et, le cas échéant, à l'audition de l'auteur de l'offre. Si le comité d'entreprise a décidé d'auditionner l'auteur de
+l'offre, la date de la réunion est communiquée à ce dernier au moins trois jours à l'avance. Lors de la réunion, l'auteur de
+l'offre, qui peut se faire assister des personnes de son choix, prend connaissance des observations éventuellement formulées
+par le comité d'entreprise. Ce dernier peut se faire assister préalablement et lors de la réunion d'un expert de son choix
+dans les conditions prévues aux deux derniers alinéas de l'article L. 444-5.
+
+La société ayant déposé une offre et dont le chef d'entreprise, ou le représentant qu'il désigne parmi les mandataires
+sociaux ou les salariés de l'entreprise, ne se rend pas à la réunion du comité d'entreprise à laquelle il a été invité dans
+les conditions prévues aux deux précédents alinéas ne peut exercer les droits de vote attachés aux titres de la société
+faisant l'objet de l'offre qu'elle détient ou viendrait à détenir. Cette interdiction s'étend aux sociétés qui la contrôlent
+ou qu'elle contrôle au sens de l'article L. 233-16 du code de commerce. Une sanction identique s'applique à l'auteur de
+l'offre, personne physique, qui ne se rend pas à la réunion du comité d'entreprise à laquelle il a été invité dans les
+conditions prévues aux deux alinéas précédents.
+
+La sanction est levée le lendemain du jour où l'auteur de l'offre a été entendu par le comité d'entreprise de la société
+faisant l'objet de l'offre. La sanction est également levée si l'auteur de l'offre n'est pas convoqué à une nouvelle réunion
+du comité d'entreprise dans les quinze jours qui suivent la réunion à laquelle il avait été préalablement convoqué.
+
+Il est également informé et consulté avant toute déclaration de cessation des paiements et lorsque l'entreprise fait l'objet
+d'une procédure de sauvegarde ou de redressement ou de liquidation judiciaire, avant toute décision relative à la poursuite
+de l'activité ainsi que lors de l'élaboration du projet de plan de sauvegarde ou de redressement ou de liquidation de
+l'entreprise dans les conditions prévues aux articles L. 621-56, L. 621-61 et L. 621-91 du code de commerce. La ou les
+personnes qu'il a désignées selon les dispositions de l'article L. 623-10 dudit code sont entendues par le tribunal compétent
+dans les conditions fixées aux articles L. 621-4, L. 621-60, L. 621-27, L. 621-62 et L. 621-69 dudit code.
+
+Le comité d'entreprise est consulté chaque année sur la politique de recherche et de développement technologique de
+l'entreprise. A défaut, les aides publiques en faveur des activités de recherche et de développement technologique sont
+suspendues.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce. - art. L233-1 (V)
+	  - Code de commerce. - art. L233-16 (M)
+	  - Code de commerce. - art. L621-27 (Ab)
+	  - Code de commerce. - art. L621-4 (M)
+	  - Code de commerce. - art. L621-56 (M)
+	  - Code de commerce. - art. L621-60 (M)
+	  - Code de commerce. - art. L621-61 (M)
+	  - Code de commerce. - art. L621-62 (Ab)
+	  - Code de commerce. - art. L621-69 (M)
+	  - Code de commerce. - art. L621-91 (Ab)
+	  - Code de commerce. - art. L623-10 (M)
+	  - Code monétaire et financier - art. L621-8 (M)
+	  - Code du travail applicable à Mayotte. - art. L444-5 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L320-30 (V)
+	  - Code du travail applicable à Mayotte. - art. L320-5 (V)
+	  - Code du travail applicable à Mayotte. - art. L320-57 (V)
+	  - Code du travail applicable à Mayotte. - art. L320-7 (V)
+	  - Code du travail applicable à Mayotte. - art. L442-2 (V)
+	  - Code du travail applicable à Mayotte. - art. L442-4 (V)
+	  - Code du travail applicable à Mayotte. - art. R321-11 (V)
+
+
+###### Article L442-2
+
+Lorsqu'une entreprise est partie à une opération de concentration telle que définie à l'article L. 430-1 du code de commerce,
+le chef d'entreprise réunit le comité d'entreprise au plus tard dans un délai de trois jours à compter de la publication
+prévue au troisième alinéa de l'article L. 430-3 du même code.
+
+Au cours de cette réunion, le comité d'entreprise se prononce sur le recours à un expert dans les conditions prévues à
+l'article L. 444-5. Dans ce cas, le comité d'entreprise tient une deuxième réunion afin d'entendre les résultats des travaux
+de l'expert.
+
+Les dispositions du premier alinéa sont réputées satisfaites lorsque le comité d'entreprise se réunit en application du
+quatrième alinéa de l'article L. 442-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code de commerce. - art. L430-1 (M)
+	  - Code de commerce. - art. L430-3 (M)
+	  - Code du travail applicable à Mayotte. - art. L442-1 (MMN)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L444-5 (V)
+
+
+###### Article L442-3
+
+Chaque année, à l'occasion de la réunion prévue au sixième alinéa de l'article L. 442-9, le comité d'entreprise est informé
+et consulté sur l'évolution de l'emploi et des qualifications dans l'entreprise au cours de l'année passée. Il est informé et
+consulté sur les prévisions annuelles ou pluriannuelles et les actions, notamment de prévention et de formation, que
+l'employeur envisage de mettre en oeuvre compte tenu de ces prévisions, particulièrement au bénéfice des salariés âgés ou
+présentant des caractéristiques sociales ou de qualification qui les exposent plus que d'autres aux conséquences de
+l'évolution économique ou technologique.
+
+L'employeur apporte toutes explications sur les écarts éventuellement constatés entre les prévisions et l'évolution effective
+de l'emploi, ainsi que sur les conditions d'exécution des actions prévues au titre de l'année écoulée.
+
+Préalablement à la réunion de consultation, les membres du comité reçoivent un rapport écrit comportant toutes informations
+utiles sur la situation de l'entreprise, notamment celles prévues au présent article et à l'article L. 442-10.
+
+Ce rapport et le procès-verbal de la réunion sont transmis dans un délai de quinze jours à l'autorité administrative
+compétente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L442-10 (V)
+	  - Code du travail applicable à Mayotte. - art. L442-9 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L442-12 (V)
+
+
+###### Article L442-4
+
+Lorsque le projet de restructuration et de compression des effectifs soumis au comité d'entreprise en vertu de l'article L.
+442-1 est de nature à affecter le volume d'activité ou d'emploi d'une entreprise sous-traitante, l'entreprise donneuse
+d'ordre doit immédiatement en informer l'entreprise sous-traitante. Le comité d'entreprise de cette dernière, ou à défaut les
+délégués du personnel, en sont immédiatement informés et reçoivent toute explication utile sur l'évolution probable de
+l'activité et de l'emploi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L442-1 (MMN)
+
+
+###### Article L442-5
+
+Le comité d'entreprise est informé et consulté, préalablement à tout projet important d'introduction de nouvelles
+technologies, lorsque celles-ci sont susceptibles d'avoir des conséquences sur l'emploi, la qualification, la rémunération,
+la formation ou les conditions de travail du personnel. Les membres du comité reçoivent, un mois avant la réunion, des
+éléments d'information sur ces projets et leurs conséquences quant aux points mentionnés ci-dessus.
+
+Lorsque l'employeur envisage de mettre en oeuvre des mutations technologiques importantes et rapides, il doit établir un plan
+d'adaptation. Ce plan est transmis, pour information et consultation, au comité d'entreprise en même temps que les autres
+éléments d'information relatifs à l'introduction de nouvelles technologies. En outre, le comité d'entreprise est
+régulièrement informé et périodiquement consulté sur la mise en oeuvre de ce plan.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L238-2 (V)
+	  - Code du travail applicable à Mayotte. - art. L444-5 (V)
+
+
+###### Article L442-6
+
+Le comité d'entreprise est informé, préalablement à leur utilisation, sur les méthodes ou techniques d'aide au recrutement
+des candidats à un emploi ainsi que sur toute modification de ceux-ci.
+
+Il est aussi informé, préalablement à leur introduction dans l'entreprise, sur les traitements automatisés de gestion du
+personnel et sur toute modification de ceux-ci.
+
+Le comité d'entreprise est informé et consulté, préalablement à la décision de mise en oeuvre dans l'entreprise, sur les
+moyens ou les techniques permettant un contrôle de l'activité des salariés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+
+###### Article L442-7
+
+Le comité d'entreprise est informé et consulté sur les problèmes généraux concernant les conditions de travail résultant de
+l'organisation du travail, de la technologie, des conditions d'emploi, de l'organisation du temps de travail, des
+qualifications et des modes de rémunération.
+
+A cet effet, il étudie les incidences sur les conditions de travail des projets et décisions de l'employeur dans les domaines
+susvisés et formule des propositions. Il bénéficie du concours du comité d'hygiène, de sécurité et des conditions de travail
+dans les matières, relevant de la compétence de ce comité dont les avis lui sont transmis.
+
+Le comité d'entreprise peut confier au comité d'hygiène, de sécurité et des conditions de travail le soin de procéder à des
+études portant sur des matières de la compétence de ce dernier comité.
+
+Le comité d'entreprise est consulté sur la durée et l'aménagement du temps de travail ainsi que sur le plan d'étalement des
+congés dans les conditions prévues à l'article L. 223-7.
+
+Il est également consulté, en liaison avec le comité d'hygiène, de sécurité et des conditions de travail, sur les mesures
+prises en vue de faciliter la mise ou la remise au travail des accidentés du travail, des invalides de guerre et assimilés,
+des invalides civils et des travailleurs handicapés.
+
+Il est obligatoirement consulté sur les orientations de la formation professionnelle dans l'entreprise.
+
+Le comité d'entreprise est obligatoirement informé et consulté préalablement à la mise en place d'une garantie collective
+ayant pour objet de prévoir, au profit des salariés, des anciens salariés et de leurs ayants droit, la couverture du risque
+décès, des risques portant atteinte à l'intégrité physique de la personne ou liés à la maternité, des risques d'incapacité de
+travail ou d'invalidité, des risques d'inaptitude et du risque chômage, ainsi que la constitution d'avantages sous forme de
+pensions de retraite, d'indemnités ou de primes de départ en retraite ou de fin de carrière ou à la modification de celle-ci.
+
+Le comité d'entreprise est obligatoirement consulté sur :
+
+1° Les objectifs de l'entreprise en matière d'apprentissage ;
+
+2° Le nombre des apprentis susceptibles d'être accueillis dans l'entreprise par niveau initial de formation, par diplôme,
+titre homologué ou titre d'ingénieur préparés ;
+
+3° Les conditions de mise en oeuvre des contrats d'apprentissage, notamment les modalités d'accueil, d'affectation à des
+postes adaptés, d'encadrement et de suivi des apprentis ;
+
+4° Les modalités de liaison entre l'entreprise et le centre de formation d'apprentis ;
+
+5° Les conditions de mise en oeuvre des conventions d'aide au choix professionnel des élèves de classe préparatoire à
+l'apprentissage.
+
+Il est, en outre, informé sur :
+
+1° Le nombre des apprentis engagés par l'entreprise, par âge et par sexe, les diplômes, titres homologués ou titres
+d'ingénieur obtenus en tout ou partie par les apprentis et la manière dont ils l'ont été ;
+
+2° Les perspectives d'emploi des apprentis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L223-7 (M)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L444-6 (V)
+
+
+###### Article L442-8
+
+Chaque année, le chef d'entreprise soumet pour avis au comité d'entreprise ou, à défaut, aux délégués du personnel, soit
+directement, soit, si elle existe, par l'intermédiaire de la commission prévue au dernier alinéa de l'article L. 444-6, un
+rapport écrit sur la situation comparée des conditions générales d'emploi et de formation des femmes et des hommes dans
+l'entreprise. A ce titre, ce rapport comporte une analyse sur la base d'indicateurs pertinents, reposant notamment sur des
+éléments chiffrés, définis par décret et éventuellement complétés par des indicateurs qui tiennent compte de la situation
+particulière de l'entreprise, permettant d'apprécier, pour chacune des catégories professionnelles de l'entreprise, la
+situation respective des femmes et des hommes en matière d'embauche, de formation, de promotion professionnelle, de
+qualification, de classification, de conditions de travail et de rémunération effective. Ce rapport recense les mesures
+prises au cours de l'année écoulée en vue d'assurer l'égalité professionnelle, les objectifs prévus pour l'année à venir et
+la définition qualitative et quantitative des actions à mener à ce titre ainsi que l'évaluation de leur coût.
+
+Dans le cas où des actions prévues par le rapport précédent ou demandées par le comité n'ont pas été réalisées, le rapport
+donne les motifs de cette inexécution.
+
+Le rapport, modifié, le cas échéant, pour tenir compte de l'avis motivé du comité d'entreprise, est transmis à l'inspecteur
+du travail accompagné dudit avis dans les quinze jours qui suivent.
+
+Ce rapport est mis à la disposition de tout salarié qui en fait la demande.
+
+Les indicateurs mentionnés au premier alinéa du présent article sont portés par l'employeur à la connaissance des salariés
+par voie d'affichage sur les lieux de travail et, éventuellement, par tout autre moyen adapté aux conditions d'exercice de
+l'activité de l'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D442-1 (T)
+	  - Code du travail applicable à Mayotte. - art. D442-22 (V)
+	  - Code du travail applicable à Mayotte. - art. L043-1 (VD)
+	  - Code du travail applicable à Mayotte. - art. L442-12 (V)
+	  - Code du travail applicable à Mayotte. - art. L444-6 (V)
+
+
+###### Article L442-9
+
+Un mois après chaque élection du comité d'entreprise, le chef d'entreprise lui communique une documentation économique et
+financière qui doit préciser :
+
+a) La forme juridique de l'entreprise et son organisation ;
+
+b) Les perspectives économiques de l'entreprise telles qu'elles peuvent être envisagées ;
+
+c) Compte tenu des informations dont dispose le chef d'entreprise, la répartition du capital entre les actionnaires détenant
+plus de 10 % du capital et la position de l'entreprise dans la branche d'activité à laquelle elle appartient.
+
+Au moins une fois par an, le chef d'entreprise présente au comité d'entreprise un rapport d'ensemble écrit sur l'activité de
+l'entreprise, le chiffre d'affaires, les bénéfices ou pertes constatés, les résultats globaux de la production en valeur et
+en volume, les transferts de capitaux importants entre la société mère et les filiales, la situation de la sous-traitance,
+l'affectation des bénéfices réalisés, les aides européennes et les aides ou avantages financiers notamment les aides à
+l'emploi, consentis à l'entreprise par l'Etat et les collectivités locales et leur emploi, les investissements, l'évolution
+de la structure et du montant des salaires. Dans les entreprises d'au moins trois cents salariés, ce rapport retrace en outre
+l'évolution de la productivité et le taux d'utilisation des capacités de production, quand ces éléments sont mesurables dans
+l'entreprise.
+
+Le chef d'entreprise soumet, à cette occasion, un état faisant ressortir l'évolution de la rémunération moyenne horaire et
+mensuelle par sexe, par catégories telles qu'elles sont prévues à la convention de travail applicable et par établissement,
+ainsi que les rémunérations minimales et maximales horaires et mensuelles, au cours de l'exercice et par rapport à l'exercice
+précédent.
+
+Ce rapport précise également les perspectives économiques de l'entreprise pour l'année à venir.
+
+Dans les sociétés commerciales, le chef d'entreprise est tenu de communiquer au comité, avant leur présentation à l'assemblée
+générale des actionnaires ou à l'assemblée des associés, l'ensemble des documents obligatoirement transmis annuellement à ces
+assemblées et le rapport des commissaires aux comptes.
+
+Le comité peut formuler toutes observations utiles sur la situation économique et sociale de l'entreprise ; ces observations
+sont obligatoirement transmises à l'assemblée des actionnaires ou des associés en même temps que le rapport du conseil
+d'administration, du directoire ou des gérants.
+
+Le comité peut convoquer les commissaires aux comptes pour recevoir leurs explications sur les différents postes des
+documents communiqués ainsi que sur la situation financière de l'entreprise.
+
+Les membres du comité d'entreprise ont droit aux mêmes communications et aux mêmes copies que les actionnaires et aux mêmes
+époques dans les conditions prévues par le code de commerce.
+
+Le comité d'entreprise reçoit communication des documents comptables établis par les entreprises qui ne revêtent pas la forme
+de société commerciale.
+
+Dans les sociétés visées à l'article L. 232-2 du code de commerce, les documents établis en application de cet article et des
+articles L. 232-2 et L. 232-3 du même code sont communiqués au comité d'entreprise. Il en est de même dans les sociétés non
+visées à cet article qui établissent ces documents. Les informations données au comité d'entreprise en application du présent
+alinéa sont réputées confidentielles au sens de l'article L. 442-16. Les dispositions qui précèdent s'appliquent aux
+groupements d'intérêt économique mentionnés à l'article L. 251-13 du code de commerce.
+
+Le comité d'entreprise reçoit également communication du rapport visé aux articles L. 223-37 et L. 225-231 du code de
+commerce et des réponses, rapports et délibérations dans les cas prévus aux articles L. 234-1, L. 234-2 et L. 251-15 du même
+code.
+
+Au cours de chaque trimestre, le chef d'entreprise communique au comité d'entreprise des informations sur l'évolution
+générale des commandes et de la situation financière, sur l'exécution des programmes de production ainsi que sur d'éventuels
+retards dans le paiement par l'entreprise des cotisations de sécurité sociale ou des cotisations dues aux institutions de
+retraite complémentaire. Chaque trimestre dans les entreprises d'au moins trois cents salariés et chaque semestre dans les
+autres, le chef d'entreprise informe également le comité des mesures envisagées en ce qui concerne l'amélioration, le
+renouvellement ou la transformation de l'équipement ou des méthodes de production et d'exploitation et de leurs incidences
+sur les conditions de travail et d'emploi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code de commerce. - art. L223-37 (V)
+	  - Code de commerce. - art. L225-231 (M)
+	  - Code de commerce. - art. L232-2 (V)
+	  - Code de commerce. - art. L232-3 (V)
+	  - Code de commerce. - art. L234-1 (M)
+	  - Code de commerce. - art. L234-2 (M)
+	  - Code de commerce. - art. L251-13 (V)
+	  - Code de commerce. - art. L251-15 (V)
+	  - Code du travail applicable à Mayotte. - art. L442-16 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L442-12 (V)
+	  - Code du travail applicable à Mayotte. - art. L442-3 (V)
+	  - Code du travail applicable à Mayotte. - art. L444-5 (V)
+	  - Code du travail applicable à Mayotte. - art. R442-14 (V)
+
+
+###### Article L442-10
+
+Chaque trimestre dans les entreprises d'au moins trois cents salariés et chaque semestre dans les autres, le chef
+d'entreprise informe le comité d'entreprise de la situation de l'emploi qui est analysée en retraçant, mois par mois,
+l'évolution des effectifs et de la qualification des salariés par sexe en faisant apparaître le nombre de salariés sous
+contrat de travail à durée indéterminée, le nombre de salariés sous contrat de travail à durée déterminée, le nombre de
+salariés sous contrat de travail à temps partiel. Le chef d'entreprise doit également présenter au comité les motifs l'ayant
+amené à recourir aux deux dernières catégories de personnel susmentionnées. Il lui communique enfin le nombre des journées de
+travail effectuées, au cours de chacun des trois ou six derniers mois, par les salariés sous contrat de travail à durée
+déterminée ainsi que le nombre des contrats aidés mentionnés aux livres III et VII du présent code.
+
+Lorsque, entre deux réunions du comité prévues à l'alinéa ci-dessus, le nombre des salariés occupés dans l'entreprise sous
+contrat de travail à durée déterminée connaît un accroissement important par rapport à la situation existant lors de la
+dernière réunion du comité, l'examen de cette question est inscrit de plein droit à l'ordre du jour de la prochaine réunion
+ordinaire du comité prévue au premier alinéa de l'article L. 444-3 si la majorité des membres du comité le demande.
+
+Lors de cette réunion, le chef d'entreprise est tenu de communiquer au comité d'entreprise le nombre de salariés sous contrat
+de travail à durée déterminée, les motifs l'ayant amené à y recourir ainsi que le nombre des journées de travail effectuées
+par les intéressés depuis la dernière communication d'informations effectuée à ce sujet par le chef d'entreprise.
+
+Lorsque le comité d'entreprise a connaissance de faits susceptibles de caractériser un recours abusif aux contrats de travail
+à durée déterminée ou lorsqu'il constate un accroissement important du nombre de salariés occupés dans l'entreprise sous
+contrat de travail à durée déterminée, il peut décider de saisir l'inspecteur du travail afin que celui-ci effectue les
+constatations qu'il estime utiles.
+
+Sans préjudice des compétences qu'il détient en vertu des articles L. 610-1 et L. 610-9, l'inspecteur du travail adresse à
+l'employeur le rapport de ses constatations. L'employeur communique ce rapport au comité d'entreprise en même temps que sa
+réponse motivée aux constatations de l'inspecteur du travail dans laquelle il précise, en tant que de besoin, les moyens
+qu'il met en oeuvre dans le cadre d'un plan de résorption de la précarité destiné à limiter le recours à ces formes de
+contrats de travail.
+
+A défaut de comité d'entreprise, les délégués du personnel peuvent exercer les attributions conférées au comité d'entreprise
+pour l'application de l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L442-12 (V)
+	  - Code du travail applicable à Mayotte. - art. L442-3 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L444-3 (V)
+	  - Code du travail applicable à Mayotte. - art. L610-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L610-9 (M)
+
+
+###### Article L442-11
+
+Le comité d'entreprise ou, à défaut, les délégués du personnel sont informés de la conclusion des conventions ouvrant droit à
+des contrats aidés. Ils reçoivent chaque trimestre dans les entreprises de plus de trois cents salariés et chaque semestre
+dans les autres entreprises un bilan de l'ensemble des embauches et des créations nettes d'emplois effectuées dans ce cadre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R322-15 (V)
+	  - Code du travail applicable à Mayotte. - art. R322-39 (V)
+
+
+###### Article L442-12
+
+Dans les entreprises de moins de trois cents salariés, le chef d'entreprise remet au comité d'entreprise une fois par an un
+rapport qui se substitue à l'ensemble des informations et documents à caractère économique, social et financier, quelle que
+soit leur périodicité, prévus par les articles L. 442-3, L. 442-8, L. 442-9 (dixième, onzième, douzième et dernière phrases
+du dernier alinéa) et L. 442-10 du présent code.
+
+Ce rapport porte sur :
+
+1° L'activité et la situation financière de l'entreprise ;
+
+2° Le bilan du travail à temps partiel dans l'entreprise ;
+
+3° L'évolution de l'emploi, des qualifications, de la formation et des salaires ;
+
+4° La situation comparée des conditions générales d'emploi et de formation des femmes et des hommes ;
+
+5° Les actions en faveur de l'emploi des salariés handicapés dans l'entreprise.
+
+Les membres du comité d'entreprise reçoivent le rapport annuel quinze jours avant la réunion.
+
+Le rapport, modifié le cas échéant à la suite de la réunion du comité d'entreprise, est transmis à l'inspecteur du travail,
+accompagné de l'avis du comité, dans les quinze jours qui suivent.
+
+Les modalités d'application du présent article sont précisées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L442-10 (V)
+	  - Code du travail applicable à Mayotte. - art. L442-3 (V)
+	  - Code du travail applicable à Mayotte. - art. L442-8 (V)
+	  - Code du travail applicable à Mayotte. - art. L442-9 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R442-19 (V)
+
+
+###### Article L442-13
+
+I. - Lorsque le comité d'entreprise a connaissance de faits de nature à affecter de manière préoccupante la situation
+économique de l'entreprise, il peut demander à l'employeur de lui fournir des explications.
+
+Cette demande est inscrite de droit à l'ordre du jour de la prochaine séance du comité d'entreprise.
+
+II. - S'il n'a pu obtenir de réponse suffisante de l'employeur ou si celle-ci confirme le caractère préoccupant de la
+situation, il établit un rapport.
+
+Ce rapport est transmis à l'employeur et au commissaire aux comptes.
+
+Le comité d'entreprise peut se faire assister, une fois par exercice, de l'expert-comptable prévu au premier alinéa de
+l'article L. 444-5, convoquer le commissaire aux comptes et s'adjoindre avec voix consultative deux salariés de l'entreprise
+choisis pour leur compétence et en dehors du comité d'entreprise.
+
+Ces salariés disposent de cinq heures chacun pour assister le comité d'entreprise en vue de l'établissement du rapport. Ce
+temps leur est payé comme temps de travail.
+
+Le rapport du comité d'entreprise conclut en émettant un avis sur l'opportunité de saisir de ses conclusions l'organe chargé
+de l'administration ou de la surveillance dans les sociétés ou personnes morales qui en sont dotées ou d'en informer les
+associés dans les autres formes de sociétés ou les membres dans les groupements d'intérêt économique.
+
+Au vu de ce rapport, le comité d'entreprise peut décider de procéder à cette saisine ou de faire procéder à cette information
+dans les conditions prévues au troisième alinéa de l'article L. 444-3. Dans ce cas, l'avis de l'expert-comptable est joint à
+la saisine ou à l'information.
+
+III. - Dans les sociétés à conseil d'administration ou à conseil de surveillance, la question doit être inscrite à l'ordre du
+jour de la prochaine séance du conseil d'administration ou du conseil de surveillance à condition que celui-ci ait pu être
+saisi au moins quinze jours à l'avance. La réponse doit être motivée.
+
+Ces dispositions s'appliquent à l'égard de l'organe chargé de l'administration ou de la surveillance dans les autres
+personnes morales qui en sont dotées.
+
+IV. - Dans les autres formes de sociétés ou dans les groupements d'intérêt économique, lorsque le comité d'entreprise a
+décidé d'informer les associés ou les membres de la situation de l'entreprise, le gérant ou les administrateurs sont tenus de
+communiquer à ceux-ci le rapport du comité d'entreprise.
+
+V. - Les informations concernant l'entreprise communiquées en application du présent article ont par nature un caractère
+confidentiel. Toute personne qui y a accès en application de ce même article est tenue à leur égard à une obligation de
+discrétion.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L432-5 (V)
+	  - Code du travail applicable à Mayotte. - art. R442-17 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L444-3 (V)
+	  - Code du travail applicable à Mayotte. - art. L444-5 (V)
+
+
+###### Article L442-14
+
+Dans les sociétés, deux membres du comité d'entreprise, délégués par le comité et appartenant l'un à la catégorie des cadres
+techniciens et agents de maîtrise, l'autre à la catégorie des employés et ouvriers, assistent avec voix consultative à toutes
+les séances du conseil d'administration ou du conseil de surveillance, selon le cas. Dans les sociétés où, en application de
+l'article L. 443-2 ci-après, il est constitué trois collèges électoraux, la délégation du personnel au conseil
+d'administration ou au conseil de surveillance est portée à quatre membres dont deux appartiennent à la catégorie des
+ouvriers et employés, le troisième à la catégorie de la maîtrise et le quatrième à la catégorie des ingénieurs, chefs de
+service et cadres administratifs, commerciaux ou techniques assimilés sur le plan de la classification.
+
+Les membres de cette délégation du personnel ont droit aux mêmes documents que ceux adressés ou remis aux membres du conseil
+d'administration ou du conseil de surveillance à l'occasion de leurs réunions. Ils peuvent soumettre les voeux du comité au
+conseil d'administration ou au conseil de surveillance, lequel doit donner un avis motivé sur ces voeux.
+
+Toutefois, dans les établissements publics mentionnés à l'article L. 441-1 et dans les entreprises nationales, sociétés
+nationales, sociétés anonymes ou sociétés d'économie mixte dans lesquelles l'Etat détient plus de la moitié du capital,
+directement ou indirectement, à lui seul ou par l'un des établissements ou sociétés mentionnés au présent alinéa, la
+représentation du comité d'entreprise auprès du conseil d'administration ou de surveillance est assurée par le secrétaire du
+comité d'entreprise ou de l'organe qui en tient lieu.
+
+De même, dans les sociétés anonymes dans lesquelles le conseil d'administration ou de surveillance comprend des
+administrateurs ou des membres élus par les salariés au titre de l'article L. 225-27 du code de commerce, la représentation
+du comité d'entreprise auprès de ces conseils est assurée par un membre titulaire du comité désigné par ce dernier.
+
+Dans les sociétés par actions simplifiées, les statuts précisent l'organe social auprès duquel les délégués du comité
+d'entreprise exercent les droits définis par le présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code de commerce. - art. L225-27 (M)
+	  - Code du travail applicable à Mayotte. - art. L441-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L443-2 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L442-15 (V)
+
+
+###### Article L442-15
+
+I. - Dans les sociétés, le comité d'entreprise peut demander en justice la désignation d'un mandataire chargé de convoquer
+l'assemblée générale des actionnaires en cas d'urgence.
+
+Il peut également requérir l'inscription de projets de résolutions à l'ordre du jour des assemblées.
+
+II. - Dans les sociétés, deux membres du comité d'entreprise, désignés par le comité et appartenant l'un à la catégorie des
+cadres techniciens et agents de maîtrise, l'autre à la catégorie des employés et ouvriers, ou, le cas échéant, les personnes
+mentionnées aux troisième et quatrième alinéas de l'article L. 442-14, peuvent assister aux assemblées générales. Ils
+doivent, à leur demande, être entendus lors de toutes les délibérations requérant l'unanimité des associés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L442-14 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R442-20 (V)
+	  - Code du travail applicable à Mayotte. - art. R442-21 (V)
+
+
+###### Article L442-16
+
+Les membres du comité d'entreprise sont tenus au secret professionnel pour toutes les questions relatives aux procédés de
+fabrication.
+
+En outre, les membres du comité d'entreprise sont tenus à une obligation de discrétion à l'égard des informations présentant
+un caractère confidentiel et données comme telles par le chef d'entreprise ou son représentant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L432-4 (V)
+	  - Code du travail applicable à Mayotte. - art. L442-9 (V)
+	  - Code du travail applicable à Mayotte. - art. L444-5 (V)
+	  - Code du travail applicable à Mayotte. - art. L444-6 (V)
+
+
+###### Article L442-17
+
+Le comité d'entreprise assure ou contrôle la gestion de toutes les activités sociales et culturelles établies dans
+l'entreprise prioritairement au bénéfice des salariés ou de leur famille ou participe à cette gestion, quel qu'en soit le
+mode de financement, dans des conditions fixées par décret en Conseil d'Etat.
+
+Ce décret détermine notamment les conditions dans lesquelles les pouvoirs du comité d'entreprise peuvent être délégués à des
+organismes créés par lui et soumis à son contrôle ainsi que les règles d'octroi et d'étendue de la personnalité civile des
+comités d'entreprise et des organismes créés par eux. Il fixe en outre les conditions de financement des activités sociales
+et culturelles.
+
+En cas de reliquat budgétaire limité à 1 % de son budget, les membres du comité d'entreprise, après s'être prononcés par un
+vote majoritaire, peuvent décider de verser ces fonds à une association humanitaire reconnue d'utilité publique afin de
+favoriser les actions locales de lutte contre l'exclusion ou des actions de réinsertion sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R442-11 (V)
+	  - Code du travail applicable à Mayotte. - art. R442-12 (V)
+
+
+###### Article L442-18
+
+La contribution versée chaque année par l'employeur pour financer des institutions sociales du comité d'entreprise ne peut,
+en aucun cas, être inférieure au total le plus élevé des sommes affectées aux dépenses sociales de l'entreprise atteint au
+cours des trois dernières années précédant la prise en charge des activités sociales et culturelles par le comité
+d'entreprise, à l'exclusion des dépenses temporaires lorsque les besoins correspondants ont disparu.
+
+Le rapport de cette contribution au montant global des salaires payés ne peut non plus être inférieur au même rapport
+existant pour l'année de référence définie à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+
+###### Article L442-19
+
+Les salariés sont informés de la politique de l'entreprise concernant ses choix de mécénat et de soutien aux associations et
+aux fondations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+
+###### Article L442-20
+
+Le comité d'entreprise émet des avis et voeux dans l'exercice des attributions consultatives définies aux articles L. 442-1 à
+L. 442-9.
+
+Le chef d'entreprise rend compte en la motivant de la suite donnée à ces avis et voeux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte L442-1 à L442-9
+
+
+#### CHAPITRE III : Composition et élections.
+
+###### Article L443-1
+
+Le comité d'entreprise comprend le chef d'entreprise ou son représentant et une délégation du personnel comportant un nombre
+de membres fixé par décret en Conseil d'Etat compte tenu du nombre des salariés. Cette délégation comporte un nombre égal de
+titulaires et de suppléants. Les suppléants assistent aux séances avec voix consultative. Le calcul des effectifs s'effectue
+dans les conditions prévues à l'article L. 620-8 du présent code.
+
+Le chef d'entreprise ou son représentant peut se faire assister par deux collaborateurs.
+
+Le nombre de membres peut être augmenté par voie de convention collective ou d'accord d'entreprise entre le chef d'entreprise
+et les organisations syndicales représentatives dans celle-ci.
+
+Chaque organisation syndicale de salariés représentative dans l'entreprise peut désigner un représentant au comité. Il
+assiste aux séances avec voix consultative. Il est obligatoirement choisi parmi les membres du personnel de l'entreprise et
+doit remplir les conditions d'éligibilité au comité d'entreprise fixées à l'article L. 443-5.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L443-5 (V)
+	  - Code du travail applicable à Mayotte. - art. L620-8 (M)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L444-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L445-1 (V)
+	  - Code du travail applicable à Mayotte. - art. R443-1 (V)
+
+
+###### Article L443-2
+
+Les représentants du personnel sont élus, d'une part, par les ouvriers et employés, d'autre part, par les ingénieurs, chefs
+de service, techniciens, agents de maîtrise et assimilés sur des listes établies par les organisations syndicales
+représentatives pour chaque catégorie de personnel.
+
+Tout syndicat affilié à une organisation représentative sur le plan national ou reconnu représentatif à Mayotte en
+application de l'article L. 412-3 est considéré comme représentatif dans l'entreprise pour l'application du présent chapitre.
+
+Dans les entreprises occupant plus de cinq cents salariés, les ingénieurs, les chefs de service et cadres administratifs,
+commerciaux ou techniques assimilés ont au moins un délégué titulaire élu dans les mêmes conditions.
+
+En outre, dans les entreprises, quel que soit l'effectif de leurs salariés, où le nombre des ingénieurs, chefs de service et
+cadres administratifs, commerciaux ou techniques assimilés sur le plan de la classification est au moins égal à vingt-cinq au
+moment de la constitution ou du renouvellement du comité, lesdites catégories constituent un collège spécial.
+
+Sans préjudice des dispositions de l'alinéa précédent, le nombre et la composition des collèges électoraux ne peuvent être
+modifiés par une convention, un accord collectif de travail, étendu ou non, ou un accord préélectoral que lorsque la
+convention ou l'accord est signé par toutes les organisations syndicales représentatives existant dans l'entreprise. L'accord
+préélectoral est obligatoirement transmis à l'inspecteur du travail.
+
+La répartition des sièges entre les différentes catégories et la répartition du personnel dans les collèges électoraux font
+l'objet d'un accord entre le chef d'entreprise ou son représentant et les organisations syndicales intéressées.
+
+Dans le cas où cet accord ne peut être obtenu, l'inspecteur du travail décide de cette répartition entre les collèges
+électoraux conformément au cinquième alinéa du présent article ou, à défaut, conformément à la loi.
+
+A l'occasion de l'élaboration du protocole d'accord préélectoral visé ci-dessus, les organisations syndicales intéressées
+examinent les voies et moyens en vue d'atteindre une représentation équilibrée des femmes et des hommes sur les listes de
+candidatures.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 12 (V)
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 9 (V)
+	  - Code du travail applicable à Mayotte. - art. L442-14 (V)
+	  - Code du travail applicable à Mayotte. - art. R443-5 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L412-3 (M)
+
+
+###### Article L443-3
+
+Au cas où le juge de première instance, saisi préalablement aux élections, décide la mise en place d'un dispositif de
+contrôle de leur régularité, de la liberté et de la sincérité du scrutin, les frais entraînés par ces mesures sont à la
+charge de l'employeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R443-4 (V)
+
+
+###### Article L443-4
+
+Sont électeurs les salariés des deux sexes, âgés de seize ans accomplis, travaillant depuis trois mois au moins dans
+l'entreprise.
+
+Toutefois, ne doivent pas être inscrites sur les listes électorales :
+
+1° Les personnes condamnées pour les délits de vol, escroquerie, recel, abus de confiance, agressions sexuelles, soustraction
+commise par un dépositaire de l'autorité publique, faux témoignage, corruption et trafic d'influence, faux et pour les délits
+punis des peines du vol, de l'escroquerie et de l'abus de confiance ;
+
+2° Les personnes auxquelles les tribunaux ont interdit le droit de vote et d'élection par application des lois qui autorisent
+cette interdiction, pendant le délai fixé par le jugement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+
+###### Article L443-5
+
+Sont éligibles, à l'exception des conjoints, ascendants, descendants, frères, soeurs ou alliés au même degré du chef
+d'entreprise, les électeurs âgés de dix-huit ans accomplis et travaillant dans l'entreprise sans interruption depuis un an au
+moins.
+
+Les salariés occupant un emploi à temps partiel simultanément dans plusieurs entreprises ne sont éligibles que dans l'une de
+ces entreprises ; ils choisissent celle où ils font acte de candidature.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L443-1 (V)
+
+
+###### Article L443-6
+
+L'inspecteur du travail peut, après avoir consulté les organisations syndicales représentatives dans l'entreprise, autoriser
+des dérogations aux conditions d'ancienneté pour l'électorat, notamment dans le cas où leur application aurait pour effet de
+réduire à moins des deux tiers de l'effectif le nombre de salariés remplissant ces conditions.
+
+L'inspecteur du travail peut, après avoir consulté les organisations syndicales représentatives dans l'entreprise, autoriser
+des dérogations aux conditions d'ancienneté pour l'éligibilité dans le cas où l'application de ces dispositions conduirait à
+une réduction du nombre des éligibles qui ne permettrait pas l'organisation normale des opérations électorales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R443-5 (V)
+
+
+###### Article L443-7
+
+L'élection a lieu au scrutin secret et sous enveloppe. Il est procédé à des votes séparés pour les membres titulaires, les
+membres suppléants, dans chacune des catégories professionnelles formant des collèges distincts.
+
+L'élection a lieu pendant le temps de travail. Toutefois, un accord contraire peut être conclu entre l'employeur et
+l'ensemble des organisations syndicales représentatives existant dans l'entreprise, notamment en cas de travail en continu.
+
+Les modalités d'organisation et de déroulement des opérations électorales font l'objet d'un accord entre le chef d'entreprise
+et les organisations syndicales représentatives existant dans l'entreprise. Cet accord doit respecter les principes généraux
+du droit électoral. Les modalités sur lesquelles aucun accord n'a pu intervenir peuvent être fixées par une décision du juge
+du tribunal de première instance statuant en dernier ressort en la forme des référés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R443-4 (V)
+
+
+###### Article L443-8
+
+Le scrutin est de liste et à deux tours avec représentation proportionnelle à la plus forte moyenne.
+
+Au premier tour de scrutin, chaque liste est établie par les organisations syndicales représentatives au sens de l'article L.
+412-3. Si le nombre des votants est inférieur à la moitié des électeurs inscrits, il est procédé, dans un délai de quinze
+jours, à un second tour de scrutin pour lequel les électeurs peuvent voter pour des listes autres que celles présentées par
+les organisations syndicales.
+
+Lorsque le nom d'un candidat a été raturé, les ratures ne sont pas prises en compte si leur nombre est inférieur à 10 % des
+suffrages valablement exprimés en faveur de la liste sur laquelle figure ce candidat ; dans ce cas, les candidats sont
+proclamés élus dans l'ordre de présentation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 12 (V)
+	  - Code du travail applicable à Mayotte. - art. L443-10 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L412-3 (M)
+
+
+###### Article L443-9
+
+Les contestations relatives à l'électorat, à la régularité des opérations électorales et à la désignation des représentants
+syndicaux sont de la compétence du tribunal de première instance qui statue en dernier ressort. La décision peut être déférée
+à la Cour de cassation.
+
+Lorsqu'une contestation rend indispensable le recours à une mesure d'instruction, les dépenses afférentes à cette mesure sont
+à la charge de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R443-4 (V)
+	  - Code du travail applicable à Mayotte. - art. R444-3 (V)
+
+
+###### Article L443-10
+
+Les membres du comité d'entreprise sont élus pour deux ans, leur mandat est renouvelable.
+
+Les fonctions de ces membres prennent fin par le décès, la démission, la résiliation du contrat de travail ou à la suite
+d'une condamnation entraînant la perte du droit d'éligibilité. Ils conservent leur mandat en cas de changement de catégorie
+professionnelle.
+
+Tout membre du comité peut être révoqué en cours de mandat sur proposition faite par l'organisation syndicale qui l'a
+présenté et approuvée au scrutin secret par la majorité du collège électoral auquel il appartient.
+
+Lorsqu'un membre titulaire cesse ses fonctions pour l'une des raisons susindiquées ou se trouve momentanément absent pour une
+cause quelconque, son remplacement est assuré par un membre suppléant appartenant à une liste présentée par l'organisation
+syndicale qui a présenté la liste sur laquelle le titulaire à remplacer a été élu, la priorité étant donnée au suppléant de
+la même catégorie.
+
+S'il n'existe pas de suppléant élu sur une liste présentée par l'organisation syndicale qui a présenté le titulaire, le
+remplacement est assuré par le suppléant de la même catégorie qui a obtenu le plus grand nombre de voix.
+
+Le suppléant devient titulaire jusqu'au retour de celui qu'il remplace ou jusqu'au renouvellement du comité d'entreprise.
+
+Des élections partielles doivent être organisées à l'initiative de l'employeur si, au cours des dix-huit mois suivant
+l'élection du comité, un collège électoral n'est plus représenté ou si le nombre des membres titulaires de la délégation du
+personnel se réduit de moitié ou plus.
+
+Les élections partielles se déroulent dans les conditions fixées à l'article L. 443-8 pour pourvoir aux sièges vacants dans
+les collèges intéressés, sur la base des dispositions en vigueur lors de l'élection précédente.
+
+Les candidats sont élus pour la durée du mandat restant à courir.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L443-8 (V)
+
+
+###### Article L443-11
+
+Dans toute entreprise ou organisme mentionné à l'article L. 441-1, le chef d'entreprise doit informer, tous les deux ans, le
+personnel, par voie d'affichage, de l'organisation des élections en vue de la désignation des membres du comité d'entreprise.
+Le document affiché précise la date envisagée pour le premier tour de ces élections qui doit se placer au plus tard le
+quarante-cinquième jour suivant celui de l'affichage.
+
+Les organisations syndicales intéressées sont invitées par le chef d'entreprise à négocier le protocole d'accord préélectoral
+et à établir les listes de leurs candidats aux fonctions de membre du comité d'entreprise.
+
+Dans le cas d'un renouvellement du comité, cette invitation doit être faite un mois avant l'expiration du mandat des membres
+en exercice. Le premier tour des élections doit avoir lieu dans la quinzaine qui précède l'expiration de ce mandat.
+
+Dans le cas où, en l'absence de comité, l'employeur est invité à organiser des élections à la suite d'une demande émanant
+d'un salarié ou d'une organisation syndicale, il est tenu d'engager la procédure ci-dessus définie dans le mois suivant la
+réception de ladite demande.
+
+Lorsque le comité n'a pas été constitué ou renouvelé, un procès-verbal de carence est établi par le chef d'entreprise ;
+celui-ci l'affiche dans l'entreprise et le transmet dans les quinze jours à l'inspecteur du travail qui en envoie copie aux
+organisations syndicales de salariés représentatives au sens de l'article L. 412-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 12 (V)
+	  - Code du travail applicable à Mayotte. - art. D320-13 (V)
+	  - Code du travail applicable à Mayotte. - art. L320-7 (V)
+	  - Code du travail applicable à Mayotte. - art. L441-4 (V)
+	  - Code du travail applicable à Mayotte. - art. L450-4 (VT)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L412-3 (M)
+	  - Code du travail applicable à Mayotte. - art. L441-1 (V)
+
+
+###### Article L443-12
+
+En cas de modification dans la situation juridique de l'employeur telle que mentionnée au deuxième alinéa de l'article L.
+122-24, le mandat des membres élus du comité d'entreprise et des représentants syndicaux visés à l'article L. 443-1 de
+l'entreprise qui a fait l'objet de la modification subsiste lorsque cette entreprise conserve son autonomie juridique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L122-24 (M)
+
+
+#### CHAPITRE IV : Fonctionnement.
+
+###### Article L444-1
+
+Pour l'exercice de leurs fonctions, les membres élus du comité d'entreprise et les représentants syndicaux au comité
+d'entreprise peuvent, durant les heures de délégation, se déplacer hors de l'entreprise ; ils peuvent également, tant durant
+les heures de délégation qu'en dehors de leurs heures habituelles de travail, circuler librement dans l'entreprise et y
+prendre tous contacts nécessaires à l'accomplissement de leur mission, notamment auprès d'un salarié à son poste de travail,
+sous réserve de ne pas apporter de gêne importante à l'accomplissement du travail des salariés.
+
+Le chef d'entreprise est tenu de laisser aux membres titulaires du comité d'entreprise et, dans les entreprises de plus de
+cinq cents salariés, aux représentants syndicaux au comité d'entreprise prévus à l'article L. 443-1, le temps nécessaire à
+l'exercice de leurs fonctions dans la limite d'une durée qui, sauf circonstances exceptionnelles, ne peut excéder vingt
+heures par mois.
+
+Ce temps est de plein droit considéré comme temps de travail et payé à l'échéance normale. En cas de contestation par
+l'employeur de l'usage fait du temps ainsi alloué, il lui appartient de saisir la juridiction compétente.
+
+Le temps passé par les membres titulaires et suppléants aux séances du comité et aux réunions des commissions prévues aux
+quatrième et sixième alinéas de l'article L. 444-6 est également payé comme temps de travail. Il n'est pas déduit des vingt
+heures prévues au deuxième alinéa pour les membres titulaires.
+
+En ce qui concerne les représentants syndicaux prévus à l'article L. 443-1, le temps passé aux séances du comité leur est
+payé comme temps de travail et n'est pas déduit dans les entreprises de plus de cinq cents salariés des vingt heures prévues
+au deuxième alinéa.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L441-2 (V)
+	  - Code du travail applicable à Mayotte. - art. L444-9 (V)
+	  - Code du travail applicable à Mayotte. - art. R442-10 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L443-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L444-6 (V)
+
+
+###### Article L444-2
+
+Le comité d'entreprise est présidé par le chef d'entreprise ou son représentant.
+
+Il est procédé par le comité à la désignation d'un secrétaire pris parmi les membres titulaires, assisté éventuellement de
+deux collaborateurs qui ont voix consultative.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+
+###### Article L444-3
+
+Dans les entreprises dont l'effectif est au moins égal à cent cinquante salariés, le comité se réunit au moins une fois par
+mois sur convocation du chef d'entreprise ou de son représentant. Dans les entreprises dont l'effectif est inférieur à cent
+cinquante salariés, et sauf dans le cas où le chef d'entreprise a opté pour l'application des dispositions de l'article L.
+441-2, le comité d'entreprise se réunit au moins une fois tous les deux mois. Le comité peut, en outre, tenir une seconde
+réunion à la demande de la majorité de ses membres.
+
+L'ordre du jour est arrêté par le chef d'entreprise et le secrétaire et communiqué aux membres trois jours au moins avant la
+séance. Lorsque le comité se réunit à la demande de la majorité de ses membres, figurent obligatoirement à l'ordre du jour de
+la séance les questions jointes à la demande de convocation.
+
+Les résolutions sont prises à la majorité des membres présents.
+
+Le président du comité ne participe pas au vote lorsqu'il consulte les membres élus du comité en tant que délégation du
+personnel.
+
+En cas de carence du directeur de l'établissement et à la demande de la moitié au moins des membres du comité, celui-ci peut
+être convoqué par l'inspecteur du travail et siéger sous sa présidence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L238-8 (V)
+	  - Code du travail applicable à Mayotte. - art. L442-10 (V)
+	  - Code du travail applicable à Mayotte. - art. L442-13 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L441-2 (V)
+
+
+###### Article L444-4
+
+Le chef d'entreprise ou son représentant doit faire connaître à la réunion du comité qui suit la communication du procès-
+verbal sa décision motivée sur les propositions qui lui ont été soumises. Les déclarations sont consignées dans le procès-
+verbal.
+
+Le procès-verbal, après avoir été adopté, peut être affiché ou diffusé dans l'entreprise par le secrétaire du comité, selon
+des modalités précisées par le règlement intérieur du comité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+
+###### Article L444-5
+
+Le comité d'entreprise peut se faire assister d'un expert-comptable de son choix en vue de l'examen annuel des comptes prévu
+à l'article L. 442-9, huitième et douzième alinéas, et, dans la limite de deux fois par exercice, en vue de l'examen des
+documents mentionnés au treizième alinéa du même article. Il peut également se faire assister d'un expert dans les conditions
+prévues aux articles L. 442-2 et L. 442-13.
+
+La mission de l'expert-comptable porte sur tous les éléments d'ordre économique, financier ou social nécessaires à
+l'intelligence des comptes et à l'appréciation de la situation de l'entreprise.
+
+Pour opérer toute vérification ou tout contrôle qui entre dans l'exercice de ces missions, l'expert-comptable a accès aux
+mêmes documents que le commissaire aux comptes.
+
+Dans le cadre de la mission prévue à l'article L. 442-2, l'expert a accès aux documents de toutes les sociétés concernées par
+l'opération.
+
+Le comité d'entreprise, dans les entreprises d'au moins trois cents salariés, peut, en outre, avoir recours à un expert à
+l'occasion de tout projet important dans les cas énumérés à l'article L. 442-5. Cet expert dispose des éléments d'information
+prévus à ce même article.
+
+L'expert-comptable et l'expert visé à l'alinéa ci-dessus sont rémunérés par l'entreprise. Ils ont libre accès dans
+l'entreprise.
+
+Le recours à l'expert visé au quatrième alinéa du présent article fait l'objet d'un accord entre le chef d'entreprise et la
+majorité des membres élus du comité. En cas de désaccord sur la nécessité d'une expertise, sur le choix de l'expert, sur
+l'étendue de la mission qui lui est confiée ou sur l'une ou l'autre de ces questions, la décision est prise par le président
+du tribunal de première instance statuant en urgence. Ce dernier est également compétent en cas de litige sur la rémunération
+dudit expert ou de l'expert-comptable visé au premier alinéa du présent article.
+
+Le comité d'entreprise peut faire appel à tout expert rémunéré par ses soins pour la préparation de ses travaux. Le recours à
+un expert donne lieu à délibération du comité d'entreprise. L'expert choisi par le comité dispose des documents détenus par
+le comité d'entreprise. Il a accès au local du comité et, dans des conditions définies par accord entre l'employeur et la
+majorité des membres élus du comité, aux autres locaux de l'entreprise.
+
+Les experts visés ci-dessus sont tenus aux obligations de secret et de discrétion tels que définis à l'article L. 442-16.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L320-34 (V)
+	  - Code du travail applicable à Mayotte. - art. L432-4 (V)
+	  - Code du travail applicable à Mayotte. - art. L432-5 (V)
+	  - Code du travail applicable à Mayotte. - art. L442-1 (V)
+	  - Code du travail applicable à Mayotte. - art. R444-2 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L442-13 (V)
+	  - Code du travail applicable à Mayotte. - art. L442-16 (V)
+	  - Code du travail applicable à Mayotte. - art. L442-2 (V)
+	  - Code du travail applicable à Mayotte. - art. L442-5 (V)
+	  - Code du travail applicable à Mayotte. - art. L442-9 (V)
+
+
+###### Article L444-6
+
+Le comité d'entreprise peut créer des commissions pour l'examen de problèmes particuliers.
+
+Il peut adjoindre aux commissions avec voix consultative des experts et des techniciens appartenant à l'entreprise et choisis
+en dehors du comité. Les dispositions de l'article L. 442-16 leur sont applicables.
+
+Les rapports des commissions sont soumis à la délibération du comité.
+
+Dans les entreprises employant au moins deux cents salariés, le comité d'entreprise constitue obligatoirement une commission
+de la formation qui est chargée de préparer les délibérations du comité d'entreprise prévues à l'article L. 442-7.
+
+Cette commission est, en outre, chargée d'étudier les moyens propres à favoriser l'expression des salariés en matière de
+formation et de participer à l'information de ceux-ci dans le même domaine. Elle étudie également les problèmes spécifiques
+concernant l'emploi et le travail des jeunes et des handicapés.
+
+Dans les entreprises employant au moins deux cents salariés, le comité d'entreprise constitue une commission de l'égalité
+professionnelle qui est notamment chargée de préparer les délibérations du comité d'entreprise prévues à l'article L. 442-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L442-16 (V)
+	  - Code du travail applicable à Mayotte. - art. L442-7 (V)
+	  - Code du travail applicable à Mayotte. - art. L442-8 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L444-1 (V)
+
+
+###### Article L444-7
+
+Le chef d'entreprise verse au comité une subvention de fonctionnement d'un montant annuel équivalent à 0,2 % de la masse
+salariale brute ; ce montant s'ajoute à la subvention destinée aux activités sociales et culturelles, sauf si l'employeur
+fait déjà bénéficier le comité d'entreprise d'une somme ou de moyens en personnel équivalents à 0,2 % de la masse salariale
+brute ; il met à la disposition du comité un local aménagé et le matériel nécessaire à l'exercice de ses fonctions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L432-4 (V)
+
+
+###### Article L444-8
+
+Le comité d'entreprise peut décider que certaines de ses délibérations seront transmises au directeur du travail, de l'emploi
+et de la formation professionnelle.
+
+Les inspecteurs et contrôleurs du travail peuvent, sur leur demande, et à tout moment, prendre connaissance des délibérations
+du comité d'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R442-10 (V)
+
+
+###### Article L444-9
+
+Les membres titulaires du comité d'entreprise qui seront élus bénéficient, dans les conditions et limites prévues à l'article
+L. 225-3, d'un stage de formation économique d'une durée maximale de cinq jours dispensé soit par un organisme figurant sur
+une liste arrêtée par le représentant de l'Etat à Mayotte, soit par un des organismes visés à l'article L. 225-1. Cette
+formation est renouvelée lorsqu'ils ont exercé leur mandat pendant quatre ans, consécutifs ou non.
+
+Le temps consacré à cette formation est pris sur le temps de travail et il est rémunéré comme tel. Il n'est pas déduit du
+temps qui, en application de l'article L. 444-1, est alloué aux membres du comité d'entreprise pour l'exercice de leurs
+fonctions. Il est imputé sur la durée du congé prévu à la section 1 du chapitre V du titre II du livre II du présent code.
+
+Le financement de la formation instituée au présent article est pris en charge par le comité d'entreprise.
+
+En l'absence d'organisme apte à délivrer cette formation pour les salariés exerçant leur activité à Mayotte, celle-ci peut
+être organisée par la direction du travail, de l'emploi et de la formation professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L225-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L225-4 (VD)
+	  - Code du travail applicable à Mayotte. - art. L432-4 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L225-3 (V)
+	  - Code du travail applicable à Mayotte. - art. L444-1 (V)
+
+
+###### Article L444-10
+
+Les conditions de fonctionnement des comités d'entreprise doivent permettre une prise en compte effective des intérêts des
+salariés exerçant leur activité hors de l'entreprise ou dans des unités dispersées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+
+###### Article L444-11
+
+Les dispositions qui précèdent ne font pas obstacle aux dispositions concernant le fonctionnement ou les pouvoirs des comités
+d'entreprise qui résultent d'accords collectifs ou d'usages.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+
+#### CHAPITRE V : Conditions de licenciement des représentants du personnel.
+
+###### Article L445-1
+
+Tout licenciement envisagé par l'employeur d'un membre titulaire ou suppléant du comité d'entreprise ou d'un représentant
+syndical prévu à l'article L. 443-1 est obligatoirement soumis au comité d'entreprise qui donne un avis sur le projet de
+licenciement.
+
+Le licenciement ne peut intervenir que sur autorisation de l'inspecteur du travail dont dépend l'établissement. Toutefois, en
+cas de faute grave, le chef d'entreprise a la faculté de prononcer la mise à pied immédiate de l'intéressé en attendant la
+décision définitive. En cas de refus de licenciement, la mise à pied est annulée et ses effets supprimés de plein droit.
+
+La même procédure est applicable au licenciement des anciens membres des comités d'entreprise ainsi que des anciens
+représentants syndicaux qui, désignés depuis deux ans, ne seraient pas reconduits dans leurs fonctions lors du renouvellement
+du comité, pendant les six premiers mois qui suivent l'expiration de leur mandat ou la disparition de l'institution. Cette
+procédure s'applique également aux candidats aux fonctions de membres du comité, qui ont été présentés en vue du premier ou
+du deuxième tour, pendant les six mois qui suivent l'envoi des listes de candidatures à l'employeur ou leur remise en main
+propre, contre décharge.
+
+La même procédure s'applique lorsque la lettre du syndicat notifiant à l'employeur la candidature aux fonctions de membre du
+comité d'entreprise ou de représentant syndical au comité d'entreprise a été reçue par l'employeur ou lorsque le salarié a
+fait la preuve que l'employeur a eu connaissance de l'imminence de sa candidature avant que le candidat ait été convoqué à
+l'entretien préalable au licenciement prévu par l'article L. 122-27.
+
+Lorsqu'un membre du comité d'entreprise ou un représentant syndical au comité d'entreprise est compris dans un transfert
+partiel d'entreprise ou d'établissement, par application du deuxième alinéa de l'article L. 122-24, le transfert de ce
+salarié doit être soumis à l'autorisation préalable de l'inspecteur du travail qui s'assure que le salarié ne fait pas
+l'objet d'une mesure discriminatoire. Si l'autorisation de transfert est refusée, l'employeur doit proposer au salarié un
+emploi similaire assorti d'une rémunération équivalente dans un autre établissement ou une autre partie de l'entreprise.
+
+Afin de faciliter la mise en place des comités d'entreprise, les salariés qui ont demandé à l'employeur d'organiser les
+élections au comité d'entreprise, ou d'accepter d'organiser les élections, bénéficient de la procédure prévue aux alinéas ci-
+dessus pendant une durée de six mois, qui court à compter de l'envoi de la lettre recommandée par laquelle une organisation
+a, la première, demandé ou accepté qu'il soit procédé à des élections ou à compter de la date où ce document est remis à
+l'employeur ou à son représentant en main propre contre récépissé.
+
+La procédure prévue à l'alinéa précédent ne peut s'appliquer qu'à un seul salarié par organisation syndicale ainsi qu'au
+premier salarié, non mandaté par une organisation syndicale, qui a demandé l'organisation des élections.
+
+Cette procédure est également applicable aux membres des comités institués par voie conventionnelle.
+
+En cas de procédure de sauvegarde ou de redressement ou de liquidation judiciaire, tout licenciement d'un salarié mentionné
+aux précédents alinéas est soumis à la procédure définie au présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2014-1291 du 23 octobre 2014 - art. (V)
+	  - Code du travail applicable à Mayotte. - art. L238-9 (V)
+	  - Code du travail applicable à Mayotte. - art. R414-12 (V)
+	  - Code du travail applicable à Mayotte. - art. R414-7 (V)
+	  - Code du travail applicable à Mayotte. - art. R445-1 (V)
+	  - Code du travail applicable à Mayotte. - art. R445-10 (V)
+	  - Code du travail applicable à Mayotte. - art. R445-5 (V)
+	  - Code du travail applicable à Mayotte. - art. R445-9 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L122-24 (M)
+	  - Code du travail applicable à Mayotte. - art. L122-27 (M)
+	  - Code du travail applicable à Mayotte. - art. L443-1 (V)
+
+
+###### Article L445-2
+
+Lorsque le salarié, membre ou ancien membre du comité d'entreprise, candidat aux fonctions de membre du comité d'entreprise
+ou représentant syndical, est titulaire d'un contrat à durée déterminée, les dispositions de l'article L. 446-1 sont
+applicables, si l'employeur envisage de rompre le contrat avant l'échéance du terme en raison d'une faute grave du salarié,
+ou n'envisage pas de renouveler le contrat qui comporte une clause de report de terme.
+
+L'arrivée du terme du contrat n'entraîne la cessation du lien contractuel qu'après constatation par l'inspecteur du travail,
+saisi dans les conditions prévues à l'article L. 446-1, que le salarié ne fait pas l'objet d'une mesure discriminatoire. Un
+mois avant l'arrivée du terme du contrat, l'employeur doit saisir l'inspecteur du travail qui doit statuer avant la date du
+terme du contrat.
+
+Les dispositions des deux alinéas précédents sont applicables pendant les délais prévus au précédent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte L446-1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L238-9 (V)
+
+
+###### Article L445-3
+
+L'annulation, sur recours hiérarchique, par le ministre chargé du travail d'une décision de l'inspecteur du travail
+autorisant le licenciement d'un salarié mentionné aux articles L. 446-1 et L. 446-2 emporte, pour le salarié concerné et s'il
+le demande dans un délai de deux mois à compter de la notification de la décision, droit à réintégration dans son emploi ou
+dans un emploi équivalent.
+
+Il en est de même dans le cas où, sauf sursis à exécution ordonné par le Conseil d'Etat, le juge administratif a annulé une
+décision de l'inspecteur du travail ou du ministre compétent autorisant un tel licenciement.
+
+Le salarié concerné est réintégré dans son mandat si l'institution n'a pas été renouvelée. Dans le cas contraire, il
+bénéficie pendant une durée de six mois à compter du jour où il retrouve sa place dans l'entreprise, de la procédure prévue à
+l'article L. 446-1.
+
+Lorsque l'annulation de la décision d'autorisation est devenue définitive, le salarié concerné a droit au paiement d'une
+indemnité correspondant à la totalité du préjudice subi au cours de la période qui s'est écoulée entre son licenciement et sa
+réintégration s'il l'a demandée dans le délai, prévu au premier alinéa, ou l'expiration de ce délai dans le cas contraire. Ce
+paiement s'accompagne du versement des cotisations afférentes à ladite indemnité, qui constitue un complément de salaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte L446-1, L446-2
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L238-9 (V)
+
+
+### TITRE V : PÉNALITÉS.
+
+###### Article L450-1
+
+Les directeurs ou administrateurs de syndicats ou d'unions de syndicats qui auront commis des infractions aux dispositions de
+l'article L. 411-1 seront punis d'une amende de 3750 euros. La dissolution du syndicat ou de l'union de syndicats pourra, en
+outre, être prononcée à la diligence du procureur de la République.
+
+En cas de fausse déclaration relative aux statuts et aux noms et qualités des directeurs ou administrateurs, l'amende sera de
+3750 euros.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 21 (V) JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L133-3 (V)
+	  - Code du travail applicable à Mayotte. - art. L441-7 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L411-1 (M)
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. L430-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L430-1 (T)
+
+
+###### Article L450-2
+
+Les chefs d'établissement, directeurs ou gérants qui auront enfreint les dispositions des articles L. 412-2 et L. 413-2
+seront passibles d'une amende de 3750 euros et, en cas de récidive, d'un emprisonnement d'un an et d'une amende de 7500 euros
+ou de l'une de ces deux peines seulement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 21 (V) JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L412-2 (M)
+	  - Code du travail applicable à Mayotte. - art. L413-2 (M)
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. L430-2 (M)
+	  - Code du travail applicable à Mayotte. - art. L430-2 (T)
+
+
+###### Article L450-3
+
+Quiconque aura porté ou tenté de porter atteinte, soit à la libre désignation des délégués du personnel, soit à l'exercice
+régulier de leurs fonctions, notamment par la méconnaissance des dispositions des articles L. 435-1 à L. 435-3 et L. 433-16
+et des textes réglementaires pris pour leur application, sera puni d'un emprisonnement d'un an et d'une amende de 3 750 Euros
+ou de l'une de ces deux peines seulement.
+
+En cas de récidive, l'emprisonnement peut être porté à deux ans et l'amende à 7 500 Euros.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 24 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte.
+	  - Code du travail applicable à Mayotte. - art. L433-16
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L441-7 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. L450-1 (VD)
+
+
+###### Article L450-4
+
+Toute entrave apportée, soit à la constitution d'un comité d'entreprise, soit à la libre désignation de ses membres, soit à
+son fonctionnement régulier, notamment par la méconnaissance des dispositions des articles L. 443-11, L. 445-1 à L. 445-3 et
+des textes réglementaires pris pour leur application, sera punie d'un emprisonnement d'un an et d'une amende de 3 750 Euros
+ou de l'une de ces deux peines seulement.
+
+En cas de récidive, l'emprisonnement pourra être porté à deux ans et l'amende à 7 500 Euros.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 du 28 décembre 1991
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 24 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte.
+	  - Code du travail applicable à Mayotte. - art. L443-11
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L441-7 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. L450-2 (VD)
 
 
 ## LIVRE V : CONFLITS DU TRAVAIL
@@ -14676,6 +20692,8 @@ Un décret contresigné par le ministre chargé du travail et par le garde des s
 modalités de contrôle de l'application des dispositions du présent code aux salariés des offices publics et ministériels, des
 professions libérales, des sociétés civiles, des syndicats professionnels et associations de quelque nature que ce soit.
 
+Les contrôleurs du travail exercent leurs compétences sous l'autorité des inspecteurs du travail.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -14709,7 +20727,7 @@ professions libérales, des sociétés civiles, des syndicats professionnels et 
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-1253 du 24 novembre 2004 - art. 142 () JORF 25 novembre 2004
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 26 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article L610-2
@@ -15021,8 +21039,8 @@ soit du jour de la première présentation de la lettre recommandée.
 ###### Article L610-13
 
 Dans la collectivité départementale de Mayotte, la décision intéressant la demande de licenciement d'un délégué du personnel
-prise en application de l'article 167 de la loi du 15 décembre 1952 susvisée peut faire l'objet d'un recours hiérarchique
-auprès du ministre chargé du travail.
+prise en application de l'article L. 435-1 susvisée peut faire l'objet d'un recours hiérarchique auprès du ministre chargé du
+travail.
 
 Avant l'expiration du délai prévu en application de l'article L. 230-10 ou de l'article L. 240-5 et au plus tard dans les
 quinze jours qui suivent la mise en demeure, le chef d'établissement peut saisir d'une réclamation le directeur du travail,
@@ -15038,13 +21056,6 @@ précédent vaut acceptation de la réclamation. Tout refus doit être motivé.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°52-1322 du 15 décembre 1952 - art. 167 (V)
-	  - Code du travail applicable à Mayotte. - art. L230-10 (M)
-	  - Code du travail applicable à Mayotte. - art. L230-9 (M)
-	  - Code du travail applicable à Mayotte. - art. L240-5 (M)
-
 	**Codifié par**:
 
 	  - Ordonnance 91-246 1991-02-25 art. 1
@@ -15052,7 +21063,14 @@ précédent vaut acceptation de la réclamation. Tout refus doit être motivé.
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 25 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L230-10 (M)
+	  - Code du travail applicable à Mayotte. - art. L230-9 (M)
+	  - Code du travail applicable à Mayotte. - art. L240-5 (M)
+	  - Code du travail applicable à Mayotte. - art. L435-1 (M)
 
 
 ###### Article L610-14
@@ -15080,6 +21098,35 @@ précités disposent des pouvoirs d'investigation accordés par les textes parti
 	**Cite**:
 
 	  - Code du travail applicable à Mayotte. - art. L124-1 (M)
+
+
+###### Article L610-15
+
+Les agents des services des douanes sont compétents pour rechercher et constater, au moyen de procès-verbaux transmis
+directement au parquet, les infractions aux dispositions de l'article L. 330-5. Ils disposent à cet effet des pouvoirs
+d'investigation prévus par les textes qui leur sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Cité par**:
+
+	  - Décret n°2001-635 du 17 juillet 2001 - art. 34-1 (Ab)
+	  - Loi n°2015-1702 du 21 décembre 2015 - art. 94
+	  - Code du travail applicable à Mayotte. - art. L313-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L330-9 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 27 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L330-5 (M)
 
 
 ### TITRE II : OBLIGATIONS DES EMPLOYEURS.
@@ -15150,8 +21197,8 @@ l'embauchage.
 Les indications complémentaires qui doivent être mentionnées sur ce registre soit pour l'ensemble des salariés, soit pour
 certaines catégories seulement, sont définies par voie réglementaire.
 
-Le registre du personnel est tenu à la disposition des délégués du personnel et des fonctionnaires et agents chargés de
-veiller à l'application du présent code et des agents de la caisse de prévoyance sociale.
+Le registre du personnel est tenu à la disposition des délégués du personnel et des membres du comité d'entreprise et des
+fonctionnaires et agents chargés de veiller à l'application du présent code et des agents de la caisse de prévoyance sociale.
 
 **Liens relatifs à cet article**
 
@@ -15162,7 +21209,7 @@ veiller à l'application du présent code et des agents de la caisse de prévoya
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 25 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -15186,7 +21233,8 @@ Les registres sont conservés pendant cinq ans.
 
 Le registre est tenu constamment à la disposition des inspecteurs du travail.
 
-Les représentants du personnel peuvent consulter ce registre.
+Les représentants du personnel et les membres du comité d'hygiène, de sécurité et des conditions de travail peuvent consulter
+ce registre.
 
 **Liens relatifs à cet article**
 
@@ -15197,7 +21245,7 @@ Les représentants du personnel peuvent consulter ce registre.
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 25 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -15274,6 +21322,73 @@ L. 620-1 et L. 620-3, à l'exception de celles relatives aux travailleurs étran
 
 	  - Code du travail applicable à Mayotte. - art. L620-1 (M)
 	  - Code du travail applicable à Mayotte. - art. L620-3 (M)
+
+
+###### Article L620-8
+
+Pour la mise en oeuvre des dispositions du présent code, les effectifs de l'entreprise sont calculés conformément aux
+dispositions suivantes.
+
+Les salariés titulaires d'un contrat à durée indéterminée à temps plein sont pris intégralement en compte dans l'effectif de
+l'entreprise.
+
+Les salariés titulaires d'un contrat à durée déterminée, les travailleurs mis à la disposition de l'entreprise par une
+entreprise extérieure sont pris en compte dans l'effectif de l'entreprise au prorata de leur temps de présence au cours des
+douze mois précédents. Toutefois, les salariés titulaires d'un contrat à durée déterminée ou mis à disposition par une
+entreprise extérieure sont exclus du décompte des effectifs lorsqu'ils remplacent un salarié absent ou dont le contrat de
+travail est suspendu.
+
+Les salariés à temps partiel, quelle que soit la nature de leur contrat de travail, sont pris en compte en divisant la somme
+totale des horaires inscrits dans leurs contrats de travail par la durée légale ou la durée conventionnelle du travail.
+
+**Nota:**
+
+Nota : Ordonnance 2005-892 2005-08-02 art. 5 : les dispositions de l'art. L620-8 sont modifiées par l'ordonnance 2005-892 et
+seront en vigueur jusqu'au 31 décembre 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 28 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L238-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L328-3 (VD)
+	  - Code du travail applicable à Mayotte. - art. L431-2 (V)
+	  - Code du travail applicable à Mayotte. - art. L433-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L441-3 (V)
+	  - Code du travail applicable à Mayotte. - art. L443-1 (V)
+	  - Code du travail applicable à Mayotte. - art. R128-5 (V)
+
+
+###### Article L620-9
+
+Les salariés mis à disposition par un groupement d'employeurs ou une association intermédiaire ne sont pas pris en compte
+pour le calcul des effectifs de l'entreprise utilisatrice pour l'application des dispositions législatives ou réglementaires
+relatives à la formation professionnelle continue et à la tarification des risques accident du travail et maladie
+professionnelle qui se réfèrent à une condition d'effectif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 28 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 6
 
 
 ### TITRE III : PÉNALITÉS.
@@ -15391,10 +21506,10 @@ Les dispositions du premier alinéa de l'article L. 122-12 ne s'appliquent pas a
 
 Seules les entreprises habilitées par l'autorité administrative compétente peuvent conclure des contrats de qualification.
 
-Cette habilitation est subordonnée soit à la conclusion par l'entreprise, après consultation des délégués du personnel, s'ils
-existent, d'une convention avec un établissement d'enseignement public ou un organisme de formation alternée public ou privé
-prévoyant les modalités d'organisation de la formation alternée, soit à l'adhésion de l'entreprise à un accord-cadre conclu
-entre l'Etat et une organisation professionnelle ou interprofessionnelle.
+Cette habilitation est subordonnée soit à la conclusion par l'entreprise, après consultation du comité d'entreprise ou, à
+défaut, des délégués du personnel, s'ils existent, d'une convention avec un établissement d'enseignement public ou un
+organisme de formation alternée public ou privé prévoyant les modalités d'organisation de la formation alternée, soit à
+l'adhésion de l'entreprise à un accord-cadre conclu entre l'Etat et une organisation professionnelle ou interprofessionnelle.
 
 Cet accord-cadre, conclu après consultation des organisations syndicales de salariés représentatives au sens de l'article L.
 412-3, définit les conditions dans lesquelles les entreprises qui y adhèrent et les établissements d'enseignement ou
@@ -15414,7 +21529,7 @@ subordonnée l'habilitation.
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 25 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -15582,22 +21697,13 @@ La contribution est contrôlée et recouvrée selon les modalités prévues pour
 applicable dans la collectivité départementale de Mayotte.
 
 La gestion du fonds est assurée par un organisme paritaire créé par un accord professionnel de travail et agréé par arrêté du
-représentant de l'Etat.
+représentant de l'Etat. Les modalités de gestion de cet organisme sont fixées par décret en Conseil d'Etat.
 
 Le plafond des rémunérations prises en compte pour l'assiette de la contribution et les modalités de contrôle de l'organisme
 gestionnaire du fonds sont précisés par arrêté du représentant de l'Etat.
 
 Cet arrêté fixe également la part minimum des sommes collectées qui doivent être affectées aux actions de formation
 dispensées dans le cadre des contrats de formation en alternance mentionnées aux articles L. 711-5 à L. 711-7.
-
-Les organismes privés de formation intervenant dans la collectivité départementale au titre des actions prévues à l'article
-L. 711-2 font l'objet d'un agrément délivré par le représentant de l'Etat. Il est tenu compte, pour la délivrance de
-l'agrément, des capacités financières de l'organisme, des moyens matériels et humains mis en oeuvre, de la régularité de la
-situation des candidats à l'agrément au regard de l'acquittement des cotisations sociales et des impositions de toute nature,
-ainsi que de la qualité de la formation dispensée.
-
-Les organismes existant à la date de promulgation de l'ordonnance n° 2000-285 du 30 mars 2000 portant actualisation et
-adaptation du droit du travail de l'outre-mer sont soumis aux mêmes obligations dans un délai de trois ans.
 
 **Liens relatifs à cet article**
 
@@ -15606,14 +21712,9 @@ adaptation du droit du travail de l'outre-mer sont soumis aux mêmes obligations
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Cite**:
-
-	  - Ordonnance 2000-285 2000-03-30
-	  - Code du travail applicable à Mayotte L711-2, L711-5 à L711-7
-
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 29 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -15635,6 +21736,98 @@ adaptation du droit du travail de l'outre-mer sont soumis aux mêmes obligations
 	  - Code du travail applicable à Mayotte. - art. R713-12 (VT)
 	  - Code rural - art. D371-16 (V)
 	  - Code rural et de la pêche maritime - art. D372-18 (Ab)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte L711-2, L711-5 à L711-7
+
+
+###### Article L711-1-1
+
+I. - Les actions de formation professionnelle et de promotion sociale mentionnées aux livres III et VII du présent code
+peuvent faire l'objet de conventions. Elles déterminent notamment :
+
+a) La nature, l'objet, la durée et les effectifs des stages qu'elles prévoient ;
+
+b) Les modalités de formation, en particulier lorsqu'il s'agit de formations réalisées en tout ou en partie à distance ;
+
+c) Les moyens pédagogiques et techniques mis en oeuvre ;
+
+d) Les conditions de prise en charge des frais de formation pédagogique des éducateurs et leur rémunération ;
+
+e) Lorsqu'elles concernent des salariés, les facilités accordées, le cas échéant, à ces derniers pour poursuivre les stages
+qu'elles prévoient, notamment les congés, aménagements ou réductions d'horaires dont ils bénéficient en application de
+dispositions législatives, réglementaires ou de clauses contractuelles ;
+
+f) Les modalités de contrôle des connaissances et la nature de la sanction de la formation dispensée ;
+
+g) La répartition des charges financières relatives au fonctionnement des stages et à la rémunération des stagiaires ainsi
+que, le cas échéant, à la construction et à l'équipement des centres ;
+
+h) Les modalités de règlement amiable des difficultés auxquelles peut donner lieu l'exécution de la convention.
+
+II. - Les organismes de formation intervenant à Mayotte au titre des actions prévues à l'article L. 711-2 doivent déposer,
+auprès de l'autorité de l'Etat chargée de la formation professionnelle, une déclaration d'activité dès la conclusion de leur
+première convention ou contrat de formation professionnelle.
+
+Nul ne peut, même de fait, exercer une fonction de direction ou d'administration dans un organisme de formation au sens du
+présent livre s'il a fait l'objet d'une condamnation pénale à raison de faits constituant des manquements à la probité, aux
+bonnes moeurs et à l'honneur.
+
+La déclaration d'activité comprend les informations administratives d'identification de la personne physique ou morale, ainsi
+que les éléments descriptifs de son activité. L'autorité administrative de l'Etat chargée de la formation professionnelle
+procède à l'enregistrement des déclarations au vu des pièces produites. L'enregistrement est annulé par décision de la même
+autorité administrative lorsqu'il apparaît que les prestations réalisées ne correspondent pas aux actions visées à l'article
+L. 711-2. Les décisions d'annulation de l'enregistrement sont motivées et notifiées aux intéressés dans les conditions
+prévues à l'article L. 711-4. La déclaration devient caduque lorsque les bilans pédagogiques et financiers prévus au dernier
+alinéa du présent article ne font apparaître aucune activité de formation au titre de deux années consécutives, ou lorsque,
+pendant cette même période, ces bilans n'ont pas été adressés à l'autorité administrative de l'Etat chargée de la formation
+professionnelle. Une déclaration rectificative est souscrite en cas de modification d'un ou des éléments de la déclaration
+initiale. La cessation d'activité doit également faire l'objet d'une déclaration. Le conseil général a communication des
+éléments de la déclaration et de ses éventuelles modifications, du bilan pédagogique et financier de l'activité, du bilan, du
+compte de résultat et de l'annexe du dernier exercice clos par les organismes dont les actions de formation au sens de
+l'article L. 711-2 bénéficient de son concours financier.
+
+Les personnes physiques ou morales qui réalisent des prestations de formation professionnelle continue au sens de l'article
+L. 711-2 doivent justifier des titres et qualités des personnels d'enseignement et d'encadrement qu'elles emploient, et de la
+relation entre ces titres et qualités et les prestations réalisées dans le champ de la formation professionnelle.
+
+Les modalités de ces déclarations ainsi que l'usage que peut en faire son auteur sont réglés par décret en Conseil d'Etat.
+
+III. - Les organismes de formation adressent chaque année à l'autorité administrative de l'Etat un document retraçant
+l'emploi des sommes reçues au titre des conventions mentionnées au I du présent article et dressant un bilan pédagogique et
+financier de leur activité. Ce document est accompagné du bilan, du compte de résultat et de l'annexe du dernier exercice
+clos.
+
+IV. - Toute infraction aux dispositions des II et III du présent article est punie d'une amende de 4 500 Euros.
+
+Cette condamnation peut être assortie, à titre de peine complémentaire, d'une interdiction d'exercer temporairement ou
+définitivement l'activité de dirigeant d'un organisme de formation professionnelle.
+
+Toute infraction à cette interdiction sera punie d'une amende de 15 000 Euros et d'un emprisonnement de deux ans ou de l'une
+de ces deux peines seulement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 30 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L711-2 (M)
+	  - Code du travail applicable à Mayotte. - art. L711-4 (M)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R322-19 (VD)
+	  - Code du travail applicable à Mayotte. - art. R322-43 (VD)
+	  - Code du travail applicable à Mayotte. - art. R712-1 (VT)
 
 
 ###### Article L711-2
@@ -15660,7 +21853,10 @@ travail ;
 8° La lutte contre l'illettrisme ;
 
 9° Les actions de formation continue relatives à la radioprotection des personnes prévues par l'article L. 1333-11 du code de
-la santé publique.
+la santé publique ;
+
+10° Les actions permettant aux salariés de faire valider les acquis de leurs expériences en vue de l'acquisition d'un diplôme
+ou d'un titre à finalité professionnelle en application de l'article L. 335-5 du code de l'éducation.
 
 **Liens relatifs à cet article**
 
@@ -15703,25 +21899,24 @@ la santé publique.
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 31 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
+	  - Code de l'éducation - art. L335-5 (M)
 	  - Code de la santé publique - art. L1333-11 (T)
 
 
 ###### Article L711-3
 
-Une délibération du conseil d'administration de l'organisme collecteur mentionné à l'article L. 711-1, agréé par arrêté du
+Une délibération du conseil d'administration de l'organisme collecteur mentionné à l'article L. 711-1, agréée par arrêté du
 représentant de l'Etat, définit chaque année la répartition des ressources entre :
 
 1° Les actions de formation professionnelle en cours d'emploi ;
 
-2° Les actions de formation en alternance ;
+2° Les actions de formation en alternance.
 
-3° Les actions d'insertion et de formation pour les demandeurs d'emploi.
-
-A défaut d'un tel agrément, cette répartition est fixée par un arrêté du représentant de l'Etat à Mayotte.
+A défaut d'une telle délibération, cette répartition est fixée par un arrêté du représentant de l'Etat à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -15732,7 +21927,7 @@ A défaut d'un tel agrément, cette répartition est fixée par un arrêté du r
 
 	**Modifié par**:
 
-	  - Loi n°2002-73 du 17 janvier 2002 - art. 199 () JORF 18 janvier 2002
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 32 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -15741,12 +21936,29 @@ A défaut d'un tel agrément, cette répartition est fixée par un arrêté du r
 
 ###### Article L711-4
 
-L'Etat exerce un contrôle administratif et financier sur l'ensemble des moyens financiers, techniques et pédagogiques mis en
-oeuvre pour la formation professionnelle continue. Ce contrôle porte sur les dépenses de formation exposées par les
-employeurs, les activités de l'organisme paritaire, des organismes de formation et les conditions d'exécution des actions de
-formation au financement desquelles participe l'Etat. Ces organismes sont tenus de présenter aux inspecteurs et contrôleurs
-du travail les documents nécessaires à ces contrôles. Les modalités d'application du présent article sont fixées par décret
-en Conseil d'Etat.
+I. - L'Etat exerce un contrôle administratif et financier, opéré soit sur place, soit sur pièces, sur l'ensemble des moyens
+financiers, techniques et pédagogiques mis en oeuvre pour la formation professionnelle.
+
+Ce contrôle porte sur les dépenses de formation exposées par les employeurs, les activités de l'organisme paritaire mentionné
+à l'article L. 711-1, des organismes de formation et les conditions d'exécution des actions de formation au financement
+desquelles participe l'Etat.
+
+Ces organismes sont tenus de présenter aux agents chargés du contrôle tous les documents nécessaires. L'administration
+fiscale et les services de l'Etat qui financent des actions de formation professionnelle sont tenus de communiquer à ces
+agents les renseignements nécessaires à l'accomplissement de leur mission.
+
+II. - Le contrôle prévu au I est exercé par des inspecteurs et contrôleurs en charge de la formation professionnelle
+commissionnés à cet effet par le représentant de l'Etat à Mayotte, ou, à défaut, par les inspecteurs et les contrôleurs du
+travail.
+
+Pour l'exercice de leurs missions, les inspecteurs et contrôleurs de la formation professionnelle sont tenus au secret
+professionnel dans les termes des articles 226-13 et 226-14 du code pénal. Ils bénéficient d'un droit d'entrée dans les
+entreprises dans les conditions prévues aux articles L. 610-6 et L. 610-7.
+
+Les dispositions des articles L. 630-1 et L. 630-2 sont applicables à quiconque met obstacle à l'accomplissement des devoirs
+d'un inspecteur ou d'un contrôleur de la formation professionnelle.
+
+III. - Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -15757,7 +21969,21 @@ en Conseil d'Etat.
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 33 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 8
+
+	**Cite**:
+
+	  - Code pénal - art. 226-13
+	  - Code pénal - art. 226-14
+	  - Code du travail applicable à Mayotte. - art. L610-6
+	  - Code du travail applicable à Mayotte. - art. L610-7
+	  - Code du travail applicable à Mayotte. - art. L630-1
+	  - Code du travail applicable à Mayotte. - art. L630-2
+	  - Code du travail applicable à Mayotte. - art. L711-1
 
 	**Cité par**:
 
@@ -15769,6 +21995,39 @@ en Conseil d'Etat.
 	  - Code du travail applicable à Mayotte. - art. R712-7 (VT)
 	  - Code du travail applicable à Mayotte. - art. R712-8 (VT)
 	  - Code du travail applicable à Mayotte. - art. R713-11 (VT)
+
+
+###### Article L711-4-1
+
+Les personnes physiques ou morales qui réalisent des actions entrant dans le champ de la formation professionnelle continue
+définies à l'article L. 711-2 adressent chaque année à l'autorité de l'Etat chargée de la formation professionnelle un
+document retraçant l'emploi des sommes reçues et dressant un bilan pédagogique et financier de leur activité. Ce document est
+accompagné du bilan, du compte de résultat et de l'annexe du dernier exercice clos.
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 34 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 8
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L711-2
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R713-10 (VT)
 
 
 # Partie réglementaire - Décrets en Conseil d'Etat
@@ -31380,9 +37639,9 @@ qu'ils passent avec le ministre chargé de l'outre-mer.
 VII. - Le bénéfice du versement de l'aide à un projet initiative-jeune est suspendu par décision du représentant de l'Etat à
 Mayotte lorsque le projet professionnel n'est plus conforme au projet initial ainsi que dans les cas suivants :
 
-1° En cas d'aide à la création d'entreprises, lorsque l'entreprise a cessé son activité, en cas de procédure de redressement
-ou de liquidation judiciaire, ou si la condition de direction effective de l'entreprise créée ou reprise cesse d'être
-remplie.
+1° En cas d'aide à la création d'entreprises, lorsque l'entreprise a cessé son activité, en cas de procédure de sauvegarde ou
+de redressement ou de liquidation judiciaire, ou si la condition de direction effective de l'entreprise créée ou reprise
+cesse d'être remplie.
 
 2° En cas d'aide à la formation en mobilité pour manque d'assiduité à la formation professionnelle prévue.
 
@@ -31415,6 +37674,12 @@ pour permettre l'instruction de la demande d'agrément, les modalités de son d�
 
 L'agrément est délivré par le représentant de l'Etat pour une durée d'un à trois ans, éventuellement renouvelable.
 
+**Nota:**
+
+Conformément à l'article 14 du décret n° 2008-1010 les dispositions introduites par l'article 7 dudit décret entrent en
+vigueur à la date mentionnée à l'article 9 de la loi n° 2008-126 du 13 février 2008. Cette date correspond à la date de la
+première réunion du conseil d'administration de l'institution prévue à l'article L. 5312-1 du code du travail.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -31423,7 +37688,7 @@ L'agrément est délivré par le représentant de l'Etat pour une durée d'un à
 
 	**Modifié par**:
 
-	  - Décret n°2004-1342 du 6 décembre 2004 - art. 2 () JORF 9 décembre 2004
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
@@ -33044,11 +39309,12 @@ L'employeur est remboursé sur production d'états nominatifs, visés par l'auto
 nombre d'heures chômées par chaque salarié ainsi que le montant de l'allocation complémentaire qui lui est versé par
 l'employeur en application de l'article L. 327-10.
 
-Toutefois, en cas de redressement ou de liquidation judiciaire, ou de difficultés financières de l'employeur, le représentant
-de l'Etat à Mayotte ou, sur délégation, le directeur du travail, de l'emploi et de la formation professionnelle peut faire
-procéder au paiement direct des allocations aux salariés. La procédure de paiement direct des allocations aux salariés peut
-également être employée pour assurer, sous le contrôle du directeur du travail, de l'emploi ou de la formation
-professionnelle, l'indemnisation des travailleurs à domicile habituellement occupés par plusieurs employeurs.
+Toutefois, en cas de procédure de sauvegarde ou de redressement ou de liquidation judiciaire, ou de difficultés financières
+de l'employeur, le représentant de l'Etat à Mayotte ou, sur délégation, le directeur du travail, de l'emploi et de la
+formation professionnelle peut faire procéder au paiement direct des allocations aux salariés. La procédure de paiement
+direct des allocations aux salariés peut également être employée pour assurer, sous le contrôle du directeur du travail, de
+l'emploi ou de la formation professionnelle, l'indemnisation des travailleurs à domicile habituellement occupés par plusieurs
+employeurs.
 
 A l'occasion du paiement des allocations, un document indiquant le nombre des heures indemnisées, les taux appliqués et les
 sommes versées au titre de la période considérée est remis au salarié par l'employeur ou, en cas de paiement direct, par les
@@ -33061,13 +39327,21 @@ spécifique, et la partie de l'allocation qui est à la charge de l'employeur, o
 
 	  - Décret n°91-1263 1991-12-16 annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-93 du 27 janvier 2004 - art. 5 () JORF 29 janvier 2004
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1204 du 30 octobre 2012 - art. 1
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L327-10 (V)
+	  - Code du travail applicable à Mayotte. - art. L327-10
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R321-13 (M)
 
 	**Cité par**:
 
