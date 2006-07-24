@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2006-03-02
+Version Consolidée au 2006-07-25
 
 # Partie législative
 
@@ -15541,7 +15541,7 @@ interprofessionnel garanti en vigueur dans la collectivité départementale.
 
 L'employeur qui engage ou conserve à son service un étranger non muni d'une autorisation de travail est puni d'une amende
 sauf si des poursuites judiciaires sont intentées à son encontre pour les mêmes faits. Le montant maximum de celle-ci est
-égal à cent fois le taux horaire du salaire minimum interprofessionnel garanti en vigueur dans la collectivité
+égal à mille fois le taux horaire du salaire minimum interprofessionnel garanti en vigueur dans la collectivité
 départementale. L'amende est due pour chaque étranger employé sans titre de travail.
 
 Le montant de l'amende due par l'étranger ou l'employeur varie en fonction de la durée de l'emploi.
@@ -15564,9 +15564,9 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 17 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 112 () JORF 25 juillet 2006
 
 	**Anciens textes**:
 
@@ -20790,26 +20790,6 @@ d'hygiène et de sécurité.
 	  - Code du travail applicable à Mayotte. - art. R235-233 (V)
 
 
-###### Article L610-4
-
-Les dispositions du présent livre ne s'appliquent pas aux employés de maison.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 112 () JORF 25 juillet 2006
-
-
 ###### Article L610-5
 
 Les médecins inspecteurs du travail et les ingénieurs de prévention des services extérieurs du travail et de l'emploi
@@ -20845,7 +20825,8 @@ Les inspecteurs et contrôleurs du travail ont entrée dans tous établissements
 première phrase du premier alinéa de l'article L. 610-1 à l'effet d'y assurer la surveillance et les enquêtes dont ils sont
 chargés.
 
-Ils ont également entrée dans les locaux où les travailleurs à domicile effectuent les travaux qui leur sont confiés.
+Ils ont également entrée dans les locaux où les travailleurs à domicile ou les employés de maison effectuent les travaux qui
+leur sont confiés.
 
 Toutefois, lorsque les travaux sont exécutés dans des locaux habités, les inspecteurs ne peuvent y pénétrer qu'après avoir
 reçu l'autorisation des personnes qui les occupent.
@@ -20868,7 +20849,7 @@ Les inspecteurs et les contrôleurs du travail sont habilités à demander aux e
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-1253 du 24 novembre 2004 - art. 142 () JORF 25 novembre 2004
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 112 () JORF 25 juillet 2006
 
 	**Cité par**:
 
@@ -20993,6 +20974,16 @@ Les interprètes visés à l'article L. 610-7 sont tenus aux mêmes obligations.
 Les dispositions du présent chapitre ne dérogent pas aux règles du droit commun relatives à la constatation et à la poursuite
 des infractions par les officiers et agents de police judiciaire.
 
+Dans le cadre des enquêtes préliminaires diligentées pour la recherche et la constatation des infractions prévues aux
+articles L. 312-1 et L. 330-5 du présent code, les officiers de police judiciaire assistés, le cas échéant, des agents de
+police judiciaire peuvent, sur ordonnance du président du tribunal de première instance de Mayotte ou d'un juge délégué par
+lui, rendue sur réquisitions du procureur de la République, procéder à des visites domiciliaires, perquisitions et saisies de
+pièces à conviction dans les lieux de travail des salariés visés à l'article L. 000-1 et ceux des travailleurs indépendants
+et des employeurs exerçant directement une activité, même lorsqu'il s'agit de locaux habités.
+
+Le juge doit vérifier que les réquisitions du procureur de la République mentionnées à l'alinéa précédent sont fondées sur
+des éléments de fait laissant présumer l'existence des infractions dont la preuve est recherchée.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -21002,7 +20993,13 @@ des infractions par les officiers et agents de police judiciaire.
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 112 () JORF 25 juillet 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L000-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L312-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L330-5 (M)
 
 	**Cité par**:
 
