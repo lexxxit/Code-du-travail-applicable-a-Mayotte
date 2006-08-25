@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2006-07-25
+Version Consolidée au 2006-08-26
 
 # Partie législative
 
@@ -173,16 +173,17 @@ entreprises susceptibles d'accueillir temporairement l'apprenti est fixé par l'
 
 La durée du contrat d'apprentissage est au moins égale à celle du cycle de formation qui fait l'objet du contrat. Elle peut
 varier, sous réserve des dispositions de l'article L. 113-8, entre un et trois ans ; elle est fixée dans les conditions
-prévues à l'arrêté mentionné à l'article L. 116-4, en fonction du type de profession et du niveau de qualification préparés.
+prévues à l'arrêté mentionné à l'article L. 116-4, en fonction du type de profession et du niveau de qualification préparés. 
 
-En cas d'obtention du diplôme ou du titre de l'enseignement technologique préparé, le contrat peut prendre fin, par accord
-des deux parties, avant le terme fixé initialement.
+En cas d'obtention du diplôme ou du titre de l'enseignement technologique préparé, le contrat peut prendre fin, à
+l'initiative du salarié, avant le terme fixé initialement, à la condition d'en avoir informé l'employeur par écrit au minimum
+deux mois auparavant. 
 
 Tout jeune travailleur peut souscrire des contrats d'apprentissage successifs pour préparer des diplômes ou titres
-sanctionnant des qualifications différentes.
+sanctionnant des qualifications différentes. 
 
 Lorsque l'apprenti a déjà conclu deux contrats successifs de même niveau, il doit obtenir l'autorisation du directeur du
-dernier centre de formation d'apprentis qu'il a fréquenté pour conclure un troisième contrat d'apprentissage du même niveau.
+dernier centre de formation d'apprentis qu'il a fréquenté pour conclure un troisième contrat d'apprentissage du même niveau. 
 
 Il n'est exigé aucune condition de délai entre deux contrats.
 
@@ -195,12 +196,12 @@ Il n'est exigé aucune condition de délai entre deux contrats.
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2006-1068 du 25 août 2006 - art. 1 () JORF 26 août 2006
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L113-8 (M)
-	  - Code du travail applicable à Mayotte. - art. L116-4 (M)
+	  - Code du travail applicable à Mayotte. - art. L113-8 (V)
+	  - Code du travail applicable à Mayotte. - art. L116-4 (V)
 
 
 #### CHAPITRE II : Des centres de formation d'apprentis.
@@ -815,13 +816,12 @@ délai, la résiliation du contrat ne peut intervenir que sur accord exprès et 
 prononcée par la juridiction du travail en cas de faute grave ou de manquements répétés de l'une des parties à ses
 obligations ou en raison de l'inaptitude de l'apprenti à exercer le métier auquel il voulait se préparer.
 
+Dans les entreprises ressortissant des chambres consulaires, un médiateur désigné à cet effet par les chambres consulaires
+peut être sollicité par les parties pour résoudre les litiges entre les employeurs et les apprentis ou leur famille au sujet
+de l'exécution ou de la résiliation du contrat d'apprentissage.
+
 La résiliation pendant les deux premiers mois d'apprentissage ne peut donner lieu à indemnité à moins d'une stipulation
 contraire dans le contrat.
-
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L116-5 : les cours d'enseignement général et
-professionnel organisés par le représentant du Gouvernement tiennent lieu de la formation prévue à l'article L112-1.*]
 
 **Liens relatifs à cet article**
 
@@ -832,7 +832,7 @@ professionnel organisés par le représentant du Gouvernement tiennent lieu de l
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2006-1068 du 25 août 2006 - art. 2 () JORF 26 août 2006
 
 
 ###### Article L113-17
@@ -4330,24 +4330,25 @@ entre les mains de l'administration de la caisse publique ou de la banque est nu
 ###### Article L126-1
 
 Des groupements de personnes physiques ou morales entrant dans le champ d'application d'une même convention collective
-peuvent être constitués dans le but exclusif de mettre à la disposition de leurs membres des salariés liés à ces groupements
-par un contrat de travail.
+peuvent être constitués dans le but de mettre à la disposition de leurs membres des salariés liés à ces groupements par un
+contrat de travail. Ils peuvent également apporter à leurs membres leur aide ou leur conseil en matière d'emploi ou de
+gestion des ressources humaines. 
 
 Ces groupements ne peuvent effectuer que des opérations à but non lucratif. Ils sont constitués sous la forme d'associations
-déclarées de la loi du 1er juillet 1901.
+déclarées de la loi du 1er juillet 1901. 
 
 Lorsqu'un groupement d'employeurs se constitue, l'inspection du travail en est informée. La liste des membres du groupement
-est tenue en permanence à la disposition de l'inspecteur du travail au siège du groupement.
+est tenue en permanence à la disposition de l'inspecteur du travail au siège du groupement. 
 
 Une personne physique ou morale ne peut être membre que d'un seul groupement. Toutefois, une personne physique possédant
 plusieurs entreprises juridiquement distinctes peut, au titre de chacune de ses entreprises, appartenir à un groupement
-différent.
+différent. 
 
 Les employeurs occupant plus de cent salariés, ce seuil étant calculé sur la moyenne des douze derniers mois, ne peuvent
-adhérer à un groupement ni en devenir membre.
+adhérer à un groupement ni en devenir membre. 
 
 L'activité du groupement s'exerce sous réserve des dispositions législatives relatives à l'exercice illégal de certaines
-professions.
+professions. 
 
 Les membres du groupement sont solidairement responsables de ses dettes à l'égard des salariés et des organismes créanciers
 de cotisations obligatoires.
@@ -4356,7 +4357,7 @@ de cotisations obligatoires.
 
 	**Cite**:
 
-	  - Loi n°1901-07-01
+	  - Loi du 1er juillet 1901 (V)
 
 	**Codifié par**:
 
@@ -4365,7 +4366,7 @@ de cotisations obligatoires.
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2006-1068 du 25 août 2006 - art. 3 () JORF 26 août 2006
 
 	**Cité par**:
 
@@ -4501,6 +4502,29 @@ bénéficier ces salariés.
 
 	  - Code du travail applicable à Mayotte. - art. R126-7 (V)
 	  - Code du travail applicable à Mayotte. - art. R154-1 (T)
+
+
+###### Article L126-6
+
+Sans préjudice des accords de branche ou accords professionnels ou interprofessionnels applicables aux groupements
+d'employeurs, les organisations professionnelles représentant les groupements d'employeurs mentionnés à l'article L. 126-2 et
+les organisations syndicales représentatives peuvent conclure des accords de travail portant sur la polyvalence, la mobilité
+et le travail à temps partagé des salariés desdits groupements.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-1068 du 25 août 2006 - art. 3 () JORF 26 août 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L126-2 (V)
 
 
 ###### Article L126-7
@@ -8426,7 +8450,11 @@ Il est interdit d'occuper plus de six jours par semaine un même salarié.
 
 ###### Article L221-3
 
-Les apprentis ne peuvent être tenus en aucun cas vis-à-vis de leur maître à aucun travail de leur profession les dimanches.
+Les apprentis ne peuvent être tenus vis-à-vis de leur maître à aucun travail de leur profession les dimanches.
+
+Les dispositions du premier alinéa ne sont pas applicables aux apprentis âgés de moins de dix-huit ans employés dans les
+secteurs pour lesquels les caractéristiques particulières de l'activité le justifient et dont la liste est fixée par décret
+en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -8437,7 +8465,7 @@ Les apprentis ne peuvent être tenus en aucun cas vis-à-vis de leur maître à 
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2006-1068 du 25 août 2006 - art. 4 () JORF 26 août 2006
 
 	**Cité par**:
 
@@ -9147,11 +9175,8 @@ Les heures de travail perdues par suite de chômage des jours fériés ne peuven
 
 ###### Article L222-3
 
-Les jeunes travailleurs et apprentis, âgés de moins de dix-huit ans ne peuvent être employés les jours de fête visés à
-l'article L. 222-1, même pour rangement d'atelier, dans les usines, manufactures, mines, carrières, chantiers, ateliers et
-leurs dépendances de quelque nature que ce soit, publics ou privés, laïques ou religieux, même lorsque ces établissements ont
-un caractère d'enseignement professionnel ou de bienfaisance, ainsi que dans les offices publics et ministériels, les
-professions libérales, les sociétés civiles, les syndicats professionnels et associations de quelque nature que ce soit.
+Les jeunes travailleurs et apprentis âgés de moins de dix-huit ans ne peuvent travailler les jours de fête reconnus par la
+loi.
 
 **Liens relatifs à cet article**
 
@@ -9162,7 +9187,7 @@ professions libérales, les sociétés civiles, les syndicats professionnels et 
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2006-1068 du 25 août 2006 - art. 4 () JORF 26 août 2006
 
 	**Cite**:
 
@@ -9193,8 +9218,9 @@ semaine, à la condition qu'ils aient au moins un jour de repos par semaine.
 
 ###### Article L222-5
 
-Les apprentis ne peuvent être tenus en aucun cas, vis-à-vis de leur maître, à aucun travail de leur profession les jours de
-fêtes reconnues et légales.
+Dans les secteurs pour lesquels les caractéristiques particulières de l'activité le justifient et dont la liste est fixée par
+décret en Conseil d'Etat, une convention ou un accord collectif étendu ou une convention ou un accord d'entreprise ou
+d'établissement peut définir les conditions dans lesquelles il peut être dérogé aux dispositions de l'article L. 222-3.
 
 **Liens relatifs à cet article**
 
@@ -9205,7 +9231,11 @@ fêtes reconnues et légales.
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2006-1068 du 25 août 2006 - art. 4 () JORF 26 août 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L222-3 (M)
 
 	**Cité par**:
 
@@ -12759,6 +12789,9 @@ les intéressés. Ces agents sont en outre habilités à demander aux employeurs
 occupées dans l'entreprise ou sur le lieu de travail ainsi qu'à toute personne dont ils sont amenés à recueillir les
 déclarations dans l'exercice de leur mission de justifier de leur identité et de leur adresse.
 
+Les agents mentionnés au premier alinéa peuvent, sur demande écrite, obtenir des services du représentant de l'Etat tous
+renseignements ou tous documents relatifs à l'autorisation d'exercice ou à l'agrément d'une profession réglementée.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -12768,7 +12801,7 @@ déclarations dans l'exercice de leur mission de justifier de leur identité et 
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 12 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+	  - Ordonnance n°2006-1068 du 25 août 2006 - art. 5 () JORF 26 août 2006
 
 	**Cité par**:
 
@@ -12793,17 +12826,9 @@ déclarations dans l'exercice de leur mission de justifier de leur identité et 
 
 ###### Article L312-6
 
-Les fonctionnaires et agents de contrôle visés à l'article L. 312-5 sont habilités à se communiquer réciproquement tous
-renseignements et tous documents nécessaires à l'accomplissement de leur mission de lutte contre le travail dissimulé.
-
-Ces fonctionnaires et agents, sur leur demande écrite, obtiennent de la part de l'organisme chargé du régime de protection
-sociale tous renseignements et tous documents utiles à l'accomplissement de cette mission. A la demande écrite de cet
-organisme, ils lui transmettent tous renseignements et tous documents lui permettant de recouvrer des sommes impayées ou
-d'obtenir le remboursement de sommes indûment versées.
-
-Les fonctionnaires et agents de contrôle mentionnés ci-dessus sont habilités, lorsque le siège de l'entreprise est domicilié
-dans des locaux occupés en commun par plusieurs entreprises, à se faire communiquer par l'entreprise domiciliataire tous
-documents détenus dans ses locaux nécessaires à l'accomplissement de leur mission de lutte contre le travail dissimulé.
+Les fonctionnaires et agents de contrôle mentionnés à l'article L. 321-5 sont habilités, lorsque le siège de l'entreprise est
+domicilié dans des locaux occupés en commun par plusieurs entreprises, à se faire communiquer par l'entreprise domiciliataire
+tous documents détenus dans ses locaux nécessaires à l'accomplissement de leur mission de lutte contre le travail dissimulé.
 
 **Liens relatifs à cet article**
 
@@ -12814,11 +12839,11 @@ documents détenus dans ses locaux nécessaires à l'accomplissement de leur mis
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 12 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+	  - Ordonnance n°2006-1068 du 25 août 2006 - art. 5 () JORF 26 août 2006
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L312-5 (M)
+	  - Code du travail applicable à Mayotte. - art. L321-5 (V)
 
 
 ###### Article L312-7
@@ -12852,39 +12877,6 @@ travaux réalisés, des services fournis, du bien vendu et de la rémunération 
 
 	  - Code du travail applicable à Mayotte. - art. L143-3 (M)
 	  - Code du travail applicable à Mayotte. - art. L311-1 (M)
-
-
-###### Article L312-8
-
-Lorsque l'un des agents de contrôle mentionnés à l'article L. 312-5 a constaté par procès-verbal l'existence d'une infraction
-définie aux articles L. 312-1 et L. 312-2 ainsi qu'aux articles L. 124-1 et L. 124-3, l'autorité administrative compétente,
-eu égard à la gravité des faits constatés, à la nature des aides sollicitées et à l'avantage qu'elles procurent à
-l'employeur, peut, pendant une durée maximale de cinq ans, refuser d'accorder les aides publiques à l'emploi ou à la
-formation professionnelle mentionnées par décret à la personne physique ou morale ayant fait l'objet de cette verbalisation,
-sans préjudice des poursuites judiciaires qui pourront être engagées.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 12 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2006-1068 du 25 août 2006 - art. 5 () JORF 26 août 2006
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L124-1 (M)
-	  - Code du travail applicable à Mayotte. - art. L124-3 (M)
-	  - Code du travail applicable à Mayotte. - art. L312-1 (M)
-	  - Code du travail applicable à Mayotte. - art. L312-2 (M)
-	  - Code du travail applicable à Mayotte. - art. L312-5 (M)
 
 
 ###### Article L312-9
@@ -13023,6 +13015,176 @@ Un décret en Conseil d'Etat détermine les conditions d'application des disposi
 	**Créé par**:
 
 	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 12 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+
+#### CHAPITRE III : RÉPRESSION DU TRAVAIL ILLÉGAL.
+
+###### Article L313-1
+
+Le présent chapitre s'applique aux infractions constitutives de travail illégal définies aux articles L. 124-1, L. 124-3, L.
+312-1 et L. 312-2, L. 330-5 et L. 343-2. Ces infractions sont recherchées et constatées par les agents de contrôle mentionnés
+aux articles L. 312-5, L. 610-1, L. 610-14 et L. 610-15, dans la limite de leurs compétences respectives en matière de
+travail illégal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-1068 du 25 août 2006 - art. 5 () JORF 26 août 2006
+
+	**Cité par**:
+
+	  - Ordonnance n°2016-160 du 18 février 2016 - art. 1 (V)
+	  - Code de l'action sociale et des familles - art. L549-1 (T)
+	  - Code du travail applicable à Mayotte. - art. D313-2 (V)
+	  - Code du travail applicable à Mayotte. - art. L313-2 (V)
+	  - Code du travail applicable à Mayotte. - art. L313-3 (V)
+	  - Code du travail applicable à Mayotte. - art. L313-4 (V)
+	  - Code du travail applicable à Mayotte. - art. L313-5 (V)
+	  - Code du travail applicable à Mayotte. - art. L313-6 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L124-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L124-3 (M)
+	  - Code du travail applicable à Mayotte. - art. L312-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L312-2 (M)
+	  - Code du travail applicable à Mayotte. - art. L312-5 (M)
+	  - Code du travail applicable à Mayotte. - art. L330-5 (M)
+	  - Code du travail applicable à Mayotte. - art. L343-2 (V)
+	  - Code du travail applicable à Mayotte. - art. L610-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L610-14 (M)
+	  - Code du travail applicable à Mayotte. - art. L610-15 (V)
+
+
+###### Article L313-2
+
+Les agents de contrôle mentionnés à l'article L. 313-1 se communiquent réciproquement tous renseignements et tous documents
+utiles à l'accomplissement de leur mission de lutte contre le travail illégal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-1068 du 25 août 2006 - art. 5 () JORF 26 août 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L313-1 (V)
+
+
+###### Article L313-3
+
+Lorsque l'autorité compétente a connaissance d'un procès-verbal relevant une des infractions mentionnées à l'article L. 313-1
+elle peut, eu égard à la gravité des faits constatés, à la nature des aides sollicitées et à l'avantage qu'elles procurent à
+l'employeur, refuser d'accorder, pendant une durée maximale de cinq ans, les aides publiques à l'emploi et à la formation
+professionnelle à la personne physique ou morale ayant fait l'objet de cette verbalisation. Cette décision de refus est prise
+sans préjudice des poursuites judiciaires qui peuvent être engagées.
+
+Un décret fixe la nature des aides et subventions concernées et les modalités de la prise de décision relative au refus de
+leur attribution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-1068 du 25 août 2006 - art. 5 () JORF 26 août 2006
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D313-1 (V)
+	  - Code du travail applicable à Mayotte. - art. D313-2 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L313-1 (V)
+
+
+###### Article L313-4
+
+Les agents de contrôle mentionnés à l'article L. 313-1 transmettent, sur demande écrite, aux agents de l'Agence nationale
+pour l'emploi, des institutions gestionnaires du régime d'assurance chômage et des collectivités territoriales tous
+renseignements et tous documents nécessaires à l'appréciation des droits ou à l'exécution d'obligations qui entrent dans le
+champ de leurs compétences respectives. Ils disposent en tant que de besoin, dans l'exercice de leur mission de lutte contre
+le travail illégal, d'un droit de communication sur tous renseignements et documents nécessaires auprès de ces services.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-1068 du 25 août 2006 - art. 5 () JORF 26 août 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L313-1 (V)
+
+
+###### Article L313-5
+
+Les agents de contrôle mentionnés à l'article L. 313-1 peuvent, sur demande écrite, obtenir des organismes chargés d'un
+régime de protection sociale tous renseignements et tous documents utiles à l'accomplissement de leur mission de lutte contre
+le travail illégal. Ils transmettent à ces organismes, qui doivent en faire la demande par écrit, tous renseignements et tous
+documents permettant à ces derniers de recouvrer les sommes impayées ou d'obtenir le remboursement de sommes indûment
+versées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-1068 du 25 août 2006 - art. 5 () JORF 26 août 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L313-1 (V)
+
+
+###### Article L313-6
+
+Les agents de contrôle mentionnés à l'article L. 313-1, ainsi que les autorités chargées de la coordination de leurs actions,
+peuvent échanger tous renseignements et tous documents nécessaires à l'accomplissement de leur mission de lutte contre le
+travail illégal avec les agents investis des mêmes compétences et les autorités chargées de la coordination de leurs actions
+dans les Etats étrangers. Lorsque des accords sont conclus avec les autorités de ces Etats, ils prévoient les modalités de la
+mise en oeuvre de ces échanges.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-1068 du 25 août 2006 - art. 5 () JORF 26 août 2006
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L313-1 (V)
 
 
 ### TITRE II : Aides à l'emploi, intervention du Fonds national de l'emploi et de la collectivité départementale
@@ -15486,32 +15648,6 @@ réservés à la partie civile pour toutes les infractions relatives à l'emploi
 	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 17 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 
-###### Article L330-9
-
-Les agents de contrôle visés aux articles L. 610-1 et L. 610-15 sont habilités à se communiquer tous renseignements et tous
-documents relatifs aux dispositions du présent chapitre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 17 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2006-1068 du 25 août 2006 - art. 5 () JORF 26 août 2006
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L610-1 (M)
-	  - Code du travail applicable à Mayotte. - art. L610-15 (V)
-
-
 ###### Article L330-10
 
 Nul ne peut se faire remettre ou tenter de se faire remettre, de manière occasionnelle ou renouvelée, des fonds, des valeurs
@@ -17439,7 +17575,7 @@ Lorsqu'une contestation rend indispensable le recours à une mesure d'instructio
 
 ###### Article L433-14
 
-Les délégués du personnel sont élus pour deux ans et rééligibles.
+Les délégués du personnel sont élus pour quatre ans et rééligibles.
 
 Leurs fonctions prennent fin par le décès, la démission, la résiliation du contrat de travail ou la perte des conditions
 requises pour l'éligibilité. Ils conservent leur mandat en cas de changement de catégorie professionnelle.
@@ -17458,6 +17594,10 @@ entre le nouvel employeur et les organisations syndicales représentatives exist
 Tout délégué du personnel peut être révoqué en cours de mandat, sur proposition de l'organisation syndicale qui l'a présenté,
 approuvée au scrutin secret par la majorité du collège électoral auquel il appartient.
 
+Des élections partielles sont organisées à l'initiative de l'employeur si un collège électoral n'est plus représenté ou si le
+nombre des délégués titulaires est réduit de moitié ou plus, sauf si ces événements interviennent moins de six mois avant le
+terme du mandat des délégués du personnel.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -17465,9 +17605,9 @@ approuvée au scrutin secret par la majorité du collège électoral auquel il a
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 22 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+	  - Ordonnance n°2006-1068 du 25 août 2006 - art. 6 (V) JORF 26 août 2006
 
 	**Cite**:
 
@@ -17510,7 +17650,7 @@ Le suppléant devient titulaire jusqu'au retour de celui qu'il remplace ou jusqu
 
 ###### Article L433-16
 
-Dans toute entreprise ou organisme mentionné à l'article L. 431-1, le chef d'entreprise doit informer tous les deux ans le
+Dans toute entreprise ou organisme mentionné à l'article L. 431-1, le chef d'entreprise doit informer tous les quatre ans le
 personnel par affichage de l'organisation des élections en vue de la désignation des délégués du personnel. Le document
 affiché précise la date envisagée pour le premier tour de ces élections qui doit se placer au plus tard le quarante-cinquième
 jour suivant celui de l'affichage.
@@ -17536,9 +17676,9 @@ envoie copie aux organisations syndicales de salariés représentatives au sens 
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 22 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+	  - Ordonnance n°2006-1068 du 25 août 2006 - art. 6 (V) JORF 26 août 2006
 
 	**Cité par**:
 
@@ -19318,7 +19458,7 @@ Lorsqu'une contestation rend indispensable le recours à une mesure d'instructio
 
 ###### Article L443-10
 
-Les membres du comité d'entreprise sont élus pour deux ans, leur mandat est renouvelable.
+Les membres du comité d'entreprise sont élus pour quatre ans, leur mandat est renouvelable.
 
 Les fonctions de ces membres prennent fin par le décès, la démission, la résiliation du contrat de travail ou à la suite
 d'une condamnation entraînant la perte du droit d'éligibilité. Ils conservent leur mandat en cas de changement de catégorie
@@ -19337,9 +19477,9 @@ remplacement est assuré par le suppléant de la même catégorie qui a obtenu l
 
 Le suppléant devient titulaire jusqu'au retour de celui qu'il remplace ou jusqu'au renouvellement du comité d'entreprise.
 
-Des élections partielles doivent être organisées à l'initiative de l'employeur si, au cours des dix-huit mois suivant
-l'élection du comité, un collège électoral n'est plus représenté ou si le nombre des membres titulaires de la délégation du
-personnel se réduit de moitié ou plus.
+Des élections partielles sont organisées à l'initiative de l'employeur si un collège électoral n'est plus représenté ou si le
+nombre des membres titulaires de la délégation du personnel est réduit de moitié ou plus, sauf si ces événements
+interviennent moins de six mois avant le terme du mandat des membres du comité d'entreprise.
 
 Les élections partielles se déroulent dans les conditions fixées à l'article L. 443-8 pour pourvoir aux sièges vacants dans
 les collèges intéressés, sur la base des dispositions en vigueur lors de l'élection précédente.
@@ -19353,9 +19493,9 @@ Les candidats sont élus pour la durée du mandat restant à courir.
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+	  - Ordonnance n°2006-1068 du 25 août 2006 - art. 6 (V) JORF 26 août 2006
 
 	**Cite**:
 
@@ -19364,10 +19504,10 @@ Les candidats sont élus pour la durée du mandat restant à courir.
 
 ###### Article L443-11
 
-Dans toute entreprise ou organisme mentionné à l'article L. 441-1, le chef d'entreprise doit informer, tous les deux ans, le
-personnel, par voie d'affichage, de l'organisation des élections en vue de la désignation des membres du comité d'entreprise.
-Le document affiché précise la date envisagée pour le premier tour de ces élections qui doit se placer au plus tard le
-quarante-cinquième jour suivant celui de l'affichage.
+Dans toute entreprise ou organisme mentionné à l'article L. 441-1, le chef d'entreprise doit informer, tous les quatre ans,
+le personnel, par voie d'affichage, de l'organisation des élections en vue de la désignation des membres du comité
+d'entreprise. Le document affiché précise la date envisagée pour le premier tour de ces élections qui doit se placer au plus
+tard le quarante-cinquième jour suivant celui de l'affichage.
 
 Les organisations syndicales intéressées sont invitées par le chef d'entreprise à négocier le protocole d'accord préélectoral
 et à établir les listes de leurs candidats aux fonctions de membre du comité d'entreprise.
@@ -19390,9 +19530,9 @@ organisations syndicales de salariés représentatives au sens de l'article L. 4
 	  - Ordonnance 91-246 1991-02-25 art. 1
 	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+	  - Ordonnance n°2006-1068 du 25 août 2006 - art. 6 (V) JORF 26 août 2006
 
 	**Cité par**:
 
