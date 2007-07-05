@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2007-07-06
+Version Consolidée au 2007-07-06 00:00:01 +0200
 
 # Partie législative
 
@@ -21561,27 +21561,20 @@ travail est suspendu.
 Les salariés à temps partiel, quelle que soit la nature de leur contrat de travail, sont pris en compte en divisant la somme
 totale des horaires inscrits dans leurs contrats de travail par la durée légale ou la durée conventionnelle du travail.
 
-(Le salarié embauché à compter du 22 juin 2005 et âgé de moins de vingt-six ans n'est pas pris en compte, jusqu'à ce qu'il
-ait atteint l'âge de vingt-six ans, dans le calcul de l'effectif du personnel de l'entreprise dont il relève, quelle que soit
-la nature du contrat qui le lie à l'entreprise. Cette disposition ne peut avoir pour effet la suppression d'une institution
-représentative du personnel ou d'un mandat d'un représentant du personnel. Les dispositions du présent alinéa sont
-applicables jusqu'au 31 décembre 2007) (1).
-
-**Nota:**
-
-NOTA (1) : Par décision n° 283892, 284472, 284555, 284718 en date du 6 juillet 2007, le Conseil d'Etat statuant au
-contentieux a annulé l'ordonnance n° 2005-892 du 2 août 2005 qui modifie le présent article.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Ordonnance n°2005-892 du 2 août 2005 - art. 5 () JORF 3 août 2005 en vigueur jusqu'au 31 décembre 2007
+	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 28 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 6
 
 	**Cité par**:
 
@@ -21592,10 +21585,6 @@ contentieux a annulé l'ordonnance n° 2005-892 du 2 août 2005 qui modifie le p
 	  - Code du travail applicable à Mayotte. - art. L441-3 (V)
 	  - Code du travail applicable à Mayotte. - art. L443-1 (V)
 	  - Code du travail applicable à Mayotte. - art. R128-5 (V)
-
-	**Annulé par**:
-
-	  - Conseil d'Etat n°283892, 284472, 284555, 284718 2007-07-06
 
 
 ###### Article L620-9
