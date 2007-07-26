@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2007-07-06 00:00:01 +0200
+Version Consolidée au 2007-07-27
 
 # Partie législative
 
@@ -23605,6 +23605,131 @@ cas, doivent l'être dans un délai d'un mois au plus tard à compter de leur da
 
 	  - Code du travail applicable à Mayotte. - art. R155-1 (T)
 	  - Code du travail applicable à Mayotte. - art. R162-1 (V)
+
+
+#### CHAPITRE VI : Conventions et accords collectifs de travail dans les industries électriques et gazières
+
+###### Article R136-1
+
+Les accords professionnels ou d'entreprise prévus à l'article L. 132-27 sont conclus pour le personnel des entreprises
+électriques et gazières dont l'activité principale est la production, le transport, la distribution, l'importation et
+l'exportation telle que définie pour le statut national du personnel des industries électriques et gazières.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°2007-1135 du 25 juillet 2007 - art. 1 () JORF 27 juillet 2007
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L132-27 (V)
+
+
+###### Article R136-2
+
+Lorsque le représentant de l'Etat, sollicité conjointement par les organisations syndicales d'employeurs ou un ou plusieurs
+employeurs ainsi que les organisations syndicales de salariés représentatives dans la branche ou dans l'entreprise, accorde,
+pour la négociation de ces accords professionnels ou d'entreprise, le concours de la direction du travail, de l'emploi et de
+la formation professionnelle, son représentant intervient en tant qu'amiable compositeur. Il éclaire de ses conseils et de
+ses recommandations les parties à la négociation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°2007-1135 du 25 juillet 2007 - art. 1 () JORF 27 juillet 2007
+
+
+###### Article R136-3
+
+I.-Les accords professionnels ou d'entreprise conclus en application de l'alinéa premier de l'article L. 132-27 sont, en vue
+de leur agrément, transmis par la partie la plus diligente au ministre chargé de l'outre-mer. 
+
+La demande d'agrément comprend l'accord signé, les comptes d'exploitation prévisionnels des entreprises de la branche ou de
+l'entreprise et une note d'impact de l'accord sur ces comptes. Elle comprend également les documents d'information économique
+communiqués aux représentants des organisations syndicales de salariés pendant la négociation. 
+
+II.-Un arrêté commun des ministres chargés de l'outre-mer, de l'énergie et du travail et, le cas échéant, de la protection
+sociale agrée ces accords, leurs avenants et annexes. 
+
+L'arrêté d'agrément exclut les clauses des accords qui seraient en contradiction avec des dispositions législatives et
+réglementaires en vigueur à Mayotte, notamment les clauses aboutissant à substituer avant le 1er janvier 2011 les
+dispositions du statut national du personnel des industries électriques et gazières au régime du travail du personnel de ces
+industries à Mayotte ainsi que les clauses susceptibles d'entraîner, pour une ou plusieurs des entreprises intéressées,
+l'impossibilité de faire face au passif exigible avec son actif disponible ou de compromettre l'exécution du service public
+de l'électricité à Mayotte. Lorsque le représentant de l'Etat envisage d'exclure certaines clauses ou de s'opposer à
+l'accord, l'arrêté ne peut intervenir qu'après consultation des parties signataires à l'accord. Celles-ci disposent d'un
+délai de quinze jours pour produire leurs observations. 
+
+A défaut d'arrêté dans un délai de six mois à compter de la réception de la demande d'agrément comprenant l'ensemble des
+pièces mentionnées au I, celle-ci est réputée rejetée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°2007-1135 du 25 juillet 2007 - art. 1 () JORF 27 juillet 2007
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L132-27 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R136-4 (V)
+
+
+###### Article R136-4
+
+L'accord professionnel ou d'entreprise, ses avenants et annexes, conclus en application du deuxième alinéa de l'article L.
+132-27, sont agréés dans les conditions prévues à l'article R. 136-3 une fois effectuées les consultations prévues au
+troisième alinéa de l'article L. 132-27.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°2007-1135 du 25 juillet 2007 - art. 1 () JORF 27 juillet 2007
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L132-27 (V)
+	  - Code du travail applicable à Mayotte. - art. R136-3 (V)
+
+
+###### Article R136-5
+
+Les accords ayant fait l'objet d'un arrêté d'agrément entrent en vigueur le lendemain de la date de la publication de cet
+arrêté au Journal officiel.
+
+Ces accords sont publiés au Bulletin officiel des ministères chargés du travail et de l'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°2007-1135 du 25 juillet 2007 - art. 1 () JORF 27 juillet 2007
 
 
 ### TITRE IV : Salaire
