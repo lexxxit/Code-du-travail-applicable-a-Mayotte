@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2007-07-27
+Version Consolidée au 2007-11-14
 
 # Partie législative
 
@@ -123,6 +123,39 @@ Toute disposition ou tout acte contraire à l'égard d'un salarié est nul de pl
 	  - Code du travail applicable à Mayotte. - art. L326-16 (V)
 	  - Code du travail applicable à Mayotte. - art. L328-12 (VD)
 	  - Code du travail applicable à Mayotte. - art. L328-26 (V)
+
+
+###### Article L000-5
+
+Aucune personne ne peut être écartée d'une procédure de recrutement ou de l'accès à un stage ou à une période de formation en
+entreprise, aucun salarié ne peut être sanctionné, licencié ou faire l'objet d'une mesure discriminatoire, directe ou
+indirecte, notamment en matière de rémunération, de formation, de reclassement, d'affectation, de qualification, de
+classification, de promotion professionnelle, de mutation ou de renouvellement de contrat pour avoir relaté ou témoigné, de
+bonne foi, soit à son employeur, soit aux autorités judiciaires ou administratives, de faits de corruption dont il aurait eu
+connaissance dans l'exercice de ses fonctions.
+
+Toute rupture du contrat de travail qui en résulterait, toute disposition ou tout acte contraire est nul de plein droit.
+
+En cas de litige relatif à l'application des deux premiers alinéas, dès lors que le salarié concerné ou le candidat à un
+recrutement, à un stage ou à une période de formation en entreprise établit des faits qui permettent de présumer qu'il a
+relaté ou témoigné de faits de corruption, il incombe à la partie défenderesse, au vu de ces éléments, de prouver que sa
+décision est justifiée par des éléments objectifs étrangers aux déclarations ou au témoignage du salarié. Le juge forme sa
+conviction après avoir ordonné, en cas de besoin, toutes les mesures d'instruction qu'il estime utiles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2007-1598 du 13 novembre 2007 - art. 9 () JORF 14 novembre 2007
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
 
 
 ## LIVRE Ier : CONVENTIONS RELATIVES AU TRAVAIL
@@ -25760,6 +25793,80 @@ pratiquée dans l'établissement.
 	**Cité par**:
 
 	  - Code du travail applicable à Mayotte. - art. R254-5 (V)
+
+
+###### Article R222-2
+
+Les secteurs dans lesquels les caractéristiques particulières de l'activité justifient, en application de l'article L. 221-3,
+l'emploi des apprentis de moins de dix-huit ans les dimanches sont les suivants : 
+
+1° L'hôtellerie ; 
+
+2° La restauration ; 
+
+3° Les traiteurs et organisateurs de réception ; 
+
+4° Les cafés, tabacs et débits de boisson ; 
+
+5° La boulangerie ; 
+
+6° La pâtisserie ; 
+
+7° La boucherie ; 
+
+8° La charcuterie ; 
+
+9° La fromagerie-crèmerie ; 
+
+10° La poissonnerie ; 
+
+11° Les magasins de vente de fleurs naturelles, jardineries et graineteries ; 
+
+12° Les établissements des autres secteurs assurant à titre principal la fabrication de produits alimentaires destinés à la
+consommation immédiate ou dont l'activité exclusive est la vente de denrées alimentaires au détail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°2007-1600 du 12 novembre 2007 - art. 1 () JORF 14 novembre 2007
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L221-3 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R222-3 (V)
+
+
+###### Article R222-3
+
+Les secteurs dans lesquels les caractéristiques particulières de l'activité justifient, en application de l'article L. 222-5,
+l'emploi des jeunes travailleurs de moins de dix-huit ans et d'apprentis de moins de dix-huit ans les jours de fête reconnus
+par la loi sont ceux mentionnés à l'article R. 222-2, sous réserve qu'ils bénéficient des dispositions relatives au repos
+hebdomadaire fixées à l'article L. 221-4 et au repos de nuit prévu à l'article L. 213-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 1991-12-16 annexe
+
+	**Créé par**:
+
+	  - Décret n°2007-1600 du 12 novembre 2007 - art. 1 () JORF 14 novembre 2007
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L213-8 (V)
+	  - Code du travail applicable à Mayotte. - art. L221-4 (V)
+	  - Code du travail applicable à Mayotte. - art. L222-5 (V)
+	  - Code du travail applicable à Mayotte. - art. R222-2 (V)
 
 
 #### CHAPITRE III : Congés annuels
