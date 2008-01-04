@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2007-11-14
+Version Consolidée au 2008-01-05
 
 # Partie législative
 
@@ -52173,6 +52173,55 @@ registre des métiers.
 	**Nouveaux textes**:
 
 	  - Code du travail applicable à Mayotte. - art. D312-9 (V)
+
+
+#### Chapitre 3 : Répression du travail illégal
+
+###### Article D313-1
+
+En application de l'article L. 313-3, l'autorité compétente peut refuser les aides publiques attachées aux dispositifs prévus
+par les articles L. 113-1, L. 322-2, L. 322-7, L. 323-2, L. 324-1, L. 325-2, L. 711-5 et L. 711-7 du présent code ainsi que
+les articles L. 1511-1 à L. 1511-5 du code général des collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-6 du 2 janvier 2008 - art. 1
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L1511-1
+	  - Code du travail applicable à Mayotte. - art. L113-1
+	  - Code du travail applicable à Mayotte. - art. L313-3
+	  - Code du travail applicable à Mayotte. - art. L322-2
+	  - Code du travail applicable à Mayotte. - art. L323-2
+	  - Code du travail applicable à Mayotte. - art. L324-1
+	  - Code du travail applicable à Mayotte. - art. L325-2
+	  - Code du travail applicable à Mayotte. - art. L711-5
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D313-2 (V)
+
+
+###### Article D313-2
+
+Lorsqu'elle est saisie d'une demande du bénéfice d'une des aides mentionnées à l'article D. 313-1 par une personne verbalisée
+pour une infraction mentionnée à l'article L. 313-1, l'autorité compétente doit, avant toute décision de refus, informer
+celle-ci, par lettre recommandée avec demande d'avis de réception, qu'elle est passible de la sanction prévue par l'article
+L. 313-3 et qu'elle peut présenter ses observations écrites dans un délai de quinze jours.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-6 du 2 janvier 2008 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L313-1
+	  - Code du travail applicable à Mayotte. - art. L313-3
 
 
 ### Titre 2 : Aides à l'emploi - Intervention du fonds national de l'emploi
