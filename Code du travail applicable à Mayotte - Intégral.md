@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2008-12-19
+Version Consolidée au 2009-01-01
 
 # Partie législative
 
@@ -101,21 +101,26 @@ de métropole et d'outre-mer ne trouvent pas effet à Mayotte.
 Pour l'offre d'emploi, l'embauche et les relations de travail, ne peuvent être pris en considération l'origine, le statut
 civil, le sexe, les moeurs, l'orientation sexuelle, l'âge, l'état de grossesse, la situation de famille, les caractéristiques
 génétiques, l'appartenance ou la non-appartenance, vraie ou supposée, à une ethnie, une nation ou une race, les opinions
-politiques, les activités syndicales ou mutualistes, les convictions religieuses, l'apparence physique, le patronyme ou, sauf
-inaptitude constatée par le médecin chargé de la surveillance médicale du travail, l'état de santé ou le handicap.
+politiques, les activités syndicales ou mutualistes, les convictions religieuses, l'apparence physique, le patronyme ou
+l'état de santé ou le handicap. 
+
+Les différences de traitement fondées sur l'inaptitude constatée par le médecin du travail en raison de l'état de santé ou du
+handicap ne constituent pas une discrimination lorsqu'elles sont objectives, nécessaires et appropriées. 
+
+Les mesures prises en faveur des personnes handicapées et visant à favoriser l'égalité de traitement, prévues à l'article L.
+328-12, ne constituent pas une discrimination. 
 
 Toute disposition ou tout acte contraire à l'égard d'un salarié est nul de plein droit.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°2008-859 du 28 août 2008 - art. 7
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 2 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
 
 	**Cité par**:
 
@@ -156,6 +161,30 @@ conviction après avoir ordonné, en cas de besoin, toutes les mesures d'instruc
 	**Abrogé par**:
 
 	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+
+###### Article L000-6
+
+Les associations régulièrement constituées depuis cinq ans au moins pour la lutte contre les discriminations, ou œuvrant dans
+le domaine du handicap, peuvent exercer en justice toutes actions résultant de l'application de l'article L. 000-4. 
+
+Elles peuvent exercer ces actions en faveur d'un candidat à un emploi, à un stage ou une période de formation en entreprise
+ou d'un salarié de l'entreprise, sous réserve qu'elles justifient d'un accord écrit de l'intéressé. Celui-ci peut toujours
+intervenir à l'instance engagée par l'association et y mettre un terme à tout moment.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2008-859 du 28 août 2008 - art. 7
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L000-4
 
 
 ## LIVRE Ier : CONVENTIONS RELATIVES AU TRAVAIL
@@ -2898,7 +2927,7 @@ fait de son ancienneté dans l'entreprise.
 ###### Article L122-48
 
 Toute femme enceinte dont l'état a été constaté médicalement ou dont la grossesse est apparente peut quitter le travail sans
-préavis et sans avoir de ce fait à payer une indemnité de rupture de contrat.
+préavis et sans avoir de ce fait à payer une indemnité de rupture de contrat. 
 
 La salariée a le droit de suspendre le contrat de travail sans que cette interruption de service puisse être considérée comme
 une cause de rupture du contrat, pendant une période qui commence six semaines avant la date présumée de l'accouchement et se
@@ -2912,45 +2941,43 @@ même ou le ménage assume déjà la charge de deux enfants au moins dans les co
 en matière de prestations familiales ou lorsque la salariée a déjà mis au monde au moins deux enfants nés viables. La période
 de huit semaines de suspension du contrat de travail antérieure à la date présumée de l'accouchement peut être augmentée
 d'une durée maximale de deux semaines ; la période de dix-huit semaines de suspension du contrat de travail postérieure à la
-date de l'accouchement est alors réduite d'autant.
+date de l'accouchement est alors réduite d'autant. 
 
 Quand l'accouchement a lieu avant la date présumée, la période de suspension du contrat de travail pourra être prolongée
 jusqu'au terme des seize, des vingt-six, des trente-quatre ou des quarante-six semaines de suspension du contrat auxquelles
-la salariée peut avoir droit.
+la salariée peut avoir droit. 
 
 Si un état pathologique attesté par un certificat médical comme résultant de la grossesse ou des couches le rend nécessaire,
 la période de suspension du contrat prévue aux alinéas précédents est augmentée de la durée de cet état pathologique dans la
-limite de deux semaines avant la date présumée de l'accouchement et de quatre semaines après la date de celui-ci.
+limite de deux semaines avant la date présumée de l'accouchement et de quatre semaines après la date de celui-ci. 
 
 Lorsque l'enfant est resté hospitalisé jusqu'à l'expiration de la sixième semaine suivant l'accouchement, la salariée peut
-reporter à la date de la fin de l'hospitalisation tout ou partie du congé auquel elle peut encore prétendre.
+reporter à la date de la fin de l'hospitalisation tout ou partie du congé auquel elle peut encore prétendre. Lorsque
+l'accouchement intervient plus de six semaines avant la date prévue et exige l'hospitalisation postnatale de l'enfant, le
+congé de maternité est prolongé du nombre de jours courant de la date effective de la naissance au début des périodes du
+congé de maternité mentionnées aux alinéas précédents. 
 
 La femme devra avertir l'employeur du motif de son absence et de la date à laquelle elle entend remettre en vigueur son
-contrat de travail.
+contrat de travail. 
 
 Dans le cas où pendant sa grossesse la femme a fait l'objet d'un changement d'affectation dans les conditions prévues au
 premier alinéa de l'article L. 122-46, elle est réintégrée dans l'emploi occupé avant cette affectation lorsqu'elle reprend
-son travail à l'issue de la période de suspension définie au présent article.
+son travail à l'issue de la période de suspension définie au présent article. 
 
-Toute convention contraire est nulle de plein droit.
+Toute convention contraire est nulle de plein droit. 
 
-Pendant une période de quinze mois à compter de la naissance de l'enfant, la mère a droit à des repos pour allaitement.
+Pendant une période de quinze mois à compter de la naissance de l'enfant, la mère a droit à des repos pour allaitement. 
 
-La durée totale de ces repos ne peut dépasser une heure par journée de travail.
+La durée totale de ces repos ne peut dépasser une heure par journée de travail. 
 
 La mère peut, pendant cette période, quitter son travail sans préavis et sans avoir de ce fait à payer une indemnité de
 rupture.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
 	**Modifié par**:
 
-	  - Ordonnance n°2002-411 du 27 mars 2002 - art. 44 () JORF 28 mars 2002 en vigueur le 1er janvier 2003
+	  - Ordonnance n°2008-859 du 28 août 2008 - art. 7
 
 	**Cité par**:
 
@@ -2963,6 +2990,10 @@ rupture.
 	  - Code du travail applicable à Mayotte. - art. R122-7 (V)
 	  - Code du travail applicable à Mayotte. - art. R122-9 (V)
 	  - Code du travail applicable à Mayotte. - art. R232-64 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L122-46
 
 
 ###### Article L122-48-1
@@ -5128,16 +5159,18 @@ La négociation sur l'égalité professionnelle se déroule sur la base d'un rap
 et des femmes dans ces domaines et sur la base d'indicateurs pertinents, reposant sur des éléments chiffrés, pour chaque
 secteur d'activité.
 
+Les organisations mentionnées au premier alinéa se réunissent pour négocier, tous les trois ans, sur les mesures tendant à
+l'insertion professionnelle et au maintien dans l'emploi des travailleurs handicapés. La négociation porte notamment sur les
+conditions d'accès à l'emploi, à la formation et à la promotion professionnelle ainsi que sur les conditions de travail, de
+maintien dans l'emploi et d'emploi. 
+
+Les informations nécessaires à la négociation sont déterminées par voie réglementaire.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 4 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+	  - Ordonnance n°2008-859 du 28 août 2008 - art. 7
 
 	**Cité par**:
 
@@ -5592,112 +5625,112 @@ fixer, dans les convocations, le nombre maximum de représentants par organisati
 
 ###### Article L133-2-1
 
-I. - La convention de branche conclue au niveau de la collectivité de Mayotte contient obligatoirement, pour pouvoir être
-étendue, outre les clauses prévues aux articles L. 132-5 et L. 132-7, des dispositions concernant :
+I.-La convention de branche conclue au niveau de la collectivité de Mayotte contient obligatoirement, pour pouvoir être
+étendue, outre les clauses prévues aux articles L. 132-5 et L. 132-7, des dispositions concernant : 
 
 1° L'exercice du droit syndical et la liberté d'opinion des salariés, le déroulement de carrière des salariés exerçant des
-responsabilités syndicales et l'exercice de leurs fonctions ;
+responsabilités syndicales et l'exercice de leurs fonctions ; 
 
 2° Les délégués du personnel, les comités d'entreprise et le financement des activités sociales et culturelles gérées par
-lesdits comités ;
+lesdits comités ; 
 
 3° Les éléments essentiels servant à la détermination des classifications professionnelles et des niveaux de qualification,
 notamment les mentions relatives aux diplômes professionnels ou à leurs équivalences, à condition que ces diplômes aient été
-créés depuis plus d'un an ;
+créés depuis plus d'un an ; 
 
 4° Les éléments énumérés ci-dessous du salaire applicable par catégories professionnelles, ainsi que les procédures et la
-périodicité prévues pour sa révision :
+périodicité prévues pour sa révision : 
 
-a) Le salaire minimum professionnel des salariés sans qualification ;
+a) Le salaire minimum professionnel des salariés sans qualification ; 
 
-b) Les coefficients hiérarchiques afférents aux diverses qualifications professionnelles ;
+b) Les coefficients hiérarchiques afférents aux diverses qualifications professionnelles ; 
 
-c) Les majorations pour travaux pénibles, physiquement ou nerveusement, dangereux, insalubres ;
+c) Les majorations pour travaux pénibles, physiquement ou nerveusement, dangereux, insalubres ; 
 
 d) Les modalités d'application du principe à travail égal, salaire égal et les procédures du règlement des difficultés
 pouvant naître à ce sujet, compte tenu notamment des situations révélées par l'application de l'article L. 132-12, deuxième
-alinéa ;
+alinéa ; 
 
-5° Les congés payés ;
+5° Les congés payés ; 
 
 6° Les conditions d'embauchage des salariés, sans que les dispositions prévues puissent porter atteinte au libre choix du
-syndicat par ceux-ci ;
+syndicat par ceux-ci ; 
 
-7° Les conditions de la rupture des contrats de travail, notamment quant au délai-congé et à l'indemnité de licenciement ;
+7° Les conditions de la rupture des contrats de travail, notamment quant au délai-congé et à l'indemnité de licenciement ; 
 
 8° Les modalités d'organisation et de fonctionnement, de l'apprentissage, de la formation professionnelle et de la formation
-permanente dans le cadre de la branche considérée, y compris des modalités particulières aux personnes handicapées ;
+permanente dans le cadre de la branche considérée, y compris des modalités particulières aux personnes handicapées ; 
 
 9° L'égalité professionnelle entre les femmes et les hommes et les mesures de rattrapage tendant à remédier aux inégalités
 constatées. Ces mesures s'appliquent notamment à l'accès à l'emploi, à la formation et à la promotion professionnelle et aux
-conditions de travail et d'emploi ;
+conditions de travail et d'emploi ; 
 
 10° L'égalité de traitement entre salariés, quel que soit leur statut civil, leur appartenance à une ethnie, une nation ou
-une race, notamment en matière d'accès à l'emploi, de formation, de promotion professionnelle et de conditions de travail ;
+une race, notamment en matière d'accès à l'emploi, de formation, de promotion professionnelle et de conditions de travail ; 
 
-11° Les conditions propres à concrétiser le droit au travail de toutes personnes handicapées en état d'exercer une
-profession ;
+11° Les conditions propres à concrétiser le droit au travail des personnes handicapées ; 
 
-12° En tant que de besoin dans la branche :
+12° En tant que de besoin dans la branche : 
 
-a) Les conditions particulières de travail des femmes enceintes ou allaitant et des jeunes ;
+a) Les conditions particulières de travail des femmes enceintes ou allaitant et des jeunes ; 
 
-b) Les conditions d'emploi et de rémunération du personnel à temps partiel ;
+b) Les conditions d'emploi et de rémunération du personnel à temps partiel ; 
 
-c) Les conditions d'emploi et de rémunération des travailleurs à domicile ;
+c) Les conditions d'emploi et de rémunération des travailleurs à domicile ; 
 
-d) Les garanties des salariés appelés à exercer leur activité hors de Mayotte ;
+d) Les garanties des salariés appelés à exercer leur activité hors de Mayotte ; 
 
-e) Les conditions d'emploi des salariés des entreprises extérieures ;
+e) Les conditions d'emploi des salariés des entreprises extérieures ; 
 
 f) Les conditions dans lesquelles le ou les salariés, auteurs d'une invention dévolue à l'employeur en vertu de l'article L.
-611-7 du code de la propriété intellectuelle bénéficient d'une rémunération supplémentaire ;
+611-7 du code de la propriété intellectuelle bénéficient d'une rémunération supplémentaire ; 
 
 13° Les procédures conventionnelles de conciliation suivant lesquelles seront réglés les conflits collectifs de travail
-susceptibles de survenir entre les employeurs et les salariés liés par la convention ;
+susceptibles de survenir entre les employeurs et les salariés liés par la convention ; 
 
-14° Les modalités d'accès à un régime de prévoyance maladie ;
+14° Les modalités d'accès à un régime de prévoyance maladie ; 
 
 15° Les modalités de prise en compte dans la branche ou l'entreprise des demandes relatives aux thèmes de négociation émanant
-d'une ou des organisations syndicales de salariés représentatives.
+d'une ou des organisations syndicales de salariés représentatives. 
 
-II. - La convention de branche susceptible d'extension peut également contenir, sans que cette énumération soit limitative,
-des dispositions concernant :
+II.-La convention de branche susceptible d'extension peut également contenir, sans que cette énumération soit limitative, des
+dispositions concernant : 
 
-1° Les conditions particulières de travail :
+1° Les conditions particulières de travail : 
 
-a) Heures supplémentaires ;
+a) Heures supplémentaires ; 
 
-b) Travaux par roulement ;
+b) Travaux par roulement ; 
 
-c) Travaux de nuit ;
+c) Travaux de nuit ; 
 
-d) Travaux du dimanche ;
+d) Travaux du dimanche ; 
 
-e) Travaux des jours fériés ;
+e) Travaux des jours fériés ; 
 
 2° Les conditions générales de la rémunération du travail au rendement pour les catégories intéressées, sauf s'il s'agit de
-travaux dangereux, pénibles ou insalubres ;
+travaux dangereux, pénibles ou insalubres ; 
 
-3° Les primes d'ancienneté et d'assiduité ;
+3° Les primes d'ancienneté et d'assiduité ; 
 
-4° Les indemnités pour frais professionnels ou assimilés, notamment les indemnités de déplacement ;
+4° Les indemnités pour frais professionnels ou assimilés, notamment les indemnités de déplacement ; 
 
 5° Les procédures conventionnelles d'arbitrage suivant lesquelles seront ou pourront être réglés les conflits collectifs de
-travail susceptibles de survenir entre les employeurs et les salariés liés par la convention ;
+travail susceptibles de survenir entre les employeurs et les salariés liés par la convention ; 
 
 6° Les conditions d'exercice des responsabilités mutualistes.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°2008-859 du 28 août 2008 - art. 7
 
-	**Créé par**:
+	**Cite**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 4 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+	  - Code de la propriété intellectuelle - art. L611-7
+	  - Code du travail applicable à Mayotte. - art. L132-12
+	  - Code du travail applicable à Mayotte. - art. L132-5
 
 
 ##### Section 2 : Procédures d'extension et d'élargissement.
@@ -45694,87 +45727,88 @@ la période de formation.
 
 ###### Article R324-1
 
-I. - La demande tendant au bénéfice de l'aide à un projet initiative-jeune est adressée au représentant de l'Etat à Mayotte
-préalablement à la réalisation de ce projet professionnel.
+I.-La demande tendant au bénéfice de l'aide à un projet initiative-jeune est adressée au représentant de l'Etat à Mayotte
+préalablement à la réalisation de ce projet professionnel. 
 
 Elle est accompagnée d'un dossier justifiant que le demandeur appartient à l'une des catégories énumérées à l'article L.
 324-9 et permettant d'apprécier la réalité et la consistance du projet répondant à l'une ou l'autre des aides énumérées à ces
-mêmes dispositions, ainsi que sa viabilité.
+mêmes dispositions, ainsi que sa viabilité. 
 
-Un arrêté du représentant de l'Etat à Mayotte précise la composition de ce dossier et les modalités de son dépôt.
+Un arrêté du représentant de l'Etat à Mayotte précise la composition de ce dossier et les modalités de son dépôt. 
 
 Pour l'élaboration de son projet en vue de réaliser une formation en mobilité, le demandeur bénéficie du concours, le cas
-échéant, d'un organisme agréé dans les conditions prévues par le X du présent article.
+échéant, d'un organisme agréé dans les conditions prévues par le X du présent article. 
 
-II. - L'instruction du dossier est assurée :
+II.-L'instruction du dossier est assurée : 
 
 a) Pour la création d'entreprises, dans les mêmes conditions que pour les aides prévues à l'article L. 325-1 et peut être
-examinée conjointement à celles-ci ;
+examinée conjointement à celles-ci ; 
 
 b) Pour la formation en mobilité, par le délégué de l'Agence nationale pour l'insertion et la promotion des travailleurs
-d'outre-mer ou par celui de l'Agence nationale pour l'emploi ou par le responsable de l'organisme agréé à cet effet selon les
-modalités prévues au X du présent article.
+d'outre-mer ou par celui de l'     institution mentionnée à l'article L. 5312-1 du code du travail  ou par le responsable de
+l'organisme agréé à cet effet selon les modalités prévues au X du présent article. 
 
-III. - Pour l'application des dispositions du a de l'article L. 324-9, est considéré comme remplissant la condition de
+III.-Pour l'application des dispositions du a de l'article L. 324-9, est considéré comme remplissant la condition de
 direction effective de l'entreprise créée ou reprise le demandeur qui, sous sa propre responsabilité, assure la direction de
-l'entreprise et la représente dans ses rapports avec les tiers.
+l'entreprise et la représente dans ses rapports avec les tiers. 
 
-IV. - Le délai dont dispose le représentant de l'Etat pour statuer sur la demande d'aide à la formation en mobilité est d'un
+IV.-Le délai dont dispose le représentant de l'Etat pour statuer sur la demande d'aide à la formation en mobilité est d'un
 mois. Le silence gardé par le représentant de l'Etat pendant plus d'un mois vaut décision de rejet.
 
-V. - L'aide à la formation en mobilité comprend une allocation mensuelle dans la limite d'un montant maximum fixé par décret.
+V.-L'aide à la formation en mobilité comprend une allocation mensuelle dans la limite d'un montant maximum fixé par décret.
 Elle comporte également une prise en charge des frais liés à la formation, notamment des frais d'installation, dans la limite
 d'un montant fixé par ce même décret.
 
 L'allocation est versée dans la limite de vingt-quatre mensualités à compter du premier jour du mois où débute la formation
 jusqu'au premier jour du mois civil suivant celui où a pris fin la formation, ou, le cas échéant, sur justification de
 l'inscription sur la liste des demandeurs d'emploi, jusqu'au terme d'une période de deux mois à l'issue de la formation s'il
-est attesté d'une recherche effective d'emploi.
+est attesté d'une recherche effective d'emploi. 
 
-VI. - La gestion des crédits et le versement de l'aide en capital ainsi que des mensualités pour la formation en mobilité
-sont confiés au Centre national pour l'aménagement des structures des exploitations agricoles, sous réserve des dispositions
+VI.-La gestion des crédits et le versement de l'aide en capital ainsi que des mensualités pour la formation en mobilité sont
+confiés au Centre national pour l'aménagement des structures des exploitations agricoles, sous réserve des dispositions
 prévues au dernier alinéa du présent paragraphe. Lorsque la formation en mobilité se déroule à l'étranger, la gestion des
 crédits et le versement des aides précités peuvent être confiés à un organisme qui passe une convention à cet effet dans les
-conditions prévues au dernier alinéa du présent paragraphe.
+conditions prévues au dernier alinéa du présent paragraphe. 
 
 La gestion de l'aide pour les frais liés à la formation est assurée par l'Agence nationale pour l'insertion et la promotion
-des travailleurs d'outre-mer ou un organisme agréé dans les conditions prévues par le X du présent article.
+des travailleurs d'outre-mer ou un organisme agréé dans les conditions prévues par le X du présent article. 
 
 Les modalités de la gestion par les organismes gestionnaires visés au présent article sont précisées par une convention
-qu'ils passent avec le ministre chargé de l'outre-mer.
+qu'ils passent avec le ministre chargé de l'outre-mer. 
 
-VII. - Le bénéfice du versement de l'aide à un projet initiative-jeune est suspendu par décision du représentant de l'Etat à
-Mayotte lorsque le projet professionnel n'est plus conforme au projet initial ainsi que dans les cas suivants :
+VII.-Le bénéfice du versement de l'aide à un projet initiative-jeune est suspendu par décision du représentant de l'Etat à
+Mayotte lorsque le projet professionnel n'est plus conforme au projet initial ainsi que dans les cas suivants : 
 
 1° En cas d'aide à la création d'entreprises, lorsque l'entreprise a cessé son activité, en cas de procédure de sauvegarde ou
 de redressement ou de liquidation judiciaire, ou si la condition de direction effective de l'entreprise créée ou reprise
-cesse d'être remplie.
+cesse d'être remplie. 
 
-2° En cas d'aide à la formation en mobilité pour manque d'assiduité à la formation professionnelle prévue.
+2° En cas d'aide à la formation en mobilité pour manque d'assiduité à la formation professionnelle prévue. 
 
 Le bénéfice du versement de l'aide est supprimé par décision du représentant de l'Etat en l'absence de modification de la
 situation du bénéficiaire à l'expiration d'un délai de trois mois suivant la notification de la décision par laquelle l'aide
 est suspendue ou en cas de fausse déclaration du bénéficiaire de l'aide. Dans le cas de déclarations frauduleuses, le
-bénéficiaire rembourse à l'organisme gestionnaire l'aide versée.
+bénéficiaire rembourse à l'organisme gestionnaire l'aide versée. 
 
-VIII. - Ne peuvent être cumulés avec l'aide à la création d'entreprise : le contrat d'apprentissage prévu à l'article L.
-111-1, le contrat emploi-solidarité prévu à l'article L. 322-1, le contrat emploi consolidé prévu à l'article L. 322-7, le
-contrat de retour à l'emploi prévu à l'article L. 323-1, le contrat d'insertion-adaptation prévu à l'article L. 324-1, la
-prime à la création d'emplois prévue à l'article L. 325-2, le contrat de qualification prévu à l'article L. 711-5 ou le
-contrat emploi-développement prévu à l'article L. 325-6.
+VIII.-Ne peuvent être cumulés avec l'aide à la création d'entreprise : le contrat d'apprentissage prévu à l'article L. 111-1,
+le contrat emploi-solidarité prévu à l'article L. 322-1, le contrat emploi consolidé prévu à l'article L. 322-7, le contrat
+de retour à l'emploi prévu à l'article L. 323-1, le contrat d'insertion-adaptation prévu à l'article L. 324-1, la prime à la
+création d'emplois prévue à l'article L. 325-2, le contrat de qualification prévu à l'article L. 711-5 ou le contrat emploi-
+développement prévu à l'article L. 325-6. 
 
-IX. - La formation en mobilité est dispensée sous la forme d'un contrat d'apprentissage prévu à l'article L. 111-1, d'un
-stage intéressant l'une des actions de formation prévue à l'article L. 711-2, d'un contrat en alternance, ou prend la forme
-d'un stage en entreprise accompli en France ou à l'étranger.
+IX.-La formation en mobilité est dispensée sous la forme d'un contrat d'apprentissage prévu à l'article L. 111-1, d'un stage
+intéressant l'une des actions de formation prévue à l'article L. 711-2, d'un contrat en alternance, ou prend la forme d'un
+stage en entreprise accompli en France ou à l'étranger. 
 
-Ne peuvent être cumulés avec l'aide à la formation en mobilité :
+Ne peuvent être cumulés avec l'aide à la formation en mobilité : 
 
 le contrat emploi-solidarité prévu à l'article L. 322-1, le contrat emploi consolidé prévu à l'article L. 322-7, le contrat
 de retour à l'emploi prévu à l'article L. 323-1, le contrat d'insertion-adaptation prévu à l'article L. 324-1, la prime à la
 création d'emplois prévue à l'article L. 325-2, ou le contrat emploi-développement prévu à l'article L. 325-6.
 
-X. - Peut être agréé au titre du b de l'article L. 324-9 tout organisme, public ou privé, ayant la capacité de proposer ou de
-faire accéder à une formation professionnelle, en France ou à l'étranger, ainsi que d'assurer un accompagnement du stagiaire.
+X.-Peut être agréé au titre du b de l'article L. 324-9 tout organisme, public ou privé, ayant la capacité de proposer ou de
+faire accéder à une formation professionnelle, en France ou à l'étranger, ainsi que d'assurer un accompagnement du
+stagiaire. 
 
 Un arrêté du représentant de l'Etat à Mayotte précise la composition du dossier que doit remplir et transmettre l'organisme
 pour permettre l'instruction de la demande d'agrément, les modalités de son dépôt ainsi que les conditions d'agrément.
@@ -45783,33 +45817,30 @@ L'agrément est délivré par le représentant de l'Etat pour une durée d'un à
 
 **Nota:**
 
-Conformément à l'article 14 du décret n° 2008-1010 les dispositions introduites par l'article 7 dudit décret entrent en
-vigueur à la date mentionnée à l'article 9 de la loi n° 2008-126 du 13 février 2008. Cette date correspond à la date de la
-première réunion du conseil d'administration de l'institution prévue à l'article L. 5312-1 du code du travail.
+Conformément à l'article 14 du décret n° 2008-1010 du 29 septembre 2008, les dispositions de l'article 7 dudit décret entrent
+en vigueur à la date mentionnée à l'article 9 de la loi n° 2008-126 du 13 février 2008 relative à la réforme de
+l'organisation du service public de l'emploi. Cette date correspond à la première réunion du conseil d'administration de
+l'institution prévue à l'article L. 5312-1 du code du travail.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°91-1263 1991-12-16 annexe
-
 	**Modifié par**:
 
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Décret n°2008-1010 du 29 septembre 2008 - art. 7
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L111-1 (M)
-	  - Code du travail applicable à Mayotte. - art. L322-1 (M)
-	  - Code du travail applicable à Mayotte. - art. L322-7 (M)
-	  - Code du travail applicable à Mayotte. - art. L323-1 (M)
-	  - Code du travail applicable à Mayotte. - art. L324-1 (M)
-	  - Code du travail applicable à Mayotte. - art. L324-9 (V)
-	  - Code du travail applicable à Mayotte. - art. L325-1 (M)
-	  - Code du travail applicable à Mayotte. - art. L325-2 (M)
-	  - Code du travail applicable à Mayotte. - art. L325-6 (V)
-	  - Code du travail applicable à Mayotte. - art. L711-2 (M)
-	  - Code du travail applicable à Mayotte. - art. L711-5 (M)
+	  - Code du travail applicable à Mayotte. - art. L111-1
+	  - Code du travail applicable à Mayotte. - art. L322-1
+	  - Code du travail applicable à Mayotte. - art. L322-7
+	  - Code du travail applicable à Mayotte. - art. L323-1
+	  - Code du travail applicable à Mayotte. - art. L324-1
+	  - Code du travail applicable à Mayotte. - art. L324-9
+	  - Code du travail applicable à Mayotte. - art. L325-1
+	  - Code du travail applicable à Mayotte. - art. L325-2
+	  - Code du travail applicable à Mayotte. - art. L325-6
+	  - Code du travail applicable à Mayotte. - art. L711-2
+	  - Code du travail applicable à Mayotte. - art. L711-5
 
 	**Cité par**:
 
