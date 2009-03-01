@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2009-01-01
+Version Consolidée au 2009-03-02
 
 # Partie législative
 
@@ -28179,6 +28179,104 @@ d'établissement par lettre recommandée avec demande d'avis de réception ou re
 
 ##### Sous-section 1 : Dispositions générales relatives à l'aménagement des lieux de travail.
 
+###### Article R232-1
+
+Au sens du présent chapitre, on entend par lieux de travail les lieux destinés à recevoir des postes de travail situés ou non
+dans les bâtiments de l'établissement, ainsi que tout autre endroit compris dans l'aire de l'établissement auquel le salarié
+a accès dans le cadre de son travail. Les champs, bois et autres terrains faisant partie d'un établissement agricole ou
+forestier, mais situés en dehors de la zone bâtie d'un tel établissement, ne sont pas considérés comme des lieux de travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R239-16 (V)
+
+
+###### Article R232-2
+
+Les bâtiments abritant des lieux de travail doivent avoir des structures et une solidité appropriées au type d'utilisation.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°95-260 du 8 mars 1995 - art. 57-2 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R232-3
+
+Les portes et portails en va-et-vient doivent être transparents ou posséder des panneaux transparents. Un marquage doit être
+apposé à hauteur de vue sur les portes transparentes. Les parties transparentes doivent être constituées de matériaux de
+sécurité ou être protégées contre l'enfoncement de sorte que les salariés ne puissent être blessés en cas de bris de ces
+surfaces. 
+
+Les portes et portails coulissants doivent être munis d'un système de sécurité les empêchant de sortir de leur rail et de
+tomber. 
+
+Les portes et portails s'ouvrant vers le haut doivent être munis d'un système de sécurité les empêchant de retomber. 
+
+Les portes et portails doivent être entretenus et contrôlés régulièrement. Lorsque leur chute peut présenter un danger pour
+les salariés, notamment en raison de leurs dimensions, de leur poids ou de leur mode de fixation, la périodicité des
+contrôles et les interventions sont consignées dans le dossier prévu à l'article R. 232-13.
+
+Les portes et portails automatiques doivent fonctionner sans risque d'accident pour les salariés ; ces portes et portails
+doivent être entretenus et contrôlés régulièrement. Les modalités d'application du présent alinéa sont définies, en tant que
+de besoin, par arrêté du ministre chargé du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-13 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R239-24 (V)
+
+
+###### Article R232-4
+
+Lorsqu'il n'est pas possible, compte tenu de la nature du travail, d'éviter des zones de danger comportant notamment des
+risques de chute de personnes ou des risques de chute d'objets, et même s'il s'agit d'activités ponctuelles d'entretien ou de
+réparation, ces zones doivent être signalées de manière bien visible ; elles doivent, en outre, être matérialisées par des
+dispositifs destinés à éviter que les salariés non autorisés pénètrent dans ces zones.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R239-28 (V)
+
+
+###### Article R232-5
+
+Le chef d'établissement ou son préposé prend toutes dispositions nécessaires pour que seuls les salariés autorisés à cet
+effet puissent accéder aux zones de danger ; les mesures appropriées doivent être prises pour protéger ces salariés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
 ###### Article R232-6
 
 L'accès et l'intervention sur les toits en matériaux fragiles n'offrant pas une résistance suffisante ne peuvent se faire que
@@ -28196,6 +28294,112 @@ cours de livraison.
 	**Codifié par**:
 
 	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R232-7
+
+Les lieux de travail sont équipés d'un matériel de premiers secours adapté à la nature des risques et facilement accessible. 
+
+Ce matériel doit faire l'objet d'une signalisation par panneaux conformes aux dispositions prévues par l'article R. 232-14.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-14 (V)
+
+
+###### Article R232-8
+
+Lorsque le contenu transporté par les tuyauteries présente un danger, ces tuyauteries doivent faire l'objet d'une
+signalisation permettant de déterminer la nature du contenu transporté. Un arrêté du ministre chargé du travail précise les
+modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R232-9
+
+Les salariés handicapés doivent pouvoir accéder aisément à leur poste de travail ainsi qu'aux locaux sanitaires et aux locaux
+de restauration qu'ils sont susceptibles d'utiliser dans l'établissement.
+
+Leurs postes de travail ainsi que les signaux de sécurité qui les concernent doivent être aménagés si leur handicap l'exige.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R232-10
+
+Les lieux de travail intérieurs et extérieurs doivent être aménagés de telle façon que la circulation des piétons et des
+véhicules puisse se faire de manière sûre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R232-11
+
+Les postes de travail extérieurs doivent être aménagés de telle façon que les salariés :
+
+1° Puissent rapidement quitter leur poste de travail en cas de danger ou puissent rapidement être secourus ;
+
+2° Soient protégés contre la chute d'objets.
+
+3° Dans la mesure du possible :
+
+a) Soient protégés contre les conditions atmosphériques ;
+
+b) Ne soient pas exposés à des niveaux sonores nocifs ou à des émissions de gaz, vapeurs, aérosols de particules solides ou
+liquides de substances insalubres, gênantes ou dangereuses ;
+
+c) Ne puissent glisser ou chuter.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R239-36 (V)
+
+
+###### Article R232-12
+
+Les lieux de travail qui ont été soumis aux dispositions du chapitre IX du présent titre lors de leur construction ou de leur
+aménagement doivent être utilisés en conformité avec ces dispositions. En cas de changement de destination, ils doivent être
+aménagés pour être rendus conformes aux dispositions régissant cette nouvelle destination à la date des travaux
+d'aménagement. 
+
+Le chef d'établissement tient à la disposition des agents de contrôle de l'inspection du travail le dossier de maintenance
+prévu à l'article R. 239-53 et doit, lorsque son entreprise quitte les locaux, soit restituer ce document au propriétaire des
+locaux, soit le transmettre à l'occupant suivant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R239-53 (V)
 
 
 ###### Article R232-13
@@ -28230,6 +28434,27 @@ cours de livraison.
 	  - Code du travail applicable à Mayotte. - art. R232-36 (V)
 	  - Code du travail applicable à Mayotte. - art. R232-54 (V)
 	  - Code du travail applicable à Mayotte. - art. R239-50 (V)
+
+
+###### Article R232-14
+
+La signalisation relative à la sécurité et à la santé au travail doit être conforme à des modalités déterminées par arrêté du
+ministre chargé du travail.
+
+Ces dispositions n'affectent pas l'utilisation de la signalisation relative aux trafics routier, ferroviaire, fluvial,
+maritime et aérien, pour ce qui concerne ces trafics à l'intérieur de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-7 (V)
+	  - Code du travail applicable à Mayotte. - art. R232-79 (V)
+	  - Code du travail applicable à Mayotte. - art. R239-37 (V)
 
 
 ###### Article R232-15
@@ -28275,6 +28500,72 @@ vestiaires, des lavabos, des cabinets d'aisances et, le cas échéant, des douch
 	  - Code du travail applicable à Mayotte. - art. R231-25 (V)
 	  - Code du travail applicable à Mayotte. - art. R232-95 (V)
 	  - Code du travail applicable à Mayotte. - art. R239-14 (V)
+
+
+###### Article R232-17
+
+Les vestiaires collectifs et les lavabos doivent être installés dans un local spécial de surface convenable, isolé des locaux
+de travail et de stockage et placé à proximité du passage des salariés. 
+
+Si les vestiaires et les lavabos sont installés dans des locaux séparés, la communication entre ceux-ci doit pouvoir
+s'effectuer sans traverser les locaux de travail ou de stockage et sans passer par l'extérieur. 
+
+Le sol et les parois des locaux affectés aux vestiaires et lavabos doivent permettre un nettoyage efficace. 
+
+Ces locaux doivent être aérés conformément aux dispositions des articles R. 232-27 à R. 232-36.
+
+Ils doivent être tenus en état constant de propreté. 
+
+Dans les établissements occupant un personnel mixte, des installations séparées doivent être prévues pour les salariés
+masculins et féminins.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-27 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R235-188 (V)
+
+
+###### Article R232-18
+
+Les vestiaires collectifs doivent être pourvus d'un nombre suffisant de sièges et d'armoires individuelles ininflammables.
+
+Ces armoires doivent permettre de suspendre deux vêtements de ville.
+
+Lorsque les vêtements de travail sont susceptibles d'être souillés de matières dangereuses, salissantes ou malodorantes, les
+armoires doivent comprendre un compartiment réservé à ces vêtements.
+
+Les armoires individuelles doivent être munies d'une serrure ou d'un cadenas.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R232-19
+
+Les lavabos sont à eau potable.
+
+L'eau est à température réglable et est distribuée à raison d'un lavabo pour dix personnes au plus.
+
+Des moyens de nettoyage et de séchage ou d'essuyage appropriés sont mis à la disposition des salariés ; ils sont entretenus
+ou changés chaque fois que cela est nécessaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
 
 
 ###### Article R232-20
@@ -28348,6 +28639,21 @@ Un arrêté des ministres chargés du travail et de la santé adapte les disposi
 	  - Code du travail applicable à Mayotte. - art. R239-15 (V)
 
 
+###### Article R232-22
+
+Les personnes handicapées physiques doivent pouvoir disposer d'installations sanitaires appropriées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R239-15 (V)
+
+
 ###### Article R232-23
 
 Lorsque l'aménagement des vestiaires, des lavabos et des douches ne peut, pour des raisons tenant à la disposition des locaux
@@ -28409,9 +28715,176 @@ conservation des boissons et surtout à éviter toute contamination.
 	  - Décret n°2004-196 2004-02-25
 
 
+##### Sous-section 4 : Confort du poste de travail - Sièges.
+
+###### Article R232-26
+
+Un siège approprié est mis à la disposition de chaque salarié à son poste de travail ou à proximité de celui-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
 ##### Section 2 : Ambiances des lieux de travail
 
 ##### Sous-section 1 : Aération, assainissement.
+
+###### Article R232-27
+
+Dans les locaux fermés où le personnel est appelé à séjourner, l'air doit être renouvelé de façon à : 
+
+1° Maintenir un état de pureté de l'atmosphère propre à préserver la santé des salariés ; 
+
+2° Eviter les élévations exagérées de température, les odeurs désagréables et les condensations. 
+
+Les règles applicables à l'aération, à la ventilation et à l'assainissement des locaux mentionnés au premier alinéa ci-dessus
+sont fixées, suivant la nature et les caractères de ces locaux, aux articles R. 232-28 à R. 232-36.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-17 (V)
+	  - Code du travail applicable à Mayotte. - art. R232-21 (V)
+	  - Code du travail applicable à Mayotte. - art. R232-40 (V)
+	  - Code du travail applicable à Mayotte. - art. R239-6 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-28 (V)
+
+
+###### Article R232-28
+
+Pour l'application de la présente sous-section, les termes mentionnés ci-dessous ont les significations suivantes :
+
+Air neuf : air pris à l'air libre hors des sources de pollution.
+
+Air recyclé : air pris et réintroduit dans un local ou un groupe de locaux.
+
+Toutefois, l'air pris hors des points de captage de polluants et réintroduit dans le même local après conditionnement
+thermique n'est pas considéré comme de l'air recyclé.
+
+Locaux à pollution non spécifique : locaux dans lesquels la pollution est liée à la seule présence humaine, à l'exception des
+locaux sanitaires.
+
+Locaux à pollution spécifique : locaux dans lesquels des substances dangereuses ou gênantes sont émises sous forme de gaz,
+vapeurs, aérosols solides ou liquides autres que celles qui sont liées à la seule présence humaine, locaux pouvant contenir
+des sources de micro-organismes potentiellement pathogènes et locaux sanitaires.
+
+Ventilation mécanique : ventilation assurée par une installation mécanique.
+
+Ventilation naturelle permanente : ventilation assurée naturellement par le vent ou par l'écart de température entre
+l'extérieur et l'intérieur.
+
+Poussières : est considérée comme " poussière " toute particule solide dont le diamètre aérodynamique est au plus égal à 100
+micromètres ou dont la vitesse limite de chute, dans les conditions normales de température, est au plus égale à 0,25 mètre
+par seconde. Les poussières ainsi définies sont appelées " poussières totales ".
+
+Toute poussière susceptible d'atteindre les alvéoles pulmonaires est considérée comme " poussière alvéolaire ".
+
+Le " diamètre aérodynamique " d'une poussière est le diamètre d'une sphère de densité égale à l'unité ayant la même vitesse
+de chute dans les mêmes conditions de température et d'humidité relative.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-27 (V)
+	  - Code du travail applicable à Mayotte. - art. R239-8 (V)
+
+
+###### Article R232-29
+
+Dans les locaux à pollution non spécifique, l'aération doit avoir lieu soit par ventilation mécanique, soit par ventilation
+naturelle permanente. Dans ce dernier cas, les locaux doivent comporter des ouvrants donnant directement sur l'extérieur et
+dont les dispositifs de commande sont accessibles aux occupants.
+
+L'aération exclusive par ouverture de fenêtres ou autres ouvrants donnant directement sur l'extérieur est autorisée lorsque
+le volume par occupant est égal ou supérieur à :
+
+a) 15 mètres cubes pour les bureaux ainsi que pour les locaux où est effectué un travail physique léger ;
+
+b) 24 mètres cubes pour les autres locaux.
+
+Les locaux réservés à la circulation et les locaux qui ne sont occupés que de manière épisodique peuvent être ventilés, par
+l'intermédiaire des locaux adjacents à pollution non spécifique sur lesquels ils ouvrent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R232-30
+
+Dans les locaux à pollution non spécifique, lorsque l'aération est assurée par des dispositifs de ventilation, le débit
+minimal d'air neuf à introduire par occupant est fixé dans le tableau ci-après.
+
+DESIGNATION DES LOCAUX : Bureaux, locaux sans travail physique
+
+DEBIT MINIMAL D'AIR par occupant (en mètres cubes par heure) : 25
+
+DESIGNATION DES LOCAUX : Locaux de restauration, locaux de vente, locaux de réunion
+
+DEBIT MINIMAL D'AIR par occupant (en mètres cubes par heure) : 30
+
+DESIGNATION DES LOCAUX : Ateliers et locaux avec travail physique léger
+
+DEBIT MINIMAL D'AIR par occupant (en mètres cubes par heure) : 45
+
+DESIGNATION DES LOCAUX : Autres ateliers et locaux
+
+DEBIT MINIMAL D'AIR par occupant (en mètres cubes par heure) : 60
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-31 (V)
+	  - Code du travail applicable à Mayotte. - art. R232-33 (V)
+	  - Code du travail applicable à Mayotte. - art. R232-37 (V)
+	  - Code du travail applicable à Mayotte. - art. R232-39 (V)
+
+
+###### Article R232-31
+
+L'air envoyé après recyclage dans les locaux à pollution non spécifique doit être filtré. 
+
+L'air recyclé n'est pas pris en compte pour le calcul du débit minimal d'air neuf prévu dans le tableau figurant à l'article
+R. 232-30.
+
+En cas de panne du système d'épuration ou de filtration, le recyclage doit être arrêté. 
+
+L'air pollué d'un local à pollution spécifique ne doit pas être envoyé après recyclage dans un local à pollution non
+spécifique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-30 (V)
+
 
 ###### Article R232-32
 
@@ -28438,6 +28911,30 @@ climatiques.
 	  - Code du travail applicable à Mayotte. - art. R231-12 (V)
 	  - Code du travail applicable à Mayotte. - art. R232-35 (V)
 	  - Code du travail applicable à Mayotte. - art. R238-6-6 (V)
+
+
+###### Article R232-33
+
+Pour chaque local à pollution spécifique, la ventilation doit être réalisée et son débit déterminé en fonction de la nature
+et de la quantité des polluants ainsi que, le cas échéant, de la quantité de chaleur à évacuer, sans que le débit minimal
+d'air neuf puisse être inférieur aux valeurs fixées à l'article R. 232-30.
+
+Lorsque l'air provient de locaux à pollution non spécifique, il doit être tenu compte du nombre total d'occupants des locaux
+desservis pour déterminer le débit minimal d'entrée d'air neuf.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-30 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-39 (V)
 
 
 ###### Article R232-34
@@ -28477,7 +28974,353 @@ directement décelable par les occupants des locaux.
 	  - Code du travail applicable à Mayotte. - art. R231-32 (V)
 
 
+###### Article R232-35
+
+L'air provenant d'un local à pollution spécifique ne peut être recyclé que s'il est efficacement épuré. Il ne peut être
+envoyé après recyclage dans d'autres locaux que si la pollution de tous les locaux concernés est de même nature. En cas de
+recyclage, les concentrations de poussières et substances dans l'atmosphère du local doivent demeurer inférieures aux limites
+définies à l'article R. 232-32. 
+
+Les prescriptions particulières mentionnées à l'article R. 232-32 interdisent ou limitent, le cas échéant, l'utilisation du
+recyclage pour certaines catégories de substances ou catégories de locaux. 
+
+Les conditions du recyclage sont portées à la connaissance du médecin du travail et des délégués du personnel. 
+
+Les personnes mentionnées à l'alinéa précédent sont, en outre, consultées sur toute nouvelle installation ou toute
+modification des conditions de recyclage. 
+
+Les installations de recyclage doivent comporter un système de surveillance permettant de déceler les défauts des dispositifs
+d'épuration. En cas de défaut, les mesures nécessaires sont prises par l'employeur pour maintenir le respect des valeurs
+limites définies à l'article R. 232-32, le cas échéant, en arrêtant le recyclage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-32 (V)
+
+
+###### Article R232-36
+
+Le chef d'établissement doit maintenir l'ensemble des installations mentionnées dans la présente sous-section en bon état de
+fonctionnement et en assurer régulièrement le contrôle. 
+
+Le chef d'établissement indique dans une consigne d'utilisation les dispositions prises pour la ventilation et fixe les
+mesures à prendre en cas de panne des installations. 
+
+Cette consigne, établie en tenant compte, s'il y a lieu, des indications du dossier d'entretien des lieux de travail fourni
+par le maître d'ouvrage conformément à l'article R. 239-53, est soumise à l'avis du médecin du travail et des délégués du
+personnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-13 (V)
+	  - Code du travail applicable à Mayotte. - art. R232-38 (V)
+	  - Code du travail applicable à Mayotte. - art. R239-10 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R239-53 (V)
+
+
+###### Article R232-37
+
+L'agent de contrôle de l'inspection du travail peut prescrire au chef d'établissement de faire procéder par une personne ou
+un organisme agréé aux contrôles et aux mesures permettant de vérifier le respect des dispositions des articles R. 232-30 à
+R. 232-36. 
+
+Le chef d'établissement choisit la personne ou l'organisme agréé sur une liste dressée par le ministre chargé du travail. 
+
+Le chef d'établissement justifie qu'il a saisi l'organisme agréé dans les quinze jours suivant la date de demande de
+vérification et transmet à l'agent de contrôle de l'inspection du travail les résultats qui lui sont communiqués dans les dix
+jours qui suivent cette communication.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Décret n°2014-1289 du 23 octobre 2014 - art. (VD)
+	  - Code du travail applicable à Mayotte. - art. R232-38 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-30 (V)
+
+
+###### Article R232-38
+
+Des arrêtés du ministre chargé du travail fixent : 
+
+a) Les conditions et modalités d'agrément des organismes mentionnés à l'article R. 232-37 ; 
+
+b) Les méthodes de mesure de concentration, de débit, d'efficacité de captage, de filtration et d'épuration ; 
+
+c) La nature et la fréquence du contrôle des installations mentionnées au premier alinéa de l'article R. 232-36.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-36 (V)
+	  - Code du travail applicable à Mayotte. - art. R232-37 (V)
+
+
+###### Article R232-39
+
+Dans les puits, conduites de gaz, carneaux, conduits de fumée, cuves, réservoirs, citernes, fosses, galeries et dans les
+lieux où il n'est pas possible d'assurer de manière permanente le respect des dispositions de la présente sous-section, les
+travaux ne doivent être entrepris qu'après vérification de l'absence de risque pour l'hygiène et la sécurité des salariés et,
+le cas échéant, après assainissement de l'atmosphère et vidange du contenu. 
+
+Pendant l'exécution des travaux la ventilation doit être réalisée, selon le cas, suivant les prescriptions définies à
+l'article R. 232-30 ou à l'article R. 232-33, de manière à maintenir la salubrité de l'atmosphère et à en assurer un balayage
+permanent, sans préjudice des dispositions du chapitre V du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-30 (V)
+	  - Code du travail applicable à Mayotte. - art. R232-33 (V)
+
+
+###### Article R232-40
+
+Si l'exécution des mesures de protection collective prévues aux articles R. 232-27 à R. 232-39 est reconnue impossible, des
+équipements de protection individuelle doivent être mis à la disposition du personnel. 
+
+Ces équipements doivent être choisis et adaptés en fonction de la nature des travaux à effectuer et doivent présenter des
+caractéristiques d'efficacité compatibles avec la nature du risque auquel les salariés sont exposés. Ils ne doivent pas les
+gêner dans leur travail ni, autant qu'il est possible, réduire leur champ visuel. 
+
+Le chef d'établissement doit prendre les mesures nécessaires pour que ces équipements soient effectivement utilisés, pour
+qu'ils soient maintenus en bon état de fonctionnement et désinfectés avant d'être attribués à un nouveau titulaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-27 (V)
+
+
+###### Article R232-41
+
+L'atmosphère des locaux affectés au travail et de leurs dépendances doit être tenue constamment à l'abri de toute émanation
+provenant d'égouts, fosses, puisards, fosses d'aisances ou de toute autre source d'infection.
+
+Dans les établissements qui déversent les eaux résiduaires ou de lavage dans un égout public ou privé, toute communication
+entre l'égout et l'établissement doit être munie d'un intercepteur hydraulique. Cet intercepteur hydraulique doit être
+fréquemment nettoyé, et sa garde d'eau doit être assurée en permanence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
 ##### Sous-section 2 : Eclairage.
+
+###### Article R232-42
+
+La présente sous-section fixe les règles relatives à l'éclairage et à l'éclairement :
+
+1° Des locaux affectés au travail et de leurs dépendances, notamment les passages et escaliers ;
+
+2° Des espaces extérieurs où sont effectués des travaux permanents ;
+
+3° Des zones et voies de circulation extérieures empruntées de façon habituelle pendant les heures de travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-44 (V)
+	  - Code du travail applicable à Mayotte. - art. R239-4 (V)
+
+
+###### Article R232-43
+
+L'éclairage doit être conçu et réalisé de manière à éviter la fatigue visuelle, ainsi que les affections de la vue qui en
+résultent, et permettre de déceler les risques perceptibles par la vue.
+
+Les locaux de travail doivent autant que possible disposer d'une lumière naturelle suffisante.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R232-44
+
+Pendant la présence du personnel dans les lieux définis à l'article R. 232-42, les niveaux d'éclairement mesurés au plan de
+travail ou, à défaut, au sol doivent être au moins égaux aux valeurs indiquées dans le tableau ci-après : 
+
+Locaux affectés au travail et leurs dépendances 
+
+Voies de circulation intérieure 
+
+VALEURS MINIMALES d'éclairement : 40 lux 
+
+Escaliers et entrepôts 
+
+VALEURS MINIMALES d'éclairement : 60 lux 
+
+Locaux de travail, vestiaires, sanitaires 
+
+VALEURS MINIMALES d'éclairement : 120 lux 
+
+Locaux aveugles affectés à un travail permanent 
+
+VALEURS MINIMALES d'éclairement : 200 lux 
+
+Espaces extérieurs 
+
+Zones et voies de circulation extérieures 
+
+VALEURS MINIMALES d'éclairement : 10 lux 
+
+Espaces extérieurs où sont effectués des travaux à caractère permanent 
+
+VALEURS MINIMALES d'éclairement : 40 lux 
+
+Dans les zones de travail, le niveau d'éclairement doit en outre être adapté à la nature et à la précision des travaux à
+exécuter.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-42 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-50 (V)
+	  - Code du travail applicable à Mayotte. - art. R232-51 (V)
+
+
+###### Article R232-45
+
+En éclairage artificiel, le rapport des niveaux d'éclairement, dans un même local, entre celui de la zone de travail et
+l'éclairement général doit être compris entre 1 et 5 ; il en est de même pour le rapport des niveaux d'éclairement entre les
+locaux contigus en communication.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-52 (V)
+
+
+###### Article R232-46
+
+Les postes de travail situés à l'intérieur des locaux de travail doivent être protégés du rayonnement solaire gênant soit par
+la conception des ouvertures, soit par des protections fixes ou mobiles appropriées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-52 (V)
+
+
+###### Article R232-47
+
+Les dispositions appropriées doivent être prises pour protéger les salariés contre l'éblouissement et la fatigue visuelle
+provoqués par des surfaces à forte luminance ou par des rapports de luminance trop importants entre surfaces voisines.
+
+Les sources d'éclairage doivent avoir une qualité de rendu des couleurs en rapport avec l'activité prévue et elles ne doivent
+pas compromettre la sécurité du personnel.
+
+Les phénomènes de fluctuation de la lumière ne doivent pas être perceptibles et ne doivent pas provoquer d'effet
+stroboscopique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-50 (V)
+	  - Code du travail applicable à Mayotte. - art. R232-51 (V)
+
+
+###### Article R232-48
+
+Toutes dispositions doivent être prises afin que les salariés ne puissent se trouver incommodés par les effets thermiques dus
+au rayonnement des sources d'éclairage mises en oeuvre.
+
+Les sources d'éclairage doivent être aménagées ou installées de façon à éviter tout risque de brûlure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R232-49
+
+Les organes de commande d'éclairage doivent être d'accès facile. Dans les locaux aveugles, ils doivent être munis de voyants
+lumineux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-50 (V)
+	  - Code du travail applicable à Mayotte. - art. R232-52 (V)
+
 
 ###### Article R232-50
 
@@ -28505,7 +29348,75 @@ Les règles d'entretien sont consignées dans un document qui est communiqué au
 	  - Code du travail applicable à Mayotte. - art. R239-5 (V)
 
 
+###### Article R232-51
+
+L'agent de contrôle de l'inspection du travail peut prescrire au chef d'établissement de faire procéder à des relevés
+photométriques par une personne ou un organisme agréé, dans le but de vérifier le respect des dispositions des articles R.
+232-44, R. 232-45 et R. 232-47. 
+
+Le chef d'établissement choisit la personne ou l'organisme agréé sur une liste dressée par le ministre chargé du travail. 
+
+Les résultats des relevés photométriques sont communiqués par le chef d'établissement à l'agent de contrôle de l'inspection
+du travail dans les quinze jours suivant la date de la demande de vérification. 
+
+Les conditions et les modalités de l'agrément prévu par le présent article ainsi que les règles à suivre pour effectuer les
+relevés photométriques sont fixées par arrêtés du ministre chargé du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Décret n°2014-1289 du 23 octobre 2014 - art. (VD)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-44 (V)
+	  - Code du travail applicable à Mayotte. - art. R232-47 (V)
+
+
+###### Article R232-52
+
+Les dispositions des articles R. 232-45, R. 232-46, R. 232-47 (1er alinéa) et R. 232-49 ne sont pas applicables sur les
+chantiers du bâtiment et des travaux publics définis à l'article R. 235-1 du chapitre V du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-45 (V)
+	  - Code du travail applicable à Mayotte. - art. R232-46 (V)
+	  - Code du travail applicable à Mayotte. - art. R232-49 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-1 (V)
+
+
 ##### Sous-section 3 : Prévention des risques dûs au bruit.
+
+###### Article R232-53
+
+L'employeur est tenu de réduire le bruit au niveau le plus bas raisonnablement possible compte tenu de l'état des techniques.
+
+L'exposition au bruit doit demeurer à un niveau compatible avec la santé des salariés, notamment avec la protection de
+l'ouïe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-58 (V)
+	  - Code du travail applicable à Mayotte. - art. R232-59 (V)
+
 
 ###### Article R232-54
 
@@ -28640,6 +29551,73 @@ Décret 2004-196 2004-02-25 art. 2 II : les dispositions de l'art. R232-56 I son
 	  - Code du travail applicable à Mayotte. - art. L240-3 (V)
 
 
+###### Article R232-57
+
+I. - Lorsque l'exposition sonore quotidienne subie par un salarié dépasse le niveau de 85 dB (A) ou lorsque la pression
+acoustique de crête dépasse le niveau de 135 dB, les salariés concernés reçoivent une information et une formation adéquates,
+avec le concours du médecin du travail, en ce qui concerne :
+
+a) Les risques résultant, pour leur ouïe, de l'exposition au bruit ;
+
+b) Les moyens mis en oeuvre pour prévenir ces risques ;
+
+c) L'obligation de se conformer aux mesures de prévention et de protection prévues par le règlement intérieur ou les
+consignes ;
+
+d) Le port et les modalités d'utilisation des protecteurs individuels ;
+
+e) Le rôle de la surveillance médicale de la fonction auditive.
+
+II. - Les lieux ou emplacements de travail où l'exposition sonore quotidienne subie par un salarié ou la pression acoustique
+de crête sont susceptibles de dépasser respectivement les niveaux de 90 dB (A) et 140 dB font l'objet d'une signalisation
+appropriée.
+
+L'employeur réglemente l'accès des lieux de travail lorsque le risque d'exposition le justifie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R232-58
+
+I.-Pour l'application des articles R. 232-53 à R. 232-57 et dans le cas où des salariés effectuent des opérations entraînant
+une variation notable de l'exposition au bruit d'une journée de travail à l'autre, l'agent de contrôle de l'inspection du
+travail peut autoriser exceptionnellement, après avis du médecin du travail et des délégués du personnel, à substituer la
+valeur moyenne hebdomadaire des expositions sonores quotidiennes à celle de l'exposition sonore quotidienne. 
+
+II.-Dans le cas où il n'est pas possible de réduire, par des mesures techniques ou d'organisation du travail, l'exposition
+sonore quotidienne subie par un salarié au-dessous du niveau de 90 dB (A) et où les protecteurs individuels prévus à
+l'article R. 232-55 ne peuvent assurer une exposition sonore résiduelle conforme au III dudit article, le directeur du
+travail, de l'emploi et de la formation professionnelle, après enquête de l'agent de contrôle de l'inspection du travail,
+peut accorder des dérogations à cette disposition pour une période ne dépassant pas trois ans. Ces dérogations sont
+renouvelables. 
+
+Dans ce cas toutefois, des protecteurs individuels procurant le plus haut degré de protection possible doivent être fournis. 
+
+L'employeur transmet, avec sa demande, l'avis des délégués du personnel ainsi que celui du médecin du travail. 
+
+Chacune de ces dérogations est assortie de conditions garantissant, compte tenu des circonstances particulières, que les
+risques supportés sont les plus faibles possible.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Décret n°2014-1291 du 23 octobre 2014 - art. (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-53 (V)
+	  - Code du travail applicable à Mayotte. - art. R232-55 (V)
+
+
 ###### Article R232-59
 
 I.-L'agent de contrôle de l'inspection du travail peut mettre en demeure l'employeur de faire procéder à un mesurage de
@@ -28675,9 +29653,38 @@ prévue aux articles L. 231-3 et L. 231-4. Nonobstant les dispositions de l'arti
 	  - Code du travail applicable à Mayotte. - art. R232-55 (V)
 
 
+##### Sous-section 4 : Ambiances particulières.
+
+###### Article R232-60
+
+L'employeur prend, après avis du médecin du travail et des délégués du personnel, toutes les dispositions nécessaires pour
+assurer la protection des salariés contre les intempéries.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
 ##### Section 3 : Restauration - Hébergement
 
 ##### Sous-section 1 : Repas.
+
+###### Article R232-61
+
+Il est interdit de laisser les salariés prendre leur repas dans les locaux affectés au travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-62 (V)
+
 
 ###### Article R232-62
 
@@ -28724,6 +29731,153 @@ y sont installés.
 	  - Code du travail applicable à Mayotte. - art. R239-14 (V)
 
 
+###### Article R232-63
+
+A défaut de local de repos, lorsque la nature des activités l'exige et après avis des délégués du personnel, le local de
+restauration ou l'emplacement prévu à l'article précédent doit pouvoir être utilisé en dehors des heures de repas comme local
+ou emplacement de repos. Les sièges mis à la disposition des salariés pour cet usage comportent des dossiers.
+
+Dans ces locaux ou emplacements, des mesures de protection des non-fumeurs contre la gêne due à la fumée du tabac doivent
+être prises.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R232-64
+
+Sans préjudice des dispositions des articles L. 122-48 et R. 122-9, les femmes enceintes et les mères allaitant leurs enfants
+doivent avoir la possibilité de se reposer en position allongée, dans des conditions appropriées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L122-48 (V)
+	  - Code du travail applicable à Mayotte. - art. R122-9 (V)
+
+
+##### Sous-section 2 : Hébergement.
+
+###### Article R232-65
+
+La surface et le volume habitables des locaux affectés à l'hébergement du personnel ne doivent pas être inférieurs à 6 mètres
+carrés et 15 mètres cubes par personne. Les parties de locaux d'une hauteur inférieure à 1,90 mètre ne sont pas comptées
+comme surface habitable.
+
+Ces locaux doivent être aérés d'une façon permanente.
+
+Ils doivent être équipés de fenêtres ou autres ouvrants de surface transparente donnant directement sur l'extérieur et munis
+d'un dispositif d'occultation.
+
+Le salarié doit pouvoir clore le logement et y accéder librement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R232-66
+
+Les équipements et caractéristiques des locaux affectés à l'hébergement doivent permettre de maintenir à 18 °C au moins la
+température intérieure et d'éviter les condensations et les températures excessives.
+
+Les installations électriques doivent être conformes aux dispositions réglementaires du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R232-67
+
+Chaque couple doit avoir sa chambre.
+
+Les pièces à usage de dortoir ne doivent être occupées que par des personnes du même sexe. Le nombre de personnes par pièce
+est limité à six. Les lits sont distants les uns des autres de 80 centimètres au moins. Il est interdit d'installer des lits
+superposés.
+
+Chaque personne ou chaque couple doit disposer pour son usage exclusif d'une literie et du mobilier nécessaires, qui sont
+maintenus propres et en bon état.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Décret n°2014-1289 du 23 octobre 2014 - art. (VD)
+
+
+###### Article R232-68
+
+Il est interdit d'héberger le personnel dans les locaux affectés à un usage industriel ou commercial.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R232-69
+
+Les revêtements des sols et des parois des locaux affectés à l'hébergement doivent permettre un entretien efficace et être
+refaits chaque fois que la propreté l'exige.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R232-70
+
+Les locaux affectés à l'hébergement doivent être maintenus dans un état constant de propreté et d'hygiène.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R232-71
+
+Des lavabos à eau potable et à température réglable ainsi que des serviettes et du savon doivent être mis à la disposition du
+personnel hébergé, à raison d'un lavabo pour trois personnes. 
+
+Des cabinets d'aisances et des urinoirs sont installés à proximité des pièces destinées à l'hébergement dans les conditions
+déterminées par l'article R. 322-21. 
+
+Des douches à température réglable doivent également être installées à proximité des pièces destinées à l'hébergement, dans
+des cabines individuelles, à raison d'une cabine pour six personnes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R322-21 (V)
+
+
 ##### Section 4 : Prévention des incendies - Evacuation
 
 ##### Sous-section 1 : Dispositions générales.
@@ -28760,7 +29914,212 @@ mesures équivalentes de la présente section.
 	  - Code du travail applicable à Mayotte. - art. L231-1 (V)
 
 
+###### Article R232-73
+
+L'effectif théorique des personnes susceptibles d'être présentes à prendre en compte pour l'application de la présente
+section comprend l'effectif du personnel, majoré, le cas échéant, de l'effectif du public susceptible d'être admis et calculé
+suivant les règles précisées par la réglementation relative à la protection du public contre les risques d'incendie et de
+panique pour les établissements recevant du public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R239-38 (V)
+
+
+##### Sous-section 2 : Dégagements.
+
+###### Article R232-74
+
+Les établissements mentionnés à l'article R. 232-72 doivent posséder des dégagements (portes, couloirs, circulations,
+escaliers, rampes) répartis de manière à permettre une évacuation rapide de tous les occupants dans des conditions de
+sécurité maximale. 
+
+Ces dégagements doivent être toujours libres. Aucun objet, marchandise ou matériel ne doit faire obstacle à la circulation
+des personnes ou réduire la largeur des dégagements au-dessous des minima fixés ci-après. 
+
+Ces dégagements doivent être disposés de manière à éviter les culs-de-sac.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-72 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R239-39 (V)
+
+
+###### Article R232-75
+
+Tous les locaux auxquels les salariés ont normalement accès doivent être desservis par des dégagements dont le nombre et la
+largeur exigibles s'établissent comme suit :
+
+(A) : NOMBRE de dégagements
+
+(B) : LARGEUR totale cumulée
+
+<table>
+  <tbody><tr>
+    <td> :------------------------------------------------:</td>
+  </tr>
+  <tr>
+    <td> :                           :   A   :     B      :</td>
+  </tr>
+  <tr>
+    <td> :---------------------------:-------:------------:</td>
+  </tr>
+  <tr>
+    <td> :  Moins de 21 personnes    :   1   :   0,80 m   :</td>
+  </tr>
+  <tr>
+    <td> :  De 21 à 100 personnes    :   1   :   1,50 m   :</td>
+  </tr>
+  <tr>
+    <td> :  De 101 à 300 personnes   :   2   :      2 m   :</td>
+  </tr>
+  <tr>
+    <td> :  De 301 à 500 personnes   :   2   :    2,5 m   :</td>
+  </tr>
+  <tr>
+    <td> :---------------------------:-------:------------:</td>
+  </tr>
+</tbody></table>
+
+Au-delà des cinq cents premières personnes :
+
+a) Le nombre minimum des dégagements doit être augmenté d'une unité par cinq cents personnes ou fraction de cinq cents
+personnes ;
+
+b) La largeur totale des dégagements doit être augmentée de 0,50 mètre par cent personnes ou fraction de cent personnes.
+
+La largeur de tout dégagement faisant partie des dégagements réglementaires ne doit jamais être inférieure à 0,80 mètre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-78 (V)
+
+
+###### Article R232-76
+
+Les portes susceptibles d'être utilisées pour l'évacuation de plus de cinquante personnes doivent s'ouvrir dans le sens de la
+sortie.
+
+Les portes faisant partie des dégagements réglementaires doivent pouvoir s'ouvrir par une manoeuvre simple. Toute porte
+verrouillée doit être manoeuvrable de l'intérieur dans les mêmes conditions et sans clé.
+
+Les portes coulissantes, à tambour ou s'ouvrant vers le haut ne peuvent constituer des portes de secours. Elles ne sont pas
+considérées comme des dégagements réglementaires. Toutefois les portes coulissantes motorisées qui, en cas de défaillance du
+dispositif de commande ou du dispositif d'alimentation, libèrent la largeur totale de la baie par effacement latéral ou par
+débattement sur l'extérieur par simple poussée peuvent constituer des dégagements réglementaires.
+
+L'existence d'ascenseurs, monte-charge, chemins ou tapis roulants ne peut justifier une diminution du nombre et de la largeur
+des dégagements.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R239-39 (V)
+
+
+###### Article R232-77
+
+Tous les escaliers doivent se prolonger jusqu'au niveau d'évacuation sur l'extérieur. Les parois et les marches ne doivent
+pas comporter de matériaux de revêtement classés, selon leur réaction au feu, dans une catégorie de rang inférieur à celle
+précisée par arrêté du ministre chargé du travail.
+
+Les escaliers doivent être munis de rampe ou de main-courante ; ceux d'une largeur au moins égale à 1,5 mètre en sont munis
+de chaque côté.
+
+Les escaliers desservant les étages doivent être dissociés, au niveau de l'évacuation sur l'extérieur, de ceux desservant les
+sous-sols.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R232-78
+
+Les largeurs minimales fixées à l'article R. 232-75 sont augmentées de la moitié pour les escaliers desservant les sous-sols.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-75 (V)
+
+
+###### Article R232-79
+
+Une signalisation conforme à l'article R. 232-14 doit indiquer le chemin vers la sortie la plus rapprochée. 
+
+Les dégagements qui ne servent pas habituellement de passage pendant la période de travail doivent être signalés par la
+mention sortie de secours. 
+
+Les établissements doivent disposer d'un éclairage de sécurité, conforme à la réglementation en vigueur, permettant d'assurer
+l'évacuation des personnes en cas d'interruption accidentelle de l'éclairage normal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-14 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R239-39 (V)
+
+
 ##### Sous-section 3 : Emploi des matières inflammables.
+
+###### Article R232-80
+
+Les dispositions spécifiques relatives aux installations électriques pour les locaux ou les emplacements présentant des
+dangers d'incendie ou des risques d'explosion sont précisées dans la réglementation relative à la protection des salariés
+dans les établissements qui mettent en oeuvre des courants électriques, prévue par le chapitre VI du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R239-47 (V)
+
 
 ###### Article R232-81
 
@@ -28823,6 +30182,22 @@ dans des récipients métalliques clos et étanches.
 	  - Code du travail applicable à Mayotte. - art. R239-47 (V)
 
 
+###### Article R232-83
+
+Un arrêté du ministre chargé du travail fixe, en tant que de besoin, les dispositions spécifiques relatives aux installations
+industrielles utilisant le gaz combustible et les hydrocarbures liquéfiés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R239-47 (V)
+
+
 ##### Sous-section 4 : Moyens de prévention et de lutte contre l'incendie.
 
 ###### Article R232-84
@@ -28865,7 +30240,274 @@ du 2 septembre 2004 ; les dispositions des alinéas 5,6 et 8 sont applicables à
 	  - Code du travail applicable à Mayotte. - art. R239-51 (V)
 
 
+###### Article R232-85
+
+Les établissements où peuvent se trouver occupées ou réunies habituellement plus de cinquante personnes, ainsi que ceux,
+quelle que soit leur importance, où sont manipulées et mises en oeuvre des matières inflammables citées à l'article R. 232-81
+doivent être équipés d'un système d'alarme sonore. 
+
+L'alarme générale doit être donnée par bâtiment si l'établissement comporte plusieurs bâtiments isolés entre eux. 
+
+Le signal sonore d'alarme générale ne doit pas permettre la confusion avec d'autres signalisations utilisées dans
+l'établissement. Il doit être audible de tout point du bâtiment pendant le temps nécessaire à l'évacuation, avec une
+autonomie minimale de cinq minutes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-81 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-87 (V)
+	  - Code du travail applicable à Mayotte. - art. R232-88 (VD)
+
+
+###### Article R232-86
+
+Des arrêtés du ministre chargé du travail peuvent préciser certaines dispositions relatives aux moyens de prévention et de
+lutte contre l'incendie et rendre obligatoires certaines normes concernant ce matériel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R232-87
+
+Dans les établissements mentionnés à l'article R. 232-85, une consigne est établie et affichée d'une manière très
+apparente : 
+
+a) Dans chaque local pour les locaux dont l'effectif est supérieur à cinq personnes et pour les locaux visés à l'article R.
+232-82 ;
+
+b) Dans chaque local ou dans chaque dégagement desservant un groupe de locaux dans les autres cas. 
+
+Cette consigne indique le matériel d'extinction et de secours qui se trouve dans le local ou à ses abords. Elle désigne le
+personnel chargé de mettre ce matériel en action. 
+
+Elle désigne de même, pour chaque local, les personnes chargées de diriger l'évacuation du personnel et, éventuellement, du
+public, et, le cas échéant, précise les mesures spécifiques liées à la présence de handicapés. 
+
+Elle indique les moyens d'alerte et désigne les personnes chargées d'aviser les sapeurs-pompiers dès le début d'un incendie.
+L'adresse et le numéro d'appel téléphonique du service de secours de premier appel y sont portés en caractères apparents. 
+
+Elle indique que toute personne apercevant un début d'incendie doit donner l'alarme et mettre en oeuvre les moyens de premier
+secours, sans attendre l'arrivée du personnel spécialement désigné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-82 (V)
+	  - Code du travail applicable à Mayotte. - art. R232-85 (V)
+
+
+###### Article R232-88
+
+La consigne doit prévoir des essais et visites périodiques du matériel et des exercices au cours desquels le personnel
+apprend à reconnaître les caractéristiques du signal sonore d'alarme générale, à se servir des moyens de premier secours et à
+exécuter les diverses manoeuvres nécessaires.
+
+Ces exercices et essais périodiques doivent avoir lieu au moins tous les six mois. Leur date et les observations auxquelles
+ils peuvent avoir donné lieu sont consignées sur un registre tenu à la disposition des agents de contrôle de l'inspection du
+travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-82 (V)
+	  - Code du travail applicable à Mayotte. - art. R232-85 (VD)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-88 (VD)
+
+
+###### Article R232-89
+
+La consigne pour le cas d'incendie doit être communiquée aux agents de contrôle de l'inspection du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
 ##### Section 5 : Mesures d'application
+
+##### Sous-section 1 : Dispositions particulières aux établissements agricoles.
+
+###### Article R232-90
+
+Lorsque les dispositions de la section I relatives au nettoyage et de la section II relatives à l'aération, l'assainissement
+et l'ambiance thermique ne peuvent recevoir application en raison de la nature des opérations agricoles pratiquées, des
+mesures d'effet équivalent doivent être prises pour la protection de la santé des salariés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-93 (V)
+
+
+###### Article R232-91
+
+Les salariés ne doivent être admis dans les locaux ayant fait l'objet d'un traitement antiparasitaire qu'après ventilation
+suffisante et observation, s'il y a lieu, de délais évitant les effets toxiques rémanents. En cas de nécessité d'intervention
+anticipée, les moyens de protection individuelle appropriés doivent être fournis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R232-92
+
+Lorsque les travaux sont effectués dans des locaux fermés et dans une atmosphère dangereuse pour la santé des salariés, le
+temps de présence doit être aussi limité que possible.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R232-93
+
+Les dispositions de la sous-section 3 de la section II du présent chapitre sont néanmoins applicables dans les établissements
+agricoles visés à l'article R. 232-90, sauf dans les lieux où l'éclairage peut être contre-indiqué en raison des techniques
+agricoles pratiquées. 
+
+Dans ce cas, des moyens individuels d'éclairage doivent être mis à la disposition du personnel et être tenus constamment en
+bon état de fonctionnement à la diligence de l'employeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-90 (V)
+
+
+###### Article R232-94
+
+Lorsque les salariés sont exposés aux intempéries en raison des conditions d'exécution du travail, l'employeur est tenu de
+mettre à leur disposition des moyens de protection individuelle, dont les caractéristiques techniques sont, en tant que de
+besoin, fixées par des arrêtés du ministre chargé du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R232-95
+
+Les dispositions des articles R. 232-16 à R. 232-19 ne sont applicables qu'au cas où le travail est effectué dans les locaux
+de l'exploitation, de l'entreprise ou de l'établissement agricole ou à proximité de ceux-ci et, si ce n'est pas le cas,
+lorsque les salariés y prennent et finissent leur travail de façon habituelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-16 (V)
+
+
+###### Article R232-96
+
+Pour l'application de l'article R. 232-23, le directeur du travail, de l'emploi et de la formation professionnelle peut
+également tenir compte des impossibilités techniques liées à la nature ou à la situation de l'exploitation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-23 (V)
+
+
+###### Article R232-97
+
+Les dispositions de l'article R. 232-21 ne sont applicables qu'au cas où le travail est effectué dans les locaux de
+l'exploitation, de l'entreprise ou de l'établissement agricole, ou à proximité de ceux-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-21 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R239-14 (V)
+
+
+###### Article R232-98
+
+Les dispositions de la sous-section 2 de la section III du présent chapitre ne sont pas applicables dans les établissements
+agricoles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R232-99
+
+Lorsque les dispositions de la section I relatives à l'hygiène des locaux affectés au travail ainsi que celles de la sous-
+section 1 de la section III relatives aux repas ne peuvent recevoir application en raison de la nature des opérations
+agricoles pratiquées ou de la situation des lieux de travail, des mesures d'effet équivalent doivent être prises en vue
+d'assurer la protection de la santé des salariés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
 
 ##### Sous-section 2 : Dispositions générales.
 
@@ -28891,6 +30533,26 @@ Les prescriptions du présent chapitre donnent lieu à l'application de la proc�
 	**Cité par**:
 
 	  - Code du travail applicable à Mayotte. - art. R232-59 (V)
+
+
+###### Article R232-101
+
+Dans le cas où il est reconnu qu'il est pratiquement impossible d'appliquer l'une des prescriptions de la section IV
+"Prévention des incendies-évacuation", il peut être accordé à un établissement une dispense temporaire ou permanente d'une
+partie de ces prescriptions, sur proposition de mesures compensatoires assurant un niveau de sécurité jugé équivalent.
+
+La dispense est accordée par le directeur du travail, de l'emploi et de la formation professionnelle, après enquête de
+l'agent de contrôle de l'inspection du travail, après avis des délégués du personnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Décret n°2014-1291 du 23 octobre 2014 - art. (V)
 
 
 #### CHAPITRE III : Sécurité
@@ -29251,6 +30913,133 @@ dont ces salariés assurent la maintenance ou la modification et les évolutions
 	  - Code du travail applicable à Mayotte. - art. R233-13 (V)
 
 
+###### Article R233-15
+
+Des arrêtés du ministre chargé du travail déterminent les équipements de travail ou les catégories d'équipement de travail
+pour lesquels le chef d'établissement ou le travailleur indépendant est tenu de procéder ou de faire procéder à des
+vérifications générales périodiques afin que soit décelée en temps utile toute détérioration susceptible de créer des
+dangers. 
+
+Ces arrêtés précisent la périodicité des vérifications et, en tant que de besoin, leur nature et leur contenu. 
+
+L'intervalle entre lesdites vérifications peut être réduit sur mise en demeure de l'agent de contrôle de l'inspection du
+travail lorsque, en raison notamment des conditions ou de la fréquence d'utilisation, du mode de fonctionnement ou de la
+conception de certains organes, les équipements de travail sont soumis à des contraintes génératrices d'une usure prématurée
+susceptible d'être à l'origine de situations dangereuses. 
+
+Les vérifications sont effectuées par des personnes qualifiées, appartenant ou non à l'établissement, dont la liste est tenue
+à la disposition de l'agent de contrôle de l'inspection du travail ou du contrôleur du travail. Ces personnes doivent être
+compétentes dans le domaine de la prévention des risques présentés par les équipements de travail définis par les arrêtés
+prévus au premier alinéa ci-dessus et connaître les dispositions réglementaires afférentes. 
+
+Le résultat des vérifications générales périodiques est consigné sur le registre de sécurité ouvert par le chef
+d'établissement conformément à l'article L. 620-5. Ce registre est tenu à la disposition de l'agent de contrôle de
+l'inspection du travail, des agents de l'organisme chargé du risque accidents du travail et maladies professionnelles et des
+délégués du personnel. 
+
+Lorsque les vérifications périodiques sont réalisées par des personnes n'appartenant pas à l'établissement, les rapports
+établis à la suite de ces vérifications doivent être annexés au registre de sécurité ; à défaut, les indications précises
+relatives à la date des vérifications, à la date de remise des rapports correspondants et à leur archivage dans
+l'établissement doivent être portées sur le registre de sécurité. 
+
+Un arrêté du représentant de l'Etat à Mayotte fixe les conditions dans lesquelles le registre de sécurité et les rapports
+sont tenus et conservés. 
+
+S'ils répondent aux critères de qualification et de compétence définis par l'alinéa 4 ci-dessus, les travailleurs
+indépendants peuvent procéder eux-mêmes à ces vérifications. 
+
+Dans les situations visées à l'article R. 235-23, les travailleurs indépendants consignent les résultats de ces
+vérifications, ainsi que le nom et la qualité de la personne qui les a effectuées, sur le registre prévu audit article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L620-5 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-23 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-16 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-17 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-60 (V)
+
+
+###### Article R233-16
+
+Des arrêtés du ministre chargé du travail déterminent les équipements de travail et les catégories d'équipements de travail
+pour lesquels le chef d'établissement est tenu, dans les conditions définies à l'article R. 233-15, de procéder ou de faire
+procéder, lors de leur mise en service dans l'établissement, à une vérification initiale en vue de s'assurer qu'ils sont
+installés conformément aux spécifications prévues, le cas échéant, par la notice d'instructions du fabricant et peuvent être
+utilisés en sécurité. 
+
+Les travailleurs indépendants sont également tenus à la vérification initiale mentionnée à l'alinéa précédent, dans les
+conditions prévues audit alinéa.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-15 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-60 (MMN)
+
+
+###### Article R233-17
+
+Des arrêtés du ministre chargé du travail déterminent les équipements de travail et les catégories d'équipements de travail
+pour lesquels le chef d'établissement ou le travailleur indépendant est tenu, dans les conditions définies à l'article R.
+233-15, de procéder ou de faire procéder, lors de leur remise en service après toute opération de démontage et remontage ou
+modification susceptible de mettre en cause leur sécurité, à une vérification en vue de s'assurer de l'absence de toute
+défectuosité susceptible d'être à l'origine de situations dangereuses.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-15 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-60 (MMN)
+
+
+###### Article R233-18
+
+Des arrêtés du ministre chargé du travail déterminent les équipements de travail et les catégories d'équipements de travail
+pour lesquels un carnet de maintenance doit être établi et tenu à jour par le chef d'établissement en vue de s'assurer que
+les opérations de maintenance nécessaires au fonctionnement de l'équipement de travail dans des conditions permettant de
+préserver la sécurité et la santé des salariés sont effectuées.
+
+Ces arrêtés précisent la nature des informations qui doivent être portées sur le carnet de maintenance.
+
+Le carnet de maintenance est tenu à la disposition de l'agent de contrôle de l'inspection du travail, des agents de
+l'organisme chargé du risque accidents du travail et maladies professionnelles et des délégués du personnel.
+
+Un arrêté du représentant de l'Etat à Mayotte fixe les conditions dans lesquelles le carnet de maintenance est tenu et
+conservé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
 ###### Article R233-19
 
 Les machines à amenage manuel des pièces à travailler ou à déplacement manuel des outillages doivent être équipées des outils
@@ -29312,6 +31101,37 @@ salariés.
 
 La présence des salariés sur des équipements de travail mobiles mus mécaniquement n'est autorisée que sur des emplacements
 sûrs, aménagés à cet effet. Si des travaux doivent être effectués pendant le déplacement, la vitesse doit être adaptée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+##### Sous-section 4 : Autorisation de conduite pour l'utilisation de certains équipements de travail mobiles et des équipements de travail servant au levage.
+
+###### Article R233-23
+
+La conduite des équipements de travail mobiles automoteurs et des équipements de travail servant au levage est réservée aux
+salariés qui ont reçu une formation adéquate. Cette formation doit être complétée et réactualisée chaque fois que nécessaire.
+
+En outre, la conduite de certains équipements présentant des risques particuliers, en raison de leurs caractéristiques ou de
+leur objet, est subordonnée à l'obtention d'une autorisation de conduite délivrée par le chef d'entreprise.
+
+L'autorisation de conduite est tenue par l'employeur à la disposition de l'agent de contrôle de l'inspection du travail.
+
+Des arrêtés du ministre chargé du travail déterminent :
+
+a) Les conditions de la formation exigée au premier alinéa du présent article ;
+
+b) Les catégories d'équipements de travail dont la conduite nécessite d'être titulaire d'une autorisation de conduite ;
+
+c) Les conditions dans lesquelles le chef d'entreprise s'assure que le salarié dispose de la compétence et de l'aptitude
+nécessaires pour assumer, en toute sécurité, la fonction de conducteur d'un équipement de travail ;
+
+d) La date à compter de laquelle, selon les catégories d'équipements, entre en vigueur l'obligation d'être titulaire d'une
+autorisation de conduite.
 
 **Liens relatifs à cet article**
 
@@ -29644,7 +31464,362 @@ les articles R. 233-25 à R. 233-27, sont précisées en tant que de besoin par 
 	  - Code du travail applicable à Mayotte. - art. R233-25 (V)
 
 
+###### Article R233-42
+
+Les équipements de travail mobiles avec salariés portés doivent être choisis, compte tenu des travaux à effectuer et des
+conditions effectives d'utilisation, de manière à prévenir les risques de retournement ou de renversement de l'équipement et
+de chute d'objets.
+
+Lorsque le risque de retournement ou de renversement ne peut pas être complètement évité, ces équipements doivent être munis
+soit d'une structure les empêchant de se renverser de plus d'un quart de tour, soit d'une structure ou de tout autre
+dispositif d'effet équivalent garantissant un espace suffisant autour des salariés portés si le mouvement peut continuer au-
+delà de cette limite. De telles structures de protection ne sont pas requises lorsque l'équipement est stabilisé pendant
+l'emploi ou lorsque le retournement ou le renversement en est rendu impossible par conception.
+
+Lorsque le risque de chute d'objets ne peut pas être complètement évité, ces équipements doivent être équipés d'une structure
+de protection contre ce risque.
+
+Les structures de protection contre le retournement, le renversement ou la chute d'objets peuvent être intégrées dans une
+cabine.
+
+Si l'équipement n'est pas muni des points d'ancrage permettant de recevoir une structure de protection, des mesures doivent
+être prises pour prévenir le risque de retournement ou de renversement de l'équipement ou de chute d'objets, telles que la
+limitation de son utilisation, de la vitesse et l'aménagement des zones de circulation et de travail.
+
+S'il existe un risque qu'un salarié porté, lors d'un retournement ou d'un renversement, soit écrasé entre des parties de
+l'équipement de travail et le sol, l'équipement doit être muni d'un système de retenue des salariés portés sur leur siège,
+sauf si l'état de la technique et les conditions effectives d'utilisation l'interdisent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R233-43
+
+Les équipements de travail mobiles avec salariés portés doivent être aménagés de façon à réduire au minimum les risques pour
+ces salariés pendant le déplacement, notamment les risques de contact avec les roues, chenilles, ou autres éléments mobiles
+concourant au déplacement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R233-44
+
+Lorsque le blocage intempestif des éléments de transmission d'énergie entre un équipement de travail mobile et ses
+accessoires ou remorques peut engendrer des risques spécifiques, cet équipement de travail doit être aménagé ou équipé de
+façon qu'il puisse être remédié à ce blocage. Lorsque celui-ci ne peut pas être empêché, toutes mesures doivent être prises
+pour éviter les conséquences dommageables pour les salariés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R233-45
+
+Si les éléments de transmission d'énergie entre équipements de travail mobiles risquent de s'encrasser et de se détériorer en
+traînant par terre, des fixations doivent être prévues.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R233-46
+
+Les équipements de travail mobiles automoteurs doivent être munis de dispositifs empêchant une mise en marche par des
+personnes non habilitées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R233-47
+
+Les équipements de travail mobiles automoteurs doivent être munis d'un dispositif de freinage et d'arrêt. Dans la mesure où
+la sécurité l'exige, notamment pour les équipements dont le système de freinage est fortement sollicité, un dispositif de
+secours actionné par des commandes aisément accessibles ou par des systèmes automatiques doit permettre le freinage et
+l'arrêt en cas de défaillance du dispositif principal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R233-48
+
+Lorsque le champ de vision direct du conducteur est insuffisant, les équipements de travail mobiles automoteurs doivent être
+munis de dispositifs auxiliaires, améliorant la visibilité.
+
+Lorsque ces équipements sont utilisés de nuit ou dans des lieux obscurs, ils doivent être munis d'un dispositif d'éclairage
+adapté au travail à effectuer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R233-49
+
+Les équipements de travail mobiles automoteurs commandés à distance doivent être munis d'un dispositif permettant l'arrêt
+automatique lorsqu'ils sortent du champ de contrôle.
+
+S'ils peuvent heurter des salariés, les équipements de travail mobiles automoteurs commandés à distance ou fonctionnant sans
+conducteur doivent être équipés de dispositifs de protection ou de protecteurs contre ces risques, sauf si d'autres
+dispositifs appropriés sont en place pour contrôler le risque de heurt.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R233-50
+
+En cas de mouvement simultané de plusieurs équipements de travail mobiles automoteurs roulant sur rails, ces équipements
+doivent être munis de moyens réduisant les conséquences d'une collision éventuelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R233-51
+
+Les équipements de travail mobiles automoteurs qui, par eux-mêmes ou du fait de leurs remorques ou de leur chargement,
+présentent des risques d'incendie doivent être munis de dispositifs de lutte contre l'incendie, sauf si le lieu d'utilisation
+en est équipé à des endroits suffisamment rapprochés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+##### Section 4 : Mesures d'organisation et conditions d'utilisation des équipements de protection individuelle.
+
+###### Article R233-52
+
+Les équipements de protection individuelle et les vêtements de travail visés à l'article R. 233-1 doivent être fournis
+gratuitement par le chef d'établissement, qui assure leur bon fonctionnement et leur état hygiénique satisfaisant par les
+entretiens, réparations et remplacements nécessaires. 
+
+Les équipements de protection individuelle sont réservés à un usage personnel dans le cadre des activités professionnelles de
+leur attributaire. Toutefois, si la nature de l'équipement ainsi que les circonstances exigent l'utilisation successive de
+cet équipement de protection individuelle par plusieurs personnes, les mesures appropriées doivent être prises pour qu'une
+telle utilisation ne pose aucun problème de santé ou d'hygiène aux différents utilisateurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R231-25 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-1 (V)
+
+
+###### Article R233-53
+
+Le chef d'établissement détermine après consultation des délégués du personnel les conditions dans lesquelles les équipements
+de protection individuelle doivent être mis à disposition et utilisés, notamment celles concernant la durée du port, en
+fonction de la gravité du risque, de la fréquence de l'exposition au risque et des caractéristiques du poste de travail de
+chaque salarié, et en tenant compte des performances des équipements de protection individuelle en cause.
+
+Les équipements de protection individuelle doivent être utilisés conformément à leur destination.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-54 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-60 (V)
+
+
+###### Article R233-54
+
+Des arrêtés du ministre chargé du travail déterminent les équipements de protection individuelle et catégories d'équipement
+de protection individuelle pour lesquels le chef d'établissement ou le travailleur indépendant doit procéder ou faire
+procéder à des vérifications générales périodiques afin que soit décelé en temps utile toute défectuosité susceptible d'être
+à l'origine de situations dangereuses ou tout défaut d'accessibilité contraire aux conditions déterminées conformément à
+l'article R. 233-53. 
+
+Ces arrêtés précisent la périodicité des vérifications et, en tant que de besoin, leur nature et leur contenu. 
+
+L'intervalle entre lesdites vérifications peut être réduit sur mise en demeure de l'agent de contrôle de l'inspection du
+travail lorsque, en raison notamment des conditions de stockage ou d'environnement, du mode de fonctionnement ou de la
+conception de certains organes, les équipements de protection individuelle sont soumis à des contraintes susceptibles de
+nuire à leur fonction protectrice. 
+
+Les vérifications sont effectuées par des personnes qualifiées, appartenant ou non à l'établissement, dont la liste est tenue
+à la disposition de l'agent de contrôle de l'inspection du travail. Ces personnes doivent avoir la compétence nécessaire pour
+exercer leur mission en ce qui concerne les équipements de protection individuelle définis par les arrêtés prévus au premier
+alinéa ci-dessus et connaître les dispositions réglementaires afférentes. 
+
+Le résultat des vérifications générales périodiques est consigné sur le registre de sécurité ouvert par le chef
+d'établissement conformément à l'article L. 620-5. Ce registre est tenu constamment à la disposition de l'agent de contrôle
+de l'inspection du travail, des agents de l'organisme chargé du risque accidents du travail et maladies professionnelles
+ainsi que des délégués du personnel. 
+
+Lorsque les vérifications périodiques sont réalisées par des personnes n'appartenant pas à l'établissement, les rapports
+établis à la suite de ces vérifications doivent être annexés au registre de sécurité ; à défaut, les indications précises
+relatives à la date des vérifications, à la date de remise des rapports correspondants et à leur archivage dans
+l'établissement doivent être portées sur le registre de sécurité. 
+
+Un arrêté du représentant de l'Etat à Mayotte fixe les conditions dans lesquelles le registre de sécurité et les rapports
+sont tenus et conservés. 
+
+S'ils répondent aux critères de qualification et de compétence définis par l'alinéa 4 ci-dessus, les travailleurs
+indépendants peuvent procéder eux-mêmes à ces vérifications. 
+
+Dans les cas visés à l'article R. 235-23, les travailleurs indépendants consignent les résultats de ces vérifications, ainsi
+que le nom et la qualité de la personne qui les a effectuées, sur le registre prévu audit article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L620-5 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-53 (V)
+	  - Code du travail applicable à Mayotte. - art. R235-23 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-60 (MMN)
+
+
+###### Article R233-55
+
+Le chef d'établissement doit informer de manière appropriée les salariés qui doivent utiliser des équipements de protection
+individuelle :
+
+a) Des risques contre lesquels l'équipement de protection individuelle les protège ;
+
+b) Des conditions d'utilisation dudit équipement, notamment les usages auxquels il est réservé ;
+
+c) Des instructions ou consignes concernant les équipements de protection individuelle et de leurs conditions de mise à
+disposition.
+
+Une consigne d'utilisation reprenant de manière compréhensible les informations mentionnées aux a et b du précédent alinéa
+doit être élaborée par le chef d'établissement. Le chef d'établissement doit en outre tenir à la disposition des délégués du
+personnel, la consigne d'utilisation susvisée et une documentation relative à la réglementation applicable à la mise à
+disposition et à l'utilisation des équipements de protection individuelle concernant les salariés de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-56 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-59 (MMN)
+
+
+###### Article R233-56
+
+Le chef d'établissement doit faire bénéficier les salariés qui doivent utiliser un équipement de protection individuelle
+d'une formation adéquate comportant, en tant que de besoin, un entraînement au port de cet équipement de protection
+individuelle. Cette formation doit être renouvelée aussi souvent qu'il est nécessaire pour que l'équipement soit utilisé
+conformément à la consigne d'utilisation prévue au dernier alinéa de l'article R. 233-55.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-55 (V)
+
+
 ##### Section 5 : Dispositions diverses et mesures d'application.
+
+###### Article R233-57
+
+Les passerelles, planchers en encorbellement, plates-formes en surélévation, ainsi que leurs moyens d'accès, doivent être
+construits, installés ou protégés de façon telle que les salariés appelés à les utiliser ne soient pas exposés à des chutes.
+
+Les ponts volants ou les passerelles pour le chargement ou le déchargement des navires ou bateaux doivent former un tout
+rigide et être munis de garde-corps des deux côtés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R233-58
+
+Les cuves, bassins et réservoirs doivent être construits, installés et protégés dans les conditions assurant la sécurité des
+salariés. 
+
+L'installation ou, à défaut, les dispositifs de protection desdites cuves, bassins ou réservoirs doivent être tels qu'ils
+empêchent les salariés d'y tomber. 
+
+Des mesures appropriées doivent garantir les salariés contre les risques de débordement ou d'éclaboussures, ainsi que contre
+les risques de déversement par rupture des parois des cuves, bassins, réservoirs, touries et bonbonnes contenant des produits
+susceptibles de provoquer des brûlures d'origine thermique ou chimique. 
+
+Des visites périodiques destinées à s'assurer de l'état des cuves, bassins et réservoirs contenant des produits corrosifs
+doivent avoir lieu à intervalles n'excédant pas un an. 
+
+Ces visites sont effectuées par un personnel qualifié sous la responsabilité du chef d'établissement. 
+
+La date de chaque vérification et ses résultats sont consignés sur le registre de sécurité prévu à l'article L. 620-5.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L620-5 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-59 (MMN)
+
 
 ###### Article R233-59
 
@@ -29751,6 +31926,32 @@ R. 233-53 (alinéa 2) et R. 233-54 sont applicables aux travailleurs indépendan
 
 ##### Sous-section 1 : Dispositions générales.
 
+###### Article R233-61
+
+La présente section définit les conditions dans lesquelles les machines, les autres équipements de travail, les composants de
+sécurité et les équipements de protection individuelle visés à la section VII peuvent être mis en vente, exposés, importés,
+loués, mis à disposition, cédés à quelque titre que ce soit ou utilisés dans la collectivité départementale de Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
+###### Article R233-62
+
+Un ensemble de machines constitué par l'assemblage d'une machine ou d'un tracteur avec un équipement interchangeable n'est
+pas tenu de satisfaire aux dispositions de la présente section applicables audit ensemble, si les deux parties constitutives
+de cet ensemble sont compatibles entre elles et si chacune de ces parties a satisfait auxdites dispositions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+
 ###### Article R233-63
 
 Est considéré comme " mis pour la première fois sur le marché ", " neuf " ou " à l'état neuf " tout équipement de travail ou
@@ -29797,6 +31998,289 @@ faisant l'objet d'une des opérations mentionnées à l'article L. 233-6 et L. 2
 	  - Code du travail applicable à Mayotte. - art. R233-87 (V)
 
 
+###### Article R233-65
+
+Est considéré comme " maintenu en service " tout équipement de travail ou moyen de protection R. 233-64 lorsque les
+opérations mentionnées audit article sont effectuées au sein d'une même entreprise. 
+
+Il en est de même en cas de modification affectant la situation juridique de l'entreprise elle-même, notamment par
+succession, vente, fusion, transformation du fonds, mise en société.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-64 (V)
+
+
+###### Article R233-66
+
+I.-Il est interdit d'exposer, de mettre en vente, de vendre, d'importer, de louer, de mettre à disposition ou de céder à
+quelque titre que ce soit tout équipement de travail ou moyen de protection ne satisfaisant pas aux dispositions de l'article
+R. 233-69 qui lui sont applicables. 
+
+Toutefois, lorsque ni le fabricant, ni l'importateur n'ont satisfait aux obligations qui leur incombent conformément à la
+présente section, celles-ci doivent être accomplies par tout responsable d'une des opérations mentionnées à l'alinéa
+précédent. 
+
+Il est interdit d'apposer sur un équipement de travail ou moyen de protection, sur son emballage ou sur tout document le
+concernant, toute marque ou inscription susceptible de créer une confusion avec les marquages prévus dans le cadre des
+procédures applicables à Mayotte selon les dispositions du I de l'article R. 233-69. 
+
+II.-Il est également interdit d'apposer sur un équipement de travail ou moyen de protection, sur son emballage ou sur tout
+document le concernant, un marquage prévu dans le cadre d'une procédure applicable à Mayotte selon les dispositions de
+l'article R. 233-69 ou de délivrer une déclaration ou un certificat de conformité prévu dans ce même cadre, lorsque ledit
+équipement de travail ou moyen de protection n'est pas conforme aux règles techniques applicables à Mayotte ou ne satisfait
+pas aux procédures de certification de conformité qui lui sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-69 (V)
+
+
+##### Sous-section 2 : Organismes habilités.
+
+###### Article R233-67
+
+Les organismes chargés de l'expertise prévue à la section VIII ou d'effectuer des opérations de contrôle de conformité
+définies par la présente section sont habilités à cet effet par arrêté du ministre chargé du travail.
+
+Cette habilitation est accordée en fonction des garanties d'indépendance et de compétence présentées par ces organismes, de
+l'expérience acquise en particulier dans le domaine technique considéré et de la disposition des moyens nécessaires à
+l'exécution des tâches pour lesquelles ils sont habilités.
+
+Ces organismes doivent pouvoir justifier de leur indépendance à l'égard des personnes susceptibles d'être intéressées par les
+résultats des essais ou examens qu'ils réalisent.
+
+Ces organismes doivent, en outre, avoir souscrit une assurance couvrant leur responsabilité civile.
+
+La rémunération des agents ne doit être liée ni au nombre des contrôles, ni au résultat de ces contrôles.
+
+Les agents des organismes habilités sont tenus de ne pas révéler les secrets de fabrication et les procédés d'exploitation
+dont ils pourraient avoir connaissance lors de l'examen des équipements de travail et moyens de protection et des dossiers y
+afférents, sauf à l'égard du ministre chargé du travail.
+
+Afin de permettre au ministre chargé du travail d'apprécier les garanties présentées par ces organismes, ceux-ci doivent
+s'engager à permettre aux personnes désignées par le ministre d'accéder à leurs locaux et de procéder à toutes les
+investigations permettant de vérifier qu'ils continuent de satisfaire aux conditions mentionnées aux alinéas précédents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-68 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-76 (MMN)
+	  - Code du travail applicable à Mayotte. - art. R233-89 (V)
+
+
+###### Article R233-68
+
+En cas de manquement aux obligations définies à l'article R. 233-67, l'habilitation est retirée par arrêté du ministre chargé
+du travail et après que le responsable de l'organisme a été invité à présenter ses observations. 
+
+Cet arrêté précise les conditions dans lesquelles les dossiers détenus par l'organisme doivent être mis à la disposition du
+ministre chargé du travail. 
+
+Le retrait de l'habilitation ne met pas fin à l'obligation définie au sixième alinéa de l'article R. 233-67.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-67 (V)
+
+
+##### Sous-section 3 : Conditions générales d'utilisation des équipements de travail et moyens de protection.
+
+###### Article R233-69
+
+I. - Les machines, matériels, outils, engins et plus généralement tous les équipements de travail, ainsi que les protecteurs,
+dispositifs et produits de protection mentionnés à la section VII pouvant être utilisés dans un département de métropole ou
+d'outre-mer peuvent être mis en vente, exposés, importés, loués, mis à disposition, cédés à quelque titre que ce soit ou
+utilisés dans la collectivité départementale de Mayotte sous réserve des dispositions des sous-sections 4 et 5 de la présente
+section.
+
+II. - Les machines, matériels, outils, engins et plus généralement tous les équipements de travail, ainsi que les
+protecteurs, dispositifs et produits de protection mentionnés à la section VII qui ne sont pas visés au I du présent article
+ne peuvent être mis en vente, exposés, importés, loués, mis à disposition, cédés à quelque titre que ce soit ou utilisés dans
+la collectivité départementale de Mayotte qu'après y avoir été autorisés par le représentant de l'Etat dans les conditions
+prévues à la section VIII du présent chapitre, sous réserve des dispositions des sous-sections 4 et 5 de la présente section.
+La délivrance de cette autorisation tient compte des conditions locales et a pour objet d'assurer aux salariés des conditions
+de sécurité équivalentes à celles dont bénéficie le salarié exerçant son activité en métropole ou dans un départements
+d'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-66 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-70 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-72 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-74 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-76 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-78 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-79 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-81 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-82 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-84 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-85 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-87 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-88 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-89 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-91 (VD)
+	  - Code du travail applicable à Mayotte. - art. R233-94 (VD)
+	  - Code du travail applicable à Mayotte. - art. R233-95 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-96 (VD)
+	  - Code du travail applicable à Mayotte. - art. R233-97 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-98 (VD)
+
+
+##### Sous-section 4 : Formalités obligatoires préalables à la mise sur le marché des équipements de travail et moyens de protection neufs ou considérés comme neufs.
+
+###### Article R233-70
+
+Le fabricant, ou l'importateur, ou le responsable de la mise sur le marché d'un exemplaire neuf ou considéré comme neuf
+d'équipement de travail ou de composant de sécurité ou d'équipement de protection individuelle visé au I de l'article R.
+233-69, doit établir et signer une déclaration de conformité par laquelle il atteste que l'équipement de travail ou moyen de
+protection concerné est conforme aux règles techniques et satisfait aux règles de procédure qui lui sont applicables. Cette
+déclaration doit être remise au preneur lors de la vente, de la location, de la cession ou de la mise à disposition à quelque
+titre que ce soit d'un exemplaire d'équipement de travail ou de composant de sécurité, par le responsable de l'opération sus-
+indiquée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-69 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-75 (V)
+
+
+###### Article R233-71
+
+Un marquage de conformité identique à celui en vigueur dans les départements de métropole ou d'outre-mer doit être apposé de
+manière distincte, lisible et indélébile : 
+
+a) Pour les équipements de travail neufs ou considérés comme neufs visés aux 1°, 3° ou 4° de l'article R. 233-78, sur chaque
+exemplaire ; 
+
+b) Pour les équipements de protection individuelle neufs ou considérés comme neufs sur chaque exemplaire ou, si cela n'est
+pas possible compte tenu des caractéristiques de l'équipement de protection individuelle, sur l'emballage. 
+
+Le marquage de conformité est constitué par le sigle " CE ", assorti d'autres indications fixées, en tant que de besoin, par
+arrêté du ministre chargé du travail. 
+
+Le marquage CE est apposé par le fabricant, ou l'importateur, ou le responsable de la mise sur le marché, qui atteste ainsi
+que l'exemplaire d'équipement de travail ou d'équipement de protection individuelle concerné est conforme aux règles
+techniques et satisfait aux procédures de certification qui lui sont applicables dans les départements de métropole et
+d'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-78 (V)
+
+
+###### Article R233-72
+
+Le fabricant, ou l'importateur, ou le responsable de la mise sur le marché d'un exemplaire neuf ou considéré comme neuf
+d'équipement de travail ou de composant de sécurité ou d'équipement de protection individuelle, visé au II de l'article R.
+233-69, doit être en possession de l'autorisation délivrée par le représentant de l'Etat à Mayotte pour pouvoir effectuer
+l'une des opérations énumérées au présent article. 
+
+Il établit et signe en outre une déclaration de conformité par laquelle il atteste que l'équipement de travail ou moyen de
+protection concerné est conforme aux règles techniques mentionnées à l'article R. 233-88 et satisfait aux règles de procédure
+qui lui sont applicables. 
+
+Une copie de ces deux documents est fournie à l'employeur qui se trouvera, après la transaction, en possession de
+l'équipement de travail, du composant de sécurité ou de l'équipement de protection individuelle. Ce dernier tient ces
+documents à la disposition des agents de contrôle de l'inspection du travail, des agents de l'organisme chargé du risque
+accidents du travail et maladies professionnelles, du représentant de l'Etat à Mayotte, et, le cas échéant, du ministre
+chargé du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-69 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-88 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-75 (V)
+
+
+##### Sous-section 5 : Formalités obligatoires préalables à la mise sur le marché des équipements de travail et moyens de protection d'occasion.
+
+###### Article R233-73
+
+Lors de la vente, de la location, de la cession ou de la mise à disposition à quelque titre que ce soit, en vue de son
+utilisation, d'un équipement de travail ou d'un moyen de protection d'occasion qui est au nombre de ceux mentionnés à la
+section VII ci-après, le responsable de l'opération doit remettre au preneur un certificat de conformité par lequel il
+atteste que l'équipement de travail ou le moyen de protection concerné est conforme aux règles techniques qui lui sont
+applicables. Le contenu de ce certificat de conformité est fixé par arrêté du ministre chargé du travail. 
+
+Ces règles techniques peuvent être, selon le cas : 
+
+a) Les mêmes règles techniques que celles qui sont applicables à ces équipements de travail ou moyens de protection en
+métropole ou dans un département d'outre-mer ; 
+
+b) Les mêmes règles techniques que celles qui sont applicables aux équipements de travail ou moyens de protection neufs en
+vigueur à Mayotte selon les dispositions de la section VIII ou des règles techniques adaptées selon les modalités des arrêtés
+prévus à l'article R. 233-88.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-75 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-88 (V)
+
+
 ##### Sous-section 6 : Mesures de contrôle.
 
 ###### Article R233-74
@@ -29824,6 +32308,30 @@ conformité avec les dispositions techniques qui leur sont applicables.
 	**Cité par**:
 
 	  - Code du travail applicable à Mayotte. - art. R233-76 (V)
+
+
+###### Article R233-75
+
+La déclaration de conformité mentionnée à l'article R. 233-70 ou les documents visés à l'article R. 233-72 doivent être
+présentés par le fabricant, ou l'importateur, ou le responsable de la mise sur le marché sur demande des agents mentionnés
+aux articles L. 610-2 et L. 610-9. 
+
+Le certificat de conformité mentionné à l'article R. 233-73 doit être présenté dans les mêmes conditions par le responsable
+de l'opération visée audit article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L610-2 (V)
+	  - Code du travail applicable à Mayotte. - art. L610-9 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-70 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-72 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-73 (V)
 
 
 ##### Sous-section 7 : Organismes agréés prévus par les articles L. 233-8 et R. 233-74.
@@ -30439,6 +32947,335 @@ f) Equipements visés par l'article R. 233-84, à l'exception des appareils de p
 	  - Code du travail applicable à Mayotte. - art. R233-69 (V)
 	  - Code du travail applicable à Mayotte. - art. R233-83 (V)
 	  - Code du travail applicable à Mayotte. - art. R233-84 (V)
+
+
+##### Section 8 : Règles relatives à la procédure d'autorisation prévue au II de l'article R. 233-69.
+
+###### Article R233-88
+
+Pour pouvoir faire l'objet de la procédure d'autorisation prévue au II de l'article R. 233-69, les machines, équipements de
+travail et équipements de protection individuelle mentionnés à la section VII du présent titre doivent respecter les règles
+techniques qui leur sont applicables. 
+
+Ces règles techniques sont fixées par arrêté du ministre chargé du travail. Elles peuvent être différentes selon qu'elles
+concernent des équipements neufs ou considérés comme neufs ou des équipements d'occasion.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-69 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-72 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-73 (V)
+
+
+###### Article R233-89
+
+La demande d'autorisation prévue au II de l'article R. 233-69 est adressée au représentant de l'Etat à Mayotte. Elle comprend
+obligatoirement : 
+
+a) Les nom et adresse du fabricant ou de l'importateur ainsi que le lieu de fabrication de la machine, du composant de
+sécurité ou de l'équipement de protection individuelle ; 
+
+b) Une déclaration par laquelle l'importateur ou le fabricant déclare, sous sa responsabilité, que la machine, le composant
+de sécurité ou l'équipement de protection individuelle qui va faire l'objet de la transaction est conforme aux règles
+techniques qui lui sont applicables, qu'il soit neuf, considéré comme neuf ou d'occasion ; 
+
+c) La documentation technique relative aux moyens mis en oeuvre pour en assurer la conformité aux règles techniques
+applicables. 
+
+Le représentant de l'Etat à Mayotte dispose d'un délai de deux mois à compter de la réception de la demande d'autorisation
+pour notifier à l'importateur ou au fabricant, soit qu'il accepte ou refuse son autorisation, soit qu'il réserve sa décision
+jusqu'à ce que lui soit parvenu le résultat d'un examen technique effectué par l'un des organismes visés à l'article R.
+233-67. En cas de non-réponse dans ce délai, la demande d'autorisation est considérée comme rejetée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-67 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-69 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-90 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-99 (V)
+
+
+###### Article R233-90
+
+Si le représentant de l'Etat choisit de faire procéder à l'examen technique mentionné à l'article R. 233-89, il transmet au
+fabricant ou à l'importateur les coordonnées de l'organisme habilité qui sera chargé de procéder à l'examen technique. Ce
+dernier devra transmettre à cet organisme une demande comportant : 
+
+a) Ses nom et adresse ainsi que le lieu de fabrication de la machine, du composant de sécurité ou de l'équipement de
+protection individuelle ; 
+
+b) La documentation technique relative aux moyens mis en oeuvre pour en assurer la conformité aux règles techniques
+applicables. 
+
+Lorsqu'il s'agit d'une machine visée au 1° de l'article R. 233-78 ou d'un composant de sécurité visé à l'article R. 233-81,
+la demande est accompagnée d'un exemplaire du modèle ou de l'indication du lieu où le modèle peut être examiné. 
+
+Lorsqu'il s'agit d'un équipement de protection individuelle visé à l'article R. 233-83, la demande est accompagnée du nombre
+d'exemplaires du modèle nécessaires à l'examen. 
+
+La demande d'examen et la documentation technique sont rédigées en français.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-78 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-81 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-83 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-89 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-99 (V)
+
+
+###### Article R233-91
+
+L'organisme habilité saisi de la demande d'examen technique procède à l'examen de la documentation technique et à l'examen du
+modèle de machine, de composant de sécurité ou d'équipement de protection individuelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-69 (VD)
+
+
+###### Article R233-92
+
+Lorsqu'il s'agit d'une machine visée à l'article R. 233-78, ou d'un composant de sécurité visé à l'article R. 233-81,
+l'organisme s'assure : 
+
+1° Que la documentation technique comporte tous les éléments nécessaires ; 
+
+2° Que la machine ou le composant de sécurité a été fabriqué conformément aux indications contenues dans la documentation
+technique ; 
+
+3° Que la machine peut être utilisée en sécurité dans les conditions prévues d'utilisation ; 
+
+4° Que le composant de sécurité est apte à remplir les fonctions de sécurité prévues ; 
+
+5° En effectuant les examens et essais appropriés, que la machine ou le composant de sécurité est conforme aux règles
+techniques qui lui sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-78 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-81 (V)
+
+
+###### Article R233-93
+
+Lorsqu'il s'agit d'un équipement de protection individuelle visé à l'article R. 233-83, soumis à la procédure d'examen
+technique, l'organisme habilité procède aux examens et essais suivants. 
+
+Il examine la documentation technique. Dans le cadre de cet examen, il s'assure qu'elle comporte tous les éléments
+nécessaires. 
+
+L'organisme examine le modèle d'équipement de protection individuelle en vue de s'assurer que l'équipement de protection
+individuelle en cause a été fabriqué conformément aux indications contenues dans la documentation technique et qu'il peut
+être utilisé en sécurité conformément à sa destination. 
+
+Il s'assure de la conformité de l'équipement de protection individuelle aux règles techniques qui lui sont applicables. A cet
+effet, il effectue les examens et essais appropriés pour s'assurer, selon le cas, de la conformité du modèle d'équipement de
+protection individuelle : 
+
+a) Soit aux normes auxquelles fait référence la documentation technique ; 
+
+b) Soit aux spécifications techniques utilisées dans la mesure où ces spécifications techniques ont été au préalable
+reconnues conformes aux règles techniques applicables à l'équipement de protection individuelle soumis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-83 (V)
+
+
+###### Article R233-94
+
+Lorsque l'organisme habilité décide que le modèle de machine, de composant de sécurité ou d'équipement de protection
+individuelle examiné est conforme aux règles techniques le concernant, il établit une attestation qu'il transmet au
+représentant de l'Etat à Mayotte.
+
+L'attestation reproduit les conclusions de l'examen, indique les conditions dont elle est éventuellement assortie et comprend
+les descriptions et dessins nécessaires pour identifier le modèle faisant l'objet de l'attestation.
+
+Lorsque l'organisme habilité décide que le modèle de machine, de composant de sécurité ou d'équipement de protection
+individuelle n'est pas conforme aux règles techniques le concernant, il fait connaître au représentant de l'Etat à Mayotte
+son refus de lui délivrer une attestation ainsi que les motifs de ce refus.
+
+L'organisme habilité doit faire connaître son avis, positif ou négatif, au représentant de l'Etat à Mayotte par lettre
+recommandée avec demande d'avis de réception dans un délai de deux mois à compter de la date de dépôt du dossier complet.
+
+Le représentant de l'Etat à Mayotte dispose de quinze jours à compter de la réception de l'avis de l'organisme habilité pour
+notifier sa décision au fabricant ou à l'importateur. En cas de non-réponse dans ce délai, l'autorisation est considérée
+comme rejetée.
+
+Lorsque l'organisme habilité n'a pas fait connaître son avis dans le délai imparti, le représentant de l'Etat à Mayotte peut,
+si le dépassement de délai est injustifié, s'adresser à un autre organisme.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-69 (VD)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-97 (V)
+
+
+###### Article R233-95
+
+Les décisions du représentant de l'Etat à Mayotte prévues au II de l'article R. 233-69 peuvent faire l'objet d'une
+réclamation devant le ministre chargé du travail, au plus tard dans les deux mois qui suivent la notification de la décision
+au demandeur. 
+
+Si la décision du représentant de l'Etat à Mayotte n'apparaît pas justifiée, le ministre chargé du travail peut la réformer,
+après que le réclamant, le demandeur de l'attestation s'il est différent du réclamant et l'organisme habilité en cause ont
+été invités à présenter leurs observations. Il doit statuer dans le délai de deux mois. En cas de non-réponse dans ce délai,
+la réclamation est considérée comme rejetée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-69 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-98 (VD)
+
+
+###### Article R233-96
+
+Préalablement à l'exposition, la mise en vente, la vente, l'importation, la location, la mise à disposition ou la cession à
+quelque titre que ce soit d'un exemplaire neuf ou d'occasion de machine, de composant de sécurité ou d'équipement de
+protection individuelle ayant fait l'objet d'une autorisation du représentant de l'Etat à Mayotte, le responsable de
+l'opération effectuée s'assure de la conformité des exemplaires en cause avec le modèle de machine, de composant de sécurité
+ou d'équipement de protection individuelle pour lequel a été délivrée l'autorisation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-69 (VD)
+
+
+###### Article R233-97
+
+Toute modification d'une machine, d'un composant de sécurité ou d'un équipement de protection individuelle ayant fait l'objet
+d'une autorisation du représentant de l'Etat à Mayotte doit être portée à sa connaissance et, le cas échéant, à la
+connaissance de l'organisme ayant délivré l'avis prévu à l'article R. 233-94. 
+
+Le représentant de l'Etat à Mayotte et, le cas échéant, l'organisme prend connaissance de ces modifications et s'assure que
+celles-ci n'exigent pas une nouvelle autorisation ou un nouvel avis relatif à l'examen de la conformité de la machine, du
+composant de sécurité ou de l'équipement de protection individuelle. Dans ce cas, le représentant de l'Etat à Mayotte fait
+savoir au fabricant ou à l'importateur que l'autorisation prévue au II de l'article R. 233-69 reste valable pour le modèle
+ainsi modifié. 
+
+Dans le cas contraire, le représentant de l'Etat à Mayotte fait savoir au fabricant ou à l'importateur que l'autorisation
+cesse d'être valable pour le modèle ainsi modifié. Si le fabricant ou l'importateur entend maintenir lesdites modifications,
+il doit déposer une nouvelle demande d'autorisation dans les conditions et selon les modalités prévues par la présente
+section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-69 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-94 (V)
+
+
+###### Article R233-98
+
+L'autorisation prévue au II de l'article R. 233-69 peut être retirée à tout moment par le représentant de l'Etat à Mayotte
+s'il apparaît à l'expérience que les règles techniques applicables ne sont pas prises en compte. Cette décision est prise
+après que le titulaire de l'autorisation a été appelé à présenter ses observations. Elle doit être motivée par des non-
+conformités suffisamment importantes pour justifier la remise en cause de la décision initiale. La décision de retrait de
+l'autorisation peut faire l'objet d'une réclamation dans les conditions définies à l'article R. 233-95.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-69 (VD)
+	  - Code du travail applicable à Mayotte. - art. R233-95 (VD)
+
+
+###### Article R233-99
+
+Le ministre chargé du travail peut demander au représentant de l'Etat à Mayotte communication de la documentation technique
+visée à l'article R. 233-89 ainsi, le cas échéant, que les avis formulés par les organismes habilités visés à l'article R.
+233-90.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-196 2004-02-25
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R233-89 (V)
+	  - Code du travail applicable à Mayotte. - art. R233-90 (V)
 
 
 #### CHAPITRE IV : Dispositions particulières aux femmes et aux jeunes travailleurs.
