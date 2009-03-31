@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2009-03-02
+Version Consolidée au 2009-04-01
 
 # Partie législative
 
@@ -48582,7 +48582,7 @@ a) Pour la création d'entreprises, dans les mêmes conditions que pour les aide
 examinée conjointement à celles-ci ; 
 
 b) Pour la formation en mobilité, par le délégué de l'Agence nationale pour l'insertion et la promotion des travailleurs
-d'outre-mer ou par celui de l'     institution mentionnée à l'article L. 5312-1 du code du travail  ou par le responsable de
+d'outre-mer ou par celui de l'institution mentionnée à l'article L. 5312-1 du code du travail ou par le responsable de
 l'organisme agréé à cet effet selon les modalités prévues au X du présent article. 
 
 III.-Pour l'application des dispositions du a de l'article L. 324-9, est considéré comme remplissant la condition de
@@ -48590,11 +48590,11 @@ direction effective de l'entreprise créée ou reprise le demandeur qui, sous sa
 l'entreprise et la représente dans ses rapports avec les tiers. 
 
 IV.-Le délai dont dispose le représentant de l'Etat pour statuer sur la demande d'aide à la formation en mobilité est d'un
-mois. Le silence gardé par le représentant de l'Etat pendant plus d'un mois vaut décision de rejet.
+mois. Le silence gardé par le représentant de l'Etat pendant plus d'un mois vaut décision de rejet. 
 
 V.-L'aide à la formation en mobilité comprend une allocation mensuelle dans la limite d'un montant maximum fixé par décret.
 Elle comporte également une prise en charge des frais liés à la formation, notamment des frais d'installation, dans la limite
-d'un montant fixé par ce même décret.
+d'un montant fixé par ce même décret. 
 
 L'allocation est versée dans la limite de vingt-quatre mensualités à compter du premier jour du mois où débute la formation
 jusqu'au premier jour du mois civil suivant celui où a pris fin la formation, ou, le cas échéant, sur justification de
@@ -48602,10 +48602,10 @@ l'inscription sur la liste des demandeurs d'emploi, jusqu'au terme d'une périod
 est attesté d'une recherche effective d'emploi. 
 
 VI.-La gestion des crédits et le versement de l'aide en capital ainsi que des mensualités pour la formation en mobilité sont
-confiés au Centre national pour l'aménagement des structures des exploitations agricoles, sous réserve des dispositions
-prévues au dernier alinéa du présent paragraphe. Lorsque la formation en mobilité se déroule à l'étranger, la gestion des
-crédits et le versement des aides précités peuvent être confiés à un organisme qui passe une convention à cet effet dans les
-conditions prévues au dernier alinéa du présent paragraphe. 
+confiés à l'Agence de services et de paiement, sous réserve des dispositions prévues au dernier alinéa du présent paragraphe.
+Lorsque la formation en mobilité se déroule à l'étranger, la gestion des crédits et le versement des aides précités peuvent
+être confiés à un organisme qui passe une convention à cet effet dans les conditions prévues au dernier alinéa du présent
+paragraphe. 
 
 La gestion de l'aide pour les frais liés à la formation est assurée par l'Agence nationale pour l'insertion et la promotion
 des travailleurs d'outre-mer ou un organisme agréé dans les conditions prévues par le X du présent article. 
@@ -48641,43 +48641,37 @@ Ne peuvent être cumulés avec l'aide à la formation en mobilité :
 
 le contrat emploi-solidarité prévu à l'article L. 322-1, le contrat emploi consolidé prévu à l'article L. 322-7, le contrat
 de retour à l'emploi prévu à l'article L. 323-1, le contrat d'insertion-adaptation prévu à l'article L. 324-1, la prime à la
-création d'emplois prévue à l'article L. 325-2, ou le contrat emploi-développement prévu à l'article L. 325-6.
+création d'emplois prévue à l'article L. 325-2, ou le contrat emploi-développement prévu à l'article L. 325-6. 
 
 X.-Peut être agréé au titre du b de l'article L. 324-9 tout organisme, public ou privé, ayant la capacité de proposer ou de
 faire accéder à une formation professionnelle, en France ou à l'étranger, ainsi que d'assurer un accompagnement du
 stagiaire. 
 
 Un arrêté du représentant de l'Etat à Mayotte précise la composition du dossier que doit remplir et transmettre l'organisme
-pour permettre l'instruction de la demande d'agrément, les modalités de son dépôt ainsi que les conditions d'agrément.
+pour permettre l'instruction de la demande d'agrément, les modalités de son dépôt ainsi que les conditions d'agrément. 
 
 L'agrément est délivré par le représentant de l'Etat pour une durée d'un à trois ans, éventuellement renouvelable.
-
-**Nota:**
-
-Conformément à l'article 14 du décret n° 2008-1010 du 29 septembre 2008, les dispositions de l'article 7 dudit décret entrent
-en vigueur à la date mentionnée à l'article 9 de la loi n° 2008-126 du 13 février 2008 relative à la réforme de
-l'organisation du service public de l'emploi. Cette date correspond à la première réunion du conseil d'administration de
-l'institution prévue à l'article L. 5312-1 du code du travail.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-1010 du 29 septembre 2008 - art. 7
+	  - Décret n°2009-340 du 27 mars 2009 - art. 10 (Ab)
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L111-1
-	  - Code du travail applicable à Mayotte. - art. L322-1
-	  - Code du travail applicable à Mayotte. - art. L322-7
-	  - Code du travail applicable à Mayotte. - art. L323-1
-	  - Code du travail applicable à Mayotte. - art. L324-1
-	  - Code du travail applicable à Mayotte. - art. L324-9
-	  - Code du travail applicable à Mayotte. - art. L325-1
-	  - Code du travail applicable à Mayotte. - art. L325-2
-	  - Code du travail applicable à Mayotte. - art. L325-6
-	  - Code du travail applicable à Mayotte. - art. L711-2
-	  - Code du travail applicable à Mayotte. - art. L711-5
+	  - Code du travail - art. L5312-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L111-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L322-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L322-7 (V)
+	  - Code du travail applicable à Mayotte. - art. L323-1 (Ab)
+	  - Code du travail applicable à Mayotte. - art. L324-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L324-9 (V)
+	  - Code du travail applicable à Mayotte. - art. L325-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L325-2 (V)
+	  - Code du travail applicable à Mayotte. - art. L325-6 (V)
+	  - Code du travail applicable à Mayotte. - art. L711-2 (V)
+	  - Code du travail applicable à Mayotte. - art. L711-5 (T)
 
 	**Cité par**:
 
