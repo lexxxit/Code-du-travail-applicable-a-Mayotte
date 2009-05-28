@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2009-04-01
+Version Consolidée au 2009-05-29
 
 # Partie législative
 
@@ -14395,57 +14395,37 @@ minimum de salariés.
 
 ###### Article L324-9
 
-Les jeunes âgés de dix-huit à trente ans ainsi que les bénéficiaires du dispositif prévu par l'article L. 324-6 arrivant au
-terme de leur contrat peuvent bénéficier d'une aide financière de l'Etat dénommée : Aide à un projet initiative-jeune, en vue
-de faciliter la réalisation d'un projet professionnel.
+Les jeunes âgés de dix-huit à trente ans peuvent bénéficier d'une aide financière de l'Etat dénommée " aide au projet
+initiative-jeune ".
 
-Cette aide bénéficie aux jeunes qui :
-
-a) Soit créent ou reprennent une entreprise à but lucratif dont le siège et l'établissement principal sont situés dans la
-collectivité départementale de Mayotte et dont ils assurent la direction effective ; dans ce cas, l'aide de l'Etat prend la
-forme d'un capital versé en deux ou plusieurs fractions ;
-
-b) Soit poursuivent, hors de la collectivité départementale de Mayotte, une formation professionnelle proposée par l'Agence
-nationale pour l'insertion et la promotion des travailleurs d'outre-mer ou par tout organisme agréé à cet effet par l'Etat ;
-dans ces cas, l'aide de l'Etat prend la forme d'une mensualité, dans la limite de deux ans, à laquelle peut s'ajouter la
-prise en charge de frais liés à la formation.
+L'aide au projet initiative-jeune bénéficie aux jeunes qui créent ou reprennent une entreprise à but lucratif dont le siège
+ou l'établissement principal est situé à Mayotte et dont ils assurent la direction effective. Cette aide de l'Etat prend la
+forme d'un capital versé en deux ou trois fractions. 
 
 La décision d'attribution de l'aide est prise par le représentant de l'Etat à Mayotte, qui apprécie la réalité, la
 consistance et la viabilité du projet.
 
-L'aide, dont le montant maximum est fixé par décret, est versée à compter de la date de la création effective de l'entreprise
-ou de celle du début de la formation.
+L'aide, dont le montant maximum est déterminé par décret, est versée à compter de la date de la création ou de la reprise
+effective de l'entreprise. Elle est exonérée de toutes charges sociales ou fiscales. 
 
-Un même jeune peut bénéficier successivement des deux types d'aide si, après avoir suivi une formation en mobilité, il crée
-une entreprise dans les conditions fixées au présent article.
+Les jeunes bénéficiant ou ayant bénéficié de l'aide au projet initiative-jeune peuvent également bénéficier des aides à la
+création ou à la reprise d'entreprise prévues au chapitre V du présent titre. 
 
-L'aide en capital est exonérée de toutes charges sociales et fiscales.
-
-L'aide mensuelle est assimilée à une indemnité de formation professionnelle pour assujettissement aux cotisations sociales
-prises en charge par l'Etat ; elle fait partie, le cas échéant, des ressources pour le calcul des prestations sociales
-auxquelles le bénéficiaire peut prétendre sur le lieu de sa formation.
-
-Toute personne qui aura frauduleusement bénéficié ou tenté de bénéficier de l'aide afférente au projet initiative-jeune sera
-punie des peines prévues aux articles 313-1 à 313-3 du code pénal.
+Toute personne qui a frauduleusement bénéficié ou tenté de bénéficier de l'aide au projet initiative-jeune est punie des
+peines prévues aux articles 313-1 à 313-3 du code pénal. 
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article et notamment celles de la suspension ou de
 la suppression de l'aide, ainsi que celles relatives au non-cumul de cette aide avec d'autres aides publiques.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Créé par**:
-
-	  - Ordonnance n°2002-242 du 21 février 2002 - art. 1 () JORF 23 février 2002
+	  - Loi n°2009-594 du 27 mai 2009 - art. 52
 
 	**Cite**:
 
-	  - Code pénal 313-1 à 313-3
-	  - Code du travail applicable à Mayotte. - art. L324-6 (Ab)
+	  - Code pénal - art. 313-1
 
 	**Cité par**:
 
@@ -14509,7 +14489,7 @@ Une prime à la création d'emploi en faveur des jeunes, financée par l'Etat, e
 social et l'établissement principal sont situés à Mayotte qui n'ont procédé à aucun licenciement pour cause économique depuis
 au moins un an, qui sont à jour du versement de leurs cotisations et contributions sociales, et à condition que le salarié
 n'ait pas travaillé chez l'employeur dans les douze mois précédant cette embauche, sauf s'il était titulaire d'un contrat à
-durée déterminée.
+durée déterminée. 
 
 Cette prime est accordée par le représentant de l'Etat à l'occasion du recrutement d'une jeune âgé de seize à vingt-cinq ans
 révolus, demandeur d'emploi inscrit auprès du service chargé de l'emploi, embauché sous contrat de travail à durée
@@ -14521,29 +14501,37 @@ rémunération horaire minimale prévue à l'article L. 141-2 multipliée par le
 du travail fixée à l'article L. 212-1.
 
 L'aide est retirée si l'effectif de l'entreprise diminue par rapport à celui déclaré lors de l'embauche ou s'il est constaté
-que l'entreprise n'est pas à jour de ses obligations fiscales ou sociales.
+que l'entreprise n'est pas à jour de ses obligations fiscales ou sociales. 
 
 Le contrat de travail peut être rompu sans préavis à l'initiative du salarié lorsque la rupture a pour objet de permettre à
 celui-ci d'être embauché en vertu du contrat prévu à l'article L. 711-5 ou de suivre l'une des formations qualifiantes
-mentionnées aux articles L. 324-9 et L. 711-2.
+mentionnées à l'article L. 711-2 et au V de l'article 50 de la loi n° 2009-594 du 27 mai 2009 pour le développement
+économique des outre-mer. 
 
-La prime n'est pas cumulable avec une autre aide à l'emploi attribuée par l'Etat.
+La prime n'est pas cumulable avec une autre aide à l'emploi attribuée par l'Etat. 
 
 Un accord collectif interprofessionnel peut prévoir les conditions dans lesquelles les salariés visés au deuxième alinéa
-bénéficient d'actions de formation.
+bénéficient d'actions de formation. 
 
 Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Loi n°2009-594 du 27 mai 2009 - art. 50
+	  - Code du travail applicable à Mayotte. - art. L141-2
+	  - Code du travail applicable à Mayotte. - art. L212-1
+	  - Code du travail applicable à Mayotte. - art. L711-2
+	  - Code du travail applicable à Mayotte. - art. L711-5
 
 	**Modifié par**:
 
-	  - Loi n°2003-660 du 21 juillet 2003 - art. 13 (V) JORF 22 juillet 2003
+	  - Loi n°2009-594 du 27 mai 2009 - art. 52
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2014-577 du 4 juin 2014 - art. 4
 
 	**Cité par**:
 
@@ -14551,13 +14539,9 @@ Un décret en Conseil d'Etat détermine les modalités d'application du présent
 	  - Code du travail applicable à Mayotte. - art. R324-1 (M)
 	  - Code du travail applicable à Mayotte. - art. R325-9 (V)
 
-	**Cite**:
+	**Nouveaux textes**:
 
-	  - Code du travail applicable à Mayotte. - art. L141-2 (M)
-	  - Code du travail applicable à Mayotte. - art. L212-1 (M)
-	  - Code du travail applicable à Mayotte. - art. L324-9 (V)
-	  - Code du travail applicable à Mayotte. - art. L711-2 (M)
-	  - Code du travail applicable à Mayotte. - art. L711-5 (M)
+	  - Code du travail applicable à Mayotte. - art. L324-7 (V)
 
 
 ###### Article L325-3
@@ -21953,38 +21937,34 @@ l'organisme de formation.
 La formation professionnelle continue des salariés et des personnes à la recherche d'un emploi est régie par les dispositions
 du présent livre. La collectivité départementale de Mayotte, les communes, les établissements publics, les établissements
 d'enseignement publics et privés, les associations, les organisations syndicales d'employeurs et de salariés, les
-organisations familiales ainsi que les entreprises concourent à l'assurer.
+organisations familiales ainsi que les entreprises concourent à l'assurer. 
 
 Le financement des actions de formation professionnelle continue, définies à l'article L. 711-2, est assuré par une
 contribution annuelle, versée à un fonds de la formation professionnelle continue, par tout employeur, sans préjudice des
-dépenses directes qu'il peut effectuer pour le compte de ses salariés. L'Etat et la collectivité départementale de Mayotte
-peuvent participer au financement de ce fonds.
+dépenses directes qu'il peut effectuer pour le compte de ses salariés.L'Etat et la collectivité départementale de Mayotte
+peuvent participer au financement de ce fonds. 
 
 Le taux de la contribution prévue à l'alinéa précédent est fixé à 1 % du montant des rémunérations brutes dans la limite d'un
-plafond.
+plafond. 
 
 La contribution est contrôlée et recouvrée selon les modalités prévues pour la taxe d'apprentissage par le code des impôts
-applicable dans la collectivité départementale de Mayotte.
+applicable dans la collectivité départementale de Mayotte. 
 
 La gestion du fonds est assurée par un organisme paritaire créé par un accord professionnel de travail et agréé par arrêté du
-représentant de l'Etat. Les modalités de gestion de cet organisme sont fixées par décret en Conseil d'Etat.
+représentant de l'Etat. Cet organisme peut également être habilité par le représentant de l'Etat à percevoir la contribution
+annuelle prévue au présent article. Les modalités de gestion de cet organisme sont fixées par décret en Conseil d'Etat. 
 
 Le plafond des rémunérations prises en compte pour l'assiette de la contribution et les modalités de contrôle de l'organisme
-gestionnaire du fonds sont précisés par arrêté du représentant de l'Etat.
+gestionnaire du fonds sont précisés par arrêté du représentant de l'Etat. 
 
 Cet arrêté fixe également la part minimum des sommes collectées qui doivent être affectées aux actions de formation
 dispensées dans le cadre des contrats de formation en alternance mentionnées aux articles L. 711-5 à L. 711-7.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
 	**Modifié par**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 29 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+	  - Loi n°2009-594 du 27 mai 2009 - art. 76
 
 	**Cité par**:
 
@@ -22009,7 +21989,7 @@ dispensées dans le cadre des contrats de formation en alternance mentionnées a
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte L711-2, L711-5 à L711-7
+	  - Code du travail applicable à Mayotte. - art. L711-5
 
 
 ###### Article L711-1-1
