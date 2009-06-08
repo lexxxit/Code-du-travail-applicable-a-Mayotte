@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2009-05-29
+Version Consolidée au 2009-06-09
 
 # Partie législative
 
@@ -49150,59 +49150,6 @@ telles que ces conditions sont déterminées par les dispositions législatives 
 	**Cité par**:
 
 	  - Code du travail applicable à Mayotte. - art. R325-7 (V)
-
-
-##### Section 4 : Fonds pour l'emploi
-
-###### Article R325-9
-
-I. - Les ressources qui sont attribuées à Mayotte par le Fonds pour l'emploi dans les départements d'outre-mer, à Saint-
-Pierre-et-Miquelon et à Mayotte (FEDOM) proviennent des crédits ouverts chaque année au budget du ministère de l'outre-mer.
-Les conditions de fonctionnement de ce fonds sont prévues aux articles R. 835-1 à R. 835-10 du code du travail applicable
-dans les départements de métropole et d'outre-mer.
-
-II. - Les dépenses du FEDOM au profit de Mayotte correspondent aux actions suivantes :
-
-1° Le financement des contrats emploi-solidarité prévus à l'article L. 322-1 ;
-
-2° Le financement des contrats emploi consolidé prévus à l'article L. 322-7 ;
-
-3° Le financement du projet initiative-jeune prévu à l'article L. 324-9 ;
-
-4° Le financement de la prime à la création d'emploi prévue à l'article L. 325-2 ;
-
-5° L'attribution à l'agence mahoraise pour le développement d'activités d'utilité sociale des contributions de l'Etat au
-titre des contrats emploi-développement mentionnés à l'article L. 325-6 ;
-
-6° Le versement à l'agence mahoraise pour le développement d'activités d'utilité sociale de la subvention mentionnée à
-l'article L. 325-8.
-
-Par ailleurs, le fonds prend en charge ses dépenses de fonctionnement, l'évaluation et le suivi des actions qu'il finance.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 1991-12-16 annexe
-
-	**Modifié par**:
-
-	  - Décret n°2004-93 2004-01-27 art. 4 I, IV JORF 29 janvier 2004
-	  - Décret n°2004-93 du 27 janvier 2004 - art. 4 () JORF 29 janvier 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
-
-	**Cite**:
-
-	  - Code du travail R835-1 à R835-10
-	  - Code du travail applicable à Mayotte. - art. L322-1 (M)
-	  - Code du travail applicable à Mayotte. - art. L322-7 (M)
-	  - Code du travail applicable à Mayotte. - art. L324-9 (V)
-	  - Code du travail applicable à Mayotte. - art. L325-2 (M)
-	  - Code du travail applicable à Mayotte. - art. L325-6 (V)
-	  - Code du travail applicable à Mayotte. - art. L325-8 (V)
 
 
 #### CHAPITRE VI : Placement
