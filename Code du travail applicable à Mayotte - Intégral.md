@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2009-06-13
+Version Consolidée au 2009-07-01
 
 # Partie législative
 
@@ -195,12 +195,12 @@ intervenir à l'instance engagée par l'association et y mettre un terme à tout
 
 ###### Article L111-1
 
-L'apprentissage est une forme d'éducation alternée. Il a pour but de donner à des jeunes travailleurs une formation générale,
-théorique et pratique en vue de l'obtention d'une qualification professionnelle sanctionnée par un diplôme de l'enseignement
-professionnel ou technologique, ou un ou plusieurs titres homologués figurant sur une liste établie par arrêté des ministres
-intéressés après avis de la commission permanente du Conseil national de la formation professionnelle, de la promotion
-sociale et de l'emploi. Les titres homologués qui ont été reconnus par une convention collective de travail étendue sont
-inscrits de plein droit sur cette liste.
+L'apprentissage concourt aux objectifs éducatifs de la Nation.
+
+L'apprentissage est une forme d'éducation alternée. Il a pour but de donner à des jeunes travailleurs, ayant satisfait à
+l'obligation scolaire, une formation générale, théorique et pratique, en vue de l'obtention d'une qualification
+professionnelle sanctionnée par un diplôme ou un titre à finalité professionnelle enregistré au répertoire national des
+certifications professionnelles, dans les conditions prévues à l'article L. 335-6 du code de l'éducation.
 
 L'apprentissage fait l'objet d'un contrat conclu avec un employeur. Il associe une formation dans une ou plusieurs
 entreprises, fondée sur l'exercice d'une ou plusieurs activités professionnelles en relation directe avec la qualification,
@@ -210,14 +210,9 @@ entreprises susceptibles d'accueillir temporairement l'apprenti est fixé par l'
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2009-664 du 11 juin 2009 - art. 4
 
 	**Cité par**:
 
@@ -227,8 +222,9 @@ entreprises susceptibles d'accueillir temporairement l'apprenti est fixé par l'
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L112-2 (M)
-	  - Code du travail applicable à Mayotte. - art. L116-4 (M)
+	  - Code de l'éducation - art. L335-6
+	  - Code du travail applicable à Mayotte. - art. L112-2
+	  - Code du travail applicable à Mayotte. - art. L116-4
 
 
 ###### Article L111-2
@@ -337,24 +333,15 @@ pédagogique des enseignements dispensés.
 ###### Article L112-3
 
 Les centres de formation d'apprentis sont créés par des conventions conclues par la collectivité départementale de Mayotte
-avec les communes, les établissements publics, et notamment la chambre professionnelle, les établissements d'enseignement
+avec les communes, les établissements publics, et notamment les chambres consulaires, les établissements d'enseignement
 privés, les organisations professionnelles, les associations, les entreprises ou toute autre personne physique ou morale,
-dans les conditions prévues par la loi n° 88-1089 du 1er décembre 1988 susvisée.
+après avis du comité de coordination mahorais de l'emploi et de la formation professionnelle.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°88-1089 1988-12-01
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2009-664 du 11 juin 2009 - art. 4
 
 	**Cité par**:
 
@@ -444,26 +431,21 @@ centres de formation d'apprentis.
 ###### Article L112-7
 
 En cas de faute ou d'insuffisance professionnelle, ces personnels sont passibles de sanctions prononcées par les organismes
-responsables des centres.
+responsables des centres. 
 
 Ils peuvent, en outre, être déférés par les autorités chargées d'exercer le contrôle technique et pédagogique de ces centres
-au comité de la formation professionnelle, de la promotion sociale et de l'emploi qui peut prononcer contre eux, sous réserve
-d'appel devant le Conseil supérieur de l'éducation, le blâme, la suspension à temps, l'interdiction d'exercer des fonctions
-dans les centres de formation d'apprentis.
+au              comité mahorais de coordination de l'emploi et de la formation professionnelle qui peut prononcer contre eux,
+sous réserve d'appel devant le Conseil supérieur de l'éducation, le blâme, la suspension à temps, l'interdiction d'exercer
+des fonctions dans les centres de formation d'apprentis. 
 
 La procédure visée à l'alinéa précédent n'est applicable ni aux agents fonctionnaires de l'Etat, ni aux agents titulaires des
 collectivités locales, ni aux personnels des établissements publics.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2009-664 du 11 juin 2009 - art. 4
 
 
 #### CHAPITRE III : Du contrat d'apprentissage
@@ -567,24 +549,24 @@ Aucun employeur ne peut engager d'apprenti s'il n'a fait l'objet d'un agrément.
 notamment des garanties présentées par l'employeur dans les domaines de l'équipement de l'entreprise, des techniques
 utilisées, des conditions de travail, d'hygiène et de sécurité dans l'entreprise, des conditions de moralité de l'employeur
 ou de la personne responsable de sa formation, ainsi que de la qualité de la formation professionnelle prévue pour
-l'apprenti.
+l'apprenti. 
 
 Au vu de ces garanties, le représentant de l'Etat à Mayotte délivre l'agrément dans un délai d'un mois à partir de la
-réception de la demande ou saisit pour avis, dans ce même délai, le comité de la formation professionnelle, de la promotion
-sociale et de l'emploi, institué par l'article 2 de la loi n° 88-1029 du 1er décembre 1988. Passé ce délai, l'agrément est
-réputé acquis sauf si le représentant de l'Etat à Mayotte a notifié au demandeur le transfert de son dossier, pour avis, au
-comité de la formation professionnelle, de la promotion sociale et de l'emploi. En cas de transfert de la demande, le
-représentant de l'Etat à Mayotte dispose d'un délai d'un mois supplémentaire pour statuer. Passé ce délai, l'agrément est
-réputé acquis, sauf décision de refus notifiée au demandeur. Le représentant de l'Etat à Mayotte informe régulièrement le
-comité de la formation professionnelle, de la promotion sociale et de l'emploi des décisions d'agrément qu'il a prises.
+réception de la demande ou saisit pour avis, dans ce même délai, le comité mahorais de coordination de l'emploi et de la
+formation professionnelle. Passé ce délai, l'agrément est réputé acquis sauf si le représentant de l'Etat à Mayotte a notifié
+au demandeur le transfert de son dossier, pour avis, au comité mahorais de coordination de l'emploi et de la formation
+professionnelle. En cas de transfert de la demande, le représentant de l'Etat à Mayotte dispose d'un délai d'un mois
+supplémentaire pour statuer. Passé ce délai, l'agrément est réputé acquis, sauf décision de refus notifiée au demandeur. Le
+représentant de l'Etat à Mayotte informe régulièrement le comité mahorais de coordination de l'emploi et de la formation
+professionnelle des décisions d'agrément qu'il a prises.
 
-L'agrément peut être retiré par le représentant de l'Etat à Mayotte après avis du comité de la formation professionnelle, de
-la promotion sociale et de l'emploi et après mise en demeure par les autorités chargées d'exercer le contrôle de l'exécution
+L'agrément peut être retiré par le représentant de l'Etat à Mayotte après avis du comité mahorais de coordination de l'emploi
+et de la formation professionnelle et après mise en demeure par les autorités chargées d'exercer le contrôle de l'exécution
 du contrat d'apprentissage, et notamment par l'inspection du travail ou l'inspection de l'apprentissage, lorsque l'employeur
 méconnaît les obligations mises à sa charge soit par le présent titre, soit par les autres dispositions du présent code
-applicables aux jeunes travailleurs ou aux apprentis, soit par le contrat d'apprentissage.
+applicables aux jeunes travailleurs ou aux apprentis, soit par le contrat d'apprentissage. 
 
-Les décisions de refus ou de retrait d'agrément sont motivées.
+Les décisions de refus ou de retrait d'agrément sont motivées. 
 
 Les décisions du représentant de l'Etat à Mayotte sont communiquées aux fonctionnaires chargés du contrôle de l'application
 de la législation du travail et des lois sociales dans les établissements en cause, aux représentants du personnel ainsi qu'à
@@ -595,18 +577,9 @@ deuxième alinéa du présent article sont portés respectivement à deux mois e
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°88-1029 1988-12-01 art. 2
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2009-664 du 11 juin 2009 - art. 4
 
 	**Cité par**:
 
@@ -698,7 +671,7 @@ l'article L. 116-4.
 Sous réserve de dispositions contractuelles ou conventionnelles plus favorables, l'apprenti perçoit un salaire déterminé en
 pourcentage du salaire minimum interprofessionnel garanti et dont le montant, qui varie en fonction de l'âge du bénéficiaire,
 est fixé pour chaque semestre d'apprentissage par arrêté du représentant de l'Etat à Mayotte pris après avis de la commission
-consultative du travail et du comité de la formation professionnelle, de la promotion sociale et de l'emploi.
+consultative du travail et du              comité mahorais de coordination de l'emploi et de la formation professionnelle. 
 
 Les modalités de rémunération des heures supplémentaires sont celles qui sont applicables au personnel de l'entreprise
 concernée.
@@ -707,14 +680,9 @@ L'arrêté prévu au premier alinéa fixe les conditions dans lesquelles les ava
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2009-664 du 11 juin 2009 - art. 4
 
 	**Cité par**:
 
@@ -1098,20 +1066,15 @@ professionnelles dont ils relèvent en tant que salariés.
 
 ###### Article L115-1
 
-Les organismes gestionnaires des centres de formation d'apprentis peuvent recevoir des subventions d'équipement et de
-fonctionnement de l'Etat, de la collectivité départementale ou des autres collectivités locales et des établissements
-publics.
+L'Etat, la collectivité départementale, les chambres consulaires, une ou plusieurs organisations représentatives d'employeurs
+et de salariés peuvent conclure des contrats d'objectifs et de moyens visant au développement de l'apprentissage. En tant que
+de besoin, d'autres parties peuvent être associées à ces contrats.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2009-664 du 11 juin 2009 - art. 4
 
 	**Cité par**:
 
@@ -1123,20 +1086,40 @@ publics.
 Tout ou partie des cotisations sociales patronales dues à la caisse de prévoyance sociale de Mayotte au titre des salaires
 versés par les employeurs à leurs apprentis peuvent être prises en charge par la collectivité départementale.
 
+Les contrats d'apprentissage ouvrent droit à une indemnité compensatrice forfaitaire versée par la collectivité
+départementale à l'employeur. 
+
+La collectivité départementale détermine la nature, le montant et les conditions d'attribution de cette indemnité. 
+
+Un décret détermine les conditions dans lesquelles, si cette indemnité a été versée à tort, l'employeur reverse à la
+collectivité départementale les sommes indûment perçues.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2009-664 du 11 juin 2009 - art. 4
 
 	**Cité par**:
 
 	  - Ordonnance n°2009-664 du 11 juin 2009 - art. 7 (V)
+
+
+###### Article L115-3
+
+Les versements effectués au Trésor public par une personne ou entreprise redevable de la taxe d'apprentissage afin de
+s'acquitter de tout ou partie de cette dernière sont reversés au fonds mahorais de l'apprentissage et de la formation
+professionnelle continue institué par l'article L. 6173-9 du code général des collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-664 du 11 juin 2009 - art. 4
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L6173-9
 
 
 #### CHAPITRE VI : Dispositions diverses et transitoires.
@@ -1178,42 +1161,37 @@ les infractions aux dispositions du présent titre et des textes pris pour son a
 
 ###### Article L116-3
 
-La chambre professionnelle de Mayotte exerce des attributions propres en matière d'apprentissage dans le cadre du présent
-titre.
+Les chambres consulaires de Mayotte exercent des attributions propres en matière d'apprentissage dans le cadre du présent
+titre. 
 
-Celles-ci ont notamment pour objet de contribuer :
+Celles-ci ont notamment pour objet de contribuer : 
 
-1° Au placement des jeunes en apprentissage ;
+1° Au placement des jeunes en apprentissage ; 
 
-2° A la préparation des dossiers d'agrément et des contrats d'apprentissage ;
+2° A la préparation des dossiers d'agrément et des contrats d'apprentissage ; 
 
 3° A la transmission des dossiers d'agrément au comité de la formation professionnelle, de la promotion sociale et de
-l'emploi et à la transmission des contrats d'apprentissage à la direction du travail et de l'emploi ;
+l'emploi et à la transmission des contrats d'apprentissage à la direction du travail et de l'emploi ; 
 
 4° A rechercher et à faciliter les procédures de recours à des entreprises ou groupements d'entreprises envisagés à l'article
-L. 112-2 ;
+L. 112-2 ; 
 
-5° A l'élaboration de documents statistiques sur l'apprentissage ;
+5° A l'élaboration de documents statistiques sur l'apprentissage ; 
 
-6° A la réalisation d'enquêtes sur l'insertion professionnelle des jeunes formés par la voie de l'apprentissage.
+6° A la réalisation d'enquêtes sur l'insertion professionnelle des jeunes formés par la voie de l'apprentissage. 
 
-La chambre professionnelle adresse au comité de la formation professionnelle, de la promotion sociale et de l'emploi, tous
+Les chambres consulaires adressent au comité mahorais de coordination de l'emploi et de la formation professionnelle, tous
 avis et suggestions qu'il lui paraît nécessaire de formuler sur l'apprentissage dans la collectivité départementale.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2009-664 du 11 juin 2009 - art. 4
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L112-2 (M)
+	  - Code du travail applicable à Mayotte. - art. L112-2
 
 
 ###### Article L116-4
@@ -1238,39 +1216,6 @@ Mayotte après avis de la commission consultative du travail.
 	  - Code du travail applicable à Mayotte. - art. L111-2 (V)
 	  - Code du travail applicable à Mayotte. - art. L112-6 (V)
 	  - Code du travail applicable à Mayotte. - art. L113-8 (V)
-
-
-###### Article L116-5
-
-Pendant une période transitoire qui se terminera le 30 juin 1996, dans les branches et métiers dont la liste sera fixée par
-arrêté du représentant de l'Etat à Mayotte, et en l'absence de centres de formation d'apprentis dispensant l'ensemble des
-formations énumérées au premier alinéa de l'article L. 112-1, des cours d'enseignement général et professionnel pourront être
-organisés par le représentant de l'Etat à Mayotte, le cas échéant en liaison avec la chambre professionnelle et les
-entreprises ou groupements d'entreprises, en vue de compléter la formation reçue en entreprise. 
-
-Pour l'application des dispositions des chapitres III et IV du présent titre, les cours ainsi suivis tiendront lieu de la
-formation prévue à l'article L. 112-1. 
-
-Le représentant de l'Etat à Mayotte délivrera à l'issue de ces cours une attestation de fin de formation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2009-664 du 11 juin 2009 - art. 4
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L112-1 (V)
 
 
 ### TITRE II : CONTRAT DE TRAVAIL
@@ -13787,19 +13732,14 @@ avec les différents partenaires énumérés au présent article.
 
 ###### Article L321-3
 
-Dans la détermination de cette politique et le choix des actions, le représentant de l'Etat à Mayotte est assisté du comité
-de la formation professionnelle, de la promotion sociale et de l'emploi.
+Dans la détermination de cette politique et le choix des actions, le représentant de l'Etat à Mayotte est assisté du
+comité mahorais de coordination de l'emploi et de la formation professionnelle.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2009-664 du 11 juin 2009 - art. 4
 
 
 ###### Article L321-4
@@ -21796,35 +21736,24 @@ des inspecteurs et contrôleurs du travail.
 
 Les formations ayant pour objet l'acquisition d'une qualification professionnelle des personnes âgées de seize ans à moins de
 trente ans peuvent être dispensées dans le cadre d'un contrat de travail à durée déterminée mentionné à l'article L. 122-1-1,
-dénommé "contrat de qualification". Sa durée est comprise entre six mois et deux ans. Il est passé par écrit.
+dénommé " contrat de qualification ". Sa durée est comprise entre six mois et deux ans. Il est passé par écrit.
 
 L'employeur s'engage, pour la durée prévue, à fournir un emploi à l'intéressé et à assurer une formation qui lui permettra
 d'acquérir une qualification professionnelle sanctionnée par un diplôme de l'enseignement technologique ou professionnel, ou
 reconnue dans les classifications d'une convention collective ou d'un accord interprofessionnel, ou figurant sur une liste
-établie par un arrêté du représentant de l'Etat à Mayotte, après consultation du comité de la formation professionnelle, de
-la promotion sociale et de l'emploi prévu à l'article 2 de la loi n° 88-1089 du 1er décembre 1988.
+établie par un arrêté du représentant de l'Etat à Mayotte, après consultation du comité mahorais de coordination de l'emploi
+et de la formation professionnelle. 
 
 Les enseignements généraux, professionnels et technologiques dispensés pendant la durée du contrat doivent être au minimum
-d'une durée égale à 33 % de la durée totale du contrat.
+d'une durée égale à 33 % de la durée totale du contrat. 
 
 Les dispositions du premier alinéa de l'article L. 122-12 ne s'appliquent pas au contrat de qualification.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°88-1089 du 1 décembre 1988 - art. 2 (V)
-	  - Code du travail applicable à Mayotte. - art. L122-1-1 (M)
-	  - Code du travail applicable à Mayotte. - art. L122-12 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2009-664 du 11 juin 2009 - art. 4
 
 	**Cité par**:
 
@@ -21843,6 +21772,11 @@ Les dispositions du premier alinéa de l'article L. 122-12 ne s'appliquent pas a
 	  - Code du travail applicable à Mayotte. - art. R711-18 (V)
 	  - Code du travail applicable à Mayotte. - art. R712-12 (T)
 	  - Code du travail applicable à Mayotte. - art. R713-7 (VT)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L122-1-1
+	  - Code du travail applicable à Mayotte. - art. L122-12
 
 
 ###### Article L711-6
@@ -22021,6 +21955,23 @@ l'organisme de formation.
 
 ### CHAPITRE 1ER : DISPOSITIONS GENERALES
 
+###### Article L711
+
+La formation professionnelle tout au long de la vie constitue une obligation nationale. Elle comporte une formation initiale,
+comprenant notamment l'apprentissage, et des formations ultérieures destinées aux adultes et aux jeunes déjà engagés dans la
+vie active ou qui s'y engagent. Ces formations ultérieures constituent la formation professionnelle continue.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-664 du 11 juin 2009 - art. 4
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L742-9 (V)
+
+
 ###### Article L711-1
 
 La formation professionnelle continue des salariés et des personnes à la recherche d'un emploi est régie par les dispositions
@@ -22169,40 +22120,74 @@ de ces deux peines seulement.
 	  - Code du travail applicable à Mayotte. - art. R712-1 (VT)
 
 
-###### Article L711-2
+###### Article L711-1-2
 
-Les actions de formation professionnelle continue prévues à l'article L. 711-1 concernent :
+Tout salarié engagé dans la vie active ou toute personne qui s'y engage a droit à la qualification professionnelle et doit
+pouvoir suivre, à son initiative, une formation lui permettant, quel que soit son statut, d'acquérir une qualification
+correspondant aux besoins de l'économie prévisibles à court ou moyen terme : 
 
-1° La préformation et la préparation à la vie professionnelle des personnes sans qualification professionnelle ni contrat de
-travail ;
+1° Soit enregistrée dans le répertoire national des certifications professionnelles prévu à l'article L. 335-6 du code de
+l'éducation ; 
 
-2° L'adaptation des travailleurs titulaires d'un contrat de travail ;
+2° Soit reconnue dans les classifications d'une convention collective nationale de branche ou d'une convention applicable à
+Mayotte ; 
 
-3° La promotion des travailleurs pour leur permettre d'acquérir une qualification plus élevée ;
-
-4° La préparation à un changement d'activité des travailleurs dont l'emploi est menacé ;
-
-5° L'accession à de nouvelles activités professionnelles pour les personnes à la recherche d'un emploi ;
-
-6° L'acquisition, l'entretien ou le perfectionnement des connaissances ;
-
-7° La réalisation d'un bilan de compétences professionnelles et personnelles pour définir un projet professionnel et, le cas
-échéant, de formation ;
-
-8° La lutte contre l'illettrisme ;
-
-9° Les actions de formation continue relatives à la radioprotection des personnes prévues par l'article L. 1333-11 du code de
-la santé publique ;
-
-10° Les actions permettant aux salariés de faire valider les acquis de leurs expériences en vue de l'acquisition d'un diplôme
-ou d'un titre à finalité professionnelle en application de l'article L. 335-5 du code de l'éducation.
+3° Soit figurant sur une liste établie par la commission paritaire nationale de l'emploi d'une branche professionnelle.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°2009-664 du 11 juin 2009 - art. 4
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L335-6
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. L262-4 (V)
+	  - Code du travail applicable à Mayotte. - art. L127-11 (V)
+	  - Code du travail applicable à Mayotte. - art. L127-15 (V)
+	  - Code du travail applicable à Mayotte. - art. L127-5 (V)
+	  - Code du travail applicable à Mayotte. - art. L321-15 (V)
+	  - Code du travail applicable à Mayotte. - art. L322-18 (VD)
+	  - Code du travail applicable à Mayotte. - art. L322-37 (V)
+	  - Code du travail applicable à Mayotte. - art. L741-1 (V)
+	  - Code du travail applicable à Mayotte. - art. R322-13 (VD)
+	  - Code du travail applicable à Mayotte. - art. R322-37 (VD)
+
+
+###### Article L711-2
+
+Les actions de formation professionnelle continue prévues à l'article L. 711-1 concernent : 
+
+1° La préformation et la préparation à la vie professionnelle des personnes sans qualification professionnelle ni contrat de
+travail ; 
+
+2° L'adaptation des travailleurs titulaires d'un contrat de travail ; 
+
+3° La promotion des travailleurs pour leur permettre d'acquérir une qualification plus élevée ; 
+
+4° La préparation à un changement d'activité des travailleurs dont l'emploi est menacé ; 
+
+5° L'accession à de nouvelles activités professionnelles pour les personnes à la recherche d'un emploi ; 
+
+6° L'acquisition, l'entretien ou le perfectionnement des connaissances ; 
+
+7° La réalisation d'un bilan de compétences professionnelles et personnelles pour définir un projet professionnel et, le cas
+échéant, de formation ; 
+
+8° La lutte contre l'illettrisme ; 
+
+9° Les actions de formation continue relatives à la radioprotection des personnes prévues par l'article L. 1333-11 du code de
+la santé publique ; 
+
+10° Les actions permettant aux salariés de faire valider les acquis de leurs expériences en vue de l'acquisition d'un diplôme
+ou d'un titre à finalité professionnelle en application des articles L. 335-5, L. 335-6, L. 613-3 et L. 613-4 du code de
+l'éducation.
+
+**Liens relatifs à cet article**
 
 	**Cité par**:
 
@@ -22238,12 +22223,13 @@ ou d'un titre à finalité professionnelle en application de l'article L. 335-5 
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 31 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+	  - Ordonnance n°2009-664 du 11 juin 2009 - art. 4
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L335-5 (M)
-	  - Code de la santé publique - art. L1333-11 (T)
+	  - Code de l'éducation - art. L335-5 (V)
+	  - Code de l'éducation - art. L613-3 (V)
+	  - Code de la santé publique - art. L1333-11 (V)
 
 
 ###### Article L711-3
@@ -22367,6 +22353,51 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent artic
 	**Cité par**:
 
 	  - Code du travail applicable à Mayotte. - art. R713-10 (VT)
+
+
+###### Article L711-4-2
+
+Le comité mahorais de coordination de l'emploi et de la formation professionnelle a pour mission de favoriser la concertation
+entre les divers acteurs afin d'assurer une meilleure coordination des politiques de formation professionnelle et d'emploi.
+Il est notamment chargé des fonctions de diagnostic, d'étude, de suivi et d'évaluation de ces politiques. 
+
+Il est composé de représentants de l'Etat dans la collectivité, du conseil général et des organisations syndicales de
+salariés et d'employeurs ainsi que des chambres consulaires. 
+
+Le comité de coordination de l'emploi et de la formation professionnelle est présidé conjointement par le préfet et le
+président du conseil général. 
+
+Les modalités d'organisation et de fonctionnement du comité de coordination sont déterminées par décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-664 du 11 juin 2009 - art. 4
+
+	**Cité par**:
+
+	  - Décret n°2016-1951 du 28 décembre 2016 - art. 1
+	  - Code du travail applicable à Mayotte. - art. R324-1 (V)
+	  - Code du travail applicable à Mayotte. - art. R324-4 (V)
+
+
+###### Article L711-4-3
+
+Les compétences de la collectivité départementale en matière de formation professionnelle sont définies à l'article L. 262-4
+du code de l'éducation. 
+
+Le plan mahorais de développement des formations professionnelles est élaboré dans les conditions définies au même article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-664 du 11 juin 2009 - art. 4
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L262-4 (V)
 
 
 # Partie réglementaire - Décrets en Conseil d'Etat
