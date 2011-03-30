@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2011-01-01
+Version Consolidée au 2011-03-31
 
 # Partie législative
 
@@ -22925,6 +22925,30 @@ Le plan mahorais de développement des formations professionnelles est élaboré
 	**Cite**:
 
 	  - Code de l'éducation - art. L262-4 (V)
+
+
+## LIVRE VIII : DISPOSITIONS APPLICABLES À CERTAINES PROFESSIONS ET ACTIVITÉS
+
+### TITRE Ier : PROFESSIONS DU SPECTACLE
+
+###### Article L811-1
+
+Les articles L. 7122-1 à L. 7122-21 du code du travail applicables en métropole et dans les départements d'outre-mer sont
+applicables à Mayotte. 
+
+Pour l'application de l'article L. 7122-12, les mots : " présent code " sont remplacés par les mots : " code du travail
+applicable à Mayotte " et la référence : " ordonnance n° 45-2339 du 13 octobre 1945 relative aux spectacles " est supprimée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1487 du 7 décembre 2010 - art. 27
+
+	**Cite**:
+
+	  - Code du travail - art. L7122-1
+	  - Code du travail - art. L7122-12
 
 
 # Partie réglementaire - Décrets en Conseil d'Etat
