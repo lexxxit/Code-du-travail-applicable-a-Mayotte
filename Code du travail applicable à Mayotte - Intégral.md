@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2011-03-31
+Version Consolidée au 2011-04-01
 
 # Partie législative
 
@@ -12229,29 +12229,28 @@ les mesures nécessaires à la réalisation du plan arrêté par le juge en vert
 ###### Article L251-5
 
 En cas de récidive, les infractions aux dispositions auxquelles se réfère l'article L. 251-1 sont passibles d'un
-emprisonnement d'un an et d'une amende de 9000 euros ou de l'une de ces deux peines seulement.
+emprisonnement d'un an et d'une amende de 9000 euros ou de l'une de ces deux peines seulement. 
 
 Toutefois, aucune infraction nouvelle ne pourra être relevée pour la même cause pendant le cours du délai qui aura
-éventuellement été accordé en vertu des dispositions de l'article précédent.
+éventuellement été accordé en vertu des dispositions de l'article précédent. 
 
 En cas de récidive constatée par le procès-verbal dressé conformément aux articles L. 610-9 et L. 610-11, après une
 condamnation prononcée en vertu de l'article précédent, le tribunal correctionnel pourra ordonner la fermeture totale ou
 partielle, définitive ou temporaire de l'établissement dans lequel n'auraient pas été faits les travaux de sécurité ou de
-salubrité imposés par la loi ou les règlements.
+salubrité imposés par la loi ou les règlements. 
 
-Le jugement est susceptible d'appel, le tribunal supérieur d'appel statue d'urgence.
+Le jugement est susceptible d'appel, la chambre d'appel de Mamoudzou statue d'urgence.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Ordonnance 2005-44 2005-01-20 art. 10 III, IV JORF 22 janvier 2005 en vigueur le 1er janvier 2006
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 10 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+	  - Ordonnance n°2011-337 du 29 mars 2011 - art. 12 (V)
 
 	**Cité par**:
 
@@ -12264,8 +12263,7 @@ Le jugement est susceptible d'appel, le tribunal supérieur d'appel statue d'urg
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L610-11 (M)
-	  - Code du travail applicable à Mayotte. - art. L610-9 (M)
+	  - Code du travail applicable à Mayotte. - art. L610-9 (V)
 
 
 ###### Article L251-6
@@ -23041,18 +23039,22 @@ prorogés jusqu'au premier jour ouvrable suivant.
 ###### Article R122-4
 
 Lorsque les contestations auxquelles peut donner lieu l'application des articles L. 122-17 à L. 122-30 sont portées devant le
-tribunal de première instance et devant le tribunal supérieur d'appel, elles sont instruites comme affaires sommaires et
+tribunal de première instance et devant la chambre d'appel de Mamoudzou, elles sont instruites comme affaires sommaires et
 jugées d'urgence.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°91-1263 1991-12-16 annexe
+	  - Décret n°91-1263 du 16 décembre 1991
 
 	**Modifié par**:
 
-	  - Décret n°2006-1315 du 25 octobre 2006 - art. 1 () JORF 27 octobre 2006
+	  - Décret n°2011-338 du 29 mars 2011 - art. 17 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L122-17 (V)
 
 
 ###### Article R122-4-1
