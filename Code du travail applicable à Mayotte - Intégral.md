@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2011-11-01
+Version Consolidée au 2012-03-01
 
 # Partie législative
 
@@ -13889,31 +13889,40 @@ III.-Un décret précise les conditions d'application du présent article.
 	  - Code du travail applicable à Mayotte. - art. L326 (V)
 
 
-#### CHAPITRE II : Dispositions relatives au contrat emploi-solidarité.
+#### Chapitre II : Contrat unique d'insertion
+
+##### Section 1 : Dispositions générales
 
 ###### Article L322-1
 
-En application de conventions conclues avec l'Etat pour le développement d'activités répondant à des besoins collectifs non
-satisfaits, les collectivités départementales, les autres personnes morales de droit public, les organismes de droit privé à
-but non lucratif et les personnes morales chargées de la gestion d'un service public peuvent conclure des contrats emploi-
-solidarité avec des personnes sans emploi rencontrant des difficultés particulières d'accès à l'emploi, et principalement des
-jeunes de seize à vingt-cinq ans.
+Le contrat unique d'insertion est constitué par : 
 
-De telles conventions ne peuvent pas être conclues avec les services de l'Etat.
+1° Une convention individuelle conclue dans les conditions mentionnées par les sections 2 et 3 du présent chapitre entre
+l'employeur, le bénéficiaire et : 
 
-Les représentants du personnel des organismes mentionnés au premier alinéa sont informés des conventions conclues. Ils sont
-saisis, chaque année, d'un rapport sur le déroulement des contrats emploi-solidarité conclus.
+a) Soit, pour le compte de l'Etat, l'institution mentionnée à l'article L. 326 ou, selon des modalités fixées par décret, un
+des organismes mentionnés à l'article L. 326-1 ; 
+
+b) Soit le président du conseil général lorsque cette convention concerne un bénéficiaire du revenu de solidarité active
+financé par le Département ; 
+
+2° Un contrat de travail conclu entre l'employeur et le bénéficiaire de la convention individuelle, dans les conditions
+prévues par les sections 2 et 3 du présent chapitre. 
+
+Le contrat unique d'insertion ouvre droit à une aide financière dans les conditions prévues par les sections 2 et 3 du
+présent chapitre. Le montant de cette aide résulte d'un taux, fixé par l'autorité administrative, appliqué au salaire minimum
+interprofessionnel garanti.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2011-1636 du 24 novembre 2011 - art. 1
 
 	**Cité par**:
 
@@ -13945,41 +13954,28 @@ saisis, chaque année, d'un rapport sur le déroulement des contrats emploi-soli
 	  - Code du travail applicable à Mayotte. - art. R325-8 (V)
 	  - Code du travail applicable à Mayotte. - art. R325-9 (V)
 
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L326
+	  - Code du travail applicable à Mayotte. - art. L326-1
+
 
 ###### Article L322-2
 
-Les contrats emploi-solidarité sont des contrats de travail de droit privé à durée déterminée et à temps partiel passés en
-application de l'article L. 122-1-1.
-
-Les contrats emploi-solidarité sont conclus pour une durée minimale de trois mois. Leur durée maximale est de douze mois.
-Elle peut être portée à vingt-quatre mois pour les personnes rencontrant des difficultés particulières d'emploi.
-
-Le nombre de renouvellements ne peut être supérieur à deux quelle que soit la durée totale du contrat.
-
-Par dérogation à l'article L. 122-5 et sous réserve de clauses contractuelles ou conventionnelles relatives aux bénéficiaires
-de contrats emploi-solidarité prévoyant une durée moindre, la période d'essai au titre de ces contrats est d'un mois.
-
-Les contrats emploi-solidarité peuvent être rompus avant leur terme dans les cas prévus à l'article L. 122-10 et à
-l'initiative du salarié pour occuper un autre emploi ou pour suivre une action de formation. La méconnaissance de ces
-dispositions ouvre droit à des dommages et intérêts dans les conditions prévues aux deuxième et troisième alinéas de
-l'article L. 122-10.
-
-Le contrat emploi-solidarité ne peut se cumuler avec une activité professionnelle ou une formation professionnelle rémunérée.
-
-En cas de dénonciation de la convention par le représentant de l'Etat à Mayotte en raison d'une des situations prévues à
-l'alinéa précédent, le contrat emploi-solidarité peut être rompu avant son terme à l'initiative de l'employeur, sans qu'il y
-ait lieu à dommages et intérêts tels que prévus par l'article L. 122-10.
+Le président du conseil général peut déléguer tout ou partie de la conclusion et de la mise en œuvre de la convention
+individuelle mentionnée au 1° de l'article L. 322-1 à l'institution mentionnée à l'article L. 326 ou à tout autre organisme
+qu'il désigne à cet effet.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2011-1636 du 24 novembre 2011 - art. 1
 
 	**Cité par**:
 
@@ -13989,53 +13985,76 @@ ait lieu à dommages et intérêts tels que prévus par l'article L. 122-10.
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L122-1-1 (M)
-	  - Code du travail applicable à Mayotte. - art. L122-10 (M)
-	  - Code du travail applicable à Mayotte. - art. L122-5 (M)
+	  - Code du travail applicable à Mayotte. - art. L322-1
+	  - Code du travail applicable à Mayotte. - art. L326
 
 
 ###### Article L322-3
 
-Sous réserve de clauses contractuelles ou conventionnelles plus favorables relatives aux bénéficiaires de contrats emploi-
-solidarité, ceux-ci perçoivent un salaire égal au produit du montant du salaire minimum interprofessionnel garanti par le
-nombre d'heures de travail effectuées.
+Le contrat unique d'insertion prend la forme : 
+
+1° Pour les employeurs du secteur non marchand mentionnés à l'article L. 322-7, du contrat d'accompagnement dans l'emploi
+défini par la section 2 du présent chapitre ; 
+
+2° Pour les employeurs du secteur marchand mentionnés à l'article L. 322-28, du contrat initiative-emploi défini par la
+section 3 du présent chapitre.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2011-1636 du 24 novembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-7
 
 
 ###### Article L322-4
 
-En application des conventions prévues à l'article L. 322-1, l'Etat prend en charge tout ou partie de la rémunération versée
-aux personnes recrutées par un contrat emploi-solidarité. Cette aide est versée à l'organisme employeur et ne donne lieu à
-aucune charge fiscale ou parafiscale. L'Etat peut également prendre en charge tout ou partie des frais engagés pour dispenser
-aux intéressés une formation complémentaire.
+Le Département signe, préalablement à la conclusion des conventions individuelles prévues au 1° de l'article L. 322-1, une
+convention annuelle d'objectifs et de moyens avec l'Etat. 
 
-La part de la rémunération prise en charge par l'Etat est calculée sur la base du salaire minimum interprofessionnel garanti
-dans les limites et dans les conditions fixées par arrêté du représentant de l'Etat.
+Cette convention fixe : 
+
+1° Le nombre prévisionnel de conventions individuelles conclues au titre de l'embauche, dans le cadre d'un contrat unique
+d'insertion, de bénéficiaires du revenu de solidarité active financé par le Département ; 
+
+2° Les modalités de financement des conventions individuelles et les taux d'aide applicables : 
+
+a) Lorsque le Département participe au financement de l'aide, les taux mentionnés au quatrième alinéa de l'article L. 322-1
+peuvent être majorés, en fonction des critères énoncés aux 1°, 2° et 4° des articles L. 322-21 et L. 322-41 ; 
+
+b) Lorsque l'aide est en totalité à la charge du Département, le conseil général en fixe le taux sur la base des critères
+mentionnés aux articles L. 322-21 et L. 322-41, dans la limite du plafond prévu aux articles L. 322-22 et L. 322-42 ; 
+
+3° Les actions d'accompagnement et les autres actions ayant pour objet de favoriser l'insertion durable des salariés
+embauchés en contrat unique d'insertion. 
+
+A l'occasion de chaque renouvellement de la convention annuelle d'objectifs et de moyens, l'Etat et le Département procèdent
+au réexamen de leur participation financière au financement du contrat unique d'insertion en tenant compte des résultats
+constatés en matière d'insertion durable des salariés embauchés dans ce cadre ainsi que des contraintes économiques qui
+pèsent sur certains territoires.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2011-1636 du 24 novembre 2011 - art. 1
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L322-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L322-1
 
 	**Cité par**:
 
@@ -14048,42 +14067,41 @@ dans les limites et dans les conditions fixées par arrêté du représentant de
 
 ###### Article L322-5
 
-La rémunération versée aux salariés bénéficiaires d'un contrat emploi-solidarité est assujettie aux cotisations de sécurité
-sociale. Elle donne toutefois lieu, dans la limite du salaire calculé sur la valeur horaire du salaire minimum
-interprofessionnel garanti, à exonération de la part de cotisations dont la charge incombe à l'employeur. L'exonération est
-subordonnée à la production d'une attestation des services chargés de l'emploi.
-
-La rémunération versée aux salariés bénéficiaires d'un contrat emploi-solidarité n'est assujettie à aucune des autres charges
-sociales d'origine légale ou conventionnelle. Elle est également exonérée de toutes taxes sur les salaires.
+Le président du conseil général transmet à l'Etat, dans des conditions fixées par décret, toute information permettant le
+suivi du contrat unique d'insertion.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2011-1636 du 24 novembre 2011 - art. 1
 
+
+##### Section 2 : Contrat d'accompagnement dans l'emploi
 
 ###### Article L322-6
 
-Les bénéficiaires des contrats emploi-solidarité ne sont pas pris en compte, pendant toute la durée du contrat, dans le
-calcul de l'effectif du personnel des organismes dont ils relèvent pour l'application à ces organismes des dispositions
-législatives et réglementaires qui se réfèrent à une condition d'effectif minimum de salariés.
+Le contrat d'accompagnement dans l'emploi a pour objet de faciliter l'insertion professionnelle des personnes sans emploi
+rencontrant des difficultés sociales et professionnelles particulières d'accès à l'emploi. A cette fin, il comporte des
+actions d'accompagnement professionnel. Il peut, aux fins de développer l'expérience et les compétences des salariés,
+prévoir, par avenant, une période d'immersion auprès d'un autre employeur dans le cadre d'un prêt de main-d'œuvre à but non
+lucratif. Un décret détermine la durée et les conditions d'agrément et d'exécution de cette période d'immersion.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2011-1636 du 24 novembre 2011 - art. 1
 
 	**Cité par**:
 
@@ -14093,40 +14111,26 @@ législatives et réglementaires qui se réfèrent à une condition d'effectif m
 
 ###### Article L322-7
 
-L'Etat peut passer des conventions avec les employeurs mentionnés à l'article L. 322-1 pour favoriser l'embauche de personnes
-qui ne peuvent pas trouver un emploi ou bénéficier d'une formation à l'issue d'un contrat emploi-solidarité.
+Les conventions ouvrant droit au bénéfice du contrat d'accompagnement dans l'emploi peuvent être conclues avec : 
 
-La durée de ces conventions est de douze mois, renouvelables par voie d'avenant dans la limite d'une durée maximale de
-soixante mois.
+1° Les collectivités territoriales ; 
 
-Le contrat de travail conclu en vertu de ces conventions est un contrat de travail de droit privé dénommé "contrat emploi
-consolidé" à durée indéterminée ou à durée déterminée passé en application de l'article L. 122-1-1. Lorsque ces contrats sont
-conclus pour une durée déterminée, leur durée initiale est de douze mois. Ils sont renouvelables chaque année par avenant
-dans la limite d'une durée totale de soixante mois.
+2° Les autres personnes morales de droit public ; 
 
-En application des conventions prévues au premier alinéa, l'Etat prend en charge tout ou partie de la rémunération versée aux
-personnes recrutées par un contrat emploi consolidé. Cette aide est versée à l'organisme employeur et ne donne lieu à aucune
-charge fiscale ou parafiscale. L'Etat peut également prendre en charge tout ou partie des frais engagés pour dispenser aux
-intéressés une formation complémentaire.
+3° Les organismes de droit privé à but non lucratif ; 
 
-Les aides prévues par le présent article ne peuvent être cumulées avec une autre aide de l'Etat à l'emploi.
-
-Les institutions représentatives du personnel mentionnées à l'article L. 322-1, lorsqu'elles existent, sont informées des
-conventions conclues.
-
-Les modalités d'application du présent article, et notamment la durée minimum hebdomadaire du travail, sont fixées par arrêté
-du représentant de l'Etat à Mayotte.
+4° Les personnes morales de droit privé chargées de la gestion d'un service public.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2011-1636 du 24 novembre 2011 - art. 1
 
 	**Cité par**:
 
@@ -14143,151 +14147,771 @@ du représentant de l'Etat à Mayotte.
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L122-1-1 (M)
-	  - Code du travail applicable à Mayotte. - art. L322-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L122-1-1
+	  - Code du travail applicable à Mayotte. - art. L322-1
 
 
-#### Chapitre III : Dispositions relatives aux contrats de retour à l'emploi
+###### Article L322-8
 
-###### Article L323-1
-
-L'Etat peut passer des conventions avec des employeurs pour favoriser l'insertion professionnelle des personnes sans emploi
-rencontrant des difficultés particulières d'accès à l'emploi, principalement des chômeurs de longue durée, en portant une
-attention privilégiée aux personnes isolées assumant ou ayant assumé des charges de famille.
-
-Les contrats de retour à l'emploi, conclus en vertu de ces conventions, donnent droit :
-
-1° A la prise en charge par l'Etat des frais de formation lorsque le contrat associe l'exercice d'une activité
-professionnelle et le bénéfice d'une formation liée à cette activité et dispensée pendant le temps de travail dans le cadre
-d'un cahier des charges comportant notamment :
-
-- la nature, l'objet, la durée et les effectifs des stages prévus dans les conventions mentionnées au premier alinéa du
-présent article,
-
-- les moyens pédagogiques et techniques mis en oeuvre,
-
-- les facilités accordées, le cas échéant, aux salariés pour poursuivre les stages prévus dans les conventions mentionnées au
-premier alinéa du présent article, notamment les congés, aménagements ou réductions d'horaires dont ils bénéficient en
-application de dispositions législatives, réglementaires ou contractuelles,
-
-- les modalités de contrôle des connaissances et la nature de la sanction de la formation dispensée ;
-
-2° A l'exonération du paiement des cotisations sociales dans les conditions fixées à l'article L. 323-3.
+La conclusion d'une nouvelle convention individuelle mentionnée à l'article L. 322-1 est subordonnée au bilan préalable des
+actions d'accompagnement et des actions visant à l'insertion durable des salariés, réalisées dans le cadre de conventions
+individuelles conclues au titre d'un contrat aidé antérieur.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 du 28 décembre 1991
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Ordonnance n°2011-1636 du 24 novembre 2011 - art. 1
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L323-3
+	  - Code du travail applicable à Mayotte. - art. L322-1
 
 	**Cité par**:
 
-	  - Code du travail applicable à Mayotte. - art. R323-1 (Ab)
-	  - Code du travail applicable à Mayotte. - art. R323-4 (Ab)
-	  - Code du travail applicable à Mayotte. - art. R324-1 (M)
+	  - Code du travail applicable à Mayotte. - art. R322-8 (VD)
 
 
-###### Article L323-2
+###### Article L322-9
 
-Les contrats de retour à l'emploi sont des contrats de travail à durée indéterminée ou à durée déterminée passés en
-application de l'article L. 122-1-1. Ils doivent avoir une durée d'au moins six mois. La durée du contrat à durée déterminée
-ne peut excéder vingt-quatre mois.
+La convention individuelle fixe les modalités d'orientation et d'accompagnement professionnel de la personne sans emploi et
+prévoit des actions de formation professionnelle et de validation des acquis de l'expérience nécessaires à la réalisation de
+son projet professionnel. 
 
-Ils sont passés par écrit et font l'objet d'un dépôt auprès de la direction du travail, de l'emploi et de la formation
-professionnelle.
+Les actions de formation peuvent être menées pendant le temps de travail ou en dehors de celui-ci.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance n°91-246 du 25 février 1991
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Ordonnance n°2011-1636 du 24 novembre 2011 - art. 1
 
 	**Cité par**:
 
-	  - Code du travail applicable à Mayotte. - art. D313-1 (V)
+	  - Code du travail applicable à Mayotte. - art. R322-4 (VD)
+
+
+###### Article L322-10
+
+La durée de la convention individuelle ouvrant droit au bénéfice du contrat d'accompagnement dans l'emploi ne peut excéder le
+terme du contrat de travail. 
+
+La convention individuelle peut être prolongée dans la limite d'une durée de vingt-quatre mois.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1636 du 24 novembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R322-13 (VD)
+
+
+###### Article L322-11
+
+Il peut être dérogé, selon des modalités fixées par voie réglementaire, à la durée maximale d'une convention individuelle,
+soit lorsque celle-ci concerne un salarié âgé de cinquante ans et plus bénéficiaire du revenu de solidarité active ou de
+l'allocation aux adultes handicapés ou une personne reconnue travailleur handicapé, soit pour permettre d'achever une action
+de formation professionnelle en cours de réalisation et définie dans la convention initiale. La durée de ce renouvellement ne
+peut excéder le terme de l'action concernée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1636 du 24 novembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R322-13 (VD)
+	  - Code du travail applicable à Mayotte. - art. R322-14 (VD)
+
+
+###### Article L322-12
+
+La prolongation de la convention individuelle et, s'il est à durée déterminée, du contrat de travail conclu en application de
+celle-ci est subordonnée à l'évaluation des actions réalisées au cours du contrat en vue de favoriser l'insertion durable du
+salarié.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1636 du 24 novembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R322-12 (VD)
+
+
+###### Article L322-13
+
+Le contrat de travail, associé à une convention individuelle de contrat d'accompagnement dans l'emploi, est un contrat de
+travail de droit privé, soit à durée déterminée, soit à durée indéterminée. Il porte sur des emplois visant à satisfaire des
+besoins collectifs non satisfaits. 
+
+Il ne peut être conclu pour pourvoir des emplois dans les services de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1636 du 24 novembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D322-4 (T)
+	  - Code du travail applicable à Mayotte. - art. R322-7 (VD)
+
+
+###### Article L322-14
+
+La durée du contrat d'accompagnement dans l'emploi ne peut être inférieure à six mois, ou trois mois pour les personnes ayant
+fait l'objet d'une condamnation et bénéficiant d'un aménagement de peine. 
+
+Les dispositions relatives au nombre maximum de renouvellement, prévues par l'article L. 122-1, ne sont pas applicables.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1636 du 24 novembre 2011 - art. 1
 
 	**Cite**:
 
+	  - Code du travail applicable à Mayotte. - art. L122-1
+
+
+###### Article L322-15
+
+Le contrat de travail, associé à une convention individuelle de contrat d'accompagnement dans l'emploi, conclu pour une durée
+déterminée, peut être prolongé dans la limite d'une durée totale de vingt-quatre mois, ou de cinq ans pour les salariés âgés
+de cinquante ans et plus bénéficiaires du revenu de solidarité active ou de l'allocation aux adultes handicapés, ainsi que
+pour les personnes reconnues travailleurs handicapés. 
+
+A titre dérogatoire, ce contrat de travail peut être prolongé au-delà de la durée maximale prévue, en vue de permettre
+d'achever une action de formation professionnelle en cours de réalisation à l'échéance du contrat et définie dans la
+convention initiale. La durée de cette prolongation ne peut excéder le terme de l'action concernée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1636 du 24 novembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R322-14 (VD)
+
+
+###### Article L322-16
+
+La durée hebdomadaire du travail du titulaire du contrat d'accompagnement dans l'emploi ne peut être inférieure à vingt
+heures, sauf lorsque la convention le prévoit en vue de répondre aux difficultés particulières de l'intéressé. 
+
+Lorsque le contrat de travail, associé à une convention individuelle de contrat d'accompagnement dans l'emploi, a été conclu
+pour une durée déterminée avec une collectivité territoriale ou une autre personne de droit public, la durée hebdomadaire du
+travail peut varier sur tout ou partie de la période couverte par le contrat, sans être supérieure à la durée légale
+hebdomadaire. Cette variation est sans incidence sur le calcul de la rémunération due au salarié.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1636 du 24 novembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D322-1 (T)
+	  - Code du travail applicable à Mayotte. - art. R322-16 (V)
+
+
+###### Article L322-17
+
+Sous réserve de clauses contractuelles ou conventionnelles plus favorables, le titulaire d'un contrat d'accompagnement dans
+l'emploi perçoit un salaire au moins égal au produit du montant du salaire minimum interprofessionnel garanti par le nombre
+d'heures de travail accomplies.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1636 du 24 novembre 2011 - art. 1
+
+
+###### Article L322-18
+
+Par dérogation aux dispositions relatives à la rupture avant terme du contrat de travail à durée déterminée prévues à
+l'article L. 122-10, le contrat d'accompagnement dans l'emploi peut être rompu avant son terme, à l'initiative du salarié,
+lorsque la rupture a pour objet de lui permettre : 
+
+1° D'être embauché par un contrat de travail à durée indéterminée ; 
+
+2° D'être embauché par un contrat de travail à durée déterminée d'au moins six mois ; 
+
+3° De suivre une formation conduisant à une qualification prévue à l'article L. 711-1-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1636 du 24 novembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L122-10
+	  - Code du travail applicable à Mayotte. - art. L711-1-2
+
+
+###### Article L322-19
+
+Une attestation d'expérience professionnelle est établie par l'employeur et remise au salarié à sa demande ou au plus tard un
+mois avant la fin du contrat d'accompagnement dans l'emploi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1636 du 24 novembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R322-20 (V)
+
+
+###### Article L322-20
+
+Le contrat d'accompagnement dans l'emploi peut être suspendu à la demande du salarié, afin de lui permettre : 
+
+1° En accord avec son employeur, d'effectuer une évaluation en milieu de travail prescrite par l'institution mentionnée à
+l'article L. 326 ou une action concourant à son insertion professionnelle ; 
+
+2° D'accomplir une période d'essai afférente à une offre d'emploi visant une embauche en contrat à durée indéterminée ou à
+durée déterminée au moins égale à six mois. 
+
+En cas d'embauche à l'issue de cette évaluation en milieu de travail ou de cette période d'essai, le contrat est rompu sans
+préavis.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1636 du 24 novembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L326
+
+
+###### Article L322-21
+
+La convention individuelle prévue à l'article L. 322-7, conclue pour permettre une embauche en contrat d'accompagnement dans
+l'emploi, ouvre droit à une aide financière. 
+
+Cette aide peut être modulée en fonction : 
+
+1° De la catégorie et du secteur d'activité de l'employeur ; 
+
+2° Des actions prévues en matière d'accompagnement professionnel et des actions visant à favoriser l'insertion durable du
+salarié ; 
+
+3° Des conditions économiques locales ; 
+
+4° Des difficultés d'accès à l'emploi antérieurement rencontrées par le salarié. 
+
+L'Etat peut également prendre en charge tout ou partie des frais engagés pour dispenser aux intéressés une formation, selon
+des modalités déterminées par décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1636 du 24 novembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L011-5 (VD)
+	  - Code du travail applicable à Mayotte. - art. L322-4 (VD)
+	  - Code du travail applicable à Mayotte. - art. R322-19 (VD)
+	  - Code du travail applicable à Mayotte. - art. R322-21 (VD)
+	  - Code du travail applicable à Mayotte. - art. R322-22 (V)
+	  - Code du travail applicable à Mayotte. - art. R322-23 (V)
+	  - Code du travail applicable à Mayotte. - art. R322-45 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-7
+
+
+###### Article L322-22
+
+Le montant de l'aide financière versée au titre des conventions individuelles prévues à l'article L. 322-7 ne peut excéder 95
+% du montant brut du salaire minimum interprofessionnel garanti par heure travaillée, dans la limite de la durée légale
+hebdomadaire du travail. Elle n'est soumise à aucune charge fiscale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1636 du 24 novembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-4 (VD)
+	  - Code du travail applicable à Mayotte. - art. R322-23 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-7
+
+
+###### Article L322-23
+
+Lorsque la convention individuelle prévue à l'article L. 322-7 a été conclue avec un salarié qui était, avant son embauche,
+bénéficiaire du revenu de solidarité active en vigueur à Mayotte financé par le Département, le Département participe au
+financement de l'aide mentionnée à l'article L. 322-1. Cette participation est déterminée, dans des conditions fixées par
+décret, par référence au montant forfaitaire mentionné au 2° de l'article L. 262-2 du code de l'action sociale et des
+familles, en fonction de la majoration des taux prévue par la convention mentionnée à l'article L. 322-4.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1636 du 24 novembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D322-1 (T)
+	  - Code du travail applicable à Mayotte. - art. R322-24 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-1
+	  - Code du travail applicable à Mayotte. - art. L322-4
+	  - Code du travail applicable à Mayotte. - art. L322-7
+	  - Code de l'action sociale et des familles - art. L262-2
+
+
+###### Article L322-24
+
+Les embauches réalisées en contrat d'accompagnement dans l'emploi donnent droit à l'exonération des cotisations à la charge
+de l'employeur au titre du régime d'assurance maladie-maternité, du régime de base obligatoire pour les prestations
+familiales et du régime de retraite de base obligatoire de sécurité sociale applicables à Mayotte, pendant la durée de la
+convention. Toutefois, les cotisations afférentes à la partie de la rémunération qui excède un montant fixé par décret ne
+donnent pas lieu à exonération.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1636 du 24 novembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D322-2 (T)
+
+
+###### Article L322-25
+
+Les aides et les exonérations prévues par la présente section ne peuvent être cumulées avec une autre aide de l'Etat à
+l'emploi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1636 du 24 novembre 2011 - art. 1
+
+
+###### Article L322-26
+
+Sauf disposition contraire, un décret en Conseil d'Etat détermine les conditions d'application des dispositions de la
+présente section.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1636 du 24 novembre 2011 - art. 1
+
+
+##### Section 3 : Contrat initiative-emploi 
+
+
+
+
+
+
+###### Article L322-27
+
+Le contrat initiative-emploi a pour objet de faciliter l'insertion professionnelle des personnes sans emploi rencontrant des
+difficultés sociales et professionnelles d'accès à l'emploi. A cette fin, il comporte des actions d'accompagnement
+professionnel. Les actions de formation nécessaires à la réalisation du projet professionnel de la personne peuvent être
+mentionnées dans la convention ; elles sont menées dans le cadre défini à l'article L. 711-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1636 du 24 novembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-42 (V)
+	  - Code du travail applicable à Mayotte. - art. R322-4 (VD)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L711-1
+
+
+###### Article L322-28
+
+Les conventions ouvrant droit au bénéfice du contrat initiative-emploi peuvent être conclues avec les employeurs de droit
+privé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1636 du 24 novembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L011-5 (VD)
+	  - Code du travail applicable à Mayotte. - art. L322-41 (V)
+	  - Code du travail applicable à Mayotte. - art. L322-43 (V)
+
+
+###### Article L322-29
+
+La conclusion d'une nouvelle convention individuelle est subordonnée au bilan préalable des actions d'accompagnement et des
+actions visant à l'insertion durable des salariés réalisées dans le cadre de conventions individuelles conclues au titre d'un
+contrat aidé antérieur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1636 du 24 novembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R322-32 (VD)
+
+
+###### Article L322-30
+
+Les particuliers employeurs ne peuvent pas conclure de conventions au titre de la présente sous-section.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1636 du 24 novembre 2011 - art. 1
+
+
+###### Article L322-31
+
+La durée de la convention individuelle ouvrant droit au bénéfice du contrat initiative-emploi ne peut excéder le terme du
+contrat de travail. 
+
+La convention individuelle peut être prolongée dans la limite d'une durée totale de vingt-quatre mois. 
+
+Il peut être dérogé, selon des modalités fixées par voie réglementaire, à la durée maximale d'une convention individuelle,
+soit lorsque celle-ci concerne un salarié âgé de cinquante ans ou plus bénéficiaire du revenu de solidarité active ou de
+l'allocation aux adultes handicapés ou une personne reconnue travailleur handicapé, soit pour permettre d'achever une action
+de formation professionnelle en cours de réalisation et définie dans la convention initiale. 
+
+La durée de ce renouvellement ne peut excéder le terme de l'action concernée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1636 du 24 novembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R322-37 (VD)
+	  - Code du travail applicable à Mayotte. - art. R322-38 (VD)
+
+
+###### Article L322-32
+
+La prolongation de la convention individuelle et, s'il est à durée déterminée, du contrat de travail conclu en application de
+celle-ci est subordonnée à l'évaluation des actions réalisées, au cours du contrat, en vue de favoriser l'insertion durable
+du salarié.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1636 du 24 novembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R322-36 (VD)
+
+
+###### Article L322-33
+
+Il ne peut être conclu de convention dans les cas suivants : 
+
+1° Lorsque l'établissement a procédé à un licenciement pour motif économique dans les six mois précédant la date d'effet du
+contrat ; 
+
+2° Lorsque l'embauche vise à procéder au remplacement d'un salarié licencié pour un motif autre que la faute grave ou lourde.
+S'il apparaît que l'embauche a eu pour conséquence le licenciement d'un autre salarié, la convention peut être dénoncée par
+l'Etat ou par le président du conseil général. La dénonciation emporte obligation pour l'employeur de rembourser
+l'intégralité des sommes perçues au titre de l'aide prévue par la convention ; 
+
+3° Lorsque l'employeur n'est pas à jour du versement de ces cotisations et contributions sociales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1636 du 24 novembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R322-35 (VD)
+
+
+###### Article L322-34
+
+Le contrat initiative-emploi est un contrat de travail de droit privé à durée déterminée ou à durée indéterminée conclu en
+application de l'article L. 122-1-1. 
+
+Lorsqu'il est conclu pour une durée déterminée, les règles de renouvellement prévues à l'article L. 122-1 ne sont pas
+applicables.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1636 du 24 novembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L122-1
 	  - Code du travail applicable à Mayotte. - art. L122-1-1
 
+	**Cité par**:
 
-###### Article L323-3
+	  - Code du travail applicable à Mayotte. - art. R322-31 (V)
 
-L'employeur est exonéré du paiement des cotisations à sa charge dues à la caisse de prévoyance sociale à raison de l'emploi
-du salarié bénéficiaire d'un contrat de retour à l'emploi.
 
-L'exonération porte sur les rémunérations dues :
+###### Article L322-35
 
-1° Dans une limite de vingt-quatre mois suivant la date d'embauche pour les demandeurs d'emploi depuis plus de trois ans ;
-
-2° Dans la limite d'une période de douze mois suivant la date d'embauche pour les autres bénéficiaires.
-
-L'exonération est subordonnée à la production d'une attestation de la direction du travail, de l'emploi et de la formation
-professionnelle.
+Le contrat de travail associé à une convention individuelle de contrat initiative-emploi, conclu à durée déterminée, peut
+être prolongé dans la limite d'une durée totale de vingt-quatre mois, ou de cinq ans pour les salariés âgés de cinquante ans
+et plus bénéficiaires du revenu de solidarité active ou de l'allocation aux adultes handicapés, ainsi que pour les personnes
+reconnues travailleurs handicapés.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance n°91-246 du 25 février 1991
-	  - Loi n°91-1379 du 28 décembre 1991
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Ordonnance n°2011-1636 du 24 novembre 2011 - art. 1
 
 	**Cité par**:
 
-	  - Code du travail applicable à Mayotte. - art. L323-1 (Ab)
-	  - Code du travail applicable à Mayotte. - art. R323-6 (Ab)
+	  - Code du travail applicable à Mayotte. - art. R322-38 (VD)
 
 
-###### Article L323-4
+###### Article L322-36
 
-Pendant un an à compter de la date d'embauche, les titulaires des contrats de retour à l'emploi ne sont pas pris en compte
-dans le calcul de l'effectif du personnel des entreprises dont ils relèvent pour l'application à ces entreprises des
-dispositions législatives et réglementaires qui se réfèrent à une condition d'effectif minimum des salariés.
+La durée du contrat initiative-emploi ne peut être inférieure à six mois, ou trois mois pour les personnes ayant fait l'objet
+d'une condamnation et bénéficiant d'un aménagement de peine.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance n°91-246 du 25 février 1991
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Ordonnance n°2011-1636 du 24 novembre 2011 - art. 1
+
+
+###### Article L322-37
+
+Par dérogation aux dispositions relatives à la rupture avant le terme du contrat de travail à durée déterminée prévues à
+l'article L. 122-10, le contrat initiative-emploi peut être rompu avant son terme, à l'initiative du salarié lorsque la
+rupture a pour objet de lui permettre : 
+
+1° D'être embauché par un contrat de travail à durée indéterminée ; 
+
+2° D'être embauché par un contrat de travail à durée déterminée d'au moins six mois ; 
+
+3° De suivre une formation conduisant à une qualification prévue à l'article L. 711-1-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1636 du 24 novembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L122-10
+	  - Code du travail applicable à Mayotte. - art. L711-1-2
+
+
+###### Article L322-38
+
+La durée hebdomadaire du travail d'un salarié titulaire d'un contrat de travail associé à une convention individuelle de
+contrat initiative-emploi ne peut être inférieure à vingt heures.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1636 du 24 novembre 2011 - art. 1
+
+
+###### Article L322-39
+
+Une attestation d'expérience professionnelle est établie par l'employeur et remise au salarié à sa demande ou au plus tard un
+mois avant la fin du contrat initiative-emploi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1636 du 24 novembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R322-42 (V)
+
+
+###### Article L322-40
+
+Le contrat initiative-emploi peut être suspendu à la demande du salarié, afin de lui permettre : 
+
+1° En accord avec son employeur, d'effectuer une évaluation en milieu de travail prescrite par l'institution mentionnée à
+l'article L. 326 ou une action concourant à son insertion professionnelle ; 
+
+2° D'accomplir une période d'essai afférente à une offre d'emploi visant une embauche en contrat à durée indéterminée ou à
+durée déterminée au moins égale à six mois. 
+
+En cas d'embauche à l'issue de cette évaluation en milieu de travail ou de cette période d'essai, le contrat est rompu sans
+préavis.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1636 du 24 novembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L326
+
+
+###### Article L322-41
+
+La convention individuelle prévue à l'article L. 322-28 conclue pour permettre une embauche en contrat initiative-emploi
+ouvre droit à une aide financière. 
+
+Cette aide peut être modulée en fonction : 
+
+1° De la catégorie et du secteur d'activité de l'employeur ; 
+
+2° Des actions prévues en matière d'accompagnement professionnel et des actions visant à favoriser l'insertion durable du
+salarié ; 
+
+3° Des conditions économiques locales ; 
+
+4° Des difficultés d'accès à l'emploi antérieurement rencontrées par le salarié. 
+
+L'Etat peut également prendre en charge tout ou partie des frais engagés pour dispenser aux intéressés une formation selon
+des modalités déterminées par décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1636 du 24 novembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L011-5 (VD)
+	  - Code du travail applicable à Mayotte. - art. L322-4 (VD)
+	  - Code du travail applicable à Mayotte. - art. R322-44 (VD)
+	  - Code du travail applicable à Mayotte. - art. R322-46 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-28
+
+
+###### Article L322-42
+
+Le montant de l'aide financière versée au titre d'une convention individuelle prévue à l'article L. 322-27 ne peut excéder 47
+% du montant brut du salaire minimum interprofessionnel garanti par heure travaillée, dans la limite de la durée légale
+hebdomadaire du travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1636 du 24 novembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-27
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-4 (VD)
+	  - Code du travail applicable à Mayotte. - art. R322-46 (V)
+
+
+###### Article L322-43
+
+Lorsque la convention individuelle prévue à l'article L. 322-28 a été conclue avec un salarié qui était, avant son embauche,
+bénéficiaire du revenu de solidarité active en vigueur à Mayotte financé par le Département, le Département participe au
+financement de l'aide mentionnée à l'article L. 322-1. Cette participation est déterminée, dans des conditions fixées par
+décret, par référence au montant forfaitaire mentionné au 2° de l'article L. 262-2 du code de l'action sociale et des
+familles applicable à une personne isolée en fonction de la majoration des taux prévue par la convention mentionnée à
+l'article L. 322-4.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1636 du 24 novembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D322-9 (T)
+	  - Code du travail applicable à Mayotte. - art. R322-47 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-1
+	  - Code du travail applicable à Mayotte. - art. L322-28
+	  - Code du travail applicable à Mayotte. - art. L322-4
+	  - Code de l'action sociale et des familles - art. L262-2
+
+
+###### Article L322-44
+
+Sauf disposition contraire, un décret en Conseil d'Etat détermine les conditions d'application des dispositions de la
+présente section.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1636 du 24 novembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R322-31 (VD)
 
 
 #### Chapitre IV : Dispositions particulières relatives à l'emploi des jeunes
