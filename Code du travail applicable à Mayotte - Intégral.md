@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2012-03-01
+Version Consolidée au 2012-05-07
 
 # Partie législative
 
@@ -49418,39 +49418,6 @@ consignées par procès-verbal.
 
 ### TITRE II : Aides à l'emploi, intervention du Fonds national de l'emploi et de la collectivité départementale
 
-###### Article R320-2
-
-La lettre recommandée avec accusé de réception adressée au salarié en application de l'article L. 320-14 du code du travail
-peut être remplacée par une lettre remise en main propre contre décharge. Elle indique :
-
-1° La nature et l'objet de l'action envisagée par l'organisation syndicale représentative ;
-
-2° Que l'action est conduite par l'organisation syndicale qui peut exercer elle-même les voies de recours contre le
-jugement ;
-
-3° Que le salarié pourra, à tout moment, intervenir dans l'instance engagée par l'organisation syndicale ou mettre un terme à
-cette action ;
-
-4° Que le salarié peut faire connaître à l'organisation syndicale son opposition à l'action envisagée dans un délai de quinze
-jours à compter de la date de réception.
-
-Ce n'est que passé ce délai que l'acceptation tacite du salarié concerné est considérée comme acquise..
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 1991-12-16 annexe
-
-	**Créé par**:
-
-	  - Décret n°2006-1315 du 25 octobre 2006 - art. 17 () JORF 27 octobre 2006
-
-	**Cite**:
-
-	  - Code du travail L320-14
-
-
 #### CHAPITRE PRELIMINAIRE : Licenciement pour motif économique
 
 ###### Article R320-1
@@ -49489,7 +49456,40 @@ L'employeur est tenu de préciser à cette occasion :
 	  - Code du travail applicable à Mayotte. - art. R343-1 (V)
 
 
-#### Chapitre 1er : Généralités.
+###### Article R320-2
+
+La lettre recommandée avec accusé de réception adressée au salarié en application de l'article L. 320-14 du code du travail
+peut être remplacée par une lettre remise en main propre contre décharge. Elle indique :
+
+1° La nature et l'objet de l'action envisagée par l'organisation syndicale représentative ;
+
+2° Que l'action est conduite par l'organisation syndicale qui peut exercer elle-même les voies de recours contre le
+jugement ;
+
+3° Que le salarié pourra, à tout moment, intervenir dans l'instance engagée par l'organisation syndicale ou mettre un terme à
+cette action ;
+
+4° Que le salarié peut faire connaître à l'organisation syndicale son opposition à l'action envisagée dans un délai de quinze
+jours à compter de la date de réception.
+
+Ce n'est que passé ce délai que l'acceptation tacite du salarié concerné est considérée comme acquise..
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 du 16 décembre 1991
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2012-658 du 4 mai 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail
+
+
+#### CHAPITRE Ier : Généralités
 
 ###### Article R321-1
 
@@ -49502,16 +49502,16 @@ Ces actions peuvent être conduites dans le cadre des conventions de coopératio
 
 	**Codifié par**:
 
-	  - Décret n°91-1263 1991-12-16 annexe
+	  - Décret n°91-1263 du 16 décembre 1991
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - DEPLACE: Décret n°2012-658 du 4 mai 2012 - art. 1
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L321-1 (M)
-	  - Code du travail applicable à Mayotte. - art. L321-2 (M)
+	  - Code du travail applicable à Mayotte. - art. L321-1
+	  - Code du travail applicable à Mayotte. - art. L321-2
 
 	**Cité par**:
 
@@ -49528,15 +49528,15 @@ dans le cadre d'une évolution de l'emploi au sein des entreprises.
 
 	**Codifié par**:
 
-	  - Décret n°91-1263 1991-12-16 annexe
+	  - Décret n°91-1263 du 16 décembre 1991
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - DEPLACE: Décret n°2012-658 du 4 mai 2012 - art. 1
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. R321-1 (M)
+	  - Code du travail applicable à Mayotte. - art. R321-1
 
 
 ###### Article R321-3
@@ -49548,11 +49548,11 @@ l'accomplissement des actions de formation aux postes de travail sous la directi
 
 	**Codifié par**:
 
-	  - Décret n°91-1263 1991-12-16 annexe
+	  - Décret n°91-1263 du 16 décembre 1991
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - DEPLACE: Décret n°2012-658 du 4 mai 2012 - art. 1
 
 
 ###### Article R321-4
@@ -49577,11 +49577,11 @@ sections de formation hors production, sa participation à l'équipement en mat�
 
 	**Codifié par**:
 
-	  - Décret n°91-1263 1991-12-16 annexe
+	  - Décret n°91-1263 du 16 décembre 1991
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - DEPLACE: Décret n°2012-658 du 4 mai 2012 - art. 1
 
 
 ###### Article R321-5
@@ -49592,15 +49592,15 @@ Les représentants du personnel sont consultés sur les projets relatifs aux con
 
 	**Codifié par**:
 
-	  - Décret n°91-1263 1991-12-16 annexe
+	  - Décret n°91-1263 du 16 décembre 1991
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - DEPLACE: Décret n°2012-658 du 4 mai 2012 - art. 1
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L321-2 (M)
+	  - Code du travail applicable à Mayotte. - art. L321-2
 
 
 ###### Article R321-6
@@ -49615,223 +49615,1152 @@ professionnelle, de la promotion sociale et de l'emploi.
 
 	**Codifié par**:
 
-	  - Décret n°91-1263 1991-12-16 annexe
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L321-2 (M)
-
-
-#### Chapitre 3 : Dispositions relatives au contrat de retour à l'emploi
-
-###### Article R323-1
-
-Peuvent bénéficier de contrats de retour à l'emploi, en application de l'article L. 323-1 :
-
-1° Les personnes qui ont été inscrites comme demandeurs d'emploi pendant au moins douze mois durant les dix-huit mois qui ont
-précédé la date d'embauche ;
-
-2° Les personnes âgées de plus de cinquante ans privées d'emploi depuis plus de trois mois ;
-
-3° A titre exceptionnel, des personnes ne remplissant pas les conditions prévues aux 1° et 2° ci-dessus et rencontrant des
-difficultés particulières d'accès à l'emploi.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 1991-12-16 annexe
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2012-658 du 4 mai 2012 - art. 1
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L323-1
-
-
-###### Article R323-2
-
-La durée hebdomadaire du travail ne peut être inférieure à vingt-quatre heures. Cette durée inclut, le cas échéant, le temps
-passé en formation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
 	  - Décret n°91-1263 du 16 décembre 1991
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - DEPLACE: Décret n°2012-658 du 4 mai 2012 - art. 1
 
-	**Abrogé par**:
+	**Cite**:
 
-	  - Décret n°2012-658 du 4 mai 2012 - art. 1
-
-
-###### Article R323-3
-
-La demande de convention de contrat de retour à l'emploi doit être présentée à la direction du travail, de l'emploi et de la
-formation professionnelle avant la date d'embauche du salarié bénéficiaire ou dans un délai maximum d'un mois après celle-ci.
-
-Aucune convention ne peut être conclue pour une embauche bénéficiant d'une autre aide à l'emploi.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 1991-12-16 annexe
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2012-658 du 4 mai 2012 - art. 1
+	  - Code du travail applicable à Mayotte. - art. L321-2
 
 
-###### Article R323-4
+#### CHAPITRE II : Dispositions relatives au contrat unique d'insertion 
 
-La convention doit préciser notamment :
+##### Section 1 : Dispositions générales 
 
-a) Le nom et l'adresse du bénéficiaire ;
+###### Article R322-1
 
-b) Son âge et son niveau de formation au moment de l'embauche ;
-
-c) L'identité et la qualité de l'employeur ;
-
-d) Les caractéristiques de l'emploi proposé ;
-
-e) La nature et la durée du contrat de travail ;
-
-f) La durée hebdomadaire de travail ;
-
-g) Le montant de la rémunération correspondante ;
-
-h) Les modalités de contrôle de l'application de la convention.
-
-Lorsque l'Etat concourt à la prise en charge d'une formation au titre de l'article L. 323-1, sont précisés dans la convention
-ou un avenant conclu ultérieurement :
-
-a) La nature de cette formation, sa durée et les modalités de son organisation ;
-
-b) La période pendant laquelle elle est dispensée ;
-
-c) Le nom et la qualification professionnelle de la personne chargée au sein de l'entreprise de suivre le déroulement de la
-formation ;
-
-d) La nature de la sanction de la formation dispensée ;
-
-e) Le montant et les modalités de la prise en charge de cette formation par l'Etat.
-
-La convention prend effet à compter de la date d'embauche du salarié. Copie en est remise au salarié.
-
-L'employeur doit signaler à la direction du travail, de l'emploi et de la formation professionnelle toute rupture du contrat
-de travail qui interviendrait avant la fin de la convention.
+L'institution mentionnée à l'article L. 326 et les organismes mentionnés à l'article L. 326-1 peuvent conclure pour le compte
+de l'Etat des conventions individuelles en application du a du 1° de l'article L. 322-1, dans le cadre des missions
+d'insertion professionnelle que l'Etat leur confie par une convention ou par un marché et dans la limite de l'enveloppe
+financière qu'il notifie annuellement à chaque organisme.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°91-1263 1991-12-16 annexe
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Décret n°2012-658 du 4 mai 2012 - art. 1
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L323-1
+	  - Code du travail applicable à Mayotte. - art. L322-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L326 (Ab)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R322-4 (VD)
 
 
-###### Article R323-5
+###### Article R322-2
 
-Lorsque la convention ou un avenant à celle-ci prévoit une formation, la durée de celle-ci doit être au minimum de 200 heures
-et au maximum égale à la moitié de la durée du contrat lorsqu'il est à durée déterminée. Cette formation doit être dispensée
-dans le cadre d'une convention avec un organisme de formation agréé par le représentant de l'Etat.
-
-Les frais de formation pris en charge par l'Etat sont calculés sur une base forfaitaire par heure de formation dispensée et
-dans la limite de mille heures. Un premier versement égal à 40 p. 100 du coût de la formation est effectué à la date du début
-de la formation. Le solde est versé, au terme du sixième mois à compter de la date d'embauche du salarié ou au terme de la
-formation si celle-ci s'achève à une date ultérieure, sur présentation d'une attestation signée par l'organisme de formation,
-l'employeur et le salarié.
-
-Le montant horaire de cette aide forfaitaire est fixé par arrêté du représentant de l'Etat à Mayotte.
+Lorsque les organismes mentionnés à l'article L. 326-1 prennent des décisions ou concluent des conventions individuelles pour
+le compte de l'Etat en application du a du 1° de l'article L. 322-1, ils statuent également au nom de l'Etat en cas de
+recours gracieux formés contre ces décisions ou conventions. Les recours hiérarchiques sont portés devant le préfet.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°91-1263 1991-12-16 annexe
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2012-658 du 4 mai 2012 - art. 1
-
-
-###### Article R323-6
-
-L'employeur est tenu d'adresser une copie de la convention à la caisse de prévoyance sociale pour pouvoir bénéficier de
-l'exonération des cotisations prévue à l'article L. 323-3.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 1991-12-16 annexe
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Décret n°2012-658 du 4 mai 2012 - art. 1
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L323-3
+	  - Code du travail applicable à Mayotte. - art. L322-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L326-1 (V)
 
 
-###### Article R323-7
+###### Article R322-3
 
-En cas de rupture du contrat de travail à l'initiative de l'employeur avant le terme de la formation, les sommes déjà versées
-à l'employeur correspondant à des heures de formation non réalisées font l'objet d'un reversement à l'Etat. Si la convention
-ou l'avenant a prévu des heures de formation dispensées en entreprise, ces heures sont réputées être également réparties sur
-la période de formation.
+La convention annuelle d'objectifs et de moyens prévue à l'article L. 322-4 comporte une annexe, dont le modèle est fixé par
+arrêté du ministre chargé de l'emploi, faisant apparaître la liste des taux de prise en charge de l'aide financière définis
+en application du dernier alinéa de l'article L. 322-1, du cinquième et du sixième alinéa de l'article L. 322-4. Cette annexe
+mentionne également le nombre prévisionnel de conventions individuelles conclues par le président du conseil général, selon
+que l'aide est financée pour partie ou en totalité par le département. 
+
+La convention annuelle d'objectifs et de moyens peut être modifiée en cours d'année par avenant.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°91-1263 1991-12-16 annexe
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-4 (V)
+
+
+###### Article R322-4
+
+La convention individuelle de contrat unique d'insertion, dont le modèle est fixé par arrêté du ministre chargé de l'emploi,
+comporte : 
+
+1° Des informations relatives à l'identité du bénéficiaire et à sa situation au regard de l'emploi, des allocations dont il
+bénéficie et de sa qualification ; 
+
+2° Des informations relatives à l'identité et aux caractéristiques de l'employeur ; 
+
+3° Des informations relatives à la nature, aux caractéristiques et au contenu du contrat de travail conclu avec le salarié ; 
+
+4° Les modalités de mise en œuvre de la convention individuelle, notamment : 
+
+a) La nature des actions prévues au cours du contrat d'accompagnement dans l'emploi ou du contrat initiative-emploi,
+respectivement, en matière d'orientation et d'accompagnement professionnel, de formation professionnelle et de validation des
+acquis de l'expérience, en application de l'article L. 322-9, et en matière d'accompagnement professionnel et, le cas
+échéant, de formation, en application de l'article L. 322-27 ; 
+
+b) Le cas échéant, l'indication qu'une ou plusieurs périodes d'immersion auprès d'un autre employeur sont prévues au cours du
+contrat, en application de l'article L. 322-6 ; 
+
+c) Le nom du référent mentionné aux articles R. 322-17 et R. 322-40 et l'organisme dont il relève ; 
+
+d) Le nom et la fonction du tuteur mentionné aux articles R. 322-18 et R. 322-41 ; 
+
+e) Le taux de prise en charge servant au calcul de l'aide versée à l'employeur et le nombre d'heures de travail auquel il
+s'applique ; 
+
+f) L'identité de l'organisme ou des organismes en charge du versement de l'aide financière et les modalités de versement ; 
+
+g) Les modalités de contrôle par l'autorité signataire de la mise en œuvre de la convention. 
+
+La convention individuelle peut être modifiée avant son terme avec l'accord des trois parties.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-27 (V)
+	  - Code du travail applicable à Mayotte. - art. L322-6 (V)
+	  - Code du travail applicable à Mayotte. - art. L322-9 (V)
+	  - Code du travail applicable à Mayotte. - art. R322-17 (V)
+	  - Code du travail applicable à Mayotte. - art. R322-18 (V)
+	  - Code du travail applicable à Mayotte. - art. R322-40 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R322-5 (VD)
+
+
+###### Article R322-5
+
+La convention mentionnée à l'article R. 322-4 est transmise par l'autorité signataire à l'Agence de services et de paiement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R322-4 (V)
+
+
+###### Article R322-6
+
+L'Agence de services et de paiement est autorisée à mettre en œuvre à  Mayotte le traitement automatisé de données à
+caractère personnel  mentionné à l'article R. 5134-18 du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail - art. R5134-18 (M)
+
+
+##### Section 2 : Contrat d'accompagnement dans l'emploi 
+
+##### Sous-section 1 : Convention individuelle
+
+
+
+
+###### Article R322-7
+
+La convention individuelle initiale est conclue préalablement à la conclusion du contrat de travail mentionné à l'article L.
+322-13.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-13 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R322-10 (V)
+
+
+###### Article R322-8
+
+L'employeur qui sollicite la conclusion d'une nouvelle convention individuelle communique à l'autorité appelée à signer cette
+convention, sur sa demande, les éléments nécessaires à l'établissement du bilan mentionné à l'article L. 322-8.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-8 (V)
+
+
+###### Article R322-9
+
+L'employeur informe, dans un délai franc de sept jours, au moyen d'une  fiche de signalement dont le modèle est fixé par un
+arrêté du ministre  chargé de l'emploi, de toute suspension ou rupture du contrat de travail  qui interviendrait avant la fin
+de la convention : 
+
+1° L'autorité signataire de la convention individuelle ; 
+
+2° Le ou les organismes chargés du versement des aides.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+
+###### Article R322-10
+
+En cas de non-respect des clauses de la convention individuelle par l'employeur, à l'exception des cas de rupture mentionnés
+aux articles R. 322-27 et R. 322-28, l'autorité signataire de la convention individuelle informe l'employeur de son intention
+de dénoncer la convention. L'employeur dispose d'un délai franc de sept jours pour faire connaître ses observations. 
+
+En cas de dénonciation de la convention, l'employeur est tenu au reversement de la totalité des aides perçues. 
+
+L'autorité signataire de la convention individuelle informe l'organisme de recouvrement des cotisations sociales de la
+dénonciation de la convention.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R322-59 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R322-7 (V)
+
+
+###### Article R322-11
+
+En cas de modification de la situation juridique de l'employeur au sens de l'article L. 122-24, le nouvel employeur est
+substitué dans les droits de l'employeur en ce qui concerne le contrat de travail. Le nouvel employeur est également
+substitué dans les droits de l'employeur initial en ce qui concerne la convention individuelle, sous réserve de l'accord de
+l'autorité signataire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L122-24 (V)
+
+
+###### Article R322-12
+
+En application de l'article L. 322-12, l'employeur qui souhaite prolonger une convention individuelle au titre d'un contrat
+d'accompagnement dans l'emploi adresse à l'autorité signataire de la convention initiale une demande préalable. 
+
+Cette demande motivée est accompagnée d'un bilan des actions réalisées en matière d'accompagnement et de formation, notamment
+des actions d'aide à la prise de poste, de remise à niveau, d'acquisition de nouvelles compétences, de formation qualifiante,
+ou de la réalisation d'une période d'immersion. L'employeur joint également à sa demande un document répertoriant les actions
+d'accompagnement et de formation qu'il envisage de mettre en œuvre pendant la période de prolongation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-12 (V)
+
+
+###### Article R322-13
+
+La durée maximale de la convention individuelle, fixée à vingt-quatre mois par l'article L. 322-10, peut être prolongée, en
+application du premier alinéa de l'article L. 322-11, pour la durée de la formation suivie par le salarié restant à courir et
+dans la limite de soixante mois. 
+
+La demande de prolongation déposée par l'employeur est accompagnée : 
+
+1° De tous justificatifs visant à établir que l'action de formation professionnelle qualifiante visée à l'article L. 711-1-2
+et définie dans la convention initiale est en cours de réalisation et que le terme de cette action dépasse le terme de la
+convention ; 
+
+2° Des éléments d'organisation des actions de formation permettant de s'assurer qu'elles pourront être réalisées durant la
+période de prolongation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-10 (V)
+	  - Code du travail applicable à Mayotte. - art. L322-11 (V)
+	  - Code du travail applicable à Mayotte. - art. L711-1-2 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R322-58 (V)
+
+
+###### Article R322-14
+
+La durée maximale de vingt-quatre mois de la convention individuelle peut, pour les personnes mentionnées à l'article L.
+322-11, être portée, par avenants successifs d'un an au plus, à soixante mois. 
+
+La condition d'âge mentionnée au premier alinéa des articles L. 322-11 et L. 322-15 s'apprécie à l'échéance de la durée
+maximale de la convention.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-11 (V)
+	  - Code du travail applicable à Mayotte. - art. L322-15 (V)
+
+
+###### Article R322-15
+
+En application de l'article L. 442-11, les institutions représentatives du personnel des organismes employeurs, lorsqu'elles
+existent, sont informées des contrats d'accompagnement dans l'emploi conclus.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L442-11 (V)
+
+
+##### Sous-section 2 : Contrat de travail 
+
+###### Article R322-16
+
+En application de l'article L. 322-16, pour le calcul de la rémunération, le nombre d'heures hebdomadaires de travail
+accomplies est réputé égal à la durée du travail contractuelle. 
+
+Le programme prévisionnel de la répartition de la durée du travail sur l'année ou sur la période couverte par le contrat de
+travail est indiqué dans le contrat de travail. 
+
+Ce programme prévisionnel peut être modifié à la condition que cette possibilité ait été prévue dans le contrat de travail.
+En ce cas, sa modification éventuelle respecte un délai de prévenance de quinze jours au moins.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-16 (V)
+
+
+##### Sous-section 3 : Accompagnement 
+
+###### Article R322-17
+
+L'autorité signataire de la convention individuelle désigne en son sein ou auprès d'un organisme chargé de l'accompagnement
+ou de l'insertion, en le mentionnant dans la convention initiale, un référent chargé d'assurer le suivi du parcours
+d'insertion professionnelle du salarié en contrat d'accompagnement dans l'emploi. 
+
+Dans le cas où ce salarié est bénéficiaire du revenu de solidarité active, le référent peut être le même que celui désigné en
+application de l'article L. 262-27 du code de l'action sociale et des familles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R322-20 (V)
+	  - Code du travail applicable à Mayotte. - art. R322-4 (VD)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L262-27 (V)
+
+
+###### Article R322-18
+
+Dès la conclusion de la convention individuelle, l'employeur désigne un  tuteur parmi les salariés qualifiés et volontaires
+pour assumer cette  fonction. 
+
+Ce dernier doit justifier d'une  expérience professionnelle d'au moins deux ans. Exceptionnellement, sur  autorisation de
+l'autorité signataire de la convention, l'employeur peut  assurer lui-même le tutorat. Le tuteur ne peut suivre plus de trois
+salariés en contrat d'accompagnement dans l'emploi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R322-4 (VD)
+
+
+###### Article R322-19
+
+Lorsque l'Etat prend en charge tout ou partie des frais engagés pour dispenser une formation en application de l'article L.
+322-21, la convention individuelle ou un avenant précise les informations mentionnées au paragraphe I de l'article L.
+711-1-1. 
+
+La formation est dispensée dans le cadre d'une convention avec un organisme de formation mentionné au II de l'article L.
+711-1-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-21 (V)
+	  - Code du travail applicable à Mayotte. - art. L711-1-1 (V)
+
+
+###### Article R322-20
+
+Les missions du tuteur sont les suivantes : 
+
+1° Participer à l'accueil, aider, informer et guider le salarié en contrat d'accompagnement dans l'emploi ; 
+
+2° Contribuer à l'acquisition des savoir-faire professionnels ; 
+
+3° Assurer la liaison avec le référent mentionné à l'article R. 322-17 ; 
+
+4° Participer à l'établissement de l'attestation d'expérience professionnelle prévue à l'article L. 322-19 avec le salarié
+concerné et l'employeur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-19 (V)
+	  - Code du travail applicable à Mayotte. - art. R322-17 (V)
+
+
+##### Sous-section 4 : Aide financière et exonérations
+
+##### Paragraphe 1 : Aide financière
+
+###### Article R322-21
+
+L'aide mentionnée à l'article L. 322-21 est versée mensuellement : 
+
+1° Par l'Agence de services et de paiement pour le compte de l'Etat ; 
+
+2° Par le département ou par tout organisme qu'il mandate à cet effet, lorsque la convention individuelle de contrat
+d'accompagnement dans l'emploi est conclue avec un bénéficiaire du revenu de solidarité active financé par le département. 
+
+L'employeur communique aux organismes mentionnés au 1° ou au 2°, tous les trois mois à compter de la date d'embauche, les
+justificatifs attestant de l'effectivité de l'activité du salarié.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-21 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R232-71 (V)
+	  - Code du travail applicable à Mayotte. - art. R322-26 (VD)
+
+
+###### Article R322-22
+
+Les frais de formation pris en charge par l'Etat en application de l'article L. 322-21 sont calculés sur une base forfaitaire
+par heure de formation dispensée et dans la limite de quatre cents heures. Le montant horaire de l'aide forfaitaire est fixé
+par arrêté du préfet.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-21 (V)
+
+
+###### Article R322-23
+
+Les taux de prise en charge déterminant le montant de l'aide financière mentionné à l'article L. 322-22 sont fixés par un
+arrêté du préfet, en fonction des critères énumérés à l'article L. 322-21 et compte tenu, le cas échéant, des statistiques
+publiques de l'emploi dans le département.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-21 (V)
+	  - Code du travail applicable à Mayotte. - art. L322-22 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R322-24 (V)
+	  - Code du travail applicable à Mayotte. - art. R322-57 (V)
+
+
+###### Article R322-24
+
+Lorsque, en application du cinquième alinéa de l'article L. 322-4, le département majore les taux de l'aide à l'employeur
+mentionnés à l'article R. 322-23, le coût induit par cette majoration est à la charge du département. Cette contribution du
+département s'ajoute au montant de sa participation versée en application de l'article L. 322-23.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-23 (V)
+	  - Code du travail applicable à Mayotte. - art. L322-4 (V)
+	  - Code du travail applicable à Mayotte. - art. R322-23 (V)
+
+
+###### Article R322-25
+
+Lorsque le contrat d'accompagnement dans l'emploi est suspendu sans que  soit maintenue la rémunération du salarié, l'aide
+afférente à la période  de suspension n'est pas versée. 
+
+Lorsque, au  cours de la période de suspension, la rémunération est maintenue en  totalité ou partiellement, l'aide afférente
+à la période de suspension  est versée au prorata de la rémunération effectivement versée par  l'employeur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+
+###### Article R322-26
+
+En cas de rupture du contrat de travail à l'initiative de l'employeur avant la fin de la convention individuelle, celle-ci
+est résiliée de plein droit. 
+
+Sous réserve des cas mentionnés aux articles R. 322-27 et R. 322-28, l'employeur reverse alors à l'Agence de services et de
+paiement ou, le cas échéant, au département ou à l'organisme désigné par lui dans le cadre de l'article R. 322-21
+l'intégralité des sommes déjà perçues au titre de la convention individuelle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R322-21 (V)
+	  - Code du travail applicable à Mayotte. - art. R322-27 (V)
+
+
+###### Article R322-27
+
+Les aides perçues au titre de la convention individuelle ne font pas  l'objet d'un reversement et l'employeur conserve le
+bénéfice des aides  correspondant au nombre de jours travaillés par le salarié dont le  contrat d'accompagnement dans
+l'emploi est un contrat à durée  indéterminée dans les cas suivants : 
+
+1° Licenciement pour faute grave du salarié ; 
+
+2° Licenciement pour force majeure ; 
+
+3° Licenciement pour inaptitude médicalement constatée ; 
+
+4° Licenciement pour motif économique notifié dans le cadre d'une procédure de redressement ou de liquidation judiciaire ; 
+
+5° Rupture du contrat au cours de la période d'essai.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R322-26 (VD)
+	  - Code du travail applicable à Mayotte. - art. R322-30 (VD)
+
+
+###### Article R322-28
+
+Les aides perçues au titre de la convention individuelle ne font pas  l'objet d'un reversement et l'employeur conserve le
+bénéfice des aides  correspondant au nombre de jours travaillés par le salarié dont le  contrat d'accompagnement dans
+l'emploi est un contrat à durée  déterminée, en cas de : 
+
+1° Rupture anticipée résultant de la volonté claire et non équivoque des parties ; 
+
+2° Rupture anticipée pour faute grave ; 
+
+3° Rupture anticipée pour force majeure ; 
+
+4° Rupture anticipée au cours de la période d'essai.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R322-26 (VD)
+	  - Code du travail applicable à Mayotte. - art. R322-30 (V)
+
+
+##### Paragraphe 2 : Exonérations 
+
+###### Article R322-29
+
+En cas de suspension du contrat de travail avec maintien total ou  partiel de la rémunération mensuelle brute du salarié, le
+nombre  d'heures rémunérées pris en compte pour le calcul de l'exonération est  égal au produit de la durée de travail que le
+salarié aurait accomplie  s'il avait continué à travailler et de la part de la rémunération restée  à la charge de
+l'employeur et soumise à cotisation. Le nombre d'heures  rémunérées ainsi déterminé ne peut excéder au titre du mois civil
+considéré la durée légale du travail calculée sur le mois ou, si elle  est inférieure, la durée conventionnelle applicable
+dans  l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+
+###### Article R322-30
+
+En cas de rupture du contrat d'accompagnement dans l'emploi à l'initiative de l'employeur avant la fin de la convention dans
+un cas autre que ceux mentionnés aux articles R. 322-27 et R. 322-28, l'employeur verse le montant des cotisations et
+contributions sociales patronales dont il a été exonéré en application de l'article L. 322-24. 
+
+Ces cotisations et contributions sont versées au plus tard à la première date d'exigibilité des cotisations et contributions
+sociales qui suit la date d'effet de la rupture du contrat de travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R322-27 (V)
+	  - Code des assurances - art. L322-24 (V)
+
+
+##### Section 3 : Contrat initiative-emploi 
+
+##### Sous-section 1 : Convention individuelle 
+
+###### Article R322-31
+
+La convention individuelle initiale est conclue préalablement à la conclusion du contrat de travail mentionné à l'article L.
+322-34.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-34 (V)
+
+
+###### Article R322-32
+
+L'employeur qui sollicite la conclusion d'une nouvelle convention individuelle communique à l'autorité appelée à signer cette
+convention, sur sa demande, les éléments nécessaires à l'établissement du bilan mentionné à l'article L. 322-29.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-29 (V)
+
+
+###### Article R322-33
+
+L'employeur informe, dans un délai franc de sept jours, au moyen d'une  fiche de signalement dont le modèle est fixé par un
+arrêté du ministre  chargé de l'emploi, de toute suspension ou rupture du contrat de travail  qui interviendrait avant la fin
+de la convention : 
+
+1° L'autorité signataire de la convention individuelle ; 
+
+2° Le ou les organismes chargés du versement des aides.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+
+###### Article R322-34
+
+En cas de non-respect des clauses de la convention individuelle par l'employeur, à l'exception des cas de rupture mentionnés
+aux articles R. 322-50 et R. 322-51, l'autorité signataire de la convention individuelle informe l'employeur de son intention
+de dénoncer la convention. L'employeur dispose d'un délai franc de sept jours pour faire connaître ses observations. 
+
+En cas de dénonciation de la convention, l'employeur est tenu au reversement de la totalité des aides perçues. 
+
+L'autorité signataire de la convention individuelle informe l'organisme de recouvrement des cotisations sociales de la
+dénonciation de la convention.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R322-50 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R322-59 (V)
+
+
+###### Article R322-35
+
+En cas de modification de la situation juridique de l'employeur au sens des articles L. 122-24 et L. 122-25, le nouvel
+employeur est substitué dans les droits de l'employeur en ce qui concerne le contrat de travail. Le nouvel employeur est
+substitué également dans les droits de l'employeur initial en ce qui concerne la convention individuelle, sous réserve de
+l'accord de l'autorité signataire et à condition qu'il n'entre pas dans un des cas mentionnés à l'article L. 322-33.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L122-24 (V)
+	  - Code du travail applicable à Mayotte. - art. L122-25 (V)
+	  - Code du travail applicable à Mayotte. - art. L322-33 (V)
+
+
+###### Article R322-36
+
+En application de l'article L. 322-32, l'employeur qui souhaite prolonger une convention individuelle au titre du contrat
+initiative-emploi adresse à l'autorité signataire de la convention initiale une demande préalable. 
+
+Cette demande motivée est accompagnée d'un bilan des actions réalisées en matière d'accompagnement et de formation, notamment
+des actions d'aide à la prise de poste, de remise à niveau, d'acquisition de nouvelles compétences et de formation
+qualifiante. L'employeur joint également à sa demande un document répertoriant les actions d'accompagnement et de formation
+qu'il envisage de mettre en œuvre pendant la période de prolongation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-32 (V)
+
+
+###### Article R322-37
+
+La durée maximale de la convention individuelle, fixée à vingt-quatre mois par l'article L. 322-31, peut être prolongée, en
+application du troisième alinéa du même article, pour la durée de la formation suivie par le salarié restant à courir et dans
+la limite de soixante mois. 
+
+La demande de prolongation faite par l'employeur est accompagnée : 
+
+1° De tous justificatifs visant à établir que l'action de formation professionnelle qualifiante visée à l'article L. 711-1-2
+et définie dans la convention initiale est en cours de réalisation et que le terme de cette action dépasse le terme de la
+convention ; 
+
+2° Des éléments d'organisation des actions de formation permettant de s'assurer qu'elles pourront être réalisées durant la
+période de prolongation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-31 (V)
+	  - Code du travail applicable à Mayotte. - art. L711-1-2 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R322-58 (V)
+
+
+###### Article R322-38
+
+La durée maximale de vingt-quatre mois de la convention individuelle peut, pour les personnes mentionnées au troisième alinéa
+de l'article L. 322-31, être portée, par avenants successifs d'un an au plus, à soixante mois. 
+
+La condition d'âge mentionnée au troisième alinéa de l'article L. 322-31 et à l'article L. 322-35 s'apprécie à l'échéance de
+la durée maximale de la convention.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-31 (V)
+	  - Code du travail applicable à Mayotte. - art. L322-35 (V)
+
+
+###### Article R322-39
+
+En application de l'article L. 442-11, les institutions représentatives du personnel des organismes employeurs, lorsqu'elles
+existent, sont informées des contrats initiative-emploi conclus.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L442-11 (V)
+
+
+##### Sous-section 2 : Accompagnement
+
+###### Article R322-40
+
+L'autorité signataire de la convention individuelle désigne en son sein ou auprès d'un organisme chargé de l'accompagnement
+ou de l'insertion, en le mentionnant dans la convention initiale, un référent chargé d'assurer le suivi du parcours
+d'insertion professionnelle du salarié en contrat initiative-emploi. 
+
+Dans le cas où ce salarié est bénéficiaire du revenu de solidarité active, le référent peut être le même que celui désigné en
+application de l'article L. 262-27 du code de l'action sociale et des familles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R322-4 (VD)
+	  - Code du travail applicable à Mayotte. - art. R322-42 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L262-27 (V)
+
+
+###### Article R322-41
+
+L'employeur, dès la conclusion de la convention individuelle, désigne un  tuteur parmi les salariés qualifiés et volontaires
+pour assumer cette  fonction. Ce dernier doit justifier d'une expérience professionnelle  d'au moins deux ans.
+
+Exceptionnellement, sur autorisation de l'autorité  signataire de la convention, l'employeur peut assurer lui-même le
+tutorat. Le tuteur ne peut suivre plus de trois salariés en contrat  initiative-emploi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R322-4 (VD)
+
+
+###### Article R322-42
+
+Les missions du tuteur sont les suivantes : 
+
+1° Participer à l'accueil, aider, informer et guider le salarié en contrat initiative-emploi ; 
+
+2° Contribuer à l'acquisition des savoir-faire professionnels ; 
+
+3° Assurer la liaison avec le référent mentionné à l'article R. 322-40 ; 
+
+4° Participer à l'établissement de l'attestation d'expérience professionnelle prévue à l'article L. 322-39 avec le salarié
+concerné et l'employeur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-39 (V)
+	  - Code du travail applicable à Mayotte. - art. R322-40 (V)
+
+
+###### Article R322-43
+
+Lorsque l'Etat prend en charge tout ou partie des frais engagés pour dispenser une formation, sont précisées dans la
+convention individuelle ou dans un avenant conclu ultérieurement les informations mentionnées au I de l'article L. 711-1-1. 
+
+Cette formation est dispensée dans le cadre d'une convention avec un organisme de formation mentionné au II de l'article L.
+711-1-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L711-1-1 (V)
+
+
+##### Sous-section 3 : Aide financière 
+
+###### Article R322-44
+
+L'aide mentionnée à l'article L. 322-41 est versée mensuellement : 
+
+1° Par l'Agence de services et de paiement pour le compte de l'Etat ; 
+
+2° Par le département ou par tout organisme qu'il mandate à cet effet, lorsque la convention individuelle de contrat
+initiative-emploi est conclue avec un bénéficiaire du revenu de solidarité active financé par le département. 
+
+L'employeur communique aux organismes mentionnés au 1° ou au 2°, tous les trois mois à compter de la date d'embauche, les
+justificatifs attestant de l'effectivité de l'activité du salarié.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-41 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R322-49 (VD)
+
+
+###### Article R322-45
+
+Les frais de formation pris en charge par l'Etat en application de l'article L. 322-21 sont calculés sur une base forfaitaire
+par heure de formation dispensée et dans la limite de quatre cents heures. Le montant horaire de l'aide forfaitaire est fixé
+par arrêté du préfet.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-21 (V)
+
+
+###### Article R322-46
+
+Les taux de prise en charge déterminant le montant de l'aide financière mentionné à l'article L. 322-42 sont fixés par un
+arrêté du préfet, en fonction des critères énumérés à l'article L. 322-41 et compte tenu, le cas échéant, des statistiques
+publiques de l'emploi à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-41 (V)
+	  - Code du travail applicable à Mayotte. - art. L322-42 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R322-47 (V)
+	  - Code du travail applicable à Mayotte. - art. R322-57 (V)
+
+
+###### Article R322-47
+
+Lorsque, en application du cinquième alinéa de l'article L. 322-4, le département majore les taux de prise en charge
+mentionnés à l'article R. 322-46, le coût induit par cette majoration est à la charge du département. Cette contribution du
+département s'ajoute au montant de sa participation versée en application de l'article L. 322-43.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-4 (V)
+	  - Code du travail applicable à Mayotte. - art. L322-43 (V)
+	  - Code du travail applicable à Mayotte. - art. R322-46 (V)
+
+
+###### Article R322-48
+
+Lorsque le contrat initiative-emploi est suspendu sans que soit  maintenue la rémunération du salarié, l'aide afférente à la
+période de  suspension n'est pas versée. 
+
+Lorsque, au cours de  la période de suspension, la rémunération est maintenue en totalité ou  partiellement, l'aide afférente
+à la période de suspension est versée au  prorata de la rémunération effectivement versée par l'employeur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+
+###### Article R322-49
+
+En cas de rupture du contrat de travail à l'initiative de l'employeur avant la fin de la convention individuelle, celle-ci
+est résiliée de plein droit. 
+
+Sous réserve des cas mentionnés aux articles R. 322-50 et R. 322-51, l'employeur reverse alors à l'Agence de services et de
+paiement ou, le cas échéant, au département ou à l'organisme désigné par lui dans le cadre de l'article R. 322-44
+l'intégralité des sommes déjà perçues au titre de la convention individuelle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R322-44 (V)
+	  - Code du travail applicable à Mayotte. - art. R322-50 (V)
+	  - Code du travail applicable à Mayotte. - art. R322-51 (V)
+
+
+###### Article R322-50
+
+Les aides perçues au titre de la convention individuelle ne font pas  l'objet d'un reversement et l'employeur conserve le
+bénéfice des aides  correspondant au nombre de jours travaillés par le salarié dont le  contrat initiative-emploi est un
+contrat à durée indéterminée, dans les  cas suivants : 
+
+1° Licenciement pour faute grave du salarié ; 
+
+2° Licenciement pour force majeure ; 
+
+3° Licenciement pour inaptitude médicalement constatée ; 
+
+4° Licenciement pour motif économique notifié dans le cadre d'une procédure de redressement ou de liquidation judiciaire ; 
+
+5° Rupture du contrat au cours de la période d'essai.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R322-34 (V)
+	  - Code du travail applicable à Mayotte. - art. R322-49 (VD)
+
+
+###### Article R322-51
+
+Les aides perçues au titre de la convention individuelle ne font pas  l'objet d'un reversement et l'employeur conserve le
+bénéfice des aides  correspondant au nombre de jours travaillés par le salarié dont le  contrat initiative-emploi est un
+contrat à durée déterminée, dans les  cas suivants : 
+
+1° Rupture anticipée résultant de la volonté claire et non équivoque des parties ; 
+
+2° Rupture anticipée pour faute grave ; 
+
+3° Rupture anticipée pour force majeure ; 
+
+4° Rupture anticipée au cours de la période d'essai.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R322-49 (VD)
 
 
 #### CHAPITRE IV : Dispositions particulières relatives à l'emploi des jeunes
@@ -56356,6 +57285,307 @@ L. 313-3 et qu'elle peut présenter ses observations écrites dans un délai de 
 
 
 ### Titre 2 : Aides à l'emploi - Intervention du fonds national de l'emploi
+
+#### Chapitre 2 : Dispositions relatives au contrat unique d'insertion 
+
+##### Section 1 : Contrat d'accompagnement dans l'emploi
+
+##### Sous-section 1 : Aide financière et exonérations 
+
+
+
+
+##### Paragraphe 1 : Aide financière 
+
+
+###### Article D322-1
+
+Pour l'application de l'article L. 322-23, la participation mensuelle du Département au financement de l'aide est égale à 88
+% du montant forfaitaire mentionné au 2° de l'article L. 262-2 du code de l'action sociale et des familles, applicable à un
+foyer composé d'une seule personne, dans la limite de l'aide effectivement versée. 
+
+Toutefois, lorsque la convention individuelle de contrat d'accompagnement dans l'emploi prévoit une prise en charge de la
+durée hebdomadaire de travail égale à sept heures en application de la dérogation prévue à l'article L. 322-16, le taux de
+participation mensuelle du Département mentionné à l'alinéa précédent est réduit à 45 %.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-661 du 4 mai 2012 - art. 1
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D322-23-1 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-16
+	  - Code du travail applicable à Mayotte. - art. L322-23
+	  - Code de l'action sociale et des familles - art. L262-2
+
+
+##### Paragraphe 2 : Exonérations 
+
+
+
+###### Article D322-2
+
+Le montant de l'exonération prévue à l'article L. 322-24 est égal à celui des cotisations à la charge de l'employeur au titre
+du régime d'assurance maladie-maternité, du régime de base obligatoire pour les prestations familiales et du régime de
+retraite de base obligatoire de sécurité sociale applicables à Mayotte, correspondant à la fraction de la rémunération
+n'excédant pas le produit du salaire minimum interprofessionnel garanti par le nombre d'heures rémunérées, dans la limite de
+la durée légale du travail calculée sur le mois ou, si elle est inférieure, de la durée conventionnelle applicable dans
+l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-661 du 4 mai 2012 - art. 1
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D322-30-1 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-24
+
+
+##### Sous-section 2 : Périodes d'immersion 
+
+
+
+
+
+
+###### Article D322-3
+
+La convention individuelle de contrat d'accompagnement dans l'emploi mentionnée à l'article L. 322-7 peut prévoir, dans sa
+rédaction initiale ou par avenant ad hoc, la possibilité pour le salarié de réaliser des périodes d'immersion auprès d'un ou
+de plusieurs autres employeurs.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-661 du 4 mai 2012 - art. 1
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D322-30-2 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-7
+
+
+###### Article D322-4
+
+Chaque période d'immersion fait l'objet d'un avenant écrit au contrat d'accompagnement dans l'emploi mentionné à l'article L.
+322-13. 
+
+Le cas échéant, cet avenant peut prévoir la possibilité de réaliser plusieurs périodes d'immersion auprès du même employeur. 
+
+Il comporte des clauses obligatoires définies par arrêté du ministre chargé de l'emploi. 
+
+Un salarié ne peut être sanctionné, licencié ou faire l'objet d'une mesure discriminatoire pour avoir refusé d'effectuer une
+période d'immersion ou pour avoir décidé d'y mettre fin.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-661 du 4 mai 2012 - art. 1
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D322-30-3 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-13
+
+
+###### Article D322-5
+
+La durée de chaque période d'immersion ne peut excéder un mois. 
+
+La durée cumulée de l'ensemble des périodes d'immersion effectuées au cours du contrat d'accompagnement dans l'emploi ne peut
+représenter plus de 25 % de la durée totale du contrat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-661 du 4 mai 2012 - art. 1
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D322-30-4 (V)
+
+
+###### Article D322-6
+
+Chaque période d'immersion fait l'objet d'une convention de mise à disposition conclue à titre gratuit entre l'employeur du
+salarié sous contrat d'accompagnement dans l'emploi et l'employeur auprès duquel elle sera effectuée. Cette convention peut
+prévoir la possibilité d'effectuer plusieurs périodes d'immersion auprès d'un même employeur. 
+
+La convention de mise à disposition comporte notamment les indications suivantes : 
+
+1° La référence à l'article L. 322-6, qui autorise un prêt de main-d'œuvre à but non lucratif, et aux dispositions des titres
+Ier à V du livre II " Réglementation du travail ” ; 
+
+2° Les nom, prénom, adresse et date de naissance du salarié ; 
+
+3° La nature des activités faisant l'objet de la convention ; 
+
+4° Le lieu d'exécution, les horaires de travail, les dates de début et de fin de la période d'immersion ou, quand la
+convention le prévoit, des périodes d'immersion, et, en ce cas, les modalités de succession des périodes respectivement
+travaillées auprès de l'employeur et de l'employeur d'accueil ; 
+
+5° Les conditions et modalités de rupture anticipée de la mise à disposition par l'une ou l'autre des parties à la
+convention ; 
+
+6° La répartition des responsabilités, notamment en matière de formation à la sécurité et d'assurance contre le risque
+accidents du travail et maladies professionnelles, ainsi qu'en ce qui concerne l'exercice du pouvoir disciplinaire et des
+fonctions d'encadrement ; 
+
+7° Les objectifs visés par l'immersion, tels que la découverte de métiers, la confirmation du projet professionnel,
+l'acquisition d'expériences et de compétences professionnelles ou toute autre finalité à visée professionnelle, à préciser ; 
+
+8° Les modalités selon lesquelles la réalisation de ces objectifs est appréciée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-661 du 4 mai 2012 - art. 1
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D322-30-5 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-6
+
+
+###### Article D322-7
+
+La convention de mise à disposition est transmise par l'employeur du salarié sous contrat d'accompagnement dans l'emploi,
+pour agrément, au plus tard deux mois avant la date prévue pour le début de la période : 
+
+1° Pour les contrats d'accompagnement dans l'emploi conclus pour le compte de l'Etat, à l'organisme mentionné au a du 1° de
+l'article L. 322-1 ; 
+
+2° Pour les contrats d'accompagnement dans l'emploi conclus pour le compte du Département, au conseil général ou à
+l'organisme mentionné à l'article L. 322-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-661 du 4 mai 2012 - art. 1
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D322-30-6 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D322-8 (T)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-1
+	  - Code du travail applicable à Mayotte. - art. L322-2
+
+
+###### Article D322-8
+
+L'organisme destinataire de la convention de mise à disposition désigné à l'article D. 322-7 transmet à l'Agence de services
+et de paiement un document dont le modèle est fixé par arrêté du ministre chargé de l'emploi, signalant chaque période
+d'immersion agréée et comportant les indications nécessaires au suivi statistique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-661 du 4 mai 2012 - art. 1
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D322-30-7 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. D322-7
+
+
+##### Section 2 : Contrat initiative-emploi 
+
+
+
+
+###### Article D322-9
+
+Pour l'application de l'article L. 322-43, la participation mensuelle du Département au financement de l'aide est égale à 88
+% du montant forfaitaire mentionné au 2° de l'article L. 262-2 du code de l'action sociale et des familles, applicable à un
+foyer composé d'une seule personne, dans la limite du montant de l'aide effectivement versée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-661 du 4 mai 2012 - art. 1
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D322-46-1 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-43
+	  - Code de l'action sociale et des familles - art. L262-2
+
 
 #### Chapitre 4 : Dispositions particulières relatives à l'emploi des jeunes - Projet initiative-jeune
 
