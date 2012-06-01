@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2012-06-02
+Version Consolidée au 2012-06-02 00:00:01 +0200
 
 # Partie législative
 
@@ -13246,7 +13246,7 @@ mise en oeuvre de ces échanges.
 	  - Code du travail applicable à Mayotte. - art. L313-1 (V)
 
 
-### TITRE II : Aides à l'emploi, intervention du Fonds national de l'emploi et de la collectivité départementale
+### TITRE II : Aides à l'emploi et intervention du Fonds national de l'emploi
 
 #### CHAPITRE PRELIMINAIRE : Licenciement pour motif économique.
 
@@ -16803,1296 +16803,6 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 	  - Code du travail applicable à Mayotte. - art. L325-8 (V)
 
 
-#### Chapitre VIII : Dispositions régissant l'emploi de certaines catégories de travailleurs.
-
-##### Section 1 : Objet des politiques en faveur de l'emploi des personnes handicapées.
-
-###### Article L328-1
-
-Le reclassement des travailleurs handicapés comporte :
-
-1° La réadaptation fonctionnelle, complétée éventuellement par un réentraînement à l'effort ;
-
-2° L'orientation ;
-
-3° La rééducation ou la formation professionnelle pouvant inclure un réentraînement scolaire ;
-
-4° Le placement.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
-
-	**Cité par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 14 (V)
-	  - Code du travail applicable à Mayotte. - art. L328-10 (VD)
-	  - Code du travail applicable à Mayotte. - art. L328-11 (VD)
-	  - Code du travail applicable à Mayotte. - art. L328-2 (V)
-	  - Code du travail applicable à Mayotte. - art. L328-3 (VD)
-
-
-###### Article L328-2
-
-Bénéficient de l'obligation d'emploi instituée par l'article L. 328-1 : 
-
-1° Les travailleurs reconnus handicapés par la commission mentionnée à l'article L. 146-9 du code de l'action sociale et des
-familles ; 
-
-2° Les victimes d'accidents du travail ou de maladies professionnelles ayant entraîné une incapacité permanente au moins
-égale à 10 % et titulaires d'une rente attribuée au titre du régime de sécurité sociale de Mayotte ; 
-
-3° Les anciens militaires et assimilés, titulaires d'une pension militaire d'invalidité au titre du code des pensions
-militaires d'invalidité et des victimes de la guerre ; 
-
-4° Les conjoints survivants non remariés titulaires d'une pension au titre du même code, dont le conjoint militaire ou
-assimilé est décédé des suites d'une blessure ou d'une maladie imputable à un service de guerre ou alors qu'il était en
-possession d'un droit à pension militaire d'invalidité d'un taux au moins égal à 85 % ; 
-
-5° Les orphelins de guerre âgés de moins de vingt et un ans et les conjoints survivants non remariés ou les parents
-célibataires, dont respectivement la mère, le père ou l'enfant, militaire ou assimilé, est décédé des suites d'une blessure
-ou d'une maladie imputable à un service de guerre ou alors qu'il était en possession d'un droit à pension d'invalidité d'un
-taux au moins égal à 85 % ; 
-
-6° Les conjoints survivants remariés ayant au moins un enfant à charge issu du mariage avec le militaire ou assimilé décédé,
-lorsque ces conjoints ont obtenu ou auraient été en droit d'obtenir, avant leur remariage, une pension dans les conditions
-prévues au 5° ci-dessus ; 
-
-7° Les conjoints d'invalides internés pour aliénation mentale imputable à un service de guerre, si elles bénéficient de
-l'article L. 124 du code des pensions militaires d'invalidité et des victimes de la guerre ; 
-
-8° Les titulaires de la carte d'invalidité définie à l'article L. 241-3 du code de l'action sociale et des familles ; 
-
-9° Les titulaires de l'allocation pour adulte handicapé prévue aux articles 35 et suivants de l'ordonnance n° 2002-411 du 27
-mars 2002 relative à la protection sanitaire et sociale à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance n°2002-411 du 27 mars 2002 - art. 35
-	  - Code du travail applicable à Mayotte. - art. L328-1
-	  - Code des pensions militaires d'invalidité et des victimes de la guerre. - art. L124
-	  - Code de l'action sociale et des familles - art. L146-9
-	  - Code de l'action sociale et des familles - art. L241-3
-
-	**Modifié par**:
-
-	  - Ordonnance n°2012-785 du 31 mai 2012 - art. 7
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. D328-1 (V)
-	  - Code du travail applicable à Mayotte. - art. L328-12 (VD)
-	  - Code du travail applicable à Mayotte. - art. L328-7 (VD)
-
-
-###### Article L328-3
-
-Les politiques d'accès à la formation et à la qualification professionnelle des personnes handicapées ont pour objectif de
-recenser et quantifier les besoins de formation des personnes handicapées ainsi que la qualité des formations dispensées.
-
-Elles favorisent l'utilisation efficiente des différents dispositifs en facilitant la coordination entre les organismes de
-formation ordinaires et les organismes spécialement conçus pour la compensation des conséquences du handicap ou la réparation
-du préjudice.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
-
-
-###### Article L328-4
-
-Afin de tenir compte des contraintes particulières des personnes handicapées ou présentant un trouble de santé invalidant,
-les actions de formation professionnelle prévues à la sixième partie prévoient un accueil à temps partiel ou discontinu ainsi
-qu'une durée et des modalités adaptées de validation de la formation professionnelle, dans des conditions déterminées par
-décret.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. D328-2 (V)
-
-
-###### Article L328-5
-
-Tous les cinq ans, le service public de l'emploi élabore, sous l'autorité du représentant de l'Etat à Mayotte, un plan pour
-l'insertion des travailleurs handicapés. Ce plan, coordonné avec les politiques d'accès à la formation et à la qualification
-professionnelles des personnes handicapées, comprend :
-
-1° Un diagnostic englobant les diagnostics locaux établis avec la collaboration des référents pour l'insertion
-professionnelle ;
-
-2° Un plan d'action pour l'insertion des travailleurs handicapés comportant des axes d'intervention et des objectifs précis ;
-
-3° Des indicateurs de suivi et d'évaluation des actions menées.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. L328-44 (V)
-
-
-##### Section 2 : Obligation d'emploi des travailleurs handicapés, mutilés de guerre et assimilés.
-
-##### Sous-section 1 : Champ d'application.
-
-###### Article L328-6
-
-Les dispositions de la présente section s'appliquent à tout employeur, occupant vingt salariés et plus, y compris les
-établissements publics industriels et commerciaux.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. L328-10 (VD)
-	  - Code du travail applicable à Mayotte. - art. L328-7 (VD)
-
-
-###### Article L328-13
-
-Est considérée comme travailleur handicapé toute personne dont les possibilités d'obtenir ou de conserver un emploi sont
-effectivement réduites par suite de l'altération d'une ou plusieurs fonctions physiques, sensorielles, mentales ou
-psychiques. 
-
-La qualité de travailleur handicapé est reconnue par la commission mentionnée à l'article L. 146-9 du code de l'action
-sociale et des familles.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2012-785 du 31 mai 2012 - art. 7
-
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. L545-2 (VD)
-	  - Code du travail applicable à Mayotte. - art. D328-42 (V)
-	  - Code du travail applicable à Mayotte. - art. L328-15 (V)
-	  - Code du travail applicable à Mayotte. - art. L328-21 (V)
-	  - Code du travail applicable à Mayotte. - art. R328-15 (V)
-	  - Code du travail applicable à Mayotte. - art. R328-27 (V)
-	  - Code du travail applicable à Mayotte. - art. R328-28 (V)
-	  - Code du travail applicable à Mayotte. - art. R328-29 (V)
-	  - Code du travail applicable à Mayotte. - art. R328-46 (V)
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L146-9
-
-
-##### Sous-section 2 : Obligation d'emploi.
-
-###### Article L328-7
-
-Tout employeur emploie un pourcentage de travailleurs handicapés par rapport à l'effectif total de ses salariés, à temps
-plein ou à temps partiel, fixé par voie réglementaire dans la limite du taux prévu à l'article L. 5512-2 du code du travail
-et en vue d'y parvenir progressivement.
-
-**Nota:**
-
-Conformément à l'article 14 de l'ordonnance n° 2012-788 du 31 mai 2012, l'article L. 328-7 entre en vigueur le 1er janvier
-2013.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
-
-	**Cité par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 14 (V)
-	  - Arrêté du 25 mai 2016 - art. 5 (V)
-	  - Code du travail applicable à Mayotte. - art. D328-7 (V)
-	  - Code du travail applicable à Mayotte. - art. L328-17 (V)
-	  - Code du travail applicable à Mayotte. - art. L328-18 (VD)
-	  - Code du travail applicable à Mayotte. - art. L328-4 (VD)
-	  - Code du travail applicable à Mayotte. - art. L328-47 (V)
-	  - Code du travail applicable à Mayotte. - art. L328-9 (VD)
-	  - Code du travail applicable à Mayotte. - art. R328-23 (V)
-	  - Code du travail applicable à Mayotte. - art. R328-46 (V)
-
-
-###### Article L328-8
-
-Dans les entreprises à établissements multiples, l'obligation d'emploi s'applique établissement par établissement.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. L328-7 (VD)
-
-
-###### Article L328-9
-
-Toute entreprise qui occupe vingt salariés et plus soit au moment de sa création, soit en raison de l'accroissement de son
-effectif dispose, pour se mettre en conformité avec cette obligation d'emploi, d'un délai déterminé par décret, qui ne peut
-excéder trois ans.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. D328-16 (V)
-	  - Code du travail applicable à Mayotte. - art. R328-8 (V)
-
-
-###### Article L328-10
-
-L'employeur fournit à l'association mentionnée à l'article L. 328-45 une déclaration annuelle relative aux emplois occupés
-par les bénéficiaires de l'obligation d'emploi par rapport à l'ensemble des emplois existants. 
-
-Il justifie également qu'il s'est éventuellement acquitté de l'obligation d'emploi selon les modalités prévues aux articles
-L. 328-11 à L. 328-16. 
-
-A défaut de toute déclaration, l'employeur est considéré comme ne satisfaisant pas à l'obligation d'emploi.
-
-**Nota:**
-
-Conformément à l'article 14 de l'ordonnance n° 2012-788 du 31 mai 2012, l'article L. 328-10 entre en vigueur le 1er janvier
-2013.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
-
-	**Cité par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 14 (V)
-	  - Arrêté du 25 mai 2016 - art. 5 (V)
-	  - Code du travail applicable à Mayotte. - art. R328-13 (V)
-	  - Code du travail applicable à Mayotte. - art. R328-17 (V)
-	  - Code du travail applicable à Mayotte. - art. R328-8 (V)
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L328-11
-
-
-###### Article L328-14
-
-Les entreprises adaptées peuvent être créées par les collectivités ou organismes publics ou privés et notamment par des
-sociétés commerciales. Pour ces dernières, elles sont constituées en personnes morales distinctes. 
-
-Elles passent avec le représentant de l'Etat à Mayotte un contrat triennal d'objectifs valant agrément. 
-
-Elles bénéficient de l'ensemble des dispositifs destinés aux entreprises et à leurs salariés. Le bénéfice de ces dispositifs
-ne peut se cumuler, pour un même poste, avec l'aide au poste mentionnée au dernier alinéa, ni avec aucune aide spécifique
-portant sur le même objet. 
-
-Elles perçoivent, pour chaque travailleur handicapé orienté vers le marché du travail par la commission mentionnée à
-l'article L. 146-9 du code de l'action sociale et des familles qu'elles emploient, une aide au poste forfaitaire, versée par
-l'Etat, dont le montant et les modalités d'attribution sont déterminés par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2012-785 du 31 mai 2012 - art. 7
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. D328-34 (V)
-	  - Code du travail applicable à Mayotte. - art. D328-38 (V)
-	  - Code du travail applicable à Mayotte. - art. D328-43 (V)
-	  - Code du travail applicable à Mayotte. - art. L328-31 (V)
-	  - Code du travail applicable à Mayotte. - art. R328-10 (V)
-	  - Code du travail applicable à Mayotte. - art. R328-13 (V)
-	  - Code du travail applicable à Mayotte. - art. R328-14 (V)
-	  - Code du travail applicable à Mayotte. - art. R328-71 (V)
-	  - Code du travail applicable à Mayotte. - art. R328-72 (V)
-	  - Code du travail applicable à Mayotte. - art. R328-83 (V)
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L146-9
-
-
-##### Sous-section 3 : Modalités de mise en œuvre de l'obligation.
-
-##### Paragraphe 1 : Mise en œuvre partielle
-
-
-
-###### Article L328-11
-
-L'employeur peut s'acquitter partiellement de l'obligation d'emploi en passant des contrats de fournitures de sous-traitance
-ou de prestations de services avec :
-
-1° Soit des entreprises adaptées ;
-
-2° Soit des centres de distribution de travail à domicile ;
-
-3° Soit des établissements ou services d'aide par le travail.
-
-Cet acquittement partiel est proportionnel au volume de travail fourni à ces ateliers, centres, établissements ou services.
-
-Les modalités et les limites de cet acquittement partiel sont déterminées par voie réglementaire.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. D328-19 (V)
-	  - Code du travail applicable à Mayotte. - art. L328-10 (V)
-	  - Code du travail applicable à Mayotte. - art. L328-15 (V)
-	  - Code du travail applicable à Mayotte. - art. L328-17 (V)
-	  - Code du travail applicable à Mayotte. - art. R328-120 (V)
-	  - Code du travail applicable à Mayotte. - art. R328-13 (V)
-	  - Code du travail applicable à Mayotte. - art. R328-14 (V)
-	  - Code du travail applicable à Mayotte. - art. R328-18 (V)
-	  - Code du travail applicable à Mayotte. - art. R328-23 (V)
-	  - Code du travail applicable à Mayotte. - art. R328-46 (V)
-
-
-###### Article L328-12
-
-L'employeur peut s'acquitter partiellement de l'obligation d'emploi en accueillant en stage, dans des conditions fixées par
-un décret précisant la durée minimale de ce stage, des personnes handicapées, dans la limite d'une part de l'effectif total
-des salariés de l'entreprise, fixée par voie réglementaire.
-
-L'ouverture de droits à la prestation de compensation du handicap, à l'allocation compensatrice pour tierce personne ou à
-l'allocation d'éducation de l'enfant handicapé à l'égard des jeunes de plus de seize ans qui disposent d'une convention de
-stage vaut reconnaissance de la qualité de travailleur handicapé. Cette reconnaissance de la qualité de travailleur handicapé
-n'est valable que pendant la durée du stage.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. L000-4 (VT)
-	  - Code du travail applicable à Mayotte. - art. L033-4 (V)
-	  - Code du travail applicable à Mayotte. - art. R328-24 (V)
-
-
-##### Paragraphe 3 : Mise en œuvre par le versement d'une contribution annuelle
-
-
-
-
-###### Article L328-15
-
-Les modalités de calcul de la contribution annuelle, qui ne peut excéder la limite de 600 fois le salaire minimum
-interprofessionnel garanti par bénéficiaire non employé, sont déterminées par décret. 
-
-Pour les entreprises qui n'ont occupé aucun bénéficiaire de l'obligation d'emploi, n'ont passé aucun contrat prévu à
-l'article L. 328-11 d'un montant supérieur à un montant fixé par décret ou n'appliquent aucun accord collectif mentionné à
-l'article L. 328-13 pendant une période supérieure à trois ans, la limite de la contribution est portée, dans des conditions
-définies par décret, à 1 500 fois le salaire minimum interprofessionnel garanti.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. D328-19 (V)
-	  - Code du travail applicable à Mayotte. - art. L328-17 (V)
-	  - Code du travail applicable à Mayotte. - art. R328-14 (V)
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L328-11
-	  - Code du travail applicable à Mayotte. - art. L328-13
-
-
-###### Article L328-16
-
-Peuvent être déduites du montant de la contribution annuelle, en vue de permettre à l'employeur de s'acquitter partiellement
-de l'obligation d'emploi, des dépenses supportées directement par l'entreprise et destinées à favoriser l'accueil,
-l'insertion ou le maintien dans l'emploi des travailleurs handicapés au sein de l'entreprise ou l'accès de personnes
-handicapées à la vie professionnelle qui ne lui incombent pas en application d'une disposition législative ou réglementaire. 
-
-L'avantage représenté par cette déduction ne peut se cumuler avec une aide accordée pour le même objet par l'association
-mentionnée à l'article L. 328-45. 
-
-La nature des dépenses mentionnées au premier alinéa ainsi que les conditions dans lesquelles celles-ci peuvent être déduites
-du montant de la contribution sont déterminées par décret.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L328-45 (V)
-
-
-##### Paragraphe 4 : Sanction administrative
-
-
-
-###### Article L328-17
-
-Lorsqu'ils ne satisfont à aucune des obligations définies aux articles L. 328-7 et L. 328-11 à L. 328-16, les employeurs sont
-astreints à titre de pénalité au versement au Trésor public d'une somme dont le montant est égal à celui de la contribution
-instituée par le second alinéa de l'article L. 328-15, majoré de 25 %.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L328-11
-	  - Code du travail applicable à Mayotte. - art. L328-15
-	  - Code du travail applicable à Mayotte. - art. L328-7
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. R328-46 (V)
-
-
-##### Sous-section 4 : Bénéficiaires de l'obligation d'emploi
-
-
-
-
-##### Paragraphe 1 : Catégories de bénéficiaires
-
-
-
-###### Article L328-18
-
-Bénéficient de l'obligation d'emploi instituée par l'article L. 328-7 : 
-
-1° Les travailleurs reconnus handicapés par la commission mentionnée à l'article L. 545-2 du code de l'action sociale et des
-familles ; 
-
-2° Les victimes d'accidents du travail ou de maladies professionnelles ayant entraîné une incapacité permanente au moins
-égale à 10 % et titulaires d'une rente attribuée au titre du régime de sécurité sociale de Mayotte ; 
-
-3° Les anciens militaires et assimilés, titulaires d'une pension militaire d'invalidité au titre du code des pensions
-militaires d'invalidité et des victimes de la guerre ; 
-
-4° Les conjoints survivants non remariés titulaires d'une pension au titre du même code, dont le conjoint militaire ou
-assimilé est décédé des suites d'une blessure ou d'une maladie imputable à un service de guerre ou alors qu'il était en
-possession d'un droit à pension militaire d'invalidité d'un taux au moins égal à 85 % ; 
-
-5° Les orphelins de guerre âgés de moins de vingt et un ans et les conjoints survivants non remariés ou les parents
-célibataires, dont respectivement la mère, le père ou l'enfant, militaire ou assimilé, est décédé des suites d'une blessure
-ou d'une maladie imputable à un service de guerre ou alors qu'il était en possession d'un droit à pension d'invalidité d'un
-taux au moins égal à 85 % ; 
-
-6° Les conjoints survivants remariés ayant au moins un enfant à charge issu du mariage avec le militaire ou assimilé décédé,
-lorsque ces conjoints ont obtenu ou auraient été en droit d'obtenir, avant leur remariage, une pension dans les conditions
-prévues au 5° ci-dessus ; 
-
-7° Les conjoints d'invalides internés pour aliénation mentale imputable à un service de guerre, si elles bénéficient de
-l'article L. 124 du code des pensions militaires d'invalidité et des victimes de la guerre ; 
-
-8° Les titulaires de la carte d'invalidité définie à l'article L. 545-3 du code de l'action sociale et des familles ; 
-
-9° Les titulaires de l'allocation pour adulte handicapé prévue aux articles 35 et suivants de l'ordonnance n° 2002-411 du 27
-mars 2002 relative à la protection sanitaire et sociale à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance n°2002-411 du 27 mars 2002 - art. 35
-	  - Code du travail applicable à Mayotte. - art. L328-7
-	  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L124
-	  - Code de l'action sociale et des familles - art. L545-2
-	  - Code de l'action sociale et des familles - art. L545-3
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. D328-2 (V)
-	  - Code du travail applicable à Mayotte. - art. D328-37 (V)
-	  - Code du travail applicable à Mayotte. - art. L328-14 (V)
-	  - Code du travail applicable à Mayotte. - art. L328-26 (VD)
-	  - Code du travail applicable à Mayotte. - art. L328-27 (V)
-	  - Code du travail applicable à Mayotte. - art. R328-24 (V)
-
-
-##### Paragraphe 2 : Calcul du nombre de bénéficiaires
-
-
-
-
-###### Article L328-19
-
-Pour le calcul du nombre de bénéficiaires de l'obligation d'emploi, chaque personne est prise en compte à due proportion de
-son temps de présence dans l'entreprise au cours de l'année civile, quelle que soit la nature ou la durée de son contrat de
-travail, dans la limite d'une unité et dans les conditions suivantes :
-
-a) Les salariés dont la durée de travail est supérieure ou égale à la moitié de la durée légale ou conventionnelle sont
-décomptés dans la limite d'une unité comme s'ils avaient été employés à temps complet ;
-
-b) Les salariés dont la durée de travail est inférieure à la moitié de la durée légale ou conventionnelle sont décomptés dans
-des conditions fixées par décret sans que leur prise en compte puisse dépasser une demi-unité.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. R328-13 (V)
-
-
-##### Sous-section 5 : Actions en justice
-
-
-###### Article L328-20
-
-Les associations ayant pour objet principal la défense des intérêts des bénéficiaires de la présente section peuvent exercer
-une action civile fondée sur l'inobservation des dispositions de ce même chapitre, lorsque cette inobservation porte un
-préjudice certain à l'intérêt collectif qu'elles représentent.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
-
-
-##### Sous-section 6 : Dispositions d'application
-
-
-
-###### Article L328-21
-
-Un décret en Conseil d'Etat détermine les modalités d'application de la présente section, notamment les conditions dans
-lesquelles l'accord collectif prévu à l'article L. 328-13 est agréé par l'autorité administrative.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L328-13
-
-
-##### Section 3 : Reconnaissance et orientation des travailleurs handicapés
-
-
-
-
-##### Sous-section 1 : Reconnaissance de la qualité de travailleur handicapé
-
-
-
-###### Article L328-22
-
-Est considérée comme travailleur handicapé toute personne dont les possibilités d'obtenir ou de conserver un emploi sont
-effectivement réduites par suite de l'altération d'une ou plusieurs fonctions physique, sensorielle, mentale ou psychique.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
-
-
-###### Article L328-23
-
-La qualité de travailleur handicapé est reconnue par la commission mentionnée à l'article L. 545-2 du code de l'action
-sociale et des familles. Cette reconnaissance s'accompagne d'une orientation vers un établissement ou service d'aide par le
-travail, vers le marché du travail ou vers un centre de rééducation professionnelle. L'orientation vers un établissement ou
-service d'aide par le travail, vers le marché du travail ou vers un centre de rééducation professionnelle vaut reconnaissance
-de la qualité de travailleur handicapé.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. L721-3 (V)
-	  - Code du travail applicable à Mayotte. - art. R721-21 (V)
-	  - Code du travail applicable à Mayotte. - art. R722-2 (V)
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L545-2
-
-
-##### Sous-section 2 : Réadaptation, rééducation et formation professionnelle
-
-
-###### Article L328-24
-
-Tout travailleur handicapé peut bénéficier d'une réadaptation, d'une rééducation ou d'une formation professionnelle.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
-
-
-###### Article L328-25
-
-Le travailleur handicapé bénéficie des aides financières accordées aux stagiaires de la formation professionnelle et prévues
-par les chapitres Ier à III du titre II du livre VII, sous réserve d'adaptations à leur situation particulière. 
-
-En outre, le travailleur handicapé peut bénéficier, à l'issue de son stage, de primes destinées à faciliter son reclassement
-dont le montant et les conditions d'attribution sont déterminés par l'association mentionnée à l'article L. 328-45. 
-
-Ces primes ne se cumulent pas avec les primes de même nature dont le travailleur handicapé pourrait bénéficier au titre de la
-législation dont il relève.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L328-45
-
-
-##### Sous-section 3 : Orientation en milieu professionnel
-
-
-
-##### Paragraphe 1 : Droits et garanties des travailleurs handicapés
-
-
-
-###### Article L328-26
-
-Afin de garantir le respect du principe d'égalité de traitement à l'égard des travailleurs handicapés, l'employeur prend, en
-fonction des besoins dans une situation concrète, les mesures appropriées pour permettre aux travailleurs mentionnés aux 1° à
-4° et 9° à 11° de l'article L. 328-18 d'accéder à un emploi ou de conserver un emploi correspondant à leur qualification, de
-l'exercer ou d'y progresser ou pour qu'une formation adaptée à leurs besoins leur soit dispensée. 
-
-Ces mesures sont prises sous réserve que les charges consécutives à leur mise en œuvre ne soient pas disproportionnées,
-compte tenu de l'aide prévue à l'article L. 328-30 qui peuvent compenser en tout ou partie les dépenses supportées à ce titre
-par l'employeur. 
-
-Le refus de prendre des mesures au sens du premier alinéa peut être constitutif d'une discrimination au sens de l'article L.
-000-4.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L000-4
-	  - Code du travail applicable à Mayotte. - art. L328-18
-	  - Code du travail applicable à Mayotte. - art. L328-30
-
-
-###### Article L328-27
-
-Le salaire des bénéficiaires mentionnés à l'article L. 328-18 ne peut être inférieur à celui qui résulte de l'application des
-dispositions légales ou des stipulations de la convention ou de l'accord collectif de travail.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L328-18
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. L328-31 (V)
-	  - Code du travail applicable à Mayotte. - art. L328-41 (V)
-
-
-###### Article L328-28
-
-Les travailleurs handicapés embauchés en application des dispositions de la section 3 ne peuvent, en cas de rechute de
-l'affection invalidante, bénéficier des avantages spéciaux accordés en cas de maladie par un statut particulier ou une
-convention ou accord collectif de travail.
-
-Toutefois, ces statuts ou conventions collectives peuvent prévoir des dérogations aux dispositions mentionnées au premier
-alinéa.
-
-Dans le cas d'accident ou de maladie autre que l'affection invalidante, les intéressés peuvent bénéficier des avantages
-spéciaux dès leur embauche dans les mêmes conditions que les autres membres du personnel.
-
-Lorsque l'affection du travailleur handicapé est dite consolidée, celui-ci peut, s'il est à nouveau atteint de la maladie qui
-était à l'origine de son invalidité, bénéficier des avantages spéciaux mentionnés au premier alinéa à l'expiration d'un délai
-d'un an, à compter de la date de la consolidation.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
-
-
-###### Article L328-29
-
-En cas de licenciement, la durée du préavis déterminée en application de l'article L. 122-19 est doublée pour les
-bénéficiaires de la présente section, sans toutefois que cette mesure puisse avoir pour effet de porter au-delà de trois mois
-la durée de ce préavis. 
-
-Toutefois, ces dispositions ne sont pas applicables lorsque les contrats de travail, règlements de travail, les conventions
-ou accords collectifs de travail ou, à défaut, les usages prévoient un préavis d'une durée au moins égale à trois mois.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L122-19
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. L328-41 (V)
-	  - Code du travail applicable à Mayotte. - art. R328-106 (Ab)
-
-
-##### Paragraphe 2 : Aides financières
-
-
-
-
-###### Article L328-30
-
-L'Etat peut attribuer une aide financière du fonds de développement pour l'insertion professionnelle des handicapés à tout
-employeur soumis à l'obligation d'emploi de travailleurs handicapés afin de faciliter la mise ou la remise au travail en
-milieu ordinaire de production des personnes handicapées.
-
-Cette aide peut également être destinée à compenser les charges supplémentaires d'encadrement.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. L328-26 (VD)
-	  - Code du travail applicable à Mayotte. - art. R328-65 (V)
-
-
-###### Article L328-31
-
-Pour l'application des dispositions de l'article L. 328-27 relatives au salaire du travailleur handicapé, une aide financée
-par le fonds de développement pour l'insertion professionnelle des handicapés peut être attribuée sur décision de
-l'association mentionnée à l'article L. 328-45. 
-
-Cette aide, demandée par l'employeur, peut être allouée en fonction des caractéristiques des bénéficiaires. 
-
-Elle ne peut être cumulée avec la minoration de la contribution prévue pour l'embauche d'un travailleur mentionnée à
-l'article L. 328-14.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L328-14
-	  - Code du travail applicable à Mayotte. - art. L328-27
-	  - Code du travail applicable à Mayotte. - art. L328-45
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. R328-71 (V)
-	  - Code du travail applicable à Mayotte. - art. R328-83 (V)
-
-
-###### Article L328-32
-
-Les travailleurs handicapés qui font le choix d'exercer une activité professionnelle non salariée peuvent bénéficier d'une
-aide du fonds de développement pour l'insertion professionnelle des handicapés lorsque, du fait de leur handicap, leur
-productivité se trouve notoirement diminuée.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
-
-
-##### Paragraphe 3 : Entreprises adaptées et centres de distribution de travail à domicile
-
-
-
-###### Article L328-33
-
-Les entreprises adaptées et les centres de distribution de travail à domicile peuvent être créés par les collectivités ou
-organismes publics ou privés, notamment par des sociétés commerciales. Pour ces dernières, ils sont constitués en personnes
-morales distinctes. 
-
-Leurs effectifs de production comportent au moins 80 % de travailleurs handicapés orientés vers le marché du travail par la
-commission des personnes handicapées prévue à l'article L. 545-2 du code de l'action sociale et des familles et qui soit sont
-recrutés sur proposition du service public de l'emploi ou d'un organisme de placement spécialisé, soit répondent aux critères
-fixés par arrêté du ministre chargé de l'emploi. 
-
-Les entreprises adaptées et les centres de distribution de travail à domicile permettent à ces salariés d'exercer une
-activité professionnelle dans des conditions adaptées à leurs possibilités. Grâce à l'accompagnement spécifique qu'ils leur
-proposent, ils favorisent la réalisation de leur projet professionnel en vue de la valorisation de leurs compétences, de leur
-promotion et de leur mobilité au sein de la structure elle-même ou vers d'autres entreprises. 
-
-Ils concluent avec l'autorité administrative un contrat d'objectif triennal valant agrément.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
-
-	**Cité par**:
-
-	  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 92 (VD)
-	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 61 (VD)
-	  - Code du travail applicable à Mayotte. - art. D328-112 (V)
-	  - Code du travail applicable à Mayotte. - art. L328-39 (V)
-	  - Code du travail applicable à Mayotte. - art. R328-18 (V)
-	  - Code du travail applicable à Mayotte. - art. R328-97 (V)
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L545-2
-
-
-###### Article L328-34
-
-Les dispositions du présent code sont applicables aux travailleurs handicapés salariés des entreprises adaptées et des
-centres de distribution de travail à domicile.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
-
-
-###### Article L328-35
-
-Le travailleur handicapé employé dans une entreprise adaptée reçoit un salaire fixé compte tenu de l'emploi qu'il occupe et
-de sa qualification par référence aux dispositions légales ou stipulations conventionnelles applicables dans la branche
-d'activité. 
-
-Ce salaire ne peut être inférieur à un minimum fixé par décret par référence au salaire minimum interprofessionnel garanti
-prévu à l'article L. 141-2 du présent code.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L141-2
-
-
-###### Article L328-36
-
-Un ou plusieurs travailleurs handicapés employés dans une entreprise adaptée peuvent être mis à la disposition provisoire
-d'un autre employeur selon des modalités précisées par décret.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
-
-
-###### Article L328-37
-
-En cas de départ volontaire vers l'entreprise ordinaire, le salarié handicapé démissionnaire bénéficie, au cas où il
-souhaiterait réintégrer l'entreprise adaptée, d'une priorité d'embauche dont les modalités sont déterminées par décret.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. D328-118 (V)
-
-
-###### Article L328-38
-
-Bénéficient de l'ensemble des dispositifs destinés aux entreprises et à leurs salariés les entreprises adaptées et les
-centres de distribution de travail à domicile. 
-
-Toutefois, le bénéfice de ces dispositifs ne peut se cumuler, pour un même poste, ni avec l'aide au poste mentionnée à
-l'article L. 328-39, ni avec aucune aide spécifique portant sur le même objet.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L328-39
-
-
-###### Article L328-39
-
-Les entreprises adaptées et les centres de distribution de travail à domicile perçoivent pour chaque travailleur handicapé
-employé, dès lors que celui-ci remplit les conditions mentionnées à l'article L. 328-33, une aide au poste forfaitaire versée
-par l'Etat, dans la limite d'un effectif de référence fixé annuellement par la loi de finances. 
-
-En outre, compte tenu des surcoûts résultant de l'emploi majoritaire de ces travailleurs handicapés, les entreprises adaptées
-et les centres de distribution de travail à domicile reçoivent de l'Etat une subvention spécifique, destinée notamment au
-suivi social, à l'accompagnement et à la formation spécifique de la personne handicapée, pour favoriser son adaptation à son
-poste de travail. 
-
-Les modalités d'attribution de l'aide au poste et de la subvention spécifique sont précisées par décret.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. D328-109 (V)
-	  - Code du travail applicable à Mayotte. - art. D328-113 (V)
-	  - Code du travail applicable à Mayotte. - art. L328-38 (V)
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L328-33
-
-
-##### Sous-section 4 : Autres orientations
-
-
-
-###### Article L328-40
-
-Les personnes handicapées pour lesquelles une orientation sur le marché du travail par la commission des droits et de
-l'autonomie des personnes handicapées mentionnée à l'article L. 545-2 du code de l'action sociale et des familles s'avère
-impossible peuvent être admises dans un établissement ou service d'aide par le travail.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L545-2
-
-
-##### Sous-section 5 : Actions en justice
-
-
-
-
-
-
-###### Article L328-41
-
-Les associations ayant pour objet principal la défense des intérêts des bénéficiaires de la présente section peuvent exercer
-une action civile fondée sur l'inobservation des dispositions des articles L. 328-27 et L. 328-29 à L. 328-32, lorsque cette
-inobservation porte un préjudice certain à l'intérêt collectif qu'elles représentent.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L328-27
-	  - Code du travail applicable à Mayotte. - art. L328-29
-
-
-##### Sous-section 6 : Dispositions d'application
-
-
-
-
-###### Article L328-42
-
-Sauf dispositions contraires, un décret en Conseil d'Etat détermine les modalités d'application de la présente section.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
-
-
-##### Section 4 : Institutions et organismes concourant
-à l'insertion professionnelle des handicapés
-
-
-
-##### Sous-section 1 : Pilotage des politiques en faveur de l'emploi des personnes handicapées
-
-
-
-
-###### Article L328-43
-
-L'Etat assure le pilotage de la politique de l'emploi des personnes handicapées. Il fixe, en lien avec le service public de
-l'emploi, l'association chargée de la gestion du fonds de développement pour l'insertion professionnelle des handicapés et le
-fonds d'insertion des personnes handicapées dans la fonction publique, les objectifs et priorités de cette politique.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
-
-
-###### Article L328-44
-
-La convention pluriannuelle d'objectifs et de moyens prévue à l'article L. 5214-1 B du code du travail s'applique à Mayotte
-et fait l'objet d'une déclinaison locale sous la forme du plan pour l'insertion des travailleurs handicapés mentionné à
-l'article L. 328-5.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
-
-	**Cite**:
-
-	  - Code du travail - art. L5214-1
-	  - Code du travail applicable à Mayotte. - art. L328-5
-
-
-##### Sous-section 2 : Fonds de développement pour l'insertion professionnelle des handicapés
-
-
-
-
-###### Article L328-45
-
-Le fonds de développement pour l'insertion professionnelle des handicapés à Mayotte a pour objet d'accroître les moyens
-consacrés à l'insertion des handicapés en milieu ordinaire de travail. 
-
-La gestion du fonds de développement pour l'insertion professionnelle des handicapés à Mayotte est confiée à l'association
-mentionnée à l'article L. 5214-1 du code du travail. 
-
-Cette association est soumise au contrôle administratif et financier de l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
-
-	**Cité par**:
-
-	  - Arrêté du 25 mai 2016 - art. 5 (V)
-	  - Décret n°2016-1435 du 25 octobre 2016 - art. 5
-	  - Code du travail applicable à Mayotte. - art. L328-14 (V)
-	  - Code du travail applicable à Mayotte. - art. L328-16 (V)
-	  - Code du travail applicable à Mayotte. - art. L328-25 (V)
-	  - Code du travail applicable à Mayotte. - art. L328-31 (V)
-	  - Code du travail applicable à Mayotte. - art. R328-10 (V)
-	  - Code du travail applicable à Mayotte. - art. R328-11 (V)
-	  - Code du travail applicable à Mayotte. - art. R328-12 (V)
-	  - Code du travail applicable à Mayotte. - art. R328-14 (V)
-	  - Code du travail applicable à Mayotte. - art. R328-15-1 (V)
-	  - Code du travail applicable à Mayotte. - art. R328-15-2 (V)
-	  - Code du travail applicable à Mayotte. - art. R328-15-3 (V)
-	  - Code du travail applicable à Mayotte. - art. R328-24 (V)
-	  - Code du travail applicable à Mayotte. - art. R328-28 (V)
-	  - Code du travail applicable à Mayotte. - art. R328-30 (V)
-	  - Code du travail applicable à Mayotte. - art. R328-45 (V)
-	  - Code du travail applicable à Mayotte. - art. R328-46 (V)
-	  - Code du travail applicable à Mayotte. - art. R328-47 (V)
-	  - Code du travail applicable à Mayotte. - art. R328-71 (V)
-	  - Code du travail applicable à Mayotte. - art. R328-73 (V)
-	  - Code du travail applicable à Mayotte. - art. R328-76 (V)
-	  - Code du travail applicable à Mayotte. - art. R328-8 (V)
-	  - Code du travail applicable à Mayotte. - art. R328-83 (V)
-
-	**Cite**:
-
-	  - Code du travail - art. L5214-1
-
-
-###### Article L328-46
-
-Une convention d'objectifs est conclue, tous les trois ans, entre l'Etat et l'association chargée de la gestion du fonds de
-développement pour l'insertion professionnelle des handicapés.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
-
-
-###### Article L328-47
-
-Les ressources du fonds de développement pour l'insertion professionnelle des handicapés sont destinées à favoriser toutes
-les formes d'insertion professionnelle des handicapés en milieu ordinaire de travail. 
-
-Elles sont affectées notamment : 
-
-1° A la compensation du coût supplémentaire des actions de formation et au financement d'actions d'innovation et de recherche
-dont bénéficient les intéressés dans l'entreprise ; 
-
-2° A des mesures nécessaires à l'insertion et au suivi des travailleurs handicapés dans leur vie professionnelle. 
-
-Les actions définies au présent article peuvent concerner les entreprises non assujetties à l'obligation d'emploi prévue par
-l'article L. 328-7 lorsqu'elles emploient des bénéficiaires de cette obligation, ainsi que les travailleurs handicapés qui
-exercent une activité indépendante.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L328-7
-
-
-##### Sous-section 3 : Organismes de placement spécialisés
-dans l'insertion professionnelle des personnes handicapées
-
-
-
-###### Article L328-48
-
-Des organismes de placement spécialisés, chargés de la préparation, de l'accompagnement et du suivi durable dans l'emploi des
-personnes handicapées, participent au dispositif d'insertion professionnelle et d'accompagnement spécifique prévu pour les
-travailleurs handicapés mis en œuvre par l'Etat, le service public de l'emploi, l'association chargée de la gestion du fonds
-de développement pour l'insertion professionnelle des handicapés et le fonds pour l'insertion professionnelle des personnes
-handicapées dans la fonction publique. 
-
-Ils sont conventionnés à cet effet et peuvent, à cette condition, mobiliser les aides, actions et prestations proposées par
-l'association et le fonds mentionnés au premier alinéa. 
-
-Les organismes de placement spécialisés assurent, en complémentarité avec l'institution mentionnée à l'article L. 326-7, une
-prise en charge adaptée des demandeurs d'emploi bénéficiaires de l'obligation d'emploi dans des conditions définies par une
-convention.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L326-7
-
-
-##### Sous-section 4 : Actions en justice
-
-
-###### Article L328-49
-
-Les associations ayant pour objet principal la défense des intérêts des bénéficiaires de la présente section peuvent exercer
-une action civile fondée sur l'inobservation des dispositions de cette même section, lorsque cette inobservation porte un
-préjudice certain à l'intérêt collectif qu'elles représentent.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
-
-
-##### Section 5 : Dispositions d'application
-
-
-###### Article L328-50
-
-Un décret en Conseil d'Etat détermine les modalités d'application du présent chapitre, notamment les modalités du contrôle de
-la répartition et de l'utilisation des contributions versées au fonds de développement pour l'insertion professionnelle des
-handicapés.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
-
-
-### TITRE II : Aides à l'emploi et intervention du Fonds national de l'emploi
-
-#### CHAPITRE PRELIMINAIRE : Licenciement pour motif économique.
-
-#### CHAPITRE Ier : Généralités.
-
-#### Chapitre II : Contrat unique d'insertion
-
-#### Chapitre IV : Dispositions particulières relatives à l'emploi des jeunes
-
-#### Chapitre V : Dispositions relatives à la création d'entreprises et à la création d'emplois
-
 #### Chapitre VI : Service public de l'emploi et placement
 
 ##### Section 1 : Le service public de l'emploi
@@ -20734,6 +19444,1255 @@ et précomptée sur le salaire est puni d'un emprisonnement de deux ans et d'une
 
 
 #### Chapitre VIII : Dispositions régissant l'emploi de certaines catégories de travailleurs.
+
+##### Section 1 : Objet des politiques en faveur de l'emploi des personnes handicapées.
+
+###### Article L328-1
+
+Le reclassement des travailleurs handicapés comporte :
+
+1° La réadaptation fonctionnelle, complétée éventuellement par un réentraînement à l'effort ;
+
+2° L'orientation ;
+
+3° La rééducation ou la formation professionnelle pouvant inclure un réentraînement scolaire ;
+
+4° Le placement.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+
+	**Cité par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 14 (V)
+	  - Code du travail applicable à Mayotte. - art. L328-10 (VD)
+	  - Code du travail applicable à Mayotte. - art. L328-11 (VD)
+	  - Code du travail applicable à Mayotte. - art. L328-2 (V)
+	  - Code du travail applicable à Mayotte. - art. L328-3 (VD)
+
+
+###### Article L328-2
+
+Des politiques concertées d'accès à la formation et à la qualification professionnelles des personnes handicapées, visant à
+créer les conditions collectives d'exercice du droit au travail des personnes handicapées, sont définies et mises en œuvre
+par :
+
+1° L'Etat ;
+
+2° Le service public de l'emploi ;
+
+3° L'association de gestion du fonds pour l'insertion professionnelle des handicapés ;
+
+4° Le fonds pour l'insertion des personnes handicapées dans la fonction publique ;
+
+5° Le Département de Mayotte ;
+
+6° Les organismes de protection sociale ;
+
+7° Les organisations syndicales et associations représentatives des personnes handicapées.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D328-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L328-12 (VD)
+	  - Code du travail applicable à Mayotte. - art. L328-7 (VD)
+
+
+###### Article L328-3
+
+Les politiques d'accès à la formation et à la qualification professionnelle des personnes handicapées ont pour objectif de
+recenser et quantifier les besoins de formation des personnes handicapées ainsi que la qualité des formations dispensées.
+
+Elles favorisent l'utilisation efficiente des différents dispositifs en facilitant la coordination entre les organismes de
+formation ordinaires et les organismes spécialement conçus pour la compensation des conséquences du handicap ou la réparation
+du préjudice.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+
+
+###### Article L328-4
+
+Afin de tenir compte des contraintes particulières des personnes handicapées ou présentant un trouble de santé invalidant,
+les actions de formation professionnelle prévues à la sixième partie prévoient un accueil à temps partiel ou discontinu ainsi
+qu'une durée et des modalités adaptées de validation de la formation professionnelle, dans des conditions déterminées par
+décret.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D328-2 (V)
+
+
+###### Article L328-5
+
+Tous les cinq ans, le service public de l'emploi élabore, sous l'autorité du représentant de l'Etat à Mayotte, un plan pour
+l'insertion des travailleurs handicapés. Ce plan, coordonné avec les politiques d'accès à la formation et à la qualification
+professionnelles des personnes handicapées, comprend :
+
+1° Un diagnostic englobant les diagnostics locaux établis avec la collaboration des référents pour l'insertion
+professionnelle ;
+
+2° Un plan d'action pour l'insertion des travailleurs handicapés comportant des axes d'intervention et des objectifs précis ;
+
+3° Des indicateurs de suivi et d'évaluation des actions menées.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L328-44 (V)
+
+
+##### Section 2 : Obligation d'emploi des travailleurs handicapés, mutilés de guerre et assimilés.
+
+##### Sous-section 1 : Champ d'application.
+
+###### Article L328-6
+
+Les dispositions de la présente section s'appliquent à tout employeur, occupant vingt salariés et plus, y compris les
+établissements publics industriels et commerciaux.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L328-10 (VD)
+	  - Code du travail applicable à Mayotte. - art. L328-7 (VD)
+
+
+##### Sous-section 2 : Obligation d'emploi.
+
+###### Article L328-7
+
+Tout employeur emploie un pourcentage de travailleurs handicapés par rapport à l'effectif total de ses salariés, à temps
+plein ou à temps partiel, fixé par voie réglementaire dans la limite du taux prévu à l'article L. 5512-2 du code du travail
+et en vue d'y parvenir progressivement.
+
+**Nota:**
+
+Conformément à l'article 14 de l'ordonnance n° 2012-788 du 31 mai 2012, l'article L. 328-7 entre en vigueur le 1er janvier
+2013.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+
+	**Cité par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 14 (V)
+	  - Arrêté du 25 mai 2016 - art. 5 (V)
+	  - Code du travail applicable à Mayotte. - art. D328-7 (V)
+	  - Code du travail applicable à Mayotte. - art. L328-17 (V)
+	  - Code du travail applicable à Mayotte. - art. L328-18 (VD)
+	  - Code du travail applicable à Mayotte. - art. L328-4 (VD)
+	  - Code du travail applicable à Mayotte. - art. L328-47 (V)
+	  - Code du travail applicable à Mayotte. - art. L328-9 (VD)
+	  - Code du travail applicable à Mayotte. - art. R328-23 (V)
+	  - Code du travail applicable à Mayotte. - art. R328-46 (V)
+
+
+###### Article L328-8
+
+Dans les entreprises à établissements multiples, l'obligation d'emploi s'applique établissement par établissement.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L328-7 (VD)
+
+
+###### Article L328-9
+
+Toute entreprise qui occupe vingt salariés et plus soit au moment de sa création, soit en raison de l'accroissement de son
+effectif dispose, pour se mettre en conformité avec cette obligation d'emploi, d'un délai déterminé par décret, qui ne peut
+excéder trois ans.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D328-16 (V)
+	  - Code du travail applicable à Mayotte. - art. R328-8 (V)
+
+
+###### Article L328-10
+
+L'employeur fournit à l'association mentionnée à l'article L. 328-45 une déclaration annuelle relative aux emplois occupés
+par les bénéficiaires de l'obligation d'emploi par rapport à l'ensemble des emplois existants. 
+
+Il justifie également qu'il s'est éventuellement acquitté de l'obligation d'emploi selon les modalités prévues aux articles
+L. 328-11 à L. 328-16. 
+
+A défaut de toute déclaration, l'employeur est considéré comme ne satisfaisant pas à l'obligation d'emploi.
+
+**Nota:**
+
+Conformément à l'article 14 de l'ordonnance n° 2012-788 du 31 mai 2012, l'article L. 328-10 entre en vigueur le 1er janvier
+2013.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+
+	**Cité par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 14 (V)
+	  - Arrêté du 25 mai 2016 - art. 5 (V)
+	  - Code du travail applicable à Mayotte. - art. R328-13 (V)
+	  - Code du travail applicable à Mayotte. - art. R328-17 (V)
+	  - Code du travail applicable à Mayotte. - art. R328-8 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L328-11
+
+
+##### Sous-section 3 : Modalités de mise en œuvre de l'obligation.
+
+##### Paragraphe 1 : Mise en œuvre partielle
+
+
+
+###### Article L328-11
+
+L'employeur peut s'acquitter partiellement de l'obligation d'emploi en passant des contrats de fournitures de sous-traitance
+ou de prestations de services avec :
+
+1° Soit des entreprises adaptées ;
+
+2° Soit des centres de distribution de travail à domicile ;
+
+3° Soit des établissements ou services d'aide par le travail.
+
+Cet acquittement partiel est proportionnel au volume de travail fourni à ces ateliers, centres, établissements ou services.
+
+Les modalités et les limites de cet acquittement partiel sont déterminées par voie réglementaire.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D328-19 (V)
+	  - Code du travail applicable à Mayotte. - art. L328-10 (V)
+	  - Code du travail applicable à Mayotte. - art. L328-15 (V)
+	  - Code du travail applicable à Mayotte. - art. L328-17 (V)
+	  - Code du travail applicable à Mayotte. - art. R328-120 (V)
+	  - Code du travail applicable à Mayotte. - art. R328-13 (V)
+	  - Code du travail applicable à Mayotte. - art. R328-14 (V)
+	  - Code du travail applicable à Mayotte. - art. R328-18 (V)
+	  - Code du travail applicable à Mayotte. - art. R328-23 (V)
+	  - Code du travail applicable à Mayotte. - art. R328-46 (V)
+
+
+###### Article L328-12
+
+L'employeur peut s'acquitter partiellement de l'obligation d'emploi en accueillant en stage, dans des conditions fixées par
+un décret précisant la durée minimale de ce stage, des personnes handicapées, dans la limite d'une part de l'effectif total
+des salariés de l'entreprise, fixée par voie réglementaire.
+
+L'ouverture de droits à la prestation de compensation du handicap, à l'allocation compensatrice pour tierce personne ou à
+l'allocation d'éducation de l'enfant handicapé à l'égard des jeunes de plus de seize ans qui disposent d'une convention de
+stage vaut reconnaissance de la qualité de travailleur handicapé. Cette reconnaissance de la qualité de travailleur handicapé
+n'est valable que pendant la durée du stage.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L000-4 (VT)
+	  - Code du travail applicable à Mayotte. - art. L033-4 (V)
+	  - Code du travail applicable à Mayotte. - art. R328-24 (V)
+
+
+##### Paragraphe 2 : Mise en œuvre par application d'un accord
+
+
+
+###### Article L328-13
+
+L'employeur peut s'acquitter de l'obligation d'emploi en faisant application d'un accord de branche, de groupe, d'entreprise
+ou d'établissement agréé prévoyant la mise en œuvre d'un programme annuel ou pluriannuel en faveur des travailleurs
+handicapés.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L545-2 (VD)
+	  - Code du travail applicable à Mayotte. - art. D328-42 (V)
+	  - Code du travail applicable à Mayotte. - art. L328-15 (V)
+	  - Code du travail applicable à Mayotte. - art. L328-21 (V)
+	  - Code du travail applicable à Mayotte. - art. R328-15 (V)
+	  - Code du travail applicable à Mayotte. - art. R328-27 (V)
+	  - Code du travail applicable à Mayotte. - art. R328-28 (V)
+	  - Code du travail applicable à Mayotte. - art. R328-29 (V)
+	  - Code du travail applicable à Mayotte. - art. R328-46 (V)
+
+
+##### Paragraphe 3 : Mise en œuvre par le versement d'une contribution annuelle
+
+
+
+
+###### Article L328-14
+
+L'employeur peut s'acquitter de l'obligation d'emploi en versant au fonds de développement pour l'insertion professionnelle
+des handicapés prévu à l'article L. 328-45 une contribution annuelle pour chacun des bénéficiaires de l'obligation qu'il
+aurait dû employer. 
+
+Le montant de cette contribution peut être modulé en fonction de l'effectif de l'entreprise et des emplois, déterminés par
+décret, exigeant des conditions d'aptitude particulières, occupés par des salariés de l'entreprise. Il tient également compte
+de l'effort consenti par l'entreprise en matière de maintien dans l'emploi ou de recrutement direct des bénéficiaires
+mentionnés à l'article L. 328-18, notamment ceux pour lesquels l'association mentionnée à l'article L. 328-45, a reconnu la
+lourdeur du handicap, ou de ceux rencontrant des difficultés particulières d'accès à l'emploi.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D328-34 (V)
+	  - Code du travail applicable à Mayotte. - art. D328-38 (V)
+	  - Code du travail applicable à Mayotte. - art. D328-43 (V)
+	  - Code du travail applicable à Mayotte. - art. L328-31 (V)
+	  - Code du travail applicable à Mayotte. - art. R328-10 (V)
+	  - Code du travail applicable à Mayotte. - art. R328-13 (V)
+	  - Code du travail applicable à Mayotte. - art. R328-14 (V)
+	  - Code du travail applicable à Mayotte. - art. R328-71 (V)
+	  - Code du travail applicable à Mayotte. - art. R328-72 (V)
+	  - Code du travail applicable à Mayotte. - art. R328-83 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L328-18 (V)
+	  - Code du travail applicable à Mayotte. - art. L328-45 (V)
+
+
+###### Article L328-15
+
+Les modalités de calcul de la contribution annuelle, qui ne peut excéder la limite de 600 fois le salaire minimum
+interprofessionnel garanti par bénéficiaire non employé, sont déterminées par décret. 
+
+Pour les entreprises qui n'ont occupé aucun bénéficiaire de l'obligation d'emploi, n'ont passé aucun contrat prévu à
+l'article L. 328-11 d'un montant supérieur à un montant fixé par décret ou n'appliquent aucun accord collectif mentionné à
+l'article L. 328-13 pendant une période supérieure à trois ans, la limite de la contribution est portée, dans des conditions
+définies par décret, à 1 500 fois le salaire minimum interprofessionnel garanti.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D328-19 (V)
+	  - Code du travail applicable à Mayotte. - art. L328-17 (V)
+	  - Code du travail applicable à Mayotte. - art. R328-14 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L328-11
+	  - Code du travail applicable à Mayotte. - art. L328-13
+
+
+###### Article L328-16
+
+Peuvent être déduites du montant de la contribution annuelle, en vue de permettre à l'employeur de s'acquitter partiellement
+de l'obligation d'emploi, des dépenses supportées directement par l'entreprise et destinées à favoriser l'accueil,
+l'insertion ou le maintien dans l'emploi des travailleurs handicapés au sein de l'entreprise ou l'accès de personnes
+handicapées à la vie professionnelle qui ne lui incombent pas en application d'une disposition législative ou réglementaire. 
+
+L'avantage représenté par cette déduction ne peut se cumuler avec une aide accordée pour le même objet par l'association
+mentionnée à l'article L. 328-45. 
+
+La nature des dépenses mentionnées au premier alinéa ainsi que les conditions dans lesquelles celles-ci peuvent être déduites
+du montant de la contribution sont déterminées par décret.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L328-45 (V)
+
+
+##### Paragraphe 4 : Sanction administrative
+
+
+
+###### Article L328-17
+
+Lorsqu'ils ne satisfont à aucune des obligations définies aux articles L. 328-7 et L. 328-11 à L. 328-16, les employeurs sont
+astreints à titre de pénalité au versement au Trésor public d'une somme dont le montant est égal à celui de la contribution
+instituée par le second alinéa de l'article L. 328-15, majoré de 25 %.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L328-11
+	  - Code du travail applicable à Mayotte. - art. L328-15
+	  - Code du travail applicable à Mayotte. - art. L328-7
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R328-46 (V)
+
+
+##### Sous-section 4 : Bénéficiaires de l'obligation d'emploi
+
+
+
+
+##### Paragraphe 1 : Catégories de bénéficiaires
+
+
+
+###### Article L328-18
+
+Bénéficient de l'obligation d'emploi instituée par l'article L. 328-7 : 
+
+1° Les travailleurs reconnus handicapés par la commission mentionnée à l'article L. 545-2 du code de l'action sociale et des
+familles ; 
+
+2° Les victimes d'accidents du travail ou de maladies professionnelles ayant entraîné une incapacité permanente au moins
+égale à 10 % et titulaires d'une rente attribuée au titre du régime de sécurité sociale de Mayotte ; 
+
+3° Les anciens militaires et assimilés, titulaires d'une pension militaire d'invalidité au titre du code des pensions
+militaires d'invalidité et des victimes de la guerre ; 
+
+4° Les conjoints survivants non remariés titulaires d'une pension au titre du même code, dont le conjoint militaire ou
+assimilé est décédé des suites d'une blessure ou d'une maladie imputable à un service de guerre ou alors qu'il était en
+possession d'un droit à pension militaire d'invalidité d'un taux au moins égal à 85 % ; 
+
+5° Les orphelins de guerre âgés de moins de vingt et un ans et les conjoints survivants non remariés ou les parents
+célibataires, dont respectivement la mère, le père ou l'enfant, militaire ou assimilé, est décédé des suites d'une blessure
+ou d'une maladie imputable à un service de guerre ou alors qu'il était en possession d'un droit à pension d'invalidité d'un
+taux au moins égal à 85 % ; 
+
+6° Les conjoints survivants remariés ayant au moins un enfant à charge issu du mariage avec le militaire ou assimilé décédé,
+lorsque ces conjoints ont obtenu ou auraient été en droit d'obtenir, avant leur remariage, une pension dans les conditions
+prévues au 5° ci-dessus ; 
+
+7° Les conjoints d'invalides internés pour aliénation mentale imputable à un service de guerre, si elles bénéficient de
+l'article L. 124 du code des pensions militaires d'invalidité et des victimes de la guerre ; 
+
+8° Les titulaires de la carte d'invalidité définie à l'article L. 545-3 du code de l'action sociale et des familles ; 
+
+9° Les titulaires de l'allocation pour adulte handicapé prévue aux articles 35 et suivants de l'ordonnance n° 2002-411 du 27
+mars 2002 relative à la protection sanitaire et sociale à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°2002-411 du 27 mars 2002 - art. 35
+	  - Code du travail applicable à Mayotte. - art. L328-7
+	  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L124
+	  - Code de l'action sociale et des familles - art. L545-2
+	  - Code de l'action sociale et des familles - art. L545-3
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D328-2 (V)
+	  - Code du travail applicable à Mayotte. - art. D328-37 (V)
+	  - Code du travail applicable à Mayotte. - art. L328-14 (V)
+	  - Code du travail applicable à Mayotte. - art. L328-26 (VD)
+	  - Code du travail applicable à Mayotte. - art. L328-27 (V)
+	  - Code du travail applicable à Mayotte. - art. R328-24 (V)
+
+
+##### Paragraphe 2 : Calcul du nombre de bénéficiaires
+
+
+
+
+###### Article L328-19
+
+Pour le calcul du nombre de bénéficiaires de l'obligation d'emploi, chaque personne est prise en compte à due proportion de
+son temps de présence dans l'entreprise au cours de l'année civile, quelle que soit la nature ou la durée de son contrat de
+travail, dans la limite d'une unité et dans les conditions suivantes :
+
+a) Les salariés dont la durée de travail est supérieure ou égale à la moitié de la durée légale ou conventionnelle sont
+décomptés dans la limite d'une unité comme s'ils avaient été employés à temps complet ;
+
+b) Les salariés dont la durée de travail est inférieure à la moitié de la durée légale ou conventionnelle sont décomptés dans
+des conditions fixées par décret sans que leur prise en compte puisse dépasser une demi-unité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R328-13 (V)
+
+
+##### Sous-section 5 : Actions en justice
+
+
+###### Article L328-20
+
+Les associations ayant pour objet principal la défense des intérêts des bénéficiaires de la présente section peuvent exercer
+une action civile fondée sur l'inobservation des dispositions de ce même chapitre, lorsque cette inobservation porte un
+préjudice certain à l'intérêt collectif qu'elles représentent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+
+
+##### Sous-section 6 : Dispositions d'application
+
+
+
+###### Article L328-21
+
+Un décret en Conseil d'Etat détermine les modalités d'application de la présente section, notamment les conditions dans
+lesquelles l'accord collectif prévu à l'article L. 328-13 est agréé par l'autorité administrative.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L328-13
+
+
+##### Section 3 : Reconnaissance et orientation des travailleurs handicapés
+
+
+
+
+##### Sous-section 1 : Reconnaissance de la qualité de travailleur handicapé
+
+
+
+###### Article L328-22
+
+Est considérée comme travailleur handicapé toute personne dont les possibilités d'obtenir ou de conserver un emploi sont
+effectivement réduites par suite de l'altération d'une ou plusieurs fonctions physique, sensorielle, mentale ou psychique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+
+
+###### Article L328-23
+
+La qualité de travailleur handicapé est reconnue par la commission mentionnée à l'article L. 545-2 du code de l'action
+sociale et des familles. Cette reconnaissance s'accompagne d'une orientation vers un établissement ou service d'aide par le
+travail, vers le marché du travail ou vers un centre de rééducation professionnelle. L'orientation vers un établissement ou
+service d'aide par le travail, vers le marché du travail ou vers un centre de rééducation professionnelle vaut reconnaissance
+de la qualité de travailleur handicapé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L721-3 (V)
+	  - Code du travail applicable à Mayotte. - art. R721-21 (V)
+	  - Code du travail applicable à Mayotte. - art. R722-2 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L545-2
+
+
+##### Sous-section 2 : Réadaptation, rééducation et formation professionnelle
+
+
+###### Article L328-24
+
+Tout travailleur handicapé peut bénéficier d'une réadaptation, d'une rééducation ou d'une formation professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+
+
+###### Article L328-25
+
+Le travailleur handicapé bénéficie des aides financières accordées aux stagiaires de la formation professionnelle et prévues
+par les chapitres Ier à III du titre II du livre VII, sous réserve d'adaptations à leur situation particulière. 
+
+En outre, le travailleur handicapé peut bénéficier, à l'issue de son stage, de primes destinées à faciliter son reclassement
+dont le montant et les conditions d'attribution sont déterminés par l'association mentionnée à l'article L. 328-45. 
+
+Ces primes ne se cumulent pas avec les primes de même nature dont le travailleur handicapé pourrait bénéficier au titre de la
+législation dont il relève.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L328-45
+
+
+##### Sous-section 3 : Orientation en milieu professionnel
+
+
+
+##### Paragraphe 1 : Droits et garanties des travailleurs handicapés
+
+
+
+###### Article L328-26
+
+Afin de garantir le respect du principe d'égalité de traitement à l'égard des travailleurs handicapés, l'employeur prend, en
+fonction des besoins dans une situation concrète, les mesures appropriées pour permettre aux travailleurs mentionnés aux 1° à
+4° et 9° à 11° de l'article L. 328-18 d'accéder à un emploi ou de conserver un emploi correspondant à leur qualification, de
+l'exercer ou d'y progresser ou pour qu'une formation adaptée à leurs besoins leur soit dispensée. 
+
+Ces mesures sont prises sous réserve que les charges consécutives à leur mise en œuvre ne soient pas disproportionnées,
+compte tenu de l'aide prévue à l'article L. 328-30 qui peuvent compenser en tout ou partie les dépenses supportées à ce titre
+par l'employeur. 
+
+Le refus de prendre des mesures au sens du premier alinéa peut être constitutif d'une discrimination au sens de l'article L.
+000-4.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L000-4
+	  - Code du travail applicable à Mayotte. - art. L328-18
+	  - Code du travail applicable à Mayotte. - art. L328-30
+
+
+###### Article L328-27
+
+Le salaire des bénéficiaires mentionnés à l'article L. 328-18 ne peut être inférieur à celui qui résulte de l'application des
+dispositions légales ou des stipulations de la convention ou de l'accord collectif de travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L328-18
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L328-31 (V)
+	  - Code du travail applicable à Mayotte. - art. L328-41 (V)
+
+
+###### Article L328-28
+
+Les travailleurs handicapés embauchés en application des dispositions de la section 3 ne peuvent, en cas de rechute de
+l'affection invalidante, bénéficier des avantages spéciaux accordés en cas de maladie par un statut particulier ou une
+convention ou accord collectif de travail.
+
+Toutefois, ces statuts ou conventions collectives peuvent prévoir des dérogations aux dispositions mentionnées au premier
+alinéa.
+
+Dans le cas d'accident ou de maladie autre que l'affection invalidante, les intéressés peuvent bénéficier des avantages
+spéciaux dès leur embauche dans les mêmes conditions que les autres membres du personnel.
+
+Lorsque l'affection du travailleur handicapé est dite consolidée, celui-ci peut, s'il est à nouveau atteint de la maladie qui
+était à l'origine de son invalidité, bénéficier des avantages spéciaux mentionnés au premier alinéa à l'expiration d'un délai
+d'un an, à compter de la date de la consolidation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+
+
+###### Article L328-29
+
+En cas de licenciement, la durée du préavis déterminée en application de l'article L. 122-19 est doublée pour les
+bénéficiaires de la présente section, sans toutefois que cette mesure puisse avoir pour effet de porter au-delà de trois mois
+la durée de ce préavis. 
+
+Toutefois, ces dispositions ne sont pas applicables lorsque les contrats de travail, règlements de travail, les conventions
+ou accords collectifs de travail ou, à défaut, les usages prévoient un préavis d'une durée au moins égale à trois mois.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L122-19
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L328-41 (V)
+	  - Code du travail applicable à Mayotte. - art. R328-106 (Ab)
+
+
+##### Paragraphe 2 : Aides financières
+
+
+
+
+###### Article L328-30
+
+L'Etat peut attribuer une aide financière du fonds de développement pour l'insertion professionnelle des handicapés à tout
+employeur soumis à l'obligation d'emploi de travailleurs handicapés afin de faciliter la mise ou la remise au travail en
+milieu ordinaire de production des personnes handicapées.
+
+Cette aide peut également être destinée à compenser les charges supplémentaires d'encadrement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L328-26 (VD)
+	  - Code du travail applicable à Mayotte. - art. R328-65 (V)
+
+
+###### Article L328-31
+
+Pour l'application des dispositions de l'article L. 328-27 relatives au salaire du travailleur handicapé, une aide financée
+par le fonds de développement pour l'insertion professionnelle des handicapés peut être attribuée sur décision de
+l'association mentionnée à l'article L. 328-45. 
+
+Cette aide, demandée par l'employeur, peut être allouée en fonction des caractéristiques des bénéficiaires. 
+
+Elle ne peut être cumulée avec la minoration de la contribution prévue pour l'embauche d'un travailleur mentionnée à
+l'article L. 328-14.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L328-14
+	  - Code du travail applicable à Mayotte. - art. L328-27
+	  - Code du travail applicable à Mayotte. - art. L328-45
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R328-71 (V)
+	  - Code du travail applicable à Mayotte. - art. R328-83 (V)
+
+
+###### Article L328-32
+
+Les travailleurs handicapés qui font le choix d'exercer une activité professionnelle non salariée peuvent bénéficier d'une
+aide du fonds de développement pour l'insertion professionnelle des handicapés lorsque, du fait de leur handicap, leur
+productivité se trouve notoirement diminuée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+
+
+##### Paragraphe 3 : Entreprises adaptées et centres de distribution de travail à domicile
+
+
+
+###### Article L328-33
+
+Les entreprises adaptées et les centres de distribution de travail à domicile peuvent être créés par les collectivités ou
+organismes publics ou privés, notamment par des sociétés commerciales. Pour ces dernières, ils sont constitués en personnes
+morales distinctes. 
+
+Leurs effectifs de production comportent au moins 80 % de travailleurs handicapés orientés vers le marché du travail par la
+commission des personnes handicapées prévue à l'article L. 545-2 du code de l'action sociale et des familles et qui soit sont
+recrutés sur proposition du service public de l'emploi ou d'un organisme de placement spécialisé, soit répondent aux critères
+fixés par arrêté du ministre chargé de l'emploi. 
+
+Les entreprises adaptées et les centres de distribution de travail à domicile permettent à ces salariés d'exercer une
+activité professionnelle dans des conditions adaptées à leurs possibilités. Grâce à l'accompagnement spécifique qu'ils leur
+proposent, ils favorisent la réalisation de leur projet professionnel en vue de la valorisation de leurs compétences, de leur
+promotion et de leur mobilité au sein de la structure elle-même ou vers d'autres entreprises. 
+
+Ils concluent avec l'autorité administrative un contrat d'objectif triennal valant agrément.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+
+	**Cité par**:
+
+	  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 92 (VD)
+	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 61 (VD)
+	  - Code du travail applicable à Mayotte. - art. D328-112 (V)
+	  - Code du travail applicable à Mayotte. - art. L328-39 (V)
+	  - Code du travail applicable à Mayotte. - art. R328-18 (V)
+	  - Code du travail applicable à Mayotte. - art. R328-97 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L545-2
+
+
+###### Article L328-34
+
+Les dispositions du présent code sont applicables aux travailleurs handicapés salariés des entreprises adaptées et des
+centres de distribution de travail à domicile.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+
+
+###### Article L328-35
+
+Le travailleur handicapé employé dans une entreprise adaptée reçoit un salaire fixé compte tenu de l'emploi qu'il occupe et
+de sa qualification par référence aux dispositions légales ou stipulations conventionnelles applicables dans la branche
+d'activité. 
+
+Ce salaire ne peut être inférieur à un minimum fixé par décret par référence au salaire minimum interprofessionnel garanti
+prévu à l'article L. 141-2 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L141-2
+
+
+###### Article L328-36
+
+Un ou plusieurs travailleurs handicapés employés dans une entreprise adaptée peuvent être mis à la disposition provisoire
+d'un autre employeur selon des modalités précisées par décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+
+
+###### Article L328-37
+
+En cas de départ volontaire vers l'entreprise ordinaire, le salarié handicapé démissionnaire bénéficie, au cas où il
+souhaiterait réintégrer l'entreprise adaptée, d'une priorité d'embauche dont les modalités sont déterminées par décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D328-118 (V)
+
+
+###### Article L328-38
+
+Bénéficient de l'ensemble des dispositifs destinés aux entreprises et à leurs salariés les entreprises adaptées et les
+centres de distribution de travail à domicile. 
+
+Toutefois, le bénéfice de ces dispositifs ne peut se cumuler, pour un même poste, ni avec l'aide au poste mentionnée à
+l'article L. 328-39, ni avec aucune aide spécifique portant sur le même objet.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L328-39
+
+
+###### Article L328-39
+
+Les entreprises adaptées et les centres de distribution de travail à domicile perçoivent pour chaque travailleur handicapé
+employé, dès lors que celui-ci remplit les conditions mentionnées à l'article L. 328-33, une aide au poste forfaitaire versée
+par l'Etat, dans la limite d'un effectif de référence fixé annuellement par la loi de finances. 
+
+En outre, compte tenu des surcoûts résultant de l'emploi majoritaire de ces travailleurs handicapés, les entreprises adaptées
+et les centres de distribution de travail à domicile reçoivent de l'Etat une subvention spécifique, destinée notamment au
+suivi social, à l'accompagnement et à la formation spécifique de la personne handicapée, pour favoriser son adaptation à son
+poste de travail. 
+
+Les modalités d'attribution de l'aide au poste et de la subvention spécifique sont précisées par décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D328-109 (V)
+	  - Code du travail applicable à Mayotte. - art. D328-113 (V)
+	  - Code du travail applicable à Mayotte. - art. L328-38 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L328-33
+
+
+##### Sous-section 4 : Autres orientations
+
+
+
+###### Article L328-40
+
+Les personnes handicapées pour lesquelles une orientation sur le marché du travail par la commission des droits et de
+l'autonomie des personnes handicapées mentionnée à l'article L. 545-2 du code de l'action sociale et des familles s'avère
+impossible peuvent être admises dans un établissement ou service d'aide par le travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L545-2
+
+
+##### Sous-section 5 : Actions en justice
+
+
+
+
+
+
+###### Article L328-41
+
+Les associations ayant pour objet principal la défense des intérêts des bénéficiaires de la présente section peuvent exercer
+une action civile fondée sur l'inobservation des dispositions des articles L. 328-27 et L. 328-29 à L. 328-32, lorsque cette
+inobservation porte un préjudice certain à l'intérêt collectif qu'elles représentent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L328-27
+	  - Code du travail applicable à Mayotte. - art. L328-29
+
+
+##### Sous-section 6 : Dispositions d'application
+
+
+
+
+###### Article L328-42
+
+Sauf dispositions contraires, un décret en Conseil d'Etat détermine les modalités d'application de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+
+
+##### Section 4 : Institutions et organismes concourant
+à l'insertion professionnelle des handicapés
+
+
+
+##### Sous-section 1 : Pilotage des politiques en faveur de l'emploi des personnes handicapées
+
+
+
+
+###### Article L328-43
+
+L'Etat assure le pilotage de la politique de l'emploi des personnes handicapées. Il fixe, en lien avec le service public de
+l'emploi, l'association chargée de la gestion du fonds de développement pour l'insertion professionnelle des handicapés et le
+fonds d'insertion des personnes handicapées dans la fonction publique, les objectifs et priorités de cette politique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+
+
+###### Article L328-44
+
+La convention pluriannuelle d'objectifs et de moyens prévue à l'article L. 5214-1 B du code du travail s'applique à Mayotte
+et fait l'objet d'une déclinaison locale sous la forme du plan pour l'insertion des travailleurs handicapés mentionné à
+l'article L. 328-5.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+
+	**Cite**:
+
+	  - Code du travail - art. L5214-1
+	  - Code du travail applicable à Mayotte. - art. L328-5
+
+
+##### Sous-section 2 : Fonds de développement pour l'insertion professionnelle des handicapés
+
+
+
+
+###### Article L328-45
+
+Le fonds de développement pour l'insertion professionnelle des handicapés à Mayotte a pour objet d'accroître les moyens
+consacrés à l'insertion des handicapés en milieu ordinaire de travail. 
+
+La gestion du fonds de développement pour l'insertion professionnelle des handicapés à Mayotte est confiée à l'association
+mentionnée à l'article L. 5214-1 du code du travail. 
+
+Cette association est soumise au contrôle administratif et financier de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+
+	**Cité par**:
+
+	  - Arrêté du 25 mai 2016 - art. 5 (V)
+	  - Décret n°2016-1435 du 25 octobre 2016 - art. 5
+	  - Code du travail applicable à Mayotte. - art. L328-14 (V)
+	  - Code du travail applicable à Mayotte. - art. L328-16 (V)
+	  - Code du travail applicable à Mayotte. - art. L328-25 (V)
+	  - Code du travail applicable à Mayotte. - art. L328-31 (V)
+	  - Code du travail applicable à Mayotte. - art. R328-10 (V)
+	  - Code du travail applicable à Mayotte. - art. R328-11 (V)
+	  - Code du travail applicable à Mayotte. - art. R328-12 (V)
+	  - Code du travail applicable à Mayotte. - art. R328-14 (V)
+	  - Code du travail applicable à Mayotte. - art. R328-15-1 (V)
+	  - Code du travail applicable à Mayotte. - art. R328-15-2 (V)
+	  - Code du travail applicable à Mayotte. - art. R328-15-3 (V)
+	  - Code du travail applicable à Mayotte. - art. R328-24 (V)
+	  - Code du travail applicable à Mayotte. - art. R328-28 (V)
+	  - Code du travail applicable à Mayotte. - art. R328-30 (V)
+	  - Code du travail applicable à Mayotte. - art. R328-45 (V)
+	  - Code du travail applicable à Mayotte. - art. R328-46 (V)
+	  - Code du travail applicable à Mayotte. - art. R328-47 (V)
+	  - Code du travail applicable à Mayotte. - art. R328-71 (V)
+	  - Code du travail applicable à Mayotte. - art. R328-73 (V)
+	  - Code du travail applicable à Mayotte. - art. R328-76 (V)
+	  - Code du travail applicable à Mayotte. - art. R328-8 (V)
+	  - Code du travail applicable à Mayotte. - art. R328-83 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L5214-1
+
+
+###### Article L328-46
+
+Une convention d'objectifs est conclue, tous les trois ans, entre l'Etat et l'association chargée de la gestion du fonds de
+développement pour l'insertion professionnelle des handicapés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+
+
+###### Article L328-47
+
+Les ressources du fonds de développement pour l'insertion professionnelle des handicapés sont destinées à favoriser toutes
+les formes d'insertion professionnelle des handicapés en milieu ordinaire de travail. 
+
+Elles sont affectées notamment : 
+
+1° A la compensation du coût supplémentaire des actions de formation et au financement d'actions d'innovation et de recherche
+dont bénéficient les intéressés dans l'entreprise ; 
+
+2° A des mesures nécessaires à l'insertion et au suivi des travailleurs handicapés dans leur vie professionnelle. 
+
+Les actions définies au présent article peuvent concerner les entreprises non assujetties à l'obligation d'emploi prévue par
+l'article L. 328-7 lorsqu'elles emploient des bénéficiaires de cette obligation, ainsi que les travailleurs handicapés qui
+exercent une activité indépendante.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L328-7
+
+
+##### Sous-section 3 : Organismes de placement spécialisés
+dans l'insertion professionnelle des personnes handicapées
+
+
+
+###### Article L328-48
+
+Des organismes de placement spécialisés, chargés de la préparation, de l'accompagnement et du suivi durable dans l'emploi des
+personnes handicapées, participent au dispositif d'insertion professionnelle et d'accompagnement spécifique prévu pour les
+travailleurs handicapés mis en œuvre par l'Etat, le service public de l'emploi, l'association chargée de la gestion du fonds
+de développement pour l'insertion professionnelle des handicapés et le fonds pour l'insertion professionnelle des personnes
+handicapées dans la fonction publique. 
+
+Ils sont conventionnés à cet effet et peuvent, à cette condition, mobiliser les aides, actions et prestations proposées par
+l'association et le fonds mentionnés au premier alinéa. 
+
+Les organismes de placement spécialisés assurent, en complémentarité avec l'institution mentionnée à l'article L. 326-7, une
+prise en charge adaptée des demandeurs d'emploi bénéficiaires de l'obligation d'emploi dans des conditions définies par une
+convention.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L326-7
+
+
+##### Sous-section 4 : Actions en justice
+
+
+###### Article L328-49
+
+Les associations ayant pour objet principal la défense des intérêts des bénéficiaires de la présente section peuvent exercer
+une action civile fondée sur l'inobservation des dispositions de cette même section, lorsque cette inobservation porte un
+préjudice certain à l'intérêt collectif qu'elles représentent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+
+
+##### Section 5 : Dispositions d'application
+
+
+###### Article L328-50
+
+Un décret en Conseil d'Etat détermine les modalités d'application du présent chapitre, notamment les modalités du contrôle de
+la répartition et de l'utilisation des contributions versées au fonds de développement pour l'insertion professionnelle des
+handicapés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+
 
 ### TITRE III : MAIN-D'OEUVRE ÉTRANGÈRE.
 
