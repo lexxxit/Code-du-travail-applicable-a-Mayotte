@@ -1,157 +1,722 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2012-06-02 00:00:01 +0200
+Version Consolidée au 2012-07-01
 
 # Partie législative
 
 ## LIVRE PRÉLIMINAIRE : DISPOSITIONS GÉNÉRALES.
 
-###### Article L000-1
+### TITRE Ier : CHAMP D'APPLICATION ET CALCUL DES SEUILS D'EFFECTIFS
 
-Le présent code du travail s'applique :
+#### Chapitre unique
 
-1° A tous les salariés exerçant leur activité dans la collectivité départementale ;
+###### Article L011-1
 
-2° A toute personne physique ou morale qui emploie un ou plusieurs de ces salariés.
+I. - Les dispositions du présent code du travail sont applicables aux employeurs de droit privé ainsi qu'à leurs salariés
+sous réserve de l'application à Mayotte d'autres dispositions législatives et réglementaires particulières à certains
+secteurs professionnels, notamment les salariés agricoles, les gens de mer et le personnel navigant aérien. 
 
-Sauf dispositions contraires, il ne s'applique pas aux fonctionnaires ou agents de droit public.
+Elles sont également applicables au personnel des personnes publiques employé dans les conditions du droit privé, sous
+réserve des dispositions particulières ayant le même objet résultant du statut qui régit ce personnel. 
 
-Il ne s'applique pas, non plus, au contrat de travail des salariés des entreprises établies dans les départements de
-métropole ou d'outre-mer ou dans les Etats de l'Union européenne envoyés à Mayotte par celles-ci dans le cadre d'une
-prestation de services pour une durée n'excédant pas vingt-quatre mois.
+Toutefois, les dispositions du présent code relatives au contrat de travail ne s'appliquent pas aux salariés des entreprises
+établies dans les départements de métropole ou d'outre-mer ou dans les Etats de l'Union européenne envoyés à Mayotte par
+celles-ci dans le cadre d'une prestation de services pour une durée n'excédant pas vingt-quatre mois. Les autres dispositions
+du présent code s'appliquent sous réserve de l'application du deuxième alinéa du II. 
 
-Sous réserve des dispositions du présent article, tout contrat de travail conclu pour être exécuté à Mayotte est soumis aux
-dispositions du présent code, quels que soient le lieu de sa conclusion et la résidence ou le lieu du siège social de l'une
-ou l'autre des parties.
+II. - Tout contrat de travail conclu pour être exécuté à Mayotte est soumis aux dispositions du présent code, quels que
+soient le lieu de sa conclusion et la résidence ou le lieu du siège social de l'une ou l'autre des parties. 
 
 Les dispositions du présent code ne portent pas atteinte aux stipulations des contrats individuels de travail plus favorables
-pour les salariés dans la mesure où elles ne sont pas contraires aux dispositions d'ordre public du présent code.
+pour les salariés dans la mesure où elles ne sont pas contraires aux dispositions d'ordre public du présent code. 
 
-Est nulle ou de nul effet toute clause de juridiction incluse dans un contrat de travail.
-
-Les marins sont également soumis aux dispositions applicables à Mayotte du titre IV du livre V de la cinquième partie du code
-des transports. 
-
-Le personnel navigant aérien est également soumis aux dispositions des chapitres III et V du titre II du livre V de la
-sixième partie du code des transports. 
-
-Le titre Ier du livre III de la première partie du code des transports est également applicable à Mayotte
+Toute clause attributive de juridiction incluse dans un contrat de travail est nulle et de nul effet.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°91-246 du 25 février 1991
-	  - Loi n°91-1379 du 28 décembre 1991
-
-	**Modifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 14 (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. L128-1 (V)
-	  - Code du travail applicable à Mayotte. - art. L211-1 (V)
-	  - Code du travail applicable à Mayotte. - art. L327-1 (V)
-	  - Code du travail applicable à Mayotte. - art. L610-11 (V)
-
-
-###### Article L000-2
-
-L'entreprise qui a son siège social ou son établissement principal dans la collectivité départementale de Mayotte et qui
-effectue une prestation de services dans un département rémunère les salariés qu'elle y envoie selon des dispositions des
-conventions collectives étendues qui s'appliquent dans ce département. A défaut, elle les rémunère au salaire minimum de
-croissance applicable dans ce département.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 du 28 décembre 1991
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
-
-
-###### Article L000-3
-
-Par dérogation aux dispositions des 4° et 5° de l'article 3 de la loi n° 2001-616 du 11 juillet 2001 relative à Mayotte, les
-sanctions pénales ainsi que les dispositions de procédure pénale figurant au code du travail applicable dans les départements
-de métropole et d'outre-mer ne trouvent pas effet à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Cite**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 3
 
 	**Créé par**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 2 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
 
-	**Abrogé par**:
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L128-1 (VD)
+	  - Code du travail applicable à Mayotte. - art. L211-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L610-11 (V)
+
+
+###### Article L011-2
+
+L'entreprise qui a son siège social ou son établissement principal à Mayotte et qui effectue une prestation de services dans
+un département de métropole ou d'outre-mer rémunère les salariés qu'elle y envoie selon des dispositions des conventions
+collectives étendues qui s'appliquent dans ce département. A défaut, elle les rémunère au salaire minimum de croissance ou au
+salaire minimum garanti applicable dans ce département.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
 
 	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
 
 
-###### Article L000-4
+###### Article L011-3
 
-Pour l'offre d'emploi, l'embauche et les relations de travail, ne peuvent être pris en considération l'origine, le statut
-civil, le sexe, les moeurs, l'orientation sexuelle, l'âge, l'état de grossesse, la situation de famille, les caractéristiques
-génétiques, l'appartenance ou la non-appartenance, vraie ou supposée, à une ethnie, une nation ou une race, les opinions
-politiques, les activités syndicales ou mutualistes, les convictions religieuses, l'apparence physique, le patronyme ou
-l'état de santé ou le handicap. 
-
-Les différences de traitement fondées sur l'inaptitude constatée par le médecin du travail en raison de l'état de santé ou du
-handicap ne constituent pas une discrimination lorsqu'elles sont objectives, nécessaires et appropriées. 
-
-Les mesures prises en faveur des personnes handicapées et visant à favoriser l'égalité de traitement, prévues à l'article L.
-328-12, ne constituent pas une discrimination. 
-
-Toute disposition ou tout acte contraire à l'égard d'un salarié est nul de plein droit.
+Les sanctions pénales ainsi que les dispositions de procédure pénale figurant au code du travail ne s'appliquent pas à
+Mayotte.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Ordonnance n°2008-859 du 28 août 2008 - art. 7
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
 
-	**Abrogé par**:
+
+###### Article L011-4
+
+Pour la mise en œuvre des dispositions du présent code, les effectifs de l'entreprise sont calculés conformément aux
+dispositions suivantes : 
+
+1° Les salariés titulaires d'un contrat à durée indéterminée à temps plein sont pris intégralement en compte dans l'effectif
+de l'entreprise ; 
+
+2° Les salariés titulaires d'un contrat à durée déterminée, les travailleurs mis à la disposition de l'entreprise par une
+entreprise extérieure qui sont présents dans les locaux de l'entreprise utilisatrice et y travaillent depuis au moins un an
+sont pris en compte dans l'effectif de l'entreprise au prorata de leur temps de présence au cours des douze mois précédents.
+Toutefois, les salariés titulaires d'un contrat à durée déterminée ou mis à disposition par une entreprise extérieure sont
+exclus du décompte des effectifs lorsqu'ils remplacent un salarié absent ou dont le contrat de travail est suspendu ; 
+
+3° Les salariés à temps partiel, quelle que soit la nature de leur contrat de travail, sont pris en compte en divisant la
+somme totale des horaires inscrits dans leur contrat de travail par la durée légale ou la durée conventionnelle du travail.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°98-247 du 2 avril 1998 - art. 29 (VD)
+	  - Décret n°2013-140 du 14 février 2013 - art. 4 (VD)
+	  - Décret n°2016-1122 du 11 août 2016 - art. 1 (V)
+	  - Code du travail applicable à Mayotte. - art. D328-39 (V)
+	  - Code du travail applicable à Mayotte. - art. L238-1 (VD)
+	  - Code du travail applicable à Mayotte. - art. L431-2 (V)
+	  - Code du travail applicable à Mayotte. - art. L433-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L441-3 (V)
+	  - Code du travail applicable à Mayotte. - art. L443-1 (V)
+	  - Code du travail applicable à Mayotte. - art. R011-1 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+
+###### Article L011-5
+
+Ne sont pas pris en compte dans le calcul des effectifs de l'entreprise : 
+
+1° Les apprentis ; 
+
+2° Les titulaires d'un contrat initiative-emploi, pendant la durée de la convention prévue à l'article L. 322-28 ; 
+
+3° Les titulaires d'un contrat d'accompagnement dans l'emploi pendant la durée de la convention mentionnée à l'article L.
+322-7 ; 
+
+4° Les titulaires d'un contrat de formation en alternance jusqu'au terme prévu par le contrat lorsque celui-ci est à durée
+déterminée ou jusqu'à la fin de l'action de professionnalisation lorsque le contrat est à durée indéterminée. 
+
+Toutefois, ces salariés sont pris en compte pour l'application des dispositions légales relatives à la tarification des
+risques d'accidents du travail et de maladies professionnelles.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°98-247 du 2 avril 1998 - art. 29 (VD)
+	  - Décret n°2016-1122 du 11 août 2016 - art. 1 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-28
+	  - Code du travail applicable à Mayotte. - art. L322-7
+
+
+### TITRE II : DROITS ET LIBERTÉS DANS L'ENTREPRISE
+
+#### Chapitre unique
+
+###### Article L021-1
+
+Nul ne peut apporter aux droits des personnes et aux libertés individuelles et collectives de restrictions qui ne seraient
+pas justifiées par la nature de la tâche à accomplir ni proportionnées au but recherché.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+
+### TITRE III :  DISCRIMINATIONS
+
+#### Chapitre Ier : Champ d'application
+
+###### Article L031-1
+
+Les dispositions du présent titre sont applicables aux employeurs de droit privé ainsi qu'à leurs salariés. 
+
+Elles sont également applicables au personnel des personnes publiques employé dans les conditions du droit privé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+
+#### Chapitre II : Principe de non-discrimination
+
+###### Article L032-1
+
+Aucune personne ne peut être écartée d'une procédure de recrutement ou de l'accès à un stage ou à une période de formation en
+entreprise, aucun salarié ne peut être sanctionné, licencié ou faire l'objet d'une mesure discriminatoire, directe ou
+indirecte, telle que définie à l'article 1er de la loi n° 2008-496 du 27 mai 2008 portant diverses dispositions d'adaptation
+au droit communautaire dans le domaine de la lutte contre les discriminations, notamment en matière de rémunération, au sens
+de l'article L. 140-3, de formation, de reclassement, d'affectation, de qualification, de classification, de promotion
+professionnelle, de mutation ou de renouvellement de contrat en raison de son origine, de son sexe, de ses mœurs, de son
+orientation sexuelle, de son âge, de sa situation de famille ou de sa grossesse, de ses caractéristiques génétiques, de son
+appartenance ou de sa non-appartenance, vraie ou supposée, à une ethnie, une nation ou une race, de ses opinions politiques,
+de ses activités syndicales ou mutualistes, de ses convictions religieuses, de son apparence physique, de son nom de famille
+ou en raison de son état de santé ou de son handicap ou encore de son statut civil.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2008-496 du 27 mai 2008 - art. 1
+	  - Code du travail applicable à Mayotte. - art. L140-3
+
+	**Créé par**:
 
 	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
 
 	**Cité par**:
 
-	  - Code du travail applicable à Mayotte. - art. L000-6 (VT)
+	  - Code du travail applicable à Mayotte. - art. L032-2 (V)
+	  - Code du travail applicable à Mayotte. - art. L032-3 (VD)
+	  - Code du travail applicable à Mayotte. - art. L033-1 (VD)
 	  - Code du travail applicable à Mayotte. - art. L326-16 (V)
-	  - Code du travail applicable à Mayotte. - art. L328-12 (VD)
 	  - Code du travail applicable à Mayotte. - art. L328-26 (V)
+	  - Code du travail applicable à Mayotte. - art. L414-1 (V)
+	  - Code du travail applicable à Mayotte. - art. R326-22 (V)
 
 
-###### Article L000-5
+###### Article L032-2
+
+Aucun salarié ne peut être sanctionné, licencié ou faire l'objet d'une mesure discriminatoire mentionnée à l'article L. 032-1
+en raison de l'exercice normal du droit de grève.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L032-1 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L032-3 (VD)
+
+
+###### Article L032-3
+
+Aucun salarié ne peut être sanctionné, licencié ou faire l'objet d'une mesure discriminatoire pour avoir témoigné des
+agissements définis aux articles L. 032-1 et L. 032-2 ou pour les avoir relatés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L032-1
+	  - Code du travail applicable à Mayotte. - art. L032-2
+
+
+###### Article L032-4
+
+Toute disposition ou tout acte pris à l'égard d'un salarié en méconnaissance des dispositions du présent chapitre est nul.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+
+#### Chapitre III : Différences de traitement autorisées
+
+###### Article L033-1
+
+L'article L. 032-1 ne fait pas obstacle aux différences de traitement, lorsqu'elles répondent à une exigence professionnelle
+essentielle et déterminante et pour autant que l'objectif soit légitime et l'exigence proportionnée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L032-1
+
+
+###### Article L033-2
+
+Les différences de traitement fondées sur l'âge ne constituent pas une discrimination lorsqu'elles sont objectivement et
+raisonnablement justifiées par un but légitime, notamment par le souci de préserver la santé ou la sécurité des travailleurs,
+de favoriser leur insertion professionnelle, d'assurer leur emploi, leur reclassement ou leur indemnisation en cas de perte
+d'emploi, et lorsque les moyens de réaliser ce but sont nécessaires et appropriés. 
+
+Ces différences peuvent notamment consister en : 
+
+1° L'interdiction de l'accès à l'emploi ou la mise en place de conditions de travail spéciales en vue d'assurer la protection
+des jeunes et des travailleurs âgés ; 
+
+2° La fixation d'un âge maximum pour le recrutement, fondée sur la formation requise pour le poste concerné ou la nécessité
+d'une période d'emploi raisonnable avant la retraite.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+
+###### Article L033-3
+
+Les différences de traitement fondées sur l'inaptitude constatée par le médecin du travail en raison de l'état de santé ou du
+handicap ne constituent pas une discrimination lorsqu'elles sont objectives, nécessaires et appropriées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+
+###### Article L033-4
+
+Les mesures prises en faveur des personnes handicapées et visant à favoriser l'égalité de traitement prévues à l'article L.
+328-12 ne constituent pas une discrimination.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L328-12
+
+
+#### Chapitre IV : Actions en justice
+
+###### Article L034-1
+
+Lorsque survient un litige en raison d'une méconnaissance des dispositions du chapitre II, le candidat à un emploi, à un
+stage ou à une période de formation en entreprise ou le salarié présente des éléments de fait laissant supposer l'existence
+d'une discrimination directe ou indirecte, telle que définie à l'article 1er de la loi n° 2008-496 du 27 mai 2008 portant
+diverses dispositions d'adaptation au droit communautaire dans le domaine de la lutte contre les discriminations. 
+
+Au vu de ces éléments, il incombe à la partie défenderesse de prouver que sa décision est justifiée par des éléments
+objectifs étrangers à toute discrimination. 
+
+Le juge forme sa conviction après avoir ordonné, en cas de besoin, toutes les mesures d'instruction qu'il estime utiles.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2008-496 du 27 mai 2008 - art. 1
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L034-2 (VD)
+	  - Code du travail applicable à Mayotte. - art. L034-3 (VD)
+
+
+###### Article L034-2
+
+Les organisations syndicales représentatives au niveau national, au niveau départemental ou dans l'entreprise peuvent exercer
+en justice toutes les actions résultant de l'application des dispositions du chapitre II. 
+
+Elles peuvent exercer ces actions en faveur d'un candidat à un emploi, à un stage ou une période de formation en entreprise,
+ou d'un salarié, dans les conditions prévues par l'article L. 034-1. 
+
+L'organisation syndicale n'a pas à justifier d'un mandat de l'intéressé. Il suffit que celui-ci ait été averti par écrit de
+cette action et ne s'y soit pas opposé dans un délai de quinze jours à compter de la date à laquelle l'organisation syndicale
+lui a notifié son intention d'agir. 
+
+L'intéressé peut toujours intervenir à l'instance engagée par le syndicat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L034-1
+
+
+###### Article L034-3
+
+Les associations régulièrement constituées depuis cinq ans au moins pour la lutte contre les discriminations ou œuvrant dans
+le domaine du handicap peuvent exercer en justice toutes actions résultant de l'application des dispositions du chapitre II. 
+
+Elles peuvent exercer ces actions en faveur d'un candidat à un emploi, à un stage ou une période de formation en entreprise,
+ou d'un salarié, dans les conditions prévues à l'article L. 034-1, sous réserve de justifier d'un accord écrit de
+l'intéressé. 
+
+L'intéressé peut toujours intervenir à l'instance engagée par l'association et y mettre un terme à tout moment.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L034-1
+
+
+###### Article L034-4
+
+Est nul et de nul effet le licenciement d'un salarié faisant suite à une action en justice engagée par ce salarié ou en sa
+faveur, sur le fondement des dispositions du chapitre II, lorsqu'il est établi que le licenciement n'a pas de cause réelle et
+sérieuse et constitue en réalité une mesure prise par l'employeur en raison de cette action en justice. Dans ce cas, la
+réintégration est de droit et le salarié est regardé comme n'ayant jamais cessé d'occuper son emploi. 
+
+Lorsque le salarié refuse de poursuivre l'exécution du contrat de travail, la juridiction du travail compétente lui alloue : 
+
+1° Une indemnité ne pouvant être inférieure aux salaires des six derniers mois ; 
+
+2° Une indemnité correspondant à l'indemnité de licenciement prévue par l'article L. 122-22 du présent code par la convention
+ou l'accord collectif applicable ou le contrat de travail. 
+
+Le juge ordonne également le remboursement par l'employeur fautif à l'organisme gestionnaire du régime d'assurance chômage de
+tout ou partie des indemnités de chômage versées au salarié licencié, du jour de son licenciement au jour du jugement
+prononcé, dans la limite de six mois d'indemnités. Ce remboursement est ordonné d'office lorsque l'organisme intéressé n'est
+pas intervenu à l'audience ou n'a pas fait connaître le montant des indemnités versées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L122-22
+
+
+###### Article L034-5
+
+L'action en réparation du préjudice résultant d'une discrimination se prescrit par cinq ans à compter de la révélation de la
+discrimination. 
+
+Ce délai n'est pas susceptible d'aménagement conventionnel. 
+
+Les dommages et intérêts réparent l'entier préjudice résultant de la discrimination, pendant toute sa durée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+
+### TITRE V : HARCÈLEMENTS
+
+#### Chapitre Ier : Champ d'application
+
+###### Article L051-1
+
+Les dispositions du présent titre sont applicables aux employeurs de droit privé ainsi qu'à leurs salariés. 
+
+Elles sont également applicables au personnel des personnes publiques employé dans les conditions du droit privé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+
+#### Chapitre II : Harcèlement moral
+
+###### Article L052-1
+
+Aucun salarié ne doit subir les agissements répétés de harcèlement moral qui ont pour objet ou pour effet une dégradation de
+ses conditions de travail susceptibles de porter atteinte à ses droits et à sa dignité, d'altérer sa santé physique ou
+mentale ou de compromettre son avenir professionnel.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L052-3 (V)
+	  - Code du travail applicable à Mayotte. - art. L054-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L054-2 (V)
+	  - Code du travail applicable à Mayotte. - art. L055-2 (V)
+	  - Code du travail applicable à Mayotte. - art. L055-3 (Ab)
+
+
+###### Article L052-2
+
+Aucun salarié ne peut être sanctionné, licencié ou faire l'objet d'une mesure discriminatoire, directe ou indirecte,
+notamment en matière de rémunération, de formation, de reclassement, d'affectation, de qualification, de classification, de
+promotion professionnelle, de mutation ou de renouvellement de contrat pour avoir subi ou refusé de subir des agissements
+répétés de harcèlement moral ou pour avoir témoigné de tels agissements ou les avoir relatés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L055-2 (V)
+
+
+###### Article L052-3
+
+Toute rupture du contrat de travail intervenue en méconnaissance des dispositions des articles L. 052-1 et L. 052-2, toute
+disposition ou tout acte contraire est nul.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L052-1 (V)
+
+
+###### Article L052-4
+
+L'employeur prend toutes dispositions nécessaires en vue de prévenir les agissements de harcèlement moral.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+
+###### Article L052-5
+
+Tout salarié ayant procédé à des agissements de harcèlement moral est passible d'une sanction disciplinaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+
+###### Article L052-6
+
+Une procédure de médiation peut être mise en œuvre par toute personne de l'entreprise s'estimant victime de harcèlement moral
+ou par la personne mise en cause. 
+
+Le choix du médiateur fait l'objet d'un accord entre les parties. 
+
+Le médiateur s'informe de l'état des relations entre les parties. Il tente de les concilier et leur soumet des propositions
+qu'il consigne par écrit en vue de mettre fin au harcèlement. 
+
+Lorsque la conciliation échoue, le médiateur informe les parties des éventuelles sanctions encourues et des garanties
+procédurales prévues en faveur de la victime.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L055-1 (V)
+
+
+#### Chapitre IV : Actions en justice
+
+###### Article L054-1
+
+Lorsque survient un litige relatif à l'application des articles L. 052-1 à L. 052-3, le candidat à un emploi, à un stage ou à
+une période de formation en entreprise où le salarié établit des faits qui permettent de présumer l'existence d'un
+harcèlement. 
+
+Au vu de ces éléments, il incombe à la partie défenderesse de prouver que ces agissements ne sont pas constitutifs d'un tel
+harcèlement et que sa décision est justifiée par des éléments objectifs étrangers à tout harcèlement. 
+
+Le juge forme sa conviction après avoir ordonné, en cas de besoin, toutes les mesures d'instruction qu'il estime utiles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L052-1 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L054-2 (V)
+
+
+###### Article L054-2
+
+Les organisations syndicales représentatives dans l'entreprise peuvent exercer en justice toutes les actions résultant des
+articles L. 052-1 à L. 052-3. 
+
+Elles peuvent exercer ces actions en faveur d'un salarié de l'entreprise dans les conditions prévues par l'article L. 054-1,
+sous réserve de justifier d'un accord écrit de l'intéressé. 
+
+L'intéressé peut toujours intervenir à l'instance engagée par le syndicat et y mettre fin à tout moment.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L052-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L054-1 (V)
+
+
+#### Chapitre V : Dispositions pénales
+
+###### Article L055-1
+
+Le fait de porter ou de tenter de porter atteinte à l'exercice régulier des fonctions de médiateur, prévues à l'article L.
+052-6, est puni d'un emprisonnement d'un an et d'une amende de 3 750 €.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L052-6 (V)
+
+
+###### Article L055-2
+
+Les faits de harcèlement moral, définis à l'article L. 052-1, sont punis d'un emprisonnement d'un an et d'une amende de 15
+000 €. 
+
+La juridiction peut également ordonner, à titre de peine complémentaire, l'affichage du jugement aux frais de la personne
+condamnée dans les conditions prévues à l'article 131-35 du code pénal et son insertion, intégrale ou par extraits, dans les
+journaux qu'elle désigne. Ces frais ne peuvent excéder le montant maximum de l'amende encourue.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°99-752 du 30 août 1999 - art. 22-1 (VT)
+	  - Décret n°2015-1693 du 17 décembre 2015 - art. 4
+	  - Code des transports - art. R3521-2 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+	**Cite**:
+
+	  - Code pénal - art. 131-35
+	  - Code du travail applicable à Mayotte. - art. L052-1 (V)
+
+
+###### Article L055-3
+
+Les dispositions des articles 132-58 à 132-62 du code pénal relatives à l'ajournement du prononcé de la peine sont
+applicables dans le cas de poursuites pour infraction aux dispositions de l'article L. 052-1. 
+
+La juridiction peut ordonner l'exécution provisoire de sa décision.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+	**Abrogé par**:
+
+	  - Loi n°2012-954 du 6 août 2012 - art. 9
+
+	**Cite**:
+
+	  - Code pénal - art. 132-58 (V)
+	  - Code du travail applicable à Mayotte. - art. L052-1 (V)
+
+
+###### Article L055-4
+
+A l'audience de renvoi, la juridiction apprécie s'il y a lieu de prononcer une dispense de peine.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+	**Abrogé par**:
+
+	  - Loi n°2012-954 du 6 août 2012 - art. 9
+
+
+### TITRE VI : CORRUPTION ET VIOLATION   DES SECRETS DE FABRIQUE
+
+#### Chapitre unique
+
+###### Article L061-1
 
 Aucune personne ne peut être écartée d'une procédure de recrutement ou de l'accès à un stage ou à une période de formation en
 entreprise, aucun salarié ne peut être sanctionné, licencié ou faire l'objet d'une mesure discriminatoire, directe ou
 indirecte, notamment en matière de rémunération, de formation, de reclassement, d'affectation, de qualification, de
 classification, de promotion professionnelle, de mutation ou de renouvellement de contrat pour avoir relaté ou témoigné, de
-bonne foi, soit à son employeur, soit aux autorités judiciaires ou administratives, de faits de corruption dont il aurait eu
-connaissance dans l'exercice de ses fonctions.
+bonne foi, soit à son employeur, soit aux autorités judiciaires ou administratives des faits de corruption dont il aurait eu
+connaissance dans l'exercice de ses fonctions. 
 
-Toute rupture du contrat de travail qui en résulterait, toute disposition ou tout acte contraire est nul de plein droit.
+Toute rupture du contrat de travail qui en résulterait, toute disposition ou tout acte contraire est nul de plein droit. 
 
 En cas de litige relatif à l'application des deux premiers alinéas, dès lors que le salarié concerné ou le candidat à un
 recrutement, à un stage ou à une période de formation en entreprise établit des faits qui permettent de présumer qu'il a
@@ -161,42 +726,28 @@ conviction après avoir ordonné, en cas de besoin, toutes les mesures d'instruc
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
 	**Créé par**:
-
-	  - Loi n°2007-1598 du 13 novembre 2007 - art. 9 () JORF 14 novembre 2007
-
-	**Abrogé par**:
 
 	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
 
 
-###### Article L000-6
+###### Article L061-2
 
-Les associations régulièrement constituées depuis cinq ans au moins pour la lutte contre les discriminations, ou œuvrant dans
-le domaine du handicap, peuvent exercer en justice toutes actions résultant de l'application de l'article L. 000-4. 
+Le fait pour un directeur ou un salarié de révéler ou de tenter de révéler un secret de fabrication est puni d'un
+emprisonnement de deux ans et d'une amende de 30 000 €. 
 
-Elles peuvent exercer ces actions en faveur d'un candidat à un emploi, à un stage ou une période de formation en entreprise
-ou d'un salarié de l'entreprise, sous réserve qu'elles justifient d'un accord écrit de l'intéressé. Celui-ci peut toujours
-intervenir à l'instance engagée par l'association et y mettre un terme à tout moment.
+La juridiction peut également prononcer, à titre de peine complémentaire, pour une durée de cinq ans au plus, l'interdiction
+des droits civiques, civils et de famille prévus par l'article 131-26 du code pénal.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Ordonnance n°2008-859 du 28 août 2008 - art. 7
-
-	**Abrogé par**:
-
 	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L000-4
+	  - Code pénal - art. 131-26
 
 
 ## LIVRE Ier : CONVENTIONS RELATIVES AU TRAVAIL
@@ -3535,27 +4086,35 @@ professionnelle, survenue ou contractée au service d'un autre employeur.
 	  - Code du travail applicable à Mayotte. - art. L143-14 (M)
 
 
-##### Section 8 : Règlement intérieur, protection des salariés et droit disciplinaire
-
-##### Sous-section 1 : Règlement intérieur.
+##### Section 8 : Congé pour la création d'entreprise.
 
 ###### Article L122-67
 
-L'établissement d'un règlement intérieur est obligatoire pour tout employeur occupant habituellement au moins vingt salariés.
+Le salarié a droit, dans les conditions fixées à la présente section, à un congé pour la création d'entreprise s'il se
+propose de créer ou de reprendre une entreprise industrielle, commerciale, artisanale ou agricole soit à titre individuel,
+soit sous la forme d'une société commerciale ou coopérative, à condition d'en exercer effectivement le contrôle. 
 
-Des dispositions spéciales peuvent être établies pour une catégorie de personnel ou une division de l'entreprise ou de
-l'établissement.
+La durée de ce congé, pendant lequel le contrat de travail est suspendu, est fixée à un an. Elle peut être portée à deux ans
+dans les conditions fixées à l'article L. 122-69.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L122-69
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. L122-79 (VT)
 
 	**Cité par**:
 
@@ -3565,363 +4124,6 @@ l'établissement.
 
 
 ###### Article L122-68
-
-Le règlement intérieur est un document écrit par lequel l'employeur fixe exclusivement :
-
-- les mesures d'application de la réglementation en matière d'hygiène et de sécurité dans l'entreprise ou l'établissement ;
-
-- les règles générales et permanentes relatives à la discipline, et notamment la nature et l'échelle des sanctions que peut
-prendre l'employeur.
-
-Il énonce également les dispositions relatives aux droits de la défense des salariés, résultant, le cas échéant, de la
-convention collective applicable.
-
-Le règlement intérieur doit être écrit en français.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. L122-71 (VD)
-
-
-###### Article L122-69
-
-Le règlement intérieur ne peut contenir de clauses contraires aux lois et règlements, ainsi qu'aux dispositions des
-conventions et accords collectifs de travail applicables dans l'entreprise ou l'établissement. Il ne peut apporter aux droits
-des personnes et aux libertés individuelles et collectives des restrictions qui ne seraient pas justifiées par la nature de
-la tâche à accomplir ni proportionnées au but recherché.
-
-Il ne peut comporter de dispositions lésant les salariés dans leur emploi ou leur travail, en raison de leur sexe, de leurs
-moeurs, de leur situation de famille, de leurs origines, de leurs opinions ou confessions, ou de leur handicap, à capacité
-professionnelle égale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. L122-67 (VD)
-	  - Code du travail applicable à Mayotte. - art. L122-70 (VD)
-	  - Code du travail applicable à Mayotte. - art. L122-71 (VD)
-
-
-###### Article L122-70
-
-Le règlement intérieur ne peut être introduit qu'après avoir été soumis à l'avis des représentants du personnel lorsqu'il en
-existe dans l'entreprise.
-
-Le règlement intérieur doit indiquer la date à partir de laquelle il entre en vigueur. Cette date doit être postérieure d'un
-mois à l'accomplissement des formalités de dépôt et de publicité.
-
-En même temps qu'il fait l'objet des mesures de publicité, le règlement intérieur, accompagné de l'avis des représentants du
-personnel, est communiqué à l'inspecteur du travail, sauf dans le cas où il concerne les administrations, collectivités et
-établissements mentionnés à l'article L. 610-3.
-
-Les dispositions prévues aux alinéas précédents sont applicables en cas de modification ou de retrait des clauses du
-règlement intérieur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. L122-71 (VD)
-	  - Code du travail applicable à Mayotte. - art. R122-12 (Ab)
-	  - Code du travail applicable à Mayotte. - art. R122-13 (Ab)
-	  - Code du travail applicable à Mayotte. - art. R122-14 (Ab)
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L610-3 (M)
-
-
-###### Article L122-71
-
-L'inspecteur du travail peut à tout moment exiger le retrait ou la modification des dispositions contraires aux articles L.
-122-68 et L. 122-69.
-
-Cette décision, motivée, est notifiée à l'employeur et communiquée, pour information, aux représentants du personnel.
-
-Lorsque, à l'occasion d'un litige individuel, le juge du contrat de travail écarte l'application d'une clause contraire aux
-articles L. 122-68 et L. 122-69, une copie du jugement est adressée par le secrétariat-greffe à l'inspecteur du travail et
-aux représentants du personnel mentionnés au premier alinéa de l'article L. 122-70.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L122-68 (M)
-	  - Code du travail applicable à Mayotte. - art. L122-69 (M)
-	  - Code du travail applicable à Mayotte. - art. L122-70 (M)
-
-
-###### Article L122-72
-
-La décision de l'inspecteur du travail ou du fonctionnaire assimilé peut faire l'objet dans les deux mois d'un recours auprès
-du directeur du travail, de l'emploi et de la formation professionnelle à Mayotte.
-
-La décision du directeur du travail, de l'emploi et de la formation professionnelle à Mayotte est notifiée à l'employeur et
-communiquée pour information aux représentants du personnel.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°91-246 du 25 février 1991
-	  - Loi n°91-1379 du 28 décembre 1991
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
-
-
-##### Sous-section 2 : Protection des salariés et droit disciplinaire.
-
-###### Article L122-73
-
-Constitue une sanction toute mesure, autre que les observations verbales, prise par l'employeur à la suite d'un agissement du
-salarié considéré par lui comme fautif, que cette mesure soit de nature à affecter immédiatement ou non la présence du
-salarié dans l'entreprise, sa fonction, sa carrière ou sa rémunération.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°91-246 du 25 février 1991
-	  - Loi n°91-1379 du 28 décembre 1991
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. L151-4 (Ab)
-
-
-###### Article L122-74
-
-Aucune sanction ne peut être infligée au salarié sans que celui-ci soit informé dans le même temps et par écrit des griefs
-retenus contre lui.
-
-Lorsque l'employeur envisage de prendre une sanction, il doit convoquer le salarié en lui indiquant l'objet de la
-convocation, sauf si la sanction envisagée est un avertissement ou une sanction de même nature qui n'a pas d'incidence,
-immédiate ou non, sur la présence dans l'entreprise, la fonction, la carrière ou la rémunération du salarié. Au cours de
-l'entretien, le salarié peut se faire assister par une personne de son choix appartenant au personnel de l'entreprise ;
-l'employeur indique le motif de la sanction envisagée et recueille les explications du salarié. La sanction ne peut
-intervenir moins d'un jour franc ni plus d'un mois après le jour fixé pour l'entretien. Elle doit être motivée et notifiée à
-l'intéressé.
-
-Lorsque l'agissement du salarié a rendu indispensable une mesure conservatoire de mise à pied à effet immédiat, aucune
-sanction définitive, relative à cet agissement, ne peut être prise sans que la procédure prévue à l'alinéa précédent ait été
-observée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 du 28 décembre 1991
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. R122-16 (Ab)
-	  - Code du travail applicable à Mayotte. - art. R122-17 (Ab)
-	  - Code du travail applicable à Mayotte. - art. R122-18 (Ab)
-
-
-###### Article L122-75
-
-Les amendes ou autres sanctions pécuniaires sont interdites.
-
-Toute disposition ou stipulation contraire est réputée non écrite.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
-
-
-###### Article L122-76
-
-En cas de litige, la juridiction du travail apprécie la régularité de la procédure suivie et si les reproches au salarié sont
-de nature à justifier une sanction. L'employeur doit fournir à la juridiction les éléments qu'il a retenus pour prendre la
-sanction. Au vu de ces éléments et de ceux qui peuvent être fournis par le salarié à l'appui de ses allégations, la
-juridiction forme sa conviction après avoir ordonné, en cas de besoin, toutes les mesures d'instruction qu'elle estime
-utiles. Si un doute subsiste, il profite au salarié.
-
-La juridiction du travail peut annuler une sanction irrégulière en la forme ou injustifiée ou disproportionnée à la faute
-commise.
-
-Les dispositions des alinéas précédents ne sont pas applicables en cas de licenciement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°91-246 du 25 février 1991
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
-
-
-###### Article L122-77
-
-Aucun fait fautif ne peut donner lieu à lui seul à l'engagement de poursuites disciplinaires au-delà d'un délai de deux mois
-à compter du jour où l'employeur en a eu connaissance, à moins que ce fait ait donné lieu dans le même délai à l'exercice de
-poursuites pénales.
-
-Aucune sanction antérieure de plus de trois ans à l'engagement des poursuites disciplinaires ne peut être invoquée à l'appui
-d'une nouvelle sanction.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°91-246 du 25 février 1991
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. R122-16 (Ab)
-	  - Code du travail applicable à Mayotte. - art. R122-18 (Ab)
-
-
-###### Article L122-78
-
-Aucun salarié ne peut être sanctionné ou licencié en raison de son origine, de son sexe, de ses moeurs, de sa situation de
-famille, de son appartenance à une ethnie, une nation ou une race, de ses opinions politiques, de ses activités syndicales ou
-mutualistes, de l'exercice normal du droit de grève ou de ses convictions religieuses ou, sauf inaptitude constatée par le
-médecin chargé de la surveillance médicale au travail dans le cadre du titre IV du livre II du présent code, en raison de son
-état de santé ou de son handicap. Toute disposition ou tout acte contraire est nul de plein droit.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
-
-
-##### Section 9 : Congé pour la création d'entreprise.
-
-###### Article L122-79
-
-Le salarié a droit, dans les conditions fixées à la présente section, à un congé pour la création d'entreprise s'il se
-propose de créer ou de reprendre une entreprise industrielle, commerciale, artisanale ou agricole soit à titre individuel,
-soit sous la forme d'une société commerciale ou coopérative, à condition d'en exercer effectivement le contrôle.
-
-La durée de ce congé, pendant lequel le contrat de travail est suspendu, est fixée à un an. Elle peut être portée à deux ans
-dans les conditions fixées à l'article L. 122-81.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2012-792 du 7 juin 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. L122-67 (VD)
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L122-81
-
-
-###### Article L122-80
 
 Le droit au congé pour la création d'entreprise est ouvert au salarié qui, à la date du départ en congé, justifie d'une
 ancienneté dans l'entreprise d'au moins trente-six mois, consécutifs ou non.
@@ -3935,18 +4137,18 @@ ancienneté dans l'entreprise d'au moins trente-six mois, consécutifs ou non.
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
-	**Liens**:
+	**Cité par**:
 
-	  - TRANSFERE: Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+	  - Code du travail applicable à Mayotte. - art. L122-71 (VD)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du travail applicable à Mayotte. - art. L122-68 (VD)
+	  - Code du travail applicable à Mayotte. - art. L122-80 (VT)
 
 
-###### Article L122-81
+###### Article L122-69
 
 Le salarié informe son employeur, par lettre recommandée avec demande d'avis de réception, au moins trois mois à l'avance, de
 la date de départ en congé qu'il a choisie ainsi que la durée envisagée de ce congé.
@@ -3965,26 +4167,23 @@ demande d'avis de réception, au moins trois mois avant le terme de la première
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2012-792 du 7 juin 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. L122-69 (VD)
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
 	**Cité par**:
 
-	  - Code du travail applicable à Mayotte. - art. L122-79 (VT)
-	  - Code du travail applicable à Mayotte. - art. L122-82 (VT)
+	  - Code du travail applicable à Mayotte. - art. L122-67 (VD)
+	  - Code du travail applicable à Mayotte. - art. L122-70 (VD)
+	  - Code du travail applicable à Mayotte. - art. L122-71 (VD)
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. L122-81 (VT)
 
 
-###### Article L122-82
+###### Article L122-70
 
 L'employeur a la faculté de différer le départ en congé, dans la limite de six mois qui courent à compter de la présentation
-de la lettre recommandée mentionnée au premier alinéa de l'article L. 122-81.
+de la lettre recommandée mentionnée au premier alinéa de l'article L. 122-69.
 
 **Liens relatifs à cet article**
 
@@ -3995,22 +4194,25 @@ de la lettre recommandée mentionnée au premier alinéa de l'article L. 122-81.
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2012-792 du 7 juin 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. L122-70 (VD)
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L122-81
+	  - Code du travail applicable à Mayotte. - art. L122-69
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L122-71 (VD)
+	  - Code du travail applicable à Mayotte. - art. R122-12 (Ab)
+	  - Code du travail applicable à Mayotte. - art. R122-13 (Ab)
+	  - Code du travail applicable à Mayotte. - art. R122-14 (Ab)
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. L122-82 (VT)
 
 
-###### Article L122-83
+###### Article L122-71
 
 A l'issue du congé, le salarié retrouve son précédent emploi ou un emploi similaire assorti d'une rémunération au moins
 équivalente. Le salarié ne peut invoquer aucun droit à être réemployé avant l'expiration du congé.
@@ -4032,111 +4234,17 @@ réadaptation professionnelle en tant que de besoin.
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2012-792 du 7 juin 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. L122-71 (VD)
-
-
-#### CHAPITRE III : Egalité professionnelle entre les femmes et les hommes.
-
-###### Article L123-1
-
-Sous réserve des dispositions particulières du présent code et sauf si l'appartenance à l'un ou l'autre sexe est la condition
-déterminante de l'exercice d'un emploi ou d'une activité professionnelle, nul ne peut :
-
-a) Mentionner ou faire mentionner dans une offre d'emploi, quels que soient les caractères du contrat de travail envisagé, ou
-dans toute autre forme de publicité relative à une embauche, le sexe ou la situation de famille du candidat recherché ;
-
-b) Refuser d'embaucher une personne, prononcer une mutation, résilier ou refuser de renouveler le contrat de travail d'un
-salarié en considération du sexe ou de la situation de famille ou sur la base de critères de choix différents selon le sexe
-ou la situation de famille ;
-
-c) Prendre en considération du sexe toute mesure, notamment en matière de rémunération, de formation, d'affectation, de
-qualification, de classification, de promotion professionnelle ou de mutation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. L151-1 (V)
-
-
-###### Article L123-2
-
-Aucune clause réservant le bénéfice d'une mesure quelconque à un ou des salariés en considération du sexe ne peut à peine de
-nullité être insérée dans une convention collective de travail, à moins que ladite clause n'ait pour objet l'application des
-dispositions des articles L. 122-45 à L. 122-51.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°91-246 du 25 février 1991
-	  - Loi n°91-1379 du 28 décembre 1991
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
 	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte.
+	  - Code du travail applicable à Mayotte. - art. L122-68
+	  - Code du travail applicable à Mayotte. - art. L122-69
+	  - Code du travail applicable à Mayotte. - art. L122-70
 
+	**Anciens textes**:
 
-###### Article L123-3
-
-Est nul et de nul effet le licenciement d'un salarié faisant suite à une action en justice engagée par ce salarié ou en sa
-faveur sur la base des dispositions du présent code relatives à l'égalité professionnelle entre les hommes et les femmes,
-lorsqu'il est établi que le licenciement n'a pas de cause réelle et sérieuse et constitue en réalité une mesure prise par
-l'employeur à raison de l'action en justice. En ce cas, la réintégration est de droit et le salarié est regardé comme n'ayant
-jamais cessé d'occuper son emploi.
-
-Si le salarié refuse de poursuivre l'exécution du contrat de travail, la juridiction du travail lui alloue une indemnité qui
-ne peut être inférieure aux salaires des six derniers mois. De plus, le salarié bénéficie également d'une indemnité
-correspondant à l'indemnité de licenciement prévue par l'article L. 122-22 ou par la convention ou l'accord collectif
-applicable ou le contrat de travail.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°91-246 du 25 février 1991
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L122-22
+	  - Code du travail applicable à Mayotte. - art. L122-83 (VT)
 
 
 #### CHAPITRE IV : Marchandage.
@@ -4219,14 +4327,14 @@ l'entrepreneur, une action directe contre le chef d'entreprise pour qui le trava
 ###### Article L124-3
 
 Toute opération à but lucratif ayant pour objet exclusif le prêt de main-d'oeuvre est interdite sous peine des sanctions
-prévues à l'article L. 152-1.
+prévues à l'article L. 124-4.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Cité par**:
 
@@ -4243,107 +4351,42 @@ prévues à l'article L. 152-1.
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L124-4
 
 
-#### CHAPITRE V : Cautionnements.
+###### Article L124-4
 
-###### Article L125-1
+Toute infraction aux dispositions des articles L. 124-1 et L. 124-3 est punie d'une amende de 3 750 euros. La récidive est
+punie d'une amende de 7500 euros et d'un emprisonnement de six mois ou de l'une de ces deux peines seulement. 
 
-Tout chef d'entreprise qui, à titre de cautionnement, se fait remettre des sommes d'argent en espèces ou des titres par un
-salarié, doit en délivrer récépissé.
+Le tribunal peut prononcer, en outre, l'interdiction d'exercer l'activité de sous-entrepreneur de main-d'oeuvre pour une
+durée de deux ans à dix ans. 
+
+Sont passibles d'une amende de 6000 euros et d'un emprisonnement de six mois ou de l'une de ces deux peines seulement ceux
+qui, directement ou par personne interposée, contreviennent à l'interdiction prononcée en application de l'alinéa qui
+précède. 
+
+Dans tous les cas, le tribunal peut ordonner, aux frais de la personne condamnée, l'affichage du jugement aux portes des
+établissements de l'entreprise et sa publication dans les journaux qu'il désigne.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L124-1
 
 	**Cité par**:
 
-	  - Code du travail applicable à Mayotte. - art. R153-1 (V)
-
-
-###### Article L125-2
-
-Tout cautionnement doit être mis en dépôt dans le délai d'un mois à dater de sa réception par l'employeur. Ce dernier doit
-tenir un certificat de dépôt à la disposition de l'inspecteur du travail.
-
-Le représentant de l'Etat à Mayotte fixe par arrêté les modalités de ce dépôt ainsi que la liste des caisses publiques et des
-banques habilitées à le recevoir. Ces établissements doivent accepter ce dépôt et délivrer un livret spécial, distinct de
-celui que le travailleur pourrait posséder déjà ou acquérir ultérieurement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. R145-21 (V)
-	  - Code du travail applicable à Mayotte. - art. R153-1 (V)
-
-
-###### Article L125-3
-
-Le retrait de tout ou partie du dépôt ne peut être effectué que sous le double consentement de l'employeur et du travailleur,
-ou sous celui de l'un d'eux habilité à cet effet par une décision de la juridiction compétente.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
-
-
-###### Article L125-4
-
-L'affectation du livret ou du dépôt au cautionnement de l'intéressé entraîne privilège sur les sommes déposées au profit de
-l'employeur et à l'égard des tiers qui formeraient des saisies-arrêts aux mains de ce dernier. Toute saisie-arrêt formée
-entre les mains de l'administration de la caisse publique ou de la banque est nulle de plein droit.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°91-246 du 25 février 1991
-	  - Loi n°91-1379 du 28 décembre 1991
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+	  - Code du travail applicable à Mayotte. - art. L124-3 (VD)
+	  - Code du travail applicable à Mayotte. - art. L127-13 (V)
 
 
 #### CHAPITRE VI : Groupements d'employeurs.
@@ -4567,6 +4610,29 @@ toujours intervenir dans l'instance.
 	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
+###### Article L126-8
+
+Toute infraction aux dispositions des articles L. 126-1, L. 126-2 et L. 126-3 est punie d'une amende de 3750 euros. La
+récidive est punie d'une amende de 7 500 euros et d'un emprisonnement de six mois ou de l'une de ces deux peines seulement. 
+
+Dans tous les cas, le tribunal peut ordonner, aux frais de la personne condamnée, l'affichage du jugement à la porte du siège
+du groupement et aux portes des entreprises utilisatrices et sa publication dans les journaux qu'il désigne.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L126-1
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. L154-1 (VT)
+
+
 #### CHAPITRE VII : Associations intermédiaires.
 
 ###### Article L127-1
@@ -4610,44 +4676,44 @@ L'activité de l'association intermédiaire est réputée non lucrative au regar
 Il est créé un titre de travail simplifié pour assurer la rémunération et pour la déclaration en vue du paiement des
 cotisations sociales :
 
-- des personnes employées par les entreprises, employeurs et organismes mentionnés à l'article L. 000-1 occupant moins de
+- des personnes employées par les entreprises, employeurs et organismes mentionnés à l'article L. 011-1 occupant moins de
 onze salariés ;
 
-- des personnes effectuant des travaux et services au domicile des particuliers.
+- des personnes effectuant des travaux et services au domicile des particuliers. 
 
 L'activité de ces personnes est réputée être salariée. Si elle excède, pour la même personne, dans la même entreprise, cent
 jours, consécutifs ou non, par année civile, le contrat de travail est réputé être à durée indéterminée à compter du premier
-jour de dépassement de cette limite.
+jour de dépassement de cette limite. 
 
 Le titre de travail simplifié ne peut être utilisé qu'avec l'accord du salarié. Il se substitue à la remise du bulletin de
-paie prévu par l'article L. 143-3. L'entreprise est tenue de procéder à une déclaration nominative préalable à l'embauche,
-auprès de la caisse de prévoyance sociale.
+paie prévu par l'article L. 143-7. L'entreprise est tenue de procéder à une déclaration nominative préalable à l'embauche,
+auprès de la caisse de prévoyance sociale. 
 
 L'employeur et le salarié qui utilisent le titre de travail simplifié sont réputés satisfaire aux obligations mises à la
 charge de l'un ou de l'autre par l'article L. 122-4, ainsi qu'aux déclarations au titre de la médecine du travail et du
-régime des prestations mentionnées à l'article L. 327-1.
+régime des prestations mentionnées à l'article L. 327-1. 
 
 La rémunération portée sur le titre de travail simplifié inclut une indemnité de congés payés dont le montant est égal à un
 dixième de la rémunération. Lorsque le contrat de travail est à durée indéterminée, les dispositions des articles L. 223-1 à
-L. 223-12 restent applicables.
+L. 223-27 restent applicables. 
 
 Les titres de travail simplifiés sont émis et délivrés par les établissements de crédit ou par les institutions ou services
 du Trésor public, des services financiers de la Poste, de l'institut d'émission des départements d'outre-mer, de l'institut
-d'émission d'outre-mer ou de la Caisse des dépôts et consignations, qui ont passé convention avec l'Etat.
+d'émission d'outre-mer ou de la Caisse des dépôts et consignations, qui ont passé convention avec l'Etat. 
 
 Les cotisations sociales d'origine légale ou conventionnelle imposées par la loi dues au titre des rémunérations versées aux
 salariés visés au présent article sont calculées sur une base forfaitaire réduite et font l'objet d'un versement unique à la
 caisse de prévoyance sociale. Nonobstant les dispositions de l'article 12 du décret n° 57-245 du 24 février 1957 sur la
 réparation et la prévention des accidents du travail et des maladies professionnelles dans les territoires d'outre-mer, le
 taux de la cotisation due au titre des accidents du travail et des maladies professionnelles est fixé par arrêté,
-uniformément, quelle que soit la catégorie de risques dont relève l'établissement.
+uniformément, quelle que soit la catégorie de risques dont relève l'établissement. 
 
 Par dérogation, ces cotisations peuvent être calculées, d'un commun accord entre l'employeur et le salarié, sur les
 rémunérations réellement versées au salarié. Elles sont calculées sur les rémunérations réellement versées au salarié dans le
-cas d'un contrat à durée indéterminée.
+cas d'un contrat à durée indéterminée. 
 
 Les modalités de gestion et de répartition de ce versement unique font l'objet d'un accord entre les organismes concernés
-avant le 1er juillet 2004. A défaut d'accord à cette date, ces modalités sont fixées par arrêté interministériel.
+avant le 1er juillet 2004. A défaut d'accord à cette date, ces modalités sont fixées par arrêté interministériel. 
 
 Les modalités d'applications du présent article sont déterminées par décret en Conseil d'Etat.
 
@@ -4655,21 +4721,21 @@ Les modalités d'applications du présent article sont déterminées par décret
 
 	**Cite**:
 
-	  - Décret n°57-245 1957-02-24 art. 12
-	  - Code du travail applicable à Mayotte L000-1, L143-3, L122-4, L327-1, L223-1 à L223-12
-	  - Code du travail applicable à Mayotte. - art. L000-1 (M)
-	  - Code du travail applicable à Mayotte. - art. L122-4 (M)
-	  - Code du travail applicable à Mayotte. - art. L143-3 (M)
-	  - Code du travail applicable à Mayotte. - art. L327-1 (V)
+	  - Décret n°57-245 du 24 février 1957 - art. 12
+	  - Code du travail applicable à Mayotte. - art. L011-1
+	  - Code du travail applicable à Mayotte. - art. L122-4
+	  - Code du travail applicable à Mayotte. - art. L143-7
+	  - Code du travail applicable à Mayotte. - art. L223-1
+	  - Code du travail applicable à Mayotte. - art. L327-1
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-660 du 21 juillet 2003 - art. 14 (V) JORF 22 juillet 2003
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
 	**Cité par**:
 
@@ -4737,12 +4803,12 @@ catégories professionnelles intéressées. L'accord collectif traite un ou des 
 
 La convention ou l'accord collectif de travail est un acte, écrit à peine de nullité, qui est conclu entre :
 
-- d'une part, une ou plusieurs organisations syndicales de salariés reconnues représentatives au sens de l'article L. 412-3
+- d'une part, une ou plusieurs organisations syndicales de salariés reconnues représentatives au sens de l'article L. 412-1
 du présent code ou qui sont affiliées auxdites organisations ou qui ont fait la preuve de leur représentativité dans le champ
 d'application de la convention ou de l'accord ;
 
 - d'autre part, une ou plusieurs organisations syndicales d'employeurs ou tout autre groupement d'employeurs, ou un ou
-plusieurs employeurs pris individuellement.
+plusieurs employeurs pris individuellement. 
 
 Les associations d'employeurs constituées conformément aux dispositions de la loi du 1er juillet 1901, qui ont compétence
 pour négocier des conventions et accords collectifs, sont assimilées aux organisations syndicales pour les attributions
@@ -4750,14 +4816,19 @@ conférées à celles-ci par le présent titre.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Loi du 1er juillet 1901
+	  - Code du travail applicable à Mayotte. - art. L412-1
+
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 4 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
 	**Cité par**:
 
@@ -4770,11 +4841,6 @@ conférées à celles-ci par le présent titre.
 	  - Code du travail applicable à Mayotte. - art. L132-25 (V)
 	  - Code du travail applicable à Mayotte. - art. L132-26 (V)
 	  - Code du travail applicable à Mayotte. - art. L132-7 (V)
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L412-3 (M)
-	  - Loi n°1901-07-01
 
 
 ###### Article L132-2-1
@@ -5527,6 +5593,23 @@ l'agrément.
 	  - Code du travail applicable à Mayotte. - art. R136-4 (V)
 
 
+###### Article L132-28
+
+L'employeur qui se soustrait à l'obligation prévue à l'article L. 132-25 est passible des peines fixées par l'article L.
+413-27 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L132-25
+	  - Code du travail applicable à Mayotte. - art. L413-27 (V)
+
+
 #### CHAPITRE III : Conventions et accords susceptibles d'être étendus et procédures d'extension et d'élargissement
 
 ##### Section 1 : Conventions et accords susceptibles d'être étendus.
@@ -5897,6 +5980,19 @@ arrêté.
 	**Modifié par**:
 
 	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+
+###### Article L133-11
+
+Lorsque, en application d'une disposition législative expresse dans une matière déterminée, une convention ou un accord
+collectif de travail étendu déroge à des dispositions légales, les infractions aux stipulations dérogatoires sont punies des
+sanctions qu'entraîne la violation des dispositions légales en cause.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
 
 #### CHAPITRE IV : Conventions et accords collectifs de travail dans les entreprises publiques et établissements publics à caractère industriel et commercial.
@@ -7182,26 +7278,41 @@ Les procurations ci-dessus sont soumises au droit de timbre et d'enregistrement.
 	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-#### CHAPITRE VI : Règles particulières au contrôle et à la répartition des pourboires.
+### TITRE IV : SALAIRES ET AVANTAGES DIVERS
+
+#### CHAPITRE PRÉLIMINAIRE : Egalité de rémunération entre les hommes et les femmes.
+
+#### CHAPITRE Ier : Salaire minimum interprofessionnel garanti *SMIG*.
+
+#### CHAPITRE II : Heures supplémentaires.
+
+#### CHAPITRE III : Paiement du salaire
+
+#### CHAPITRE IV : Retenues sur le salaire.
+
+#### CHAPITRE V : Saisie-arrêt et cession de rémunérations dues par un employeur.
+
+#### CHAPITRE VI : Economats.
 
 ###### Article L146-1
 
-Dans tous les établissements commerciaux où existe la pratique du pourboire, toutes les perceptions faites pour le service
-par tout employeur sous forme de pourcentage obligatoirement ajouté aux notes des clients ou autrement, ainsi que toutes
-sommes remises volontairement par les clients pour le service entre les mains de l'employeur ou centralisées par lui, doivent
-être intégralement versées au personnel en contact avec la clientèle et à qui celle-ci avait coutume de les remettre
-directement.
+Il est interdit à tout employeur : 
+
+1° D'annexer à son établissement un économat destiné à la vente, directe ou indirecte, aux salariés et à leurs familles de
+denrées ou marchandises de quelque nature que ce soit ; 
+
+2° D'imposer au salarié l'obligation de dépenser tout ou partie de leur salaire dans des magasins désignés par lui.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
 	**Cité par**:
 
@@ -7214,39 +7325,11 @@ directement.
 
 ###### Article L146-2
 
-Les sommes mentionnées à l'article précédent ne doivent pas être confondues avec le salaire fixe ni lui être substituées,
-sauf dans le cas où un salaire minimum a été garanti par l'employeur.
+L'interdiction prévue à l'article L. 146-1 ne vise pas les cas suivants : 
 
-**Liens relatifs à cet article**
+1° Lorsque le contrat de travail stipule que le salarié logé et nourri reçoit en outre un salaire déterminé en argent ; 
 
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. R156-3 (Ab)
-
-
-#### CHAPITRE VII : Economats.
-
-###### Article L147-1
-
-Il est interdit à tout employeur :
-
-1° D'annexer à son établissement un économat destiné à la vente, directe ou indirecte, aux salariés et à leurs familles de
-denrées ou marchandises de quelque nature que ce soit ;
-
-2° D'imposer à ses salariés l'obligation de dépenser tout ou partie de leur salaire dans des magasins désignés par lui.
-
-Cette interdiction ne vise ni le cas où le contrat de travail stipule que le salarié logé et nourri reçoit en outre un
-salaire déterminé en argent, ni celui où pour l'exécution d'un contrat de travail, l'employeur cède au salarié des
-fournitures à prix coûtant.
+2° Lorsque, pour l'exécution d'un contrat de travail, l'employeur cède au salarié des fournitures à prix coûtant.
 
 **Liens relatifs à cet article**
 
@@ -7257,15 +7340,30 @@ fournitures à prix coûtant.
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
 	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L146-1
 
 	**Cité par**:
 
-	  - Code du travail applicable à Mayotte. - art. L156-3 (Ab)
+	  - Code du travail applicable à Mayotte. - art. R156-3 (Ab)
+
+
+###### Article L146-3
+
+Le fait de méconnaître les dispositions de l'article L. 146-1, relatives aux économats, est puni d'une amende de 3 750 €.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L146-1
 
 
 ### TITRE V : PÉNALITÉS
@@ -7450,36 +7548,6 @@ l'article 408, paragraphe premier, du code pénal.
 	**Cité par**:
 
 	  - Code du travail applicable à Mayotte. - art. R520-1 (V)
-
-
-#### CHAPITRE IV : Groupements d'employeurs.
-
-###### Article L154-1
-
-Toute infraction aux dispositions des articles L. 126-1, L. 126-2 et L. 126-3 est punie d'une amende de 3750 euros. La
-récidive est punie d'une amende de 7500 euros et d'un emprisonnement de six mois ou de l'une de ces deux peines seulement.
-
-Dans tous les cas, le tribunal peut ordonner, aux frais de la personne condamnée, l'affichage du jugement à la porte du siège
-du groupement et aux portes des entreprises utilisatrices et sa publication dans les journaux qu'il désigne.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°91-246 du 25 février 1991
-	  - Loi n°91-1379 du 28 décembre 1991
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2012-792 du 7 juin 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. L126-8 (VD)
 
 
 #### CHAPITRE V : Conventions et accords collectifs de travail.
@@ -7710,24 +7778,24 @@ ses propres ouvriers ou employés et sous les mêmes sanctions.
 ###### Article L211-1
 
 Sous réserve de ce qui est dit à la deuxième phrase de l'article L. 113-3 les enfants de l'un et l'autre sexe ne peuvent être
-ni employés ni admis à aucun titre dans les établissements dépendant des employeurs visés à l'article L. 000-1 avant l'âge de
-seize ans.
+ni employés ni admis à aucun titre dans les établissements dépendant des employeurs visés à l'article L. 011-1 avant l'âge de
+seize ans. 
 
 Les dispositions de l'alinéa précédent ne font pas obstacle à ce que les élèves qui suivent un enseignement alterné
-accomplissent des stages d'initiation ou d'application en milieu professionnel à partir de quatorze ans.
+accomplissent des stages d'initiation ou d'application en milieu professionnel à partir de quatorze ans. 
 
 Ces stages ne peuvent être effectués qu'auprès d'entreprises commerciales ou artisanales ou de petites ou moyennes
-entreprises ayant fait l'objet d'un agrément.
+entreprises ayant fait l'objet d'un agrément. 
 
 Ces dispositions ne font pas non plus obstacle à ce que les adolescents de plus de quatorze ans effectuent des travaux légers
 pendant leurs vacances scolaires à condition que soit assuré aux intéressés un repos effectif d'une durée au moins égale à la
 moitié de chaque période de congé. Les employeurs sont tenus d'adresser une déclaration préalable à l'inspecteur du travail
-qui dispose d'un délai de huit jours pour notifier son désaccord éventuel.
+qui dispose d'un délai de huit jours pour notifier son désaccord éventuel. 
 
 Des arrêtés du représentant de l'Etat à Mayotte régleront les modalités d'application de l'alinéa précédent, notamment la
 nature des travaux, la durée de la période pendant laquelle ils pourront être effectués ainsi que, en tant que de besoin, les
 conditions particulières dans lesquelles sera assurée la couverture en matière d'accidents du travail ou de maladies
-professionnelles des jeunes gens concernés par ledit alinéa.
+professionnelles des jeunes gens concernés par ledit alinéa. 
 
 Les limitations et interdictions résultant du présent article sont également applicables dans les professions et entreprises
 agricoles. Des dérogations pourront toutefois être accordées dans des conditions fixées par arrêté du représentant de l'Etat
@@ -7739,12 +7807,12 @@ tuteur, salariés dans la même entreprise.
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 3
 
 	**Cité par**:
 
@@ -7755,8 +7823,8 @@ tuteur, salariés dans la même entreprise.
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L000-1 (M)
-	  - Code du travail applicable à Mayotte. - art. L113-3 (M)
+	  - Code du travail applicable à Mayotte. - art. L011-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L113-3
 
 
 ###### Article L211-2
@@ -9728,17 +9796,17 @@ d'absence de :
 - quatre jours pour le mariage du salarié ;
 
 - trois jours pour chaque naissance survenue à son foyer ou pour l'arrivée d'un enfant placé en vue de son adoption ; ces
-jours d'absence ne peuvent se cumuler avec les congés accordés pour ce même enfant en vertu des articles L. 122-46 et
-L.-122-47 ;
+jours d'absence ne peuvent se cumuler avec les congés accordés pour ce même enfant en vertu des articles L. 122-46 et L.
+122-47 ;
 
 - deux jours pour le décès d'un conjoint ou d'un enfant ;
 
 - un jour pour le mariage d'un enfant ;
 
-- un jour pour le décès du père ou de la mère.
+- un jour pour le décès du père ou de la mère. 
 
-Ces jours d'absence ne peuvent venir en déduction du congé annuel visé à l'article L. 223-2 et n'entraînent pas de réduction
-de la rémunération.
+Ces jours d'absence ne peuvent venir en déduction du congé annuel visé à l'article L. 223-3 et n'entraînent pas de réduction
+de la rémunération. 
 
 Ils sont assimilés à des jours de travail effectif pour la détermination de la durée du congé annuel.
 
@@ -9746,17 +9814,17 @@ Ils sont assimilés à des jours de travail effectif pour la détermination de l
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 3
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L122-46 (M)
-	  - Code du travail applicable à Mayotte. - art. L223-2 (M)
+	  - Code du travail applicable à Mayotte. - art. L122-46
+	  - Code du travail applicable à Mayotte. - art. L223-3
 
 
 #### CHAPITRE V : Congés non rémunérés
@@ -11446,20 +11514,20 @@ sont fixées par décret en Conseil d'Etat.
 
 Des comités d'hygiène, de sécurité et des conditions de travail sont constitués dans les établissements mentionnés à
 l'article L. 231-1 occupant au moins cinquante salariés. L'effectif est calculé suivant les modalités définies à l'article L.
-620-8.
+011-4. 
 
 La mise en place d'un comité d'hygiène, de sécurité et des conditions de travail ne s'impose que si l'effectif d'au moins
 cinquante salariés a été atteint pendant douze mois consécutifs ou non au cours des trois années précédentes. A défaut de
 comité d'hygiène, de sécurité et des conditions de travail dans les établissements de cinquante salariés et plus, les
 délégués du personnel de ces établissements ont les mêmes missions et moyens que les membres desdits comités ; ils sont
-également soumis aux mêmes obligations.
+également soumis aux mêmes obligations. 
 
 Dans les établissements de moins de cinquante salariés, les délégués du personnel sont investis des missions dévolues aux
 membres du comité d'hygiène, de sécurité et des conditions de travail qu'ils exercent dans le cadre des moyens prévus à
-l'article L. 434-1. Ils sont également soumis aux mêmes obligations.
+l'article L. 434-1. Ils sont également soumis aux mêmes obligations. 
 
 Les entreprises de moins de cinquante salariés peuvent se regrouper sur un plan professionnel ou interprofessionnel en vue de
-la constitution d'un comité d'hygiène, de sécurité et des conditions de travail.
+la constitution d'un comité d'hygiène, de sécurité et des conditions de travail. 
 
 Dans la branche d'activité du bâtiment et des travaux publics, les dispositions du présent article s'appliquent aux
 établissements occupant habituellement au moins cinquante salariés.
@@ -11468,18 +11536,18 @@ Dans la branche d'activité du bâtiment et des travaux publics, les disposition
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 3
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L231-1 (V)
-	  - Code du travail applicable à Mayotte. - art. L434-1 (V)
-	  - Code du travail applicable à Mayotte. - art. L620-8 (M)
+	  - Code du travail applicable à Mayotte. - art. L011-4
+	  - Code du travail applicable à Mayotte. - art. L231-1
+	  - Code du travail applicable à Mayotte. - art. L434-1
 
 	**Cité par**:
 
@@ -12714,16 +12782,16 @@ prévenir les accidents imminents ou organiser les mesures de sauvetage.
 
 Est réputé travail dissimulé par dissimulation d'activité l'exercice à but lucratif d'une activité de production, de
 transformation, de réparation ou de prestation de services ou l'accomplissement d'actes de commerce par toute personne
-physique ou morale qui, se soustrayant intentionnellement à ses obligations :
+physique ou morale qui, se soustrayant intentionnellement à ses obligations : 
 
 a) N'a pas requis son immatriculation au répertoire des métiers ou au registre du commerce et des sociétés, lorsque celle-ci
-est obligatoire, ou a poursuivi son activité après refus d'immatriculation, ou postérieurement à une radiation ;
+est obligatoire, ou a poursuivi son activité après refus d'immatriculation, ou postérieurement à une radiation ; 
 
 b) Ou n'a pas procédé aux déclarations qui doivent être faites aux organismes de protection sociale ou à l'administration
-fiscale au titre de son activité professionnelle, en vertu des dispositions législatives et réglementaires en vigueur.
+fiscale au titre de son activité professionnelle, en vertu des dispositions législatives et réglementaires en vigueur. 
 
 Est réputé travail dissimulé par dissimulation d'emploi salarié le fait, pour tout employeur, de se soustraire
-intentionnellement à l'accomplissement de l'une des formalités prévues aux articles L. 143-3 et L. 311-1.
+intentionnellement à l'accomplissement de l'une des formalités prévues aux articles L. 143-7 et L. 311-1. 
 
 La mention sur le bulletin de paie d'un nombre d'heures de travail inférieur à celui réellement effectué constitue, si cette
 mention ne résulte pas d'une convention ou d'un accord conclu en application du chapitre II du titre Ier du livre II du
@@ -12733,8 +12801,8 @@ présent code, une dissimulation d'emploi salarié.
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Cité par**:
 
@@ -12757,12 +12825,12 @@ présent code, une dissimulation d'emploi salarié.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 12 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 4 (V)
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L143-3 (M)
-	  - Code du travail applicable à Mayotte. - art. L311-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L143-7 (VT)
+	  - Code du travail applicable à Mayotte. - art. L311-1 (V)
 
 
 ###### Article L312-3
@@ -12911,15 +12979,15 @@ tous documents détenus dans ses locaux nécessaires à l'accomplissement de leu
 ###### Article L312-7
 
 Toute personne condamnée pour avoir recouru directement ou par personne interposée aux services de celui qui exerce un
-travail dissimulé est tenue solidairement avec ce dernier :
+travail dissimulé est tenue solidairement avec ce dernier : 
 
 1° Au paiement des impôts et taxes prévus par le code des impôts applicable localement et des cotisations obligatoires ainsi
-que des pénalités et majorations dus par celui-ci au Trésor et à l'organisme chargé du régime de protection sociale ;
+que des pénalités et majorations dus par celui-ci au Trésor et à l'organisme chargé du régime de protection sociale ; 
 
-2° Le cas échéant, au remboursement des sommes correspondant au montant des aides publiques dont il a bénéficié ;
+2° Le cas échéant, au remboursement des sommes correspondant au montant des aides publiques dont il a bénéficié ; 
 
 3° Au paiement des rémunérations, indemnités et charges dues par celui-ci à raison de l'emploi de salariés n'ayant pas fait
-l'objet de l'une des formalités prévues aux articles L. 143-3 et L. 311-1.
+l'objet de l'une des formalités prévues aux articles L. 143-7 et L. 311-1. 
 
 Les sommes dont le paiement est exigible en application des alinéas précédents sont déterminées au prorata de la valeur des
 travaux réalisés, des services fournis, du bien vendu et de la rémunération en vigueur dans la profession.
@@ -12928,17 +12996,17 @@ travaux réalisés, des services fournis, du bien vendu et de la rémunération 
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 12 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 4 (V)
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L143-3 (M)
-	  - Code du travail applicable à Mayotte. - art. L311-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L143-7 (VT)
+	  - Code du travail applicable à Mayotte. - art. L311-1 (V)
 
 
 ###### Article L312-9
@@ -12948,18 +13016,18 @@ l'exécution du contrat, dont l'objet porte sur une obligation d'un montant au m
 d'un travail, de la fourniture d'une prestation de services ou de l'accomplissement d'un acte de commerce, que son
 cocontractant s'acquitte de ses obligations au regard de l'article L. 312-2, ou de l'une d'entre elles seulement, dans le cas
 d'un contrat conclu par un particulier pour son usage personnel, celui de son ou de ses conjoints ou de ses ascendants ou
-descendants, sera tenue solidairement avec celui qui a fait l'objet d'un procès-verbal pour délit de travail dissimulé :
+descendants, sera tenue solidairement avec celui qui a fait l'objet d'un procès-verbal pour délit de travail dissimulé : 
 
 1° Au paiement des impôts et taxes prévus par le code des impôts applicable localement et des cotisations obligatoires ainsi
-que des pénalités et majorations dus par celui-ci au Trésor ou à l'organisme chargé du régime de protection sociale ;
+que des pénalités et majorations dus par celui-ci au Trésor ou à l'organisme chargé du régime de protection sociale ; 
 
-2° Le cas échéant, au remboursement des sommes correspondant au montant des aides publiques dont il a bénéficié ;
+2° Le cas échéant, au remboursement des sommes correspondant au montant des aides publiques dont il a bénéficié ; 
 
 3° Au paiement des rémunérations, indemnités et charges dues par lui à raison de l'emploi de salariés n'ayant pas fait
-l'objet de l'une des formalités prévues aux articles L. 143-3 et L. 311-1.
+l'objet de l'une des formalités prévues aux articles L. 143-7 et L. 311-1. 
 
 Les sommes dont le paiement est exigible en application des alinéas précédents sont déterminées au prorata de la valeur des
-travaux réalisés, des services fournis, du bien vendu et de la rémunération en vigueur dans la profession.
+travaux réalisés, des services fournis, du bien vendu et de la rémunération en vigueur dans la profession. 
 
 Les modalités selon lesquelles sont effectuées les vérifications imposées dans le présent article sont précisées par décret.
 
@@ -12967,18 +13035,18 @@ Les modalités selon lesquelles sont effectuées les vérifications imposées da
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 12 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 4 (V)
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L143-3 (M)
-	  - Code du travail applicable à Mayotte. - art. L311-1 (M)
-	  - Code du travail applicable à Mayotte. - art. L312-2 (M)
+	  - Code du travail applicable à Mayotte. - art. L143-7 (VT)
+	  - Code du travail applicable à Mayotte. - art. L311-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L312-2 (V)
 
 	**Cité par**:
 
@@ -16415,30 +16483,6 @@ de la formation professionnelle.
 	  - Code du travail applicable à Mayotte. - art. R324-4 (V)
 
 
-###### Article L324-5
-
-Les bénéficiaires des contrats d'insertion-adaptation ne sont pas pris en compte, pendant une durée d'un an à compter de la
-date de prise d'effet du contrat, dans le calcul de l'effectif du personnel de l'employeur dont ils relèvent pour
-l'application à cet employeur des dispositions législatives et réglementaires qui se réfèrent à une condition d'effectif
-minimum de salariés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°91-246 du 25 février 1991
-	  - Loi n°91-1379 du 28 décembre 1991
-
-	**Modifié par**:
-
-	  - Ordonnance n°2002-242 du 21 février 2002 - art. 1 () JORF 23 février 2002
-	  - Ordonnance n°2002-242 du 21 février 2002 - art. 8 () JORF 23 février 2002
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 4 (V)
-
-
 ###### Article L324-9
 
 Les jeunes âgés de dix-huit à trente ans peuvent bénéficier d'une aide financière de l'Etat dénommée " aide au projet
@@ -18867,6 +18911,359 @@ En l'absence d'accord ou d'agrément de celui-ci, les mesures d'application sont
 	  - Code du travail applicable à Mayotte. - art. L327-16
 
 
+##### Section 3 : Régime de solidarité 
+
+
+
+##### Sous-section 1 : Allocation de solidarité spécifique 
+
+
+
+###### Article L327-20
+
+Ont droit à une allocation de solidarité spécifique les travailleurs privés d'emploi qui ont épuisé leurs droits à
+l'allocation d'assurance et qui satisfont à des conditions d'activité antérieure et de ressources.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 5
+
+	**Cité par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 12 (V)
+	  - Décret n°2012-1497 du 28 décembre 2012 - art. 1 (V)
+	  - Décret n°2013-140 du 14 février 2013 - art. 4 (VD)
+	  - Décret n°2013-1295 du 30 décembre 2013 - art. 1 (V)
+	  - Décret n°2014-1710 du 30 décembre 2014 - art. 1 (V)
+	  - Ordonnance n°2016-160 du 18 février 2016 - art. 3
+	  - Décret n°2016-1941 du 28 décembre 2016 - art. 1 (V)
+	  - Code du travail applicable à Mayotte. - art. L327-21 (VD)
+	  - Code du travail applicable à Mayotte. - art. L327-26 (VD)
+	  - Code du travail applicable à Mayotte. - art. R327-11 (V)
+	  - Code du travail applicable à Mayotte. - art. R327-20 (T)
+	  - Code du travail applicable à Mayotte. - art. R327-43 (VT)
+	  - Code du travail applicable à Mayotte. - art. R327-46 (T)
+	  - Code du travail applicable à Mayotte. - art. R721-19 (V)
+
+
+###### Article L327-21
+
+Ont également droit à l'allocation de solidarité spécifique les bénéficiaires de l'allocation d'assurance âgés de cinquante
+ans au moins qui satisfont aux conditions mentionnées à l'article L. 327-20 et qui optent pour la perception de cette
+allocation. 
+
+Dans ce cas, le versement de l'allocation d'assurance est interrompu.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 5
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L327-20
+
+
+###### Article L327-22
+
+Les artistes non salariés, dès lors qu'ils ne peuvent prétendre au bénéfice de l'allocation d'assurance, ont également droit
+à l'allocation de solidarité spécifique, selon des conditions d'âge et d'activité antérieure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 5
+
+
+###### Article L327-23
+
+Lorsque, du fait des modalités particulières d'exercice d'une profession, les conditions d'activité antérieure pour
+l'admission à l'allocation de solidarité spécifique ne sont pas remplies, des aménagements peuvent être apportés à ces
+conditions ainsi qu'à la durée d'indemnisation et aux taux de l'allocation dans des conditions déterminées, selon le cas, par
+l'accord prévu à l'article L. 327-19 ou par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 5
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L327-19
+
+
+###### Article L327-24
+
+L'allocation de solidarité spécifique est incessible et insaisissable. 
+
+Tout paiement indu de l'allocation peut, si l'allocataire n'en conteste pas le caractère indu, être récupéré par retenue sur
+le montant de l'allocation à échoir ou par remboursement de la dette selon des modalités déterminées par voie réglementaire.
+Les retenues ne peuvent dépasser un pourcentage déterminé par voie réglementaire. 
+
+Les blocages de comptes courants de dépôts ou d'avances ne peuvent avoir pour effet de faire obstacle à son
+insaisissabilité. 
+
+Nonobstant toute opposition, le bénéficiaire dont l'allocation est versée sur un compte courant de dépôts ou d'avances peut
+effectuer mensuellement des retraits de ce compte dans la limite du montant de son allocation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 5
+
+
+###### Article L327-25
+
+Le taux de l'allocation de solidarité spécifique est révisé une fois par an en fonction de l'évolution des prix et est fixé
+par décret. 
+
+En outre, il est procédé par décret à des revalorisations spécifiques à Mayotte, en vue de réduire la différence de taux de
+l'allocation avec celui appliqué en métropole et dans les autres départements d'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 5
+
+	**Cité par**:
+
+	  - Décret n°2016-797 du 14 juin 2016 (V)
+
+
+##### Sous-section 2 : Financement 
+
+
+
+
+
+
+
+##### Paragraphe 1 : Fonds de solidarité 
+
+
+
+
+###### Article L327-26
+
+Le fonds de solidarité visé à l'article L. 5423-24 du code du travail gère les moyens de financement : 
+
+1° De l'allocation de solidarité spécifique prévue l'article L. 327-20 ; 
+
+2° De la prime forfaitaire prévue à l'article L. 327-41.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 5
+
+	**Cite**:
+
+	  - Code du travail - art. L5423-24
+	  - Code du travail applicable à Mayotte. - art. L327-20
+	  - Code du travail applicable à Mayotte. - art. L327-41
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L326-7 (VD)
+
+
+###### Article L327-27
+
+Le fonds de solidarité reçoit la contribution exceptionnelle de solidarité prévue à l'article L. 327-28 ainsi que, le cas
+échéant, une subvention de l'Etat. 
+
+Le produit de cette contribution ne peut recevoir d'autre emploi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 5
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 143 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L327-28
+
+
+##### Paragraphe 2 : Contribution exceptionnelle de solidarité 
+
+
+
+###### Article L327-28
+
+Les salariés des employeurs du secteur public et parapublic mentionnés aux articles L. 327-36 et L. 327-37, lorsque ceux-ci
+ne sont pas placés sous le régime de l'article L. 327-15, versent une contribution exceptionnelle de solidarité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 5
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L327-15
+	  - Code du travail applicable à Mayotte. - art. L327-36
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L327-27 (VT)
+	  - Code du travail applicable à Mayotte. - art. L327-32 (VD)
+	  - Code du travail applicable à Mayotte. - art. R327-23 (V)
+	  - Code du travail applicable à Mayotte. - art. R327-32 (T)
+
+
+###### Article L327-29
+
+La contribution exceptionnelle de solidarité est assise sur la rémunération nette totale des salariés, y compris l'ensemble
+des éléments ayant le caractère d'accessoire du traitement, de la solde ou du salaire, à l'exclusion des remboursements de
+frais professionnels, dans la limite du plafond mentionné à l'article L. 327-7.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 5
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L327-34 (VD)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L327-7
+
+
+###### Article L327-30
+
+A défaut de versement de la contribution exceptionnelle de solidarité dans un délai déterminé par décret en Conseil d'Etat,
+la contribution est majorée de 10 %.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 5
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 143 (V)
+
+
+###### Article L327-31
+
+L'absence de précompte ou de versement par l'employeur de la contribution exceptionnelle de solidarité le rend débiteur du
+montant de l'ensemble des sommes en cause.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 5
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 143 (V)
+
+
+###### Article L327-32
+
+Le fonds de solidarité recouvre la contribution exceptionnelle de solidarité et, le cas échéant, la majoration auprès des
+employeurs mentionnés à l'article L. 327-28, pour les périodes d'emploi correspondant aux cinq années civiles précédant celle
+au cours de laquelle le fonds de solidarité a demandé à l'employeur de justifier ses versements ou de régulariser sa
+situation. 
+
+La mise en demeure adressée à l'employeur interrompt cette prescription.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 5
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L327-28
+
+
+###### Article L327-33
+
+Un décret en Conseil d'Etat détermine les conditions de recouvrement de la contribution exceptionnelle de solidarité et les
+dérogations à la périodicité de son versement compte tenu du nombre de salariés des collectivités et organismes intéressés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 5
+
+
+###### Article L327-34
+
+Le taux de la contribution exceptionnelle de solidarité est fixé à 1 % du montant de l'assiette prévue à l'article L.
+327-29. 
+
+Sont exonérés du versement de la contribution les salariés dont la rémunération mensuelle nette définie au troisième alinéa
+est inférieure à un montant déterminé par décret en Conseil d'Etat. 
+
+La rémunération mensuelle nette comprend la rémunération de base mensuelle brute augmentée de l'indemnité de résidence et
+diminuée des cotisations de sécurité sociale obligatoires, des prélèvements pour pension et, le cas échéant, des prélèvements
+au profit des régimes de retraite complémentaire obligatoires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 5
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L327-29
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R327-26 (VD)
+	  - Code du travail applicable à Mayotte. - art. R327-35 (T)
+
+
+##### Sous-section 3 : Dispositions d'application 
+
+
+
+###### Article L327-35
+
+Un décret en Conseil d'Etat détermine les conditions d'application de la présente section, notamment : 
+
+1° Les délais après l'expiration desquels l'inscription comme demandeur d'emploi est réputée tardive pour l'ouverture du
+droit à indemnisation ; 
+
+2° Le délai au terme duquel le reliquat des droits antérieurement constitués ne peut plus être utilisé ; 
+
+3° Le délai dans lequel doit être présentée la demande de paiement de cette indemnisation ; 
+
+4° Le montant au-dessous duquel l'indemnisation différentielle n'est plus versée ; 
+
+5° Le montant au-dessous duquel l'indemnisation indûment versée ne donne pas lieu à remboursement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 5
+
+
 ##### Section 4 : Dispositions particulières à certains salariés
 
 
@@ -19027,6 +19424,87 @@ Ces dispositions s'appliquent notamment au cas des revenus tirés de travaux sai
 	**Cite**:
 
 	  - Code du travail applicable à Mayotte. - art. L327-19
+
+
+##### Sous-section 2 : Prime forfaitaire pour reprise d'activité 
+
+
+
+
+###### Article L327-41
+
+Le bénéficiaire de l'allocation de solidarité spécifique qui reprend une activité professionnelle a droit à une prime
+forfaitaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 5
+
+	**Cité par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 12 (V)
+	  - Décret n°2012-1497 du 28 décembre 2012 - art. 1 (V)
+	  - Décret n°2013-1295 du 30 décembre 2013 - art. 1 (V)
+	  - Décret n°2014-1710 du 30 décembre 2014 - art. 1 (V)
+	  - Décret n°2016-1941 du 28 décembre 2016 - art. 1 (V)
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 87 (V)
+	  - Décret n°2017-826 du 5 mai 2017 - art. 5 (V)
+	  - Code du travail applicable à Mayotte. - art. L326-7 (VT)
+	  - Code du travail applicable à Mayotte. - art. L327-26 (VD)
+	  - Code du travail applicable à Mayotte. - art. L327-49 (VD)
+	  - Code du travail applicable à Mayotte. - art. L327-61 (V)
+	  - Code du travail applicable à Mayotte. - art. R327-14 (V)
+	  - Code du travail applicable à Mayotte. - art. R327-23 (T)
+	  - Code du travail applicable à Mayotte. - art. R327-36 (VT)
+	  - Code du travail applicable à Mayotte. - art. R327-39 (T)
+	  - Code du travail applicable à Mayotte. - art. R327-41 (VT)
+	  - Code du travail applicable à Mayotte. - art. R327-44 (T)
+
+
+###### Article L327-42
+
+La prime forfaitaire est versée chaque mois pendant une période dont la durée est déterminée par voie réglementaire, y
+compris s'il a été mis fin au droit à l'allocation de solidarité spécifique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 5
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 87 (V)
+
+
+###### Article L327-43
+
+La prime forfaitaire est soumise aux règles applicables à l'allocation de solidarité spécifique relatives au contentieux, à
+la prescription, à la récupération des indus, à l'insaisissabilité et l'incessibilité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 5
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 87 (V)
+
+
+###### Article L327-44
+
+Un décret en Conseil d'Etat détermine les conditions d'attribution de la prime forfaitaire, notamment la durée de travail
+minimale et le nombre de mois d'activité consécutifs auxquels son versement est subordonné, ainsi que son montant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 5
 
 
 ##### Sous-section 3 : Exercice d'une activité bénévole 
@@ -20134,17 +20612,17 @@ compte tenu de l'aide prévue à l'article L. 328-30 qui peuvent compenser en to
 par l'employeur. 
 
 Le refus de prendre des mesures au sens du premier alinéa peut être constitutif d'une discrimination au sens de l'article L.
-000-4.
+032-1.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 4 (V)
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L000-4
+	  - Code du travail applicable à Mayotte. - art. L032-1 (V)
 	  - Code du travail applicable à Mayotte. - art. L328-18
 	  - Code du travail applicable à Mayotte. - art. L328-30
 
@@ -20909,7 +21387,7 @@ s'il est en mesure d'établir l'existence d'un préjudice non réparé au titre 
 
 ###### Article L330-7
 
-Les organisations syndicales représentatives au sens de l'article L. 412-3 peuvent exercer en justice les actions nées en
+Les organisations syndicales représentatives au sens de l'article L. 412-1 peuvent exercer en justice les actions nées en
 faveur des travailleurs étrangers en vertu des dispositions de l'article L. 330-6, sans avoir à justifier d'un mandat de
 l'intéressé, à condition que celui-ci n'ait pas déclaré s'y opposer. L'intéressé peut toujours intervenir à l'instance
 engagée par le syndicat.
@@ -20918,12 +21396,12 @@ engagée par le syndicat.
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 17 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 4 (V)
 
 	**Cité par**:
 
@@ -20933,8 +21411,8 @@ engagée par le syndicat.
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L330-6 (V)
-	  - Code du travail applicable à Mayotte. - art. L412-3 (M)
+	  - Code du travail applicable à Mayotte. - art. L330-6 (VT)
+	  - Code du travail applicable à Mayotte. - art. L412-1 (V)
 
 
 ###### Article L330-8
@@ -21386,25 +21864,27 @@ indivis.
 
 ### TITRE Ier : LES SYNDICATS PROFESSIONNELS
 
-#### CHAPITRE Ier : Statut juridique des syndicats
-
-##### Section 1 : Objet et constitution.
+#### CHAPITRE Ier : Champ d'application
 
 ###### Article L411-1
 
-Les syndicats professionnels ont exclusivement pour objet l'étude et la défense des droits ainsi que des intérêts matériels
-et moraux, tant collectifs qu'individuels, des personnes visées par leurs statuts.
+Les dispositions du présent titre sont applicables aux employeurs de droit privé ainsi qu'à leurs salariés à Mayotte. 
+
+Elles sont également applicables au personnel des personnes publiques employé dans les conditions du droit privé, sous
+réserve des dispositions particulières ayant le même objet résultant du statut qui régit ce personnel. 
+
+Les dispositions du chapitre III sont applicables aux syndicats et à leurs unions qui ont déposé leurs statuts à Mayotte.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
 
 	**Cité par**:
 
@@ -21414,30 +21894,8 @@ et moraux, tant collectifs qu'individuels, des personnes visées par leurs statu
 
 ###### Article L411-2
 
-Les syndicats ou associations professionnels de personnes exerçant la même profession, des métiers similaires ou des métiers
-connexes, concourant à l'établissement de produits déterminés ou la même profession libérale peuvent se constituer librement.
-
-Par dérogation aux dispositions de l'alinéa précédent, les personnes employant sans but lucratif des salariés peuvent se
-grouper en syndicat pour la défense des intérêts qu'elles ont en commun en tant qu'employeur de ces salariés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-
-###### Article L411-3
-
-Les fondateurs de tout syndicat professionnel doivent déposer les statuts et les noms de ceux qui, à un titre quelconque,
-sont chargés de l'administration ou de la direction.
-
-Ce dépôt est renouvelé en cas de changement de la direction ou des statuts.
+Les dispositions du présent titre s'appliquent sans préjudice d'autres droits accordés aux syndicats par des lois
+particulières.
 
 **Liens relatifs à cet article**
 
@@ -21447,527 +21905,13 @@ Ce dépôt est renouvelé en cas de changement de la direction ou des statuts.
 	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. L411-22 (VT)
-	  - Code du travail applicable à Mayotte. - art. R411-1 (Ab)
-
-
-###### Article L411-4
-
-Les membres français de tout syndicat professionnel chargés de l'administration ou de la direction de ce syndicat doivent
-jouir de leurs droits civiques et n'avoir encouru aucune des condamnations prévues aux articles L. 5 et L. 6 du code
-électoral.
-
-Tout ressortissant étranger âgé de dix-huit ans accomplis adhérant à un syndicat peut accéder aux fonctions d'administration
-ou de direction de ce syndicat s'il n'a encouru aucune des condamnations visées à l'alinéa précédent.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°91-246 du 25 février 1991
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
-
-	**Cite**:
-
-	  - Code électoral - art. L5
-	  - Code électoral - art. L6
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. L411-6 (VT)
-
-
-###### Article L411-5
-
-Tout salarié, quels que soient son sexe, son âge, sa nationalité, peut librement adhérer au syndicat professionnel de son
-choix.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 du 28 décembre 1991
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
-
-
-###### Article L411-6
-
-Tout adhérent d'un syndicat professionnel peut, s'il remplit les conditions fixées par l'article L. 411-4, participer à
-l'administration ou à la direction de ce syndicat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L411-4
-
-
-###### Article L411-7
-
-Les personnes qui ont cessé l'exercice de leurs fonctions ou de leur profession, si elles l'ont exercée au moins un an,
-peuvent soit continuer à faire partie d'un syndicat professionnel de salariés, soit adhérer à un syndicat professionnel de
-leur choix.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
-
-
-###### Article L411-8
-
-Tout membre d'un syndicat professionnel peut s'en retirer à tout instant nonobstant toute clause contraire, sans préjudice du
-droit pour le syndicat de réclamer la cotisation afférente aux six mois qui suivent le retrait d'adhésion.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°91-246 du 25 février 1991
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
-
-
-###### Article L411-9
-
-En cas de dissolution volontaire, statutaire ou prononcée par justice, les biens du syndicat sont dévolus conformément aux
-statuts ou, à défaut de dispositions statutaires, suivant les règles déterminées par l'assemblée générale. En aucun cas, ils
-ne peuvent être répartis entre les membres adhérents.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
-
-
-##### Section 2 : Capacité civile.
-
-###### Article L411-10
-
-Les syndicats professionnels jouissent de la personnalité civile.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°91-246 du 25 février 1991
-	  - Loi n°91-1379 du 28 décembre 1991
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
-
-
-###### Article L411-11
-
-Ils ont le droit d'ester en justice. Ils peuvent devant toutes les juridictions exercer tous les droits réservés à la partie
-civile relativement aux faits portant un préjudice direct ou indirect à l'intérêt collectif de la profession qu'ils
-représentent.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°91-246 du 25 février 1991
-	  - Loi n°91-1379 du 28 décembre 1991
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
-
-
-###### Article L411-12
-
-Ils ont le droit d'acquérir sans autorisation, à titre gratuit ou à titre onéreux, des biens meubles ou immeubles.
-
-Les immeubles et objets mobiliers nécessaires à leurs réunions, à leurs bibliothèques et à leurs cours d'instruction
-professionnelle sont insaisissables.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
-
-
-###### Article L411-13
-
-Ils peuvent affecter une partie de leurs ressources à la création d'habitations à loyer modéré et à l'acquisition de terrains
-pour jardins ouvriers, éducation physique ou hygiène.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
-
-
-###### Article L411-14
-
-Ils peuvent librement créer et administrer des offices de renseignements pour les offres et les demandes de travail, créer,
-administrer ou subventionner les oeuvres professionnelles telles que : institutions professionnelles de prévoyance,
-laboratoires, champs d'expérience, oeuvres d'éducation scientifique, agricole ou sociale, cours et publications intéressant
-la profession.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°91-246 du 25 février 1991
-	  - Loi n°91-1379 du 28 décembre 1991
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
-
-
-###### Article L411-15
-
-Ils peuvent, en se conformant aux autres dispositions des lois en vigueur, constituer entre leurs membres des caisses
-spéciales de secours mutuels et de retraites.
-
-Les fonds de ces caisses sont insaisissables dans les limites déterminées par le code de la mutualité.
-
-Toute personne qui se retire d'un syndicat conserve le droit d'être membre des sociétés de secours mutuels et de retraites
-pour la vieillesse à l'actif desquelles elle a contribué par des cotisations ou versements de fonds.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
-
-
-###### Article L411-16
-
-Ils peuvent subventionner des sociétés coopératives de production ou de consommation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°91-246 du 25 février 1991
-	  - Loi n°91-1379 du 28 décembre 1991
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
-
-
-###### Article L411-17
-
-Ils peuvent passer des contrats ou conventions avec tous autres syndicats, sociétés ou entreprises. Sont seules admises à
-négocier les conventions et accords collectifs de travail les organisations de salariés constituées en syndicats conformément
-au présent titre, à l'exclusion des associations, quel qu'en soit l'objet. Tout accord ou convention visant les conditions
-collectives du travail est passé dans les conditions déterminées par le titre III du livre Ier.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°91-246 du 25 février 1991
-	  - Loi n°91-1379 du 28 décembre 1991
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
-
-
-###### Article L411-18
-
-S'ils sont autorisés par leurs statuts et à condition de ne pas distribuer de bénéfices, même sous forme de ristournes, à
-leurs membres, les syndicats peuvent :
-
-1° Acheter pour les louer, prêter ou répartir entre leurs membres tous les objets nécessaires à l'exercice de leur
-profession, matières premières, outils, instruments, machines, engrais, semences, plantes, animaux et matières alimentaires
-pour le bétail ;
-
-2° Prêter leur entremise gratuite pour la vente des produits provenant exclusivement du travail personnel ou des
-exploitations des syndiqués ; faciliter cette vente, annonces, publications, groupement de commandes et d'expéditions, sans
-pouvoir l'opérer sous leur nom et sous leur responsabilité.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°91-246 du 25 février 1991
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
-
-
-###### Article L411-19
-
-Les syndicats peuvent être consultés sur tous les différends et toutes les questions se rattachant à leur spécialité.
-
-Dans les affaires contentieuses, les avis du syndicat sont tenus à la disposition des parties qui peuvent en prendre
-communication et copie.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°91-246 du 25 février 1991
-	  - Loi n°91-1379 du 28 décembre 1991
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
-
-
-###### Article L411-20
-
-Il n'est dérogé en aucune façon aux dispositions des lois spéciales qui auraient accordé aux syndicats des droits non
-mentionnés dans le présent titre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
-
-
-##### Section 3 : Unions de syndicats.
-
-###### Article L411-21
-
-Les syndicats professionnels régulièrement constitués d'après les prescriptions du présent titre peuvent librement se
-concerter pour l'étude et la défense de leurs intérêts matériels et moraux.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°91-246 du 25 février 1991
-	  - Loi n°91-1379 du 28 décembre 1991
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
-
-
-###### Article L411-22
-
-Les dispositions des articles L. 411-1, L. 411-3, L. 411-4, L. 411-5, L. 411-6 et L. 411-7 du présent chapitre sont
-applicables aux unions de syndicats, qui doivent, d'autre part, faire connaître, dans les conditions prévues à l'article L.
-411-3, le nom et le siège social des syndicats qui les composent.
-
-Leurs statuts doivent déterminer les règles selon lesquelles les syndicats adhérents à l'union sont représentés dans le
-conseil d'administration et dans les assemblées générales.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°91-246 du 25 février 1991
-	  - Loi n°91-1379 du 28 décembre 1991
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L411-3
-
-
-###### Article L411-23
-
-Ces unions jouissent de tous les droits conférés aux syndicats professionnels par la section 2 du présent chapitre et par le
-chapitre III du présent titre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°91-246 du 25 février 1991
-	  - Loi n°91-1379 du 28 décembre 1991
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
 
 	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
 
 
 #### CHAPITRE II : Droit syndical et représentativité.
 
-###### Article L412-1
-
-L'exercice du droit syndical est reconnu dans toutes les entreprises dans le respect des droits et libertés garantis par la
-Constitution de la République, en particulier de la liberté individuelle du travail.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Cité par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 9 (V)
-	  - Code de commerce - art. D910-1 C (V)
-	  - Code du travail applicable à Mayotte. - art. L132-2 (VD)
-	  - Code du travail applicable à Mayotte. - art. L324-9 (V)
-	  - Code du travail applicable à Mayotte. - art. L330-7 (V)
-	  - Code du travail applicable à Mayotte. - art. L412-7 (V)
-	  - Code du travail applicable à Mayotte. - art. L420-2 (V)
-	  - Code du travail applicable à Mayotte. - art. L433-10 (V)
-	  - Code du travail applicable à Mayotte. - art. L433-12 (V)
-	  - Code du travail applicable à Mayotte. - art. L433-16 (V)
-	  - Code du travail applicable à Mayotte. - art. L433-2 (V)
-	  - Code du travail applicable à Mayotte. - art. L441-4 (V)
-	  - Code du travail applicable à Mayotte. - art. L443-11 (V)
-	  - Code du travail applicable à Mayotte. - art. L443-2 (V)
-	  - Code du travail applicable à Mayotte. - art. L443-8 (V)
-	  - Code du travail applicable à Mayotte. - art. L711-6 (T)
-
+#### CHAPITRE II : Représentativité syndicale
 
 ###### Article L412-2
 
@@ -22007,28 +21951,94 @@ Ces dispositions sont d'ordre public.
 	  - Code du travail applicable à Mayotte. - art. L450-2 (VD)
 
 
-###### Article L412-3
+##### Section 1 : Critères de représentativité
 
-Tout syndicat affilié à une organisation représentative sur le plan national est considéré comme représentatif dans
-l'entreprise pour l'application du présent chapitre.
+###### Article L412-1
 
-Sont également représentatives à Mayotte dans les entreprises les organisations syndicales dont la représentativité sur le
-plan territorial a été reconnue par le représentant de l'Etat, d'après les critères suivants :
+La représentativité des organisations syndicales est déterminée d'après les critères cumulatifs suivants : 
 
-- les effectifs ;
+1° Le respect des valeurs républicaines ; 
 
-- l'indépendance ;
+2° L'indépendance ; 
 
-- les cotisations ;
+3° La transparence financière ; (1)
 
-- l'expérience et l'ancienneté du syndicat.
+4° Une ancienneté minimale de deux ans dans le champ professionnel et géographique couvrant le niveau de négociation. Cette
+ancienneté s'apprécie à compter de la date de dépôt légal des statuts ; 
+
+5° L'audience établie selon les niveaux de négociation conformément aux articles L. 412-3, L. 412-7, L. 412-8 et L. 412-12 ; 
+
+6° L'influence, prioritairement caractérisée par l'activité et l'expérience ; 
+
+7° Les effectifs d'adhérents et les cotisations.
+
+**Nota:**
+
+Ordonnance n° 2012-792 du 7 juin 2012, article 9 : Les dispositions de l'article L412-1 s'appliquent à compter du résultat
+des premières lections professionnelles dans l'entreprise ou l'établissement pour lesquelles la date fixée pour la première
+réunion de la négociation du protocole d'accord préélectoral est postérieure au 31 décembre 2012 et au plus tard à compter de
+la deuxième mesure de l'audience organisée en application des articles L. 2122-5 à L. 2122-7, L. 2122-9 à L. 2122-13 du code
+du travail.
+
+(1) Le 3° de l'article L. 412-1 du code du travail applicable à Mayotte relatives à l'établissement, la certification et la
+publicité des comptes des organisations syndicales s'appliquent à compter de l'exercice comptable 2016.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+	**Cité par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 9 (V)
+	  - Code de commerce - art. D910-1 C (V)
+	  - Code du travail applicable à Mayotte. - art. L132-2 (VD)
+	  - Code du travail applicable à Mayotte. - art. L324-9 (V)
+	  - Code du travail applicable à Mayotte. - art. L330-7 (V)
+	  - Code du travail applicable à Mayotte. - art. L412-7 (V)
+	  - Code du travail applicable à Mayotte. - art. L420-2 (V)
+	  - Code du travail applicable à Mayotte. - art. L433-10 (V)
+	  - Code du travail applicable à Mayotte. - art. L433-12 (V)
+	  - Code du travail applicable à Mayotte. - art. L433-16 (V)
+	  - Code du travail applicable à Mayotte. - art. L433-2 (V)
+	  - Code du travail applicable à Mayotte. - art. L441-4 (V)
+	  - Code du travail applicable à Mayotte. - art. L443-11 (V)
+	  - Code du travail applicable à Mayotte. - art. L443-2 (V)
+	  - Code du travail applicable à Mayotte. - art. L443-8 (V)
+	  - Code du travail applicable à Mayotte. - art. L711-6 (T)
+
+
+##### Section 2 : Syndicats représentatifs
+
+##### Sous-section 1 : Représentativité syndicale au niveau de l'entreprise et de l'établissement
+
+###### Article L412-3
+
+Dans l'entreprise ou l'établissement, sont représentatives les organisations syndicales qui satisfont aux critères de
+l'article L. 412-1 et qui ont recueilli au moins 10 % des suffrages exprimés au premier tour des dernières élections des
+titulaires au comité d'entreprise ou de la délégation unique du personnel ou, à défaut, des délégués du personnel, quel que
+soit le nombre de votants.
+
+**Nota:**
+
+Ordonnance n° 2012-792 du 7 juin 2012, article 9 : Les dispositions de l'article L. 412-3 s'appliquent à compter du résultat
+des premières élections professionnelles dans l'entreprise ou l'établissement pour lesquelles la date fixée pour la première
+réunion de la négociation du protocole d'accord préélectoral est postérieure au 31 décembre 2012 et au plus tard à compter de
+la deuxième mesure de l'audience organisée en application des articles L. 2122-5 à L. 2122-7, L. 2122-9 à L. 2122-13 du code
+du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Cité par**:
 
@@ -22056,38 +22066,237 @@ plan territorial a été reconnue par le représentant de l'Etat, d'après les c
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+
+###### Article L412-4
+
+Dans l'entreprise ou l'établissement, sont représentatives à l'égard des personnels relevant des collèges électoraux dans
+lesquels leurs règles statutaires leur donnent vocation à présenter des candidats les organisations syndicales catégorielles
+affiliées à une confédération syndicale catégorielle interprofessionnelle nationale qui satisfont aux critères de l'article
+L. 412-1 et qui ont recueilli au moins 10 % des suffrages exprimés au premier tour des dernières élections des titulaires au
+comité d'entreprise ou de la délégation unique du personnel ou, à défaut, des délégués du personnel dans ces collèges, quel
+que soit le nombre de votants.
+
+**Nota:**
+
+Ordonnance n° 2012-792 du 7 juin 2012, article 9 : Les dispositions de l'article L. 412-4 s'appliquent à compter du résultat
+des premières élections professionnelles dans l'entreprise ou l'établissement pour lesquelles la date fixée pour la première
+réunion de la négociation du protocole d'accord préélectoral est postérieure au 31 décembre 2012 et au plus tard à compter de
+la deuxième mesure de l'audience organisée en application des articles L. 2122-5 à L. 2122-7, L. 2122-9 à L. 2122-13 du code
+du travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+
+###### Article L412-5
+
+Lorsqu'une liste commune a été établie par des organisations syndicales, la répartition entre elles des suffrages exprimés se
+fait sur la base indiquée par les organisations syndicales concernées lors du dépôt de leur liste. A défaut d'indication, la
+répartition des suffrages se fait à part égale entre les organisations concernées.
+
+**Nota:**
+
+Ordonnance n° 2012-792 du 7 juin 2012, article 9 : Les dispositions de l'article L. 412-5 s'appliquent à compter du résultat
+des premières élections professionnelles dans l'entreprise ou l'établissement pour lesquelles la date fixée pour la première
+réunion de la négociation du protocole d'accord préélectoral est postérieure au 31 décembre 2012 et au plus tard à compter de
+la deuxième mesure de l'audience organisée en application des articles L. 2122-5 à L. 2122-7, L. 2122-9 à L. 2122-13 du code
+du travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+
+##### Sous-section 2 : Représentativité syndicale au niveau du groupe
+
+###### Article L412-6
+
+La représentativité des organisations syndicales au niveau de tout ou partie du groupe est appréciée conformément aux règles
+définies aux articles L. 412-3 à L. 412-5 relatifs à la représentativité syndicale au niveau de l'entreprise, par addition de
+l'ensemble des suffrages obtenus dans les entreprises ou établissements concernés.
+
+**Nota:**
+
+Ordonnance n° 2012-792 du 7 juin 2012, article 9 : Les dispositions de l'article L. 412-6 s'appliquent à compter du résultat
+des premières lections professionnelles dans l'entreprise ou l'établissement pour lesquelles la date fixée pour la première
+réunion de la négociation du protocole d'accord préélectoral est postérieure au 31 décembre 2012 et au plus tard à compter de
+la deuxième mesure de l'audience organisée en application des articles L. 2122-5 à L. 2122-7, L. 2122-9 à L. 2122-13 du code
+du travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+
+##### Sous-section 3 : Représentativité syndicale au niveau de la branche professionnelle
+
+###### Article L412-7
+
+Dans les branches professionnelles, sont représentatives les organisations syndicales qui : 
+
+1° Satisfont aux critères de l'article L. 412-1 ; 
+
+2° Disposent d'une implantation territoriale équilibrée au sein de la branche ; 
+
+3° Ont recueilli au moins 8 % des suffrages exprimés résultant de l'addition au niveau de la branche, d'une part, des
+suffrages exprimés au premier tour des dernières élections des titulaires aux comités d'entreprise ou de la délégation unique
+du personnel ou, à défaut, des délégués du personnel, quel que soit le nombre de votants, et, d'autre part, des suffrages
+exprimés au scrutin concernant les entreprises de moins de onze salariés selon les modalités prévues à l'article L. 412-12.
+La mesure de l'audience s'effectue tous les quatre ans.
+
+**Nota:**
+
+Ordonnance n° 2012-792 du 7 juin 2012, article 9 : Les dispositions des articles L. 412-7 à L. 412-12 du code du travail
+applicable à Mayotte relatives à la représentativité syndicale au niveau de la branche professionnelle et au niveau national
+et interprofessionnel s'appliquent à compter de la deuxième mesure de l'audience organisée en application des articles L.
+2122-5 à L. 2122-7, L. 2122-9 à L. 2122-13 du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+	**Cité par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 9 (V)
+	  - Code du travail applicable à Mayotte. - art. L412-9 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L412-1 (V)
+
+
+###### Article L412-8
+
+Dans les branches concernant exclusivement les activités agricoles mentionnées aux 1° à 4° de l'article L. 722-1 et au 2° de
+l'article L. 722-20 du code rural et de la pêche maritime, le seuil fixé au 3° de l'article L. 412-7 du présent code est
+apprécié au regard des suffrages exprimés aux élections des membres représentant les salariés de la production agricole aux
+chambres départementales d'agriculture mentionnées à l'article L. 511-7 du code rural et de la pêche maritime.
+
+**Nota:**
+
+Ordonnance n° 2012-792 du 7 juin 2012, article 9 : Les dispositions des articles L. 412-7 à L. 412-12 du code du travail
+applicable à Mayotte relatives à la représentativité syndicale au niveau de la branche professionnelle et au niveau national
+et interprofessionnel s'appliquent à compter de la deuxième mesure de l'audience organisée en application des articles L.
+2122-5 à L. 2122-7, L. 2122-9 à L. 2122-13 du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+
+###### Article L412-9
+
+Sont représentatives au niveau de la branche à l'égard des personnels relevant des collèges électoraux dans lesquels leurs
+règles statutaires leur donnent vocation à présenter des candidats les organisations syndicales catégorielles qui sont
+affiliées à une confédération syndicale catégorielle interprofessionnelle nationale et qui remplissent les conditions de
+l'article L. 412-7 dans ces collèges.
+
+**Nota:**
+
+Ordonnance n° 2012-792 du 7 juin 2012, article 9 : Les dispositions des articles L. 412-7 à L. 412-12 du code du travail
+applicable à Mayotte relatives à la représentativité syndicale au niveau de la branche professionnelle et au niveau national
+et interprofessionnel s'appliquent à compter de la deuxième mesure de l'audience organisée en application des articles L.
+2122-5 à L. 2122-7, L. 2122-9 à L. 2122-13 du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L412-7 (V)
+
+
+###### Article L412-10
+
+Lorsque la représentativité des organisations syndicales est établie, celles-ci fixent, en lien avec les organisations
+d'employeurs, la liste des sujets qui font l'objet de la négociation collective de branche ainsi que les modalités de son
+organisation.
+
+**Nota:**
+
+Ordonnance n° 2012-792 du 7 juin 2012, article 9 : Les dispositions des articles L. 412-7 à L. 412-12 du code du travail
+applicable à Mayotte relatives à la représentativité syndicale au niveau de la branche professionnelle et au niveau national
+et interprofessionnel s'appliquent à compter de la deuxième mesure de l'audience organisée en application des articles L.
+2122-5 à L. 2122-7, L. 2122-9 à L. 2122-13 du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+
+##### Sous-section 4 : Représentativité syndicale au niveau national et interprofessionnel, mesure de l'audience des organisations syndicales concernant les entreprises de moins de onze salariés et dispositions d'application
+
+###### Article L412-11
+
+Les entreprises et établissements de Mayotte sont pris en compte pour la détermination de la représentativité des
+organisations syndicales organisée au niveau de la branche professionnelle en application des articles L. 2122-5 à L. 2122-8
+et L. 2122-10-1 à L. 2122-13 du code du travail.
+
+**Nota:**
+
+Ordonnance n° 2012-792 du 7 juin 2012, article 9 : Les dispositions des articles L. 412-7 à L. 412-12 du code du travail
+applicable à Mayotte relatives à la représentativité syndicale au niveau de la branche professionnelle et au niveau national
+et interprofessionnel s'appliquent à compter de la deuxième mesure de l'audience organisée en application des articles L.
+2122-5 à L. 2122-7, L. 2122-9 à L. 2122-13 du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+	**Cite**:
+
+	  - Code du travail - art. L2122-10-1 (V)
+	  - Code du travail - art. L2122-5 (V)
+
+
+###### Article L412-12
+
+Les entreprises et établissements de Mayotte sont pris en compte et participent à la détermination de la représentativité des
+organisations syndicales organisée au niveau national et interprofessionnel dans les conditions fixées par les articles L.
+2122-9 à L. 2122-13 du code du travail.
+
+**Nota:**
+
+Ordonnance n° 2012-792 du 7 juin 2012, article 9 : Les dispositions des articles L. 412-7 à L. 412-12 du code du travail
+applicable à Mayotte relatives à la représentativité syndicale au niveau de la branche professionnelle et au niveau national
+et interprofessionnel s'appliquent à compter de la deuxième mesure de l'audience organisée en application des articles L.
+2122-5 à L. 2122-7, L. 2122-9 à L. 2122-13 du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+	**Cite**:
+
+	  - Code du travail - art. L2122-13 (V)
+	  - Code du travail - art. L2122-9 (V)
 
 
 #### CHAPITRE III : Marques syndicales.
 
-###### Article L413-1
-
-Les syndicats peuvent déposer leurs marques et labels en remplissant les formalités prévues par la législation sur les
-marques de fabrique, de commerce ou de service. Ils peuvent, dès lors, en revendiquer la propriété exclusive dans les
-conditions prévues par cette législation.
-
-Les marques ou labels peuvent être apposés sur tout produit ou objet de commerce pour en certifier l'origine et les
-conditions de fabrication. Ils peuvent être utilisés par tous les individus ou entreprises mettant en vente ces produits.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. L413-26 (V)
-	  - Code du travail applicable à Mayotte. - art. L414-13 (V)
-	  - Code rural - art. L271-7 (V)
-	  - Code rural et de la pêche maritime - art. L272-11 (M)
-
+#### CHAPITRE III : Statut juridique, ressources et moyens
 
 ###### Article L413-2
 
@@ -22120,6 +22329,1495 @@ service que les adhérents du syndicat propriétaire de la marque ou du label.
 	  - Code du travail applicable à Mayotte. - art. L412-2 (M)
 
 
+##### Section 1 : Objet et constitution
+
+###### Article L413-1
+
+Les syndicats professionnels ont exclusivement pour objet l'étude et la défense des droits ainsi que des intérêts matériels
+et moraux, tant collectifs qu'individuels, des personnes mentionnées dans leurs statuts.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L413-26 (V)
+	  - Code du travail applicable à Mayotte. - art. L414-13 (V)
+	  - Code rural - art. L271-7 (V)
+	  - Code rural et de la pêche maritime - art. L272-11 (M)
+
+
+###### Article L413-5
+
+Tout membre français d'un syndicat professionnel chargé de l'administration ou de la direction de ce syndicat doit jouir de
+ses droits civiques et n'être l'objet d'aucune interdiction, déchéance ou incapacité relative à ses droits civiques. 
+
+Sous les mêmes conditions, tout ressortissant étranger âgé de dix-huit ans accomplis adhérent à un syndicat peut accéder aux
+fonctions d'administration ou de direction de ce syndicat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R414-20 (V)
+	  - Code du travail applicable à Mayotte. - art. R414-21 (V)
+
+
+###### Article L413-6
+
+En cas de dissolution volontaire, statutaire ou prononcée par décision de justice, les biens du syndicat sont dévolus
+conformément aux statuts ou, à défaut de dispositions statutaires, suivant les règles déterminées par l'assemblée générale. 
+
+En aucun cas les biens du syndicat ne peuvent être répartis entre les membres adhérents.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+
+##### Section 2 : Capacité civile 
+
+
+###### Article L413-7
+
+Les syndicats professionnels sont dotés de la personnalité civile.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+
+###### Article L413-8
+
+Les organisations de salariés constituées en syndicats professionnels sont seules admises à négocier les conventions et
+accords collectifs de travail. 
+
+Tout accord ou convention visant les conditions collectives du travail est conclu dans les conditions déterminées par le
+titre III du livre Ier.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+
+###### Article L413-9
+
+Les syndicats professionnels ont le droit d'agir en justice. 
+
+Ils peuvent, devant toutes les juridictions, exercer tous les droits réservés à la partie civile concernant les faits portant
+un préjudice direct ou indirect à l'intérêt collectif de la profession qu'ils représentent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+
+###### Article L413-10
+
+Les meubles et immeubles nécessaires aux syndicats professionnels pour leurs réunions, bibliothèques et formations sont
+insaisissables.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+
+###### Article L413-11
+
+Les syndicats professionnels peuvent : 
+
+1° Créer et administrer des centres d'informations sur les offres et les demandes d'emploi ; 
+
+2° Créer, administrer et subventionner des institutions professionnelles de prévoyance, des organismes d'éducation, de
+formation, de vulgarisation ou de recherche dans les domaines intéressant la profession ; 
+
+3° Subventionner des sociétés coopératives de production ou de consommation, financer la création d'habitations à loyer
+modéré ou l'acquisition de terrains destinés à la réalisation de jardins ouvriers ou d'activités physiques et sportives.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+
+###### Article L413-12
+
+Les syndicats professionnels peuvent constituer entre leurs membres des caisses spéciales de secours mutuels et de
+retraites. 
+
+Les fonds de ces caisses sont insaisissables dans les limites déterminées par le code de la mutualité. 
+
+Toute personne qui se retire d'un syndicat conserve le droit d'être membre des sociétés de secours mutuels et de retraite
+pour la vieillesse à l'actif desquelles elle a contribué par des cotisations ou versement de fonds.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+	**Cite**:
+
+	  - Code de la mutualité
+
+
+##### Section 3 : Unions de syndicats 
+
+
+###### Article L413-13
+
+Les syndicats professionnels régulièrement constitués peuvent se concerter pour l'étude et la défense de leurs intérêts
+matériels et moraux.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+
+###### Article L413-14
+
+Les unions de syndicats sont soumises aux dispositions des articles L. 413-1, L. 413-3 à L. 413-5, L. 414-1 et L. 414-2. 
+
+Elles font connaître le nom et le siège social des syndicats qui les composent. 
+
+Leurs statuts déterminent les règles selon lesquelles les syndicats adhérents à l'union sont représentés dans le conseil
+d'administration et dans les assemblées générales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+
+###### Article L413-15
+
+Les unions de syndicats jouissent de tous les droits conférés aux syndicats professionnels par le présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+
+##### Section 4 : Marques syndicales 
+
+
+
+###### Article L413-16
+
+Les syndicats professionnels peuvent déposer leurs marques ou labels en remplissant les formalités prévues par les articles
+L. 712-1 et suivants du code de la propriété intellectuelle. Ils peuvent, dès lors, en revendiquer la propriété exclusive
+dans les conditions prévues par ce code. 
+
+Les marques ou labels peuvent être apposés sur tout produit ou objet de commerce pour en certifier les conditions de
+fabrication. Ils peuvent être utilisés par tout individu ou entreprise commercialisant ces produits.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L712-1
+
+
+###### Article L413-17
+
+L'utilisation des marques syndicales ou des labels ne peut avoir pour effet de porter atteinte aux dispositions des articles
+L. 414-5 à L. 414-8. 
+
+Tout accord ou disposition tendant à obliger l'employeur à n'embaucher ou à ne conserver à son service que les adhérents du
+syndicat propriétaire de la marque ou du label est nul.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L414-5 (V)
+
+
+##### Section 5 : Ressources et moyens 
+
+
+##### Sous-section 2 : Mise à disposition des salariés 
+auprès des organisations syndicales 
+
+
+###### Article L413-24
+
+Avec son accord exprès et dans les conditions prévues à l'article L. 413-25, un salarié peut être mis à disposition d'une
+organisation syndicale ou d'une association d'employeurs. 
+
+Pendant cette mise à disposition, les obligations de l'employeur à l'égard du salarié sont maintenues. 
+
+Le salarié, à l'expiration de sa mise à disposition, retrouve son précédent emploi ou un emploi similaire assorti d'une
+rémunération au moins équivalente.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L413-25 (V)
+
+
+###### Article L413-25
+
+Une convention collective ou un accord collectif de branche étendus ou un accord d'entreprise détermine les conditions dans
+lesquelles il peut être procédé à une mise à disposition de salariés auprès d'organisations syndicales ou d'associations
+d'employeurs.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L413-24 (V)
+
+
+##### Section 6 : Dispositions pénales 
+
+
+###### Article L413-26
+
+Le fait pour un directeur ou un administrateur d'un syndicat professionnel ou d'une union de syndicats de méconnaître les
+dispositions de l'article L. 413-1, relatives à l'objet des syndicats, est puni d'une amende de 3 750 €. 
+
+La dissolution du syndicat ou de l'union de syndicats peut en outre être prononcée à la diligence du procureur de la
+République. 
+
+Toute fausse déclaration relative aux statuts et aux noms et qualités des directeurs ou administrateurs est punie d'une
+amende de 3 750 €.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L413-1 (V)
+
+
+###### Article L413-27
+
+Le fait pour un employeur d'enfreindre les dispositions de l'article L. 413-17, relatives à l'utilisation des marques
+syndicales ou des labels, est puni d'une amende de 3 750 €. 
+
+La récidive est punie d'un emprisonnement d'un an et d'une amende de 7 500 €.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L132-28 (V)
+
+
+#### Chapitre IV : Exercice du droit syndical 
+
+
+##### Section 1 : Principes
+
+###### Article L414-1
+
+Tout salarié peut librement adhérer au syndicat professionnel de son choix et ne peut être écarté pour l'un des motifs
+mentionnés à l'article L. 032-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L032-1 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R414-22 (V)
+
+
+###### Article L414-2
+
+Les personnes qui ont cessé d'exercer leur activité professionnelle peuvent adhérer ou continuer à adhérer à un syndicat
+professionnel de leur choix.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R414-22 (V)
+
+
+###### Article L414-3
+
+Tout membre d'un syndicat professionnel peut s'en retirer à tout instant, même en présence d'une clause contraire. 
+
+Le syndicat peut réclamer la cotisation correspondant aux six mois qui suivent le retrait d'adhésion.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+
+###### Article L414-4
+
+L'exercice du droit syndical est reconnu dans toutes les entreprises dans le respect des droits et libertés garantis par la
+Constitution de la République, en particulier de la liberté individuelle du travail. 
+
+Les syndicats professionnels peuvent s'organiser librement dans toutes les entreprises conformément aux dispositions du
+présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L414-60 (V)
+
+
+###### Article L414-5
+
+Il est interdit à l'employeur de prendre en considération l'appartenance à un syndicat ou l'exercice d'une activité syndicale
+pour arrêter ses décisions en matière notamment de recrutement, de conduite et de répartition du travail, de formation
+professionnelle, d'avancement, de rémunération et d'octroi d'avantages sociaux, de mesures de discipline et de rupture du
+contrat de travail. 
+
+Un accord détermine les mesures à mettre en œuvre pour concilier la vie professionnelle avec la carrière syndicale et pour
+prendre en compte l'expérience acquise, dans le cadre de l'exercice de mandats, par les représentants du personnel désignés
+ou élus dans leur évolution professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L413-17 (V)
+	  - Code du travail applicable à Mayotte. - art. L414-61 (V)
+
+
+###### Article L414-6
+
+Il est interdit à tout employeur de prélever les cotisations syndicales sur les salaires de son personnel et de les payer au
+lieu et place de celui-ci.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+
+###### Article L414-7
+
+Il est interdit à l'employeur ou à ses représentants d'employer un moyen quelconque de pression en faveur ou à l'encontre
+d'une organisation syndicale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+
+###### Article L414-8
+
+Les dispositions des articles L. 414-5 à L. 414-7 sont d'ordre public. 
+
+Toute mesure prise par l'employeur contrairement à ces dispositions est considérée comme abusive et donne lieu à dommages et
+intérêts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+
+###### Article L414-9
+
+Les syndicats représentatifs dans l'entreprise bénéficient des dispositions applicables à la section syndicale et au délégué
+syndical prévues par les sections 2 et 3 du présent chapitre.
+
+**Nota:**
+
+Ordonnance n° 2012-792 du 7 juin 2012, article 9 : Les dispositions de l'article L. 414-9 du code du travail applicable à
+Mayotte relatives à la représentativité des organisations syndicales et à l'exercice du droit syndical s'appliquent à compter
+du résultat des premières élections professionnelles dans l'entreprise ou l'établissement pour lesquelles la date fixée pour
+la première réunion de la négociation du protocole d'accord préélectoral est postérieure au 31 décembre 2012 et au plus tard
+à compter de la deuxième mesure de l'audience organisée en application des articles L. 2122-5 à L. 2122-7, L. 2122-9 à L.
+2122-13 du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+	**Cité par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 9 (V)
+	  - Décret n°2014-1289 du 23 octobre 2014 - art. (VD)
+	  - Code du travail applicable à Mayotte. - art. L414-60 (V)
+
+
+###### Article L414-10
+
+Les dispositions du présent chapitre ne font pas obstacle aux conventions ou accords collectifs de travail comportant des
+clauses plus favorables, notamment celles qui sont relatives à l'institution de délégués syndicaux ou de délégués syndicaux
+centraux dans tous les cas où les dispositions légales n'ont pas rendu obligatoire cette institution. 
+
+Aucune limitation ne peut être apportée aux dispositions relatives à l'exercice du droit syndical par note de service ou
+décision unilatérale de l'employeur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+
+###### Article L414-11
+
+Pour l'application du présent chapitre, les modalités de calcul des effectifs sont celles prévues à l'article L. 011-4 du
+présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L414-60 (V)
+
+
+###### Article L414-12
+
+Des décrets en Conseil d'Etat déterminent les modalités d'application du présent chapitre aux activités, qui par nature
+conduisent à une dispersion ou à une mobilité permanente du personnel, liées à l'exercice normal de la profession.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+
+##### Section 2 : Section syndicale 
+
+
+##### Sous-section 1 : Constitution
+
+###### Article L414-13
+
+Chaque syndicat représentatif au sens de l'article 11 de la présente ordonnance peut décider de constituer au sein de
+l'entreprise une section syndicale qui assure la représentation des intérêts matériels et moraux de ses membres, conformément
+à l'article L. 413-1. 
+
+Jusqu'aux résultats des premières élections professionnelles dans l'entreprise ou l'établissement pour lesquelles la date
+fixée pour la première réunion de la négociation du protocole d'accord préélectoral est postérieure au 31 décembre 2012, les
+dispositions suivantes sont applicables : 
+
+1° Dans les entreprises qui emploient au moins cinquante salariés, chaque syndicat représentatif au sens de l'article 11 de
+la présente ordonnance désigne un délégué syndical pour le représenter auprès du chef d'entreprise. La désignation d'un
+délégué syndical peut intervenir lorsque l'effectif d'au moins cinquante salariés a été atteint pendant douze mois,
+consécutifs ou non, au cours des trois années précédentes. Dans les entreprises d'au moins cinq cents salariés, tout syndicat
+représentatif qui a obtenu lors de l'élection du comité d'entreprise un ou plusieurs élus dans le collège des ouvriers et
+employés et qui, au surplus, compte au moins un élu dans l'un quelconque des deux autres collèges peut désigner un délégué
+syndical supplémentaire parmi ses adhérents appartenant à l'un ou l'autre de ces deux collèges. La désignation d'un délégué
+syndical peut intervenir lorsque l'effectif de cinquante salariés ou plus a été atteint pendant douze mois, consécutifs ou
+non, au cours des trois années précédentes. En cas de création d'entreprise, ce délai est réduit à quatre mois ; 
+
+2° Dans les entreprises d'au moins deux mille salariés qui comportent au moins deux établissements de cinquante salariés
+chacun ou plus, chaque syndicat représentatif au sens de l'article 11 de la présente ordonnance peut désigner un délégué
+syndical central d'entreprise, distinct des délégués syndicaux d'établissement. Sauf disposition spéciale, l'ensemble des
+règles relatives au délégué syndical d'entreprise est applicable au délégué syndical central. Dans les entreprises de moins
+de deux mille salariés qui comportent au moins deux établissements de cinquante salariés chacun ou plus, chaque syndicat
+représentatif peut désigner l'un de ses délégués syndicaux d'établissement en vue d'exercer également les fonctions de
+délégué syndical central d'entreprise. La désignation d'un délégué syndical peut intervenir lorsque l'effectif de cinquante
+salariés ou plus a été atteint pendant douze mois, consécutifs ou non, au cours des trois années précédentes ; 
+
+3° Les délégués syndicaux régulièrement désignés en application du présent article conservent leur mandat et leurs
+prérogatives jusqu'aux résultats des premières élections professionnelles organisées dans l'entreprise ou l'établissement
+dont la date fixée pour la négociation du protocole préélectoral est postérieure au 31 décembre 2012. Après ces élections,
+les délégués syndicaux désignés en application du présent article conservent leur mandat et leur prérogative dès lors que
+l'ensemble des conditions prévues aux articles L. 414-28 et L. 414-31 sont réunies ; 
+
+4° Le fait d'apporter une entrave à l'exercice du droit syndical défini par le présent article est puni d'un emprisonnement
+d'un an et d'une amende de 3 750 €.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 14 (V)
+
+	**Cité par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 9 (V)
+	  - Code du travail applicable à Mayotte. - art. L414-14 (VD)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L413-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L414-28 (V)
+
+
+##### Sous-section 3 : Cotisations syndicales 
+
+
+###### Article L414-18
+
+La collecte des cotisations syndicales peut être réalisée à l'intérieur de l'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+
+##### Sous-section 4 : Affichage et diffusion des communications syndicales 
+
+
+
+###### Article L414-19
+
+L'affichage des communications syndicales s'effectue librement sur des panneaux réservés à cet usage, distincts de ceux
+affectés aux communications des délégués du personnel et du comité d'entreprise. 
+
+Un exemplaire des communications syndicales est transmis à l'employeur, simultanément à l'affichage. 
+
+Les panneaux sont mis à la disposition de chaque section syndicale suivant des modalités fixées par accord avec l'employeur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+
+###### Article L414-20
+
+Les publications et tracts de nature syndicale peuvent être librement diffusés aux travailleurs de l'entreprise dans
+l'enceinte de celle-ci aux heures d'entrée et de sortie du travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+
+###### Article L414-21
+
+Le contenu des affiches, publications et tracts est librement déterminé par l'organisation syndicale, sous réserve de
+l'application des dispositions relatives à la presse.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+
+###### Article L414-22
+
+Un accord d'entreprise peut autoriser la mise à disposition des publications et tracts de nature syndicale, soit sur un site
+syndical mis en place sur l'intranet de l'entreprise, soit par diffusion sur la messagerie électronique de l'entreprise. Dans
+ce dernier cas, cette diffusion doit être compatible avec les exigences de bon fonctionnement du réseau informatique de
+l'entreprise et ne doit pas entraver l'accomplissement du travail. 
+
+L'accord d'entreprise définit les modalités de cette mise à disposition ou de ce mode de diffusion, en précisant notamment
+les conditions d'accès des organisations syndicales et les règles techniques visant à préserver la liberté de choix des
+salariés d'accepter ou de refuser un message.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+
+##### Sous-section 5 : Local syndical 
+
+
+###### Article L414-23
+
+Dans les entreprises ou établissements de plus de deux cents salariés, l'employeur met à la disposition des sections
+syndicales un local commun convenant à l'exercice de la mission de leurs délégués. 
+
+Dans les entreprises ou établissements de mille salariés et plus, l'employeur met en outre à la disposition de chaque section
+syndicale constituée par une organisation syndicale représentative dans l'entreprise ou l'établissement un local convenable,
+aménagé et doté du matériel nécessaire à son fonctionnement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+
+###### Article L414-24
+
+Les modalités d'aménagement et d'utilisation par les sections syndicales des locaux mis à leur disposition sont fixées par
+accord avec l'employeur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+
+##### Sous-section 6 : Réunions syndicales 
+
+
+###### Article L414-25
+
+Les adhérents de chaque section syndicale peuvent se réunir une fois par mois dans l'enceinte de l'entreprise en dehors des
+locaux de travail suivant des modalités fixées par accord avec l'employeur. 
+
+Les sections syndicales peuvent inviter des personnalités syndicales extérieures à l'entreprise à participer à des réunions
+organisées par elles dans les locaux syndicaux mis à leur disposition en application de l'article L. 414-23, ou, avec
+l'accord du chef d'entreprise, dans d'autres locaux mis à leur disposition. 
+
+Des personnalités extérieures autres que syndicales peuvent être invitées par les sections syndicales à participer à une
+réunion, avec l'accord de l'employeur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+
+###### Article L414-26
+
+Les réunions syndicales ont lieu en dehors du temps de travail des participants à l'exception des représentants du personnel
+qui peuvent se réunir sur leur temps de délégation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+
+##### Section 3 : Délégué syndical 
+
+
+##### Sous-section 1 : Conditions de désignation 
+
+
+##### Paragraphe 1 : Conditions d'âge et d'ancienneté 
+
+
+###### Article L414-27
+
+Le délégué syndical doit être âgé de dix-huit ans révolus, travailler dans l'entreprise depuis un an au moins et n'avoir fait
+l'objet d'aucune interdiction, déchéance ou incapacité relative à ses droits civiques. 
+
+Ce délai d'un an est réduit à quatre mois en cas de création d'entreprise ou d'ouverture d'établissement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L414-15 (VD)
+
+
+##### Paragraphe 2 : Conditions d'effectifs 
+
+
+##### Sous-paragraphe 1 : Entreprises de cinquante salariés et plus 
+
+
+
+
+
+
+###### Article L414-28
+
+Chaque organisation syndicale représentative dans l'entreprise ou l'établissement de cinquante salariés ou plus, qui
+constitue une section syndicale, désigne parmi les candidats aux élections professionnelles qui ont recueilli au moins 10 %
+des suffrages exprimés au premier tour des dernières élections au comité d'entreprise ou de la délégation unique du personnel
+ou des délégués du personnel, quel que soit le nombre de votants, dans les limites fixées à l'article L. 414-37, un ou
+plusieurs délégués syndicaux pour la représenter auprès de l'employeur. 
+
+S'il ne reste, dans l'entreprise ou l'établissement, plus aucun candidat aux élections professionnelles qui remplit les
+conditions mentionnées au premier alinéa, une organisation syndicale représentative peut désigner un délégué syndical parmi
+les autres candidats ou, à défaut, parmi ses adhérents au sein de l'entreprise ou de l'établissement. 
+
+La désignation d'un délégué syndical peut intervenir lorsque l'effectif de cinquante salariés ou plus a été atteint pendant
+douze mois, consécutifs ou non, au cours des trois années précédentes.
+
+**Nota:**
+
+Ordonnance n° 2012-792 du 7 juin 2012, article 9 : Les dispositions de l'article L. 414-28 du code du travail applicable à
+Mayotte relatives à la représentativité des organisations syndicales et à l'exercice du droit syndical s'appliquent à compter
+du résultat des premières élections professionnelles dans l'entreprise ou l'établissement pour lesquelles la date fixée pour
+la première réunion de la négociation du protocole d'accord préélectoral est postérieure au 31 décembre 2012 et au plus tard
+à compter de la deuxième mesure de l'audience organisée en application des articles L. 2122-5 à L. 2122-7, L. 2122-9 à L.
+2122-13 du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+	**Cité par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 9 (V)
+	  - Code du travail applicable à Mayotte. - art. L414-13 (V)
+	  - Code du travail applicable à Mayotte. - art. L414-35 (V)
+	  - Code du travail applicable à Mayotte. - art. R414-1 (V)
+	  - Code du travail applicable à Mayotte. - art. R414-3 (V)
+
+
+###### Article L414-29
+
+Dans les entreprises de cinq cents salariés et plus, tout syndicat représentatif dans l'entreprise peut désigner un délégué
+syndical supplémentaire s'il a obtenu un ou plusieurs élus dans le collège des ouvriers et employés lors de l'élection du
+comité d'entreprise et s'il compte au moins un élu dans l'un des deux autres collèges. 
+
+Ce délégué supplémentaire est désigné parmi les candidats aux élections professionnelles qui ont recueilli au moins 10 % des
+suffrages exprimés au premier tour des dernières élections au comité d'entreprise ou des délégués du personnel, quel que soit
+le nombre de votants.
+
+**Nota:**
+
+Ordonnance n° 2012-792 du 7 juin 2012, article 9 : Les dispositions de l'article L. 414-29 du code du travail applicable à
+Mayotte relatives à la représentativité des organisations syndicales et à l'exercice du droit syndical s'appliquent à compter
+du résultat des premières élections professionnelles dans l'entreprise ou l'établissement pour lesquelles la date fixée pour
+la première réunion de la négociation du protocole d'accord préélectoral est postérieure au 31 décembre 2012 et au plus tard
+à compter de la deuxième mesure de l'audience organisée en application des articles L. 2122-5 à L. 2122-7, L. 2122-9 à L.
+2122-13 du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L414-37 (V)
+	  - Code du travail applicable à Mayotte. - art. L414-39 (VD)
+
+
+###### Article L414-30
+
+Dans les entreprises de deux mille salariés et plus comportant au moins deux établissements de cinquante salariés chacun ou
+plus, chaque syndicat représentatif dans l'entreprise peut désigner un délégué syndical central d'entreprise, distinct des
+délégués syndicaux d'établissement. 
+
+Ce délégué syndical central est désigné par un syndicat qui a recueilli au moins 10 % des suffrages exprimés au premier tour
+des dernières élections des titulaires au comité d'entreprise ou de la délégation unique du personnel ou, à défaut, des
+délégués du personnel, quel que soit le nombre de votants, en additionnant les suffrages de l'ensemble des établissements
+compris dans ces entreprises. 
+
+L'ensemble des dispositions relatives au délégué syndical d'entreprise est applicable au délégué syndical central. 
+
+Dans les entreprises de moins de deux mille salariés comportant au moins deux établissements de cinquante salariés chacun ou
+plus, chaque syndicat représentatif peut désigner l'un de ses délégués syndicaux d'établissement en vue d'exercer également
+les fonctions de délégué syndical central d'entreprise.
+
+**Nota:**
+
+Ordonnance n° 2012-792 du 7 juin 2012, article 9 : Les dispositions de l'article L. 414-30 du code du travail applicable à
+Mayotte relatives à la représentativité des organisations syndicales et à l'exercice du droit syndical s'appliquent à compter
+du résultat des premières élections professionnelles dans l'entreprise ou l'établissement pour lesquelles la date fixée pour
+la première réunion de la négociation du protocole d'accord préélectoral est postérieure au 31 décembre 2012 et au plus tard
+à compter de la deuxième mesure de l'audience organisée en application des articles L. 2122-5 à L. 2122-7, L. 2122-9 à L.
+2122-13 du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L414-37 (V)
+	  - Code du travail applicable à Mayotte. - art. L414-40 (V)
+
+
+##### Sous-paragraphe 2 : Entreprises de moins de cinquante salariés 
+
+
+###### Article L414-31
+
+Dans les établissements qui emploient moins de cinquante salariés, les syndicats représentatifs dans l'établissement peuvent
+désigner, pour la durée de son mandat, un délégué du personnel comme délégué syndical. 
+
+Sauf disposition conventionnelle, ce mandat n'ouvre pas droit à un crédit d'heures. Le temps dont dispose le délégué du
+personnel pour l'exercice de son mandat peut être utilisé dans les mêmes conditions pour l'exercice de ses fonctions de
+délégué syndical.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L414-36 (V)
+
+
+##### Paragraphe 3 : Formalités
+
+###### Article L414-32
+
+Les noms du ou des délégués syndicaux sont portés à la connaissance de l'employeur dans des conditions déterminées par
+décret. Ils sont affichés sur des panneaux réservés aux communications syndicales. 
+
+La copie de la communication adressée à l'employeur est adressée simultanément à l'inspecteur du travail. 
+
+La même procédure est appliquée en cas de remplacement ou de cessation de fonctions du délégué.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L414-15 (VD)
+
+
+##### Paragraphe 4 : Contestations
+
+###### Article L414-33
+
+Les contestations relatives aux conditions de désignation des délégués syndicaux légaux ou conventionnels sont de la seule
+compétence du juge judiciaire. Le recours n'est recevable que s'il est introduit dans les quinze jours suivant
+l'accomplissement des formalités prévues au premier alinéa de l'article L. 414-32. 
+
+Passé ce délai, la désignation est purgée de tout vice sans que l'employeur puisse soulever ultérieurement une irrégularité
+pour priver le délégué désigné du bénéfice des dispositions de la présente section. 
+
+Lorsqu'une contestation rend indispensable le recours à une mesure d'instruction, les dépenses afférentes à cette mesure sont
+à la charge de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+
+##### Sous-section 2 : Mandat 
+
+
+###### Article L414-34
+
+Les fonctions de délégué syndical sont compatibles avec celles de délégué du personnel, de représentant du personnel au
+comité d'entreprise ou d'établissement ou de représentant syndical au comité d'entreprise ou d'établissement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+
+###### Article L414-35
+
+En cas de modification dans la situation juridique de l'employeur telle que mentionnée à l'article L. 122-24, le mandat du
+délégué syndical ou du délégué syndical central subsiste lorsque l'entreprise qui fait l'objet de la modification conserve
+son autonomie juridique. 
+
+Il en est de même lorsque la modification porte sur un établissement au sens de l'article L. 414-28.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L122-24 (V)
+	  - Code du travail applicable à Mayotte. - art. L414-28 (V)
+
+
+###### Article L414-36
+
+Le mandat de délégué syndical prend fin lorsque l'ensemble des conditions prévues au premier alinéa de l'article L. 414-28 et
+à l'article L. 414-31 cessent d'être réunies. (1) 
+
+En cas de réduction importante et durable de l'effectif en dessous de cinquante salariés, la suppression du mandat de délégué
+syndical est subordonnée à un accord entre l'employeur et l'ensemble des organisations syndicales représentatives. 
+
+A défaut d'accord, l'autorité administrative peut décider que le mandat de délégué syndical prend fin.
+
+**Nota:**
+
+(1) Ordonnance n° 2012-792 du 7 juin 2012, article 9 : Les dispositions de l'article L. 414-36 (premier alinéa) du code du
+travail applicable à Mayotte relatives à la représentativité des organisations syndicales et à l'exercice du droit syndical
+s'appliquent à compter du résultat des premières élections professionnelles dans l'entreprise ou l'établissement pour
+lesquelles la date fixée pour la première réunion de la négociation du protocole d'accord préélectoral est postérieure au 31
+décembre 2012 et au plus tard à compter de la deuxième mesure de l'audience organisée en application des articles L. 2122-5 à
+L. 2122-7, L. 2122-9 à L. 2122-13 du code du travail
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+	**Cité par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 9 (V)
+	  - Code du travail applicable à Mayotte. - art. L414-15 (VD)
+	  - Code du travail applicable à Mayotte. - art. R414-6 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L414-31 (V)
+
+
+###### Article L414-37
+
+Le nombre des délégués syndicaux de chaque section syndicale dans chaque entreprise ou établissement est calculé dans des
+conditions déterminées par décret en Conseil d'Etat compte tenu de l'effectif des salariés. 
+
+Le nombre ainsi fixé peut être dépassé en application des dispositions de l'article L. 414-29 et du premier alinéa de
+l'article L. 414-30.
+
+**Nota:**
+
+(1) Ordonnance n° 2012-792 du 7 juin 2012, article 9 : Les dispositions de l'article L. 414-37 (deuxième alinéa) du code du
+travail applicable à Mayotte relatives à la représentativité des organisations syndicales et à l'exercice du droit syndical
+s'appliquent à compter du résultat des premières élections professionnelles dans l'entreprise ou l'établissement pour
+lesquelles la date fixée pour la première réunion de la négociation du protocole d'accord préélectoral est postérieure au 31
+décembre 2012 et au plus tard à compter de la deuxième mesure de l'audience organisée en application des articles L. 2122-5 à
+L. 2122-7, L. 2122-9 à L. 2122-13 du code du travail
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L414-29 (V)
+	  - Code du travail applicable à Mayotte. - art. L414-30 (V)
+
+
+##### Sous-section 3 : Exercice des fonctions 
+
+
+##### Paragraphe 1 : Heures de délégation 
+
+
+###### Article L414-38
+
+Chaque délégué syndical dispose d'un temps nécessaire à l'exercice de ses fonctions. 
+
+Ce temps est au moins égal à : 
+
+1° Dix heures par mois dans les entreprises ou établissements de cinquante à cent cinquante salariés ; 
+
+2° Quinze heures par mois dans les entreprises ou établissements de cent cinquante et un à cinq cents salariés ; 
+
+3° Vingt heures par mois dans les entreprises ou établissements de plus de cinq cents salariés. 
+
+Ce temps peut être dépassé en cas de circonstances exceptionnelles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+
+###### Article L414-41
+
+Chaque section syndicale dispose, au profit de son ou ses délégués syndicaux et des salariés de l'entreprise appelés à
+négocier la convention ou l'accord d'entreprise, en vue de la préparation de la négociation de cette convention ou de cet
+accord, d'un crédit global supplémentaire dans la limite d'une durée qui ne peut excéder : 
+
+1° Dix heures par an dans les entreprises de cinq cents salariés et plus ; 
+
+2° Quinze heures par an dans celles de mille salariés et plus.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+
+###### Article L414-42
+
+Les heures de délégation sont de plein droit considérées comme temps de travail et payées à l'échéance normale. 
+
+L'employeur qui entend contester l'utilisation faite des heures de délégation saisit le juge judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+
+###### Article L414-43
+
+Les heures utilisées pour participer à des réunions qui ont lieu à l'initiative de l'employeur ne sont pas imputables sur les
+temps de délégation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+
+##### Paragraphe 2 : Déplacements et circulation 
+
+
+
+###### Article L414-44
+
+Pour l'exercice de leurs fonctions, les délégués syndicaux peuvent, durant les heures de délégation, se déplacer hors de
+l'entreprise. 
+
+Ils peuvent également, tant durant les heures de délégation qu'en dehors de leurs heures habituelles de travail, circuler
+librement dans l'entreprise et y prendre tous contacts nécessaires à l'accomplissement de leur mission, notamment auprès d'un
+salarié à son poste de travail, sous réserve de ne pas apporter de gêne importante à l'accomplissement du travail des
+salariés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+
+##### Paragraphe 3 : Secret professionnel 
+
+
+###### Article L414-45
+
+Les délégués syndicaux sont tenus au secret professionnel pour toutes les questions relatives aux procédés de fabrication.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+
+##### Sous-section 4 : Attributions complémentaires dans les entreprises de moins de trois cents salariés 
+
+
+
+###### Article L414-46
+
+Dans les entreprises de moins de trois cents salariés et dans les établissements appartenant à ces entreprises, le délégué
+syndical est, de droit, représentant syndical au comité d'entreprise ou d'établissement. 
+
+Le délégué syndical est, à ce titre, destinataire des informations fournies au comité d'entreprise ou d'établissement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L414-60 (V)
+
+
+##### Sous-section 6 : Protection du délégué syndical 
+
+
+###### Article L414-48
+
+Le salarié investi d'un mandat de délégué syndical bénéficie de la protection contre le licenciement prévue par la présente
+sous-section, y compris lors d'une procédure de sauvegarde, de redressement ou de liquidation judiciaire. Bénéficie également
+de la protection contre le licenciement prévue par la présente sous-section le délégué syndical, institué par convention ou
+accord collectif de travail. 
+
+Le licenciement d'un délégué syndical ne peut intervenir qu'après autorisation de l'inspecteur du travail. Cette autorisation
+est également requise pour le licenciement de l'ancien délégué syndical, durant les douze mois suivant la date de cessation
+de ses fonctions, s'il a exercé ces dernières pendant au moins un an. Elle est également requise lorsque la lettre du
+syndicat notifiant à l'employeur la désignation du délégué syndical a été reçue par l'employeur ou lorsque le salarié a fait
+la preuve que l'employeur a eu connaissance de l'imminence de sa désignation comme délégué syndical, avant que le salarié ait
+été convoqué à l'entretien préalable au licenciement. 
+
+La demande d'autorisation de licenciement d'un délégué syndical est adressée à l'inspecteur du travail. 
+
+En cas de faute grave, l'employeur peut prononcer la mise à pied immédiate de l'intéressé dans l'attente de la décision
+définitive. 
+
+Cette décision est, à peine de nullité, motivée et notifiée à l'inspecteur du travail dans le délai de quarante-huit heures à
+compter de sa prise d'effet. 
+
+Si le licenciement est refusé, la mise à pied est annulée et ses effets supprimés de plein droit.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+	**Cité par**:
+
+	  - Décret n°2014-1291 du 23 octobre 2014 - art. (V)
+	  - Code du travail applicable à Mayotte. - art. L414-15 (VD)
+
+
+###### Article L414-49
+
+La rupture du contrat de travail à durée déterminée du délégué syndical avant l'échéance du terme en raison d'une faute
+grave, ou de l'inaptitude constatée par le médecin du travail ou à l'arrivée du terme lorsque l'employeur n'envisage pas de
+renouveler un contrat comportant une clause de renouvellement, ne peut intervenir qu'après autorisation de l'inspecteur du
+travail. 
+
+Cette procédure est applicable pendant les six mois qui suivent l'expiration du mandat. 
+
+Dans les branches d'activité à caractère saisonnier, ces délais de protection sont prolongés d'une durée égale à la période
+habituelle d'interruption de l'activité du salarié. 
+
+La rupture du contrat de travail à durée déterminée d'un délégué syndical est soumise à la même procédure que celle
+applicable en cas de licenciement. 
+
+L'arrivée du terme du contrat de travail à durée déterminée n'entraîne sa rupture qu'après constatation par l'inspecteur du
+travail que le salarié ne fait pas l'objet d'une mesure discriminatoire. 
+
+L'employeur saisit l'inspecteur du travail un mois avant l'arrivée du terme. 
+
+L'inspecteur du travail statue avant la date du terme du contrat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+
+###### Article L414-50
+
+Lorsqu'il est compris dans un transfert partiel d'entreprise ou d'établissement par application de l'article L. 122-24, le
+transfert d'un délégué syndical ou d'un ancien délégué syndical ayant exercé ses fonctions pendant au moins un an ne peut
+intervenir qu'après autorisation de l'inspecteur du travail. 
+
+L'inspecteur du travail s'assure que le salarié ne fait pas l'objet d'une mesure discriminatoire. 
+
+Si l'autorisation de transfert est refusée, l'employeur propose au salarié un emploi similaire assorti d'une rémunération
+équivalente dans un autre établissement ou une autre partie de l'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+	**Cité par**:
+
+	  - Décret n°2014-1291 du 23 octobre 2014 - art. (V)
+	  - Code du travail applicable à Mayotte. - art. R414-14 (V)
+
+
+###### Article L414-51
+
+Lorsque le ministre compétent annule, sur recours hiérarchique, la décision de l'inspecteur du travail autorisant le
+licenciement d'un délégué syndical ou lorsque le juge administratif annule la décision d'autorisation de l'inspecteur du
+travail ou du ministre compétent, le délégué syndical ou ancien délégué syndical concerné a le droit, s'il le demande dans un
+délai de deux mois à compter de la notification de la décision, d'être réintégré dans son emploi ou dans un emploi
+équivalent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+
+###### Article L414-52
+
+Lorsque l'annulation d'une décision d'autorisation est devenue définitive, le délégué syndical a droit au paiement d'une
+indemnité correspondant à la totalité du préjudice subi au cours de la période écoulée entre son licenciement et sa
+réintégration, s'il en a formulé la demande dans le délai de deux mois à compter de la notification de la décision. 
+
+L'indemnité correspond à la totalité du préjudice subi au cours de la période écoulée entre son licenciement et l'expiration
+du délai de deux mois s'il n'a pas demandé sa réintégration. 
+
+Ce paiement s'accompagne du versement des cotisations afférentes à cette indemnité qui constitue un complément de salaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+
+###### Article L414-53
+
+Le fait de rompre le contrat de travail d'un délégué syndical ou d'un ancien délégué syndical en méconnaissance des
+dispositions relatives à la procédure d'autorisation administrative prévues par la présente sous-section est puni d'un
+emprisonnement d'un an et d'une amende de 3 750 €. 
+
+Le fait de transférer le contrat de travail d'un salarié mentionné au premier alinéa compris dans un transfert partiel
+d'entreprise ou d'établissement, en méconnaissance des dispositions relatives à la procédure d'autorisation administrative,
+est puni des mêmes peines.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+
+##### Section 4 : Dispositions complémentaires relatives aux entreprises du secteur public 
+
+
+
+###### Article L414-54
+
+La présente section s'applique, à titre complémentaire, aux établissements et entreprises mentionnés à l'article 1er de la
+loi n° 83-675 du 26 juillet 1983 relative à la démocratisation du secteur public.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°83-675 du 26 juillet 1983 - art. 1
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+
+###### Article L414-55
+
+L'employeur engage avec les organisations syndicales représentatives dans l'entreprise une négociation sur les modalités
+complémentaires d'exercice du droit syndical. 
+
+Cette négociation porte notamment sur les points suivants : 
+
+1° Le temps dont chaque salarié dispose, sans perte de rémunération, pour participer aux réunions organisées par les sections
+syndicales dans l'enceinte de l'entreprise et pendant le temps de travail ; 
+
+2° Les conditions dans lesquelles des salariés, membres d'organisations syndicales représentatives dans l'entreprise, peuvent
+obtenir, dans la limite d'un quota déterminé par rapport aux effectifs de l'entreprise, une suspension de leur contrat de
+travail en vue d'exercer, pendant une durée déterminée, des fonctions de permanent au service de l'organisation syndicale à
+laquelle ils appartiennent, avec garantie de réintégration dans leur emploi ou un emploi équivalent au terme de cette
+période ; 
+
+3° Les conditions et les limites dans lesquelles les membres des sections syndicales représentatives dans l'entreprise,
+chargés de responsabilités au sein de leurs sections syndicales, peuvent s'absenter, sans perte de rémunération, pour
+participer aux réunions statutaires de leurs organes dirigeants et pour exercer leurs responsabilités ; 
+
+4° Les conditions et les limites dans lesquelles les membres des sections syndicales, chargés de responsabilités au sein de
+leurs organisations syndicales, peuvent s'absenter, sans perte de rémunération, pour participer à des réunions syndicales
+tenues en dehors de l'entreprise ; 
+
+5° Les conditions dans lesquelles la collecte des cotisations syndicales peut être facilitée. 
+
+La ou les organisations syndicales non signataires de l'accord mentionné au présent article sont réputées adhérer à cet
+accord, sauf refus manifesté dans le délai d'un mois à compter de sa signature.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+
+##### Section 5 : Formation économique, sociale et syndicale des salariés appelés à exercer des fonctions syndicales 
+
+
+###### Article L414-56
+
+Les salariés appelés à exercer des fonctions syndicales bénéficient du congé de formation économique, sociale et syndicale
+prévu à l'article L. 225-1. 
+
+La durée totale des congés pris à ce titre dans l'année par un salarié ne peut excéder dix-huit jours.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+	**Cité par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 9 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L225-1 (VD)
+
+
+###### Article L414-57
+
+La formation des salariés appelés à exercer des responsabilités syndicales, notamment au sein d'organismes de caractère
+économique et social, peut être assurée : 
+
+1° Soit par des centres spécialisés, directement rattachés aux organisations syndicales représentatives au niveau national ; 
+
+2° Soit par des instituts internes aux universités. 
+
+Toutefois, des organismes dont la spécialisation totale ou partielle serait assurée en accord avec des organisations
+syndicales peuvent participer à la formation des salariés appelés à exercer des responsabilités syndicales. Pour bénéficier
+des dispositions de l'article L. 414-58, ces organismes doivent avoir reçu l'agrément du ministre chargé du travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+	**Cité par**:
+
+	  - Décret n°2014-1289 du 23 octobre 2014 - art. (VD)
+	  - Code du travail applicable à Mayotte. - art. L414-58 (V)
+
+
+###### Article L414-58
+
+L'Etat apporte une aide financière à la formation des salariés assurée par les centres, instituts et organismes mentionnés à
+l'article L. 414-57.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L414-57 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R414-17 (V)
+
+
+###### Article L414-59
+
+Un décret en Conseil d'Etat fixe les modalités d'application de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+
+##### Section 6 : Dispositions pénales 
+
+
+###### Article L414-60
+
+Le fait d'apporter une entrave à l'exercice du droit syndical, défini par les articles L. 414-4, L. 414-9 et L. 414-11 à L.
+414-46, est puni d'un emprisonnement d'un an et d'une amende de 3 750 €.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L414-11 (V)
+	  - Code du travail applicable à Mayotte. - art. L414-4 (V)
+	  - Code du travail applicable à Mayotte. - art. L414-46 (V)
+	  - Code du travail applicable à Mayotte. - art. L414-9 (V)
+
+
+###### Article L414-61
+
+Le fait pour l'employeur de méconnaître les dispositions des articles L. 414-5 à L. 414-8, relatives à la discrimination
+syndicale, est puni d'une amende de 3 750 €. 
+
+La récidive est punie d'un emprisonnement d'un an et d'une amende de 7 500 €.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L414-5 (V)
+
+
 ### TITRE II : LA COMMISSION CONSULTATIVE DU TRAVAIL.
 
 ###### Article L420-1
@@ -22149,22 +23847,22 @@ Une commission consultative du travail est instituée auprès du représentant d
 
 Cette commission comprend un nombre égal de membres employeurs et de membres salariés désignés par le représentant de l'Etat
 à Mayotte sur propositions respectives de chacune des organisations professionnelles d'employeurs et des organisations
-syndicales de salariés représentatives dans la collectivité départementale, au sens de l'article L. 412-3.
+syndicales de salariés représentatives dans la collectivité départementale, au sens de l'article L. 412-1.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L412-3 (M)
+	  - Code du travail applicable à Mayotte. - art. L412-1 (V)
 
 
 ###### Article L420-3
@@ -22288,22 +23986,22 @@ mêmes garanties aux salariés de ces établissements. Ces adaptations résulten
 
 ###### Article L431-2
 
-Les effectifs sont déterminés conformément aux dispositions de l'article L. 620-8.
+Les effectifs sont déterminés conformément aux dispositions de l'article L. 011-4.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 22 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L620-8 (M)
+	  - Code du travail applicable à Mayotte. - art. L011-4 (V)
 
 
 #### CHAPITRE II : Attributions et pouvoirs.
@@ -22526,22 +24224,22 @@ missions attribuées à ce comité dans les conditions prévues aux deuxième et
 
 Le nombre des délégués du personnel est déterminé selon des bases fixées par voie réglementaire compte tenu du nombre des
 salariés. Il est élu autant de délégués suppléants que de titulaires. Le calcul des effectifs s'effectue dans les conditions
-prévues à l'article L. 620-8 du présent code.
+prévues à l'article L. 011-4 du présent code.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 22 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L620-8 (M)
+	  - Code du travail applicable à Mayotte. - art. L011-4 (V)
 
 	**Cité par**:
 
@@ -22552,21 +24250,21 @@ prévues à l'article L. 620-8 du présent code.
 
 Les délégués sont élus d'une part par les ouvriers et employés, d'autre part, par les ingénieurs, chefs de service,
 techniciens, agents de maîtrise et assimilés sur les listes établies par les organisations syndicales représentatives au sein
-de chaque établissement pour chaque catégorie de personnel.
+de chaque établissement pour chaque catégorie de personnel. 
 
 Tout syndicat affilié à une organisation représentative sur le plan national ou reconnu représentatif à Mayotte en
-application de l'article L. 412-3 est considéré comme représentatif dans l'entreprise pour l'application du présent chapitre.
+application de l'article L. 412-1 est considéré comme représentatif dans l'entreprise pour l'application du présent chapitre.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 22 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
 
 	**Cité par**:
 
@@ -22576,7 +24274,7 @@ application de l'article L. 412-3 est considéré comme représentatif dans l'en
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L412-3 (M)
+	  - Code du travail applicable à Mayotte. - art. L412-1 (V)
 
 
 ###### Article L433-3
@@ -22740,10 +24438,10 @@ Il n'y a pas d'incompatibilité entre les fonctions de délégué du personnel e
 ###### Article L433-10
 
 L'inspecteur du travail peut, après avoir consulté les organisations syndicales représentatives au sens de l'article L.
-412-3, autoriser des dérogations aux conditions d'ancienneté pour l'électorat, notamment dans le cas où leur application
-aurait pour effet de réduire à moins des deux tiers de l'effectif le nombre de salariés remplissant ces conditions.
+412-1, autoriser des dérogations aux conditions d'ancienneté pour l'électorat, notamment dans le cas où leur application
+aurait pour effet de réduire à moins des deux tiers de l'effectif le nombre de salariés remplissant ces conditions. 
 
-Il peut également, après avoir consulté les organisations syndicales représentatives au sens de l'article L. 412-3, autoriser
+Il peut également, après avoir consulté les organisations syndicales représentatives au sens de l'article L. 412-1, autoriser
 des dérogations aux conditions d'ancienneté pour l'éligibilité dans le cas où l'application de ces dispositions conduirait à
 une réduction du nombre des éligibles qui ne permettrait pas l'organisation normale des opérations électorales.
 
@@ -22751,12 +24449,12 @@ une réduction du nombre des éligibles qui ne permettrait pas l'organisation no
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 22 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
 
 	**Cité par**:
 
@@ -22767,7 +24465,7 @@ une réduction du nombre des éligibles qui ne permettrait pas l'organisation no
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L412-3 (M)
+	  - Code du travail applicable à Mayotte. - art. L412-1 (V)
 
 
 ###### Article L433-11
@@ -22801,12 +24499,12 @@ statuant en dernier ressort en la forme des référés.
 
 ###### Article L433-12
 
-Le scrutin est de liste à deux tours avec représentation proportionnelle à la plus forte moyenne.
+Le scrutin est de liste à deux tours avec représentation proportionnelle à la plus forte moyenne. 
 
 Au premier tour de scrutin, chaque liste est établie par les organisations syndicales représentatives au sens de l'article L.
-412-3. Si le nombre des votants est inférieur à la moitié des électeurs inscrits, il est procédé, dans un délai de quinze
+412-1. Si le nombre des votants est inférieur à la moitié des électeurs inscrits, il est procédé, dans un délai de quinze
 jours, à un second tour de scrutin pour lequel les électeurs peuvent voter pour les listes autres que celles présentées par
-les organisations syndicales.
+les organisations syndicales. 
 
 Lorsque le nom d'un candidat a été raturé, les ratures ne sont pas prises en compte si leur nombre est inférieur à 10 % des
 suffrages valablement exprimés en faveur de la liste sur laquelle figure ce candidat ; dans ce cas, les candidats sont
@@ -22816,12 +24514,12 @@ proclamés élus dans l'ordre de présentation.
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 22 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
 
 	**Cité par**:
 
@@ -22830,7 +24528,7 @@ proclamés élus dans l'ordre de présentation.
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L412-3 (M)
+	  - Code du travail applicable à Mayotte. - art. L412-1 (V)
 
 
 ###### Article L433-13
@@ -22937,32 +24635,32 @@ Le suppléant devient titulaire jusqu'au retour de celui qu'il remplace ou jusqu
 Dans toute entreprise ou organisme mentionné à l'article L. 431-1, le chef d'entreprise doit informer tous les quatre ans le
 personnel par affichage de l'organisation des élections en vue de la désignation des délégués du personnel. Le document
 affiché précise la date envisagée pour le premier tour de ces élections qui doit se placer au plus tard le quarante-cinquième
-jour suivant celui de l'affichage.
+jour suivant celui de l'affichage. 
 
 Les organisations syndicales intéressées sont en même temps invitées par le chef d'entreprise à négocier le protocole
-d'accord préélectoral et à établir les listes de leurs candidats aux fonctions de délégué du personnel.
+d'accord préélectoral et à établir les listes de leurs candidats aux fonctions de délégué du personnel. 
 
 Dans le cas d'un renouvellement de l'institution, cette invitation doit être faite un mois avant l'expiration du mandat des
-délégués en exercice. Le premier tour des élections doit avoir lieu dans la quinzaine qui précède l'expiration de ce mandat.
+délégués en exercice. Le premier tour des élections doit avoir lieu dans la quinzaine qui précède l'expiration de ce mandat. 
 
 Dans le cas où, en l'absence de délégués du personnel, l'employeur est invité à organiser des élections à la suite d'une
 demande émanant d'un salarié ou d'une organisation syndicale, il est tenu d'engager la procédure ci-dessus, définie dans le
-mois suivant la réception de ladite demande.
+mois suivant la réception de ladite demande. 
 
 Lorsque l'institution n'a pas été mise en place ou renouvelée, un procès-verbal de carence est établi par le chef
 d'entreprise ; celui-ci l'affiche dans l'entreprise et le transmet dans les quinze jours à l'inspecteur du travail qui en
-envoie copie aux organisations syndicales de salariés représentatives au sens de l'article L. 412-3.
+envoie copie aux organisations syndicales de salariés représentatives au sens de l'article L. 412-1.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-1068 du 25 août 2006 - art. 6 (V) JORF 26 août 2006
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
 
 	**Cité par**:
 
@@ -22972,7 +24670,7 @@ envoie copie aux organisations syndicales de salariés représentatives au sens 
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L412-3 (M)
+	  - Code du travail applicable à Mayotte. - art. L412-1 (V)
 	  - Code du travail applicable à Mayotte. - art. L431-1 (V)
 
 
@@ -23417,49 +25115,49 @@ du comité d'entreprise vient à échéance avant celui des délégués du perso
 
 ###### Article L441-3
 
-Les effectifs sont déterminés conformément aux dispositions de l'article L. 620-8.
+Les effectifs sont déterminés conformément aux dispositions de l'article L. 011-4.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L620-8 (M)
+	  - Code du travail applicable à Mayotte. - art. L011-4 (V)
 
 
 ###### Article L441-4
 
 En l'absence de comité d'entreprise, par suite d'une carence constatée dans les conditions prévues à l'article L. 443-11, les
-attributions économiques qui relèvent du comité sont exercées temporairement par les délégués du personnel.
+attributions économiques qui relèvent du comité sont exercées temporairement par les délégués du personnel. 
 
 Toute suppression d'un comité d'entreprise est subordonnée à un accord entre le chef d'entreprise et l'ensemble des
-organisations syndicales représentatives dans l'entreprise.
+organisations syndicales représentatives dans l'entreprise. 
 
 A défaut d'accord, le directeur du travail, de l'emploi et de la formation professionnelle peut autoriser la suppression du
 comité d'entreprise en cas de réduction importante et durable du personnel qui ramène l'effectif au-dessous de cinquante
-salariés.
+salariés. 
 
 Tout syndicat affilié à une organisation représentative sur le plan national ou reconnu représentatif à Mayotte en
-application de l'article L. 412-3 est considéré comme représentatif dans l'entreprise pour l'application du présent chapitre.
+application de l'article L. 412-1 est considéré comme représentatif dans l'entreprise pour l'application du présent chapitre.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
 
 	**Cité par**:
 
@@ -23474,8 +25172,8 @@ application de l'article L. 412-3 est considéré comme représentatif dans l'en
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L412-3 (M)
-	  - Code du travail applicable à Mayotte. - art. L443-11 (M)
+	  - Code du travail applicable à Mayotte. - art. L412-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L443-11 (V)
 
 
 ###### Article L441-5
@@ -23536,29 +25234,28 @@ Il peut, en outre, entreprendre les études et recherches nécessaires à sa mis
 Lorsque le chef d'entreprise procède à une annonce publique portant exclusivement sur la stratégie économique de l'entreprise
 et dont les mesures de mise en oeuvre ne sont pas de nature à affecter de façon importante les conditions de travail ou
 d'emploi, le comité d'entreprise se réunit de plein droit sur sa demande dans les quarante-huit heures suivant ladite
-annonce. L'employeur est tenu de lui fournir toute explication utile.
+annonce. L'employeur est tenu de lui fournir toute explication utile. 
 
 Le chef d'entreprise ne peut procéder à une annonce publique dont les mesures de mise en oeuvre sont de nature à affecter de
-façon importante les conditions de travail ou d'emploi des salariés qu'après avoir informé le comité d'entreprise.
+façon importante les conditions de travail ou d'emploi des salariés qu'après avoir informé le comité d'entreprise. 
 
 L'absence d'information du comité d'entreprise, en application des dispositions qui précèdent, est passible des peines
-prévues aux articles L. 450-3 et L. 450-4.
+prévues aux articles L. 450-1 et L. 450-2.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L450-3 (V)
-	  - Code du travail applicable à Mayotte. - art. L450-4 (V)
+	  - Code du travail applicable à Mayotte. - art. L450-1 (V)
 
 
 ###### Article L441-8
@@ -23856,49 +25553,50 @@ moyens ou les techniques permettant un contrôle de l'activité des salariés.
 
 Le comité d'entreprise est informé et consulté sur les problèmes généraux concernant les conditions de travail résultant de
 l'organisation du travail, de la technologie, des conditions d'emploi, de l'organisation du temps de travail, des
-qualifications et des modes de rémunération.
+qualifications et des modes de rémunération. 
 
 A cet effet, il étudie les incidences sur les conditions de travail des projets et décisions de l'employeur dans les domaines
 susvisés et formule des propositions. Il bénéficie du concours du comité d'hygiène, de sécurité et des conditions de travail
-dans les matières, relevant de la compétence de ce comité dont les avis lui sont transmis.
+dans les matières, relevant de la compétence de ce comité dont les avis lui sont transmis. 
 
 Le comité d'entreprise peut confier au comité d'hygiène, de sécurité et des conditions de travail le soin de procéder à des
-études portant sur des matières de la compétence de ce dernier comité.
+études portant sur des matières de la compétence de ce dernier comité. 
 
 Le comité d'entreprise est consulté sur la durée et l'aménagement du temps de travail ainsi que sur le plan d'étalement des
-congés dans les conditions prévues à l'article L. 223-7.
+congés dans les conditions prévues aux articles L. 223-17 à L. 223-20. 
 
 Il est également consulté, en liaison avec le comité d'hygiène, de sécurité et des conditions de travail, sur les mesures
 prises en vue de faciliter la mise ou la remise au travail des accidentés du travail, des invalides de guerre et assimilés,
-des invalides civils et des travailleurs handicapés.
+des invalides civils et des travailleurs handicapés. 
 
-Il est obligatoirement consulté sur les orientations de la formation professionnelle dans l'entreprise.
+Il est obligatoirement consulté sur les orientations de la formation professionnelle dans l'entreprise. 
 
 Le comité d'entreprise est obligatoirement informé et consulté préalablement à la mise en place d'une garantie collective
 ayant pour objet de prévoir, au profit des salariés, des anciens salariés et de leurs ayants droit, la couverture du risque
 décès, des risques portant atteinte à l'intégrité physique de la personne ou liés à la maternité, des risques d'incapacité de
 travail ou d'invalidité, des risques d'inaptitude et du risque chômage, ainsi que la constitution d'avantages sous forme de
-pensions de retraite, d'indemnités ou de primes de départ en retraite ou de fin de carrière ou à la modification de celle-ci.
+pensions de retraite, d'indemnités ou de primes de départ en retraite ou de fin de carrière ou à la modification de celle-
+ci. 
 
-Le comité d'entreprise est obligatoirement consulté sur :
+Le comité d'entreprise est obligatoirement consulté sur : 
 
-1° Les objectifs de l'entreprise en matière d'apprentissage ;
+1° Les objectifs de l'entreprise en matière d'apprentissage ; 
 
 2° Le nombre des apprentis susceptibles d'être accueillis dans l'entreprise par niveau initial de formation, par diplôme,
-titre homologué ou titre d'ingénieur préparés ;
+titre homologué ou titre d'ingénieur préparés ; 
 
 3° Les conditions de mise en oeuvre des contrats d'apprentissage, notamment les modalités d'accueil, d'affectation à des
-postes adaptés, d'encadrement et de suivi des apprentis ;
+postes adaptés, d'encadrement et de suivi des apprentis ; 
 
-4° Les modalités de liaison entre l'entreprise et le centre de formation d'apprentis ;
+4° Les modalités de liaison entre l'entreprise et le centre de formation d'apprentis ; 
 
 5° Les conditions de mise en oeuvre des conventions d'aide au choix professionnel des élèves de classe préparatoire à
-l'apprentissage.
+l'apprentissage. 
 
-Il est, en outre, informé sur :
+Il est, en outre, informé sur : 
 
 1° Le nombre des apprentis engagés par l'entreprise, par âge et par sexe, les diplômes, titres homologués ou titres
-d'ingénieur obtenus en tout ou partie par les apprentis et la manière dont ils l'ont été ;
+d'ingénieur obtenus en tout ou partie par les apprentis et la manière dont ils l'ont été ; 
 
 2° Les perspectives d'emploi des apprentis.
 
@@ -23906,16 +25604,16 @@ d'ingénieur obtenus en tout ou partie par les apprentis et la manière dont ils
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L223-7 (M)
+	  - Code du travail applicable à Mayotte. - art. L223-17 (VD)
 
 	**Cité par**:
 
@@ -24464,12 +26162,12 @@ Le chef d'entreprise rend compte en la motivant de la suite donnée à ces avis 
 Le comité d'entreprise comprend le chef d'entreprise ou son représentant et une délégation du personnel comportant un nombre
 de membres fixé par décret en Conseil d'Etat compte tenu du nombre des salariés. Cette délégation comporte un nombre égal de
 titulaires et de suppléants. Les suppléants assistent aux séances avec voix consultative. Le calcul des effectifs s'effectue
-dans les conditions prévues à l'article L. 620-8 du présent code.
+dans les conditions prévues à l'article L. 011-4 du présent code. 
 
-Le chef d'entreprise ou son représentant peut se faire assister par deux collaborateurs.
+Le chef d'entreprise ou son représentant peut se faire assister par deux collaborateurs. 
 
 Le nombre de membres peut être augmenté par voie de convention collective ou d'accord d'entreprise entre le chef d'entreprise
-et les organisations syndicales représentatives dans celle-ci.
+et les organisations syndicales représentatives dans celle-ci. 
 
 Chaque organisation syndicale de salariés représentative dans l'entreprise peut désigner un représentant au comité. Il
 assiste aux séances avec voix consultative. Il est obligatoirement choisi parmi les membres du personnel de l'entreprise et
@@ -24479,17 +26177,17 @@ doit remplir les conditions d'éligibilité au comité d'entreprise fixées à l
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
 
 	**Cite**:
 
+	  - Code du travail applicable à Mayotte. - art. L011-4 (V)
 	  - Code du travail applicable à Mayotte. - art. L443-5 (V)
-	  - Code du travail applicable à Mayotte. - art. L620-8 (M)
 
 	**Cité par**:
 
@@ -24502,28 +26200,29 @@ doit remplir les conditions d'éligibilité au comité d'entreprise fixées à l
 
 Les représentants du personnel sont élus, d'une part, par les ouvriers et employés, d'autre part, par les ingénieurs, chefs
 de service, techniciens, agents de maîtrise et assimilés sur des listes établies par les organisations syndicales
-représentatives pour chaque catégorie de personnel.
+représentatives pour chaque catégorie de personnel. 
 
 Tout syndicat affilié à une organisation représentative sur le plan national ou reconnu représentatif à Mayotte en
-application de l'article L. 412-3 est considéré comme représentatif dans l'entreprise pour l'application du présent chapitre.
+application de l'article L. 412-1 est considéré comme représentatif dans l'entreprise pour l'application du présent
+chapitre. 
 
 Dans les entreprises occupant plus de cinq cents salariés, les ingénieurs, les chefs de service et cadres administratifs,
-commerciaux ou techniques assimilés ont au moins un délégué titulaire élu dans les mêmes conditions.
+commerciaux ou techniques assimilés ont au moins un délégué titulaire élu dans les mêmes conditions. 
 
 En outre, dans les entreprises, quel que soit l'effectif de leurs salariés, où le nombre des ingénieurs, chefs de service et
 cadres administratifs, commerciaux ou techniques assimilés sur le plan de la classification est au moins égal à vingt-cinq au
-moment de la constitution ou du renouvellement du comité, lesdites catégories constituent un collège spécial.
+moment de la constitution ou du renouvellement du comité, lesdites catégories constituent un collège spécial. 
 
 Sans préjudice des dispositions de l'alinéa précédent, le nombre et la composition des collèges électoraux ne peuvent être
 modifiés par une convention, un accord collectif de travail, étendu ou non, ou un accord préélectoral que lorsque la
 convention ou l'accord est signé par toutes les organisations syndicales représentatives existant dans l'entreprise. L'accord
-préélectoral est obligatoirement transmis à l'inspecteur du travail.
+préélectoral est obligatoirement transmis à l'inspecteur du travail. 
 
 La répartition des sièges entre les différentes catégories et la répartition du personnel dans les collèges électoraux font
-l'objet d'un accord entre le chef d'entreprise ou son représentant et les organisations syndicales intéressées.
+l'objet d'un accord entre le chef d'entreprise ou son représentant et les organisations syndicales intéressées. 
 
 Dans le cas où cet accord ne peut être obtenu, l'inspecteur du travail décide de cette répartition entre les collèges
-électoraux conformément au cinquième alinéa du présent article ou, à défaut, conformément à la loi.
+électoraux conformément au cinquième alinéa du présent article ou, à défaut, conformément à la loi. 
 
 A l'occasion de l'élaboration du protocole d'accord préélectoral visé ci-dessus, les organisations syndicales intéressées
 examinent les voies et moyens en vue d'atteindre une représentation équilibrée des femmes et des hommes sur les listes de
@@ -24533,12 +26232,12 @@ candidatures.
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
 
 	**Cité par**:
 
@@ -24549,7 +26248,7 @@ candidatures.
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L412-3 (M)
+	  - Code du travail applicable à Mayotte. - art. L412-1 (V)
 
 
 ###### Article L443-3
@@ -24682,12 +26381,12 @@ du tribunal de première instance statuant en dernier ressort en la forme des r�
 
 ###### Article L443-8
 
-Le scrutin est de liste et à deux tours avec représentation proportionnelle à la plus forte moyenne.
+Le scrutin est de liste et à deux tours avec représentation proportionnelle à la plus forte moyenne. 
 
 Au premier tour de scrutin, chaque liste est établie par les organisations syndicales représentatives au sens de l'article L.
-412-3. Si le nombre des votants est inférieur à la moitié des électeurs inscrits, il est procédé, dans un délai de quinze
+412-1. Si le nombre des votants est inférieur à la moitié des électeurs inscrits, il est procédé, dans un délai de quinze
 jours, à un second tour de scrutin pour lequel les électeurs peuvent voter pour des listes autres que celles présentées par
-les organisations syndicales.
+les organisations syndicales. 
 
 Lorsque le nom d'un candidat a été raturé, les ratures ne sont pas prises en compte si leur nombre est inférieur à 10 % des
 suffrages valablement exprimés en faveur de la liste sur laquelle figure ce candidat ; dans ce cas, les candidats sont
@@ -24697,12 +26396,12 @@ proclamés élus dans l'ordre de présentation.
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
 
 	**Cité par**:
 
@@ -24711,7 +26410,7 @@ proclamés élus dans l'ordre de présentation.
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L412-3 (M)
+	  - Code du travail applicable à Mayotte. - art. L412-1 (V)
 
 
 ###### Article L443-9
@@ -24791,32 +26490,32 @@ Les candidats sont élus pour la durée du mandat restant à courir.
 Dans toute entreprise ou organisme mentionné à l'article L. 441-1, le chef d'entreprise doit informer, tous les quatre ans,
 le personnel, par voie d'affichage, de l'organisation des élections en vue de la désignation des membres du comité
 d'entreprise. Le document affiché précise la date envisagée pour le premier tour de ces élections qui doit se placer au plus
-tard le quarante-cinquième jour suivant celui de l'affichage.
+tard le quarante-cinquième jour suivant celui de l'affichage. 
 
 Les organisations syndicales intéressées sont invitées par le chef d'entreprise à négocier le protocole d'accord préélectoral
-et à établir les listes de leurs candidats aux fonctions de membre du comité d'entreprise.
+et à établir les listes de leurs candidats aux fonctions de membre du comité d'entreprise. 
 
 Dans le cas d'un renouvellement du comité, cette invitation doit être faite un mois avant l'expiration du mandat des membres
-en exercice. Le premier tour des élections doit avoir lieu dans la quinzaine qui précède l'expiration de ce mandat.
+en exercice. Le premier tour des élections doit avoir lieu dans la quinzaine qui précède l'expiration de ce mandat. 
 
 Dans le cas où, en l'absence de comité, l'employeur est invité à organiser des élections à la suite d'une demande émanant
 d'un salarié ou d'une organisation syndicale, il est tenu d'engager la procédure ci-dessus définie dans le mois suivant la
-réception de ladite demande.
+réception de ladite demande. 
 
 Lorsque le comité n'a pas été constitué ou renouvelé, un procès-verbal de carence est établi par le chef d'entreprise ;
 celui-ci l'affiche dans l'entreprise et le transmet dans les quinze jours à l'inspecteur du travail qui en envoie copie aux
-organisations syndicales de salariés représentatives au sens de l'article L. 412-3.
+organisations syndicales de salariés représentatives au sens de l'article L. 412-1.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-1068 du 25 août 2006 - art. 6 (V) JORF 26 août 2006
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
 
 	**Cité par**:
 
@@ -24828,7 +26527,7 @@ organisations syndicales de salariés représentatives au sens de l'article L. 4
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L412-3 (M)
+	  - Code du travail applicable à Mayotte. - art. L412-1 (V)
 	  - Code du travail applicable à Mayotte. - art. L441-1 (V)
 
 
@@ -25360,69 +27059,6 @@ paiement s'accompagne du versement des cotisations afférentes à ladite indemni
 
 ###### Article L450-1
 
-Les directeurs ou administrateurs de syndicats ou d'unions de syndicats qui auront commis des infractions aux dispositions de
-l'article L. 411-1 seront punis d'une amende de 3750 euros. La dissolution du syndicat ou de l'union de syndicats pourra, en
-outre, être prononcée à la diligence du procureur de la République.
-
-En cas de fausse déclaration relative aux statuts et aux noms et qualités des directeurs ou administrateurs, l'amende sera de
-3750 euros.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 21 (V) JORF 22 janvier 2005 en vigueur le 1er janvier 2006
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. L133-3 (V)
-	  - Code du travail applicable à Mayotte. - art. L441-7 (V)
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L411-1 (M)
-
-	**Anciens textes**:
-
-	  - Code du travail applicable à Mayotte. - art. L430-1 (M)
-	  - Code du travail applicable à Mayotte. - art. L430-1 (T)
-
-
-###### Article L450-2
-
-Les chefs d'établissement, directeurs ou gérants qui auront enfreint les dispositions des articles L. 412-2 et L. 413-2
-seront passibles d'une amende de 3750 euros et, en cas de récidive, d'un emprisonnement d'un an et d'une amende de 7500 euros
-ou de l'une de ces deux peines seulement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 21 (V) JORF 22 janvier 2005 en vigueur le 1er janvier 2006
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L412-2 (M)
-	  - Code du travail applicable à Mayotte. - art. L413-2 (M)
-
-	**Anciens textes**:
-
-	  - Code du travail applicable à Mayotte. - art. L430-2 (M)
-	  - Code du travail applicable à Mayotte. - art. L430-2 (T)
-
-
-###### Article L450-3
-
 Quiconque aura porté ou tenté de porter atteinte, soit à la libre désignation des délégués du personnel, soit à l'exercice
 régulier de leurs fonctions, notamment par la méconnaissance des dispositions des articles L. 435-1 à L. 435-3 et L. 433-16
 et des textes réglementaires pris pour leur application, sera puni d'un emprisonnement d'un an et d'une amende de 3 750 Euros
@@ -25435,31 +27071,28 @@ En cas de récidive, l'emprisonnement peut être porté à deux ans et l'amende 
 	**Codifié par**:
 
 	  - Ordonnance n°91-246 du 25 février 1991
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Loi n°91-1379 du 28 décembre 1991
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 24 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2012-792 du 7 juin 2012 - art. 5
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte.
-	  - Code du travail applicable à Mayotte. - art. L433-16
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
 
 	**Cité par**:
 
+	  - Code du travail applicable à Mayotte. - art. L133-3 (V)
 	  - Code du travail applicable à Mayotte. - art. L441-7 (V)
 
-	**Nouveaux textes**:
+	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L450-1 (VD)
+	  - Code du travail applicable à Mayotte. - art. L411-1
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. L430-1 (T)
+	  - Code du travail applicable à Mayotte. - art. L450-3 (VT)
 
 
-###### Article L450-4
+###### Article L450-2
 
 Toute entrave apportée, soit à la constitution d'un comité d'entreprise, soit à la libre désignation de ses membres, soit à
 son fonctionnement régulier, notamment par la méconnaissance des dispositions des articles L. 443-11, L. 445-1 à L. 445-3 et
@@ -25472,29 +27105,22 @@ En cas de récidive, l'emprisonnement pourra être porté à deux ans et l'amend
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
+	  - Ordonnance n°91-246 du 25 février 1991
 	  - Loi n°91-1379 du 28 décembre 1991
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 24 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte.
-	  - Code du travail applicable à Mayotte. - art. L443-11
+	  - Code du travail applicable à Mayotte. - art. L412-2
+	  - Code du travail applicable à Mayotte. - art. L413-2
 
-	**Cité par**:
+	**Anciens textes**:
 
-	  - Code du travail applicable à Mayotte. - art. L441-7 (V)
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. L450-2 (VD)
+	  - Code du travail applicable à Mayotte. - art. L430-2 (T)
+	  - Code du travail applicable à Mayotte. - art. L450-4 (VT)
 
 
 ## LIVRE V : CONFLITS DU TRAVAIL
@@ -26396,14 +28022,14 @@ Les interprètes visés à l'article L. 610-7 sont tenus aux mêmes obligations.
 ###### Article L610-11
 
 Les dispositions du présent chapitre ne dérogent pas aux règles du droit commun relatives à la constatation et à la poursuite
-des infractions par les officiers et agents de police judiciaire.
+des infractions par les officiers et agents de police judiciaire. 
 
 Dans le cadre des enquêtes préliminaires diligentées pour la recherche et la constatation des infractions prévues aux
 articles L. 312-1 et L. 330-5 du présent code, les officiers de police judiciaire assistés, le cas échéant, des agents de
 police judiciaire peuvent, sur ordonnance du président du tribunal de première instance de Mayotte ou d'un juge délégué par
 lui, rendue sur réquisitions du procureur de la République, procéder à des visites domiciliaires, perquisitions et saisies de
-pièces à conviction dans les lieux de travail des salariés visés à l'article L. 000-1 et ceux des travailleurs indépendants
-et des employeurs exerçant directement une activité, même lorsqu'il s'agit de locaux habités.
+pièces à conviction dans les lieux de travail des salariés visés à l'article L. 011-1 et ceux des travailleurs indépendants
+et des employeurs exerçant directement une activité, même lorsqu'il s'agit de locaux habités. 
 
 Le juge doit vérifier que les réquisitions du procureur de la République mentionnées à l'alinéa précédent sont fondées sur
 des éléments de fait laissant présumer l'existence des infractions dont la preuve est recherchée.
@@ -26412,18 +28038,18 @@ des éléments de fait laissant présumer l'existence des infractions dont la pr
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 112 () JORF 25 juillet 2006
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 6
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L000-1 (M)
-	  - Code du travail applicable à Mayotte. - art. L312-1 (M)
-	  - Code du travail applicable à Mayotte. - art. L330-5 (M)
+	  - Code du travail applicable à Mayotte. - art. L011-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L312-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L330-5 (V)
 
 	**Cité par**:
 
@@ -26743,72 +28369,6 @@ L. 620-1 et L. 620-3, à l'exception de celles relatives aux travailleurs étran
 
 	  - Code du travail applicable à Mayotte. - art. L620-1 (M)
 	  - Code du travail applicable à Mayotte. - art. L620-3 (M)
-
-
-###### Article L620-8
-
-Pour la mise en oeuvre des dispositions du présent code, les effectifs de l'entreprise sont calculés conformément aux
-dispositions suivantes.
-
-Les salariés titulaires d'un contrat à durée indéterminée à temps plein sont pris intégralement en compte dans l'effectif de
-l'entreprise.
-
-Les salariés titulaires d'un contrat à durée déterminée, les travailleurs mis à la disposition de l'entreprise par une
-entreprise extérieure sont pris en compte dans l'effectif de l'entreprise au prorata de leur temps de présence au cours des
-douze mois précédents. Toutefois, les salariés titulaires d'un contrat à durée déterminée ou mis à disposition par une
-entreprise extérieure sont exclus du décompte des effectifs lorsqu'ils remplacent un salarié absent ou dont le contrat de
-travail est suspendu.
-
-Les salariés à temps partiel, quelle que soit la nature de leur contrat de travail, sont pris en compte en divisant la somme
-totale des horaires inscrits dans leurs contrats de travail par la durée légale ou la durée conventionnelle du travail.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°91-246 du 25 février 1991
-	  - Loi n°91-1379 du 28 décembre 1991
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 28 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 6
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. L238-1 (V)
-	  - Code du travail applicable à Mayotte. - art. L328-3 (VD)
-	  - Code du travail applicable à Mayotte. - art. L431-2 (V)
-	  - Code du travail applicable à Mayotte. - art. L433-1 (V)
-	  - Code du travail applicable à Mayotte. - art. L441-3 (V)
-	  - Code du travail applicable à Mayotte. - art. L443-1 (V)
-	  - Code du travail applicable à Mayotte. - art. R128-5 (V)
-
-
-###### Article L620-9
-
-Les salariés mis à disposition par un groupement d'employeurs ou une association intermédiaire ne sont pas pris en compte
-pour le calcul des effectifs de l'entreprise utilisatrice pour l'application des dispositions législatives ou réglementaires
-relatives à la formation professionnelle continue et à la tarification des risques accident du travail et maladie
-professionnelle qui se réfèrent à une condition d'effectif.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°91-246 du 25 février 1991
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 28 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 6
 
 
 ### TITRE III : PÉNALITÉS.
@@ -27235,18 +28795,19 @@ Les dispositions du premier alinéa de l'article L. 122-12 ne s'appliquent pas a
 
 ###### Article L711-6
 
-Seules les entreprises habilitées par l'autorité administrative compétente peuvent conclure des contrats de qualification.
+Seules les entreprises habilitées par l'autorité administrative compétente peuvent conclure des contrats de qualification. 
 
 Cette habilitation est subordonnée soit à la conclusion par l'entreprise, après consultation du comité d'entreprise ou, à
 défaut, des délégués du personnel, s'ils existent, d'une convention avec un établissement d'enseignement public ou un
 organisme de formation alternée public ou privé prévoyant les modalités d'organisation de la formation alternée, soit à
-l'adhésion de l'entreprise à un accord-cadre conclu entre l'Etat et une organisation professionnelle ou interprofessionnelle.
+l'adhésion de l'entreprise à un accord-cadre conclu entre l'Etat et une organisation professionnelle ou
+interprofessionnelle. 
 
 Cet accord-cadre, conclu après consultation des organisations syndicales de salariés représentatives au sens de l'article L.
-412-3, définit les conditions dans lesquelles les entreprises qui y adhèrent et les établissements d'enseignement ou
+412-1, définit les conditions dans lesquelles les entreprises qui y adhèrent et les établissements d'enseignement ou
 organismes de formation mentionnés à l'alinéa précédent participent à la mise en oeuvre d'un programme de formation alternée.
 Il détermine notamment le rôle des tuteurs chargés d'accueillir et de guider les salariés pendant leur temps de présence en
-entreprise.
+entreprise. 
 
 Un arrêté du représentant de l'Etat à Mayotte détermine les garanties d'ordre technique et professionnel auxquelles est
 subordonnée l'habilitation.
@@ -27258,9 +28819,9 @@ subordonnée l'habilitation.
 	  - Ordonnance n°91-246 du 25 février 1991
 	  - Loi n°91-1379 du 28 décembre 1991
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Ordonnance n°2012-788 du 31 mai 2012 - art. 8
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 7
 
 	**Cité par**:
 
@@ -27270,9 +28831,17 @@ subordonnée l'habilitation.
 	  - Code du travail applicable à Mayotte. - art. D711-3 (V)
 	  - Code du travail applicable à Mayotte. - art. D712-2 (T)
 
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2014-577 du 4 juin 2014 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. L324-9 (V)
+
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L412-3
+	  - Code du travail applicable à Mayotte. - art. L412-1
 
 
 ##### Section 2 : Contrat d'orientation
@@ -27778,20 +29347,20 @@ ce congé.
 ###### Article L722-5
 
 Les dispositions applicables en matière d'accidents du travail et de maladies professionnelles aux personnes mentionnées aux
-8° et 12° de l'article 4 de l'ordonnance n° 2006-1588 du 13 décembre 2006 relative au régime de prévention, de réparation et
-de tarification des accidents du travail et des maladies professionnelles à Mayotte sont applicables à l'ensemble des
-stagiaires de la formation professionnelle continue, réserve faite des fonctionnaires de l'Etat et des collectivités
-territoriales qui restent régis par les dispositions qui leur sont propres.
+2° de l'article L. 412-8 du code de la sécurité sociale sont applicables à l'ensemble des stagiaires de la formation
+professionnelle continue, réserve faite des fonctionnaires de l'Etat et des collectivités territoriales qui restent régis par
+les dispositions qui leur sont propres.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Ordonnance n°2006-1588 du 13 décembre 2006 - art. 4
+	  - Code de la sécurité sociale. - art. L412-8 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 9
+	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 16 (V)
 
 
 ##### Section 4 : Règlement des litiges
@@ -55545,10 +57114,12 @@ Ce n'est que passé ce délai que l'acceptation tacite du salarié concerné est
 
 #### CHAPITRE Ier : Généralités
 
+##### Section 1 : Principes
+
 ###### Article R321-1
 
 Les actions d'urgence que le représentant de l'Etat à Mayotte est habilité à engager en application des dispositions des
-articles L. 321-1 comportent notamment des mesures temporaires de formation professionnelle.
+articles L. 321-1 comportent notamment des mesures temporaires de formation professionnelle. 
 
 Ces actions peuvent être conduites dans le cadre des conventions de coopération prévues à l'article L. 321-2.
 
@@ -55560,12 +57131,12 @@ Ces actions peuvent être conduites dans le cadre des conventions de coopératio
 
 	**Liens**:
 
-	  - DEPLACE: Décret n°2012-658 du 4 mai 2012 - art. 1
+	  - DEPLACE: Décret n°2012-1204 du 30 octobre 2012 - art. 1
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L321-1
-	  - Code du travail applicable à Mayotte. - art. L321-2
+	  - Code du travail applicable à Mayotte. - art. L321-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L321-2 (V)
 
 	**Cité par**:
 
@@ -55586,11 +57157,11 @@ dans le cadre d'une évolution de l'emploi au sein des entreprises.
 
 	**Liens**:
 
-	  - DEPLACE: Décret n°2012-658 du 4 mai 2012 - art. 1
+	  - DEPLACE: Décret n°2012-1204 du 30 octobre 2012 - art. 1
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. R321-1
+	  - Code du travail applicable à Mayotte. - art. R321-1 (V)
 
 
 ###### Article R321-3
@@ -55606,7 +57177,7 @@ l'accomplissement des actions de formation aux postes de travail sous la directi
 
 	**Liens**:
 
-	  - DEPLACE: Décret n°2012-658 du 4 mai 2012 - art. 1
+	  - DEPLACE: Décret n°2012-1204 du 30 octobre 2012 - art. 1
 
 
 ###### Article R321-4
@@ -55635,7 +57206,7 @@ sections de formation hors production, sa participation à l'équipement en mat�
 
 	**Liens**:
 
-	  - DEPLACE: Décret n°2012-658 du 4 mai 2012 - art. 1
+	  - DEPLACE: Décret n°2012-1204 du 30 octobre 2012 - art. 1
 
 
 ###### Article R321-5
@@ -55650,17 +57221,17 @@ Les représentants du personnel sont consultés sur les projets relatifs aux con
 
 	**Liens**:
 
-	  - DEPLACE: Décret n°2012-658 du 4 mai 2012 - art. 1
+	  - DEPLACE: Décret n°2012-1204 du 30 octobre 2012 - art. 1
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L321-2
+	  - Code du travail applicable à Mayotte. - art. L321-2 (V)
 
 
 ###### Article R321-6
 
 Le comité de la formation professionnelle, de la promotion sociale et de l'emploi est informé sur les conditions générales de
-mise en oeuvre, dans la collectivité départementale, des conventions mentionnées à l'article L. 321-2.
+mise en oeuvre, dans la collectivité départementale, des conventions mentionnées à l'article L. 321-2. 
 
 Les conventions mentionnées à l'article L. 321-2 sont, avant leur conclusion, soumises pour avis au comité de la formation
 professionnelle, de la promotion sociale et de l'emploi.
@@ -55673,11 +57244,196 @@ professionnelle, de la promotion sociale et de l'emploi.
 
 	**Liens**:
 
-	  - DEPLACE: Décret n°2012-658 du 4 mai 2012 - art. 1
+	  - DEPLACE: Décret n°2012-1204 du 30 octobre 2012 - art. 1
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L321-2
+	  - Code du travail applicable à Mayotte. - art. L321-2 (V)
+
+
+##### Section 2 : Aides au maintien et à la sauvegarde de l'emploi
+
+##### Sous-section 2 : Aides aux salariés en chômage partiel
+
+###### Article R321-10
+
+Les allocations prévues par l'article L. 327-10 sont attribuées par le représentant de l'Etat à Mayotte ou, sur délégation,
+par le directeur du travail, de l'emploi et de la formation professionnelle de Mayotte au vu d'une demande préalable de
+l'entreprise qui s'engage à assurer le versement au salarié de l'allocation spécifique et de l'allocation complémentaire
+prévues à l'article L. 327-10. 
+
+Ces allocations peuvent être attribuées aux salariés des entreprises qui sont contraintes de réduire ou de suspendre
+temporairement leur activité en raison de la conjoncture économique, de difficultés d'approvisionnement en matières premières
+ou en énergie, d'un sinistre ou d'intempéries de caractère exceptionnel, d'une transformation, restructuration ou
+modernisation de l'entreprise ou de toute autre circonstance de caractère exceptionnel. 
+
+Ces allocations sont attribuées dans la limite d'un contingent annuel d'heures indemnisables fixé, en tenant compte de la
+situation économique, par arrêté du ministre chargé de l'emploi. Cette limite ne peut être dépassée que dans des cas
+exceptionnels résultant de la situation particulière de l'entreprise, sur décision conjointe des ministres chargés de
+l'emploi, du budget et de l'outre-mer. 
+
+Au sein de ce contingent, l'arrêté précité fixe, dans la limite correspondant au volume horaire du nombre de semaines défini
+au dernier alinéa du présent article, le nombre d'heures pouvant être indemnisées en cas de modernisation des installations
+et des bâtiments de l'entreprise à caractère exceptionnel. Cette limite ne peut être dépassée que dans des cas exceptionnels
+résultant de la situation particulière de l'entreprise, sur décision conjointe du représentant de l'Etat à Mayotte et du
+trésorier-payeur général. 
+
+L'arrêté fixe également le nombre d'heures pouvant être indemnisées en cas de fermeture temporaire d'un établissement, dans
+la limite de douze semaines de suspension d'activité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1204 du 30 octobre 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L327-10 (V)
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R327-10 (T)
+
+
+###### Article R321-11
+
+Ne peuvent bénéficier des allocations :
+
+1° Les personnes dont le salaire hebdomadaire habituel est inférieur à dix-huit fois le salaire minimum interprofessionnel
+garanti ;
+
+2° Les personnes dont le chômage est provoqué par un différend collectif de travail intéressant l'établissement qui les
+emploie ; toutefois, dans le cas d'un lock-out se prolongeant plus de trois jours, le versement des allocations peut être
+autorisé par décision du représentant de l'Etat à Mayotte ;
+
+3° Les chômeurs saisonniers ; toutefois, ceux-ci peuvent bénéficier des allocations si leur état de chômage a un caractère
+exceptionnel à l'époque de l'année à laquelle il se produit. Ils doivent alors faire la preuve qu'au cours d'une des deux
+années précédentes ils occupaient à la même époque et pendant la même période un emploi salarié dont ils tiraient une
+rémunération régulière.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1204 du 30 octobre 2012 - art. 1
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R327-11 (T)
+
+
+###### Article R321-12
+
+Le nombre d'heures perdues pouvant justifier des allocations attribuées en application de l'article L. 327-10 correspond à la
+différence entre la durée légale du travail applicable dans l'entreprise ou, lorsqu'elle est inférieure à la durée collective
+du travail ou à la durée stipulée au contrat et le nombre d'heures réellement travaillées sur la période considérée. 
+
+Ces allocations prennent la forme d'indemnités horaires dont le taux est fixé par décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1204 du 30 octobre 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L327-10 (V)
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R327-12 (T)
+
+
+###### Article R321-13
+
+L'employeur doit, préalablement à la mise au chômage partiel de ses salariés, adresser à l'autorité administrative une
+demande d'indemnisation précisant les motifs justifiant le recours au chômage partiel, la durée prévisible de la sous-
+activité, le nombre de salariés concernés ainsi que, pour chacun d'entre eux, la durée du travail habituellement effectuée. 
+
+Toutefois, en cas de suspension d'activité due à un sinistre ou à des intempéries, l'employeur dispose d'un délai de 30 jours
+pour adresser sa demande. 
+
+L'autorité administrative dispose d'un délai de 20 jours à compter de la date de réception de la demande pour notifier à
+l'employeur sa décision d'acceptation ou de refus. 
+
+L'allocation pour privation partielle d'emploi est liquidée mensuellement. Les indemnités sont versées aux salariés à la date
+normale de paie par l'employeur. 
+
+L'employeur est remboursé sur production d'états nominatifs, visés par l'autorité administrative compétente, précisant le
+nombre d'heures chômées par chaque salarié ainsi que le montant de l'allocation complémentaire qui lui est versé par
+l'employeur en application de l'article L. 327-10. 
+
+Toutefois, en cas de procédure de sauvegarde ou de redressement ou de liquidation judiciaire, ou de difficultés financières
+de l'employeur, le représentant de l'Etat à Mayotte ou, sur délégation, le directeur du travail, de l'emploi et de la
+formation professionnelle peut faire procéder au paiement direct des allocations aux salariés. La procédure de paiement
+direct des allocations aux salariés peut également être employée pour assurer, sous le contrôle du directeur du travail, de
+l'emploi ou de la formation professionnelle, l'indemnisation des travailleurs à domicile habituellement occupés par plusieurs
+employeurs. 
+
+A l'occasion du paiement des allocations, un document indiquant le nombre des heures indemnisées, les taux appliqués et les
+sommes versées au titre de la période considérée est remis au salarié par l'employeur ou, en cas de paiement direct, par les
+services chargés du paiement. Ce document distingue la partie de l'allocation qui est remboursée par l'Etat, ou allocation
+spécifique, et la partie de l'allocation qui est à la charge de l'employeur, ou allocation complémentaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1204 du 30 octobre 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L327-10 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R321-14 (M)
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R327-13 (T)
+
+
+###### Article R321-14
+
+Les entreprises appliquant un accord de modulation du temps de travail peuvent bénéficier des allocations de chômage partiel
+pour chaque heure perdue en deçà de la durée du travail prévue dans le programme indicatif des salariés concernés sur la
+période considérée dans les limites de la durée légale ou de la durée hebdomadaire moyenne sur l'année ou sur la période
+retenue par l'accord ou la convention, si elle est inférieure. 
+
+L'employeur doit adresser une demande d'indemnisation selon la procédure prévue à l'article R. 321-13 ; il doit en outre
+communiquer à l'autorité administrative compétente le programme indicatif sur la période considérée ainsi que les mesures
+mises en oeuvre pour éviter le recours au chômage partiel. 
+
+Les indemnités sont versées aux salariés dans les conditions définies à l'article R. 321-13. 
+
+L'employeur est remboursé sur production d'états nominatifs, à la fin de la période de modulation, et au vu des heures
+effectivement travaillées sur l'année figurant dans le bilan de la modulation du temps de travail, dressé par l'employeur et
+communiqué à l'autorité administrative. 
+
+Toutefois, l'employeur est remboursé mensuellement dans les cas suivants : 
+
+1° Lorsqu'il est avéré que l'entreprise ne pourra pas atteindre, au plus, en moyenne, la durée hebdomadaire légale du travail
+par semaine travaillée, compte tenu des durées maximales du travail et de l'amplitude de la modulation ; 
+
+2° Lorsque l'autorité administrative estime que la situation exceptionnelle de l'entreprise ou des difficultés économiques
+sérieuses et avérées nécessitent le remboursement mensuel de l'allocation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1204 du 30 octobre 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R321-13 (V)
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R327-14 (T)
 
 
 #### CHAPITRE II : Dispositions relatives au contrat unique d'insertion 
@@ -58336,6 +60092,8 @@ par arrêté conjoint des ministres chargés des départements d'outre-mer, de l
 
 ##### Section 2 : Perte temporaire de salaire
 
+##### Section 2 : Régime de solidarité
+
 ###### Article R327-10
 
 Les allocations prévues par l'article L. 327-10 sont attribuées par le représentant de l'Etat à Mayotte ou, sur délégation,
@@ -58565,6 +60323,736 @@ sérieuses et avérées nécessitent le remboursement mensuel de l'allocation.
 	**Cite**:
 
 	  - Code du travail applicable à Mayotte. - art. R327-13
+
+
+##### Sous-section 1 : Allocation de solidarité spécifique
+
+##### Paragraphe 1 : Conditions d'attribution
+
+###### Article R327-20
+
+Pour bénéficier de l'allocation de solidarité spécifique dans les conditions prévues au présent chapitre, les personnes
+mentionnées à l'article L. 327-20 domiciliées et inscrites sur la liste des demandeurs d'emploi à Mayotte : 
+
+1° Justifient de cinq ans d'activité salariée dans les dix ans précédant la fin du contrat de travail à partir de laquelle
+ont été ouverts leurs droits aux allocations d'assurance. En ce qui concerne les personnes ayant interrompu leur activité
+salariée pour élever un enfant, cette durée est réduite, dans la limite de trois ans, d'un an par enfant à charge ou élevé
+pendant au moins neuf ans avant leur seizième anniversaire ; 
+
+2° Sont effectivement à la recherche d'un emploi au sens de l'article L. 327-3 ; 
+
+3° Justifient, à la date de la demande, de ressources mensuelles inférieures à un plafond correspondant à 70 fois le montant
+journalier de l'allocation pour une personne seule et 110 fois le même montant pour un couple.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1204 du 30 octobre 2012 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1566 du 31 décembre 2012 - art. 7
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L327-20 (V)
+	  - Code du travail applicable à Mayotte. - art. L327-3 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R327-11 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R327-21 (T)
+	  - Code du travail applicable à Mayotte. - art. R327-22 (T)
+	  - Code du travail applicable à Mayotte. - art. R327-26 (T)
+
+
+###### Article R327-21
+
+Les ressources prises en considération pour l'application du plafond prévu au 3° de l'article R. 327-20 comprennent
+l'allocation de solidarité spécifique ainsi que les autres ressources de l'intéressé et, le cas échéant, du conjoint,
+partenaire lié par un pacte civil de solidarité ou concubin, telles qu'elles doivent être déclarées à l'administration
+fiscale pour le calcul de l'impôt sur le revenu avant déduction des divers abattements. Toutefois, ces dispositions ne
+s'appliquent pas lorsque le conjoint, partenaire lié par un pacte civil de solidarité ou concubin du demandeur est dirigeant
+d'une entreprise entrant dans le champ d'application de l'article 50-0 du code général des impôts applicable à Mayotte. 
+
+Le montant pris en compte est le douzième du total des ressources perçues pendant les douze mois précédant celui au cours
+duquel la demande a été présentée. 
+
+Les ressources perçues hors du territoire national sont prises en compte comme si elles avaient été perçues sur ce
+territoire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1204 du 30 octobre 2012 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1566 du 31 décembre 2012 - art. 7
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 50-0
+	  - Code du travail applicable à Mayotte. - art. R327-20 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R327-12 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R327-22 (T)
+
+
+###### Article R327-22
+
+Lorsque le bénéficiaire est marié sous le régime du statut civil de droit local, dans sa version antérieure à l'ordonnance n°
+2010-590 du 3 juin 2010 portant dispositions relatives au statut civil de droit local applicable à Mayotte et aux
+juridictions compétentes, le plafond de ressources applicable est celui prévu, à l'article R. 327-20, pour les bénéficiaires
+en couple. Seules ses ressources ainsi que celles de sa première épouse sont prises en compte pour l'application de l'article
+R. 327-21. 
+
+Ses épouses peuvent, le cas échéant, bénéficier à titre personnel de l'allocation de solidarité spécifique dans les
+conditions prévues aux articles R. 327-20 et R. 327-21.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°2010-590 du 3 juin 2010
+	  - Code du travail applicable à Mayotte. - art. R327-20 (V)
+	  - Code du travail applicable à Mayotte. - art. R327-21 (V)
+
+	**Créé par**:
+
+	  - Décret n°2012-1204 du 30 octobre 2012 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1566 du 31 décembre 2012 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R327-13 (V)
+
+
+###### Article R327-23
+
+Ne sont pas prises en compte pour la détermination du droit à l'allocation de solidarité spécifique les ressources
+suivantes : 
+
+1° L'allocation d'assurance précédemment perçue par l'intéressé ; 
+
+2° Les prestations familiales ; 
+
+3° La prime forfaitaire instituée par l'article L. 327-41 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1204 du 30 octobre 2012 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1566 du 31 décembre 2012 - art. 7
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L327-41 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R327-14 (V)
+
+
+###### Article R327-24
+
+La pension alimentaire ou la prestation compensatoire fixée par une décision de justice devenue exécutoire est déduite des
+ressources de celui qui la verse.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1204 du 30 octobre 2012 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1566 du 31 décembre 2012 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R327-15 (V)
+
+
+###### Article R327-25
+
+Il n'est pas tenu compte, pour la détermination des ressources, des allocations de solidarité, des allocations d'assurance,
+des rémunérations de stage ou des revenus d'activité perçus pendant la période de référence lorsqu'il est justifié que leur
+perception est interrompue de manière certaine à la date de la demande et que le bénéficiaire de ces ressources ne peut
+prétendre à un revenu de substitution. 
+
+Lorsque le bénéficiaire peut prétendre à un revenu de sub-stitution, un abattement de 30 % est appliqué sur la moyenne des
+ressources auxquelles ce revenu se substitue.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1204 du 30 octobre 2012 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1566 du 31 décembre 2012 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R327-16 (V)
+
+
+###### Article R327-26
+
+Lorsque le total des ressources prises en considération excède le plafond mentionné au 3° de l'article R. 327-20,
+l'allocation n'est versée qu'à concurrence d'un montant global de ressources égal au plafond.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1204 du 30 octobre 2012 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1566 du 31 décembre 2012 - art. 7
+
+	**Cité par**:
+
+	  - Décret n°2017-241 du 24 février 2017 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R327-17 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R327-20 (V)
+
+
+##### Paragraphe 2 : Versement, renouvellement et prolongation
+
+###### Article R327-27
+
+L'allocation de solidarité spécifique est attribuée pour une période de six mois renouvelable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1204 du 30 octobre 2012 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1566 du 31 décembre 2012 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R327-18 (V)
+
+
+###### Article R327-28
+
+Le renouvellement de l'allocation est subordonné aux mêmes conditions que son attribution initiale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1204 du 30 octobre 2012 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1566 du 31 décembre 2012 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R327-19 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R327-32 (V)
+
+
+###### Article R327-29
+
+Le délai dans lequel doit être présentée la demande de paiement de l'allocation de solidarité spécifique est fixé à deux ans
+à compter du jour où les personnes intéressées remplissent l'ensemble des conditions exigées pour pouvoir prétendre au
+bénéfice de cette allocation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1204 du 30 octobre 2012 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1566 du 31 décembre 2012 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R327-20 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R327-27 (V)
+
+
+###### Article R327-30
+
+Dans les cas où la condition de ressources est applicable aux bénéficiaires, l'allocation de solidarité spécifique n'est pas
+versée lorsque le montant mensuel dû est inférieur au taux journalier de cette allocation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1204 du 30 octobre 2012 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1566 du 31 décembre 2012 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R327-21 (V)
+
+
+###### Article R327-31
+
+Les sommes indûment perçues au titre de l'allocation de solidarité spécifique ne donnent pas lieu à remboursement lorsque
+leur montant global est inférieur au montant journalier de cette allocation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1204 du 30 octobre 2012 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1566 du 31 décembre 2012 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R327-22 (Ab)
+
+
+##### Paragraphe 3 : Contribution exceptionnelle de solidarité
+
+###### Article R327-32
+
+La contribution exceptionnelle de solidarité prévue à l'article L. 327-28 est précomptée et versée par l'employeur au fonds
+de solidarité dans les quinze premiers jours du mois suivant celui du versement des rémunérations ayant supporté le
+précompte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1204 du 30 octobre 2012 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1566 du 31 décembre 2012 - art. 7
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L327-28
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R327-23 (V)
+
+
+###### Article R327-33
+
+Le versement de la contribution exceptionnelle de solidarité est accompagné d'une déclaration de l'employeur indiquant
+notamment le nombre de personnes assujetties à cette contribution, son assiette et son montant. 
+
+En cas d'absence de déclaration dans les délais prescrits, le directeur du fonds de solidarité peut fixer forfaitairement à
+titre provisionnel le montant de cette contribution.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1204 du 30 octobre 2012 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1566 du 31 décembre 2012 - art. 7
+
+	**Cité par**:
+
+	  - Décret n°2017-826 du 5 mai 2017 - art. 5 (V)
+	  - Code du travail applicable à Mayotte. - art. R327-39 (VD)
+	  - Code du travail applicable à Mayotte. - art. R327-40 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R327-24 (V)
+
+
+###### Article R327-34
+
+La rétention indue du précompte, malgré une mise en demeure non suivie d'effet dans le mois, rend l'employeur passible des
+pénalités prévues au chapitre IV du titre IV du livre II du code de la sécurité sociale. 
+
+Dans ce cas, les poursuites sont engagées à la requête du ministère public à la demande du directeur du fonds de solidarité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1204 du 30 octobre 2012 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1566 du 31 décembre 2012 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R327-25 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R327-37 (VT)
+	  - Code du travail applicable à Mayotte. - art. R327-38 (VD)
+	  - Code du travail applicable à Mayotte. - art. R327-39 (VD)
+
+
+###### Article R327-35
+
+Le montant prévu au deuxième alinéa de l'article L. 327-34 est égal au traitement mensuel brut afférent à l'indice brut 296
+de la fonction publique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1204 du 30 octobre 2012 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1566 du 31 décembre 2012 - art. 7
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L327-34
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R327-26 (V)
+
+
+##### Section 3 : Maintien des droits au revenu de remplacement du demandeur indemnisé
+
+##### Sous-section 1 : Exercice d'une activité professionnelle et cumul de l'allocation de solidarité spécifique avec d'autres revenus
+
+###### Article R327-36
+
+L'exercice d'une activité professionnelle ou le fait de suivre une formation rémunérée ne fait pas obstacle à la reprise du
+versement de l'allocation de solidarité spécifique. 
+
+Toutefois, ce versement ne peut être réalisé qu'à l'expiration des droits éventuels aux allocations d'assurance chômage et à
+la condition qu'il n'intervienne pas plus de quatre ans après la date d'admission à l'allocation de solidarité spécifique ou
+la date de son dernier renouvellement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1204 du 30 octobre 2012 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1566 du 31 décembre 2012 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R327-33 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R327-42 (T)
+	  - Code du travail applicable à Mayotte. - art. R327-43 (T)
+
+
+###### Article R327-37
+
+La rémunération tirée de l'exercice d'une activité professionnelle peut être cumulée avec l'allocation de solidarité
+spécifique lorsque le bénéficiaire de cette dernière reprend une activité professionnelle salariée inférieure à soixante-dix-
+huit heures par mois pendant une durée maximale de douze mois à compter du début de cette activité, dans la limite des droits
+à l'allocation de solidarité spécifique restants. 
+
+Tout mois civil au cours duquel une activité même occasionnelle ou réduite a été exercée est pris en compte pour le calcul de
+cette durée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1204 du 30 octobre 2012 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1566 du 31 décembre 2012 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R327-34 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R327-40 (T)
+	  - Code du travail applicable à Mayotte. - art. R327-41 (T)
+	  - Code du travail applicable à Mayotte. - art. R327-42 (T)
+
+
+###### Article R327-38
+
+Pendant les six premiers mois d'activité professionnelle, le nombre des allocations journalières est réduit jusqu'à sa
+suppression éventuelle dans la proportion de 40 % du quotient, lorsqu'il est positif, par le montant journalier de
+l'allocation, de la rémunération brute perçue, diminuée d'un montant égal à la moitié du produit du salaire minimum
+interprofessionnel garanti par le nombre d'heures correspondant à la durée légale du travail. 
+
+Du septième au douzième mois civil suivant d'activité professionnelle, le nombre des allocations journalières est réduit dans
+la proportion de 40 % du quotient, par le montant journalier de l'allocation, de la rémunération brute perçue.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1204 du 30 octobre 2012 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1566 du 31 décembre 2012 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R327-35 (VT)
+
+
+###### Article R327-39
+
+Lorsque le bénéficiaire de l'allocation de solidarité spécifique reprend une activité professionnelle salariée d'une durée de
+travail au moins égale à soixante-dix-huit heures par mois ou une activité professionnelle non salariée, le nombre des
+allocations journalières n'est pas réduit pendant les trois premiers mois d'activité professionnelle. 
+
+Du quatrième au douzième mois d'activité professionnelle, le montant de l'allocation est diminué des revenus d'activité
+perçus par le bénéficiaire. 
+
+Il perçoit mensuellement la prime forfaitaire pour reprise d'activité prévue à l'article L. 327-41, d'un montant de 37,50 €. 
+
+Pour la détermination de la durée de travail, il est tenu compte, le cas échéant, des différents contrats de travail conclus
+par l'intéressé au cours de la période considérée. 
+
+La liste des justificatifs exigés, le cas échéant pour chaque mois d'activité professionnelle, pour le bénéfice de la prime
+forfaitaire est fixée par arrêté conjoint des ministres chargés de la solidarité et de l'emploi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1204 du 30 octobre 2012 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1566 du 31 décembre 2012 - art. 7
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L327-41
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R327-36 (VT)
+
+
+###### Article R327-40
+
+Lorsque, au terme de la période de versement prévue aux articles R. 327-37 à R. 327-39, le nombre total des heures d'activité
+professionnelle n'atteint pas sept cent cinquante heures, le bénéfice de ces dispositions est maintenu à l'allocataire qui
+exerce une activité professionnelle jusqu'à ce qu'il atteigne ce plafond des sept cent cinquante heures.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1204 du 30 octobre 2012 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1566 du 31 décembre 2012 - art. 7
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R327-37 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R327-37 (VT)
+
+
+###### Article R327-41
+
+Lorsque le bénéficiaire de l'allocation ou de la prime mentionnées aux articles R. 327-37 à R. 327-39 interrompt son activité
+professionnelle pendant une durée minimale de six mois, il peut bénéficier à nouveau et dans leur intégralité des
+dispositions de la présente sous-section.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1204 du 30 octobre 2012 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1566 du 31 décembre 2012 - art. 7
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R327-37 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R327-38 (V)
+
+
+###### Article R327-42
+
+Lorsque le bénéficiaire de l'allocation ou de la prime mentionnées aux articles R. 327-37 à R. 327-39 cesse son activité
+pendant ou au terme de la période de versement de l'allocation ou de la prime, il n'est pas fait application du délai de
+quatre ans institué à l'article R. 327-36 s'il sollicite la reprise du versement de l'allocation dont il bénéficiait avant la
+fin du mois suivant la cessation d'activité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1204 du 30 octobre 2012 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1566 du 31 décembre 2012 - art. 7
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R327-36 (V)
+	  - Code du travail applicable à Mayotte. - art. R327-37 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R327-39 (V)
+
+
+###### Article R327-43
+
+Les revenus procurés par les activités professionnelles mentionnées aux articles R. 327-36 à R. 327-42 sont pris en compte
+pour l'application des conditions de ressources prévues pour le bénéfice de l'allocation de solidarité spécifique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1204 du 30 octobre 2012 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1566 du 31 décembre 2012 - art. 7
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R327-36 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R327-40 (V)
+
+
+##### Sous-section 2 : Prime forfaitaire pour reprise d'activité
+
+###### Article R327-44
+
+La prime forfaitaire pour reprise d'activité prévue à l'article L. 327-41 est versée par l'institution mentionnée à l'article
+L. 326-6.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1204 du 30 octobre 2012 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1566 du 31 décembre 2012 - art. 7
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L326-6
+	  - Code du travail applicable à Mayotte. - art. L327-41
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R327-41 (M)
+
+
+###### Article R327-45
+
+Le délai dans lequel la demande de paiement de la prime forfaitaire pour reprise d'activité doit être présentée est fixé à
+deux ans à compter du jour où les personnes intéressées remplissent l'ensemble des conditions exigées pour pouvoir prétendre
+au bénéfice de la prime forfaitaire pour reprise d'activité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1204 du 30 octobre 2012 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1566 du 31 décembre 2012 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R327-42 (VT)
+
+
+###### Article R327-47
+
+Les sommes indûment perçues au titre de la prime forfaitaire pour reprise d'activité ne donnent pas lieu à remboursement
+lorsque leur montant global est inférieur au montant de la prime forfaitaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1204 du 30 octobre 2012 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1566 du 31 décembre 2012 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R327-44 (Ab)
 
 
 ### TITRE III : Main-d'oeuvre étrangère
