@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2012-07-01
+Version Consolidée au 2012-08-08
 
 # Partie législative
 
@@ -184,10 +184,10 @@ indirecte, telle que définie à l'article 1er de la loi n° 2008-496 du 27 mai 
 au droit communautaire dans le domaine de la lutte contre les discriminations, notamment en matière de rémunération, au sens
 de l'article L. 140-3, de formation, de reclassement, d'affectation, de qualification, de classification, de promotion
 professionnelle, de mutation ou de renouvellement de contrat en raison de son origine, de son sexe, de ses mœurs, de son
-orientation sexuelle, de son âge, de sa situation de famille ou de sa grossesse, de ses caractéristiques génétiques, de son
-appartenance ou de sa non-appartenance, vraie ou supposée, à une ethnie, une nation ou une race, de ses opinions politiques,
-de ses activités syndicales ou mutualistes, de ses convictions religieuses, de son apparence physique, de son nom de famille
-ou en raison de son état de santé ou de son handicap ou encore de son statut civil.
+orientation ou identité sexuelle, de son âge, de sa situation de famille ou de sa grossesse, de ses caractéristiques
+génétiques, de son appartenance ou de sa non-appartenance, vraie ou supposée, à une ethnie, une nation ou une race, de ses
+opinions politiques, de ses activités syndicales ou mutualistes, de ses convictions religieuses, de son apparence physique,
+de son nom de famille ou en raison de son état de santé ou de son handicap ou encore de son statut civil.
 
 **Liens relatifs à cet article**
 
@@ -196,9 +196,9 @@ ou en raison de son état de santé ou de son handicap ou encore de son statut c
 	  - Loi n°2008-496 du 27 mai 2008 - art. 1
 	  - Code du travail applicable à Mayotte. - art. L140-3
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+	  - Loi n°2012-954 du 6 août 2012 - art. 4
 
 	**Cité par**:
 
@@ -492,16 +492,17 @@ mentale ou de compromettre son avenir professionnel.
 
 ###### Article L052-2
 
-Aucun salarié ne peut être sanctionné, licencié ou faire l'objet d'une mesure discriminatoire, directe ou indirecte,
-notamment en matière de rémunération, de formation, de reclassement, d'affectation, de qualification, de classification, de
-promotion professionnelle, de mutation ou de renouvellement de contrat pour avoir subi ou refusé de subir des agissements
-répétés de harcèlement moral ou pour avoir témoigné de tels agissements ou les avoir relatés.
+Aucun salarié, aucune personne en formation ou en stage ne peut être sanctionné, licencié ou faire l'objet d'une mesure
+discriminatoire, directe ou indirecte, notamment en matière de rémunération, de formation, de reclassement, d'affectation, de
+qualification, de classification, de promotion professionnelle, de mutation ou de renouvellement de contrat pour avoir subi
+ou refusé de subir des agissements répétés de harcèlement moral ou pour avoir témoigné de tels agissements ou les avoir
+relatés.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+	  - Loi n°2012-954 du 6 août 2012 - art. 9
 
 	**Cité par**:
 
@@ -526,13 +527,19 @@ disposition ou tout acte contraire est nul.
 
 ###### Article L052-4
 
-L'employeur prend toutes dispositions nécessaires en vue de prévenir les agissements de harcèlement moral.
+L'employeur prend toutes dispositions nécessaires en vue de prévenir les agissements de harcèlement moral. 
+
+Le texte de l'article 222-33-2 du code pénal est affiché dans les lieux de travail.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+	  - Loi n°2012-954 du 6 août 2012 - art. 9
+
+	**Cite**:
+
+	  - Code pénal - art. 222-33-2
 
 
 ###### Article L052-5
@@ -570,13 +577,125 @@ procédurales prévues en faveur de la victime.
 	  - Code du travail applicable à Mayotte. - art. L055-1 (V)
 
 
+#### Chapitre III : Harcèlement sexuel
+
+###### Article L053-1
+
+Aucun salarié ne doit subir des faits :
+
+1° Soit de harcèlement sexuel, constitué par des propos ou comportements à connotation sexuelle répétés qui soit portent
+atteinte à sa dignité en raison de leur caractère dégradant ou humiliant, soit créent à son encontre une situation
+intimidante, hostile ou offensante ;
+
+2° Soit assimilés au harcèlement sexuel, consistant en toute forme de pression grave, même non répétée, exercée dans le but
+réel ou apparent d'obtenir un acte de nature sexuelle, que celui-ci soit recherché au profit de l'auteur des faits ou au
+profit d'un tiers.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-954 du 6 août 2012 - art. 9
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L053-2 (V)
+	  - Code du travail applicable à Mayotte. - art. L053-4 (V)
+	  - Code du travail applicable à Mayotte. - art. L054-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L054-2 (V)
+
+
+###### Article L053-2
+
+Aucun salarié, aucune personne en formation ou en stage, aucun candidat à un recrutement, à un stage ou à une formation en
+entreprise ne peut être sanctionné, licencié ou faire l'objet d'une mesure discriminatoire, directe ou indirecte, notamment
+en matière de rémunération, de formation, de reclassement, d'affectation, de qualification, de classification, de promotion
+professionnelle, de mutation ou de renouvellement de contrat pour avoir subi ou refusé de subir des faits de harcèlement
+sexuel tels que définis à l'article L. 053-1, y compris, dans le cas mentionné au 1° du même article, si les propos ou
+comportements n'ont pas été répétés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-954 du 6 août 2012 - art. 9
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L053-1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L055-2 (V)
+
+
+###### Article L053-3
+
+Aucun salarié, aucune personne en formation ou en stage ne peut être sanctionné, licencié ou faire l'objet d'une mesure
+discriminatoire pour avoir témoigné de faits de harcèlement sexuel ou pour les avoir relatés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-954 du 6 août 2012 - art. 9
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L055-2 (V)
+
+
+###### Article L053-4
+
+Toute disposition ou tout acte contraire aux articles L. 053-1 à L. 053-3 est nul.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-954 du 6 août 2012 - art. 9
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L053-1
+
+
+###### Article L053-5
+
+L'employeur prend toutes dispositions nécessaires en vue de prévenir les faits de harcèlement sexuel. 
+
+Le texte de l'article 222-33 du code pénal est affiché dans les lieux de travail ainsi que dans les locaux ou à la porte des
+locaux où se fait l'embauche.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-954 du 6 août 2012 - art. 9
+
+	**Cite**:
+
+	  - Code pénal - art. 222-33 (V)
+
+
+###### Article L053-6
+
+Tout salarié ayant procédé à des faits de harcèlement sexuel est passible d'une sanction disciplinaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-954 du 6 août 2012 - art. 9
+
+
 #### Chapitre IV : Actions en justice
 
 ###### Article L054-1
 
-Lorsque survient un litige relatif à l'application des articles L. 052-1 à L. 052-3, le candidat à un emploi, à un stage ou à
-une période de formation en entreprise où le salarié établit des faits qui permettent de présumer l'existence d'un
-harcèlement. 
+Lorsque survient un litige relatif à l'application des articles L. 052-1 à L. 052-3 et L. 053-1 à L. 053-4, le candidat à un
+emploi, à un stage ou à une période de formation en entreprise où le salarié établit des faits qui permettent de présumer
+l'existence d'un harcèlement. 
 
 Au vu de ces éléments, il incombe à la partie défenderesse de prouver que ces agissements ne sont pas constitutifs d'un tel
 harcèlement et que sa décision est justifiée par des éléments objectifs étrangers à tout harcèlement. 
@@ -585,13 +704,14 @@ Le juge forme sa conviction après avoir ordonné, en cas de besoin, toutes les 
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+	  - Loi n°2012-954 du 6 août 2012 - art. 9
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L052-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L052-1
+	  - Code du travail applicable à Mayotte. - art. L053-1
 
 	**Cité par**:
 
@@ -601,7 +721,7 @@ Le juge forme sa conviction après avoir ordonné, en cas de besoin, toutes les 
 ###### Article L054-2
 
 Les organisations syndicales représentatives dans l'entreprise peuvent exercer en justice toutes les actions résultant des
-articles L. 052-1 à L. 052-3. 
+articles L. 052-1 à L. 052-3 et L. 053-1 à L. 053-4. 
 
 Elles peuvent exercer ces actions en faveur d'un salarié de l'entreprise dans les conditions prévues par l'article L. 054-1,
 sous réserve de justifier d'un accord écrit de l'intéressé. 
@@ -610,14 +730,15 @@ L'intéressé peut toujours intervenir à l'instance engagée par le syndicat et
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+	  - Loi n°2012-954 du 6 août 2012 - art. 9
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L052-1 (V)
-	  - Code du travail applicable à Mayotte. - art. L054-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L052-1
+	  - Code du travail applicable à Mayotte. - art. L053-1
+	  - Code du travail applicable à Mayotte. - art. L054-1
 
 
 #### Chapitre V : Dispositions pénales
@@ -640,8 +761,8 @@ Le fait de porter ou de tenter de porter atteinte à l'exercice régulier des fo
 
 ###### Article L055-2
 
-Les faits de harcèlement moral, définis à l'article L. 052-1, sont punis d'un emprisonnement d'un an et d'une amende de 15
-000 €. 
+Sont punis d'un an d'emprisonnement et d'une amende de 3 750 € les faits de discriminations commis à la suite d'un
+harcèlement moral ou sexuel définis aux articles L. 052-2, L. 053-2 et L. 053-3 du présent code. 
 
 La juridiction peut également ordonner, à titre de peine complémentaire, l'affichage du jugement aux frais de la personne
 condamnée dans les conditions prévues à l'article 131-35 du code pénal et son insertion, intégrale ou par extraits, dans les
@@ -655,52 +776,16 @@ journaux qu'elle désigne. Ces frais ne peuvent excéder le montant maximum de l
 	  - Décret n°2015-1693 du 17 décembre 2015 - art. 4
 	  - Code des transports - art. R3521-2 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+	  - Loi n°2012-954 du 6 août 2012 - art. 9
 
 	**Cite**:
 
 	  - Code pénal - art. 131-35
-	  - Code du travail applicable à Mayotte. - art. L052-1 (V)
-
-
-###### Article L055-3
-
-Les dispositions des articles 132-58 à 132-62 du code pénal relatives à l'ajournement du prononcé de la peine sont
-applicables dans le cas de poursuites pour infraction aux dispositions de l'article L. 052-1. 
-
-La juridiction peut ordonner l'exécution provisoire de sa décision.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
-
-	**Abrogé par**:
-
-	  - Loi n°2012-954 du 6 août 2012 - art. 9
-
-	**Cite**:
-
-	  - Code pénal - art. 132-58 (V)
-	  - Code du travail applicable à Mayotte. - art. L052-1 (V)
-
-
-###### Article L055-4
-
-A l'audience de renvoi, la juridiction apprécie s'il y a lieu de prononcer une dispense de peine.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
-
-	**Abrogé par**:
-
-	  - Loi n°2012-954 du 6 août 2012 - art. 9
+	  - Code du travail applicable à Mayotte. - art. L052-2
+	  - Code du travail applicable à Mayotte. - art. L053-2
+	  - Code du travail applicable à Mayotte. - art. L053-3
 
 
 ### TITRE VI : CORRUPTION ET VIOLATION   DES SECRETS DE FABRIQUE
@@ -6254,7 +6339,7 @@ ce qui concerne les articles L. 132-10, L. 132-19, L. 133-7 et L. 135-7.
 	  - Code du travail applicable à Mayotte. - art. L135-7 (M)
 
 
-### TITRE IV : SALAIRE
+### TITRE IV : SALAIRES ET AVANTAGES DIVERS
 
 #### CHAPITRE PRÉLIMINAIRE : Egalité de rémunération entre les hommes et les femmes.
 
@@ -7277,20 +7362,6 @@ Les procurations ci-dessus sont soumises au droit de timbre et d'enregistrement.
 
 	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
-
-### TITRE IV : SALAIRES ET AVANTAGES DIVERS
-
-#### CHAPITRE PRÉLIMINAIRE : Egalité de rémunération entre les hommes et les femmes.
-
-#### CHAPITRE Ier : Salaire minimum interprofessionnel garanti *SMIG*.
-
-#### CHAPITRE II : Heures supplémentaires.
-
-#### CHAPITRE III : Paiement du salaire
-
-#### CHAPITRE IV : Retenues sur le salaire.
-
-#### CHAPITRE V : Saisie-arrêt et cession de rémunérations dues par un employeur.
 
 #### CHAPITRE VI : Economats.
 
@@ -21909,8 +21980,6 @@ particulières.
 	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
 
 
-#### CHAPITRE II : Droit syndical et représentativité.
-
 #### CHAPITRE II : Représentativité syndicale
 
 ###### Article L412-2
@@ -22293,8 +22362,6 @@ et interprofessionnel s'appliquent à compter de la deuxième mesure de l'audien
 	  - Code du travail - art. L2122-13 (V)
 	  - Code du travail - art. L2122-9 (V)
 
-
-#### CHAPITRE III : Marques syndicales.
 
 #### CHAPITRE III : Statut juridique, ressources et moyens
 
@@ -24052,17 +24119,17 @@ Les salariés conservent le droit de présenter eux-mêmes leurs observations à
 Si un délégué du personnel constate, notamment par l'intermédiaire d'un salarié, qu'il existe une atteinte aux droits des
 personnes, à leur santé physique et mentale ou aux libertés individuelles dans l'entreprise qui ne serait pas justifiée par
 la nature de la tâche à accomplir ni proportionnée au but recherché, il en saisit immédiatement l'employeur. Cette atteinte
-aux droits des personnes, à leur santé physique et mentale ou aux libertés individuelles peut notamment résulter de toute
-mesure discriminatoire en matière d'embauche, de rémunération, de formation, de reclassement, d'affectation, de
-classification, de qualification, de promotion professionnelle, de mutation, de renouvellement de contrat, de sanction ou de
-licenciement.
+aux droits des personnes, à leur santé physique et mentale ou aux libertés individuelles peut notamment résulter de faits de
+harcèlement sexuel ou moral ou de toute mesure discriminatoire en matière d'embauche, de rémunération, de formation, de
+reclassement, d'affectation, de classification, de qualification, de promotion professionnelle, de mutation, de
+renouvellement de contrat, de sanction ou de licenciement. 
 
 L'employeur ou son représentant est tenu de procéder sans délai à une enquête avec le délégué et de prendre les dispositions
-nécessaires pour remédier à cette situation.
+nécessaires pour remédier à cette situation. 
 
 En cas de carence de l'employeur ou de divergence sur la réalité de cette atteinte et à défaut de solution trouvée avec
 l'employeur, le salarié, ou le délégué si le salarié concerné averti par écrit ne s'y oppose pas, saisit le tribunal du
-travail qui statue selon les formes applicables au référé.
+travail qui statue selon les formes applicables au référé. 
 
 Le juge peut ordonner toutes mesures propres à faire cesser cette atteinte et assortir sa décision d'une astreinte qui sera
 liquidée au profit du Trésor.
@@ -24071,12 +24138,12 @@ liquidée au profit du Trésor.
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 22 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+	  - Loi n°2012-954 du 6 août 2012 - art. 9
 
 
 ###### Article L432-3
@@ -27727,20 +27794,21 @@ rapport à l'autorité administrative compétente qui le transmet au parquet. L'
 Les inspecteurs et contrôleurs du travail sont chargés de veiller à l'application des dispositions du code du travail et des
 lois et règlements non codifiés relatifs au régime du travail, ainsi qu'à celles des conventions et accords collectifs de
 travail conclus en application du titre III du livre Ier du présent code. Ils sont également chargés, concurremment avec les
-agents et officiers de police judiciaire, de constater, s'il y échet, les infractions à ces dispositions.
+agents et officiers de police judiciaire, de constater, s'il y échet, les infractions à ces dispositions. 
 
 Ils constatent, en outre, les infractions aux dispositions de protection sociale concernant les accidents du travail et les
-maladies professionnelles du régime en vigueur dans la collectivité départementale de Mayotte ainsi que les infractions
-prévues par les articles 225-13 à 225-16-1 du code pénal. Ils constatent également les infractions prévues par les articles
+maladies professionnelles du régime en vigueur dans le Département de Mayotte ainsi que les infractions prévues par les
+articles 225-13 à 225-16-1 du code pénal et les délits de harcèlement sexuel ou moral prévus, dans le cadre des relations de
+travail, par les articles 222-33 et 222-33-2 du même code. Ils constatent également les infractions prévues par les articles
 28 et 28-1 de l'ordonnance n° 2000-373 du 26 avril 2000 relative aux conditions d'entrée et de séjour des étrangers à
-Mayotte.
+Mayotte. 
 
 Dans les cas expressément prévus par la loi ou le règlement, ces attributions peuvent être exercées par des fonctionnaires de
-contrôle assimilés.
+contrôle assimilés. 
 
 Un décret contresigné par le ministre chargé du travail et par le garde des sceaux, ministre de la justice, détermine les
 modalités de contrôle de l'application des dispositions du présent code aux salariés des offices publics et ministériels, des
-professions libérales, des sociétés civiles, des syndicats professionnels et associations de quelque nature que ce soit.
+professions libérales, des sociétés civiles, des syndicats professionnels et associations de quelque nature que ce soit. 
 
 Les contrôleurs du travail exercent leurs compétences sous l'autorité des inspecteurs du travail.
 
@@ -27748,14 +27816,15 @@ Les contrôleurs du travail exercent leurs compétences sous l'autorité des ins
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Cite**:
 
-	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 28 (M)
-	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 28-1 (V)
-	  - Code pénal 225-13 à 225-16-1
+	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 28
+	  - Code pénal - art. 222-33
+	  - Code pénal - art. 222-33-2
+	  - Code pénal - art. 225-13
 
 	**Cité par**:
 
@@ -27777,7 +27846,7 @@ Les contrôleurs du travail exercent leurs compétences sous l'autorité des ins
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 26 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+	  - Loi n°2012-954 du 6 août 2012 - art. 9
 
 
 ###### Article L610-2
@@ -60089,8 +60158,6 @@ par arrêté conjoint des ministres chargés des départements d'outre-mer, de l
 
 
 #### CHAPITRE VII : Indemnisation du chômage
-
-##### Section 2 : Perte temporaire de salaire
 
 ##### Section 2 : Régime de solidarité
 
