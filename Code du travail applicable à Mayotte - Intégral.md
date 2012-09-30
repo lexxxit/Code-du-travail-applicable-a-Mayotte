@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2012-08-08
+Version Consolidée au 2012-10-01
 
 # Partie législative
 
@@ -448,6 +448,396 @@ Les dommages et intérêts réparent l'entier préjudice résultant de la discri
 	**Créé par**:
 
 	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+
+### TITRE IV : ÉGALITÉ PROFESSIONNELLE   ENTRE LES FEMMES ET LES HOMMES
+
+#### Chapitre Ier : Champ d'application
+
+###### Article L041-1
+
+Les dispositions du présent titre sont applicables aux employeurs de droit privé ainsi qu'à leurs salariés. 
+
+Elles sont également applicables au personnel des personnes publiques employé dans les conditions du droit privé.
+
+**Nota:**
+
+Ordonnance n° 2012-792 du 7 juin 2012 article 9 III 1° : Les dispositions du titre IV du livre préliminaire du code du
+travail applicable à Mayotte entrent en vigueur à la date d'entrée en vigueur des dispositions réglementaires d'application
+de la présente ordonnance et au plus tard au 1er octobre 2012.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+
+#### Chapitre II : Dispositions générales
+
+###### Article L042-1
+
+Sous réserve des dispositions particulières du présent code, nul ne peut : 
+
+1° Mentionner ou faire mentionner dans une offre d'emploi le sexe ou la situation de famille du candidat recherché. Cette
+interdiction est applicable pour toute forme de publicité relative à une embauche et quels que soient les caractères du
+contrat de travail envisagé ; 
+
+2° Refuser d'embaucher une personne, prononcer une mutation, résilier ou refuser de renouveler le contrat de travail d'un
+salarié en considération du sexe, de la situation de famille ou de la grossesse sur la base de critères de choix différents
+selon le sexe, la situation de famille ou la grossesse ; 
+
+3° Prendre en considération du sexe ou de la grossesse toute mesure, notamment en matière de rémunération, de formation,
+d'affectation, de qualification, de classification, de promotion professionnelle ou de mutation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L042-2 (VD)
+	  - Code du travail applicable à Mayotte. - art. L042-4 (VD)
+	  - Code du travail applicable à Mayotte. - art. L044-1 (VD)
+	  - Code du travail applicable à Mayotte. - art. L046-1 (VD)
+	  - Code du travail applicable à Mayotte. - art. L046-2 (VD)
+
+
+###### Article L042-2
+
+Lorsque l'appartenance à l'un ou l'autre sexe répond à une exigence professionnelle essentielle et déterminante et pour
+autant que l'objectif soit légitime et l'exigence proportionnée, les interdictions prévues à l'article L. 042-1 ne sont pas
+applicables. 
+
+La liste des emplois et des activités professionnelles pour l'exercice desquels l'appartenance à l'un ou l'autre sexe
+constitue la condition déterminante, prise en application de l'article L. 1142-2 du code du travail, s'applique à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail - art. L1142-2
+	  - Code du travail applicable à Mayotte. - art. L042-1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L044-1 (VD)
+	  - Code du travail applicable à Mayotte. - art. L046-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L046-2 (V)
+
+
+###### Article L042-3
+
+Est nulle toute clause d'une convention ou d'un accord collectif de travail ou d'un contrat de travail qui réserve le
+bénéfice d'une mesure quelconque, à un ou des salariés, en considération du sexe. 
+
+Toutefois, ces dispositions ne sont pas applicables lorsque cette clause a pour objet l'application des dispositions
+relatives à la protection de la grossesse et de la maternité, prévues aux articles L. 122-45 à L. 122-54.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L042-4 (VD)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L122-45
+
+
+###### Article L042-4
+
+Les dispositions des articles L. 042-1 et L. 042-3 ne font pas obstacle à l'intervention de mesures temporaires prises au
+seul bénéfice des femmes visant à établir l'égalité des chances entre les femmes et les hommes, en particulier en remédiant
+aux inégalités de fait qui affectent les chances des femmes. 
+
+Ces mesures résultent : 
+
+1° Soit de dispositions réglementaires prises dans les domaines du recrutement, de la formation, de la promotion, de
+l'organisation et des conditions de travail ; 
+
+2° Soit de stipulations de conventions de branches étendues ou d'accords collectifs étendus ; 
+
+3° Soit de l'application du plan pour l'égalité professionnelle entre les femmes et les hommes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L042-1
+	  - Code du travail applicable à Mayotte. - art. L042-3
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L043-1 (VD)
+
+
+###### Article L042-5
+
+Il incombe à l'employeur de prendre en compte les objectifs en matière d'égalité professionnelle entre les femmes et les
+hommes dans l'entreprise et les mesures permettant de les atteindre : 
+
+1° Dans les entreprises dépourvues de délégué syndical ; 
+
+2° Dans les entreprises non soumises à l'obligation de négocier en application des dispositions du présent code le prévoyant
+expressément ; 
+
+3° Dans les entreprises non couvertes par une convention ou un accord de branche étendu relatif à l'égalité salariale entre
+les femmes et les hommes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+
+###### Article L042-6
+
+Le texte des articles 225-1 à 225-4 du code pénal est affiché dans les lieux de travail ainsi que dans les locaux ou à la
+porte des locaux où se fait l'embauche.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+	**Cite**:
+
+	  - Code pénal - art. 225-1
+
+
+#### Chapitre III : Plan et contrat pour l'égalité professionnelle
+
+##### Section unique
+
+###### Article L043-1
+
+Pour assurer l'égalité professionnelle entre les femmes et les hommes, les mesures visant à établir l'égalité des chances
+prévues à l'article L. 042-4 peuvent faire l'objet d'un plan pour l'égalité professionnelle négocié dans l'entreprise. 
+
+Ces mesures sont prises au vu notamment du rapport sur la situation comparée des femmes et des hommes prévu à l'article L.
+442-8.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L042-4
+	  - Code du travail applicable à Mayotte. - art. L442-8
+
+
+###### Article L043-2
+
+Si, au terme de la négociation, aucun accord n'est intervenu, l'employeur peut mettre en œuvre le plan pour l'égalité
+professionnelle, sous réserve d'avoir préalablement consulté et recueilli l'avis du comité d'entreprise, ou, à défaut, des
+délégués du personnel.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+
+###### Article L043-3
+
+Le plan pour l'égalité professionnelle s'applique, sauf si l'autorité administrative s'y oppose, dans des conditions
+déterminées par voie réglementaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D043-6 (V)
+
+
+#### Chapitre IV : Actions en justice
+
+###### Article L044-1
+
+Lorsque survient un litige relatif à l'application des dispositions des articles L. 042-1 et L. 042-2, le candidat à un
+emploi, à un stage ou à une période de formation où le salarié présente des éléments de fait laissant supposer l'existence
+d'une discrimination, directe ou indirecte, fondée sur le sexe, la situation de famille ou la grossesse. 
+
+Au vu de ces éléments, il incombe à la partie défenderesse de prouver que sa décision est justifiée par des éléments
+objectifs étrangers à toute discrimination. 
+
+Le juge forme sa conviction après avoir ordonné, en cas de besoin, toutes les mesures d'instruction qu'il estime utiles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L042-1
+	  - Code du travail applicable à Mayotte. - art. L042-2
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L140-8 (VD)
+
+
+###### Article L044-2
+
+Les organisations syndicales représentatives au niveau national ou dans l'entreprise peuvent exercer en justice toutes
+actions résultant de l'application des articles L. 140-2 à L. 140-7 relatifs à l'égalité de rémunération entre les femmes et
+les hommes. 
+
+Elles peuvent exercer ces actions en faveur d'un candidat à un emploi, à un stage ou à une période de formation, ou d'un
+salarié. 
+
+L'organisation syndicale n'a pas à justifier d'un mandat de l'intéressé. Il suffit que celui-ci ait été averti par écrit de
+cette action et ne s'y soit pas opposé dans un délai de quinze jours à compter de la date à laquelle l'organisation syndicale
+lui a notifié son intention d'agir. 
+
+L'intéressé peut toujours intervenir à l'instance engagée par le syndicat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L140-2
+
+
+###### Article L044-3
+
+Est nul et de nul effet le licenciement d'un salarié faisant suite à une action en justice engagée par ce salarié ou en sa
+faveur sur le fondement des dispositions relatives à l'égalité professionnelle entre les femmes et les hommes lorsqu'il est
+établi que le licenciement n'a pas de cause réelle et sérieuse et constitue en réalité une mesure prise par l'employeur en
+raison de cette action en justice. Dans ce cas, la réintégration est de droit et le salarié est considéré comme n'ayant
+jamais cessé d'occuper son emploi. 
+
+Lorsque le salarié refuse de poursuivre l'exécution du contrat de travail, la juridiction du travail compétente lui alloue : 
+
+1° Une indemnité ne pouvant être inférieure aux salaires des six derniers mois ; 
+
+2° Une indemnité correspondant à l'indemnité de licenciement prévue par l'article L. 122-22 ou par la convention ou l'accord
+collectif applicable ou le contrat de travail. 
+
+Le juge ordonne également le remboursement par l'employeur fautif à l'organisme gestionnaire du régime d'assurance chômage de
+tout ou partie des indemnités de chômage versées au salarié licencié, du jour de son licenciement au jour du jugement
+prononcé, dans la limite de six mois d'indemnités. Ce remboursement est ordonné d'office lorsque l'organisme intéressé n'est
+pas intervenu à l'audience ou n'a pas fait connaître le montant des indemnités versées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L122-22 (V)
+
+
+#### Chapitre VI : Dispositions pénales
+
+###### Article L046-1
+
+Le fait de méconnaître les dispositions relatives à l'égalité professionnelle entre les femmes et les hommes, prévues par les
+articles L. 042-1 et L. 042-2, est puni d'un emprisonnement d'un an et d'une amende de 3 750 €. 
+
+La juridiction peut également ordonner, à titre de peine complémentaire, l'affichage du jugement aux frais de la personne
+condamnée dans les conditions prévues à l'article 131-35 du code pénal et son insertion, intégrale ou par extraits, dans les
+journaux qu'elle désigne. Ces frais ne peuvent excéder le montant maximum de l'amende encourue.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+	**Cité par**:
+
+	  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 92 (VD)
+	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 61 (VD)
+
+	**Cite**:
+
+	  - Code pénal - art. 131-35
+	  - Code du travail applicable à Mayotte. - art. L042-1
+	  - Code du travail applicable à Mayotte. - art. L042-2 (V)
+
+
+###### Article L046-2
+
+Les dispositions des articles 132-58 à 132-62 du code pénal, relatives à l'ajournement du prononcé de la peine, sont
+applicables en cas de poursuites pour infraction aux dispositions des articles L. 042-1 et L. 042-2, sous réserve des mesures
+particulières suivantes : 
+
+1° L'ajournement comporte injonction à l'employeur de définir, après consultation du comité d'entreprise ou, à défaut, des
+délégués du personnel, et dans un délai déterminé, les mesures propres à assurer dans l'entreprise en cause le rétablissement
+de l'égalité professionnelle entre les femmes et les hommes ; 
+
+2° L'ajournement peut également comporter injonction à l'employeur d'exécuter dans le même délai les mesures définies. 
+
+La juridiction peut ordonner l'exécution provisoire de sa décision.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+	**Cite**:
+
+	  - Code pénal - art. 132-58
+	  - Code du travail applicable à Mayotte. - art. L042-1
+	  - Code du travail applicable à Mayotte. - art. L042-2 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L046-3 (VD)
+
+
+###### Article L046-3
+
+A l'audience de renvoi et au vu des mesures définies et, le cas échéant, exécutées par l'employeur, la juridiction apprécie
+s'il y a lieu de prononcer une dispense de peine. 
+
+Toutefois, lorsque le délai prévu au 2° de l'article L. 046-2 n'a pas été respecté, la juridiction peut prononcer un nouvel
+et dernier ajournement et donner un nouveau délai au prévenu pour exécuter l'injonction.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L046-2 (VD)
 
 
 ### TITRE V : HARCÈLEMENTS
@@ -6343,32 +6733,28 @@ ce qui concerne les articles L. 132-10, L. 132-19, L. 133-7 et L. 135-7.
 
 #### CHAPITRE PRÉLIMINAIRE : Egalité de rémunération entre les hommes et les femmes.
 
+##### Section 1 : Principes 
+
+
 ###### Article L140-1
 
-Tout employeur est tenu d'assurer, pour un même travail ou pour un travail de valeur égale, l'égalité de rémunération entre
-les hommes et les femmes.
-
-Par rémunération, au sens du présent chapitre, il faut entendre le salaire ou traitement ordinaire de base ou minimum et tous
-les autres avantages et accessoires payés, directement ou indirectement, en espèces ou en nature, par l'employeur au
-travailleur en raison de l'emploi de ce dernier.
-
-Sont considérés comme ayant une valeur égale les travaux qui exigent des salariés un ensemble comparable de connaissances
-professionnelles consacrées par un titre, un diplôme ou une pratique professionnelle, de capacités découlant de l'expérience
-acquise, de responsabilités et de charge physique ou nerveuse.
-
-Les disparités de rémunération entre les établissements d'une même entreprise ne peuvent pas, pour un même travail ou pour un
-travail de valeur égale, être fondées sur l'appartenance des salariés de ces établissements à l'un ou l'autre sexe.
+Les dispositions des articles L. 140-2 à L. 140-7 sont applicables aux relations entre employeurs et salariés non régies par
+le présent code et, notamment, aux salariés liés par un contrat de droit public.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L140-2
 
 	**Cité par**:
 
@@ -6380,22 +6766,19 @@ travail de valeur égale, être fondées sur l'appartenance des salariés de ces
 
 ###### Article L140-2
 
-Les différents éléments composant la rémunération doivent être établis selon des normes identiques pour les hommes et pour
-les femmes.
-
-Les catégories et les critères de classification et de promotion professionnelle ainsi que toutes les autres bases de calcul
-de la rémunération, notamment les modes d'évaluation des emplois, doivent être communs aux travailleurs des deux sexes.
+Tout employeur assure, pour un même travail ou pour un travail de valeur égale, l'égalité de rémunération entre les femmes et
+les hommes.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
 	**Cité par**:
 
@@ -6413,101 +6796,196 @@ de la rémunération, notamment les modes d'évaluation des emplois, doivent êt
 
 ###### Article L140-3
 
-Toute disposition figurant notamment dans un contrat de travail, une convention ou un accord collectif de travail, un accord
-de salaires, un règlement ou barème de salaires résultant d'une décision d'employeur ou d'un groupement d'employeurs et qui,
-contrairement aux articles L. 140-1 et L. 140-2, comporte, pour un ou des travailleurs de l'un des deux sexes, une
-rémunération inférieure à celle de travailleurs de l'autre sexe pour un même travail ou un travail de valeur égale, est nulle
-de plein droit.
-
-La rémunération plus élevée dont bénéficient ces derniers travailleurs est substituée de plein droit à celle que comportait
-la disposition entachée de nullité.
+Constitue une rémunération au sens du présent chapitre le salaire ou traitement ordinaire de base ou minimum et tous les
+autres avantages et accessoires payés, directement ou indirectement, en espèces ou en nature, par l'employeur au salarié en
+raison de l'emploi de ce dernier.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
 	**Cité par**:
 
 	  - Code du travail applicable à Mayotte. - art. L032-1 (V)
 
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L140-1 (M)
-	  - Code du travail applicable à Mayotte. - art. L140-2 (M)
-
 
 ###### Article L140-4
 
-Les dispositions des articles L. 140-1 à L. 140-3 sont applicables aux relations entre employeurs et salariés non régies par
-le code du travail et, notamment, aux salariés liés par un contrat de droit public.
+Sont considérés comme ayant une valeur égale les travaux qui exigent des salariés un ensemble comparable de connaissances
+professionnelles consacrées par un titre, un diplôme ou une pratique professionnelle, de capacités découlant de l'expérience
+acquise, de responsabilités et de charge physique ou nerveuse.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte L140-1 à L140-3
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
 
 ###### Article L140-5
 
-Les inspecteurs du travail et les contrôleurs du travail sont chargés de veiller à l'application des articles L. 140-1 et L.
-140-2 ci-dessus ; ils sont également chargés, concurremment avec les officiers et agents de police judiciaire de constater
-les infractions à ces dispositions.
+Les disparités de rémunération entre les établissements d'une même entreprise ne peuvent pas, pour un même travail ou pour un
+travail de valeur égale, être fondées sur l'appartenance des salariés de ces établissements à l'un ou l'autre sexe.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L140-1 (M)
-	  - Code du travail applicable à Mayotte. - art. L140-2 (M)
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
 
 ###### Article L140-6
 
-En cas de litige relatif à l'application du présent chapitre, l'employeur doit fournir au juge les éléments de nature à
-justifier l'inégalité de rémunération invoquée. Au vu de ces éléments et de ceux qui sont fournis par le salarié à l'appui de
-sa demande, le juge forme sa conviction après avoir ordonné, en cas de besoin, toutes les mesures d'instruction qu'il estime
-utiles. Si un doute subsiste, il profite au salarié.
+Les différents éléments composant la rémunération sont établis selon des normes identiques pour les femmes et pour les
+hommes. 
+
+Les catégories et les critères de classification et de promotion professionnelles ainsi que toutes les autres bases de calcul
+de la rémunération, notamment les modes d'évaluation des emplois, doivent être communs aux salariés des deux sexes.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
 	**Cité par**:
 
 	  - Code du travail applicable à Mayotte. - art. R140-1 (V)
+
+
+###### Article L140-7
+
+Est nulle de plein droit toute disposition figurant notamment dans un contrat de travail, une convention ou accord collectif
+de travail, un accord de salaires, un règlement ou barème de salaires résultant d'une décision d'un employeur ou d'un
+groupement d'employeurs et qui, contrairement aux articles L. 140-2 à L. 140-6, comporte, pour un ou des salariés de l'un des
+deux sexes, une rémunération inférieure à celle de salariés de l'autre sexe pour un même travail ou un travail de valeur
+égale. 
+
+La rémunération plus élevée dont bénéficient ces derniers salariés est substituée de plein droit à celle que comportait la
+disposition entachée de nullité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L140-2
+
+
+###### Article L140-8
+
+Lorsque survient un litige relatif à l'application du présent chapitre, les règles de preuve énoncées à l'article L. 044-1
+s'appliquent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L044-1
+
+
+###### Article L140-9
+
+Les inspecteurs du travail ou, le cas échéant, les autres fonctionnaires de contrôle assimilés sont chargés, dans le domaine
+de leurs compétences respectives, concurremment avec les officiers et agents de police judiciaire, de constater les
+infractions à ces dispositions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+
+###### Article L140-10
+
+Un décret en Conseil d'Etat détermine les modalités d'application du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+
+##### Section 2 : Dispositions pénales 
+
+
+###### Article L140-11
+
+Les dispositions des articles 132-58 à 132-62 du code pénal relatives à l'ajournement du prononcé de la peine sont
+applicables dans le cas de poursuites pour infraction aux dispositions des articles L. 140-2 à L. 140-7, sous réserve des
+mesures particulières prévues par le présent article. 
+
+L'ajournement comporte injonction à l'employeur de définir, après consultation du comité d'entreprise ou, à défaut, des
+délégués du personnel, et dans un délai déterminé, les mesures propres à assurer dans l'entreprise en cause le rétablissement
+de l'égalité professionnelle entre les femmes et les hommes. L'ajournement peut comporter également injonction à l'employeur
+d'exécuter dans le même délai les mesures définies. 
+
+Le juge peut ordonner l'exécution provisoire de sa décision.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+	**Cite**:
+
+	  - Code pénal - art. 132-58
+	  - Code du travail applicable à Mayotte. - art. L140-2
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L140-12 (VD)
+
+
+###### Article L140-12
+
+A l'audience de renvoi et au vu des mesures définies et, le cas échéant, exécutées par l'employeur, la juridiction apprécie
+s'il y a lieu de prononcer une dispense de peine ou d'infliger les peines prévues par la loi. 
+
+Toutefois, dans le cas où le délai prévu au deuxième alinéa de l'article L. 140-11 n'a pas été respecté, la juridiction peut
+prononcer un nouvel et dernier ajournement et impartir un nouveau délai au prévenu pour exécuter l'injonction.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L140-11
 
 
 #### CHAPITRE Ier : Salaire minimum interprofessionnel garanti *SMIG*.
@@ -6668,86 +7146,80 @@ du travail.
 
 ##### Section 1 : Mode de paiement du salaire.
 
+##### Sous-section 1 : Dispositions générales 
+
+
 ###### Article L143-1
 
-Sous réserve des dispositions législatives imposant le paiement des salaires sous une forme déterminée, le salaire doit être
-payé en monnaie métallique ou fiduciaire ayant cours légal ou par chèque barré ou par virement à un compte bancaire ou
-postal, nonobstant toute stipulation contraire, à peine de nullité.
+Sous réserve des dispositions législatives imposant le paiement des salaires sous une forme déterminée, le salaire est payé
+en espèces ou par chèque barré ou par virement à un compte bancaire ou postal. 
 
-Toutefois, en dessous d'un montant mensuel fixé par arrêté du représentant de l'Etat à Mayotte, le salaire est payé en
-espèces au salarié qui le demande.
+Toute stipulation contraire est nulle. 
 
-Au-delà d'un montant mensuel fixé par arrêté du représentant de l'Etat à Mayotte, le salaire est payé par chèque barré ou par
-virement à un compte bancaire ou postal.
+En dessous d'un montant mensuel déterminé par décret, le salaire est payé en espèces au salarié qui le demande. 
+
+Au-delà d'un montant mensuel déterminé par décret, le salaire est payé par chèque barré ou par virement à un compte bancaire
+ou postal.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
 	**Cité par**:
 
 	  - Code du travail applicable à Mayotte. - art. R143-10 (V)
 
 
+##### Sous-section 2 : Mensualisation 
+
+
 ###### Article L143-2
 
-Les salaires des employés et ceux des ouvriers bénéficiaires d'une convention ou d'un accord de mensualisation doivent être
-payés au moins une fois par mois ; en l'absence de convention ou d'accord de la nature susmentionnée, les salaires des
-ouvriers doivent être payés au moins deux fois par mois, à seize jours au plus d'intervalle.
+La rémunération des salariés est mensuelle et indépendante, pour un horaire de travail effectif déterminé, du nombre de jours
+travaillés dans le mois. Le paiement mensuel neutralise les conséquences de la répartition inégale des jours entre les douze
+mois de l'année. 
 
-Pour tout travail aux pièces dont l'exécution doit durer plus d'une quinzaine, les dates de paiement peuvent être fixées de
-gré à gré, mais l'ouvrier doit recevoir des acomptes chaque quinzaine et être intégralement payé dans la quinzaine qui suit
-la livraison de l'ouvrage : en cas de convention ou d'accord de mensualisation, l'ouvrier doit recevoir des acomptes chaque
-mois et être intégralement payé dans le mois qui suit la livraison de l'ouvrage.
+Pour un horaire équivalant à la durée légale hebdomadaire, la rémunération mensuelle due au salarié se calcule en multipliant
+la rémunération horaire par les 52/12 de la durée légale hebdomadaire. 
 
-Est une convention ou un accord de mensualisation au sens du présent article une convention ou un accord collectif prévoyant
-le paiement mensuel des salaires et étendant aux ouvriers tout ou partie des avantages apportés auparavant aux salariés payés
-mensuellement.
+Le paiement de la rémunération est effectué une fois par mois. Un acompte correspondant, pour une quinzaine, à la moitié de
+la rémunération mensuelle est versé au salarié qui en fait la demande. 
 
-Les conventions ou accords collectifs de mensualisation doivent comporter une clause délimitant les conditions du versement
-éventuel d'acomptes aux ouvriers.
+Ces dispositions ne s'appliquent pas aux salariés travaillant à domicile et aux salariés saisonniers.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
 
 ###### Article L143-3
 
-Les dispositions du présent article s'appliquent à toutes les personnes apprenties, salariées ou travaillant à quelque titre
-ou en quelque lieu que ce soit pour un ou plusieurs employeurs et quels que soient le montant et la nature de leurs
-rémunérations, la forme ou la validité de leur contrat.
-
-Lors du paiement de leur rémunération, l'employeur doit remettre aux personnes ci-dessus mentionnées une pièce justificative
-dite bulletin de paie.
-
-Lors de la paie du salaire, il ne peut être exigé aucune formalité de signature ou d'émargement autre que celle établissant
-que la somme reçue correspond bien au montant net figurant sur le bulletin de paie.
+La mensualisation n'exclut pas les divers modes de calcul du salaire aux pièces, à la prime ou au rendement.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
 	**Cité par**:
 
@@ -6764,15 +7236,14 @@ que la somme reçue correspond bien au montant net figurant sur le bulletin de p
 
 ###### Article L143-4
 
-L'acceptation sans protestation ni réserve d'un bulletin de paie par le travailleur ne peut valoir, de la part de celui-ci,
-renonciation au paiement de tout ou partie du salaire et des indemnités ou accessoires de salaire qui lui sont dus en vertu
-de la loi, du règlement, d'une convention ou accord collectif de travail ou d'un contrat.
+Les salariés ne bénéficiant pas de la mensualisation sont payés au moins deux fois par mois, à seize jours au plus
+d'intervalle.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2008-561 du 17 juin 2008 - art. 25 (V)
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
 	**Cité par**:
 
@@ -6781,26 +7252,20 @@ de la loi, du règlement, d'une convention ou accord collectif de travail ou d'u
 
 ###### Article L143-5
 
-Les mentions portées sur le bulletin prévu à l'article L. 143-3, deuxième alinéa, sont obligatoirement reproduites sur un
-livre de paie.
-
-Les dispositions du présent article ne sont pas applicables aux particuliers qui occupent des employés de maison ou des
-assistantes maternelles.
+Pour tout travail aux pièces dont l'exécution dure plus d'une quinzaine, les dates de paiement peuvent être fixées d'un
+commun accord. Toutefois, le salarié reçoit des acomptes chaque quinzaine et est intégralement payé dans la quinzaine qui
+suit la livraison de l'ouvrage.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L143-3 (M)
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
 	**Cité par**:
 
@@ -6809,9 +7274,252 @@ assistantes maternelles.
 	  - Code du travail applicable à Mayotte. - art. R156-3 (Ab)
 
 
-##### Section 2 : Privilèges et garanties de la créance de salaire.
+##### Sous-section 3 : Bulletin de paie 
+
+
 
 ###### Article L143-6
+
+Les dispositions de la présente sous-section s'appliquent à toutes les personnes salariées ou travaillant à quelque titre ou
+en quelque lieu que ce soit pour un ou plusieurs employeurs et quels que soient le montant et la nature de leurs
+rémunérations, la forme, ou la validité de leur contrat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L143-7 (VD)
+	  - Code du travail applicable à Mayotte. - art. R143-11 (V)
+
+
+###### Article L143-7
+
+Lors du paiement du salaire, l'employeur remet aux personnes mentionnées à l'article L. 143-6 une pièce justificative dite
+bulletin de paie. Avec l'accord du salarié concerné, cette remise peut être effectuée sous forme électronique, dans des
+conditions de nature à garantir l'intégrité des données. Il ne peut exiger aucune formalité de signature ou d'émargement
+autre que celle établissant que la somme reçue correspond bien au montant net figurant sur ce bulletin. 
+
+Les mentions devant figurer sur le bulletin ou y être annexées sont déterminées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L128-1 (VD)
+	  - Code du travail applicable à Mayotte. - art. L312-2 (V)
+	  - Code du travail applicable à Mayotte. - art. L312-7 (V)
+	  - Code du travail applicable à Mayotte. - art. L312-9 (V)
+	  - Code du travail applicable à Mayotte. - art. R143-2 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L143-6
+
+
+###### Article L143-8
+
+L'acceptation sans protestation ni réserve d'un bulletin de paie par le travailleur ne peut valoir de sa part renonciation au
+paiement de tout ou partie du salaire et des indemnités ou accessoires de salaire qui lui sont dus en application de la loi,
+du règlement, d'une convention ou d'un accord collectif de travail ou d'un contrat. 
+
+Cette acceptation ne peut valoir non plus compte arrêté et réglé au sens de l'article 1269 du code de procédure civile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1269
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L143-10 (V)
+
+
+###### Article L143-9
+
+L'employeur conserve un double des bulletins de paie des salariés ou les bulletins de paie remis aux salariés sous forme
+électronique pendant cinq ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L143-13 (V)
+	  - Code du travail applicable à Mayotte. - art. L143-14 (V)
+	  - Code du travail applicable à Mayotte. - art. L143-7 (V)
+
+
+###### Article L143-10
+
+Il peut être dérogé à la conservation des bulletins de paie, pour tenir compte du recours à d'autres moyens, notamment
+informatiques, lorsque des garanties de contrôle équivalentes sont maintenues dans les conditions et limites déterminées par
+décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L143-13 (V)
+	  - Code du travail applicable à Mayotte. - art. L143-14 (V)
+	  - Code du travail applicable à Mayotte. - art. L143-7 (V)
+	  - Code rural - art. L371-15 (V)
+
+
+##### Sous-section 4 : Pourboires 
+
+
+
+
+###### Article L143-11
+
+Dans tous les établissements commerciaux où existe la pratique du pourboire, toutes les perceptions faites " pour le service
+" par l'employeur sous forme de pourcentage obligatoirement ajouté aux notes des clients ou autrement ainsi que toutes sommes
+remises volontairement par les clients pour le service entre les mains de l'employeur ou centralisées par lui sont
+intégralement versées au personnel en contact avec la clientèle et à qui celle-ci avait coutume de les remettre directement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L143-12 (VD)
+	  - Code du travail applicable à Mayotte. - art. L143-14 (V)
+	  - Code du travail applicable à Mayotte. - art. R143-12 (V)
+
+
+###### Article L143-12
+
+Les sommes mentionnées à l'article L. 143-11 s'ajoutent au salaire fixe, sauf dans le cas où un salaire minimum a été garanti
+par l'employeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L143-11
+
+
+##### Sous-section 5 : Action en paiement et prescription 
+
+
+
+###### Article L143-13
+
+L'action en paiement ou en répétition du salaire se prescrit par cinq ans, conformément à l'article 2224 du code civil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+	**Cite**:
+
+	  - Code civil - art. 2224
+
+
+##### Section 2 : Privilèges et garanties de la créance de salaire.
+
+###### Article L143-14
 
 Les sommes dues aux entrepreneurs de tous travaux ayant le caractère de travaux publics ne peuvent être frappées de saisie-
 arrêt ni d'opposition au préjudice soit des ouvriers auxquels des salaires sont dus, soit des fournisseurs qui sont
@@ -6823,22 +7531,27 @@ Les sommes dues aux ouvriers à titre de salaire sont payées de préférence à
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
 	**Cité par**:
 
-	  - Code du travail applicable à Mayotte. - art. L143-7 (VD)
-	  - Code du travail applicable à Mayotte. - art. R143-11 (V)
+	  - Décret n°2016-360 du 25 mars 2016 - art. 168 (V)
+	  - Code du travail applicable à Mayotte. - art. L122-65 (V)
+	  - Code du travail applicable à Mayotte. - art. L122-66 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1580 du 24 novembre 2016 - art. 1
 
 
-###### Article L143-7
+###### Article L143-15
 
-Sans préjudice de l'application des articles L. 143-9 et L. 143-10, la créance de salaire des salariés et apprentis est
+Sans préjudice de l'application des articles L. 143-17 et L. 143-18, la créance de salaire des salariés et apprentis est
 privilégiée sur les meubles et immeubles, à savoir :
 
 - les rémunérations des gens de service pour l'année échue et l'année en cours ;
@@ -6851,142 +7564,109 @@ privilégiée sur les meubles et immeubles, à savoir :
 
 - les indemnités de licenciement dues en application des conventions collectives de travail, des accords collectifs
 d'établissement, des règlements de travail, des usages, des dispositions des articles L. 122-22 et L. 122-60 pour la totalité
-de la portion inférieure ou égale au plafond visé à l'article L. 143-9 et pour le quart de la portion supérieure audit
+de la portion inférieure ou égale au plafond visé à l'article L. 143-17 et pour le quart de la portion supérieure audit
 plafond ;
 
 - les indemnités dues, le cas échéant, aux salariés, en application des articles L. 122-10, L. 122-61 et L. 122-63.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1580 du 24 novembre 2016 - art. 1
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L122-10 (M)
-	  - Code du travail applicable à Mayotte. - art. L122-21 (M)
-	  - Code du travail applicable à Mayotte. - art. L122-22 (M)
-	  - Code du travail applicable à Mayotte. - art. L122-60 (M)
-	  - Code du travail applicable à Mayotte. - art. L122-61 (M)
-	  - Code du travail applicable à Mayotte. - art. L122-63 (M)
-	  - Code du travail applicable à Mayotte. - art. L143-10 (M)
-	  - Code du travail applicable à Mayotte. - art. L143-9 (M)
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. L128-1 (VD)
-	  - Code du travail applicable à Mayotte. - art. L312-2 (V)
-	  - Code du travail applicable à Mayotte. - art. L312-7 (V)
-	  - Code du travail applicable à Mayotte. - art. L312-9 (V)
-	  - Code du travail applicable à Mayotte. - art. R143-2 (V)
+	  - Code du travail applicable à Mayotte. - art. L122-10
+	  - Code du travail applicable à Mayotte. - art. L122-21
+	  - Code du travail applicable à Mayotte. - art. L122-60
+	  - Code du travail applicable à Mayotte. - art. L143-17
 
 
-###### Article L143-8
+###### Article L143-16
 
 Sans préjudice des règles fixées aux articles L. 621-130 et L. 621-131 du code de commerce, les créances résultant du contrat
-de travail ou du contrat d'apprentissage sont garanties dans les conditions fixées aux articles L. 143-9 à L. 143-14.
+de travail ou du contrat d'apprentissage sont garanties dans les conditions fixées aux articles L. 143-17 à L. 143-22.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
 	**Cite**:
 
-	  - Code de commerce. - art. L621-130 (M)
-	  - Code de commerce. - art. L621-131 (M)
-	  - Code du travail applicable à Mayotte L143-9 à L143-14
+	  - Code de commerce - art. L621-130
+	  - Code du travail applicable à Mayotte. - art. L143-17
 
 	**Cité par**:
 
-	  - Code du travail applicable à Mayotte. - art. L143-10 (V)
+	  - Code du travail applicable à Mayotte. - art. L143-18 (VD)
 
 
-###### Article L143-9
+###### Article L143-17
 
 Lorsqu'est ouverte une procédure de sauvegarde ou de redressement judiciaire, les rémunérations de toute nature dues aux
 salariés et apprentis pour les soixante derniers jours de travail ou d'apprentissage doivent, déduction faite des acomptes
 déjà perçus, être payées, nonobstant l'existence de toute autre créance privilégiée, jusqu'à concurrence d'un plafond mensuel
-identique pour toutes les catégories de bénéficiaires.
+identique pour toutes les catégories de bénéficiaires. 
 
-Ce plafond est fixé par arrêté du représentant de l'Etat à Mayotte.
+Ce plafond est fixé par arrêté du représentant de l'Etat à Mayotte. 
 
 Les rémunérations prévues au premier alinéa ci-dessus comprennent non seulement les salaires, appointements ou commissions
 proprement dites mais encore tous les accessoires et notamment l'indemnité pour inobservation du délai-congé mentionnée à
-l'article L. 122-21.
+l'article L. 122-21. 
 
 Les dispositions du présent article sont aussi applicables aux voyageurs, représentants et placiers, pour les rémunérations
-de toute nature dues au titre des quatre-vingt-dix derniers jours de travail.
+de toute nature dues au titre des quatre-vingt-dix derniers jours de travail. 
 
 Elles s'appliquent également aux marins pour les rémunérations de toute nature dues au titre des quatre-vingt-dix derniers
 jours de travail.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L122-21 (M)
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
 	**Cité par**:
 
-	  - Code du travail applicable à Mayotte. - art. L143-13 (V)
-	  - Code du travail applicable à Mayotte. - art. L143-14 (V)
-	  - Code du travail applicable à Mayotte. - art. L143-7 (V)
+	  - Code du travail applicable à Mayotte. - art. D143-17 (V)
+	  - Code du travail applicable à Mayotte. - art. L143-15 (Ab)
+	  - Code du travail applicable à Mayotte. - art. L143-16 (V)
+	  - Code du travail applicable à Mayotte. - art. L143-21 (V)
+	  - Code du travail applicable à Mayotte. - art. L143-22 (VD)
+	  - Code rural - art. L371-15 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L122-21
 
 
-###### Article L143-10
+###### Article L143-18
 
 En outre, lorsque est ouverte une procédure de sauvegarde ou de redressement judiciaire, les indemnités de congés payés
-prévues aux articles L. 223-8 à L. 223-11 doivent être payées nonobstant l'existence de toute autre créance privilégiée,
+prévues aux articles L. 223-21 à L. 223-26 doivent être payées nonobstant l'existence de toute autre créance privilégiée,
 jusqu'à concurrence d'un plafond identique à celui établi pour une période de trente jours de rémunération par l'article L.
-143-8.
+143-16.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte L223-8 à L223-11, L143-8
-	  - Code du travail applicable à Mayotte. - art. L143-8 (M)
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. L143-13 (V)
-	  - Code du travail applicable à Mayotte. - art. L143-14 (V)
-	  - Code du travail applicable à Mayotte. - art. L143-7 (V)
-	  - Code rural - art. L371-15 (V)
+	  - Code du travail applicable à Mayotte. - art. L143-16
+	  - Code du travail applicable à Mayotte. - art. L223-21
 
 
-###### Article L143-11
+###### Article L143-19
 
 En cas de procédures de sauvegarde ou de redressement judiciaire, doivent être aussi payées nonobstant l'existence de toute
 autre créance privilégiée, les créances résultant de la rupture des contrats de travail intervenant pendant la période
@@ -7002,140 +7682,90 @@ de liquidation.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
 	**Cite**:
 
-	  - Code de commerce. - art. L621-135 (Ab)
-	  - Code de commerce. - art. L621-8 (M)
+	  - Code de commerce - art. L621-135
 
 	**Cité par**:
 
-	  - Code du travail applicable à Mayotte. - art. L143-12 (VD)
-	  - Code du travail applicable à Mayotte. - art. L143-14 (V)
-	  - Code du travail applicable à Mayotte. - art. R143-12 (V)
+	  - Code du travail applicable à Mayotte. - art. L143-20 (V)
+	  - Code du travail applicable à Mayotte. - art. L143-22 (VD)
 
 
-###### Article L143-12
+###### Article L143-20
 
 Les créances résultant du licenciement des salariés bénéficiaires d'une protection particulière relative au licenciement
 doivent être également payées nonobstant l'existence de toute autre créance privilégiée dès lors que l'administrateur,
-l'employeur ou le liquidateur, selon le cas, a manifesté au cours des périodes mentionnées à l'article L. 143-11 son
+l'employeur ou le liquidateur, selon le cas, a manifesté au cours des périodes mentionnées à l'article L. 143-19 son
 intention de rompre le contrat de travail.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L143-11 (M)
+	  - Code du travail applicable à Mayotte. - art. L143-19
 
 
-###### Article L143-13
+###### Article L143-21
 
-Nonobstant l'existence de toute autre créance, les créances que garantit le privilège établi aux articles L. 143-9 et L.
-143-10 doivent être payées par l'administrateur par ordonnance du juge-commissaire, dans les dix jours du prononcé du
-jugement ouvrant la procédure de sauvegarde ou de redressement judiciaire, si l'administrateur dispose des fonds nécessaires.
+Nonobstant l'existence de toute autre créance, les créances que garantit le privilège établi aux articles L. 143-17 et L.
+143-18 doivent être payées par l'administrateur par ordonnance du juge-commissaire, dans les dix jours du prononcé du
+jugement ouvrant la procédure de sauvegarde ou de redressement judiciaire, si l'administrateur dispose des fonds
+nécessaires. 
 
 Toutefois, avant tout établissement du montant de ces créances, l'administrateur doit, avec l'autorisation du juge-
 commissaire et dans la mesure des fonds disponibles, verser immédiatement aux salariés, à titre provisionnel, une somme égale
 à un mois de salaire impayé, sur la base du dernier bulletin de salaire et sans pouvoir dépasser le plafond visé à l'article
-L. 143-9.
+L. 143-17. 
 
 A défaut de disponibilités, les sommes dues en vertu des deux alinéas précédents doivent être acquittées sur les premières
 rentrées de fonds.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L143-10 (M)
-	  - Code du travail applicable à Mayotte. - art. L143-9 (M)
+	  - Code du travail applicable à Mayotte. - art. L143-17
 
 
-###### Article L143-14
+###### Article L143-22
 
-Le mandataire judiciaire établit les relevés des créances dans les conditions suivantes :
+Le mandataire judiciaire établit les relevés des créances dans les conditions suivantes : 
 
-1° Pour les créances mentionnées aux articles L. 143-9 et L. 143-10, dans les dix jours suivant le prononcé du jugement
-d'ouverture de la procédure ;
+1° Pour les créances mentionnées aux articles L. 143-17 et L. 143-18, dans les dix jours suivant le prononcé du jugement
+d'ouverture de la procédure ; 
 
 2° Pour les autres créances également exigibles à la date du jugement d'ouverture de la procédure, dans les trois mois
-suivant le prononcé du jugement ;
+suivant le prononcé du jugement ; 
 
-3° Pour les salaires et les indemnités de congés payés couvertes en application de l'article L. 143-9, troisième et quatrième
-alinéa, dans les dix jours suivant l'expiration des périodes de garantie prévues à l'article L. 143-11, et ce jusqu'à
-concurrence du plafond mentionné aux articles L. 143-9 et L. 143-10 ;
+3° Pour les salaires et les indemnités de congés payés couvertes en application de l'article L. 143-17, troisième et
+quatrième alinéa, dans les dix jours suivant l'expiration des périodes de garantie prévues à l'article L. 143-19, et ce
+jusqu'à concurrence du plafond mentionné aux articles L. 143-17 et L. 143-18 ; 
 
 4° Pour les autres créances, dans les trois mois suivant l'expiration de la période de garantie.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2012-792 du 7 juin 2012 - art. 2
-
-	**Cité par**:
-
-	  - Décret n°2016-360 du 25 mars 2016 - art. 168 (V)
-	  - Code du travail applicable à Mayotte. - art. L122-65 (V)
-	  - Code du travail applicable à Mayotte. - art. L122-66 (V)
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L143-10 (M)
-	  - Code du travail applicable à Mayotte. - art. L143-11 (M)
-	  - Code du travail applicable à Mayotte. - art. L143-9 (M)
-
-
-##### Section 3 : Prescription de l'action en paiement du salaire.
-
-###### Article L143-15
-
-L'action en paiement ou en répétition du salaire se prescrit par cinq ans conformément à l'article 2224 du code civil.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2008-561 du 17 juin 2008 - art. 25 (V)
-
-	**Cite**:
-
-	  - Code civil - art. 2224
+	  - Code du travail applicable à Mayotte. - art. L143-17
+	  - Code du travail applicable à Mayotte. - art. L143-19
 
 
 #### CHAPITRE IV : Retenues sur le salaire.
@@ -7437,101 +8067,15 @@ Le fait de méconnaître les dispositions de l'article L. 146-1, relatives aux �
 	  - Code du travail applicable à Mayotte. - art. L146-1
 
 
-### TITRE V : PÉNALITÉS
+### TITRE V : RÈGLEMENT INTÉRIEUR, PROTECTION   DES SALARIÉS ET DROIT DISCIPLINAIRE
 
-#### CHAPITRE Ier : Contrat de travail  - Protection des salariés et droit disciplinaire  - Égalité de rémunération entre les hommes et les femmes.
+#### CHAPITRE Ier : Champ d'application.
 
 ###### Article L151-1
 
-Toute infraction aux dispositions de l'article L. 123-1 sera punie d'un emprisonnement d'un an et d'une amende de 3750 euros.
-ou de l'une de ces deux peines seulement.
+Les dispositions du présent titre sont applicables dans les établissements des employeurs de droit privé. 
 
-Le tribunal pourra ordonner, aux frais de la personne condamnée, l'affichage du jugement dans les conditions prévues à
-l'article 131-35 du code pénal et son insertion, intégrale ou par extraits, dans les journaux qu'il désigne, sans que ces
-frais puissent excéder le maximum de l'amende encourue.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Cite**:
-
-	  - Code pénal - art. 131-35 (M)
-	  - Code du travail applicable à Mayotte. - art. L123-1 (M)
-
-
-###### Article L151-2
-
-Les dispositions des articles 469-1 et 469-3 du code de procédure pénale relatives à l'ajournement du prononcé de la peine
-sont applicables dans le cas de poursuites pour infraction aux dispositions de l'article L. 123-1 [*discrimination*], sous
-réserve des mesures particulières suivantes :
-
-L'ajournement comporte injonction à l'employeur de définir, après consultation des représentants du personnel et dans un
-délai déterminé, les mesures propres à assurer dans l'entreprise en cause le rétablissement de l'égalité professionnelle
-entre les femmes et les hommes. L'ajournement peut, le cas échéant, comporter également injonction à l'employeur d'exécuter
-dans le même délai les mesures définies.
-
-Le tribunal peut ordonner l'exécution provisoire de sa décision.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 469-1 (M)
-	  - CODE DE PROCEDURE PENALE - art. 469-3 (Ab)
-	  - Code du travail applicable dans la collectivité territoriale de Mayotte L123-1
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. L156-1 (Ab)
-	  - Code du travail applicable à Mayotte. - art. R152-7 (V)
-
-
-###### Article L151-3
-
-A l'audience de renvoi et au vu des mesures définies et, le cas échéant, exécutées par l'employeur, le tribunal apprécie s'il
-y a lieu de prononcer une dispense de peine ou d'infliger les peines prévues par la loi.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. L156-1 (Ab)
-
-
-###### Article L151-4
-
-Toute infraction aux dispositions de l'article L. 122-73 est punie d'une amende de 3750 euros et, en cas de récidive, d'une
-amende de 7500 euros.
+Elles s'appliquent également dans les établissements publics à caractère industriel et commercial.
 
 **Liens relatifs à cet article**
 
@@ -7542,48 +8086,68 @@ amende de 7500 euros.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Abrogé par**:
-
 	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
-	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L122-73
+###### Article L151-2
 
+L'établissement d'un règlement intérieur est obligatoire dans les entreprises ou établissements employant habituellement
+vingt salariés et plus. 
 
-#### CHAPITRE II : Marchandage.
-
-###### Article L152-1
-
-Toute infraction aux dispositions des articles L. 124-1 et L. 124-3 est punie d'une amende de 3750 euros. La récidive est
-punie d'une amende de 7500 euros et d'un emprisonnement de six mois ou de l'une de ces deux peines seulement.
-
-Le tribunal peut prononcer, en outre, l'interdiction d'exercer l'activité de sous-entrepreneur de main-d'oeuvre pour une
-durée de deux ans à dix ans.
-
-Sont passibles d'une amende de 6000 euros et d'un emprisonnement de six mois ou de l'une de ces deux peines seulement ceux
-qui, directement ou par personne interposée, contreviennent à l'interdiction prononcée en application de l'alinéa qui
-précède.
-
-Dans tous les cas, le tribunal peut ordonner, aux frais de la personne condamnée, l'affichage du jugement aux portes des
-établissements de l'entreprise et sa publication dans les journaux qu'il désigne.
+Des dispositions spéciales peuvent être établies pour une catégorie de personnel ou une division de l'entreprise ou de
+l'établissement.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
-	**Cite**:
+	**Cité par**:
 
-	  - Code du travail applicable à Mayotte. - art. L124-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L156-1 (Ab)
+	  - Code du travail applicable à Mayotte. - art. R152-7 (V)
+
+
+#### CHAPITRE II : Règlement intérieur.
+
+##### Section 1 : Contenu et conditions de validité 
+
+
+
+###### Article L152-1
+
+Le règlement intérieur est un document écrit par lequel l'employeur fixe exclusivement : 
+
+1° Les mesures d'application de la réglementation en matière de santé et de sécurité dans l'entreprise ou l'établissement,
+notamment les instructions prévues à l'article L. 152-7 ; 
+
+2° Les conditions dans lesquelles les salariés peuvent être appelés à participer, à la demande de l'employeur, au
+rétablissement de conditions de travail protectrices de la santé et de la sécurité des salariés, dès lors qu'elles
+apparaîtraient compromises ; 
+
+3° Les règles générales et permanentes relatives à la discipline, notamment la nature et l'échelle des sanctions que peut
+prendre l'employeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
 	**Cité par**:
 
@@ -7592,226 +8156,436 @@ Dans tous les cas, le tribunal peut ordonner, aux frais de la personne condamné
 	  - Code du travail applicable à Mayotte. - art. L152-5 (VD)
 	  - Code du travail applicable à Mayotte. - art. L152-8 (VD)
 
+	**Cite**:
 
-#### CHAPITRE III : Cautionnement.
+	  - Code du travail applicable à Mayotte. - art. L152-7
+
+
+###### Article L152-2
+
+Le règlement intérieur rappelle : 
+
+1° Les dispositions relatives aux droits de la défense des salariés définis aux articles L. 153-3 et L. 153-5 ; 
+
+2° Les dispositions relatives aux harcèlements moral et sexuel prévues par le présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+
+###### Article L152-3
+
+Le règlement intérieur ne peut contenir : 
+
+1° Des dispositions contraires aux lois et règlements ainsi qu'aux stipulations des conventions et accords collectifs de
+travail applicables dans l'entreprise ou l'établissement ; 
+
+2° Des dispositions apportant aux droits des personnes et aux libertés individuelles et collectives des restrictions qui ne
+seraient pas justifiées par la nature de la tâche à accomplir ni proportionnées au but recherché ; 
+
+3° Des dispositions discriminant les salariés dans leur emploi ou leur travail, à capacité professionnelle égale, en raison
+de leur origine, de leur statut civil, de leur sexe, de leurs mœurs, de leur orientation sexuelle, de leur âge, de leur
+situation de famille ou de leur grossesse, de leurs caractéristiques génétiques, de leur appartenance ou de leur non-
+appartenance, vraie ou supposée, à une ethnie, une nation ou une race, de leurs opinions politiques, de leurs activités
+syndicales ou mutualistes, de leurs convictions religieuses, de leur apparence physique, de leur nom de famille ou en raison
+de leur état de santé ou de leur handicap.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+
+###### Article L152-4
+
+Le règlement intérieur ne peut être introduit qu'après avoir été soumis à l'avis du comité d'entreprise ou, à défaut, des
+délégués du personnel ainsi que, pour les matières relevant de sa compétence, à l'avis du comité d'hygiène, de sécurité et
+des conditions de travail. 
+
+Le règlement intérieur indique la date de son entrée en vigueur. Cette date doit être postérieure d'un mois à
+l'accomplissement des formalités de dépôt et de publicité. 
+
+En même temps qu'il fait l'objet de mesures de publicité, le règlement intérieur, accompagné de l'avis du comité d'entreprise
+ou, à défaut, des délégués du personnel et, le cas échéant, du comité d'hygiène, de sécurité et des conditions de travail,
+est communiqué à l'inspecteur du travail. 
+
+Ces dispositions s'appliquent également en cas de modification ou de retrait des clauses du règlement intérieur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R152-2 (V)
+	  - Code du travail applicable à Mayotte. - art. R152-3 (V)
+
+
+###### Article L152-5
+
+Les notes de service ou tout autre document comportant des obligations générales et permanentes dans les matières mentionnées
+aux articles L. 152-1 et L. 152-2 sont, lorsqu'il existe un règlement intérieur, considérées comme des adjonctions à celui-
+ci. Ils sont, en toute hypothèse, soumis aux dispositions du présent titre. 
+
+Toutefois, lorsque l'urgence le justifie, les obligations relatives à la santé et à la sécurité peuvent recevoir application
+immédiate. Dans ce cas, ces prescriptions sont immédiatement et simultanément communiquées aux secrétaires du comité
+d'hygiène, de sécurité et des conditions de travail et du comité d'entreprise ainsi qu'à l'inspection du travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L152-1
+
+
+###### Article L152-6
+
+Le règlement intérieur est rédigé en français. Il peut être accompagné de traductions en une ou plusieurs langues
+étrangères. 
+
+Il en va de même pour tout document comportant des obligations pour le salarié ou des dispositions dont la connaissance est
+nécessaire pour l'exécution de son travail. 
+
+Ces dispositions ne sont pas applicables aux documents reçus de l'étranger ou destinés à des étrangers.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L152-11 (VD)
+	  - Code du travail applicable à Mayotte. - art. L152-8 (VD)
+
+
+###### Article L152-7
+
+Conformément aux instructions qui lui sont données par l'employeur, dans les conditions prévues au règlement intérieur pour
+les entreprises tenues d'en élaborer un, il incombe à chaque travailleur de prendre soin, en fonction de sa formation et
+selon ses possibilités, de sa santé et de sa sécurité ainsi que de celles des autres personnes concernées par ses actes ou
+ses omissions au travail. 
+
+Les instructions de l'employeur précisent, en particulier lorsque la nature des risques le justifie, les conditions
+d'utilisation des équipements de travail, des moyens de protection, des substances et préparations dangereuses. Elles sont
+adaptées à la nature des tâches à accomplir. 
+
+Les dispositions du premier alinéa sont sans incidence sur le principe de la responsabilité de l'employeur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L152-1 (VD)
+
+
+##### Section 2 : Contrôle administratif et juridictionnel 
+
+
+
+##### Sous-section 1 : Contrôle administratif 
+
+
+###### Article L152-8
+
+L'inspecteur du travail peut à tout moment exiger le retrait ou la modification des dispositions contraires aux articles L.
+152-1 à L. 152-3 et L. 152-6.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L152-1
+	  - Code du travail applicable à Mayotte. - art. L152-6
+
+
+###### Article L152-9
+
+La décision de l'inspecteur du travail est motivée. 
+
+Elle est notifiée à l'employeur et communiquée, pour information, aux membres du comité d'entreprise ou, à défaut, aux
+délégués du personnel ainsi qu'aux membres du comité d'hygiène, de sécurité et des conditions de travail pour les matières
+relevant de sa compétence.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+
+###### Article L152-10
+
+La décision de l'inspecteur du travail peut faire l'objet d'un recours hiérarchique, dans des conditions déterminées par voie
+réglementaire. 
+
+La décision prise sur ce recours est notifiée à l'employeur et communiquée, pour information, aux membres du comité
+d'entreprise ou, à défaut, aux délégués du personnel ainsi qu'aux membres du comité d'hygiène, de sécurité et des conditions
+de travail pour les matières relevant de sa compétence.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R152-6 (V)
+
+
+##### Sous-section 2 : Contrôle juridictionnel 
+
+
+###### Article L152-11
+
+Lorsque, à l'occasion d'un litige individuel, le juge du contrat de travail écarte l'application d'une disposition contraire
+aux articles L. 152-1 à L. 152-3 et L. 152-6, une copie du jugement est adressée à l'inspecteur du travail et aux membres du
+comité d'entreprise ou, à défaut, aux délégués du personnel ainsi qu'aux membres du comité d'hygiène, de sécurité et des
+conditions de travail pour les matières relevant de sa compétence.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L152-1
+	  - Code du travail applicable à Mayotte. - art. L152-6
+
+
+#### CHAPITRE III : Droit disciplinaire.
+
+##### Section 1 : Sanction disciplinaire
+
 
 ###### Article L153-1
 
-Si l'employeur a retenu ou utilisé, dans un intérêt personnel ou pour les besoins de son commerce, les espèces ou titres
-remis à titre de cautionnement mentionné au chapitre V, titre II, du présent livre, les peines encourues seront celles de
-l'article 408, paragraphe premier, du code pénal.
+Constitue une sanction toute mesure, autre que les observations verbales, prise par l'employeur à la suite d'un agissement du
+salarié considéré par l'employeur comme fautif, que cette mesure soit de nature à affecter immédiatement ou non la présence
+du salarié dans l'entreprise, sa fonction, sa carrière ou sa rémunération.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Cite**:
-
-	  - Code pénal 408
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
 	**Cité par**:
 
 	  - Code du travail applicable à Mayotte. - art. R520-1 (V)
 
 
-#### CHAPITRE V : Conventions et accords collectifs de travail.
+###### Article L153-2
 
-###### Article L155-1
+Les amendes ou autres sanctions pécuniaires sont interdites. 
 
-Lorsqu'en vertu d'une disposition législative expresse dans une matière déterminée, une convention ou un accord collectif
-étendu déroge à des dispositions législatives ou réglementaires, les infractions aux stipulations dérogatoires sont passibles
-des sanctions qu'entraînerait la violation des dispositions législatives ou réglementaires en cause.
+Toute disposition ou stipulation contraire est réputée non écrite.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
-
-
-###### Article L155-2
-
-L'employeur qui se soustrait à l'obligation prévue à l'article L. 132-25 est passible des peines fixées par l'article L.
-430-2 du présent code.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
-
-
-#### CHAPITRE VI : Salaire  - Retenues sur le salaire  - Economat.
-
-###### Article L156-1
-
-Les dispositions des articles L. 151-2 et L. 151-3 sont applicables en cas d'infraction aux dispositions des articles L.
-140-1 à L. 140-3.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte L151-2, L151-3, L140-1 à L140-3
-	  - Code du travail applicable à Mayotte. - art. L151-2 (M)
-	  - Code du travail applicable à Mayotte. - art. L151-3 (M)
-
-
-###### Article L156-2
-
-En cas de contravention aux dispositions de l'article L. 144-3, le tribunal peut ordonner l'insertion du jugement dans un
-journal de la localité aux frais du condamné si, dans les douze mois qui ont précédé la contravention, le contrevenant a
-encouru une condamnation pour infraction aux dispositions de l'article L. 144-3.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du travail applicable dans la collectivité territoriale de Mayotte L144-3
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
 	**Cité par**:
 
-	  - Code du travail applicable à Mayotte. - art. R156-4 (T)
-	  - Code du travail applicable à Mayotte. - art. R163-2 (V)
+	  - Code du travail applicable à Mayotte. - art. L153-11 (VD)
 
 
-###### Article L156-3
-
-Toute infraction aux dispositions de l'article L. 147-1 est punie d'une amende de 3750 euros et, en cas de récidive, d'une
-amende de 7500 euros.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L147-1 (M)
+##### Section 2 : Procédure disciplinaire 
 
 
-#### Chapitre VII : Corruption et violation des secrets de fabrique
+##### Sous-section 1 : Garanties de procédure 
 
-###### Article L157-1
 
-Le fait, pour tout directeur ou salarié d'une entreprise de solliciter ou d'agréer, directement ou indirectement, à l'insu et
-sans l'autorisation de son employeur, des offres ou des promesses, des dons, présents, escomptes ou primes pour accomplir ou
-s'abstenir d'accomplir un acte de sa fonction ou facilité par sa fonction, est puni de deux ans d'emprisonnement et de 30 000
-Euros d'amende.
+###### Article L153-3
 
-Est puni des mêmes peines le fait, par quiconque, de céder aux sollicitations définies à l'alinéa précédent ou d'en prendre
-l'initiative.
-
-Dans les cas prévus au présent article, le tribunal peut également prononcer, à titre de peine complémentaire, pour une durée
-de cinq ans au plus, l'interdiction des droits civiques, civils et de famille prévue par l'article 131-26 du code pénal.
+Aucune sanction ne peut être prise à l'encontre du salarié sans que celui-ci soit informé, dans le même temps et par écrit,
+des griefs retenus contre lui.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
 	**Créé par**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 5 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
-
-	**Abrogé par**:
-
 	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
-	**Cite**:
 
-	  - Code pénal - art. 131-26 (V)
+###### Article L153-4
 
+Lorsque l'employeur envisage de prendre une sanction, il convoque le salarié en lui précisant l'objet de la convocation, sauf
+si la sanction envisagée est un avertissement ou une sanction de même nature n'ayant pas d'incidence, immédiate ou non, sur
+la présence dans l'entreprise, la fonction, la carrière ou la rémunération du salarié. 
 
-###### Article L157-2
+Lors de son audition, le salarié peut se faire assister par une personne de son choix appartenant au personnel de
+l'entreprise. 
 
-Le fait, pour tout directeur ou salarié d'une entreprise de révéler ou de tenter de révéler un secret de fabrique est puni de
-deux ans d'emprisonnement et de 30 000 Euros d'amende.
+Au cours de l'entretien, l'employeur indique le motif de la sanction envisagée et recueille les explications du salarié. 
 
-Le tribunal peut également prononcer, à titre de peine complémentaire, pour une durée de cinq ans au plus, l'interdiction des
-droits civiques, civils et de famille prévue par l'article 131-26 du code pénal.
+La sanction ne peut intervenir moins d'un jour franc, ni plus d'un mois après le jour fixé pour l'entretien. Elle est motivée
+et notifiée à l'intéressé.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
 	**Créé par**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 5 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
-	**Abrogé par**:
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L153-5 (VD)
+	  - Code du travail applicable à Mayotte. - art. R153-2 (V)
+	  - Code du travail applicable à Mayotte. - art. R153-3 (V)
+
+
+###### Article L153-5
+
+Lorsque les faits reprochés au salarié ont rendu indispensable une mesure conservatoire de mise à pied à effet immédiat,
+aucune sanction définitive relative à ces faits ne peut être prise sans que la procédure prévue à l'article L. 153-4 ait été
+respectée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
 
 	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
 	**Cite**:
 
-	  - Code pénal - art. 131-26 (V)
+	  - Code du travail applicable à Mayotte. - art. L153-4
+
+
+##### Sous-section 2 : Prescription des faits fautifs 
+
+
+
+###### Article L153-6
+
+Aucun fait fautif ne peut donner lieu à lui seul à l'engagement de poursuites disciplinaires au-delà d'un délai de deux mois
+à compter du jour où l'employeur en a eu connaissance, à moins que ce fait ait donné lieu dans le même délai à l'exercice de
+poursuites pénales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R153-1 (V)
+	  - Code du travail applicable à Mayotte. - art. R153-4 (V)
+
+
+###### Article L153-7
+
+Aucune sanction antérieure de plus de trois ans à l'engagement des poursuites disciplinaires ne peut être invoquée à l'appui
+d'une nouvelle sanction.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+
+##### Section 3 : Contrôle juridictionnel 
+
+
+
+###### Article L153-8
+
+En cas de litige, la juridiction du travail compétente apprécie la régularité de la procédure suivie et si les faits
+reprochés au salarié sont de nature à justifier une sanction. 
+
+L'employeur fournit à la juridiction du travail compétente les éléments retenus pour prendre la sanction. 
+
+Au vu de ces éléments et de ceux qui sont fournis par le salarié à l'appui de ses allégations, la juridiction du travail
+compétente forme sa conviction après avoir ordonné, en cas de besoin, toutes les mesures d'instruction qu'il estime utiles.
+Si un doute subsiste, il profite au salarié.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+
+###### Article L153-9
+
+La juridiction du travail compétente peut annuler une sanction irrégulière en la forme ou injustifiée ou disproportionnée à
+la faute commise.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+
+###### Article L153-10
+
+Lorsque la sanction contestée est un licenciement, les dispositions de la présente section ne sont pas applicables. 
+
+Dans ce cas, la juridiction du travail compétente applique les dispositions relatives à la contestation des irrégularités de
+licenciement prévues aux articles L. 122-29 et L. 122-30.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L122-29
+
+
+##### Section 4 : Dispositions pénales 
+
+
+
+
+###### Article L153-11
+
+Le fait d'infliger une amende ou une sanction pécuniaire en méconnaissance des dispositions de l'article L. 153-2 est puni
+d'une amende de 3 750 €.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L153-2
 
 
 ## LIVRE II : RÉGLEMENTATION DU TRAVAIL
@@ -9509,25 +10283,24 @@ de ce salaire. Cette indemnité est à la charge de l'employeur.
 	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-#### CHAPITRE III : Congés annuels
+#### CHAPITRE III : Congés payés
 
 ##### Section 1 : Droit au congé.
 
 ###### Article L223-1
 
-Tout salarié a droit chaque année à un congé payé à la charge de l'employeur dans les conditions fixées par les articles
-suivants.
+Tout salarié a droit chaque année à un congé payé à la charge de l'employeur dans les conditions fixées au présent chapitre.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 3
 
 	**Cité par**:
 
@@ -9537,32 +10310,26 @@ suivants.
 	  - Code du travail applicable à Mayotte. - art. R254-6 (V)
 
 
-##### Section 2 : Durée du congé.
-
 ###### Article L223-2
 
-Le travailleur qui, au cours de l'année de référence, justifie avoir été occupé chez le même employeur pendant un temps
-équivalent à un minimum d'un mois de travail effectif, a droit à un congé dont la durée est déterminée à raison de deux jours
-ouvrables par mois de travail. Ce droit sera calculé à raison de deux jours et demi ouvrables par mois de travail à compter
-du 1er janvier 1993. La durée totale du congé exigible ne pourra toutefois excéder vingt-quatre jours ouvrables jusqu'au 31
-décembre 1992 et trente jours à partir de 1993.
-
-L'absence du travailleur ne peut avoir pour effet d'entraîner une réduction de ses droits à congé plus que proportionnelle à
-la durée de cette absence.
-
-Lorsque le nombre de jours ouvrables calculé conformément aux deux alinéas précédents n'est pas un nombre entier, la durée du
-congé est portée au nombre entier immédiatement supérieur.
+Les salariés de retour d'une période de suspension du contrat de travail prévue aux articles L. 122-48 et L. 122-48-1 ont
+droit à leur congé payé annuel, quelle que soit la période de congé payé retenue, par accord collectif ou par l'employeur,
+pour le personnel de l'entreprise.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 3
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L122-48
 
 	**Cité par**:
 
@@ -9570,26 +10337,24 @@ congé est portée au nombre entier immédiatement supérieur.
 	  - Code du travail applicable à Mayotte. - art. L224-1 (V)
 
 
+##### Section 2 : Durée du congé.
+
 ###### Article L223-3
 
-La durée du congé annuel peut être majorée en raison de l'âge ou de l'ancienneté selon des modalités qui sont déterminées par
-convention ou accord collectif de travail.
+Le salarié a droit à un congé de deux jours et demi ouvrables par mois de travail effectif chez le même employeur.
 
-Quelle que soit leur ancienneté dans l'entreprise, les jeunes travailleurs et apprentis âgés de moins de vingt et un ans au
-30 avril de l'année précédente ont droit, s'ils le demandent, à un congé de trente jours ouvrables. Ils ne peuvent exiger
-aucune indemnité de congé payé pour les journées de vacances dont ils réclament le bénéfice en sus de celles qu'ils ont
-acquises, à raison du travail accompli au cours de la période de référence.
+La durée totale du congé exigible ne peut excéder trente jours ouvrables.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 3
 
 	**Cité par**:
 
@@ -9601,27 +10366,18 @@ acquises, à raison du travail accompli au cours de la période de référence.
 ###### Article L223-4
 
 Sont assimilées à un mois de travail effectif pour la détermination de la durée du congé les périodes équivalentes à quatre
-semaines ou vingt-quatre jours de travail. Les périodes de congé payé, les périodes de repos des femmes en couches prévues
-aux articles L. 122-45 à L. 122-51 et les périodes limitées à une durée ininterrompue d'un an pendant lesquelles l'exécution
-du contrat de travail est suspendue pour cause d'accident du travail ou de maladie professionnelle sont considérées comme
-périodes de travail effectif [*définition*]. Sont également considérées comme périodes de travail effectif pour la
-détermination de la durée du congé, les périodes pendant lesquelles un salarié ou un apprenti se trouve maintenu ou rappelé
-au service national à un titre quelconque.
+semaines ou vingt-quatre jours de travail.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte L122-45 à L122-51
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 3
 
 	**Cité par**:
 
@@ -9630,47 +10386,48 @@ au service national à un titre quelconque.
 
 ###### Article L223-5
 
-Les dispositions qui précèdent ne portent pas atteinte aux stipulations des conventions ou accords collectifs de travail ou
-des contrats individuels de travail ni aux usages qui assureraient des congés payés de plus longue durée.
+Sont considérées comme périodes de travail effectif pour la détermination de la durée du congé : 
+
+1° Les périodes de congé payé ; 
+
+2° Les périodes de suspension du contrat de travail prévues aux articles L. 122-48 et L. 122-48-1 ; 
+
+3° Les périodes, dans la limite d'une durée ininterrompue d'un an, pendant lesquelles l'exécution du contrat de travail est
+suspendue pour cause d'accident du travail ou de maladie professionnelle ; 
+
+4° Les périodes pendant lesquelles un salarié se trouve maintenu ou rappelé au service national à un titre quelconque.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 3
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L122-48
 
 
 ###### Article L223-6
 
-La période de congé payé est fixée par les conventions ou accords collectifs de travail.
-
-A défaut de convention ou accord collectif de travail, elle est fixée par l'employeur, en se référant aux usages et après
-consultation des représentants du personnel.
-
-A l'intérieur de la période des congés et à moins que l'ordre des départs ne résulte des stipulations des conventions ou
-accords collectifs de travail ou des usages, cet ordre est fixé par l'employeur après avis, le cas échéant, des représentants
-du personnel, compte tenu de la situation de famille des bénéficiaires, notamment des possibilités de congé du conjoint dans
-le secteur privé ou public et de la durée de leurs services chez l'employeur. Sauf en cas de circonstances exceptionnelles,
-l'ordre et les dates de départ fixés par l'employeur ne peuvent être modifiés dans le délai d'un mois avant la date prévue du
-départ.
-
-Les conjoints travaillant dans une même entreprise ont droit à un congé simultané.
+L'absence du salarié ne peut avoir pour effet d'entraîner une réduction de ses droits à congé plus que proportionnelle à la
+durée de cette absence.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 3
 
 	**Cité par**:
 
@@ -9679,27 +10436,23 @@ Les conjoints travaillant dans une même entreprise ont droit à un congé simul
 
 ###### Article L223-7
 
-Le congé payé ne dépassant pas douze jours ouvrables doit être continu. La durée des congés pouvant être pris en une seule
-fois ne peut excéder vingt-quatre jours. Il peut être dérogé individuellement à cette disposition pour ceux des salariés qui
-justifient de contraintes géographiques particulières.
-
-Le congé principal d'une durée supérieure à douze jours ouvrables et au plus égale à vingt-quatre jours ouvrables peut être
-fractionné par l'employeur avec l'agrément du salarié. Dans ce cas, une fraction doit être au moins de douze jours ouvrables
-continus compris entre deux jours de repos hebdomadaire.
-
-Lorsque le congé s'accompagne de la fermeture de l'établissement, le fractionnement peut être effectué par l'employeur sur
-avis conforme du comité d'entreprise ou, à défaut, des délégués du personnel.
+Lorsque le nombre de jours ouvrables calculé conformément aux articles L. 223-3 et L. 223-6 n'est pas un nombre entier, la
+durée du congé est portée au nombre entier immédiatement supérieur.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 25 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 3
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L223-3
 
 	**Cité par**:
 
@@ -9709,94 +10462,58 @@ avis conforme du comité d'entreprise ou, à défaut, des délégués du personn
 
 ###### Article L223-8
 
-Par accord entre le salarié visé à l'article L. 121-6 et son employeur, il peut être dérogé exceptionnellement aux
-dispositions relatives à la périodicité, aux dates de départ et au fractionnement des congés payés fixées par les articles L.
-223-1, L. 223-6 et L. 223-7.
-
-Le salarié intéressé peut alors être autorisé à différer, en tout ou partie, le congé acquis dans les conditions des articles
-L. 223-2 à L. 223-5 sur une période annuelle de référence, pour le cumuler avec le congé annuel de la période annuelle
-suivante.
-
-Il ne peut en aucun cas être fait application de la dérogation ci-dessus deux années consécutives.
-
-L'accord visé au premier alinéa doit figurer au contrat prévu par l'article L. 121-6 ou à défaut faire l'objet d'un document
-signé par les deux parties, dont un exemplaire sera conservé par l'employeur et l'autre par le salarié.
+La durée du congé annuel peut être majorée en raison de l'âge ou de l'ancienneté selon des modalités déterminées par
+convention ou accord collectif de travail.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 3
 
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte L121-6, L223-1, L223-6, L223-7, L223-2 à L223-5
-	  - Code du travail applicable à Mayotte. - art. L121-6 (M)
-	  - Code du travail applicable à Mayotte. - art. L223-1 (M)
-	  - Code du travail applicable à Mayotte. - art. L223-6 (M)
-	  - Code du travail applicable à Mayotte. - art. L223-7 (M)
-
-
-##### Section 3 : Indemnités de congé.
 
 ###### Article L223-9
 
-L'indemnité afférente au congé prévu par l'article L. 223-2 est égale au douzième de la rémunération totale perçue par le
-salarié au cours de la période de référence. Cette indemnité sera portée au dixième de ladite rémunération à compter du 1er
-janvier 1993.
-
-Lorsque la durée du congé est différente de celle qui est prévue à l'article L. 223-2, l'indemnité est calculée selon les
-règles fixées ci-dessus et proportionnellement à la durée du congé effectivement dû.
-
-Toutefois, l'indemnité prévue par les deux alinéas précédents ne peut être inférieure au montant de la rémunération qui
-aurait été perçue pendant la période de congé si le salarié avait continué à travailler, cette rémunération étant, sous
-réserve de l'observation des dispositions législatives et réglementaires en vigueur, calculée à raison tout à la fois du
-salaire gagné pendant la période précédant le congé et de la durée du travail effectif de l'établissement.
+Les dispositions qui précèdent ne portent pas atteinte aux stipulations des conventions ou accords collectifs de travail ou
+des contrats individuels de travail ni aux usages qui assureraient des congés payés de plus longue durée.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 3
 
 	**Cité par**:
 
 	  - Code du travail applicable à Mayotte. - art. L223-11 (V)
 
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L223-2 (M)
-
 
 ###### Article L223-10
 
-Les dispositions qui précèdent ne portent pas atteinte aux stipulations contractuelles ou aux usages qui assureraient des
-indemnités d'un montant plus élevé.
+Un décret en Conseil d'Etat fixe le début de la période de référence du congé annuel.
 
-Pour la fixation de l'indemnité, il doit être tenu compte des avantages accessoires et des prestations en nature dont le
-salarié ne continuerait pas à jouir pendant la durée de son congé. La valeur de ces avantages et prestations ne peut être
-inférieure à celle qui est fixée par le représentant de l'Etat à Mayotte.
+Une autre date peut être fixée par convention ou accord collectif de travail.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 3
 
 	**Cité par**:
 
@@ -9806,55 +10523,321 @@ inférieure à celle qui est fixée par le représentant de l'Etat à Mayotte.
 
 ###### Article L223-11
 
-Lorsque le contrat de travail est résilié avant que le salarié ait pu bénéficier de la totalité du congé auquel il avait
-droit, il doit [*obligation*] recevoir pour la fraction de congé dont il n'a pas bénéficié une indemnité compensatrice
-déterminée d'après les dispositions des articles L. 223-9 et L. 223-10. L'indemnité compensatrice est due dès lors que la
-résiliation du contrat de travail n'a pas été provoquée par la faute lourde du salarié et sans qu'il y ait lieu de distinguer
-suivant que cette résiliation résulte du fait du salarié ou du fait de l'employeur.
+Quelle que soit leur ancienneté dans l'entreprise, les salariés de moins de vingt et un ans au 30 avril de l'année
+précédente, ont droit, s'ils le demandent, à un congé de trente jours ouvrables.
 
-Dans le cas de résiliation du contrat de travail d'un salarié qui, par suite de l'ordre fixé pour les départs en congé, a
-pris un congé comportant une indemnité d'un montant supérieur à celle à laquelle, au moment de la résiliation, il aurait pu
-prétendre à raison de la durée de ses services, ce salarié doit rembourser le trop-perçu à l'employeur. Le remboursement
-n'est pas dû si la résiliation du contrat de travail par le salarié est provoquée par une faute lourde de l'employeur.
-
-L'indemnité prévue au premier alinéa du présent article est également due aux ayants droit du salarié dont le décès survient
-avant qu'il ait pris son congé annuel payé. L'indemnité est versée à ceux des ayants droit qui auraient qualité pour obtenir
-le paiement des salaires arriérés.
+Ils ne peuvent exiger aucune indemnité de congé pour les journées de vacances dont ils réclament le bénéfice en plus de
+celles qu'ils ont acquises à raison du travail accompli au cours de la période de référence.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 3
 
-	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L223-10 (M)
-	  - Code du travail applicable à Mayotte. - art. L223-9 (M)
-
+##### Section 3 : Prise des congés.
 
 ###### Article L223-12
 
-Lorsque le maintien en activité d'un établissement n'est pas assuré pendant un nombre de jours dépassant la durée fixée pour
-la durée des congés légaux annuels, l'employeur est tenu, pour chacun des jours ouvrables de fermeture excédant cette durée,
-de verser à son personnel une indemnité qui ne peut être inférieure à l'indemnité journalière de congés payés. Cette
-indemnité journalière n'est pas cumulable avec l'indemnité de congés payés.
+Les congés peuvent être pris dès l'ouverture des droits, sans préjudice des articles L. 223-13 à L. 223-20, relatifs aux
+règles de détermination par l'employeur de la période de prise des congés et de l'ordre des départs et aux règles de
+fractionnement du congé.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 3
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L223-13
+
+
+###### Article L223-13
+
+La période de prise des congés payés est fixée par les conventions ou accords collectifs de travail. Elle comprend dans tous
+les cas la période du 1er mai au 31 octobre de chaque année.
+
+A défaut de convention ou accord collectif de travail, cette période est fixée par l'employeur en se référant aux usages et
+après consultation des délégués du personnel et du comité d'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 3
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L223-12 (VD)
+
+
+###### Article L223-14
+
+A l'intérieur de la période des congés et à moins que l'ordre des départs ne résulte des stipulations des conventions ou
+accords collectifs de travail ou des usages, cet ordre est fixé par l'employeur après avis, le cas échéant, des délégués du
+personnel.
+
+Pour fixer l'ordre des départs, l'employeur tient compte :
+
+1° De la situation de famille des bénéficiaires, notamment des possibilités de congé, dans le secteur privé ou la fonction
+publique, du conjoint ou du partenaire lié par un pacte civil de solidarité ;
+
+2° De la durée de leurs services chez l'employeur ;
+
+3° Le cas échéant, de leur activité chez un ou plusieurs autres employeurs.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 3
+
+
+###### Article L223-15
+
+Les conjoints et les partenaires liés par un pacte civil de solidarité travaillant dans une même entreprise ont droit à un
+congé simultané.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 3
+
+
+###### Article L223-16
+
+Sauf en cas de circonstances exceptionnelles, l'ordre et les dates de départ fixés par l'employeur ne peuvent être modifiés
+dans le délai d'un mois avant la date prévue du départ.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 3
+
+
+###### Article L223-17
+
+La durée des congés pouvant être pris en une seule fois ne peut excéder vingt-quatre jours ouvrables.
+
+Il peut être dérogé individuellement à cette disposition pour les salariés qui justifient de contraintes géographiques
+particulières.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 3
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L442-7 (V)
+
+
+###### Article L223-18
+
+Lorsque le congé ne dépasse pas douze jours ouvrables, il doit être continu.
+
+Lorsque le congé principal est d'une durée supérieure à douze jours ouvrables et au plus égale à vingt-quatre jours
+ouvrables, il peut être fractionné par l'employeur avec l'accord du salarié. Dans ce cas, une des fractions est au moins
+égale à douze jours ouvrables continus compris entre deux jours de repos hebdomadaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 3
+
+
+###### Article L223-19
+
+Lorsque le congé est fractionné, la fraction d'au moins douze jours ouvrables continus est attribuée pendant la période du
+1er mai au 31 octobre de chaque année.
+
+Les jours restant dus peuvent être accordés en une ou plusieurs fois en dehors de cette période.
+
+Il est attribué deux jours ouvrables de congé supplémentaire lorsque le nombre de jours de congé pris en dehors de cette
+période est au moins égal à six et un seul lorsque ce nombre est compris entre trois et cinq jours.
+
+Les jours de congé principal dus en plus de vingt-quatre jours ouvrables ne sont pas pris en compte pour l'ouverture du droit
+à ce supplément.
+
+Des dérogations peuvent être apportées aux dispositions du présent article, soit après accord individuel du salarié, soit par
+convention ou accord d'entreprise ou d'établissement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 3
+
+
+###### Article L223-20
+
+Lorsque le congé s'accompagne de la fermeture de l'établissement, le fractionnement peut être réalisé par l'employeur sur
+avis conforme des délégués du personnel ou, à défaut de délégués, avec l'agrément des salariés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 3
+
+
+##### Section 4 : Indemnités de congé
+
+
+
+###### Article L223-21
+
+I. ― Le congé annuel prévu par l'article L. 223-3 ouvre droit à une indemnité égale au dixième de la rémunération brute
+totale perçue par le salarié au cours de la période de référence. 
+
+Pour la détermination de la rémunération brute totale, il est tenu compte : 
+
+1° De l'indemnité de congé de l'année précédente ; 
+
+2° Des périodes assimilées à un temps de travail par les articles L. 223-4 et L. 223-5 qui sont considérées comme ayant donné
+lieu à rémunération en fonction de l'horaire de travail de l'établissement. 
+
+Lorsque la durée du congé est différente de celle prévue à l'article L. 223-3, l'indemnité est calculée selon les règles
+fixées ci-dessus et proportionnellement à la durée du congé effectivement dû. 
+
+II. ― Toutefois, l'indemnité prévue au I ne peut être inférieure au montant de la rémunération qui aurait été perçue pendant
+la période de congé si le salarié avait continué à travailler. 
+
+Cette rémunération, sous réserve du respect des dispositions légales, est calculée en fonction : 
+
+1° Du salaire gagné dû pour la période précédant le congé ; 
+
+2° De la durée du travail effectif de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 3
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L143-18 (V)
+	  - Code du travail applicable à Mayotte. - art. L223-25 (VD)
+	  - Code du travail applicable à Mayotte. - art. R321-26 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L223-3
+	  - Code du travail applicable à Mayotte. - art. L223-4
+
+
+###### Article L223-22
+
+Pour la fixation de l'indemnité de congé, il est tenu compte des avantages accessoires et des prestations en nature dont le
+salarié ne continuerait pas à jouir pendant la durée de son congé.
+
+La valeur de ces avantages et prestations ne peut être inférieure à celle fixée par l'autorité administrative.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 3
+
+
+###### Article L223-23
+
+Dans les professions où, d'après les stipulations du contrat de travail, la rémunération des salariés est constituée en
+totalité ou en partie de pourboires, la rémunération à prendre en considération pour la détermination de l'indemnité de congé
+inclut ces pourboires comme les autres éléments de rémunération correspondant à des sommes versées aux travailleurs en
+contrepartie ou à l'occasion d'un travail.
+
+L'indemnité de congé ne peut être prélevée sur la masse des pourboires ou du pourcentage perçu pour le service.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 3
+
+
+###### Article L223-24
+
+Les dispositions de la présente section ne portent pas atteinte aux stipulations contractuelles ou aux usages qui assurent
+des indemnités de congé d'un montant plus élevé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 3
+
+
+###### Article L223-25
+
+Lorsque le contrat de travail est rompu avant que le salarié ait pu bénéficier de la totalité du congé auquel il avait droit,
+il reçoit, pour la fraction de congé dont il n'a pas bénéficié, une indemnité compensatrice de congé déterminée d'après les
+dispositions des articles L. 223-21 à L. 223-24. 
+
+L'indemnité est due dès lors que la rupture du contrat de travail n'a pas été provoquée par la faute lourde du salarié, que
+cette rupture résulte du fait du salarié ou du fait de l'employeur. 
+
+Cette indemnité est également due aux ayants droit du salarié dont le décès survient avant qu'il ait pris son congé annuel
+payé. L'indemnité est versée à ceux des ayants droit qui auraient qualité pour obtenir le paiement des salaires arriérés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 3
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L223-21
+
+
+###### Article L223-26
+
+Lorsque, à l'occasion de la rupture de son contrat de travail, un salarié, par suite de l'ordre fixé pour les départs en
+congé, a pris un congé donnant lieu à une indemnité de congé d'un montant supérieur à celle à laquelle il avait droit au
+moment de la rupture, il rembourse le trop-perçu à l'employeur.
+
+Le remboursement n'est pas dû si la rupture du contrat de travail par le salarié est provoquée par une faute lourde de
+l'employeur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 3
+
+
+###### Article L223-27
+
+Lorsqu'un établissement ferme pendant un nombre de jours dépassant la durée des congés légaux annuels, l'employeur verse aux
+salariés, pour chacun des jours ouvrables de fermeture excédant cette durée, une indemnité qui ne peut être inférieure à
+l'indemnité journalière de congés.
+
+Cette indemnité journalière ne se confond pas avec l'indemnité de congés
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 3
 
 
 #### CHAPITRE IV : Congés pour événements familiaux.
@@ -9898,46 +10881,26 @@ Ils sont assimilés à des jours de travail effectif pour la détermination de l
 	  - Code du travail applicable à Mayotte. - art. L223-3
 
 
-#### CHAPITRE V : Congés non rémunérés
+#### CHAPITRE V : Autres congés
 
 ##### Section 1 : Congé de formation économique, sociale et syndicale
 
 ###### Article L225-1
 
-Les salariés désireux de participer à des stages ou sessions de formation économique, sociale, de formation syndicale ou
-intéressant le dialogue social organisés, soit par des centres rattachés à des organisations syndicales de salariés reconnues
-représentatives au sens de l'article L. 412-3, soit par des instituts spécialisés, ont droit, sur leur demande, à un ou
-plusieurs congés.
-
-Les formations sur le dialogue social peuvent également être organisées par la direction du travail, de l'emploi et de la
-formation professionnelle.
-
-La durée totale des congés pris dans l'année par un salarié ne peut excéder douze jours. Elle ne peut excéder dix-huit jours
-pour les animateurs des stages et sessions et pour les salariés appelés à exercer des responsabilités syndicales.
-
-La durée de chaque congé ne peut être inférieure à deux jours.
-
-Le nombre total de jours de congé susceptibles d'être pris chaque année par l'ensemble des salariés de l'établissement au
-titre des formations prévues aux alinéas précédents ainsi qu'à l'article L. 444-9 ne peut dépasser un maximum fixé par arrêté
-du représentant de l'Etat à Mayotte compte tenu de l'effectif de l'établissement.
-
-Cet arrêté fixe aussi, compte tenu de l'effectif de l'établissement, le nombre maximum de jours de congé pouvant être
-utilisés par les animateurs et par les salariés appelés à exercer des responsabilités syndicales, ainsi que le pourcentage
-maximum de salariés pouvant être simultanément absents au titre des congés prévus au présent article.
-
-Les demandeurs d'emploi peuvent participer aux stages visés au premier alinéa du présent article dans la limite des durées de
-douze et dix-huit jours par période annuelle prévues pour les salariés.
+Tout salarié qui souhaite participer à des stages ou sessions de formation économique et sociale ou de formation syndicale
+organisés soit par des centres rattachés à des organisations syndicales de salariés reconnues représentatives sur le niveau
+national, soit par des instituts spécialisés, a droit, sur sa demande, à un ou plusieurs congés.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 8 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 3
 
 	**Cité par**:
 
@@ -9948,58 +10911,50 @@ douze et dix-huit jours par période annuelle prévues pour les salariés.
 	  - Code du travail applicable à Mayotte. - art. L414-56 (V)
 	  - Code du travail applicable à Mayotte. - art. L444-9 (V)
 
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L412-3 (M)
-
 
 ###### Article L225-2
 
-La durée du ou des congés visés à l'article L. 225-1 est assimilée à une durée de travail effectif pour la détermination de
-la durée des congés payés, du droit aux prestations d'assurances sociales et aux prestations familiales ainsi que pour
-l'ensemble des autres droits résultant pour l'intéressé de son contrat.
+Le ou les congés de formation économique et sociale et de formation syndicale donnent lieu à une rémunération par les
+employeurs, dans les entreprises de dix salariés et plus, dans des conditions prévues par voie réglementaire.
+
+Cette rémunération est versée à la fin du mois au cours duquel la session de formation a eu lieu.
+
+Pour l'application de cet article, l'ensemble des établissements de l'entreprise, y compris ceux situés en métropole et dans
+les départements d'outre-mer, est pris en compte.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 8 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 3
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L225-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L225-1
 
 
 ###### Article L225-3
 
-Le congé est de droit, dans les limites fixées à l'article L. 225-1, sauf dans le cas où l'employeur estime, après avis
-conforme du comité d'entreprise ou, s'il n'en existe pas, des délégués du personnel, que cette absence pourrait avoir des
-conséquences préjudiciables à la production et à la bonne marche de l'entreprise.
+La durée totale des congés de formation économique et sociale et de formation syndicale pris dans l'année par un salarié ne
+peut excéder douze jours. Elle ne peut excéder dix-huit jours pour les animateurs des stages et sessions. 
 
-Le refus du congé par l'employeur doit être motivé.
-
-En cas de différend, le refus de l'employeur peut être directement contesté devant le tribunal du travail qui est saisi et
-statue en dernier ressort, selon les formes applicables au référé.
+La durée de chaque congé ne peut être inférieure à deux jours.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991 (V)
+	  - Loi n°91-1379 du 28 décembre 1991 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 8 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L225-1 (V)
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 3
 
 	**Cité par**:
 
@@ -10009,75 +10964,48 @@ statue en dernier ressort, selon les formes applicables au référé.
 
 ###### Article L225-4
 
-Les conventions ou accords collectifs de travail peuvent :
+Le nombre total de jours de congés susceptibles d'être pris chaque année par l'ensemble des salariés de l'établissement au
+titre des formations prévues à la présente section ainsi qu'à l'article L. 444-9 relative à la formation des membres du
+comité d'entreprise ne peut dépasser un maximum fixé par voie réglementaire compte tenu de l'effectif de l'établissement. 
 
-a) Contenir des dispositions plus favorables que celles prévues ci-dessus, notamment en matière de rémunération ;
+Cet arrêté fixe également, compte tenu de l'effectif de l'établissement, le nombre maximum de jours de congés pouvant être
+utilisés par les animateurs et par les salariés appelés à exercer des responsabilités syndicales, ainsi que le pourcentage
+maximum de salariés pouvant être simultanément absents au titre des congés mentionnés au premier alinéa. 
 
-b) Préciser les périodes de congé les mieux adaptées aux nécessités de chaque profession ;
-
-c) Fixer les modalités du financement de la formation prévue à l'article L. 225-1 destiné à couvrir les frais pédagogiques
-ainsi que les dépenses d'indemnisation des frais de déplacement et d'hébergement des stagiaires et animateurs ;
-
-d) Définir les procédures amiables permettant de régler les difficultés qui peuvent survenir pour l'application des
-dispositions qui précèdent.
-
-Les conventions et accords collectifs peuvent prévoir la création de fonds mutualisés en vue d'assurer la rémunération des
-congés et le financement de la formation prévus à l'article L. 225-1.
-
-Des accords d'établissement peuvent fixer la répartition des congés par service ou par catégorie professionnelle.
+Pour l'application de cet article, l'ensemble des établissements de l'entreprise, y compris ceux situés en métropole et dans
+les départements d'outre-mer, est pris en compte.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 8 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 3
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L225-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L444-9
 
-
-##### Section 2 : Modalités de la formation économique, sociale et syndicale des salariés appelés à exercer des fonctions syndicales
 
 ###### Article L225-5
 
-La formation des salariés appelés à exercer des responsabilités syndicales, notamment au sein d'organismes de caractère
-économique et social, peut être assurée :
-
-a) Soit par des centres spécialisés, directement rattachés aux organisations syndicales les plus représentatives au sens de
-l'article L. 412-3 ;
-
-b) Soit par des instituts d'universités ou de facultés ;
-
-c) Soit, pour les formations prévues au deuxième alinéa de l'article L. 225-1, par la direction du travail, de l'emploi et de
-la formation professionnelle ou des personnalités qualifiées.
-
-Toutefois, des organismes dont la spécialisation totale ou partielle serait assurée en accord avec des organisations
-syndicales peuvent participer à la formation des salariés appelés à exercer des responsabilités syndicales. Pour bénéficier
-des dispositions des articles L. 225-6 et L. 225-7 ci-dessous, ils doivent avoir reçu l'agrément du ministre chargé du
-travail.
+Les demandeurs d'emploi peuvent participer aux stages de formation économique et sociale et de formation syndicale dans la
+limite des durées de douze et dix-huit jours par période annuelle prévues pour les salariés.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 8 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L225-1 (V)
-	  - Code du travail applicable à Mayotte. - art. L225-6 (V)
-	  - Code du travail applicable à Mayotte. - art. L412-3 (M)
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 3
 
 	**Cité par**:
 
@@ -10087,25 +11015,23 @@ travail.
 
 ###### Article L225-6
 
-L'Etat apporte une aide financière à la formation des salariés telle qu'elle est assurée par les centres, instituts et
-organismes mentionnés à l'article précédent. Cette aide peut également être apportée par la direction du travail, de l'emploi
-et de la formation professionnelle.
+La durée du ou des congés de formation économique et sociale et de formation syndicale ne peut être imputée sur celle du
+congé payé annuel.
 
-Des crédits sont inscrits à cet effet au budget du ministère chargé du travail.
-
-Des crédits destinés à contribuer en la matière au fonctionnement des instituts d'université ou de faculté sont également
-inscrits au budget du ministère chargé de l'éducation nationale.
+Elle est assimilée à une durée de travail effectif pour la détermination de la durée des congés payés, du droit aux
+prestations d'assurances sociales et aux prestations familiales ainsi que pour l'ensemble des autres droits résultant pour
+l'intéressé de son contrat de travail.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 8 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 3
 
 	**Cité par**:
 
@@ -10114,59 +11040,102 @@ inscrits au budget du ministère chargé de l'éducation nationale.
 
 ###### Article L225-7
 
-Pour bénéficier de l'aide prévue à l'article précédent, les organismes mentionnés ci-dessus établissent des programmes
-préalables de stages ou de sessions précisant, notamment, les matières enseignées et la durée de scolarité.
+Le congé de formation économique et sociale et de formation syndicale est de droit, sauf dans le cas où l'employeur estime,
+après avis conforme du comité d'entreprise ou, s'il n'en existe pas, des délégués du personnel, que cette absence pourrait
+avoir des conséquences préjudiciables à la production et à la bonne marche de l'entreprise.
 
-Des conventions conclues à cet effet entre les organismes mentionnés au a du premier alinéa et au dernier alinéa de l'article
-L. 225-5 et les ministères intéressés ou les universités, facultés, instituts d'université ou de faculté, prévoient les
-conditions dans lesquelles cette aide est utilisée, notamment pour la rémunération du corps enseignant et l'octroi de bourses
-d'études.
+Le refus du congé par l'employeur est motivé.
+
+En cas de différend, le refus de l'employeur peut être directement contesté devant la juridiction du travail dans des
+conditions fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 8 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L225-5 (V)
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 3
 
 	**Cité par**:
 
+	  - Code du travail applicable à Mayotte. - art. L225-5 (V)
 	  - Code du travail applicable à Mayotte. - art. R225-6 (V)
 
 
 ###### Article L225-8
 
-Un décret en Conseil d'Etat fixe les modalités d'application des sections 1 et 2 du présent chapitre.
+Les conventions ou accords collectifs de travail peuvent :
+
+1° Contenir des dispositions plus favorables que celles prévues par la présente section, notamment en matière de
+rémunération ;
+
+2° Préciser les périodes de congé les mieux adaptées aux nécessités de chaque profession ;
+
+3° Fixer les modalités du financement de la formation, destiné à couvrir les frais pédagogiques ainsi que les dépenses
+d'indemnisation des frais de déplacement et d'hébergement des stagiaires et animateurs ;
+
+4° Définir les procédures amiables permettant de régler les difficultés qui peuvent survenir pour l'application des
+dispositions qui précèdent ;
+
+5° Prévoir la création de fonds mutualisés en vue d'assurer la rémunération des congés et le financement de la formation.
+
+Des accords d'établissement peuvent fixer la répartition des congés par service ou par catégorie professionnelle.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 8 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 3
 
-
-##### Section 3 : Congé mutualiste
 
 ###### Article L225-9
+
+Les conditions d'application des dispositions relatives au congé de formation économique et sociale et de formation syndicale
+aux salariés de droit privé ainsi qu'au personnel des entreprises publiques énumérées par le décret pris en application de
+l'article L. 2233-1 du code du travail sont déterminées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 3
+
+	**Cite**:
+
+	  - Code du travail - art. L2233-1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R225-5 (V)
+	  - Code du travail applicable à Mayotte. - art. R225-7 (V)
+	  - Code du travail applicable à Mayotte. - art. R255-2 (V)
+
+
+##### Section 2 : Congé mutualiste
+
+###### Article L225-10
 
 Les administrateurs d'une mutuelle au sens des dispositions du code de la mutualité bénéficient, dans les conditions et
 limites prévues au présent article, d'un congé non rémunéré de formation d'une durée maximale de neuf jours ouvrables par an.
 
 La durée du congé est assimilée à une période de travail effectif pour la détermination de la durée des congés payés ainsi
 que pour l'ensemble des autres droits résultant pour l'intéressé de son contrat.
+
+La durée du congé ne peut être imputée sur la durée du congé payé annuel.
 
 Les modalités d'application du présent article, notamment les conditions dans lesquelles est établie la liste des stages ou
 organismes ouvrant droit à ce congé, les règles selon lesquelles est déterminé, par entreprise, le nombre maximum de salariés
@@ -10176,20 +11145,9 @@ d'Etat.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
 	**Créé par**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 8 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. R225-5 (V)
-	  - Code du travail applicable à Mayotte. - art. R225-7 (V)
-	  - Code du travail applicable à Mayotte. - art. R255-2 (V)
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 3
 
 
 ### TITRE III : HYGIÈNE, SÉCURITÉ ET CONDITIONS DE TRAVAIL.
@@ -21982,44 +22940,6 @@ particulières.
 
 #### CHAPITRE II : Représentativité syndicale
 
-###### Article L412-2
-
-Il est interdit à tout employeur de prendre en considération l'appartenance à un syndicat ou l'exercice d'une activité
-syndicale pour arrêter ses décisions en ce qui concerne notamment l'embauchage, la conduite et la répartition du travail, la
-formation professionnelle, l'avancement, la rémunération et l'octroi d'avantages sociaux, les mesures de discipline et de
-congédiement.
-
-Il est interdit à tout employeur de prélever les cotisations syndicales sur les salaires de son personnel et de les payer au
-lieu et place de celui-ci.
-
-Le chef d'entreprise ou ses représentants ne doivent employer aucun moyen de pression en faveur ou à l'encontre d'une
-organisation syndicale quelconque.
-
-Toute mesure prise par l'employeur contrairement aux dispositions des alinéas précédents est considérée comme abusive et
-donne lieu à dommages et intérêts.
-
-Ces dispositions sont d'ordre public.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Cité par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 9 (V)
-	  - Décret n°2014-1289 du 23 octobre 2014 - art. (VD)
-	  - Code du travail applicable à Mayotte. - art. L413-2 (VD)
-	  - Code du travail applicable à Mayotte. - art. L430-2 (T)
-	  - Code du travail applicable à Mayotte. - art. L450-2 (VD)
-
-
 ##### Section 1 : Critères de représentativité
 
 ###### Article L412-1
@@ -22081,6 +23001,41 @@ publicité des comptes des organisations syndicales s'appliquent à compter de l
 	  - Code du travail applicable à Mayotte. - art. L443-2 (V)
 	  - Code du travail applicable à Mayotte. - art. L443-8 (V)
 	  - Code du travail applicable à Mayotte. - art. L711-6 (T)
+
+
+###### Article L412-2
+
+S'il y a lieu de déterminer la représentativité d'un syndicat ou d'une organisation professionnelle autre que ceux affiliés à
+l'une des organisations représentatives au niveau national, l'autorité administrative diligente une enquête. 
+
+L'organisation intéressée fournit les éléments d'appréciation dont elle dispose.
+
+**Nota:**
+
+Ordonnance n° 2012-792 du 7 juin 2012, article 9 : Les dispositions de l'article L412-2 s'appliquent à compter du résultat
+des premières lections professionnelles dans l'entreprise ou l'établissement pour lesquelles la date fixée pour la première
+réunion de la négociation du protocole d'accord préélectoral est postérieure au 31 décembre 2012 et au plus tard à compter de
+la deuxième mesure de l'audience organisée en application des articles L. 2122-5 à L. 2122-7, L. 2122-9 à L. 2122-13 du code
+du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+	**Cité par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 9 (V)
+	  - Décret n°2014-1289 du 23 octobre 2014 - art. (VD)
+	  - Code du travail applicable à Mayotte. - art. L413-2 (VD)
+	  - Code du travail applicable à Mayotte. - art. L430-2 (T)
+	  - Code du travail applicable à Mayotte. - art. L450-2 (VD)
 
 
 ##### Section 2 : Syndicats représentatifs
@@ -22365,37 +23320,6 @@ et interprofessionnel s'appliquent à compter de la deuxième mesure de l'audien
 
 #### CHAPITRE III : Statut juridique, ressources et moyens
 
-###### Article L413-2
-
-L'utilisation des marques syndicales ou des labels par application de l'article précédent ne peut avoir pour effet de porter
-atteinte aux dispositions de l'article L. 412-2.
-
-Sont nuls et de nul effet tout accord ou disposition tendant à obliger l'employeur à n'embaucher ou à ne conserver à son
-service que les adhérents du syndicat propriétaire de la marque ou du label.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Cité par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 9 (V)
-	  - Code du travail applicable à Mayotte. - art. L430-2 (T)
-	  - Code du travail applicable à Mayotte. - art. L450-2 (VD)
-	  - Code du travail applicable à Mayotte. - art. R414-18 (V)
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L412-2 (M)
-
-
 ##### Section 1 : Objet et constitution
 
 ###### Article L413-1
@@ -22420,6 +23344,71 @@ et moraux, tant collectifs qu'individuels, des personnes mentionnées dans leurs
 	  - Code du travail applicable à Mayotte. - art. L414-13 (V)
 	  - Code rural - art. L271-7 (V)
 	  - Code rural et de la pêche maritime - art. L272-11 (M)
+
+
+###### Article L413-2
+
+Les syndicats ou associations professionnels de personnes exerçant la même profession, des métiers similaires ou des métiers
+connexes concourant à l'établissement de produits déterminés ou la même profession libérale peuvent se constituer librement. 
+
+Par dérogation à ces dispositions, les particuliers occupant des employés de maison peuvent se grouper en syndicat pour la
+défense des intérêts qu'ils ont en commun en tant qu'employeurs de ces salariés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+	**Cité par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 9 (V)
+	  - Code du travail applicable à Mayotte. - art. L430-2 (T)
+	  - Code du travail applicable à Mayotte. - art. L450-2 (VD)
+	  - Code du travail applicable à Mayotte. - art. R414-18 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L412-2
+
+
+###### Article L413-3
+
+Les fondateurs de tout syndicat professionnel déposent les statuts et les noms de ceux qui, à un titre quelconque, sont
+chargés de l'administration ou de la direction. 
+
+Ce dépôt est renouvelé en cas de changement de la direction ou des statuts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R414-19 (V)
+
+
+###### Article L413-4
+
+Tout adhérent d'un syndicat professionnel peut, s'il remplit les conditions fixées par l'article L. 413-5, accéder aux
+fonctions d'administration ou de direction de ce syndicat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R414-20 (V)
 
 
 ###### Article L413-5
