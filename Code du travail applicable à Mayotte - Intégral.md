@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2012-10-01
+Version Consolidée au 2012-11-01
 
 # Partie législative
 
@@ -17400,6 +17400,517 @@ présente section.
 	  - Code du travail applicable à Mayotte. - art. R322-31 (VD)
 
 
+##### Section 4 : Emploi d'avenir
+
+
+##### Sous-section 1 : Dispositions générales
+
+
+
+###### Article L322-45
+
+L'emploi d'avenir a pour objet de faciliter l'insertion professionnelle et l'accès à la qualification des jeunes sans emploi
+âgés de seize à vingt-cinq ans au moment de la signature du contrat de travail soit sans qualification, soit peu qualifiés et
+rencontrant des difficultés particulières d'accès à l'emploi, par leur recrutement dans des activités présentant un caractère
+d'utilité sociale ou environnementale ou ayant un fort potentiel de création d'emplois. Les personnes bénéficiant de la
+reconnaissance de la qualité de travailleur handicapé et remplissant ces mêmes conditions peuvent accéder à un emploi
+d'avenir lorsqu'elles sont âgées de moins de trente ans.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-1189 du 26 octobre 2012 - art. 11
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D322-59-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L. 322-52-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L322-53 (VD)
+
+
+###### Article L322-46
+
+L'aide relative à l'emploi d'avenir peut être attribuée aux employeurs suivants : 
+
+1° Les organismes de droit privé à but non lucratif ; 
+
+2° Les collectivités territoriales et leurs groupements ; 
+
+3° Les autres personnes morales de droit public, à l'exception de l'Etat ; 
+
+4° Les groupements d'employeurs mentionnés à l'article L. 126-1 qui organisent des parcours d'insertion et de
+qualification ; 
+
+5° Les organismes proposant des services relatifs à l'insertion par l'activité économique mentionnés à l'article L. 326-4 ; 
+
+6° Les personnes morales de droit privé chargées de la gestion d'un service public. 
+
+Par exception, lorsqu'ils ne relèvent pas d'une des catégories mentionnées aux 1° à 6° du présent article, les employeurs
+relevant de l'article L. 327-15 et des 3° et 4° de l'article L. 327-36 sont éligibles à l'aide relative à l'emploi d'avenir
+s'ils remplissent les conditions fixées par décret en Conseil d'Etat relatives à leur secteur d'activité et au parcours
+d'insertion et de qualification proposé au futur bénéficiaire. 
+
+Les particuliers employeurs ne sont pas éligibles à l'aide attribuée au titre d'un emploi d'avenir. 
+
+Pour être éligible à une aide relative à l'emploi d'avenir, l'employeur doit pouvoir justifier de sa capacité, notamment
+financière, à maintenir l'emploi au moins le temps de son versement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-1189 du 26 octobre 2012 - art. 11
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L126-1
+	  - Code du travail applicable à Mayotte. - art. L326-4
+	  - Code du travail applicable à Mayotte. - art. L327-15
+	  - Code du travail applicable à Mayotte. - art. L327-36
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R322-55 (V)
+	  - Code du travail applicable à Mayotte. - art. R322-56 (V)
+
+
+###### Article L322-47
+
+L'emploi d'avenir est conclu sous la forme, selon le cas, d'un contrat d'accompagnement dans l'emploi régi par la section 2
+du présent chapitre ou d'un contrat initiative-emploi régi par la section 3 du même chapitre. Les dispositions relatives à
+ces contrats s'appliquent à l'emploi d'avenir, sous réserve des dispositions spécifiques prévues par la présente section. 
+
+Un suivi personnalisé professionnel et, le cas échéant, social du bénéficiaire d'un emploi d'avenir est assuré pendant le
+temps de travail par l'une des personnes mentionnées à l'article L. 322-1. Un bilan relatif au projet professionnel du
+bénéficiaire et à la suite donnée à l'emploi d'avenir est notamment réalisé deux mois avant l'échéance de l'aide relative à
+l'emploi d'avenir.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-1189 du 26 octobre 2012 - art. 11
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-1
+
+
+##### Sous-section 2 : Aide à l'insertion professionnelle
+
+
+###### Article L322-48
+
+L'aide relative à l'emploi d'avenir est accordée pour une durée minimale de douze mois et pour une durée maximale de trente-
+six mois, sans pouvoir excéder le terme du contrat de travail. 
+
+Lorsque l'aide a été initialement accordée pour une durée inférieure à trente-six mois, elle peut être prolongée jusqu'à
+cette durée maximale. 
+
+A titre dérogatoire, afin de permettre au bénéficiaire d'achever une action de formation professionnelle, une prolongation de
+l'aide au-delà de la durée maximale de trente-six mois peut être autorisée par les personnes mentionnées aux 1° et 2° de
+l'article L. 322-1. La durée de la prolongation ne peut excéder le terme de l'action concernée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-1189 du 26 octobre 2012 - art. 11
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-49 (VD)
+	  - Code du travail applicable à Mayotte. - art. L322-50 (VD)
+	  - Code du travail applicable à Mayotte. - art. R322-58 (V)
+
+
+###### Article L322-49
+
+L'aide relative à l'emploi d'avenir est attribuée au vu des engagements de l'employeur sur le contenu du poste proposé et sa
+position dans l'organisation de la structure employant le bénéficiaire de l'emploi d'avenir, sur les conditions d'encadrement
+et de tutorat ainsi que sur la qualification ou les compétences dont l'acquisition est visée pendant la période en emploi
+d'avenir. Ces engagements portent obligatoirement sur les actions de formation, réalisées prioritairement pendant le temps de
+travail, ou en dehors de celui-ci, qui concourent à l'acquisition de cette qualification ou de ces compétences et les moyens
+à mobiliser pour y parvenir. Ils précisent les modalités d'organisation du temps de travail envisagées afin de permettre la
+réalisation des actions de formation. Ces actions de formation privilégient l'acquisition de compétences de base et de
+compétences transférables permettant au bénéficiaire d'un emploi d'avenir d'accéder à un niveau de qualification supérieur. 
+
+L'aide est également attribuée au vu des engagements de l'employeur sur les possibilités de pérennisation des activités et
+les dispositions de nature à assurer la professionnalisation des emplois. 
+
+En cas de non-respect de ses engagements par l'employeur, notamment en matière de formation, le remboursement de la totalité
+des aides publiques perçues est dû à l'Etat. 
+
+La décision d'attribution d'une nouvelle aide à l'insertion professionnelle mentionnée à l'article L. 322-48 est subordonnée
+au contrôle du respect par l'employeur des engagements qu'il avait souscrits au titre d'une embauche antérieure en emploi
+d'avenir.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-1189 du 26 octobre 2012 - art. 11
+
+	**Cité par**:
+
+	  - Décret n°2012-1210 du 31 octobre 2012 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-48
+
+
+##### Sous-section 3 : Contrat de travail
+
+
+
+
+###### Article L322-50
+
+Le contrat de travail associé à un emploi d'avenir peut être à durée indéterminée ou à durée déterminée. 
+
+Lorsqu'il est à durée déterminée, il est conclu pour une durée de trente-six mois. 
+
+En cas de circonstances particulières liées soit à la situation ou au parcours du bénéficiaire, soit au projet associé à
+l'emploi, il peut être conclu initialement pour une durée inférieure, qui ne peut être inférieure à douze mois. 
+
+S'il a été initialement conclu pour une durée inférieure à trente-six mois, il peut être prolongé jusqu'à cette durée
+maximale. 
+
+Sans préjudice des dispositions de l'article L. 122-10, il peut être rompu à l'expiration de chacune des périodes annuelles
+de son exécution à l'initiative du salarié, moyennant le respect d'un préavis de deux semaines, ou de l'employeur s'il
+justifie d'une cause réelle et sérieuse, moyennant le respect d'un préavis d'un mois et de la procédure prévue à l'article L.
+122-27. 
+
+Dans le cas prévu au dernier alinéa de l'article L. 322-48, les personnes mentionnées aux 1° et 2° de l'article L. 322-1
+peuvent autoriser une prolongation du contrat au-delà de la durée maximale de trente-six mois, sans que cette prolongation
+puisse excéder le terme de l'action de formation concernée. 
+
+Le bénéficiaire d'un emploi d'avenir en contrat à durée déterminée bénéficie d'une priorité d'embauche durant un délai d'un
+an à compter du terme de son contrat. L'employeur l'informe de tout emploi disponible et compatible avec sa qualification ou
+ses compétences. Le salarié ainsi recruté est dispensé de la période d'essai mentionnée à l'article L. 122-5.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-1189 du 26 octobre 2012 - art. 11
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L122-10
+	  - Code du travail applicable à Mayotte. - art. L122-27
+	  - Code du travail applicable à Mayotte. - art. L122-5
+	  - Code du travail applicable à Mayotte. - art. L322-1
+	  - Code du travail applicable à Mayotte. - art. L322-48
+
+
+###### Article L322-51
+
+Le bénéficiaire d'un emploi d'avenir occupe un emploi à temps plein. 
+
+Toutefois, lorsque le parcours ou la situation du bénéficiaire le justifient, notamment pour faciliter le suivi d'une action
+de formation, ou lorsque la nature de l'emploi ou le volume de l'activité ne permettent pas l'emploi d'un salarié à temps
+complet, la durée hebdomadaire de travail peut être fixée à temps partiel, avec l'accord du salarié, après autorisation des
+personnes mentionnées aux 1° et 2° de l'article L. 322-1. Elle ne peut alors être inférieure à la moitié de la durée
+hebdomadaire de travail à temps plein. Dès lors que les conditions rendent possible une augmentation de la durée hebdomadaire
+de travail, le contrat ainsi que la demande associée peuvent être modifiés en ce sens avec l'accord des personnes mentionnées
+aux mêmes 1° et 2°.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-1189 du 26 octobre 2012 - art. 11
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-1
+
+
+##### Sous-section 4 : Reconnaissance des compétences acquises
+
+
+
+###### Article L322-52
+
+Les compétences acquises dans le cadre de l'emploi d'avenir sont reconnues par une attestation de formation, une attestation
+d'expérience professionnelle ou une validation des acquis de l'expérience prévue à l'article L. 335-5 du code de l'éducation.
+Elles peuvent également faire l'objet d'une certification inscrite au répertoire national des certifications
+professionnelles. 
+
+La présentation à un examen pour acquérir un diplôme ou à un concours doit être favorisée pendant ou à l'issue de l'emploi
+d'avenir. 
+
+A l'issue de son emploi d'avenir, le bénéficiaire qui souhaite aboutir dans son parcours d'accès à la qualification peut
+prétendre aux contrats de travail mentionnés au titre Ier du livre Ier du présent code et au chapitre II du titre Ier du
+livre VII, ainsi qu'aux actions de formation professionnelle mentionnées à l'article L. 711-2, selon des modalités définies
+dans le cadre d'une concertation annuelle du comité mahorais de coordination de l'emploi et de la formation professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-1189 du 26 octobre 2012 - art. 11
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L335-5
+	  - Code du travail applicable à Mayotte. - art. L711-2
+
+
+##### Sous-section 5 : Dispositions d'application
+
+
+
+###### Article L322-53
+
+Un décret en Conseil d'Etat fixe les conditions d'application de la présente section, notamment les niveaux de qualification
+et les critères d'appréciation des difficultés particulières d'accès à l'emploi mentionnés à l'article L. 322-45. 
+
+A titre exceptionnel, les jeunes ayant engagé des études supérieures et confrontés à des difficultés particulières
+d'insertion professionnelle peuvent être recrutés en emploi d'avenir, sur décision de l'autorité administrative compétente.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-1189 du 26 octobre 2012 - art. 11
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-45
+
+
+###### Article L322-54
+
+Les autres textes encadrant la mise en œuvre des emplois d'avenir pour l'application de la présente section comportent :
+
+1° Des mesures de nature à favoriser une répartition équilibrée des femmes et des hommes par secteur d'activité ;
+
+2° Des dispositions particulières applicables aux emplois d'avenir créés dans le secteur de l'aide aux personnes handicapées
+ou aux personnes âgées dépendantes, de nature à favoriser l'amélioration de la qualité de vie de ces personnes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-1189 du 26 octobre 2012 - art. 11
+
+
+##### Section 5 : Emploi d'avenir professeur
+
+
+##### Sous-section 1 : Dispositions générales
+
+
+
+
+###### Article L322-55
+
+I. ― Pour faciliter l'insertion professionnelle et la promotion sociale des jeunes dans les métiers du professorat, les
+établissements publics d'enseignement et les établissements publics d'enseignement agricole peuvent proposer des emplois
+d'avenir professeur. 
+
+II. ― L'emploi d'avenir professeur est destiné à des étudiants titulaires de bourses de l'enseignement supérieur relevant du
+chapitre Ier du titre II du livre VIII de la troisième partie du code de l'éducation inscrits en deuxième année de licence
+ou, le cas échéant, en troisième année de licence ou en première année de master dans un établissement d'enseignement
+supérieur, âgés de vingt-cinq ans au plus et se destinant aux métiers du professorat. La limite d'âge est portée à trente ans
+lorsque l'étudiant présente un handicap reconnu par la commission exerçant les attributions dévolues à la commission prévue à
+l'article L. 146-9 du code de l'action sociale et des familles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-1189 du 26 octobre 2012 - art. 12
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L146-9
+
+
+###### Article L322-56
+
+Les bénéficiaires des emplois d'avenir professeur sont recrutés par les établissements publics d'enseignement et les
+établissements publics d'enseignement agricole, après avis d'une commission chargée de vérifier leur aptitude. Lorsqu'ils
+sont recrutés par un établissement public d'enseignement, ils exercent leurs fonctions dans les conditions fixées au second
+alinéa de l'article L. 421-10 du code de l'éducation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-1189 du 26 octobre 2012 - art. 12
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L421-10
+
+
+##### Sous-section 2 : Aide à la formation et à l'insertion professionnelle
+
+
+###### Article L322-57
+
+Les établissements publics d'enseignement et les établissements publics d'enseignement agricole qui concluent des contrats
+pour le recrutement d'un étudiant au titre d'un emploi d'avenir professeur bénéficient d'une aide financière et des
+exonérations déterminées dans les conditions prévues à la section 2 du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-1189 du 26 octobre 2012 - art. 12
+
+
+###### Article L322-58
+
+La demande d'aide à la formation et à l'insertion professionnelle décrit le contenu du poste proposé, sa position dans
+l'organisation de l'établissement d'affectation ainsi que les compétences dont l'acquisition est visée pendant la durée du
+contrat. Elle mentionne obligatoirement la formation dans laquelle est inscrit l'étudiant concerné et le ou les concours de
+recrutement d'enseignants du premier ou du second degré organisés par l'Etat auxquels il se destine. L'étudiant bénéficie
+d'un tutorat au sein de l'établissement dans lequel il exerce son activité. Les modalités d'organisation du tutorat sont
+fixées par décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-1189 du 26 octobre 2012 - art. 12
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-59 (VD)
+
+
+###### Article L322-59
+
+L'aide mentionnée à l'article L. 322-58 est accordée pour une durée de douze mois, renouvelable chaque année, dans la limite
+d'une durée totale de trente-six mois, sans pouvoir excéder le terme du contrat de travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-1189 du 26 octobre 2012 - art. 12
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-58
+
+
+##### Sous-section 3 : Contrat de travail
+
+
+
+###### Article L322-60
+
+I. ― Le contrat associé à un emploi d'avenir professeur est conclu, sous réserve des dispositions spécifiques prévues par la
+présente sous-section, sous la forme d'un contrat d'accompagnement dans l'emploi régi par la section 2 du présent chapitre.
+
+II. ― Le contrat associé à un emploi d'avenir professeur est conclu pour une durée de douze mois, renouvelable s'il y a lieu,
+dans la limite d'une durée totale de trente-six mois, en vue d'exercer une activité d'appui éducatif compatible, pour
+l'étudiant bénéficiaire, avec la poursuite de ses études universitaires et la préparation aux concours.
+
+Le bénéficiaire d'un emploi d'avenir professeur s'engage à poursuivre sa formation dans un établissement d'enseignement
+supérieur et à se présenter à un des concours de recrutement d'enseignants du premier ou du second degré organisés par
+l'Etat. En cas de réussite au concours, le contrat prend fin de plein droit, avant son échéance normale, à la date de
+nomination dans des fonctions d'enseignement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-1189 du 26 octobre 2012 - art. 12
+
+	**Cité par**:
+
+	  - Décret n°2013-51 du 15 janvier 2013 - art. 2 (Ab)
+	  - Code de l'éducation - art. D852-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L322-1 (VD)
+	  - Code du travail applicable à Mayotte. - art. R322-1 (V)
+	  - Code du travail applicable à Mayotte. - art. R322-2 (VD)
+
+
+###### Article L322-61
+
+Le bénéficiaire d'un emploi d'avenir professeur effectue une durée hebdomadaire de travail adaptée à la poursuite de ses
+études et à la préparation des concours auxquels il se destine. Le contrat de travail mentionne la durée de travail moyenne
+hebdomadaire, qui ne peut excéder la moitié de la durée fixée à l'article L. 212-1. 
+
+Le contrat de travail peut prévoir que la durée hebdomadaire peut varier sur tout ou partie de la période couverte par le
+contrat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-1189 du 26 octobre 2012 - art. 12
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L212-1
+
+
+###### Article L322-62
+
+La rémunération versée au titre d'un emploi d'avenir professeur est cumulable avec les bourses de l'enseignement supérieur
+dont l'intéressé peut par ailleurs être titulaire.
+
+A sa demande, le bénéficiaire d'un emploi d'avenir professeur se voit délivrer une attestation d'expérience professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-1189 du 26 octobre 2012 - art. 12
+
+
+##### Sous-section 4 : Dispositions applicables aux établissements d'enseignement privés ayant passé un contrat avec l'Etat
+
+
+
+
+###### Article L322-63
+
+Les sous-sections 1 à 3 de la présente section sont applicables aux établissements d'enseignement privés mentionnés aux
+articles L. 442-5 et L. 442-12 du code de l'éducation et à l'article L. 813-1 du code rural et de la pêche maritime, sous
+réserve des adaptations nécessaires fixées, le cas échéant, par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-1189 du 26 octobre 2012 - art. 12
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L442-5
+	  - Code rural - art. L813-1
+
+
+##### Sous-section 5 : Dispositions d'application
+
+
+
+
+###### Article L322-64
+
+Un décret en Conseil d'Etat détermine les conditions d'application de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-1189 du 26 octobre 2012 - art. 12
+
+
 #### Chapitre IV : Dispositions particulières relatives à l'emploi des jeunes
 
 ###### Article L324-1
@@ -32258,6 +32769,29 @@ applicable à Mayotte " et la référence : " ordonnance n° 45-2339 du 13 octob
 
 ## LIVRE Ier : Conventions relatives au travail
 
+### TITRE Ier : Contrat d'apprentissage
+
+#### CHAPITRE Ier : Généralités
+
+###### Article D111-1
+
+Chaque centre de formation d'apprentis organise chaque année une information sur le service civique créé par la 
+
+loi n° 2010-241 du 10 mars 2010
+
+relative au service civique.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2010-241 du 10 mars 2010
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D711-1 (T)
+
+
 ### TITRE II : Contrat de travail
 
 #### CHAPITRE II : Règles propres au contrat de travail
@@ -33775,6 +34309,158 @@ peuvent se faire assister d'une personne de leur choix.
 
 #### CHAPITRE Ier : Salaire minimum interprofessionnel garanti
 
+###### Article D141-2-1
+
+Les salariés de l'un ou l'autre sexe et d'aptitude physique normale, à l'exception de ceux qui sont liés par un contrat
+d'apprentissage, reçoivent de leurs employeurs, lorsque leur salaire horaire contractuel est devenu inférieur au salaire
+minimum interprofessionnel garanti en vigueur, un complément calculé de façon à porter leur rémunération au montant dudit
+salaire minimum interprofessionnel garanti, sous réserve, pour les salariés de moins de dix-huit ans, des dispositions de
+l'article R. 141-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D141-1 (T)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R141-1 (V)
+
+
+###### Article D141-2-2
+
+Le salaire horaire à prendre en considération pour l'application de l'article précédent est celui qui correspond à une heure
+de travail effectif, compte tenu des avantages en nature et des majorations diverses ayant le caractère de fait d'un
+complément de salaire, à l'exclusion des sommes versées à titre de remboursement de frais et des majorations pour heures
+supplémentaires prévues par la loi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D141-2 (T)
+
+
+###### Article D141-2-3
+
+Les dispositions de la présente section sont applicables aux salariés autres que le personnel navigant de la marine marchande
+et les concierges et gens de maison, lorsque leur rémunération est, de manière habituelle, constituée, pour partie, par la
+fourniture de la nourriture et du logement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D141-3 (T)
+
+
+###### Article D141-2-4
+
+Pour les salariés auxquels l'employeur fournit la nourriture en totalité ou en partie, le salaire minimum en espèces garanti
+est déterminé en déduisant du salaire minimum interprofessionnel garanti les sommes fixées par la convention ou accord
+collectifs. A défaut, la nourriture est évaluée par journée à un montant fixé par arrêté du représentant de l'Etat à Mayotte
+en fonction de l'évolution de la rémunération horaire minimale interprofessionnelle garantie fixée à l'article L. 141-2,
+après avis de la commission consultative du travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D141-2-5 (V)
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D141-4 (T)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L141-2 (V)
+
+
+###### Article D141-2-5
+
+Pour le personnel des hôtels, cafés, restaurants et des établissements ou organismes dans lesquels des denrées alimentaires
+ou des boissons sont consommées sur place et pour le personnel de cuisine des autres établissements qui, en raison des
+conditions particulières de leur travail ou des usages, sont nourris gratuitement par l'employeur ou reçoivent une indemnité
+compensatrice, la nourriture, calculée conformément aux dispositions de l'article D. 141-2-4, n'entre en compte que pour la
+moitié de sa valeur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Modifié par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 3
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. D141-2-4
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D141-5 (T)
+
+
+###### Article D141-2-6
+
+Pour les salariés auxquels l'employeur fournit le logement, cette prestation en nature est évaluée, à défaut de convention ou
+d'accord collectifs, à un montant fixé par arrêté du représentant de l'Etat à Mayotte, après avis de la commission
+consultative du travail.
+
+Les avantages en nature autres que la nourriture ou le logement sont évalués d'après leur valeur réelle, au prix de revient
+pour l'employeur.
+
+Pour le calcul du salaire minimum interprofessionnel garanti en espèces, les sommes correspondant aux avantages ci-dessus
+sont déduites du salaire minimum interprofessionnel garanti.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D141-6 (T)
+
+
+###### Article D141-2-7
+
+Dans tous les cas où le salarié, logé et nourri, perçoit une rémunération en espèces supérieure au minimum résultant des
+dispositions de la présente section, l'application desdites dispositions n'entraîne aucune modification de cette
+rémunération.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D141-7 (T)
+
+
 ###### Article R141-1
 
 Le salaire minimum interprofessionnel garanti applicable aux jeunes travailleurs de l'un ou de l'autre sexe, âgés de moins de
@@ -35269,7 +35955,223 @@ prendre part à la mainlevée prévue aux articles L. 145-4 et R. 145-16, des cr
 
 ### TITRE Ier : Conditions de travail
 
+#### CHAPITRE Ier : Age d'admission 
+
+###### Article D211-1
+
+La durée du travail des mineurs de seize ans dont l'emploi est autorisé pendant les vacances scolaires conformément aux
+dispositions de l'alinéa 4 de l'article L. 211-1 et à celles des arrêtés du représentant de l'Etat fixant ses modalités
+d'application ne peut, en aucun cas, excéder trente-neuf heures par semaine, ni huit heures par jour. 
+
+Leur rémunération ne peut être inférieure au salaire minimum interprofessionnel garanti, compte tenu d'un abattement au plus
+égal à 20%.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°92-238 du 9 mars 1992
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L211-1 (V)
+
+
+###### Article D211-2
+
+Tout chef d'entreprise qui se propose d'occuper un mineur de seize ans pendant la période des vacances scolaires doit en
+faire par écrit la demande à l'inspecteur du travail dans un délai de quinze jours au moins précédant la date prévue pour
+l'embauchage.
+
+Cette demande indique les nom, prénoms, âge et domicile de l'enfant, la durée du contrat, le lieu d'emploi, la nature et les
+conditions de travail auxquels il est envisagé de l'occuper. Elle précise notamment l'horaire de travail et le montant de la
+rémunération. Elle doit porter l'accord écrit et signé du représentant légal de l'enfant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°92-238 du 9 mars 1992
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+
+###### Article D211-3
+
+Si l'inspecteur du travail n'a pas manifesté son opposition motivée à l'embauchage dans un délai de huit jours francs à
+compter de l'expédition de la demande, le cachet de la poste faisant foi, l'autorisation est réputée accordée.
+
+Si, dans ce même délai, l'inspecteur du travail a fait connaître qu'il subordonnait son autorisation à une ou plusieurs
+modifications ou adjonctions dans le libellé de la demande, cette décision vaut autorisation d'embauchage, sous réserve que
+l'employeur respecte, dans l'exécution du contrat, les obligations résultant des modifications ou adjonctions requises.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°92-238 du 9 mars 1992
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+
+###### Article D211-4
+
+L'autorisation d'emploi peut être retirée à tout moment s'il est constaté que l'enfant est occupé soit dans des conditions
+non conformes à celles au respect desquelles l'octroi de l'autorisation a été subordonné, soit en contravention aux textes
+relatifs à la réglementation du travail, et notamment à ceux qui protègent la main-d'oeuvre juvénile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°92-238 du 9 mars 1992
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+
 #### CHAPITRE II : Durée du travail
+
+###### Article D212-4
+
+Les heures perdues dans les cas prévus à l'article L. 212-3 ne peuvent être récupérées que dans les douze mois précédant ou
+suivant leur perte. 
+
+L'inspecteur du travail est préalablement informé par le chef d'établissement des interruptions collectives de travail et des
+modalités de la récupération. Toutefois, si le travail est interrompu par un événement imprévu, l'avis est donné
+immédiatement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°92-238 du 9 mars 1992
+
+	**Modifié par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D212-1 (T)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L212-3 (V)
+
+
+###### Article D212-5
+
+Les heures de récupération ne peuvent être réparties uniformément sur toute l'année. 
+
+Sauf dispositions plus larges des arrêtés pris en application de l'article L. 212-2, elles ne peuvent augmenter la durée
+générale du travail de l'établissement ou de la partie d'établissement de plus d'une heure par jour ni de plus de huit heures
+par semaine.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte D212-3, D212-4
+	  - Code du travail applicable à Mayotte. - art. L212-2 (V)
+
+	**Codifié par**:
+
+	  - Décret n°92-238 du 9 mars 1992
+
+	**Modifié par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D212-2 (T)
+
+
+###### Article D212-6
+
+Le chef d'établissement ne peut débaucher pour manque de travail dans le délai d'un mois suivant une période de récupération
+le personnel habituellement employé dans les établissements ou partie d'établissement où ont été effectuées ces heures de
+récupération. Cette disposition ne s'applique pas aux salariés embauchés temporairement pour faire face au surcroît
+extraordinaire de travail.
+
+Le chef d'établissement qui n'a pas respecté les dispositions de l'alinéa précédent se voit retirer le bénéfice de la
+récupération des heures perdues et de l'utilisation des heures supplémentaires qui auraient été autorisées pour surcroît
+extraordinaire de travail. La durée du retrait ne peut excéder un an.
+
+Certaines industries ou certains établissements peuvent être autorisés à déroger aux règles fixées par le présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D212-3 (T)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D212-8 (V)
+
+
+###### Article D212-7
+
+La faculté de récupération est, en cas de chômage extraordinaire et prolongé survenant dans une catégorie professionnelle,
+suspendue pour cette catégorie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D212-4 (T)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D212-8 (V)
+
+
+###### Article D212-8
+
+Les décisions visées aux alinéas 2 et 3 de l'article D. 212-6 et à l'article D. 212-7 sont prises par arrêté du représentant
+de l'Etat à Mayotte, sur rapport du directeur du travail, de l'emploi et de la formation professionnelle. 
+
+La commission consultative du travail est préalablement consultée dans les cas visés au troisième alinéa de l'article D.
+212-6 et à l'article D. 212-7.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Modifié par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 3
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D212-5 (T)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. D212-6 (V)
+	  - Code du travail applicable à Mayotte. - art. D212-7 (V)
+
 
 ###### Article R212-1
 
@@ -35846,6 +36748,108 @@ hebdomadaire fixées à l'article L. 221-4 et au repos de nuit prévu à l'artic
 
 
 #### CHAPITRE III : Congés annuels
+
+###### Article D223-2
+
+L'employeur qui occupe pendant la période fixée pour son congé légal un salarié à un travail rémunéré, même en dehors de
+l'entreprise, est considéré comme ne donnant pas le congé légal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°92-238 du 9 mars 1992
+
+	**Modifié par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D223-1 (T)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D223-1 (V)
+
+
+###### Article D223-3
+
+La période ordinaire des vacances doit dans tous les cas être portée par l'employeur à la connaissance du personnel au moins
+deux mois avant l'ouverture de cette période.
+
+L'ordre des départs est communiqué à chaque ayant droit quinze jours avant son départ et affiché dans les ateliers, bureaux
+et magasins. Il est fixé par l'employeur, après consultation du personnel ou de ses délégués, en tenant compte de la
+situation de famille des bénéficiaires et de la durée de leurs services dans l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-48
+
+	**Codifié par**:
+
+	  - Décret n°92-238 du 9 mars 1992
+
+	**Modifié par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-612 du 10 juillet 2013 - art. 3
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D223-2 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D223-4 (V)
+	  - Code du travail applicable à Mayotte. - art. R223-3 (V)
+
+
+###### Article D223-4
+
+Ne peuvent être déduits du congé annuel les jours de maladie, les repos des femmes en couches prévus par l'article L. 122-48,
+les périodes obligatoires d'instruction militaire, les jours de chômage, les périodes de délai-congé, les absences
+autorisées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°92-238 du 9 mars 1992
+
+	**Modifié par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D223-3 (T)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L122-48 (V)
+
+
+###### Article D223-5
+
+Le paiement des indemnités dues pour les congés payés est soumis aux règles qui sont fixées par le livre Ier du présent code
+pour le paiement des salaires et traitements.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D223-4 (T)
+
 
 ###### Article R223-1
 
@@ -42371,6 +43375,318 @@ et, le cas échéant, de l'organisme saisi conformément à l'article R. 233-76.
 ##### Section 7 : Equipements de travail et moyens de protection soumis aux obligations de sécurité définies aux articles L. 233-6 et L. 233-7
 
 ##### Sous-section 1 : Equipements de travail.
+
+###### Article D233-80-1
+
+Sont soumis aux dispositions de l'article L. 233-6 : 
+
+1° Les éléments de machines comportant des organes de commande et de transmission tels que volants, engrenages, cônes ou
+cylindres de friction, cames, courroies, poulies, chaînes, pignons, vis sans fin, bielles, coulisseaux, arbres, existant en
+propre sur les machines de toute nature mues mécaniquement, exception faite des organes destinés à l'accouplement avec une
+autre machine ou à la réception de l'énergie mécanique ; 
+
+2° Les éléments de machines comportant des pièces accessibles faisant saillie sur les parties en mouvement de ces machines
+telles que vis d'arrêt, boulons, clavettes, bossages, nervures ; 
+
+3° Les autres éléments, notamment les dispositifs de protection amovibles, des machines mentionnées par des décisions
+générales du ministre chargé du travail, publiées au Journal officiel de la République française. 
+
+Ces décisions sont prises après consultation des organisations professionnelles intéressées et après avis de la commission
+d'homologation prévue à l'article D. 233-80-2. 
+
+Chaque décision prise pour une catégorie de machines détermine les principes de sécurité auxquels ces machines doivent
+satisfaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Modifié par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 3
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D233-1 (T)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. D233-80-2
+	  - Code du travail applicable à Mayotte. - art. L233-6
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D233-80-3 (V)
+	  - Code du travail applicable à Mayotte. - art. D233-80-4 (V)
+	  - Code du travail applicable à Mayotte. - art. D233-80-5 (V)
+	  - Code du travail applicable à Mayotte. - art. D233-80-8 (V)
+
+
+###### Article D233-80-2
+
+Une commission d'homologation des dispositifs de sécurité, dont la composition et les modalités de fonctionnement sont fixées
+par arrêté ministériel, est instituée auprès du ministre chargé du travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D233-2 (T)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D233-80-1 (V)
+	  - Code du travail applicable à Mayotte. - art. D233-80-4 (V)
+
+
+###### Article D233-80-3
+
+Les éléments de machines mentionnés aux 1° et 2° de l'article D. 233-80-1 sont conçus ou protégés de façon à prévenir tout
+danger en utilisation normale, et notamment à empêcher les travailleurs d'entrer involontairement en contact avec ceux de ces
+éléments qui sont en mouvement. 
+
+En cas d'impossibilité technique ou d'absence de danger pour l'opérateur dans les conditions normales de travail, des
+dérogations aux dispositions de l'alinéa précédent peuvent être accordées par arrêté du ministre chargé du travail après avis
+de la commission d'homologation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Modifié par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 3
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D233-3 (T)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. D233-80-1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D233-80-8 (V)
+
+
+###### Article D233-80-4
+
+Pour les éléments de machines et les dispositifs de protection amovibles mentionnés au 3° de l'article D. 233-80-1,
+l'efficacité de la protection est reconnue par la commission d'homologation suivant la procédure fixée par l'arrêté prévu par
+l'article D. 233-80-2. 
+
+Les demandes d'homologation sont adressées au ministre chargé du travail. 
+
+A l'appui de la demande d'homologation doivent être fournis : 
+
+1° Les documents et renseignements permettant de vérifier la conformité de la machine ou du dispositif de protection amovible
+aux prescriptions des décisions générales prévues par l'article D. 233-80-1 ; 
+
+2° Une notice d'instructions précisant notamment les mesures de sécurité à prendre lors de la manutention, l'installation,
+l'utilisation, l'entretien de la machine et de ses dispositifs de protection. 
+
+Cette notice doit également comporter les plans et les schémas nécessaires aux opérations d'entretien et aux vérifications
+techniques de la machine ; 
+
+3° Une notice relative au montage, au réglage et au mode d'emploi des dispositifs de protection ; elle peut être incluse dans
+la notice d'instructions visée au 2°. 
+
+Tous ces documents doivent être rédigés en français. 
+
+Ces documents ne peuvent être communiqués à des personnes étrangères à la commission d'homologation sans autorisation
+expresse du déposant. 
+
+Il peut être, en outre, demandé de mettre tous éléments d'information à la disposition du ministre chargé du travail et de
+faire procéder à tous essais que la commission d'homologation juge nécessaires pour se prononcer.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Modifié par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 3
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D233-4 (T)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. D233-80-1
+	  - Code du travail applicable à Mayotte. - art. D233-80-2
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D233-80-7 (V)
+
+
+###### Article D233-80-5
+
+Les décisions générales du ministre chargé du travail prévues au 3° de l'article D. 233-80-1 fixent la date à partir de
+laquelle s'applique aux machines et dispositifs de protection amovibles auxquels ces décisions se rapportent l'interdiction
+de l'exposition, de la mise en vente, de la vente ou de la location.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Modifié par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 3
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D233-5 (T)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. D233-80-1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D233-80-7 (V)
+
+
+###### Article D233-80-6
+
+Les avis de la commission sur les demandes individuelles d'homologation sont approuvés par des décisions du ministre chargé
+du travail, publiées au Journal officiel de la République française.
+
+Ces décisions peuvent accorder des homologations :
+
+1° Soit définitives lorsque les machines ou les dispositifs de protection amovibles satisfont aux principes de sécurité de la
+décision générale et ont été mises en service effectif depuis au moins un an ;
+
+2° Soit théoriques ou de principe lorsque les machines ou les dispositifs de protection amovibles à l'état de plans ou de
+prototypes satisfont aux principes de sécurité de la décision générale ;
+
+3° Soit provisoires lorsque les machines ou dispositifs de protection amovibles ne satisfont pas complètement aux principes
+de sécurité de la décision générale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D233-6 (T)
+
+
+###### Article D233-80-7
+
+A compter de la date prévue à l'article D. 233-80-5, le vendeur ou le bailleur est tenu de délivrer au preneur : 
+
+1° Une attestation de conformité de la machine ou du dispositif amovible vendu ou loué avec le modèle qui a été homologué, en
+se référant à la décision individuelle d'homologation. La forme de cette attestation est fixée par arrêté du ministre chargé
+du travail ; 
+
+2° La notice d'instructions mentionné au 2° de l'article D. 233-80-4 ; 
+
+3° La notice relative au montage, au réglage et au mode d'emploi des dispositifs de protection mentionnée au 3° de l'article
+D. 233-80-4. 
+
+En outre, le vendeur ou le bailleur doit : 
+
+1° Faire figurer sur la machine ou le dispositif de protection amovible les indications suivantes permettant de
+l'identifier : nom du constructeur, année de fabrication, références relatives à l'immatriculation (numéro, lettre...) ; 
+
+2° Fixer de manière apparente sur la machine ou le dispositif de protection amovible une plaque comportant les indications
+suivantes : 
+
+Homologation (définitive, théorique, provisoire) accordée à la série... ou au type... par le ministère du travail sous le
+numéro... 
+
+Les références visées aux 1 et 2 ci-dessus doivent être inscrites d'une manière durable et clairement lisible.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Modifié par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 3
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D233-7 (T)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. D233-80-4
+	  - Code du travail applicable à Mayotte. - art. D233-80-5
+
+
+###### Article D233-80-8
+
+Au cas où un dispositif de protection d'un élément de machine mentionné à l'alinéa 1 de l'article D. 233-80-3 se révélerait à
+l'usage inefficace ou dangereux, il pourrait, après avis de la commission d'homologation, être interdit par décision du
+ministre chargé du travail, publiée au Journal officiel de la République française. 
+
+La décision individuelle d'homologation peut, après avis de la commission d'homologation, être rapportée par décision du
+ministre chargé du travail, publiée au Journal officiel de la République française : 
+
+1° Au cas où, à l'usage, une machine se révélerait dangereuse ou un dispositif de protection inefficace ; 
+
+2° Au cas où une machine ou un dispositif de protection s'avérerait non conforme au modèle homologué. 
+
+En cas de modification d'une décision générale mentionnée au 3° de l'article D. 233-80-1, les homologations définitives
+accordées en application des dispositions antérieures qui se trouveraient être en contradiction avec les dispositions
+nouvelles deviennent caduques dans un délai déterminé par la nouvelle décision. Ce délai n'est en aucun cas inférieur à un
+an.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Modifié par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 3
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D233-8 (T)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. D233-80-1
+	  - Code du travail applicable à Mayotte. - art. D233-80-3
+
+
+###### Article D233-80-9
+
+Pour les machines d'occasion, des dérogations aux dispositions des articles précédents peuvent être accordées dans des
+conditions fixées par arrêté du ministre chargé du travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D233-9 (T)
+
 
 ###### Article R233-78
 
@@ -57816,6 +59132,36 @@ conclu ou résilié ;
 
 ##### Section 2 : Travail dissimulé.
 
+###### Article D312-9
+
+Pour l'application des articles L. 312-1 et suivants, les droits et pouvoirs des inspecteurs du travail ou contrôleurs du
+travail tels qu'ils sont définis par le livre VI du présent code sont étendus à tous les établissements dont le chef exerce
+habituellement une profession industrielle, commerciale ou artisanale, même s'il s'agit d'établissements de famille ou
+d'établissements n'occupant pas de salariés. 
+
+Les chefs de ces établissements doivent tenir à la disposition des inspecteurs du travail toutes justifications de leurs
+inscriptions soit au registre du commerce, soit au registre des métiers. 
+
+D'autre part, les inspecteurs du travail ou les contrôleurs du travail peuvent se faire communiquer, par les chefs
+d'établissement soumis à leur contrôle, la liste des noms et adresses de tous les fournisseurs de ces établissements et, pour
+chacun de ces fournisseurs, une lettre ou tout autre document faisant mention de l'inscription au registre du commerce ou au
+registre des métiers.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D312-1 (T)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L312-1 (V)
+
+
 ###### Article R312-1
 
 Tout entrepreneur travaillant sur un chantier ayant donné lieu à la délivrance d'un permis de construire, pendant la durée de
@@ -58097,6 +59443,59 @@ consignées par procès-verbal.
 	  - Code du travail applicable à Mayotte. - art. L312-5 (V)
 
 
+#### CHAPITRE III : Répression du travail illégal 
+
+###### Article D313-1
+
+En application de l'article L. 313-3, l'autorité compétente peut refuser les aides publiques attachées aux dispositifs prévus
+par les articles L. 113-1, L. 322-2, 
+L. 322-7, L. 323-2, L. 324-1, L. 325-2, L. 711-5 et L. 711-7 du présent code ainsi que les articles L. 1511-1 à L. 1511-5 du
+code général des collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L1511-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L113-1
+	  - Code du travail applicable à Mayotte. - art. L313-3
+	  - Code du travail applicable à Mayotte. - art. L322-2
+	  - Code du travail applicable à Mayotte. - art. L322-7 (VT)
+	  - Code du travail applicable à Mayotte. - art. L323-2
+	  - Code du travail applicable à Mayotte. - art. L324-1
+	  - Code du travail applicable à Mayotte. - art. L325-2
+	  - Code du travail applicable à Mayotte. - art. L711-5
+	  - Code du travail applicable à Mayotte. - art. L711-7 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D313-2 (V)
+
+
+###### Article D313-2
+
+Lorsqu'elle est saisie d'une demande du bénéfice d'une des aides mentionnées à l'article D. 313-1 par une personne verbalisée
+pour une infraction mentionnée à l'article L. 313-1, l'autorité compétente doit, avant toute décision de refus, informer
+celle-ci, par lettre recommandée avec demande d'avis de réception, qu'elle est passible de la sanction prévue par l'article
+L. 313-3 et qu'elle peut présenter ses observations écrites dans un délai de quinze jours.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. D313-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L313-1
+	  - Code du travail applicable à Mayotte. - art. L313-3
+
+
 ### TITRE II : Aides à l'emploi, intervention du Fonds national de l'emploi et de la collectivité départementale
 
 #### CHAPITRE PRELIMINAIRE : Licenciement pour motif économique
@@ -58312,6 +59711,30 @@ professionnelle, de la promotion sociale et de l'emploi.
 ##### Section 2 : Aides au maintien et à la sauvegarde de l'emploi
 
 ##### Sous-section 2 : Aides aux salariés en chômage partiel
+
+###### Article D321-12-1
+
+Le taux horaire de l'allocation spécifique pour privation partielle d'emploi prévu à l'article L. 327-10 est fixé à 1,5
+Euros.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2016-1583 du 24 novembre 2016 - art. 1
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D327-10 (T)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L327-10
+
 
 ###### Article R321-10
 
@@ -58960,6 +60383,27 @@ concerné et l'employeur.
 
 ##### Paragraphe 1 : Aide financière
 
+###### Article D322-23-1
+
+Pour l'application de l'article L. 322-23, la participation mensuelle du Département au financement de l'aide est égale à 88
+% du montant forfaitaire mentionné au 2° de l'article L. 262-2 du code de l'action sociale et des familles, applicable à un
+foyer composé d'une seule personne, dans la limite de l'aide effectivement versée. 
+
+Toutefois, lorsque la convention individuelle de contrat d'accompagnement dans l'emploi prévoit une prise en charge de la
+durée hebdomadaire de travail égale à sept heures en application de la dérogation prévue à l'article L. 322-16, le taux de
+participation mensuelle du Département mentionné à l'alinéa précédent est réduit à 45 %.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D322-1 (T)
+
+
 ###### Article R322-21
 
 L'aide mentionnée à l'article L. 322-21 est versée mensuellement : 
@@ -59139,6 +60583,26 @@ l'emploi est un contrat à durée  déterminée, en cas de :
 
 ##### Paragraphe 2 : Exonérations 
 
+###### Article D322-30-1
+
+Le montant de l'exonération prévue à l'article L. 322-24 est égal à celui des cotisations à la charge de l'employeur au titre
+du régime d'assurance maladie-maternité, du régime de base obligatoire pour les prestations familiales et du régime de
+retraite de base obligatoire de sécurité sociale applicables à Mayotte, correspondant à la fraction de la rémunération
+n'excédant pas le produit du salaire minimum interprofessionnel garanti par le nombre d'heures rémunérées, dans la limite de
+la durée légale du travail calculée sur le mois ou, si elle est inférieure, de la durée conventionnelle applicable dans
+l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D322-2 (T)
+
+
 ###### Article R322-29
 
 En cas de suspension du contrat de travail avec maintien total ou  partiel de la rémunération mensuelle brute du salarié, le
@@ -59174,6 +60638,159 @@ sociales qui suit la date d'effet de la rupture du contrat de travail.
 
 	  - Code du travail applicable à Mayotte. - art. R322-27 (V)
 	  - Code des assurances - art. L322-24 (V)
+
+
+##### Sous-section 5 : Périodes d'immersion
+
+###### Article D322-30-2
+
+La convention individuelle de contrat d'accompagnement dans l'emploi mentionnée à l'article L. 322-7 peut prévoir, dans sa
+rédaction initiale ou par avenant ad hoc, la possibilité pour le salarié de réaliser des périodes d'immersion auprès d'un ou
+de plusieurs autres employeurs.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D322-3 (T)
+
+
+###### Article D322-30-3
+
+Chaque période d'immersion fait l'objet d'un avenant écrit au contrat d'accompagnement dans l'emploi mentionné à l'article L.
+322-13. 
+
+Le cas échéant, cet avenant peut prévoir la possibilité de réaliser plusieurs périodes d'immersion auprès du même employeur. 
+
+Il comporte des clauses obligatoires définies par arrêté du ministre chargé de l'emploi. 
+
+Un salarié ne peut être sanctionné, licencié ou faire l'objet d'une mesure discriminatoire pour avoir refusé d'effectuer une
+période d'immersion ou pour avoir décidé d'y mettre fin.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D322-4 (T)
+
+
+###### Article D322-30-4
+
+La durée de chaque période d'immersion ne peut excéder un mois. 
+
+La durée cumulée de l'ensemble des périodes d'immersion effectuées au cours du contrat d'accompagnement dans l'emploi ne peut
+représenter plus de 25 % de la durée totale du contrat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D322-5 (T)
+
+
+###### Article D322-30-5
+
+Chaque période d'immersion fait l'objet d'une convention de mise à disposition conclue à titre gratuit entre l'employeur du
+salarié sous contrat d'accompagnement dans l'emploi et l'employeur auprès duquel elle sera effectuée. Cette convention peut
+prévoir la possibilité d'effectuer plusieurs périodes d'immersion auprès d'un même employeur. 
+
+La convention de mise à disposition comporte notamment les indications suivantes : 
+
+1° La référence à l'article L. 322-6, qui autorise un prêt de main-d'œuvre à but non lucratif, et aux dispositions des titres
+Ier à V du livre II " Réglementation du travail ” ; 
+
+2° Les nom, prénom, adresse et date de naissance du salarié ; 
+
+3° La nature des activités faisant l'objet de la convention ; 
+
+4° Le lieu d'exécution, les horaires de travail, les dates de début et de fin de la période d'immersion ou, quand la
+convention le prévoit, des périodes d'immersion, et, en ce cas, les modalités de succession des périodes respectivement
+travaillées auprès de l'employeur et de l'employeur d'accueil ; 
+
+5° Les conditions et modalités de rupture anticipée de la mise à disposition par l'une ou l'autre des parties à la
+convention ; 
+
+6° La répartition des responsabilités, notamment en matière de formation à la sécurité et d'assurance contre le risque
+accidents du travail et maladies professionnelles, ainsi qu'en ce qui concerne l'exercice du pouvoir disciplinaire et des
+fonctions d'encadrement ; 
+
+7° Les objectifs visés par l'immersion, tels que la découverte de métiers, la confirmation du projet professionnel,
+l'acquisition d'expériences et de compétences professionnelles ou toute autre finalité à visée professionnelle, à préciser ; 
+
+8° Les modalités selon lesquelles la réalisation de ces objectifs est appréciée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D322-6 (T)
+
+
+###### Article D322-30-6
+
+La convention de mise à disposition est transmise par l'employeur du salarié sous contrat d'accompagnement dans l'emploi,
+pour agrément, au plus tard deux mois avant la date prévue pour le début de la période : 
+
+1° Pour les contrats d'accompagnement dans l'emploi conclus pour le compte de l'Etat, à l'organisme mentionné au a du 1° de
+l'article L. 322-1 ; 
+
+2° Pour les contrats d'accompagnement dans l'emploi conclus pour le compte du Département, au conseil général ou à
+l'organisme mentionné à l'article L. 322-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D322-30-7 (V)
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D322-7 (T)
+
+
+###### Article D322-30-7
+
+L'organisme destinataire de la convention de mise à disposition désigné à l'article D. 322-30-6 transmet à l'Agence de
+services et de paiement un document dont le modèle est fixé par arrêté du ministre chargé de l'emploi, signalant chaque
+période d'immersion agréée et comportant les indications nécessaires au suivi statistique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Modifié par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 3
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. D322-30-6
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D322-8 (T)
 
 
 ##### Section 3 : Contrat initiative-emploi 
@@ -59455,6 +61072,23 @@ Cette formation est dispensée dans le cadre d'une convention avec un organisme 
 
 ##### Sous-section 3 : Aide financière 
 
+###### Article D322-46-1
+
+Pour l'application de l'article L. 322-43, la participation mensuelle du Département au financement de l'aide est égale à 88
+% du montant forfaitaire mentionné au 2° de l'article L. 262-2 du code de l'action sociale et des familles, applicable à un
+foyer composé d'une seule personne, dans la limite du montant de l'aide effectivement versée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D322-9 (T)
+
+
 ###### Article R322-44
 
 L'aide mentionnée à l'article L. 322-41 est versée mensuellement : 
@@ -59631,9 +61265,276 @@ contrat à durée déterminée, dans les  cas suivants :
 	  - Code du travail applicable à Mayotte. - art. R322-49 (VD)
 
 
+##### Section 4 : Emploi d'avenir 
+
+
+
+
+##### Sous-section 1 : Dispositions générales 
+
+
+
+
+
+
+###### Article R322-52
+
+Peuvent être recrutés en emploi d'avenir les jeunes sans emploi de seize à vingt-cinq ans et les personnes handicapées de
+moins de trente ans sans emploi, à la date de la signature du contrat, qui : 
+
+1° Soit ne détiennent aucun diplôme du système de formation initiale ; 
+
+2° Soit sont titulaires uniquement d'un diplôme ou d'un titre à finalité professionnelle enregistré au répertoire national
+des certifications professionnelles prévu à l'article L. 335-6 du code de l'éducation et classé au niveau V de la
+nomenclature interministérielle des niveaux de formation mentionnée à l'article R. 335-13 du code de l'éducation, et
+totalisent une durée de six mois minimum de recherche d'emploi au cours des douze derniers mois ; 
+
+3° Soit, à titre exceptionnel, ont atteint au plus le niveau du premier cycle de l'enseignement supérieur et totalisent une
+durée de douze mois minimum de recherche d'emploi au cours des dix-huit derniers mois.
+
+**Nota:**
+
+Décret n° 2012-1207 du 31 octobre 2012 article 1 : Entre en vigueur immédiatement à compter de sa publication au Journal
+officiel de la République française le décret n° 2012-1210 du 31 octobre 2012 relatif à l'emploi d'avenir.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1210 du 31 octobre 2012 - art. 2
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L335-6
+	  - Code de l'éducation - art. R335-13
+
+
+###### Article R322-53
+
+I.-Le schéma d'orientation mahorais définit la stratégie territoriale de mise en œuvre des emplois d'avenir, notamment : 
+
+1° Les filières et secteurs d'activité prioritaires pour le déploiement des emplois d'avenir, en particulier les secteurs qui
+présentent un fort potentiel de création d'emplois ou offrent des perspectives de développement d'activités nouvelles, en
+cohérence avec les stratégies de développement économique et de développement des compétences au niveau départemental ; 
+
+2° Les principaux parcours d'insertion et de qualification qui peuvent être proposés dans ces différents filières et
+secteurs. 
+
+II.-Le schéma d'orientation tient compte des modalités d'accès des jeunes à la formation définies au contrat de plan mahorais
+de développement des formations professionnelles adopté au titre de l'article L. 214-13 du code de l'éducation.
+
+**Nota:**
+
+Décret n° 2012-1207 du 31 octobre 2012 article 1 : Entre en vigueur immédiatement à compter de sa publication au Journal
+officiel de la République française le décret n° 2012-1210 du 31 octobre 2012 relatif à l'emploi d'avenir.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1210 du 31 octobre 2012 - art. 2
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L214-13
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R322-54 (V)
+	  - Code du travail applicable à Mayotte. - art. R322-55 (V)
+
+
+###### Article R322-54
+
+I.-Chaque année, le comité de coordination mahorais de l'emploi et de la formation professionnelle est consulté sur le schéma
+d'orientation mahorais mentionné à l'article R. 322-53 et, s'il y a lieu, sur le bilan des emplois d'avenir au titre de
+l'année écoulée. 
+
+II.-Le projet de schéma d'orientation mahorais mentionné à l'article R. 322-53 est établi par le représentant de l'Etat à
+Mayotte, après consultation du président du conseil général. Il est soumis pour avis au comité de coordination mahorais de
+l'emploi et de la formation professionnelle et fait l'objet, avant son adoption, d'une publication sous forme électronique
+sur le site de la préfecture. Le conseil général, les communes, l'institution mentionnée à l'article L. 326-6, les missions
+locales pour l'insertion professionnelle et sociale des jeunes ainsi que les instances représentant à Mayotte l'économie
+sociale et solidaire peuvent faire connaître leur avis au représentant de l'Etat à Mayotte dans un délai d'un mois à compter
+de cette publication. 
+
+III.-A l'issue de la procédure de consultation définie au II, le représentant de l'Etat à Mayotte publie le schéma
+d'orientation mahorais au recueil des actes administratifs de la préfecture.
+
+**Nota:**
+
+Décret n° 2012-1207 du 31 octobre 2012 article 1 : Entre en vigueur immédiatement à compter de sa publication au Journal
+officiel de la République française le décret n° 2012-1210 du 31 octobre 2012 relatif à l'emploi d'avenir.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1210 du 31 octobre 2012 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L326-6
+	  - Code du travail applicable à Mayotte. - art. R322-53
+
+
+###### Article R322-55
+
+I.-Est éligible à l'aide à l'emploi d'avenir l'employeur relevant du huitième alinéa de l'article L. 322-46 qui : 
+
+1° Propose au titulaire d'un emploi d'avenir une perspective de qualification et d'insertion professionnelle durable ; 
+
+2° Appartient à un secteur d'activité présentant un fort potentiel de création d'emplois ou offrant des perspectives de
+développement d'activités nouvelles. 
+
+II.-Les secteurs mentionnés au 2° du I sont fixés par arrêté du représentant de l'Etat à Mayotte, compte tenu des secteurs
+prioritaires définis au schéma d'orientation régional en application de l'article R. 322-53.
+
+**Nota:**
+
+Décret n° 2012-1207 du 31 octobre 2012 article 1 : Entre en vigueur immédiatement à compter de sa publication au Journal
+officiel de la République française le décret n° 2012-1210 du 31 octobre 2012 relatif à l'emploi d'avenir.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1210 du 31 octobre 2012 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-46
+	  - Code du travail applicable à Mayotte. - art. R322-53
+
+
+###### Article R322-56
+
+- L'emploi d'avenir est conclu sous la forme, selon le cas : 
+
+1° S'agissant d'un employeur mentionné au 2° ou au 3° de l'article L. 322-46, d'un contrat d'accompagnement dans l'emploi à
+durée déterminée, d'au moins douze mois et d'au plus trente-six mois, régi par les dispositions de la section 1 et de la
+section 2 du présent chapitre, sous réserve des dispositions spécifiques prévues par la présente section ; 
+
+2° S'agissant des autres employeurs mentionnés à l'article L. 322-46, selon leur situation, d'un contrat d'accompagnement
+dans l'emploi régi par les dispositions de la section 1 et de la section 2 du présent chapitre ou d'un contrat initiative-
+emploi régi par les dispositions de la section 1 et de la section 3 du présent chapitre, sous réserve des dispositions
+spécifiques prévues par la présente section.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1210 du 31 octobre 2012 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-46
+
+
+##### Sous-section 2 : Aide à l'insertion professionnelle 
+
+###### Article R322-57
+
+Par dérogation selon le cas aux articles R. 322-23 ou R. 322-46, un arrêté du ministre chargé de l'emploi et du ministre
+chargé du budget fixe les taux de prise en charge déterminant le montant de l'aide financière relative à l'emploi d'avenir.
+
+**Nota:**
+
+Décret n° 2012-1207 du 31 octobre 2012 article 1 : Entre en vigueur immédiatement à compter de sa publication au Journal
+officiel de la République française le décret n° 2012-1210 du 31 octobre 2012 relatif à l'emploi d'avenir.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1210 du 31 octobre 2012 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R322-23
+	  - Code du travail applicable à Mayotte. - art. R322-46
+
+
+###### Article R322-58
+
+La durée maximale de l'aide, fixée à trente-six mois par l'article L. 322-48, peut être prolongée, sur autorisation de
+l'autorité délivrant la décision d'attribution, afin de permettre au bénéficiaire d'achever la formation professionnelle
+qu'il a engagée, dans la limite d'une durée totale de soixante mois. La demande de prolongation faite par l'employeur est
+accompagnée des documents mentionnés selon le cas aux articles R. 322-13 et R. 322-37.
+
+**Nota:**
+
+Décret n° 2012-1207 du 31 octobre 2012 article 1 : Entre en vigueur  immédiatement à compter de sa publication au Journal
+officiel de la  République française le décret n° 2012-1210 du 31 octobre 2012 relatif à  l'emploi d'avenir.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1210 du 31 octobre 2012 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-48
+	  - Code du travail applicable à Mayotte. - art. R322-13
+	  - Code du travail applicable à Mayotte. - art. R322-37
+
+
+###### Article R322-59
+
+L'exécution des engagements de l'employeur, notamment en matière de formation, est examinée par l'autorité signataire de la
+décision d'attribution de l'aide à chaque échéance annuelle. En cas de non-respect de ces engagements, l'aide fait l'objet
+d'un remboursement selon les modalités prévues aux articles R. 322-10 et R. 322-34.
+
+**Nota:**
+
+Décret n° 2012-1207 du 31 octobre 2012 article 1 : Entre en vigueur   immédiatement à compter de sa publication au Journal
+officiel de la   République française le décret n° 2012-1210 du 31 octobre 2012 relatif à   l'emploi d'avenir.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1210 du 31 octobre 2012 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R322-10
+	  - Code du travail applicable à Mayotte. - art. R322-34
+
+
 #### CHAPITRE IV : Dispositions particulières relatives à l'emploi des jeunes
 
 ##### Projet initiative-jeune
+
+###### Article D324-2
+
+Le montant maximum de l'aide prévue au a de l'article L. 324-9 est de 7 320 Euros. 
+
+Le montant maximum de l'aide mensuelle prévue au b de l'article L. 324-9 est de 305 Euros. 
+
+Les frais liés à la formation peuvent faire l'objet d'une prise en charge forfaitaire d'un montant maximum de 762 Euros.
+Lorsque l'aide est destinée à la création d'entreprises, 15 % maximum de son montant est consacré à des actions de conseil ou
+de formation à la gestion d'entreprises.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2016-135 du 9 février 2016 - art. 1
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D324-9 (T)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L324-9
+
 
 ###### Article R324-1
 
@@ -59755,6 +61656,50 @@ L'agrément est délivré par le représentant de l'Etat pour une durée d'un à
 #### CHAPITRE V : Dispositions relatives à la création d'entreprises et à la création d'emplois
 
 ##### Section 1 : Aide à la création d'entreprises à l'initiative des demandeurs d'emploi
+
+###### Article D325-1-1
+
+I.-Le montant du plafond de l'aide à la création d'entreprises mentionnée à l'article L. 325-1 est fixé à 4 200 Euros. 
+
+Le montant de l'aide accordée est apprécié, à la vue du dossier, en fonction de la réalité et de la viabilité juridique,
+économique, financière et technique du projet ainsi que de son intérêt pour le développement local de l'emploi. 
+
+II.-Le chéquier-conseil est composé de six chèques d'un montant unitaire de 46 Euros pris en charge par l'Etat. Un chèque
+équivaut à une heure de conseil, l'heure de conseil ouvrant droit aux chèques-conseil est fixée à 61 Euros. 
+
+III.-Toute personne qui retire un dossier de demande d'aide à la création d'entreprises et qui répond aux conditions fixées
+par l'article L. 235-1 peut demander le bénéfice d'un ou de deux chéquiers-conseil. 
+
+Toute personne dont l'aide prévue à l'article L. 235-1 a été mandatée peut demander le bénéfice de chéquiers-conseil dans la
+limite de trois, déduction faite de ceux dont elle a déjà bénéficié avant la création de l'entreprise pour le même projet. 
+
+IV.-Les chéquiers-conseil sont délivrés par la direction du travail, de l'emploi et de la formation professionnelle. Ils sont
+nominatifs. Ils ont une validité de trente-six mois à compter de la date de leur délivrance. 
+
+V.-Les chèques représentant la contribution de l'Etat sont utilisés par les bénéficiaires auprès d'organismes habilités
+désignés par le représentant de l'Etat. La liste des organismes est actualisée tous les ans. Seront habilités les organismes
+qui, au préalable, auront adhéré à une convention type définissant les principes et modalités d'intervention, dont le modèle
+est arrêté par le représentant de l'Etat à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2016-135 du 9 février 2016 - art. 2
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D325-1 (T)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L235-1
+	  - Code du travail applicable à Mayotte. - art. L325-1
+
 
 ###### Article R325-1
 
@@ -62091,6 +64036,30 @@ au bénéfice de la prime forfaitaire pour reprise d'activité.
 	  - Code du travail applicable à Mayotte. - art. R327-42 (VT)
 
 
+###### Article R327-46
+
+Lorsque la condition de ressources est applicable aux bénéficiaires, l'allocation mentionnée à l'article L. 327-20 n'est pas
+versée si le montant mensuel dû est inférieur au taux journalier de cette allocation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1204 du 30 octobre 2012 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1566 du 31 décembre 2012 - art. 7
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L327-20
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R327-43 (VT)
+
+
 ###### Article R327-47
 
 Les sommes indûment perçues au titre de la prime forfaitaire pour reprise d'activité ne donnent pas lieu à remboursement
@@ -63678,6 +65647,119 @@ relatives aux modalités d'examen des demandes d'inscription des projets de rés
 	  - Décret n°2006-1315 du 25 octobre 2006 - art. 23 () JORF 27 octobre 2006
 
 
+##### Section 9 : Rapport annuel sur la situation comparée
+des femmes et des hommes dans l'entreprise
+
+###### Article D442-22
+
+Le rapport annuel mentionné à l'article L. 442-8 comporte des indicateurs qui doivent permettre la réalisation d'une analyse
+de la situation comparée des femmes et des hommes dans l'entreprise et de son évolution. 
+
+Ces indicateurs comprennent des données chiffrées permettant de mesurer les écarts et, le cas échéant, des données
+explicatives sur les évolutions constatées ou à prévoir. 
+
+Ces indicateurs sont les suivants : 
+
+1. Conditions générales d'emploi 
+
+Effectifs 
+
+Données chiffrées par sexe :
+
+- répartition par catégorie professionnelle selon les différents contrats de travail ;
+
+- pyramide des âges par catégorie professionnelle. 
+
+Durée et organisation du travail 
+
+Données chiffrées par sexe :
+
+- répartition des effectifs selon la durée du travail : temps complet, temps partiel à 50 % ou égal à 50 % ;
+
+- répartition des effectifs selon l'organisation du travail : 
+
+travail posté, travail de nuit, horaires variables, travail atypique dont travail durant le week-end. 
+
+Données sur les congés 
+
+Données chiffrées par sexe :
+
+- répartition par catégorie professionnelle selon :
+
+- le nombre et le type de congés dont la durée est supérieure à six mois. 
+
+Données sur les embauches et les départs 
+
+Données chiffrées par sexe :
+
+- répartition des embauches par catégorie professionnelle et type de contrat de travail ;
+
+- répartition des départs par catégorie professionnelle et motifs : retraite, démission, fin de contrat à durée déterminée,
+licenciement. 
+
+Positionnement dans l'entreprise 
+
+Données chiffrées par sexe :
+
+- répartition des effectifs selon les niveaux d'emplois définis par les grilles de classification au sens des conventions
+collectives ou des accords interprofessionnels. 
+
+2. Promotions 
+
+Données chiffrées par sexe :
+
+- répartition des promotions au regard des effectifs de la catégorie professionnelle concernée ;
+
+- nombre de promotions suite à une formation. 
+
+3. Rémunérations 
+
+Données chiffrées par sexe et selon les catégories d'emplois occupés au sens des grilles de classification ou des filières/
+métiers :
+
+- éventail des rémunérations ;
+
+- rémunération moyenne mensuelle ;
+
+- nombre de femmes dans les dix plus hautes rémunérations. 
+
+4. Formation 
+
+Données chiffrées par sexe : 
+
+Répartition par catégorie professionnelle selon :
+
+- la participation aux actions de formation ;
+
+- la répartition par type d'action ;
+
+- le nombre moyen d'heures d'actions de formation. 
+
+5. Conditions de travail 
+
+Données générales par sexe : 
+
+Répartition par poste de travail selon :
+
+- l'exposition à des risques professionnels ;
+
+- la pénibilité, dont le caractère répétitif des tâches.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D442-1 (T)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L442-8 (V)
+
+
 #### CHAPITRE III : Composition et élections
 
 ###### Article R443-1
@@ -64414,6 +66496,104 @@ membres des commissions et, pour les membres autres que les fonctionnaires en ac
 
 #### CHAPITRE IV : Médiation
 
+###### Article D514-7
+
+Il est alloué aux personnes désignées en qualité de médiateur, en application des articles L. 514-1, R. 514-1 ou R. 514-2,
+une indemnité forfaitaire pour chaque médiation dont le taux varie suivant l'importance du différend. 
+
+L'indemnité allouée aux médiateurs comprend le remboursement des frais divers de secrétariat, de correspondance ou de
+déplacement à l'intérieur de leur résidence, nécessités par l'accomplissement de leur mission.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D514-1 (T)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D514-9 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L514-1 (V)
+	  - Code du travail applicable à Mayotte. - art. R514-1 (V)
+	  - Code du travail applicable à Mayotte. - art. R514-2 (V)
+
+
+###### Article D514-8
+
+Les experts aux offices desquels les médiateurs peuvent avoir recours sont rémunérés à la vacation.
+
+Les personnes qualifiées qui prêtent leur concours aux médiateurs perçoivent une indemnité forfaitaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D514-2 (T)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D514-9 (V)
+
+
+###### Article D514-9
+
+Le taux et les conditions d'attribution de l'indemnité forfaitaire prévue à l'article D. 514-7 ainsi que le taux et les
+conditions d'attribution des vacations et de l'indemnité forfaitaire prévues à l'article D. 514-8 sont fixés par arrêté du
+représentant de l'Etat à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Modifié par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 3
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D514-3 (T)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. D514-7
+	  - Code du travail applicable à Mayotte. - art. D514-8
+
+
+###### Article D514-10
+
+Les dépenses de déplacement que les médiateurs, les experts et les personnes qualifiées peuvent être appelés à effectuer hors
+de leur résidence pour l'accomplissement de leur mission leur sont remboursées dans les conditions suivantes :
+
+- s'ils sont fonctionnaires en activité, ils perçoivent les indemnités prévues aux barèmes applicables au groupe auquel ils
+appartiennent ;
+
+- s'ils ne possèdent pas la qualité de fonctionnaire en activité, ils perçoivent les indemnités applicables aux
+fonctionnaires du groupe I.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D514-4 (T)
+
+
 ###### Article R514-1
 
 La partie qui désire recourir à la médiation adresse à cet effet une requête écrite et motivée au représentant de l'Etat. La
@@ -64983,6 +67163,602 @@ susceptibles d'être sanctionnées au titre des dispositions de cet article.
 ## LIVRE VII : Formation professionnelle
 
 ### Chapitre 1er : Dispositions communes aux contrats de qualification et aux contrats d'orientation
+
+### CHAPITRE Ier : Dispositions relatives aux contrats de qualification et aux contrats d'orientation
+
+###### Article D711-2
+
+Le contrat de qualification prévu à l'article L. 711-5 s'adresse aux personnes de moins de trente ans n'ayant pas acquis de
+qualification au cours de leur scolarité ou ayant acquis une qualification qui ne leur a pas permis d'obtenir un emploi. 
+
+Les périodes en entreprises effectuées au titre de la scolarité ne peuvent pas donner lieu à la conclusion de contrats de
+qualification. 
+
+Les actions de formation qui constituent des éléments de la formation initiale de jeunes gens sous statut scolaire ou
+universitaire ne peuvent faire l'objet d'un contrat de qualification ni donner lieu à la conclusion de conventions conclues
+en application des dispositions de l'article L. 711-6. 
+
+Des actions de formation ne peuvent être mises en place par un organisme de formation ou un établissement d'enseignement dans
+le cadre d'un contrat de qualification qu'après signature d'une convention de formation conclue en application des
+dispositions de l'article L. 711-6.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-800 du 2 septembre 2013 - art. 1
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D712-1 (T)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L711-5 (V)
+	  - Code du travail applicable à Mayotte. - art. L711-6 (V)
+
+
+###### Article D711-3
+
+L'habilitation prévue à l'article L. 711-6 est subordonnée au dépôt d'un dossier qui comporte : 
+
+1° Le texte de la convention mentionnée au deuxième alinéa de l'article L. 711-6, ou la justification de l'adhésion à un
+accord-cadre conclu dans les conditions prévues au même article. 
+
+2° Lorsque l'entreprise ne relève pas d'un accord cadre, le compte rendu de la consultation des délégués du personnel, s'ils
+existent. 
+
+3° L'indication du nombre de personnes susceptibles de bénéficier de contrats de qualification et de la durée de ceux-ci. 
+
+4° La définition des emplois offerts à ces personnes. 
+
+5° Le nom et la mention des qualifications professionnelles du ou des tuteurs, dont le choix, la qualification et la mission
+sont déterminés conformément aux dispositions de l'article D. 711-14.
+
+6° Le cas échéant, les références de l'entreprise en matière de formation professionnelle et, s'il y a lieu, la liste des
+titres ou diplômes homologués ou reconnus par une convention collective ou figurant sur une liste établie par le représentant
+de l'Etat à Mayotte en application des dispositions de l'article L. 711-5.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Modifié par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-800 du 2 septembre 2013 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. D711-14
+	  - Code du travail applicable à Mayotte. - art. L711-5
+	  - Code du travail applicable à Mayotte. - art. L711-6
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D712-2 (T)
+
+
+###### Article D711-4
+
+L'habilitation est accordée au vu du dossier prévu à l'article précédent et en tenant compte, en outre, des conditions de
+travail, d'hygiène et de sécurité dans l'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-800 du 2 septembre 2013 - art. 1
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D712-3 (T)
+
+
+###### Article D711-5
+
+La demande d'habilitation accompagnée du dossier est adressée, par lettre recommandée avec accusé de réception, au
+représentant de l'Etat à Mayotte.
+
+L'habilitation est réputée acquise à défaut de décision de refus notifiée par représentant de l'Etat dans le mois qui suit la
+réception du dossier.
+
+L'habilitation peut être retirée par décision motivée du représentant de l'Etat à Mayotte prise après avis du comité de la
+formation professionnelle, de la promotion sociale et de l'emploi en cas de méconnaissance des dispositions des sections I et
+III du chapitre II du livre VII de la partie Législative du présent code ou des engagements pris en la matière par
+l'employeur.
+
+Si une entreprise habilitée désire conclure des contrats de qualification comportant des formations en alternance autres que
+celles qui font l'objet de l'habilitation, elle présente une nouvelle demande.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-800 du 2 septembre 2013 - art. 1
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D712-4 (T)
+
+
+###### Article D711-6
+
+Lorsque la qualification est reconnue dans les classifications d'une convention collective, un document écrit, annexé au
+contrat, précise les caractéristiques de l'emploi, les objectifs, le programme et les conditions d'évaluation de la
+formation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-800 du 2 septembre 2013 - art. 1
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D712-5 (T)
+
+
+###### Article D711-7
+
+Le dépôt du contrat de qualification prévu à l'article L. 711-5 intervient au plus tard dans le mois qui suit le début du
+contrat. 
+
+La direction du travail, de l'emploi et de la formation professionnelle de Mayotte s'assure que le contrat est conforme à la
+décision d'habilitation et aux dispositions législatives, réglementaires ou conventionnelles qui le régissent. 
+
+Si l'administration n'a pas fait connaître ses observations dans le délai d'un mois à compter de la date du dépôt, le contrat
+est considéré comme conforme. 
+
+L'intéressé qui entend contester la décision de refus d'enregistrement doit, préalablement à tout recours contentieux, former
+un recours devant le ministre chargé du travail. Ce recours doit être formé dans un délai d'un mois à compter de la
+notification de la décision.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-800 du 2 septembre 2013 - art. 1
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D712-6 (T)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L711-5 (V)
+
+
+###### Article D711-8
+
+Lorsque la qualification n'est pas sanctionnée par un diplôme, elle donne lieu à une attestation écrite remise par
+l'employeur au titulaire du contrat de qualification. Dans le cas où la qualification est reconnue dans les classifications
+d'une convention collective, cette attestation est établie en liaison avec l'organisme de formation, dans les conditions
+prévues au contrat ; dans le cas où la qualification est définie par l'arrêté du représentant de l'Etat à Mayotte en
+application de l'article L. 711-5, cette attestation est établie dans les conditions prévues par ledit arrêté.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-800 du 2 septembre 2013 - art. 1
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D712-7 (T)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L711-5 (V)
+
+
+###### Article D711-9
+
+La conclusion d'un contrat d'orientation est subordonnée à la signature d'une convention conclue entre l'employeur et le ou
+les organismes chargés de mettre en oeuvre les actions d'orientation professionnelle définies à l'article D. 711-11. 
+
+La convention doit préciser : 
+
+a) La nature et la durée des actions d'orientation professionnelle prévues ; 
+
+b) Les modalités d'organisation de ces actions ; 
+
+c) Les modalités de la coordination entre le tuteur et l'organisme chargé de la mise en oeuvre de ces actions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Modifié par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-800 du 2 septembre 2013 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D711-10 (VT)
+	  - Code du travail applicable à Mayotte. - art. D711-11 (VT)
+	  - Code du travail applicable à Mayotte. - art. R711-19 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D712-8 (T)
+
+
+###### Article D711-10
+
+Le contrat d'orientation conclu entre le jeune et l'employeur après la signature de la convention mentionnée à l'article D.
+711-9 comporte notamment les mentions spécifiques suivantes : 
+
+a) L'identification du diplôme le plus élevé obtenu par le jeune ; 
+
+b) La nature des activités exercées et la rémunération ; 
+
+c) La nature et la durée des actions d'orientation professionnelle prévues ; 
+
+d) Le nom et la qualification du tuteur ; 
+
+e) La durée hebdomadaire du travail. 
+
+Lors de la conclusion du contrat d'orientation, l'employeur remet à la personne concernée un document d'information sur les
+objectifs et le contenu des actions d'orientation professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Modifié par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-800 du 2 septembre 2013 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D711-12 (VT)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. D711-9
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D712-9 (T)
+
+
+###### Article D711-11
+
+Pendant la durée du contrat, l'employeur est tenu de faire participer le titulaire du contrat d'orientation à des actions
+d'orientation et de désigner un tuteur chargé du suivi de ce salarié et de la coordination avec l'organisme chargé de la mise
+en oeuvre de ces actions. 
+
+Ces actions d'orientation doivent avoir pour objet de favoriser, par une première expérience en entreprise et l'élaboration
+d'un projet professionnel, l'orientation des titulaires de contrats d'orientation en vue de leur permettre, à terme, soit
+d'accéder directement à un emploi, soit d'acquérir une qualification, notamment par la voie d'un contrat d'apprentissage ou
+d'un contrat de qualification. 
+
+Elles peuvent consister en des actions de mise à niveau, de connaissance de l'entreprise et de ses métiers, de bilan de
+compétences et d'évaluation des acquis, de construction de projet professionnel, de recherche active d'emploi. 
+
+Ces actions doivent être au minimum d'une durée égale à 25 % de la durée du contrat. 
+
+Ces actions sont réalisées pour un minimum de 75 % de leur durée dans les organismes avec lesquels la convention mentionnée à
+l'article D. 711-9 a été conclue. 
+
+Ces durées peuvent être modifiées par voie d'accord de branche ou interprofessionnel étendu.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Modifié par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-800 du 2 septembre 2013 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D711-12 (VT)
+	  - Code du travail applicable à Mayotte. - art. D711-9 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D712-10 (T)
+
+
+###### Article D711-12
+
+L'employeur est tenu de déposer à la direction du travail, de l'emploi et de la formation professionnelle de Mayotte, dès la
+conclusion du contrat, un dossier composé des pièces suivantes : 
+
+1° Le contrat de travail accompagné du document d'information mentionné à l'article D. 711-10.
+
+2° La copie de la convention conclue avec le ou les organismes chargés de mettre en oeuvre les actions d'orientation
+professionnelle définies à l'article D. 711-11. 
+
+Le directeur du travail, de l'emploi et de la formation professionnelle de Mayotte s'assure que le contrat et la convention
+sont conformes aux dispositions législatives, réglementaires ou conventionnelles qui régissent le contrat d'orientation et
+que les conditions de travail, d'hygiène et de sécurité dans l'entreprise sont compatibles avec le déroulement d'un contrat
+d'orientation. 
+
+Si l'administration n'a pas fait connaître ses observations dans un délai d'un mois à compter de la date du dépôt, le contrat
+est considéré comme conforme. 
+
+L'intéressé qui entend contester la décision de refus d'enregistrement doit, préalablement à tout recours contentieux, former
+un recours devant le ministre chargé du travail. Ce recours doit être formé dans un délai d'un mois à compter de la
+notification de la décision.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Modifié par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-800 du 2 septembre 2013 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. D711-10
+	  - Code du travail applicable à Mayotte. - art. D711-11
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D712-11 (T)
+
+
+###### Article D711-13
+
+Les cotisations dont l'employeur a été exonéré avant la notification de la décision prévue à l'article R. 711-1 doivent être
+versées au plus tard en même temps que les cotisations dues au titre de la première paie suivant la date de la notification.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-800 du 2 septembre 2013 - art. 1
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D712-12 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D712-13 (T)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R711-1
+
+
+###### Article D711-14
+
+Pour chaque personne titulaire d'un contrat de qualification ou d'orientation, l'employeur, à moins qu'il n'assure lui-même
+le tutorat, choisit un tuteur, avec son accord, parmi les salariés qualifiés de l'entreprise justifiant d'une expérience
+professionnelle d'au moins deux ans, en tenant compte de son niveau de qualification et de l'objectif à atteindre.
+
+Le tuteur a pour mission d'accueillir, d'aider, d'informer et de guider le jeune pendant la durée du contrat et de veiller au
+respect de son emploi du temps. Il assure la liaison avec le ou les organismes chargés de mettre en oeuvre les actions
+d'orientation, de qualification ou d'adaptation et participe à l'évaluation du jeune. L'employeur lui permet de disposer du
+temps nécessaire pour exercer ses fonctions.
+
+Le tuteur ne peut exercer simultanément ses fonctions à l'égard de plus de trois salariés titulaires des contrats visés au
+premier alinéa ci-dessus ou de contrats d'apprentissage. L'employeur ne peut assurer simultanément le tutorat à l'égard de
+plus de deux salariés titulaires de tels contrats.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-800 du 2 septembre 2013 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D711-16 (VT)
+	  - Code du travail applicable à Mayotte. - art. D711-3 (V)
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D712-13 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D712-14 (T)
+
+
+###### Article D711-15
+
+Lorsqu'un contrat de qualification ou d'orientation est rompu avant son terme, l'employeur signale cette rupture :
+
+a) Au directeur du travail, de l'emploi et de la formation professionnelle de Mayotte ;
+
+b) Le cas échéant, à l'organisme paritaire collecteur agréé ayant pris en charge les dépenses liées aux actions de
+formation ;
+
+c) Lorsque le contrat ouvre droit à une exonération de cotisations, à l'organisme chargé du recouvrement des cotisations de
+sécurité sociale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-800 du 2 septembre 2013 - art. 1
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D712-14 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D712-15 (T)
+
+
+###### Article D711-16
+
+Les ressources de l'organisme paritaire prévu à l'article L. 711-1 peuvent être destinées : 
+
+a) Au financement des dépenses de formation des bénéficiaires des contrats de qualification prévus à l'article L. 711-5 ; 
+
+b) Au financement des actions d'évaluation des bénéficiaires des contrats d'orientation prévus à l'article L. 711-7 ; 
+
+c) Aux dépenses exposées à l'occasion de la formation des tuteurs telle que prévue à l'article D. 711-14 ; 
+
+d) Au financement des dépenses liées à l'exercice par les tuteurs des missions suivantes :
+
+- accueillir, aider, informer et guider les personnes visées au présent chapitre ;
+
+- initier ces personnes aux différentes activités de l'entreprise ;
+
+- contribuer à l'acquisition par ces personnes des savoir-faire professionnels ;
+
+- organiser avec les salariés concernés l'activité de ces personnes dans l'entreprise ;
+
+- assurer, le cas échéant, la liaison avec les organismes chargés de la formation, du bilan ou de l'orientation
+professionnelle, ou de l'accompagnement de la personne à l'extérieur de l'entreprise. 
+
+Un arrêté du représentant de l'Etat à Mayotte définit l'assiette de prise en charge ainsi que les modalités de la
+participation de l'organisme paritaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Modifié par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-800 du 2 septembre 2013 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. D711-14
+	  - Code du travail applicable à Mayotte. - art. L711-1
+	  - Code du travail applicable à Mayotte. - art. L711-5
+	  - Code du travail applicable à Mayotte. - art. L711-7
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D712-15 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D712-16 (T)
+
+
+###### Article D711-17
+
+Lorsqu'ils existent, les délégués du personnel sont consultés sur les effectifs des personnes ayant conclu avec l'entreprise
+des contrats d'orientation et des contrats d'adaptation, leur âge, leur sexe, leur niveau initial de formation, sur les
+conditions dans lesquelles se dérouleront les contrats, ainsi que les résultats obtenus en fin de contrat et leurs conditions
+d'appréciation et de validation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-800 du 2 septembre 2013 - art. 1
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D712-16 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D712-17 (T)
+
+
+###### Article D711-18
+
+L'exonération des cotisations à la charge de l'employeur dues au titre des assurances sociales, des accidents du travail et
+des allocations familiales afférentes à la rémunération des titulaires de contrats de qualification porte sur la partie du
+salaire n'excédant pas le salaire minimum interprofessionnel garanti.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-800 du 2 septembre 2013 - art. 1
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D712-17 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D712-18 (T)
+
 
 ###### Article R711-1
 
@@ -65826,1726 +68602,23 @@ distincte ces activités.
 	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
 
 
+# Partie réglementaire
+
+## LIVRE Ier : Conventions relatives au travail
+
+## LIVRE II : Réglementation du travail
+
+## LIVRE III : Emploi
+
+## LIVRE IV : Les groupements professionnels - La représentation des salariés
+
+## LIVRE V : Conflits du travail
+
+## LIVRE VI : Contrôle de l'application de la législation et de la réglementation du travail
+
+## LIVRE VII : Formation professionnelle
+
 # Partie réglementaire  - Décrets simples
-
-## Livre 1er : Conventions relatives au travail
-
-### Titre 4 : Salaire
-
-#### Chapitre 1er : Salaire minimum interprofessionnel garanti *SMIG*
-
-##### Section 1 : Dispositions générales
-
-###### Article D141-1
-
-Les salariés de l'un ou l'autre sexe et d'aptitude physique normale, à l'exception de ceux qui sont liés par un contrat
-d'apprentissage, reçoivent de leurs employeurs, lorsque leur salaire horaire contractuel est devenu inférieur au salaire
-minimum interprofessionnel garanti en vigueur, un complément calculé de façon à porter leur rémunération au montant dudit
-salaire minimum interprofessionnel garanti, sous réserve, pour les salariés de moins de dix-huit ans, des dispositions de
-l'article R. 141-1.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du travail applicable dans la collectivité territoriale de Mayotte R141-1
-
-	**Codifié par**:
-
-	  - Décret n°92-238 du 9 mars 1992
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D141-2-1 (V)
-
-
-###### Article D141-2
-
-Le salaire horaire à prendre en considération pour l'application de l'article précédent est celui qui correspond à une heure
-de travail effectif, compte tenu des avantages en nature et des majorations diverses ayant le caractère de fait d'un
-complément de salaire, à l'exclusion des sommes versées à titre de remboursement de frais et des majorations pour heures
-supplémentaires prévues par la loi.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°92-238 1992-03-09 annexe
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D141-2-2 (V)
-
-	**Cite**:
-
-	  - Code du travail applicable à la collectivité territoriale de Mayotte D141-1
-
-
-##### Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement
-
-###### Article D141-3
-
-Les dispositions de la présente section sont applicables aux salariés autres que le personnel navigant de la marine marchande
-et les concierges et gens de maison, lorsque leur rémunération est, de manière habituelle, constituée, pour partie, par la
-fourniture de la nourriture et du logement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°92-238 1992-03-09 annexe
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D141-2-3 (V)
-
-
-###### Article D141-4
-
-Pour les salariés auxquels l'employeur fournit la nourriture en totalité ou en partie, le salaire minimum en espèces garanti
-est déterminé en déduisant du salaire minimum interprofessionnel garanti les sommes fixées par la convention ou accord
-collectifs. A défaut, la nourriture est évaluée par journée à un montant fixé par arrêté du représentant de l'Etat à Mayotte
-en fonction de l'évolution de la rémunération horaire minimale interprofessionnelle garantie fixée à l'article L. 141-2,
-après avis de la commission consultative du travail.
-
-**Nota:**
-
-Code du travail applicable à la collectivité territoriale de Mayotte art. D141-3 : les dispositions de la présente section
-sont applicables aux salariés autres que le personnel navigant de la marine marchande et les concierges et gens de maison,
-lorsque leur rémunération est, de manière habituelle, constituée, pour partie, par la fourniture de la nourriture et du
-logement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du travail applicable dans la collectivité territoriale de Mayotte L141-2
-
-	**Codifié par**:
-
-	  - Décret n°92-238 du 9 mars 1992
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D141-2-4 (V)
-
-
-###### Article D141-5
-
-Pour le personnel des hôtels, cafés, restaurants et des établissements ou organismes dans lesquels des denrées alimentaires
-ou des boissons sont consommées sur place et pour le personnel de cuisine des autres établissements qui, en raison des
-conditions particulières de leur travail ou des usages, sont nourris gratuitement par l'employeur ou reçoivent une indemnité
-compensatrice, la nourriture, calculée conformément aux dispositions de l'article D. 141-4, n'entre en compte que pour la
-moitié de sa valeur.
-
-**Nota:**
-
-Code du travail applicable à la collectivité territoriale de Mayotte art. D141-3 : les dispositions de la présente section
-sont applicables aux salariés autres que le personnel navigant de la marine marchande et les concierges et gens de maison,
-lorsque leur rémunération est, de manière habituelle, constituée, pour partie, par la fourniture de la nourriture et du
-logement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du travail applicable dans la collectivité territoriale de Mayotte D141-4
-
-	**Codifié par**:
-
-	  - Décret n°92-238 du 9 mars 1992
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D141-2-5 (V)
-
-
-###### Article D141-6
-
-Pour les salariés auxquels l'employeur fournit le logement, cette prestation en nature est évaluée, à défaut de convention ou
-d'accord collectifs, à un montant fixé par arrêté du représentant de l'Etat à Mayotte, après avis de la commission
-consultative du travail.
-
-Les avantages en nature autres que la nourriture ou le logement sont évalués d'après leur valeur réelle, au prix de revient
-pour l'employeur.
-
-Pour le calcul du salaire minimum interprofessionnel garanti en espèces, les sommes correspondant aux avantages ci-dessus
-sont déduites du salaire minimum interprofessionnel garanti.
-
-**Nota:**
-
-Code du travail applicable à la collectivité territoriale de Mayotte art. D141-3 : les dispositions de la présente section
-sont applicables aux salariés autres que le personnel navigant de la marine marchande et les concierges et gens de maison,
-lorsque leur rémunération est, de manière habituelle, constituée, pour partie, par la fourniture de la nourriture et du
-logement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°92-238 du 9 mars 1992
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D141-2-6 (V)
-
-
-###### Article D141-7
-
-Dans tous les cas où le salarié, logé et nourri, perçoit une rémunération en espèces supérieure au minimum résultant des
-dispositions de la présente section, l'application desdites dispositions n'entraîne aucune modification de cette
-rémunération.
-
-**Nota:**
-
-Code du travail applicable à la collectivité territoriale de Mayotte art. D141-3 : les dispositions de la présente section
-sont applicables aux salariés autres que le personnel navigant de la marine marchande et les concierges et gens de maison,
-lorsque leur rémunération est, de manière habituelle, constituée, pour partie, par la fourniture de la nourriture et du
-logement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°92-238 du 9 mars 1992
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D141-2-7 (V)
-
-
-## Livre 2 : Réglementation du travail
-
-### Titre 1er : Conditions de travail
-
-#### Chapitre 1er : Age d'admission
-
-###### Article D211-1
-
-La durée du travail des mineurs de seize ans dont l'emploi est autorisé pendant les vacances scolaires conformément aux
-dispositions de l'alinéa 4 de l'article L. 211-1 et à celles des arrêtés du représentant de l'Etat fixant ses modalités
-d'application ne peut, en aucun cas, excéder trente-neuf heures par semaine, ni huit heures par jour.
-
-Leur rémunération ne peut être inférieure au salaire minimum interprofessionnel garanti, compte tenu d'un abattement au plus
-égal à 20 p. 100.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du travail applicable dans la collectivité territoriale de Mayotte L211-1
-
-	**Codifié par**:
-
-	  - Décret n°92-238 1992-03-09 annexe
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-
-###### Article D211-2
-
-Tout chef d'entreprise qui se propose d'occuper un mineur de seize ans pendant la période des vacances scolaires doit en
-faire par écrit la demande à l'inspecteur du travail dans un délai de quinze jours au moins précédant la date prévue pour
-l'embauchage.
-
-Cette demande indique les nom, prénoms, âge et domicile de l'enfant, la durée du contrat, le lieu d'emploi, la nature et les
-conditions de travail auxquels il est envisagé de l'occuper. Elle précise notamment l'horaire de travail et le montant de la
-rémunération. Elle doit porter l'accord écrit et signé du représentant légal de l'enfant.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°92-238 1992-03-09 annexe
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-
-###### Article D211-3
-
-Si l'inspecteur du travail n'a pas manifesté son opposition motivée à l'embauchage dans un délai de huit jours francs à
-compter de l'expédition de la demande, le cachet de la poste faisant foi, l'autorisation est réputée accordée.
-
-Si, dans ce même délai, l'inspecteur du travail a fait connaître qu'il subordonnait son autorisation à une ou plusieurs
-modifications ou adjonctions dans le libellé de la demande, cette décision vaut autorisation d'embauchage, sous réserve que
-l'employeur respecte, dans l'exécution du contrat, les obligations résultant des modifications ou adjonctions requises.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°92-238 1992-03-09 annexe
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-
-###### Article D211-4
-
-L'autorisation d'emploi peut être retirée à tout moment s'il est constaté que l'enfant est occupé soit dans des conditions
-non conformes à celles au respect desquelles l'octroi de l'autorisation a été subordonné, soit en contravention aux textes
-relatifs à la réglementation du travail, et notamment à ceux qui protègent la main-d'oeuvre juvénile.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°92-238 1992-03-09 annexe
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-
-#### Chapitre 2 : Durée du travail
-
-##### Section 1 : Récupération des heures perdues
-
-###### Article D212-1
-
-Les heures perdues dans les cas prévus à l'article L. 212-3 ne peuvent être récupérées que dans les douze mois précédant ou
-suivant leur perte.
-
-L'inspecteur du travail est préalablement informé par le chef d'établissement des interruptions collectives de travail et des
-modalités de la récupération. Toutefois, si le travail est interrompu par un événement imprévu, l'avis est donné
-immédiatement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du travail applicable dans la collectivité territoriale de Mayotte L212-3
-
-	**Codifié par**:
-
-	  - Décret n°92-238 du 9 mars 1992
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D212-4 (V)
-
-
-###### Article D212-2
-
-Les heures de récupération ne peuvent être réparties uniformément sur toute l'année.
-
-Sauf dispositions plus larges des arrêtés pris en application de l'article L. 212-2, elles ne peuvent augmenter la durée
-générale du travail de l'établissement ou de la partie d'établissement de plus d'une heure par jour ni de plus de huit heures
-par semaine.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du travail applicable dans la collectivité territoriale de Mayotte L212-2
-
-	**Codifié par**:
-
-	  - Décret n°92-238 du 9 mars 1992
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D212-5 (V)
-
-
-###### Article D212-3
-
-Le chef d'établissement ne peut débaucher pour manque de travail dans le délai d'un mois suivant une période de récupération
-le personnel habituellement employé dans les établissements ou partie d'établissement où ont été effectuées ces heures de
-récupération. Cette disposition ne s'applique pas aux salariés embauchés temporairement pour faire face au surcroît
-extraordinaire de travail.
-
-Le chef d'établissement qui n'a pas respecté les dispositions de l'alinéa précédent se voit retirer le bénéfice de la
-récupération des heures perdues et de l'utilisation des heures supplémentaires qui auraient été autorisées pour surcroît
-extraordinaire de travail. La durée du retrait ne peut excéder un an.
-
-Certaines industries ou certains établissements peuvent être autorisés à déroger aux règles fixées par le présent article.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°92-238 1992-03-09 annexe
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D212-6 (V)
-
-
-###### Article D212-4
-
-La faculté de récupération est, en cas de chômage extraordinaire et prolongé survenant dans une catégorie professionnelle,
-suspendue pour cette catégorie.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°92-238 1992-03-09 annexe
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D212-7 (V)
-
-
-###### Article D212-5
-
-Les décisions visées aux alinéas 2 et 3 de l'article D. 212-3 et à l'article D. 212-4 sont prises par arrêté du représentant
-de l'Etat à Mayotte, sur rapport du directeur du travail, de l'emploi et de la formation professionnelle.
-
-La commission consultative du travail est préalablement consultée dans les cas visés au troisième alinéa de l'article D.
-212-3 et à l'article D. 212-4.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du travail applicable dans la collectivité territoriale de Mayotte D212-3, D212-4
-
-	**Codifié par**:
-
-	  - Décret n°92-238 1992-03-09 annexe
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D212-8 (V)
-
-
-### Titre 2 : Repos et congés
-
-#### Chapitre 3 : Congés annuels
-
-###### Article D223-1
-
-L'employeur qui occupe pendant la période fixée pour son congé légal un salarié à un travail rémunéré, même en dehors de
-l'entreprise, est considéré comme ne donnant pas le congé légal.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°92-238 1992-03-09 annexe
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D223-2 (V)
-
-
-###### Article D223-2
-
-La période ordinaire des vacances doit dans tous les cas être portée par l'employeur à la connaissance du personnel au moins
-deux mois avant l'ouverture de cette période.
-
-L'ordre des départs est communiqué à chaque ayant droit quinze jours avant son départ et affiché dans les ateliers, bureaux
-et magasins. Il est fixé par l'employeur, après consultation du personnel ou de ses délégués, en tenant compte de la
-situation de famille des bénéficiaires et de la durée de leurs services dans l'établissement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°92-238 1992-03-09 annexe
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. D223-1 (V)
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D223-3 (T)
-
-
-###### Article D223-3
-
-Ne peuvent être déduits du congé annuel les jours de maladie, les repos des femmes en couches prévus par l'article L. 122-48,
-les périodes obligatoires d'instruction militaire, les jours de chômage, les périodes de délai-congé, les absences
-autorisées.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-48
-
-	**Codifié par**:
-
-	  - Décret n°92-238 1992-03-09 annexe
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D223-4 (V)
-
-
-###### Article D223-4
-
-Le paiement des indemnités dues pour les congés payés est soumis aux règles qui sont fixées par le livre Ier du présent code
-pour le paiement des salaires et traitements.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°92-238 1992-03-09 annexe
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D223-5 (V)
-
-
-### Titre 3 : Hygiène et sécurité
-
-#### Chapitre 3 : Sécurité.
-
-###### Article D233-1
-
-Sont soumis aux dispositions de l'article L. 233-6 :
-
-1° Les éléments de machines comportant des organes de commande et de transmission tels que volants, engrenages, cônes ou
-cylindres de friction, cames, courroies, poulies, chaînes, pignons, vis sans fin, bielles, coulisseaux, arbres, existant en
-propre sur les machines de toute nature mues mécaniquement, exception faite des organes destinés à l'accouplement avec une
-autre machine ou à la réception de l'énergie mécanique ;
-
-2° Les éléments de machines comportant des pièces accessibles faisant saillie sur les parties en mouvement de ces machines
-telles que vis d'arrêt, boulons, clavettes, bossages, nervures ;
-
-3° Les autres éléments, notamment les dispositifs de protection amovibles, des machines mentionnées par des décisions
-générales du ministre chargé du travail, publiées au Journal officiel de la République française.
-
-Ces décisions sont prises après consultation des organisations professionnelles intéressées et après avis de la commission
-d'homologation prévue à l'article D. 233-2.
-
-Chaque décision prise pour une catégorie de machines détermine les principes de sécurité auxquels ces machines doivent
-satisfaire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°92-238 du 9 mars 1992
-
-	**Créé par**:
-
-	  - Décret n°2006-1314 du 24 octobre 2006 - art. 1 () JORF 27 octobre 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. D233-2
-	  - Code du travail applicable à Mayotte. - art. L233-6
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. D233-3 (T)
-	  - Code du travail applicable à Mayotte. - art. D233-4 (T)
-	  - Code du travail applicable à Mayotte. - art. D233-5 (T)
-	  - Code du travail applicable à Mayotte. - art. D233-8 (T)
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D233-80-1 (V)
-
-
-###### Article D233-2
-
-Une commission d'homologation des dispositifs de sécurité, dont la composition et les modalités de fonctionnement sont fixées
-par arrêté ministériel, est instituée auprès du ministre chargé du travail.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°92-238 1992-03-09 annexe
-
-	**Créé par**:
-
-	  - Décret n°2006-1314 du 24 octobre 2006 - art. 1 () JORF 27 octobre 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. D233-1 (T)
-	  - Code du travail applicable à Mayotte. - art. D233-4 (T)
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D233-80-2 (V)
-
-
-###### Article D233-3
-
-Les éléments de machines mentionnés aux 1° et 2° de l'article D. 233-1 sont conçus ou protégés de façon à prévenir tout
-danger en utilisation normale, et notamment à empêcher les travailleurs d'entrer involontairement en contact avec ceux de ces
-éléments qui sont en mouvement.
-
-En cas d'impossibilité technique ou d'absence de danger pour l'opérateur dans les conditions normales de travail, des
-dérogations aux dispositions de l'alinéa précédent peuvent être accordées par arrêté du ministre chargé du travail après avis
-de la commission d'homologation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°92-238 du 9 mars 1992
-
-	**Créé par**:
-
-	  - Décret n°2006-1314 du 24 octobre 2006 - art. 1 () JORF 27 octobre 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. D233-1
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. D233-8 (T)
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D233-80-3 (V)
-
-
-###### Article D233-4
-
-Pour les éléments de machines et les dispositifs de protection amovibles mentionnés au 3° de l'article D. 233-1, l'efficacité
-de la protection est reconnue par la commission d'homologation suivant la procédure fixée par l'arrêté prévu par l'article D.
-233-2.
-
-Les demandes d'homologation sont adressées au ministre chargé du travail.
-
-A l'appui de la demande d'homologation doivent être fournis :
-
-1° Les documents et renseignements permettant de vérifier la conformité de la machine ou du dispositif de protection amovible
-aux prescriptions des décisions générales prévues par l'article D. 233-1 ;
-
-2° Une notice d'instructions précisant notamment les mesures de sécurité à prendre lors de la manutention, l'installation,
-l'utilisation, l'entretien de la machine et de ses dispositifs de protection.
-
-Cette notice doit également comporter les plans et les schémas nécessaires aux opérations d'entretien et aux vérifications
-techniques de la machine ;
-
-3° Une notice relative au montage, au réglage et au mode d'emploi des dispositifs de protection ; elle peut être incluse dans
-la notice d'instructions visée au 2°.
-
-Tous ces documents doivent être rédigés en français.
-
-Ces documents ne peuvent être communiqués à des personnes étrangères à la commission d'homologation sans autorisation
-expresse du déposant.
-
-Il peut être, en outre, demandé de mettre tous éléments d'information à la disposition du ministre chargé du travail et de
-faire procéder à tous essais que la commission d'homologation juge nécessaires pour se prononcer.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°92-238 du 9 mars 1992
-
-	**Créé par**:
-
-	  - Décret n°2006-1314 du 24 octobre 2006 - art. 1 () JORF 27 octobre 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. D233-1
-	  - Code du travail applicable à Mayotte. - art. D233-2
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. D233-7 (T)
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D233-80-4 (V)
-
-
-###### Article D233-5
-
-Les décisions générales du ministre chargé du travail prévues au 3° de l'article D. 233-1 fixent la date à partir de laquelle
-s'applique aux machines et dispositifs de protection amovibles auxquels ces décisions se rapportent l'interdiction de
-l'exposition, de la mise en vente, de la vente ou de la location.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°92-238 du 9 mars 1992
-
-	**Créé par**:
-
-	  - Décret n°2006-1314 du 24 octobre 2006 - art. 1 () JORF 27 octobre 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. D233-1
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. D233-7 (T)
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D233-80-5 (V)
-
-
-###### Article D233-6
-
-Les avis de la commission sur les demandes individuelles d'homologation sont approuvés par des décisions du ministre chargé
-du travail, publiées au Journal officiel de la République française.
-
-Ces décisions peuvent accorder des homologations :
-
-1° Soit définitives lorsque les machines ou les dispositifs de protection amovibles satisfont aux principes de sécurité de la
-décision générale et ont été mises en service effectif depuis au moins un an ;
-
-2° Soit théoriques ou de principe lorsque les machines ou les dispositifs de protection amovibles à l'état de plans ou de
-prototypes satisfont aux principes de sécurité de la décision générale ;
-
-3° Soit provisoires lorsque les machines ou dispositifs de protection amovibles ne satisfont pas complètement aux principes
-de sécurité de la décision générale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°92-238 1992-03-09 annexe
-
-	**Créé par**:
-
-	  - Décret n°2006-1314 du 24 octobre 2006 - art. 1 () JORF 27 octobre 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D233-80-6 (V)
-
-
-###### Article D233-7
-
-A compter de la date prévue à l'article D. 233-5, le vendeur ou le bailleur est tenu de délivrer au preneur :
-
-1° Une attestation de conformité de la machine ou du dispositif amovible vendu ou loué avec le modèle qui a été homologué, en
-se référant à la décision individuelle d'homologation. La forme de cette attestation est fixée par arrêté du ministre chargé
-du travail ;
-
-2° La notice d'instructions mentionné au 2° de l'article D. 233-4 ;
-
-3° La notice relative au montage, au réglage et au mode d'emploi des dispositifs de protection mentionnée au 3° de l'article
-D. 233-4.
-
-En outre, le vendeur ou le bailleur doit :
-
-1° Faire figurer sur la machine ou le dispositif de protection amovible les indications suivantes permettant de
-l'identifier : nom du constructeur, année de fabrication, références relatives à l'immatriculation (numéro, lettre...) ;
-
-2° Fixer de manière apparente sur la machine ou le dispositif de protection amovible une plaque comportant les indications
-suivantes :
-
-Homologation (définitive, théorique, provisoire) accordée à la série... ou au type... par le ministère du travail sous le
-numéro...
-
-Les références visées aux 1 et 2 ci-dessus doivent être inscrites d'une manière durable et clairement lisible.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°92-238 du 9 mars 1992
-
-	**Créé par**:
-
-	  - Décret n°2006-1314 du 24 octobre 2006 - art. 1 () JORF 27 octobre 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. D233-4
-	  - Code du travail applicable à Mayotte. - art. D233-5
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D233-80-7 (V)
-
-
-###### Article D233-8
-
-Au cas où un dispositif de protection d'un élément de machine mentionné à l'alinéa 1 de l'article D. 233-3 se révélerait à
-l'usage inefficace ou dangereux, il pourrait, après avis de la commission d'homologation, être interdit par décision du
-ministre chargé du travail, publiée au Journal officiel de la République française.
-
-La décision individuelle d'homologation peut, après avis de la commission d'homologation, être rapportée par décision du
-ministre chargé du travail, publiée au Journal officiel de la République française :
-
-1° Au cas où, à l'usage, une machine se révélerait dangereuse ou un dispositif de protection inefficace ;
-
-2° Au cas où une machine ou un dispositif de protection s'avérerait non conforme au modèle homologué.
-
-En cas de modification d'une décision générale mentionnée au 3° de l'article D. 233-1, les homologations définitives
-accordées en application des dispositions antérieures qui se trouveraient être en contradiction avec les dispositions
-nouvelles deviennent caduques dans un délai déterminé par la nouvelle décision. Ce délai n'est en aucun cas inférieur à un
-an.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°92-238 du 9 mars 1992
-
-	**Créé par**:
-
-	  - Décret n°2006-1314 du 24 octobre 2006 - art. 1 () JORF 27 octobre 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. D233-1
-	  - Code du travail applicable à Mayotte. - art. D233-3
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D233-80-8 (V)
-
-
-###### Article D233-9
-
-Pour les machines d'occasion, des dérogations aux dispositions des articles précédents peuvent être accordées dans des
-conditions fixées par arrêté du ministre chargé du travail.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°92-238 1992-03-09 annexe
-
-	**Créé par**:
-
-	  - Décret n°2006-1314 du 24 octobre 2006 - art. 1 () JORF 27 octobre 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D233-80-9 (V)
-
-
-## Livre 3 : Emploi
-
-### Titre 1er : Déclarations de mouvements de main d'oeuvre - Travail clandestin
-
-#### Chapitre 2 : Travail clandestin
-
-###### Article D312-1
-
-Pour l'application des articles L. 312-1 et suivants, les droits et pouvoirs des inspecteurs du travail ou contrôleurs du
-travail tels qu'ils sont définis par le livre VI du présent code sont étendus à tous les établissements dont le chef exerce
-habituellement une profession industrielle, commerciale ou artisanale, même s'il s'agit d'établissements de famille ou
-d'établissements n'occupant pas de salariés.
-
-Les chefs de ces établissements doivent tenir à la disposition des inspecteurs du travail toutes justifications de leurs
-inscriptions soit au registre du commerce, soit au registre des métiers.
-
-D'autre part, les inspecteurs du travail ou les contrôleurs du travail peuvent se faire communiquer, par les chefs
-d'établissement soumis à leur contrôle, la liste des noms et adresses de tous les fournisseurs de ces établissements et, pour
-chacun de ces fournisseurs, une lettre ou tout autre document faisant mention de l'inscription au registre du commerce ou au
-registre des métiers.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du travail applicable dans la collectivité territoriale de Mayotte L312-1
-
-	**Codifié par**:
-
-	  - Décret n°92-238 du 9 mars 1992
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D312-9 (V)
-
-
-#### Chapitre 3 : Répression du travail illégal
-
-###### Article D313-1
-
-En application de l'article L. 313-3, l'autorité compétente peut refuser les aides publiques attachées aux dispositifs prévus
-par les articles L. 113-1, L. 322-2, L. 322-7, L. 323-2, L. 324-1, L. 325-2, L. 711-5 et L. 711-7 du présent code ainsi que
-les articles L. 1511-1 à L. 1511-5 du code général des collectivités territoriales.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-6 du 2 janvier 2008 - art. 1
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L1511-1
-	  - Code du travail applicable à Mayotte. - art. L113-1
-	  - Code du travail applicable à Mayotte. - art. L313-3
-	  - Code du travail applicable à Mayotte. - art. L322-2
-	  - Code du travail applicable à Mayotte. - art. L323-2
-	  - Code du travail applicable à Mayotte. - art. L324-1
-	  - Code du travail applicable à Mayotte. - art. L325-2
-	  - Code du travail applicable à Mayotte. - art. L711-5
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. D313-2 (V)
-
-
-###### Article D313-2
-
-Lorsqu'elle est saisie d'une demande du bénéfice d'une des aides mentionnées à l'article D. 313-1 par une personne verbalisée
-pour une infraction mentionnée à l'article L. 313-1, l'autorité compétente doit, avant toute décision de refus, informer
-celle-ci, par lettre recommandée avec demande d'avis de réception, qu'elle est passible de la sanction prévue par l'article
-L. 313-3 et qu'elle peut présenter ses observations écrites dans un délai de quinze jours.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-6 du 2 janvier 2008 - art. 1
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L313-1
-	  - Code du travail applicable à Mayotte. - art. L313-3
-
-
-### Titre 2 : Aides à l'emploi - Intervention du fonds national de l'emploi
-
-#### Chapitre 2 : Dispositions relatives au contrat unique d'insertion 
-
-##### Section 1 : Contrat d'accompagnement dans l'emploi
-
-##### Sous-section 1 : Aide financière et exonérations 
-
-
-
-
-##### Paragraphe 1 : Aide financière 
-
-
-###### Article D322-1
-
-Pour l'application de l'article L. 322-23, la participation mensuelle du Département au financement de l'aide est égale à 88
-% du montant forfaitaire mentionné au 2° de l'article L. 262-2 du code de l'action sociale et des familles, applicable à un
-foyer composé d'une seule personne, dans la limite de l'aide effectivement versée. 
-
-Toutefois, lorsque la convention individuelle de contrat d'accompagnement dans l'emploi prévoit une prise en charge de la
-durée hebdomadaire de travail égale à sept heures en application de la dérogation prévue à l'article L. 322-16, le taux de
-participation mensuelle du Département mentionné à l'alinéa précédent est réduit à 45 %.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2012-661 du 4 mai 2012 - art. 1
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D322-23-1 (V)
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L322-16
-	  - Code du travail applicable à Mayotte. - art. L322-23
-	  - Code de l'action sociale et des familles - art. L262-2
-
-
-##### Paragraphe 2 : Exonérations 
-
-
-
-###### Article D322-2
-
-Le montant de l'exonération prévue à l'article L. 322-24 est égal à celui des cotisations à la charge de l'employeur au titre
-du régime d'assurance maladie-maternité, du régime de base obligatoire pour les prestations familiales et du régime de
-retraite de base obligatoire de sécurité sociale applicables à Mayotte, correspondant à la fraction de la rémunération
-n'excédant pas le produit du salaire minimum interprofessionnel garanti par le nombre d'heures rémunérées, dans la limite de
-la durée légale du travail calculée sur le mois ou, si elle est inférieure, de la durée conventionnelle applicable dans
-l'établissement.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2012-661 du 4 mai 2012 - art. 1
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D322-30-1 (V)
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L322-24
-
-
-##### Sous-section 2 : Périodes d'immersion 
-
-
-
-
-
-
-###### Article D322-3
-
-La convention individuelle de contrat d'accompagnement dans l'emploi mentionnée à l'article L. 322-7 peut prévoir, dans sa
-rédaction initiale ou par avenant ad hoc, la possibilité pour le salarié de réaliser des périodes d'immersion auprès d'un ou
-de plusieurs autres employeurs.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2012-661 du 4 mai 2012 - art. 1
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D322-30-2 (V)
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L322-7
-
-
-###### Article D322-4
-
-Chaque période d'immersion fait l'objet d'un avenant écrit au contrat d'accompagnement dans l'emploi mentionné à l'article L.
-322-13. 
-
-Le cas échéant, cet avenant peut prévoir la possibilité de réaliser plusieurs périodes d'immersion auprès du même employeur. 
-
-Il comporte des clauses obligatoires définies par arrêté du ministre chargé de l'emploi. 
-
-Un salarié ne peut être sanctionné, licencié ou faire l'objet d'une mesure discriminatoire pour avoir refusé d'effectuer une
-période d'immersion ou pour avoir décidé d'y mettre fin.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2012-661 du 4 mai 2012 - art. 1
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D322-30-3 (V)
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L322-13
-
-
-###### Article D322-5
-
-La durée de chaque période d'immersion ne peut excéder un mois. 
-
-La durée cumulée de l'ensemble des périodes d'immersion effectuées au cours du contrat d'accompagnement dans l'emploi ne peut
-représenter plus de 25 % de la durée totale du contrat.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2012-661 du 4 mai 2012 - art. 1
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D322-30-4 (V)
-
-
-###### Article D322-6
-
-Chaque période d'immersion fait l'objet d'une convention de mise à disposition conclue à titre gratuit entre l'employeur du
-salarié sous contrat d'accompagnement dans l'emploi et l'employeur auprès duquel elle sera effectuée. Cette convention peut
-prévoir la possibilité d'effectuer plusieurs périodes d'immersion auprès d'un même employeur. 
-
-La convention de mise à disposition comporte notamment les indications suivantes : 
-
-1° La référence à l'article L. 322-6, qui autorise un prêt de main-d'œuvre à but non lucratif, et aux dispositions des titres
-Ier à V du livre II " Réglementation du travail ” ; 
-
-2° Les nom, prénom, adresse et date de naissance du salarié ; 
-
-3° La nature des activités faisant l'objet de la convention ; 
-
-4° Le lieu d'exécution, les horaires de travail, les dates de début et de fin de la période d'immersion ou, quand la
-convention le prévoit, des périodes d'immersion, et, en ce cas, les modalités de succession des périodes respectivement
-travaillées auprès de l'employeur et de l'employeur d'accueil ; 
-
-5° Les conditions et modalités de rupture anticipée de la mise à disposition par l'une ou l'autre des parties à la
-convention ; 
-
-6° La répartition des responsabilités, notamment en matière de formation à la sécurité et d'assurance contre le risque
-accidents du travail et maladies professionnelles, ainsi qu'en ce qui concerne l'exercice du pouvoir disciplinaire et des
-fonctions d'encadrement ; 
-
-7° Les objectifs visés par l'immersion, tels que la découverte de métiers, la confirmation du projet professionnel,
-l'acquisition d'expériences et de compétences professionnelles ou toute autre finalité à visée professionnelle, à préciser ; 
-
-8° Les modalités selon lesquelles la réalisation de ces objectifs est appréciée.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2012-661 du 4 mai 2012 - art. 1
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D322-30-5 (V)
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L322-6
-
-
-###### Article D322-7
-
-La convention de mise à disposition est transmise par l'employeur du salarié sous contrat d'accompagnement dans l'emploi,
-pour agrément, au plus tard deux mois avant la date prévue pour le début de la période : 
-
-1° Pour les contrats d'accompagnement dans l'emploi conclus pour le compte de l'Etat, à l'organisme mentionné au a du 1° de
-l'article L. 322-1 ; 
-
-2° Pour les contrats d'accompagnement dans l'emploi conclus pour le compte du Département, au conseil général ou à
-l'organisme mentionné à l'article L. 322-2.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2012-661 du 4 mai 2012 - art. 1
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D322-30-6 (V)
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. D322-8 (T)
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L322-1
-	  - Code du travail applicable à Mayotte. - art. L322-2
-
-
-###### Article D322-8
-
-L'organisme destinataire de la convention de mise à disposition désigné à l'article D. 322-7 transmet à l'Agence de services
-et de paiement un document dont le modèle est fixé par arrêté du ministre chargé de l'emploi, signalant chaque période
-d'immersion agréée et comportant les indications nécessaires au suivi statistique.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2012-661 du 4 mai 2012 - art. 1
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D322-30-7 (V)
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. D322-7
-
-
-##### Section 2 : Contrat initiative-emploi 
-
-
-
-
-###### Article D322-9
-
-Pour l'application de l'article L. 322-43, la participation mensuelle du Département au financement de l'aide est égale à 88
-% du montant forfaitaire mentionné au 2° de l'article L. 262-2 du code de l'action sociale et des familles, applicable à un
-foyer composé d'une seule personne, dans la limite du montant de l'aide effectivement versée.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2012-661 du 4 mai 2012 - art. 1
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D322-46-1 (V)
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L322-43
-	  - Code de l'action sociale et des familles - art. L262-2
-
-
-#### Chapitre 4 : Dispositions particulières relatives à l'emploi des jeunes - Projet initiative-jeune
-
-###### Article D324-9
-
-Le montant maximum de l'aide prévue au a de l'article L. 324-9 est de 7 320 Euros.
-
-Le montant maximum de l'aide mensuelle prévue au b de l'article L. 324-9 est de 305 Euros.
-
-Les frais liés à la formation peuvent faire l'objet d'une prise en charge forfaitaire d'un montant maximum de 762 Euros.
-Lorsque l'aide est destinée à la création d'entreprises, 15 % maximum de son montant est consacré à des actions de conseil ou
-de formation à la gestion d'entreprises.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du travail applicable dans la collectivité départementale de Mayotte L324-9
-
-	**Codifié par**:
-
-	  - Décret n°92-238 du 9 mars 1992
-
-	**Créé par**:
-
-	  - Décret n°2004-94 du 27 janvier 2004 - art. 1 () JORF 29 janvier 2004
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D324-2 (Ab)
-
-
-#### Chapitre 5 : Dispositions relatives à la création d'entreprises et à la création d'emplois - Aide à la création d'entreprises à l'initiative des demandeurs d'emploi
-
-###### Article D325-1
-
-I. - Le montant du plafond de l'aide à la création d'entreprises mentionnée à l'article L. 325-1 est fixé à 4 200 Euros.
-
-Le montant de l'aide accordée est apprécié, à la vue du dossier, en fonction de la réalité et de la viabilité juridique,
-économique, financière et technique du projet ainsi que de son intérêt pour le développement local de l'emploi.
-
-II. - Le chéquier-conseil est composé de six chèques d'un montant unitaire de 46 Euros pris en charge par l'Etat. Un chèque
-équivaut à une heure de conseil, l'heure de conseil ouvrant droit aux chèques-conseil est fixée à 61 Euros.
-
-III. - Toute personne qui retire un dossier de demande d'aide à la création d'entreprises et qui répond aux conditions fixées
-par l'article L. 235-1 peut demander le bénéfice d'un ou de deux chéquiers-conseil.
-
-Toute personne dont l'aide prévue à l'article L. 235-1 a été mandatée peut demander le bénéfice de chéquiers-conseil dans la
-limite de trois, déduction faite de ceux dont elle a déjà bénéficié avant la création de l'entreprise pour le même projet.
-
-IV. - Les chéquiers-conseil sont délivrés par la direction du travail, de l'emploi et de la formation professionnelle. Ils
-sont nominatifs. Ils ont une validité de trente-six mois à compter de la date de leur délivrance.
-
-V. - Les chèques représentant la contribution de l'Etat sont utilisés par les bénéficiaires auprès d'organismes habilités
-désignés par le représentant de l'Etat. La liste des organismes est actualisée tous les ans. Seront habilités les organismes
-qui, au préalable, auront adhéré à une convention type définissant les principes et modalités d'intervention, dont le modèle
-est arrêté par le représentant de l'Etat à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du travail applicable dans la collectivité départementale de Mayotte L325-1, L235-1
-
-	**Codifié par**:
-
-	  - Décret n°92-238 du 9 mars 1992
-
-	**Créé par**:
-
-	  - Décret n°2004-94 du 27 janvier 2004 - art. 2 () JORF 29 janvier 2004
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D325-1-1 (Ab)
-
-
-#### Chapitre 7 : Indemnisation du chômage
-
-##### Section 2 : Perte temporaire de salaire
-
-###### Article D327-10
-
-Le taux horaire de l'allocation spécifique pour privation partielle d'emploi prévu à l'article L. 327-10 est fixé à 1,5
-Euros.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du travail applicable dans la collectivité départementale de Mayotte L327-10
-
-	**Codifié par**:
-
-	  - Décret n°92-238 du 9 mars 1992
-
-	**Créé par**:
-
-	  - Décret n°2004-94 du 27 janvier 2004 - art. 3 () JORF 29 janvier 2004
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D321-12-1 (Ab)
-
-
-## Livre 4 : Les groupements professionnels - La représentation des salariés
-
-### Titre 4 : Les comités d'entreprise
-
-#### Chapitre 2 : Attributions et pouvoirs.
-
-###### Article D442-1
-
-Le rapport annuel mentionné à l'article L. 442-8 comporte des indicateurs qui doivent permettre la réalisation d'une analyse
-de la situation comparée des femmes et des hommes dans l'entreprise et de son évolution.
-
-Ces indicateurs comprennent des données chiffrées permettant de mesurer les écarts et, le cas échéant, des données
-explicatives sur les évolutions constatées ou à prévoir.
-
-Ces indicateurs sont les suivants :
-
-1. Conditions générales d'emploi
-
-Effectifs
-
-Données chiffrées par sexe :
-
-- répartition par catégorie professionnelle selon les différents contrats de travail ;
-
-- pyramide des âges par catégorie professionnelle.
-
-Durée et organisation du travail
-
-Données chiffrées par sexe :
-
-- répartition des effectifs selon la durée du travail : temps complet, temps partiel à 50 % ou égal à 50 % ;
-
-- répartition des effectifs selon l'organisation du travail :
-
-travail posté, travail de nuit, horaires variables, travail atypique dont travail durant le week-end.
-
-Données sur les congés
-
-Données chiffrées par sexe :
-
-- répartition par catégorie professionnelle selon :
-
-- le nombre et le type de congés dont la durée est supérieure à six mois.
-
-Données sur les embauches et les départs
-
-Données chiffrées par sexe :
-
-- répartition des embauches par catégorie professionnelle et type de contrat de travail ;
-
-- répartition des départs par catégorie professionnelle et motifs : retraite, démission, fin de contrat à durée déterminée,
-licenciement.
-
-Positionnement dans l'entreprise
-
-Données chiffrées par sexe :
-
-- répartition des effectifs selon les niveaux d'emplois définis par les grilles de classification au sens des conventions
-collectives ou des accords interprofessionnels.
-
-2. Promotions
-
-Données chiffrées par sexe :
-
-- répartition des promotions au regard des effectifs de la catégorie professionnelle concernée ;
-
-- nombre de promotions suite à une formation.
-
-3. Rémunérations
-
-Données chiffrées par sexe et selon les catégories d'emplois occupés au sens des grilles de classification ou des filières/
-métiers :
-
-- éventail des rémunérations ;
-
-- rémunération moyenne mensuelle ;
-
-- nombre de femmes dans les dix plus hautes rémunérations.
-
-4. Formation
-
-Données chiffrées par sexe :
-
-Répartition par catégorie professionnelle selon :
-
-- la participation aux actions de formation ;
-
-- la répartition par type d'action ;
-
-- le nombre moyen d'heures d'actions de formation.
-
-5. Conditions de travail
-
-Données générales par sexe :
-
-Répartition par poste de travail selon :
-
-- l'exposition à des risques professionnels ;
-
-- la pénibilité, dont le caractère répétitif des tâches.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°91-246 du 25 février 1991
-	  - Loi n°91-1379 du 28 décembre 1991
-
-	**Créé par**:
-
-	  - Décret n°2006-1314 du 24 octobre 2006 - art. 2 () JORF 27 octobre 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D442-22 (V)
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L442-8
-
-
-## Livre 5 : Conflits du travail
-
-### Titre 1er : Conflits collectifs
-
-#### Chapitre 4 : Médiation
-
-###### Article D514-1
-
-Il est alloué aux personnes désignées en qualité de médiateur, en application des articles L. 514-1, R. 514-1 ou R. 514-2,
-une indemnité forfaitaire pour chaque médiation dont le taux varie suivant l'importance du différend.
-
-L'indemnité allouée aux médiateurs comprend le remboursement des frais divers de secrétariat, de correspondance ou de
-déplacement à l'intérieur de leur résidence, nécessités par l'accomplissement de leur mission.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du travail applicable dans la collectivité territoriale de Mayotte L514-1, R514-1, R514-2
-
-	**Codifié par**:
-
-	  - Décret n°92-238 1992-03-09 annexe
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D514-7 (V)
-
-
-###### Article D514-2
-
-Les experts aux offices desquels les médiateurs peuvent avoir recours sont rémunérés à la vacation.
-
-Les personnes qualifiées qui prêtent leur concours aux médiateurs perçoivent une indemnité forfaitaire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°92-238 1992-03-09 annexe
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D514-8 (V)
-
-
-###### Article D514-3
-
-Le taux et les conditions d'attribution de l'indemnité forfaitaire prévue à l'article D. 514-1 ainsi que le taux et les
-conditions d'attribution des vacations et de l'indemnité forfaitaire prévues à l'article D. 514-2 sont fixés par arrêté du
-représentant de l'Etat à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du travail applicable dans la collectivité territoriale de Mayotte D514-1, D514-2
-
-	**Codifié par**:
-
-	  - Décret n°92-238 du 9 mars 1992
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D514-9 (V)
-
-
-###### Article D514-4
-
-Les dépenses de déplacement que les médiateurs, les experts et les personnes qualifiées peuvent être appelés à effectuer hors
-de leur résidence pour l'accomplissement de leur mission leur sont remboursées dans les conditions suivantes :
-
-- s'ils sont fonctionnaires en activité, ils perçoivent les indemnités prévues aux barèmes applicables au groupe auquel ils
-appartiennent ;
-
-- s'ils ne possèdent pas la qualité de fonctionnaire en activité, ils perçoivent les indemnités applicables aux
-fonctionnaires du groupe I.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°92-238 1992-03-09 annexe
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D514-10 (V)
-
 
 ## Livre 7 : De la formation professionnelle
 
@@ -67992,34 +69065,6 @@ notification de la décision.
 
 
 ### Chapitre 2 : Contrats de formation en alternance Section 3 : Dispositions communes aux contrats de qualification et d'orientation
-
-###### Article D712-12
-
-Les cotisations dont l'employeur a été exonéré avant la notification de la décision prévue à l'article R. 711-1 doivent être
-versées au plus tard en même temps que les cotisations dues au titre de la première paie suivant la date de la notification.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du travail applicable dans la collectivité départementale de Mayotte R711-1
-
-	**Codifié par**:
-
-	  - Décret n°92-238 1992-03-09 annexe
-
-	**Créé par**:
-
-	  - Décret n°2004-94 du 27 janvier 2004 - art. 4 () JORF 29 janvier 2004
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D711-13 (VT)
-
 
 ###### Article D712-13
 
