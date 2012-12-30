@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2012-11-01
+Version Consolidée au 2012-12-31
 
 # Partie législative
 
@@ -24968,6 +24968,63 @@ Ce temps peut être dépassé en cas de circonstances exceptionnelles.
 	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
 
 
+###### Article L414-39
+
+Dans les entreprises ou établissements où, en application des articles L. 414-28 et L. 414-29, sont désignés pour chaque
+section syndicale plusieurs délégués, ceux-ci peuvent répartir entre eux le temps dont ils disposent au titre de leur mandat
+de délégué syndical. Ils en informent l'employeur.
+
+**Nota:**
+
+Ordonnance n° 2012-792 du 7 juin 2012, article 9 : Les dispositions de l'article L. 414-39 du code du travail applicable à
+Mayotte relatives à la représentativité des organisations syndicales et à l'exercice du droit syndical s'appliquent à compter
+du résultat des premières élections professionnelles dans l'entreprise ou l'établissement pour lesquelles la date fixée pour
+la première réunion de la négociation du protocole d'accord préélectoral est postérieure au 31 décembre 2012 et au plus tard
+à compter de la deuxième mesure de l'audience organisée en application des articles L. 2122-5 à L. 2122-7, L. 2122-9 à L.
+2122-13 du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+	**Cité par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 9 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L414-29 (V)
+
+
+###### Article L414-40
+
+Le délégué syndical central prévu au premier alinéa de l'article L. 414-30 dispose de vingt heures par mois pour l'exercice
+de ses fonctions. 
+
+Ces heures s'ajoutent à celles dont il peut disposer à un titre autre que celui de délégué syndical d'établissement.
+
+**Nota:**
+
+Ordonnance n° 2012-792 du 7 juin 2012, article 9 : Les dispositions de l' article L. 414-40 du code du travail applicable à
+Mayotte relatives à la représentativité des organisations syndicales et à l'exercice du droit syndical s'appliquent à compter
+du résultat des premières élections professionnelles dans l'entreprise ou l'établissement pour lesquelles la date fixée pour
+la première réunion de la négociation du protocole d'accord préélectoral est postérieure au 31 décembre 2012 et au plus tard
+à compter de la deuxième mesure de l'audience organisée en application des articles L. 2122-5 à L. 2122-7, L. 2122-9 à L.
+2122-13 du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L414-30 (V)
+
+
 ###### Article L414-41
 
 Chaque section syndicale dispose, au profit de son ou ses délégués syndicaux et des salariés de l'entreprise appelés à
@@ -25065,6 +25122,56 @@ Le délégué syndical est, à ce titre, destinataire des informations fournies 
 	**Cité par**:
 
 	  - Code du travail applicable à Mayotte. - art. L414-60 (V)
+
+
+##### Sous-section 5 : Conditions de désignation dérogatoire 
+
+
+###### Article L414-47
+
+Par dérogation à l'article L. 414-14 et lorsqu'en raison d'une carence au premier tour des élections professionnelles un
+délégué syndical n'a pu être désigné au sein de l'entreprise ou de l'établissement ou lorsqu'il n'existe pas de délégué
+syndical dans l'entreprise ou l'établissement, le représentant de la section syndicale visé aux articles L. 414-14 et L.
+414-17 désigné par une organisation syndicale de salariés affiliée à une organisation syndicale représentative au niveau
+national et interprofessionnel peut disposer, sur mandatement par son organisation syndicale, du pouvoir de négocier et
+conclure un accord d'entreprise ou d'établissement. 
+
+Si, à l'issue des élections professionnelles suivant le mandatement du représentant de la section syndicale, l'organisation
+syndicale à laquelle il est adhérent n'est pas reconnue représentative et nomme un autre représentant de la section
+syndicale, celui-ci ne peut pas être mandaté jusqu'aux six mois précédant les dates des élections professionnelles dans
+l'entreprise. 
+
+En cas de faute grave, l'employeur peut prononcer la mise à pied immédiate de l'intéressé dans l'attente de la décision
+définitive. 
+
+Cette décision est, à peine de nullité, motivée et notifiée à l'inspecteur du travail dans le délai de quarante-huit heures à
+compter de sa prise d'effet. 
+
+Si le licenciement est refusé, la mise à pied est annulée et ses effets supprimés de plein droit.
+
+**Nota:**
+
+Ordonnance n° 2012-792 du 7 juin 2012, article 9 : Les dispositions de l'article L. 414-47 du code du travail applicable à
+Mayotte relatives à la représentativité des organisations syndicales et à l'exercice du droit syndical s'appliquent à compter
+du résultat des premières élections professionnelles dans l'entreprise ou l'établissement pour lesquelles la date fixée pour
+la première réunion de la négociation du protocole d'accord préélectoral est postérieure au 31 décembre 2012 et au plus tard
+à compter de la deuxième mesure de l'audience organisée en application des articles L. 2122-5 à L. 2122-7, L. 2122-9 à L.
+2122-13 du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+	**Cité par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 9 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L414-14 (VD)
+	  - Code du travail applicable à Mayotte. - art. L414-17 (VD)
 
 
 ##### Sous-section 6 : Protection du délégué syndical 
@@ -32765,7 +32872,7 @@ applicable à Mayotte " et la référence : " ordonnance n° 45-2339 du 13 octob
 	  - Code du travail - art. L7122-12
 
 
-# Partie réglementaire - Décrets en Conseil d'Etat
+# Partie réglementaire
 
 ## LIVRE Ier : Conventions relatives au travail
 
@@ -67162,8 +67269,6 @@ susceptibles d'être sanctionnées au titre des dispositions de cet article.
 
 ## LIVRE VII : Formation professionnelle
 
-### Chapitre 1er : Dispositions communes aux contrats de qualification et aux contrats d'orientation
-
 ### CHAPITRE Ier : Dispositions relatives aux contrats de qualification et aux contrats d'orientation
 
 ###### Article D711-2
@@ -68600,638 +68705,5 @@ distincte ces activités.
 	**Abrogé par**:
 
 	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
-
-
-# Partie réglementaire
-
-## LIVRE Ier : Conventions relatives au travail
-
-## LIVRE II : Réglementation du travail
-
-## LIVRE III : Emploi
-
-## LIVRE IV : Les groupements professionnels - La représentation des salariés
-
-## LIVRE V : Conflits du travail
-
-## LIVRE VI : Contrôle de l'application de la législation et de la réglementation du travail
-
-## LIVRE VII : Formation professionnelle
-
-# Partie réglementaire  - Décrets simples
-
-## Livre 7 : De la formation professionnelle
-
-### Chapitre Ier : Dispositions générales
-
-###### Article D711-1
-
-Chaque centre de formation d'apprentis organise chaque année une information sur le service civique créé par la 
-loi n° 2010-241 du 10 mars 2010
-relative au service civique.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°2010-241 du 10 mars 2010
-
-	**Créé par**:
-
-	  - Décret n°2010-1771 du 30 décembre 2010 - art. 3
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D111-1 (V)
-
-
-### Chapitre 2 : Contrats de formation en alternance Section 1 : Contrats de qualification
-
-###### Article D712-1
-
-Le contrat de qualification prévu à l'article L. 711-5 s'adresse aux personnes de moins de trente ans n'ayant pas acquis de
-qualification au cours de leur scolarité ou ayant acquis une qualification qui ne leur a pas permis d'obtenir un emploi.
-
-Les périodes en entreprises effectuées au titre de la scolarité ne peuvent pas donner lieu à la conclusion de contrats de
-qualification.
-
-Les actions de formation qui constituent des éléments de la formation initiale de jeunes gens sous statut scolaire ou
-universitaire ne peuvent faire l'objet d'un contrat de qualification ni donner lieu à la conclusion de conventions conclues
-en application des dispositions de l'article L. 711-6.
-
-Des actions de formation ne peuvent être mises en place par un organisme de formation ou un établissement d'enseignement dans
-le cadre d'un contrat de qualification qu'après signature d'une convention de formation conclue en application des
-dispositions de l'article L. 711-6.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du travail applicable dans la collectivité départementale de Mayotte L711-5, L711-6
-
-	**Codifié par**:
-
-	  - Décret n°92-238 du 9 mars 1992
-
-	**Créé par**:
-
-	  - Décret n°2004-94 du 27 janvier 2004 - art. 4 () JORF 29 janvier 2004
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D711-2 (VT)
-
-
-###### Article D712-2
-
-L'habilitation prévue à l'article L. 711-6 est subordonnée au dépôt d'un dossier qui comporte :
-
-1° Le texte de la convention mentionnée au deuxième alinéa de l'article L. 711-6, ou la justification de l'adhésion à un
-accord-cadre conclu dans les conditions prévues au même article.
-
-2° Lorsque l'entreprise ne relève pas d'un accord cadre, le compte rendu de la consultation des délégués du personnel, s'ils
-existent.
-
-3° L'indication du nombre de personnes susceptibles de bénéficier de contrats de qualification et de la durée de ceux-ci.
-
-4° La définition des emplois offerts à ces personnes.
-
-5° Le nom et la mention des qualifications professionnelles du ou des tuteurs, dont le choix, la qualification et la mission
-sont déterminés conformément aux dispositions de l'article D. 712-13.
-
-6° Le cas échéant, les références de l'entreprise en matière de formation professionnelle et, s'il y a lieu, la liste des
-titres ou diplômes homologués ou reconnus par une convention collective ou figurant sur une liste établie par le représentant
-de l'Etat à Mayotte en application des dispositions de l'article L. 711-5.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du travail applicable dans la collectivité départementale de Mayotte L711-6, D712-13, L711-5
-
-	**Codifié par**:
-
-	  - Décret n°92-238 du 9 mars 1992
-
-	**Créé par**:
-
-	  - Décret n°2004-94 du 27 janvier 2004 - art. 4 () JORF 29 janvier 2004
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D711-3 (VT)
-
-
-###### Article D712-3
-
-L'habilitation est accordée au vu du dossier prévu à l'article précédent et en tenant compte, en outre, des conditions de
-travail, d'hygiène et de sécurité dans l'entreprise.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°92-238 1992-03-09 annexe
-
-	**Créé par**:
-
-	  - Décret n°2004-94 du 27 janvier 2004 - art. 4 () JORF 29 janvier 2004
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D711-4 (VT)
-
-
-###### Article D712-4
-
-La demande d'habilitation accompagnée du dossier est adressée, par lettre recommandée avec accusé de réception, au
-représentant de l'Etat à Mayotte.
-
-L'habilitation est réputée acquise à défaut de décision de refus notifiée par représentant de l'Etat dans le mois qui suit la
-réception du dossier.
-
-L'habilitation peut être retirée par décision motivée du représentant de l'Etat à Mayotte prise après avis du comité de la
-formation professionnelle, de la promotion sociale et de l'emploi en cas de méconnaissance des dispositions des sections I et
-III du chapitre II du livre VII de la partie Législative du présent code ou des engagements pris en la matière par
-l'employeur.
-
-Si une entreprise habilitée désire conclure des contrats de qualification comportant des formations en alternance autres que
-celles qui font l'objet de l'habilitation, elle présente une nouvelle demande.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°92-238 du 9 mars 1992
-
-	**Créé par**:
-
-	  - Décret n°2004-94 du 27 janvier 2004 - art. 4 () JORF 29 janvier 2004
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D711-5 (VT)
-
-
-###### Article D712-5
-
-Lorsque la qualification est reconnue dans les classifications d'une convention collective, un document écrit, annexé au
-contrat, précise les caractéristiques de l'emploi, les objectifs, le programme et les conditions d'évaluation de la
-formation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°92-238 1992-03-09 annexe
-
-	**Créé par**:
-
-	  - Décret n°2004-94 du 27 janvier 2004 - art. 4 () JORF 29 janvier 2004
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D711-6 (VT)
-
-
-###### Article D712-6
-
-Le dépôt du contrat de qualification prévu à l'article L. 711-5 intervient au plus tard dans le mois qui suit le début du
-contrat.
-
-La direction du travail, de l'emploi et de la formation professionnelle de Mayotte s'assure que le contrat est conforme à la
-décision d'habilitation et aux dispositions législatives, réglementaires ou conventionnelles qui le régissent.
-
-Si l'administration n'a pas fait connaître ses observations dans le délai d'un mois à compter de la date du dépôt, le contrat
-est considéré comme conforme.
-
-L'intéressé qui entend contester la décision de refus d'enregistrement doit, préalablement à tout recours contentieux, former
-un recours devant le ministre chargé du travail. Ce recours doit être formé dans un délai d'un mois à compter de la
-notification de la décision.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du travail applicable dans la collectivité départementale de Mayotte L711-5
-
-	**Codifié par**:
-
-	  - Décret n°92-238 1992-03-09 annexe
-
-	**Créé par**:
-
-	  - Décret n°2004-94 du 27 janvier 2004 - art. 4 () JORF 29 janvier 2004
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D711-7 (VT)
-
-
-###### Article D712-7
-
-Lorsque la qualification n'est pas sanctionnée par un diplôme, elle donne lieu à une attestation écrite remise par
-l'employeur au titulaire du contrat de qualification. Dans le cas où la qualification est reconnue dans les classifications
-d'une convention collective, cette attestation est établie en liaison avec l'organisme de formation, dans les conditions
-prévues au contrat ; dans le cas où la qualification est définie par l'arrêté du représentant de l'Etat à Mayotte en
-application de l'article L. 711-5, cette attestation est établie dans les conditions prévues par ledit arrêté.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du travail applicable dans la collectivité départementale de Mayotte L711-5
-
-	**Codifié par**:
-
-	  - Décret n°92-238 du 9 mars 1992
-
-	**Créé par**:
-
-	  - Décret n°2004-94 du 27 janvier 2004 - art. 4 () JORF 29 janvier 2004
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D711-8 (VT)
-
-
-### Chapitre 2 : Contrats de formation en alternance Section 2 : Contrats d'orientation
-
-###### Article D712-8
-
-La conclusion d'un contrat d'orientation est subordonnée à la signature d'une convention conclue entre l'employeur et le ou
-les organismes chargés de mettre en oeuvre les actions d'orientation professionnelle définies à l'article D. 712-10.
-
-La convention doit préciser :
-
-a) La nature et la durée des actions d'orientation professionnelle prévues ;
-
-b) Les modalités d'organisation de ces actions ;
-
-c) Les modalités de la coordination entre le tuteur et l'organisme chargé de la mise en oeuvre de ces actions.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du travail applicable dans la collectivité départementale de Mayotte D712-10
-
-	**Codifié par**:
-
-	  - Décret n°92-238 1992-03-09 annexe
-
-	**Créé par**:
-
-	  - Décret n°2004-94 du 27 janvier 2004 - art. 4 () JORF 29 janvier 2004
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D711-9 (VT)
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. D712-9 (T)
-
-
-###### Article D712-9
-
-Le contrat d'orientation conclu entre le jeune et l'employeur après la signature de la convention mentionnée à l'article D.
-712-8 comporte notamment les mentions spécifiques suivantes :
-
-a) L'identification du diplôme le plus élevé obtenu par le jeune ;
-
-b) La nature des activités exercées et la rémunération ;
-
-c) La nature et la durée des actions d'orientation professionnelle prévues ;
-
-d) Le nom et la qualification du tuteur ;
-
-e) La durée hebdomadaire du travail.
-
-Lors de la conclusion du contrat d'orientation, l'employeur remet à la personne concernée un document d'information sur les
-objectifs et le contenu des actions d'orientation professionnelle.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du travail applicable dans la collectivité départementale de Mayotte D712-8
-
-	**Codifié par**:
-
-	  - Décret n°92-238 1992-03-09 annexe
-
-	**Créé par**:
-
-	  - Décret n°2004-94 du 27 janvier 2004 - art. 4 () JORF 29 janvier 2004
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D711-10 (VT)
-
-
-###### Article D712-10
-
-Pendant la durée du contrat, l'employeur est tenu de faire participer le titulaire du contrat d'orientation à des actions
-d'orientation et de désigner un tuteur chargé du suivi de ce salarié et de la coordination avec l'organisme chargé de la mise
-en oeuvre de ces actions.
-
-Ces actions d'orientation doivent avoir pour objet de favoriser, par une première expérience en entreprise et l'élaboration
-d'un projet professionnel, l'orientation des titulaires de contrats d'orientation en vue de leur permettre, à terme, soit
-d'accéder directement à un emploi, soit d'acquérir une qualification, notamment par la voie d'un contrat d'apprentissage ou
-d'un contrat de qualification.
-
-Elles peuvent consister en des actions de mise à niveau, de connaissance de l'entreprise et de ses métiers, de bilan de
-compétences et d'évaluation des acquis, de construction de projet professionnel, de recherche active d'emploi.
-
-Ces actions doivent être au minimum d'une durée égale à 25 % de la durée du contrat.
-
-Ces actions sont réalisées pour un minimum de 75 % de leur durée dans les organismes avec lesquels la convention mentionnée à
-l'article D. 712-8 a été conclue.
-
-Ces durées peuvent être modifiées par voie d'accord de branche ou interprofessionnel étendu.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du travail applicable dans la collectivité départementale de Mayotte D712-8
-
-	**Codifié par**:
-
-	  - Décret n°92-238 1992-03-09 annexe
-
-	**Créé par**:
-
-	  - Décret n°2004-94 du 27 janvier 2004 - art. 4 () JORF 29 janvier 2004
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D711-11 (VT)
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. D712-11 (T)
-	  - Code du travail applicable à Mayotte. - art. D712-8 (T)
-
-
-###### Article D712-11
-
-L'employeur est tenu de déposer à la direction du travail, de l'emploi et de la formation professionnelle de Mayotte, dès la
-conclusion du contrat, un dossier composé des pièces suivantes :
-
-1° Le contrat de travail accompagné du document d'information mentionné à l'article D. 712-9.
-
-2° La copie de la convention conclue avec le ou les organismes chargés de mettre en oeuvre les actions d'orientation
-professionnelle définies à l'article D. 712-10.
-
-Le directeur du travail, de l'emploi et de la formation professionnelle de Mayotte s'assure que le contrat et la convention
-sont conformes aux dispositions législatives, réglementaires ou conventionnelles qui régissent le contrat d'orientation et
-que les conditions de travail, d'hygiène et de sécurité dans l'entreprise sont compatibles avec le déroulement d'un contrat
-d'orientation.
-
-Si l'administration n'a pas fait connaître ses observations dans un délai d'un mois à compter de la date du dépôt, le contrat
-est considéré comme conforme.
-
-L'intéressé qui entend contester la décision de refus d'enregistrement doit, préalablement à tout recours contentieux, former
-un recours devant le ministre chargé du travail. Ce recours doit être formé dans un délai d'un mois à compter de la
-notification de la décision.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du travail applicable dans la collectivité départementale de Mayotte D712-9, D712-10
-
-	**Codifié par**:
-
-	  - Décret n°92-238 1992-03-09 annexe
-
-	**Créé par**:
-
-	  - Décret n°2004-94 du 27 janvier 2004 - art. 4 () JORF 29 janvier 2004
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D711-12 (VT)
-
-
-### Chapitre 2 : Contrats de formation en alternance Section 3 : Dispositions communes aux contrats de qualification et d'orientation
-
-###### Article D712-13
-
-Pour chaque personne titulaire d'un contrat de qualification ou d'orientation, l'employeur, à moins qu'il n'assure lui-même
-le tutorat, choisit un tuteur, avec son accord, parmi les salariés qualifiés de l'entreprise justifiant d'une expérience
-professionnelle d'au moins deux ans, en tenant compte de son niveau de qualification et de l'objectif à atteindre.
-
-Le tuteur a pour mission d'accueillir, d'aider, d'informer et de guider le jeune pendant la durée du contrat et de veiller au
-respect de son emploi du temps. Il assure la liaison avec le ou les organismes chargés de mettre en oeuvre les actions
-d'orientation, de qualification ou d'adaptation et participe à l'évaluation du jeune. L'employeur lui permet de disposer du
-temps nécessaire pour exercer ses fonctions.
-
-Le tuteur ne peut exercer simultanément ses fonctions à l'égard de plus de trois salariés titulaires des contrats visés au
-premier alinéa ci-dessus ou de contrats d'apprentissage. L'employeur ne peut assurer simultanément le tutorat à l'égard de
-plus de deux salariés titulaires de tels contrats.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°92-238 du 9 mars 1992
-
-	**Créé par**:
-
-	  - Décret n°2004-94 du 27 janvier 2004 - art. 4 () JORF 29 janvier 2004
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D711-14 (VT)
-
-
-###### Article D712-14
-
-Lorsqu'un contrat de qualification ou d'orientation est rompu avant son terme, l'employeur signale cette rupture :
-
-a) Au directeur du travail, de l'emploi et de la formation professionnelle de Mayotte ;
-
-b) Le cas échéant, à l'organisme paritaire collecteur agréé ayant pris en charge les dépenses liées aux actions de
-formation ;
-
-c) Lorsque le contrat ouvre droit à une exonération de cotisations, à l'organisme chargé du recouvrement des cotisations de
-sécurité sociale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°92-238 1992-03-09 annexe
-
-	**Créé par**:
-
-	  - Décret n°2004-94 du 27 janvier 2004 - art. 4 () JORF 29 janvier 2004
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D711-15 (VT)
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. D712-16 (T)
-
-
-###### Article D712-15
-
-Les ressources de l'organisme paritaire prévu à l'article L. 711-1 peuvent être destinées :
-
-a) Au financement des dépenses de formation des bénéficiaires des contrats de qualification prévus à l'article L. 711-5 ;
-
-b) Au financement des actions d'évaluation des bénéficiaires des contrats d'orientation prévus à l'article L. 711-7 ;
-
-c) Aux dépenses exposées à l'occasion de la formation des tuteurs telle que prévue à l'article D. 712-13 ;
-
-d) Au financement des dépenses liées à l'exercice par les tuteurs des missions suivantes :
-
-- accueillir, aider, informer et guider les personnes visées au présent chapitre ;
-
-- initier ces personnes aux différentes activités de l'entreprise ;
-
-- contribuer à l'acquisition par ces personnes des savoir-faire professionnels ;
-
-- organiser avec les salariés concernés l'activité de ces personnes dans l'entreprise ;
-
-- assurer, le cas échéant, la liaison avec les organismes chargés de la formation, du bilan ou de l'orientation
-professionnelle, ou de l'accompagnement de la personne à l'extérieur de l'entreprise.
-
-Un arrêté du représentant de l'Etat à Mayotte définit l'assiette de prise en charge ainsi que les modalités de la
-participation de l'organisme paritaire.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du travail applicable dans la collectivité départementale de Mayotte L711-1, L711-5, L711-7, D712-13
-
-	**Codifié par**:
-
-	  - Décret n°92-238 1992-03-09 annexe
-
-	**Créé par**:
-
-	  - Décret n°2004-94 du 27 janvier 2004 - art. 4 () JORF 29 janvier 2004
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D711-16 (VT)
-
-
-###### Article D712-16
-
-Lorsqu'ils existent, les délégués du personnel sont consultés sur les effectifs des personnes ayant conclu avec l'entreprise
-des contrats d'orientation et des contrats d'adaptation, leur âge, leur sexe, leur niveau initial de formation, sur les
-conditions dans lesquelles se dérouleront les contrats, ainsi que les résultats obtenus en fin de contrat et leurs conditions
-d'appréciation et de validation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°92-238 1992-03-09 annexe
-
-	**Créé par**:
-
-	  - Décret n°2004-94 du 27 janvier 2004 - art. 4 () JORF 29 janvier 2004
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D711-17 (VT)
-
-
-###### Article D712-17
-
-L'exonération des cotisations à la charge de l'employeur dues au titre des assurances sociales, des accidents du travail et
-des allocations familiales afférentes à la rémunération des titulaires de contrats de qualification porte sur la partie du
-salaire n'excédant pas le salaire minimum interprofessionnel garanti.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°92-238 1992-03-09 annexe
-
-	**Créé par**:
-
-	  - Décret n°2004-94 du 27 janvier 2004 - art. 4 () JORF 29 janvier 2004
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D711-18 (VT)
 
 
