@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2013-01-01
+Version Consolidée au 2013-01-18
 
 # Partie législative
 
@@ -60264,11 +60264,6 @@ caractère personnel  mentionné à l'article R. 5134-18 du code du travail.
 
 ##### Section 2 : Contrat d'accompagnement dans l'emploi 
 
-##### Sous-section 1 : Convention individuelle
-
-
-
-
 ##### Sous-section 1 : Aide à l'insertion professionnelle
 
 ###### Article R322-7
@@ -60990,8 +60985,6 @@ période d'immersion agréée et comportant les indications nécessaires au suiv
 
 ##### Section 3 : Contrat initiative-emploi 
 
-##### Sous-section 1 : Convention individuelle 
-
 ##### Sous-section 1 : Aide à l'insertion professionnelle
 
 ###### Article R322-31
@@ -61700,6 +61693,154 @@ officiel de la   République française le décret n° 2012-1210 du 31 octobre 2
 
 	  - Code du travail applicable à Mayotte. - art. R322-10
 	  - Code du travail applicable à Mayotte. - art. R322-34
+
+
+##### Section 5 : Emploi d'avenir professeur
+
+###### Article D322-67
+
+Le tutorat des étudiants recrutés sur des emplois d'avenir professeur est assuré par un enseignant désigné par le vice-
+recteur.
+
+Dans l'enseignement agricole, le directeur de l'alimentation, de l'agriculture et de la forêt désigne l'enseignant chargé du
+tutorat.
+
+L'enseignant suit et accompagne l'étudiant dans sa formation progressive au métier du professorat notamment en l'associant à
+la préparation et à la conduite de séquences d'enseignement, à la gestion de classe et au suivi des élèves.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-52 du 15 janvier 2013 - art. 2
+
+
+###### Article R322-60
+
+L'étudiant bénéficiaire d'un emploi d'avenir professeur doit posséder la qualité de boursier de l'enseignement supérieur au
+titre de l'année universitaire durant laquelle il est recruté.
+
+Sa qualité de boursier est vérifiée à chaque renouvellement de contrat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-50 du 15 janvier 2013 - art. 2
+
+
+###### Article R322-61
+
+Une commission présidée par le vice-recteur ou son représentant vérifie que les candidats à un emploi d'avenir professeur
+remplissent les conditions leur permettant d'en bénéficier.
+
+Le vice-recteur désigne les membres de la commission qui comprend :
+
+1° Le directeur du centre universitaire de formation et de recherche de Mayotte, ou son représentant ;
+
+2° De deux à quatre membres des corps d'inspection et chefs d'établissement, dont au moins un chef d'établissement
+d'enseignement privé ayant passé un contrat avec l'Etat.
+
+La commission comprend également le directeur de l'alimentation, de l'agriculture et de la forêt ou son représentant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-50 du 15 janvier 2013 - art. 2
+
+
+###### Article R322-62
+
+Sur la base d'un dossier de candidature dont le contenu est fixé par arrêté du ministre chargé de l'éducation nationale, la
+commission donne un avis sur l'aptitude des candidats à un emploi d'avenir professeur.
+
+L'avis rendu par la commission tient compte, notamment, du projet professionnel de l'étudiant et de ses résultats
+universitaires.
+
+A partir de la liste des candidats établie par la commission, le vice-recteur propose aux établissements publics
+d'enseignement et aux établissements d'enseignement privés ayant passé un contrat avec l'Etat le nom d'un ou plusieurs
+candidats à un recrutement au titre d'un emploi d'avenir professeur.
+
+S'agissant de l'enseignement agricole, le directeur de l'alimentation, de l'agriculture et de la forêt propose aux
+établissements d'enseignement et de formation professionnelle agricoles de Mayotte et d'enseignement privés agricole ayant
+passé un contrat avec l'Etat le nom d'un ou plusieurs candidats à un recrutement au titre d'un emploi d'avenir professeur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-50 du 15 janvier 2013 - art. 2
+
+
+###### Article R322-63
+
+Un arrêté conjoint du ministre chargé de l'emploi, du ministre chargé du budget, du ministre chargé de l'éducation nationale
+ou du ministre chargé de l'enseignement agricole fixe les taux de prise en charge déterminant le montant de l'aide financière
+relative à l'emploi d'avenir professeur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-50 du 15 janvier 2013 - art. 2
+
+
+###### Article R322-64
+
+Le salaire mensuel du bénéficiaire d'un emploi d'avenir professeur est égal au produit du montant du salaire minimum
+interprofessionnel garanti par le nombre moyen mensuel d'heures de travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-50 du 15 janvier 2013 - art. 2
+
+
+###### Article R322-65
+
+I. ― Le contrat conclu pour le recrutement d'un étudiant sur un emploi d'avenir professeur précise l'établissement ou l'école
+au sein duquel l'étudiant exerce ses fonctions, la durée du contrat, la durée hebdomadaire moyenne de travail et les
+modalités de variation de celle-ci au cours de l'année scolaire. 
+
+Le contrat comporte également l'engagement de l'étudiant de suivre la formation universitaire dans laquelle il est inscrit et
+de se présenter à un des concours de recrutement d'enseignants du premier ou du second degré organisés par l'Etat. 
+
+II. ― La durée moyenne hebdomadaire de travail est fixée par arrêté conjoint du ministre chargé de l'éducation nationale et
+du ministre chargé de l'enseignement agricole dans la limite de la moitié de la durée fixée à l'article L. 212-1. 
+
+Le même arrêté détermine les critères de variation de la durée hebdomadaire de travail afin de prendre en compte, notamment,
+le calendrier de la formation universitaire et le temps nécessaire à la préparation et aux épreuves du concours ainsi que
+l'organisation du temps de travail de l'école ou de l'établissement scolaire dans lequel l'étudiant exerce.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-50 du 15 janvier 2013 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L212-1
+
+
+###### Article R322-66
+
+Les étudiants recrutés sur des emplois d'avenir professeur accomplissent, dans les établissements d'enseignement et dans les
+écoles, sous la direction des autorités chargées de l'organisation du service, des fonctions d'appui éducatif.
+
+En appui des enseignants, ils peuvent participer aux séquences d'enseignement, aux actions de soutien scolaire ainsi qu'à
+toute activité de nature éducative organisée au sein de l'établissement ou de l'école.
+
+Les étudiants recrutés sur des emplois d'avenir professeur peuvent également assister à certains conseils de l'établissement
+ou de l'école.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-50 du 15 janvier 2013 - art. 2
 
 
 #### CHAPITRE IV : Dispositions particulières relatives à l'emploi des jeunes
@@ -63953,9 +64094,9 @@ professionnelle salariée.
 	  - Code du travail applicable à Mayotte. - art. L327-5 (V)
 
 
-##### Section 2 : Régime de solidarité
+##### Section 2 : Régime d'assurance
 
-##### Sous-section 1 : Allocation de solidarité spécifique
+##### Sous-section 1 : Conditions et modalités d'attribution de l'allocation d'assurance
 
 ##### Paragraphe 1 : Conditions d'attribution
 
@@ -64009,12 +64150,6 @@ l'article L. 1233-65 du code du travail dont l'intéressé a bénéficié à la 
 	  - Code du travail applicable à Mayotte. - art. L327-19 (V)
 	  - Code du travail applicable à Mayotte. - art. R327-2 (V)
 
-
-##### Section 2 : Régime d'assurance
-
-##### Sous-section 1 : Conditions et modalités d'attribution de l'allocation d'assurance
-
-##### Paragraphe 1 : Conditions d'attribution
 
 ##### Paragraphe 2 : Modalités de calcul pour les travailleurs migrants
 
