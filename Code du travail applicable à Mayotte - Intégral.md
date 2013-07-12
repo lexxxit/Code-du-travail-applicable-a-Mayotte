@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2013-05-30
+Version Consolidée au 2013-07-13
 
 # Partie législative
 
@@ -32946,6 +32946,351 @@ applicable à Mayotte " et la référence : " ordonnance n° 45-2339 du 13 octob
 
 # Partie réglementaire
 
+## LIVRE PRÉLIMINAIRE : Dispositions générales
+
+### TITRE Ier : Champ d'application et calcul des seuils d'effectifs 
+
+#### Chapitre unique 
+
+
+###### Article R011-1
+
+En application de l'article L. 011-4, les salariés mis à disposition par un groupement d'employeurs ou une association
+intermédiaire ne sont pas pris en compte pour le calcul des effectifs de l'entreprise utilisatrice pour l'application des
+dispositions légales relatives à la formation professionnelle continue et à la tarification des risques accident du travail
+et maladie professionnelle qui se réfèrent à une condition d'effectif.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L011-4 (V)
+
+
+### TITRE IV : Egalité professionnelle entre les femmes et les hommes
+
+#### Chapitre II : Dispositions générales
+
+###### Article R042-1
+
+Les emplois et activités professionnelles pour l'exercice desquels l'appartenance à l'un ou l'autre sexe constitue la
+condition déterminante sont les suivants :
+
+1° Artistes appelés à interpréter soit un rôle féminin, soit un rôle masculin ;
+
+2° Mannequins chargés de présenter des vêtements et accessoires ;
+
+3° Modèles masculins et féminins.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 1
+
+
+#### Chapitre III : Plan et contrat pour l'égalité professionnelle
+
+
+##### Section 1 : Convention d'étude
+
+###### Article D043-2
+
+La convention d'étude est conclue après avis du comité d'entreprise ou, à défaut, des délégués du personnel s'il en existe.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 1
+
+
+###### Article D043-3
+
+La convention d'étude fixe :
+
+1° L'objet, le contenu, le délai de réalisation et les conditions de diffusion de l'étude ;
+
+2° Le montant de l'aide financière de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 1
+
+
+###### Article D043-4
+
+Pour chaque convention, l'aide financière de l'Etat est au plus égale à 70 % des frais d'intervention hors taxe du consultant
+chargé de l'étude. Elle ne peut excéder 10 700 euros.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 1
+
+
+###### Article D043-5
+
+Le comité d'entreprise ou, à défaut, les délégués du personnel sont consultés sur l'étude réalisée dans les conditions
+prévues à l'article R. 043-1 et sur les suites à lui donner. 
+
+L'étude est également communiquée aux délégués syndicaux. L'étude et les avis recueillis sont communiqués au directeur des
+entreprises, de la concurrence, de la consommation, du travail et de l'emploi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. D043-1 (V)
+
+
+###### Article R043-1
+
+Toute entreprise de moins de trois cents salariés peut conclure avec l'Etat une convention lui permettant de recevoir une
+aide financière afin de faire procéder à une étude portant sur :
+
+1° Sa situation en matière d'égalité professionnelle ;
+
+2° Les mesures à prendre pour rétablir l'égalité des chances entre les femmes et les hommes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D043-5 (V)
+
+
+##### Section 2 : Plan pour l'égalité professionnelle
+
+
+###### Article D043-6
+
+Le directeur des entreprises, de la concurrence, de la consommation, du travail et de l'emploi peut s'opposer, en application
+de l'article L. 043-3, au plan pour l'égalité professionnelle. Il émet un avis écrit et motivé dans un délai de deux mois
+suivant la date de sa saisine.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L043-3 (V)
+
+
+##### Section 3 : Contrat pour la mixité des emplois et l'égalité
+professionnelle entre les femmes et hommes
+
+
+##### Sous-section 1 : Conclusion et objet du contrat
+
+
+###### Article D043-7
+
+Un contrat pour la mixité des emplois et l'égalité professionnelle entre les femmes et les hommes, ouvrant droit à l'aide
+financière de l'Etat prévue à la sous-section 2, est conclu entre l'Etat et l'employeur, après avis des organisations
+syndicales de salariés représentatives au plan national implantées dans l'entreprise si elles existent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 1
+
+
+###### Article D043-8
+
+Le contrat pour la mixité des emplois et l'égalité professionnelle entre les femmes et les hommes ne peuvent intervenir
+qu'après :
+
+1° Soit la conclusion d'un accord collectif de travail comportant des actions exemplaires en faveur de l'égalité
+professionnelle entre les femmes et les hommes ;
+
+2° Soit l'adoption d'un plan pour l'égalité professionnelle ;
+
+3° Soit l'adoption d'une ou plusieurs mesures en faveur de la mixité des emplois.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 1
+
+
+###### Article D043-9
+
+Le contrat pour la mixité des emplois et l'égalité professionnelle entre les femmes et les hommes précise :
+
+1° L'objet et la nature des engagements souscrits par l'employeur ;
+
+2° Le montant de l'aide de l'Etat et ses modalités de versement ;
+
+3° Les modalités d'évaluation et de contrôle de la réalisation des engagements souscrits.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 1
+
+
+###### Article D043-10
+
+Les engagements souscrits par l'employeur dans le contrat pour la mixité des emplois et l'égalité professionnelle entre les
+femmes et les hommes doivent avoir pour but de contribuer significativement à la mise en place de l'égalité professionnelle
+entre les femmes et les hommes dans l'entreprise ou l'établissement, ou de contribuer à développer la mixité des emplois, par
+l'adoption de mesures de sensibilisation, d'embauche, de formation, de promotion et d'amélioration des conditions de travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 1
+
+
+###### Article D043-11
+
+Le contrat pour la mixité des emplois et l'égalité professionnelle entre les femmes et les hommes est conclu au nom de l'Etat
+par le préfet. Si son champ d'application excède le cadre de Mayotte, le contrat est conclu par le ministre chargé des droits
+des femmes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 1
+
+
+##### Sous-section 2 : Aide financière de l'Etat
+
+
+###### Article D043-12
+
+La participation financière de l'Etat aux dépenses directement imputables à la réalisation du contrat pour la mixité des
+emplois et l'égalité professionnelle entre les femmes et les hommes est calculée dans la limite maximale d'un pourcentage
+variable selon la nature et le contenu des actions :
+
+1° 50 % du coût d'investissement en matériel lié à la modification de l'organisation et des conditions de travail ;
+
+2° 30 % des dépenses de rémunération exposées par l'employeur pour les salariés bénéficiant d'actions de formation au titre
+et pendant la durée de la réalisation du plan pour l'égalité professionnelle. Sont exclues de l'aide éventuelle les
+augmentations de rémunérations, quelles qu'en soient les modalités, acquises par les salariés du fait de la réalisation du
+plan ;
+
+3° 50 % des autres coûts
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D043-14 (V)
+
+
+###### Article D043-13
+
+Pour le bénéfice de l'aide financière, les actions en faveur des salariés sous contrat à durée déterminée sont prises en
+compte lorsque leur contrat, ou la durée de leur mission, est d'une durée supérieure ou égale à six mois.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 1
+
+
+###### Article D043-14
+
+L'aide de l'Etat prévue à l'article D. 043-12 n'est pas cumulable avec une aide publique ayant un objet identique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. D043-12 (V)
+
+
+###### Article D043-15
+
+En cas de non-respect du contrat pour la mixité des emplois et l'égalité professionnelle entre les femmes et les hommes par
+l'entreprise, l'aide de l'Etat fait l'objet d'un ordre de reversement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 1
+
+
+##### Sous-section 3 : Suivi et évaluation
+
+
+###### Article D043-16
+
+Le comité d'entreprise ou, à défaut, les délégués du personnel sont régulièrement informés de l'exécution des engagements
+souscrits par l'employeur dans le contrat pour la mixité des emplois et l'égalité professionnelle entre les femmes et les
+hommes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 1
+
+
+###### Article D043-17
+
+Le compte rendu de l'exécution des engagements souscrits par l'employeur dans le contrat pour la mixité des emplois et
+l'égalité professionnelle entre les femmes et les hommes est adressé au directeur des entreprises, de la concurrence, de la
+consommation, du travail et de l'emploi et au délégué aux droits des femmes et à l'égalité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 1
+
+
+###### Article D043-18
+
+Au terme du contrat pour la mixité des emplois et l'égalité professionnelle entre les femmes et les hommes, une évaluation
+des engagements souscrits et des mesures concrètes mises en œuvre est réalisée sous la responsabilité de l'employeur
+signataire du contrat.
+
+Cette évaluation est transmise au directeur des entreprises, de la concurrence, de la consommation, du travail et de l'emploi
+et au délégué aux droits des femmes et à l'égalité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 1
+
+
 ## LIVRE Ier : Conventions relatives au travail
 
 ### TITRE Ier : Contrat d'apprentissage
@@ -33269,223 +33614,6 @@ Aucun enfant atteint ou paraissant atteint d'une maladie transmissible ne doit �
 	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-##### Section 4 : Règlement intérieur, protection des salariés et droit disciplinaire
-
-##### Sous-section 1 : Règlement intérieur.
-
-###### Article R122-11
-
-Le règlement intérieur doit être affiché à une place convenable aisément accessible dans les lieux où le travail est effectué
-ainsi que dans les locaux et à la porte des locaux où se fait l'embauchage.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 1991-12-16 annexe
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. R122-13 (Ab)
-	  - Code du travail applicable à Mayotte. - art. R161-8 (V)
-
-
-###### Article R122-12
-
-Le dépôt prévu au deuxième alinéa de l'article L. 122-70 est effectué au greffe de la juridiction du travail.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 du 16 décembre 1991
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L122-70
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. R122-13 (Ab)
-
-
-###### Article R122-13
-
-Le délai prévu au deuxième alinéa de l'article L. 122-70 court à compter de la dernière en date des formalités de publicité
-et de dépôt définies aux articles R. 122-11 et R. 122-12.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 1991-12-16 annexe
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L122-70
-	  - Code du travail applicable à Mayotte. - art. R122-11
-	  - Code du travail applicable à Mayotte. - art. R122-12
-
-
-###### Article R122-14
-
-La communication du texte du règlement intérieur prévue au troisième alinéa de l'article L. 122-70 est effectuée en deux
-exemplaires.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 du 16 décembre 1991
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L122-70
-
-
-###### Article R122-15
-
-Le règlement intérieur prescrit à l'article L. 122-67 doit être établi dans les trois mois suivant l'ouverture de
-l'entreprise.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 du 16 décembre 1991
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L122-67
-
-
-##### Sous-section 2 : Protection des salariés et droit disciplinaire.
-
-###### Article R122-16
-
-La convocation prévue au deuxième alinéa de l'article L. 122-74 indique l'objet de l'entretien entre l'employeur et le
-salarié. Elle précise la date, l'heure et le lieu de cet entretien ; elle rappelle que le salarié peut se faire assister par
-une personne de son choix appartenant au personnel de l'entreprise.
-
-Cette convocation est écrite. Elle est, soit remise en main propre contre décharge dans le délai de deux mois fixé au premier
-alinéa de l'article L. 122-77, soit adressée par lettre recommandée envoyée dans le même délai.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 du 16 décembre 1991
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L122-74
-	  - Code du travail applicable à Mayotte. - art. L122-77
-
-
-###### Article R122-17
-
-La sanction mentionnée au deuxième alinéa de l'article L. 122-74 fait l'objet d'une décision écrite et motivée.
-
-La décision est notifiée au salarié, soit sous la forme d'une lettre remise en main propre de l'intéressé contre décharge,
-dans le délai d'un mois fixé par l'alinéa de l'article L. 122-74 précité, soit par l'envoi, dans le même délai, d'une lettre
-recommandée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 1991-12-16 annexe
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L122-74
-
-
-###### Article R122-18
-
-Le délai d'un mois prévu au deuxième alinéa de l'article L. 122-74 expire à vingt-quatre heures le jour du mois suivant qui
-porte le même quantième que le jour fixé pour l'entretien. A défaut d'un quantième identique, le délai expire le dernier jour
-du mois suivant à vingt-quatre heures. Lorsque le dernier jour de ce délai est un samedi, un dimanche ou un jour férié ou
-chômé, le délai est prorogé jusqu'au premier jour ouvrable suivant.
-
-Les mêmes dispositions sont applicables au délai de deux mois prévu au premier alinéa de l'article L. 122-77.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 du 16 décembre 1991
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L122-74
-	  - Code du travail applicable à Mayotte. - art. L122-77
-
-
 #### CHAPITRE IV : Marchandage
 
 ###### Article R124-1
@@ -33511,34 +33639,19 @@ une affiche indiquant le nom et l'adresse de la personne de qui il tient les tra
 	  - Code du travail applicable à Mayotte. - art. R152-1 (V)
 
 
-#### CHAPITRE V : Cautionnements
+###### Article R124-2
 
-###### Article R125-1
-
-Tout commerçant ou industriel qui, à titre de cautionnement, se fait remettre par ses ouvriers et employés, soit des sommes
-d'argent en espèces, quel qu'en soit le montant, soit des titres, doit mentionner exactement les sommes et titres ainsi
-versés sur un registre spécial, tenu à la disposition de l'inspecteur du travail. Lorsqu'il s'agit de titres, la mention
-portée au registre doit en indiquer la nature et la valeur nominale.
-
-Ce registre est émargé par l'ouvrier ou l'employé.
+Toute contravention à l'article R. 124-1 sera passible de l'amende prévue pour les contraventions de la quatrième classe.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°91-1263 du 16 décembre 1991
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
 
-	**Cité par**:
+	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. R153-1 (V)
+	  - Code du travail applicable à Mayotte. - art. R124-1 (V)
 
 
 #### CHAPITRE VI : Groupements d'employeurs
@@ -33728,6 +33841,30 @@ ne peut dépasser trois mois.
 	**Cite**:
 
 	  - Code du travail applicable à Mayotte. - art. R126-3 (V)
+
+
+###### Article R126-7
+
+Sera punie de la peine d'amende prévue pour les contraventions de la 5e classe la personne responsable de la gestion des
+installations ou des moyens de transports collectifs qui, dans une entreprise utilisatrice, aura contrevenu aux dispositions
+de l'article L. 126-5 en empêchant un salarié mis à sa disposition par le groupement d'avoir accès, dans les mêmes conditions
+que les salariés de cette entreprise, à ces équipements collectifs. 
+
+En cas de récidive, les peines prévues pour les contraventions de la 5e classe commises en récidive seront applicables.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L126-5 (V)
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R154-1 (T)
 
 
 #### CHAPITRE VIII : Titre de travail simplifié
@@ -34456,34 +34593,117 @@ Ces accords sont publiés au Bulletin officiel des ministères chargés du trava
 
 ### TITRE IV : Salaire
 
-#### CHAPITRE PRELIMINAIRE : Egalité de rémunération entre les hommes et les femmes
+#### CHAPITRE PRÉLIMINAIRE : Egalité de rémunération  entre les hommes et les femmes
+
+##### Section 1 : Principes
 
 ###### Article R140-1
 
 L'inspecteur du travail peut exiger communication des différents éléments qui concourent à la détermination des rémunérations
-dans l'entreprise, et notamment des normes, catégories, critères et bases de calcul mentionnés à l'article L. 140-2.
+dans l'entreprise, notamment des normes, catégories, critères et bases de calcul mentionnés à l'article L. 140-6. 
 
-Il procède, le cas échéant, à une enquête contradictoire au cours de laquelle l'employeur et le ou les salariés intéressés
-peuvent se faire assister d'une personne de leur choix.
+Il peut procéder à une enquête contradictoire au cours de laquelle l'employeur et les salariés intéressés peuvent se faire
+assister d'une personne de leur choix.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°91-1263 1991-12-16 annexe
+	  - Décret n°91-1263 du 16 décembre 1991
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L140-2 (M)
+	  - Code du travail applicable à Mayotte. - art. L140-2
+	  - Code du travail applicable à Mayotte. - art. L140-6 (V)
 
 	**Cité par**:
 
 	  - Code du travail applicable à Mayotte. - art. R140-4 (V)
 	  - Code du travail applicable à Mayotte. - art. R156-1 (Ab)
+
+
+###### Article R140-2
+
+Dans les établissements où travaillent des femmes, le texte des articles L. 140-1 à L. 140-7 est affiché à une place
+convenable aisément accessible dans les lieux de travail ainsi que dans les locaux ou à la porte des locaux où se fait
+l'embauche. 
+
+Il en est de même pour les dispositions réglementaires prise pour l'application de ces articles
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L140-1 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R140-5 (V)
+
+
+##### Section 2 : Dispositions pénales
+
+###### Article R140-3
+
+Le fait de méconnaître les dispositions relatives à l'égalité de rémunération entre les femmes et les hommes prévues aux
+articles L. 140-2 à L. 140-6 est puni de l'amende prévue pour les contraventions de la cinquième classe. 
+
+L'amende est appliquée autant de fois qu'il y a de travailleurs rémunérés dans des conditions illégales. 
+
+La récidive est réprimée conformément aux articles 132-11 et 132-15 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
+
+	**Cite**:
+
+	  - Code pénal - art. 132-11 (V)
+	  - Code du travail applicable à Mayotte. - art. L140-2 (V)
+
+
+###### Article R140-4
+
+Le fait de ne pas communiquer les éléments concourant à la détermination des rémunérations dans l'entreprise, en
+méconnaissance des dispositions de l'article R. 140-1, est puni de l'amende prévue pour les contraventions de la troisième
+classe.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R140-1 (V)
+
+
+###### Article R140-5
+
+Le fait de ne pas afficher dans les lieux de travail ainsi que dans les locaux ou à la porte des locaux où se fait l'embauche
+les articles relatifs à l'égalité de rémunération entre les femmes et les hommes, conformément aux dispositions de l'article
+R. 140-2, est puni de l'amende prévue pour les contraventions de la troisième classe.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R140-2 (V)
 
 
 #### CHAPITRE Ier : Salaire minimum interprofessionnel garanti
@@ -34728,91 +34948,89 @@ Les dispositions du présent chapitre ne sont pas applicables aux jeunes liés p
 
 #### CHAPITRE III : Paiement du salaire
 
+##### Section 1 : Dispositions générales
+
 ###### Article R143-1
 
-Le paiement ne peut être effectué un jour où le salarié a droit au repos, soit en vertu de la loi, soit en vertu de la
-convention.
-
-Il ne peut avoir lieu dans les débits de boissons ou magasins de vente, sauf pour les personnes qui y sont employées.
+Le salaire est versé un jour ouvrable sauf en cas de paiement réalisé par virement.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°91-1263 1991-12-16 annexe
+	  - Décret n°91-1263 du 16 décembre 1991
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
 
 	**Cité par**:
 
 	  - Code du travail applicable à Mayotte. - art. R156-3 (Ab)
 
 
+##### Section 2 : Bulletin de paie
+
 ###### Article R143-2
 
-Le bulletin de paie prévu à l'article L. 143-3 comporte obligatoirement :
+Le bulletin de paie prévu à l'article L. 143-7 comporte : 
 
-1° Le nom et l'adresse de l'employeur ainsi que, le cas échéant, la désignation de l'établissement dont dépend le salarié ;
+1° Le nom et l'adresse de l'employeur ainsi que, le cas échéant, la désignation de l'établissement dont dépend le salarié ; 
 
-2° La référence de l'organisme auquel l'employeur verse les cotisations sociales et le numéro sous lequel ces cotisations
-sont versées ;
+2° La référence de l'organisme auquel l'employeur verse les cotisations de sécurité sociale, le numéro sous lequel ces
+cotisations sont versées et, pour les employeurs inscrits au répertoire national des entreprises et des établissements prévu
+à l'article R. 123-220 du code de commerce, le numéro de la nomenclature des activités française (code de l'activité
+principale exercée) caractérisant l'activité de l'entreprise ou de l'établissement mentionné à l'article R. 123-223 du même
+code ; 
 
-3° S'il y a lieu, l'intitulé de la convention collective de branche applicable au salarié ;
+3° S'il y a lieu, l'intitulé de la convention collective de branche applicable au salarié ou, à défaut, la référence au code
+du travail pour les dispositions relatives à la durée des congés payés du salarié et à la durée des délais de préavis en cas
+de cessation de la relation de travail ; 
 
-4° Le nom et l'emploi du salarié ainsi que sa position dans la classification conventionnelle qui lui est applicable ; la
-position du salarié est notamment définie par le niveau ou le coefficient hiérarchique qui lui est attribué ;
+4° Le nom et l'emploi du salarié ainsi que sa position dans la classification conventionnelle qui lui est applicable. La
+position du salarié est notamment définie par le niveau ou le coefficient hiérarchique qui lui est attribué ; 
 
-5° La période et le nombre d'heures de travail auxquels se rapporte le salaire en distinguant, s'il y a lieu, les heures qui
-sont payées au taux normal et celles qui comportent une majoration pour heures supplémentaires ou pour toute autre cause et
-en mentionnant le ou les taux appliqués aux heures correspondantes ; en outre, lorsque les cotisations sociales sont
-calculées sur la base d'un salaire forfaitaire par journée ou demi-journée de travail, l'indication du nombre de journées ou
-demi-journées correspondant à la durée du travail ; lorsque, par exception, la base de calcul du salaire n'est pas la durée
-du travail, l'indication de la nature de cette base ;
+5° La période et le nombre d'heures de travail auxquels se rapporte le salaire en distinguant, s'il y a lieu, les heures
+payées au taux normal et celles qui comportent une majoration pour heures supplémentaires ou pour toute autre cause et en
+mentionnant le ou les taux appliqués aux heures correspondantes : 
 
-6° La nature et le montant des accessoires de salaire qui s'ajoutent au salaire mentionné au 5° ci-dessus ;
+a) La nature et le volume du forfait auquel se rapporte le salaire des salariés dont la rémunération est déterminée sur la
+base d'un forfait hebdomadaire ou mensuel en heures ; 
 
-7° Le montant de la rémunération brute du salarié ;
+b) L'indication de la nature de la base de calcul du salaire lorsque, par exception, cette base de calcul n'est pas la durée
+du travail ; 
 
-8° La nature et le montant des diverses déductions opérées sur cette rémunération brute ;
+6° La nature et le montant des accessoires de salaire soumis aux cotisations salariales et patronales mentionnées aux
+articles R. 143-3 et R. 143-4 ; 
 
-9° La nature et le montant des sommes s'ajoutant à la rémunération et non soumises aux déductions mentionnées au 8° ;
+7° Le montant de la rémunération brute du salarié ; 
 
-10° Le montant de la somme effectivement reçue par le salarié ;
+8° La nature et le montant de tous les ajouts et retenues réalisés sur la rémunération brute ; 
 
-11° La date de paiement de ladite somme ;
+9° Le montant de la somme effectivement reçue par le salarié ; 
 
-12° Les dates de congé et le montant de l'indemnité correspondante, lorsqu'une période de congé annuel est comprise dans la
-période de paie considérée.
+10° La date de paiement de cette somme ; 
 
-Il ne doit être fait mention ni de l'exercice du droit de grève ni de l'activité de représentation des salariés. La nature et
-le montant de la rémunération de l'activité de représentation figurent sur une fiche annexée au bulletin de paie qui a le
-même régime juridique que celui-ci et que l'employeur est tenu d'établir et de fournir au salarié.
+11° Les dates de congé et le montant de l'indemnité correspondante, lorsqu'une période de congé annuel est comprise dans la
+période de paie considérée ; 
 
-Le bulletin de paie doit comporter en caractères apparents une mention incitant le salarié à le conserver sans limitation de
-durée.
-
-Le livre de paie prévu à l'article L. 143-5 est tenu par ordre de date, sans blancs, lacunes, ratures, surcharges ni
-apostilles. Il est coté, paraphé et visé dans la forme ordinaire et sans frais, soit par un juge du tribunal de première
-instance, soit par l'inspecteur du travail.
-
-L'employeur est tenu de conserver ce livre pendant cinq ans à dater de sa clôture.
+12° Le montant de la prise en charge des frais de transport public ou des frais de transports personnels.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°91-1263 1991-12-16 annexe
+	  - Décret n°91-1263 du 16 décembre 1991
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L143-3 (M)
-	  - Code du travail applicable à Mayotte. - art. L143-5 (M)
+	  - Code de commerce - art. R123-220 (V)
+	  - Code de commerce - art. R123-223 (V)
+	  - Code du travail applicable à Mayotte. - art. L143-7 (V)
 
 	**Cité par**:
 
@@ -34822,6 +35040,197 @@ L'employeur est tenu de conserver ce livre pendant cinq ans à dater de sa clôt
 	  - Code du travail applicable à Mayotte. - art. R156-3 (Ab)
 	  - Code du travail applicable à Mayotte. - art. R312-4 (V)
 	  - Code du travail applicable à Mayotte. - art. R312-7 (V)
+
+
+###### Article R143-3
+
+Pour l'application du 8° de l'article R. 143-2, le regroupement des retenues relatives aux cotisations et aux contributions
+salariales est autorisé dès lors que ces prélèvements sont appliqués à une même assiette et destinés à un même organisme
+collecteur. 
+
+Dans ce cas, le bulletin de paie est présenté avec des titres précisant l'objet de ces prélèvements. 
+
+Le taux, le montant ainsi que la composition de chacun de ces prélèvements sont communiqués au salarié au moins une fois par
+an ou lorsque prend fin le contrat de travail, soit sur le bulletin de paie, soit sur un document pouvant lui être annexé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R143-2 (V)
+	  - Code du travail applicable à Mayotte. - art. R143-4 (V)
+
+
+###### Article R143-4
+
+Le bulletin de paie ou un récapitulatif annuel remis au salarié mentionne la nature, le montant et le taux des cotisations et
+contributions patronales assises sur la rémunération brute. 
+
+Lorsque ces cotisations et contributions sont mentionnées sur le bulletin de paie, elles peuvent être regroupées dans les
+mêmes conditions et selon les mêmes modalités de communication au salarié que celles prévues pour les cotisations et
+contributions salariales mentionnées à l'article R. 143-3.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R143-3 (V)
+
+
+###### Article R143-5
+
+Il est interdit de faire mention sur le bulletin de paie de l'exercice du droit de grève ou de l'activité de représentation
+des salariés. 
+
+La nature et le montant de la rémunération de l'activité de représentation figurent sur une fiche annexée au bulletin de paie
+qui a le même régime juridique que celui-ci et que l'employeur établit et fournit au salarié.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
+
+
+###### Article R143-6
+
+Le bulletin de paie comporte en caractères apparents une mention incitant le salarié à le conserver sans limitation de durée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
+
+
+###### Article R143-7
+
+Par dérogation aux dispositions prévues à l'article R. 143-2, le bulletin de paie des salariés liés par contrats conclus par
+une personne physique pour un service rendu à son domicile peut ne pas comporter les mentions suivantes : 
+
+1° La position du salarié dans la classification conventionnelle qui lui est applicable ; 
+
+2° Le montant de la rémunération brute du salarié ; 
+
+3° La nature et le montant des cotisations patronales de sécurité sociale assises sur cette rémunération brute.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R143-2 (V)
+
+
+##### Section 3 : Pourboires
+
+###### Article R143-8
+
+L'employeur justifie de l'encaissement et de la remise aux salariés des pourboires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
+
+
+###### Article R143-9
+
+Les conventions collectives ou, à défaut, des arrêtés du représentant de l'Etat à Mayotte pris après consultation des
+organisations d'employeurs et de salariés intéressées, déterminent par profession ou par catégorie professionnelle : 
+
+1° Les modes de justification à la charge de l'employeur ; 
+
+2° Les catégories de personnel qui prennent part à la répartition des pourboires ; 
+
+3° Les modalités de cette répartition.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R143-12 (V)
+
+
+##### Section  4 : Dispositions pénales
+
+###### Article R143-10
+
+Le fait de méconnaître les modalités de paiement du salaire prévues aux articles L. 143-1, L. 143-2, alinéa 3, L. 143-4 et L.
+143-5 est puni de l'amende prévue pour les contraventions de la troisième classe.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L143-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L143-4 (V)
+
+
+###### Article R143-11
+
+Le fait de méconnaître les dispositions relatives au bulletin de paie des articles L. 143-6, L. 143-7 et L. 143-9 et R. 143-2
+à R. 143-6 est puni de l'amende prévue pour les contraventions de la troisième classe.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L143-6 (V)
+	  - Code du travail applicable à Mayotte. - art. R143-2 (V)
+
+
+###### Article R143-12
+
+Le fait de méconnaître les dispositions relatives aux pourboires des articles L. 143-11 et L. 143-12 et celle des décrets en
+Conseil d'Etat prévus à l'article R. 143-9 est puni de l'amende prévue pour les contraventions de la troisième classe.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L143-11 (V)
+	  - Code du travail applicable à Mayotte. - art. R143-9 (V)
+
+
+###### Article R143-13
+
+Le fait de méconnaître les dispositions légales relatives aux accessoires du salaire est puni de la peine d'amende prévue
+pour les contraventions de la quatrième classe. L'amende est prononcée autant de fois qu'il y a de salariés intéressés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
 
 
 #### CHAPITRE V : Saisie-arrêt et cession de rémunérations dues par un employeur
@@ -35437,42 +35846,16 @@ répartitions, sur simple quittance, en justifiant de l'autorisation du juge.
 	  - Code du travail applicable à Mayotte. - art. L125-2 (Ab)
 
 
-#### CHAPITRE VI : Règles particulières au contrôle et à la répartition des pourboires
+### TITRE V : Règlement intérieur, protection des salariés et droit disciplinaire
 
-###### Article R146-1
+#### CHAPITRE II : Règlement intérieur
 
-L'employeur est tenu de justifier de l'encaissement et de la remise à son personnel des sommes mentionnées à l'article L.
-146-1.
+##### Section 1 : Contenu et conditions de validité
 
-**Liens relatifs à cet article**
+###### Article R152-1
 
-	**Codifié par**:
-
-	  - Décret n°91-1263 1991-12-16 annexe
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L146-1
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. R156-3 (Ab)
-
-
-###### Article R146-2
-
-Les modes de justification à la charge de l'employeur, les catégories de personnel qui doivent prendre part à la répartition
-des sommes visées à l'article L. 146-1 et les modalités de cette répartition sont déterminés par profession ou par catégorie
-professionnelle par les conventions collectives ou, à défaut, par des arrêtés du représentant de l'Etat à Mayotte après
-consultation des organisations d'employeurs et de travailleurs intéressées.
+Le règlement intérieur est affiché à une place convenable et aisément accessible dans les lieux de travail ainsi que dans les
+locaux et à la porte des locaux où se fait l'embauche.
 
 **Liens relatifs à cet article**
 
@@ -35482,81 +35865,263 @@ consultation des organisations d'employeurs et de travailleurs intéressées.
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
 
-	**Abrogé par**:
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R124-1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R152-7 (V)
+
+
+###### Article R152-2
+
+Le règlement intérieur est déposé, en application du deuxième alinéa de l'article L. 152-4, au greffe de la juridiction du
+travail du ressort de l'entreprise ou de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
 
 	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L146-1
+	  - Code du travail applicable à Mayotte. - art. L152-4 (V)
 
 	**Cité par**:
 
-	  - Code du travail applicable à Mayotte. - art. R156-3 (Ab)
+	  - Code du travail applicable à Mayotte. - art. R152-3 (V)
 
 
-### TITRE V : Pénalités
+###### Article R152-3
 
-#### CHAPITRE Ier : Contrat d'apprentissage et contrat de travail
+Le délai prévu au deuxième alinéa de l'article L. 152-4 court à compter de la dernière en date des formalités de publicité et
+de dépôt définies aux articles R. 162-1 et R. 152-2.
 
-##### Section 1 : Contrat d'apprentissage.
+**Liens relatifs à cet article**
 
-###### Article R151-1
+	**Créé par**:
 
-L'employeur qui contrevient aux dispositions des articles L. 113-3, L. 113-4, L. 113-6, L. 113-7, L. 113-8, L. 113-10 et L.
-114-2 est passible de l'amende prévue pour les contraventions de la 4e classe.
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L152-4 (V)
+	  - Code du travail applicable à Mayotte. - art. R152-2 (V)
+	  - Code du travail applicable à Mayotte. - art. R162-1 (V)
+
+
+###### Article R152-4
+
+Le texte du règlement intérieur est transmis à l'inspecteur du travail en deux exemplaires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
+
+
+###### Article R152-5
+
+Le règlement intérieur est établi dans les trois mois suivant l'ouverture de l'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
+
+
+##### Section 2 : Contrôle administratif et juridictionnel
+
+###### Article R152-6
+
+Le recours hiérarchique prévu à l'article L. 152-10 est formé devant le directeur des entreprises, de la concurrence, de la
+consommation, du travail et de l'emploi, dans les deux mois suivant la notification de la décision de l'inspecteur du
+travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L152-10 (V)
+
+
+##### Section 3 : Dispositions pénales
+
+###### Article R152-7
+
+Le fait de méconnaître les dispositions des articles L. 151-2 à L. 152-11 et R. 152-1 à R. 152-5 relatives au règlement
+intérieur est puni de l'amende prévue pour les contraventions de la quatrième classe.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L151-2 (V)
+	  - Code du travail applicable à Mayotte. - art. R152-1 (V)
+
+
+#### CHAPITRE III : Droit disciplinaire
+
+##### Section 1 : Garanties de procédure
+
+###### Article R153-1
+
+La lettre de convocation prévue à l'article L. 153-4 indique l'objet de l'entretien entre le salarié et l'employeur. 
+
+Elle précise la date, l'heure et le lieu de cet entretien. 
+
+Elle rappelle que le salarié peut se faire assister par une personne de son choix appartenant au personnel de l'entreprise. 
+
+Elle est soit remise contre récépissé, soit adressée par lettre recommandée, dans le délai de deux mois fixé à l'article L.
+153-6.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 du 16 décembre 1991
+
+	**Modifié par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L125-1
+	  - Code du travail applicable à Mayotte. - art. L125-2
+	  - Code du travail applicable à Mayotte. - art. L153-6 (V)
+	  - Code du travail applicable à Mayotte. - art. R125-1
+	  - Code du travail applicable à Mayotte. - art. R153-4 (V)
+
+
+###### Article R153-2
+
+La sanction prévue à l'article L. 153-4 fait l'objet d'une décision écrite et motivée. 
+
+La décision est notifiée au salarié soit par lettre remise contre récépissé, soit par lettre recommandée, dans le délai d'un
+mois prévu par l'article L. 153-4.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L153-4 (V)
+
+
+###### Article R153-3
+
+Le délai d'un mois prévu à l'article L. 153-4 expire à vingt-quatre heures le jour du mois suivant qui porte le même
+quantième que le jour fixé pour l'entretien. 
+
+A défaut d'un quantième identique, le délai expire le dernier jour du mois suivant à vingt-quatre heures. 
+
+Lorsque le dernier jour de ce délai est un samedi, un dimanche ou un jour férié ou chômé, le délai est prorogé jusqu'au
+premier jour ouvrable suivant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L153-4 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R153-4 (V)
+
+
+##### Section 2 : Prescription des faits fautifs
+
+###### Article R153-4
+
+Les dispositions de l'article R. 153-3 sont applicables au délai de deux mois prévu à l'article L. 153-6.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L153-6 (V)
+	  - Code du travail applicable à Mayotte. - art. R153-3 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R153-1 (V)
+
+
+### TITRE VI : Pénalités
+
+#### Chapitre Ier : Contrat d'apprentissage et contrat de travail
+
+##### Section 1 : Contrat d'apprentissage
+
+###### Article R161-1
+
+L'employeur qui contrevient aux dispositions des articles L. 113-3, L. 113-4, 
+L. 113-6, L. 113-7, L. 113-8, 
+L. 113-10 et L. 114-2 est passible de l'amende prévue pour les contraventions de la 4e classe. 
 
 En cas de récidive, le tribunal de police peut prononcer, outre l'amende prévue pour les contraventions de la 5e classe, un
-emprisonnement de dix jours à un mois.
+emprisonnement de dix jours à un mois. 
 
 L'employeur qui contrevient à l'article L. 113-5 est passible d'un emprisonnement de dix jours à un mois et de l'amende
 prévue pour les contraventions de la 5e classe ou de l'une de ces deux peines seulement.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Créé par**:
 
-	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L113-3, L113-4, L113-6, L113-7, L113-8, L113-10, L114-2, L113-5
-	  - TRANSFERE: Décret n°2013-612 du 10 juillet 2013 - art. 2
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 1991-12-16 annexe
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L113-10
-	  - Code du travail applicable à Mayotte. - art. L113-3
-	  - Code du travail applicable à Mayotte. - art. L113-4
-	  - Code du travail applicable à Mayotte. - art. L113-5
-	  - Code du travail applicable à Mayotte. - art. L113-6
-	  - Code du travail applicable à Mayotte. - art. L113-7
-	  - Code du travail applicable à Mayotte. - art. L113-8
-	  - Code du travail applicable à Mayotte. - art. L114-2
+	  - Code du travail applicable à Mayotte. - art. L113-10 (V)
+	  - Code du travail applicable à Mayotte. - art. L113-3 (V)
+	  - Code du travail applicable à Mayotte. - art. L113-5 (V)
+	  - Code du travail applicable à Mayotte. - art. L113-6 (V)
+	  - Code du travail applicable à Mayotte. - art. L114-2 (V)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du travail applicable à Mayotte. - art. R161-1 (V)
+	  - Code du travail applicable à Mayotte. - art. R151-1 (T)
 
 
-###### Article R151-2
+###### Article R161-2
 
 Sont passibles de l'amende prévue pour les contraventions de la 5e classe (1) les employeurs qui paient des salaires
-inférieurs au minimum prévu par l'article L. 113-9.
+inférieurs au minimum prévu par l'article L. 113-9. 
 
-L'amende sera appliquée autant de fois qu'il y aura d'apprentis rémunérés dans des conditions illégales.
+L'amende sera appliquée autant de fois qu'il y aura d'apprentis rémunérés dans des conditions illégales. 
 
 En cas de récidive dans le délai d'un an, le contrevenant est passible de l'amende prévue pour les contraventions de la 5e
-classe en récidive.
+classe en récidive. 
 
 En cas de pluralité de contraventions entraînant les peines de récidive, l'amende sera appliquée autant de fois qu'il aura
-été relevé de nouvelles contraventions.
+été relevé de nouvelles contraventions. 
 
 En cas de condamnation, le tribunal peut ordonner l'affichage du jugement, conformément aux dispositions de l'article 471 du
 code pénal.
@@ -35567,155 +36132,108 @@ code pénal.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Décret n°91-1263 du 16 décembre 1991
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2013-612 du 10 juillet 2013 - art. 2
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
 
 	**Cite**:
 
-	  - Code pénal
-	  - Code du travail applicable à Mayotte. - art. L113-9
+	  - Code du travail applicable à Mayotte. - art. L113-9 (V)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du travail applicable à Mayotte. - art. R161-2 (V)
+	  - Code du travail applicable à Mayotte. - art. R151-2 (T)
 
 
-###### Article R151-3
+###### Article R161-3
 
 L'employeur qui contrevient aux dispositions de l'article L. 114-3 est passible de l'amende prévue pour les contraventions de
 la 4e classe.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Créé par**:
 
-	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L114-3
-	  - TRANSFERE: Décret n°2013-612 du 10 juillet 2013 - art. 2
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 du 16 décembre 1991
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L114-3
+	  - Code du travail applicable à Mayotte. - art. L114-3 (V)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du travail applicable à Mayotte. - art. R161-3 (V)
+	  - Code du travail applicable à Mayotte. - art. R151-3 (T)
 
 
-###### Article R151-4
+###### Article R161-4
 
 L'employeur qui contrevient aux dispositions des articles L. 114-4 et L. 114-5 est passible de l'amende prévue pour les
-contraventions de la 5e classe.
+contraventions de la 5e classe. 
 
 En cas de récidive, l'amende prévue pour les contraventions de la 5e classe commises en état de récidive est encourue.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Créé par**:
 
-	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L114-4, L114-5
-	  - TRANSFERE: Décret n°2013-612 du 10 juillet 2013 - art. 2
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 1991-12-16 annexe
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L114-4
-	  - Code du travail applicable à Mayotte. - art. L114-5
+	  - Code du travail applicable à Mayotte. - art. L114-4 (V)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du travail applicable à Mayotte. - art. R161-4 (V)
+	  - Code du travail applicable à Mayotte. - art. R151-4 (T)
 
 
-##### Section 2 : Contrat de travail.
+##### Section 2 : Contrat de travail
 
-###### Article R151-5
+###### Article R161-5
 
 Toute contravention à l'article L. 122-33 sera passible de l'amende prévue pour les contraventions de la 4e classe. En cas de
 récidive, le tribunal de police pourra prononcer l'amende prévue pour les contraventions de la 5e classe.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Créé par**:
 
-	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L122-33
-	  - TRANSFERE: Décret n°2013-612 du 10 juillet 2013 - art. 2
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 1991-12-16 annexe
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L122-33
+	  - Code du travail applicable à Mayotte. - art. L122-33 (V)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du travail applicable à Mayotte. - art. R161-5 (V)
+	  - Code du travail applicable à Mayotte. - art. R151-5 (T)
 
 
-###### Article R151-6
+###### Article R161-6
 
 Toute infraction aux dispositions des articles L. 122-35 L. 122-36 et L. 122-37 et à celles de l'article R. 122-6 est punie
-de l'amende prévue pour les contraventions de la 5e classe.
+de l'amende prévue pour les contraventions de la 5e classe. 
 
 En cas de récidive dans le délai d'un an, le tribunal peut prononcer l'amende prévue pour les contraventions de la 5e classe
 en récidive.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Créé par**:
 
-	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L122-35, L122-36, L122-37, R122-6
-	  - TRANSFERE: Décret n°2013-612 du 10 juillet 2013 - art. 2
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 1991-12-16 annexe
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L122-35
-	  - Code du travail applicable à Mayotte. - art. L122-37
-	  - Code du travail applicable à Mayotte. - art. R122-6
+	  - Code du travail applicable à Mayotte. - art. L122-35 (V)
+	  - Code du travail applicable à Mayotte. - art. R122-6 (V)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du travail applicable à Mayotte. - art. R161-6 (V)
+	  - Code du travail applicable à Mayotte. - art. R151-6 (T)
 
 
-###### Article R151-7
+###### Article R161-7
 
 Sans préjudice de l'application de l'article L. 122-53 (alinéa 1er), est passible des peines d'amende prévue pour les
 contraventions de la 5e classe, en première infraction et en récidive, l'employeur qui contrevient aux dispositions des
@@ -35723,29 +36241,22 @@ articles L. 122-45 à L. 122-51 et aux dispositions des articles R. 122-7 à R. 
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Créé par**:
 
-	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L122-45, L122-46, L122-47, L122-48, L122-49, L122-50, L122-51, R122-7, R122-8, R122-9, R122-10
-	  - TRANSFERE: Décret n°2013-612 du 10 juillet 2013 - art. 2
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
 
 	**Cite**:
 
-	  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-53, L122-45 à L122-51, R122-7 à R122-10
+	  - Code du travail applicable à Mayotte. - art. L122-45 (V)
+	  - Code du travail applicable à Mayotte. - art. L122-53 (V)
+	  - Code du travail applicable à Mayotte. - art. R122-7 (V)
 
-	**Codifié par**:
+	**Anciens textes**:
 
-	  - Décret n°91-1263 du 16 décembre 1991
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. R161-7 (V)
+	  - Code du travail applicable à Mayotte. - art. R151-7 (T)
 
 
-###### Article R151-8
+###### Article R161-8
 
 Toute contravention aux articles L. 122-67 à L. 122-71, R. 122-11 à R. 122-15 sera passible de l'amende prévue pour les
 contraventions de la 4e classe. En cas de récidive, le tribunal de police pourra prononcer l'amende prévue pour les
@@ -35753,152 +36264,47 @@ contraventions de la 5e classe.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Créé par**:
 
-	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L122-67, L122-68, L122-69, L122-70, L122-71, R122-11, R122-12, R122-13, R122-14, R122-15
-	  - TRANSFERE: Décret n°2013-612 du 10 juillet 2013 - art. 2
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 1991-12-16 annexe
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte.
+	  - Code du travail applicable à Mayotte. - art. L122-67 (V)
+	  - Code du travail applicable à Mayotte. - art. R122-11 (Ab)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du travail applicable à Mayotte. - art. R161-8 (V)
-
-
-#### CHAPITRE II : Marchandages
-
-###### Article R152-1
-
-Toute contravention à l'article R. 124-1 sera passible de l'amende prévue pour les contraventions de la 4e classe. En cas de
-récidive, le tribunal pourra prononcer l'amende prévue pour les contraventions de la 5e classe.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte R124-1
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 1991-12-16 annexe
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. R124-1 (M)
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. R152-7 (V)
+	  - Code du travail applicable à Mayotte. - art. R151-8 (T)
 
 
-#### CHAPITRE III : Cautionnements
+#### Chapitre II : Conventions et accords collectifs de travail
 
-###### Article R153-1
-
-Toute infraction aux prescriptions des articles L. 125-1, L. 125-2 et des arrêtés pris pour leur application ainsi qu'aux
-prescriptions de l'article R. 125-1 sera passible de l'amende prévue pour les contraventions de la 5e classe.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L125-1, L125-2, R125-1
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 1991-12-16 annexe
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L125-1 (M)
-	  - Code du travail applicable à Mayotte. - art. L125-2 (M)
-	  - Code du travail applicable à Mayotte. - art. R125-1 (M)
-
-
-#### CHAPITRE IV : Groupements d'employeurs
-
-###### Article R154-1
-
-Sera punie de la peine d'amende prévue pour les contraventions de la 5e classe la personne responsable de la gestion des
-installations ou des moyens de transports collectifs qui, dans une entreprise utilisatrice, aura contrevenu aux dispositions
-de l'article L. 126-5 en empêchant un salarié mis à sa disposition par le groupement d'avoir accès, dans les mêmes conditions
-que les salariés de cette entreprise, à ces équipements collectifs.
-
-En cas de récidive, les peines prévues pour les contraventions de la 5e classe commises en récidive seront applicables.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L126-5
-	  - TRANSFERE: Décret n°2013-612 du 10 juillet 2013 - art. 2
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 1991-12-16 annexe
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L126-5
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. R126-7 (V)
-
-
-#### CHAPITRE V : Conventions et accords collectifs de travail
-
-###### Article R155-1
+###### Article R162-1
 
 Toute infraction aux dispositions de l'article R. 135-1 est punie de la peine d'amende prévue pour les contraventions de la
 quatrième classe.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Décret n°91-1263 du 16 décembre 1991
-
-	**Modifié par**:
-
-	  - Décret n°2006-1315 du 25 octobre 2006 - art. 5 () JORF 27 octobre 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2013-612 du 10 juillet 2013 - art. 2
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. R135-1
+	  - Code du travail applicable à Mayotte. - art. R135-1 (V)
 
-	**Nouveaux textes**:
+	**Cité par**:
 
-	  - Code du travail applicable à Mayotte. - art. R162-1 (V)
+	  - Code du travail applicable à Mayotte. - art. R152-3 (V)
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R155-1 (T)
 
 
-###### Article R155-2
+###### Article R162-2
 
 Lorsqu'une convention ou un accord collectif a fait l'objet d'un arrêté d'extension, l'employeur lié par cette convention ou
 cet accord qui paye des salaires inférieurs à ceux qui sont fixés par cette convention ou cet accord est puni de la peine
@@ -35912,222 +36318,100 @@ législatives et réglementaires relatives aux accessoires du salaire.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°91-1263 du 16 décembre 1991
-
 	**Créé par**:
 
-	  - Décret n°2006-1315 du 25 octobre 2006 - art. 5 () JORF 27 octobre 2006
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2013-612 du 10 juillet 2013 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. R162-2 (V)
+	  - Code du travail applicable à Mayotte. - art. R155-2 (T)
 
 
-###### Article R155-3
+###### Article R162-3
 
 Si, à la suite de la lettre recommandée ou de l'avertissement mentionnés à l'article R. 133-2, l'organisation s'abstient,
 sans motif légitime, de déférer à la nouvelle convocation qui lui a été ainsi adressée, le représentant de l'Etat à Mayotte
-ou le président de la commission mixte établit un rapport et le transmet au procureur de la République.
+ou le président de la commission mixte établit un rapport et le transmet au procureur de la République. 
 
 L'infraction est punie de l'amende prévue pour les contraventions de la cinquième classe.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°91-1263 du 16 décembre 1991
-
 	**Créé par**:
-
-	  - Décret n°2006-1315 du 25 octobre 2006 - art. 5 () JORF 27 octobre 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2013-612 du 10 juillet 2013 - art. 2
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. R133-2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. R162-3 (V)
-
-
-#### CHAPITRE VI : Salaire
-
-##### Section 1 : Egalité de rémunération entre les hommes et les femmes.
-
-###### Article R156-1
-
-I. - Tout employeur qui contrevient aux dispositions des articles L. 140-1 et L. 140-2 est passible de l'amende prévue pour
-les contraventions de la 5e classe.
-
-L'amende sera appliquée autant de fois qu'il y aura de travailleurs rémunérés dans des conditions illégales.
-
-En cas de récidive dans le délai d'un an, la peine d'amende sera celle prévue pour les contraventions de la 5e classe en
-récidive.
-
-En cas de condamnation, le tribunal peut ordonner l'affichage du jugement, conformément aux dispositions de l'article 471 du
-code pénal.
-
-II. - Le défaut de communication par l'employeur des éléments définis à l'article R. 140-1 est passible de l'amende prévue
-pour les contraventions de la 3e classe pouvant être portée à celle prévue pour les contraventions de la 4e classe en cas de
-récidive dans le délai d'un an.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L140-1, L140-2
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 du 16 décembre 1991
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
 
 	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
 
 	**Cite**:
 
-	  - Code pénal
-	  - Code du travail applicable à Mayotte. - art. L140-1
-	  - Code du travail applicable à Mayotte. - art. L140-2
-	  - Code du travail applicable à Mayotte. - art. R140-1
+	  - Code du travail applicable à Mayotte. - art. R133-2 (V)
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R155-3 (T)
 
 
-##### Section 2 : Salaire minimum garanti et rémunération mensuelle minimale garantie.
+#### Chapitre III : Salaire
 
-###### Article R156-2
+###### Article R163-1
 
 Sont passibles de l'amende prévue pour les contraventions de la 5e classe les employeurs qui paient des salaires inférieurs
 au minimum prévu par l'article L. 141-2 ainsi que les employeurs qui paient des rémunérations inférieures à la rémunération
 mensuelle minimale garantie par l'article L. 141-3.
 
-L'amende sera appliquée autant de fois qu'il y aura de travailleurs rémunérés dans des conditions illégales.
+L'amende sera appliquée autant de fois qu'il y aura de travailleurs rémunérés dans des conditions illégales. 
 
 En cas de récidive dans le délai d'un an, le contrevenant est passible de l'amende prévue pour les contraventions de la 5e
-classe en récidive.
+classe en récidive. 
 
 En cas de pluralité de contraventions entraînant des peines de récidive, l'amende sera appliquée autant de fois qu'il aura
-été relevé de nouvelles contraventions.
+été relevé de nouvelles contraventions. 
 
 En cas de condamnation, le tribunal peut ordonner l'affichage du jugement, conformément aux dispositions de l'article 471 du
 code pénal.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°91-1263 1991-12-16 annexe
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2013-612 du 10 juillet 2013 - art. 2
-
-	**Cite**:
-
-	  - Code pénal
-	  - Code du travail applicable à Mayotte. - art. L141-2
-	  - Code du travail applicable à Mayotte. - art. L141-3
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. R163-1 (V)
-
-
-##### Section 3 : Paiement du salaire.
-
-###### Article R156-3
-
-Sans préjudice de la responsabilité civile, toute contravention aux prescriptions des articles L. 143-1 à L. 143-3, L. 143-5,
-L. 146-1, L. 146-2, R. 143-1, R. 143-2 et R. 146-1 ainsi que des arrêtés prévus à l'article R. 146-2, sera passible de
-l'amende prévue pour les contraventions de la 3e classe.
-
-En cas de récidive dans le délai d'un an, l'amende sera celle prévue pour les contraventions de la 4e classe.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L143-1, L143-2, L143-3, L143-5, L146-1, L146-2, R143-1, R143-2, R146-1, R146-2
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 1991-12-16 annexe
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte.
-	  - Code du travail applicable à Mayotte. - art. L143-5
-	  - Code du travail applicable à Mayotte. - art. L146-1
-	  - Code du travail applicable à Mayotte. - art. L146-2
-	  - Code du travail applicable à Mayotte. - art. R143-1
-	  - Code du travail applicable à Mayotte. - art. R143-2
-	  - Code du travail applicable à Mayotte. - art. R146-1
-	  - Code du travail applicable à Mayotte. - art. R146-2
+	  - Code du travail applicable à Mayotte. - art. L141-2 (V)
+	  - Code du travail applicable à Mayotte. - art. L141-3 (V)
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R156-2 (T)
 
 
-##### Section 4 : Retenues sur le salaire.
-
-###### Article R156-4
+###### Article R163-2
 
 Les contraventions aux dispositions de l'article L. 144-3 sont passibles de l'amende prévue pour les contraventions de la 4e
-classe, le tribunal peut en outre ordonner la mesure prévue à l'article L. 156-2.
+classe, le tribunal peut en outre ordonner la mesure prévue à l'article L. 156-2. 
 
-Ces peines seront indépendantes des restitutions et des dommages-intérêts auxquels pourront donner lieu les faits incriminés.
+Ces peines seront indépendantes des restitutions et des dommages-intérêts auxquels pourront donner lieu les faits
+incriminés. 
 
 Seront condamnés aux peines de la banqueroute frauduleuse les individus convaincus d'avoir frauduleusement inscrit, pour
 prendre part à la mainlevée prévue aux articles L. 145-4 et R. 145-16, des créances supposées.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Créé par**:
 
-	  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L144-3
-	  - TRANSFERE: Décret n°2013-612 du 10 juillet 2013 - art. 2
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 1991-12-16 annexe
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L144-3
-	  - Code du travail applicable à Mayotte. - art. L145-4
-	  - Code du travail applicable à Mayotte. - art. L156-2
-	  - Code du travail applicable à Mayotte. - art. R145-16
+	  - Code du travail applicable à Mayotte. - art. L144-3 (V)
+	  - Code du travail applicable à Mayotte. - art. L145-4 (V)
+	  - Code du travail applicable à Mayotte. - art. L156-2 (Ab)
+	  - Code du travail applicable à Mayotte. - art. R145-16 (V)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du travail applicable à Mayotte. - art. R163-2 (V)
+	  - Code du travail applicable à Mayotte. - art. R156-4 (T)
 
 
 ## LIVRE II : Réglementation du travail
@@ -36926,12 +37210,43 @@ hebdomadaire fixées à l'article L. 221-4 et au repos de nuit prévu à l'artic
 	  - Code du travail applicable à Mayotte. - art. R222-2 (V)
 
 
-#### CHAPITRE III : Congés annuels
+#### CHAPITRE III : Congés payés
+
+##### Section 1 : Droit au congé
+
+###### Article D223-1
+
+L'employeur qui emploie pendant la période fixée pour son congé légal un salarié à un travail rémunéré, même en dehors de
+l'entreprise, est considéré comme ne donnant pas le congé légal, sans préjudice des dommages et intérêts auxquels il peut
+être condamné en application de l'article D. 223-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 3
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. D223-2 (V)
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R223-1 (T)
+
 
 ###### Article D223-2
 
-L'employeur qui occupe pendant la période fixée pour son congé légal un salarié à un travail rémunéré, même en dehors de
-l'entreprise, est considéré comme ne donnant pas le congé légal.
+Le salarié qui accomplit pendant sa période de congés payés des travaux rémunérés, privant de ce fait des demandeurs d'emploi
+d'un travail qui aurait pu leur être confié, peut être l'objet d'une action devant le juge d'instance en dommages et intérêts
+envers le régime d'assurance chômage. 
+
+Les dommages et intérêts ne peuvent être inférieurs au montant de l'indemnité due au salarié pour son congé payé. 
+
+L'action en dommages et intérêts est exercée à la diligence soit du maire de la commune intéressée, soit du préfet. 
+
+L'employeur qui a occupé sciemment un salarié bénéficiaire d'un congé payé peut être également l'objet, dans les mêmes
+conditions, de l'action en dommages et intérêts prévue par le présent article.
 
 **Liens relatifs à cet article**
 
@@ -36941,59 +37256,30 @@ l'entreprise, est considéré comme ne donnant pas le congé légal.
 
 	**Modifié par**:
 
-	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Anciens textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D223-1 (T)
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 3
 
 	**Cité par**:
 
 	  - Code du travail applicable à Mayotte. - art. D223-1 (V)
 
 
-###### Article D223-3
-
-La période ordinaire des vacances doit dans tous les cas être portée par l'employeur à la connaissance du personnel au moins
-deux mois avant l'ouverture de cette période.
-
-L'ordre des départs est communiqué à chaque ayant droit quinze jours avant son départ et affiché dans les ateliers, bureaux
-et magasins. Il est fixé par l'employeur, après consultation du personnel ou de ses délégués, en tenant compte de la
-situation de famille des bénéficiaires et de la durée de leurs services dans l'établissement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-48
-
-	**Codifié par**:
-
-	  - Décret n°92-238 du 9 mars 1992
-
-	**Modifié par**:
-
-	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2013-612 du 10 juillet 2013 - art. 3
-
-	**Anciens textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D223-2 (T)
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D223-4 (V)
-	  - Code du travail applicable à Mayotte. - art. R223-3 (V)
-
+##### Section 2 : Durée du congé
 
 ###### Article D223-4
 
-Ne peuvent être déduits du congé annuel les jours de maladie, les repos des femmes en couches prévus par l'article L. 122-48,
-les périodes obligatoires d'instruction militaire, les jours de chômage, les périodes de délai-congé, les absences
-autorisées.
+Ne peuvent être déduits du congé annuel : 
+
+1° Les absences autorisées ; 
+
+2° Les congés de maternité et d'adoption prévus par les articles L. 122-48 et L. 122-48-1 ; 
+
+3° Les jours d'absence pour maladie ou pour accident ; 
+
+4° Les jours de chômage ; 
+
+5° Les périodes de préavis ; 
+
+6° Les périodes obligatoires d'instruction militaire.
 
 **Liens relatifs à cet article**
 
@@ -37003,7 +37289,7 @@ autorisées.
 
 	**Modifié par**:
 
-	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 3
 
 	**Anciens textes**:
 
@@ -37011,134 +37297,91 @@ autorisées.
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L122-48 (V)
+	  - Code du travail applicable à Mayotte. - art. L122-48
 
 
-###### Article D223-5
+###### Article R223-3
 
-Le paiement des indemnités dues pour les congés payés est soumis aux règles qui sont fixées par le livre Ier du présent code
-pour le paiement des salaires et traitements.
+Le point de départ de la période prise en compte pour le calcul du droit au congé est fixé au 1er juin de chaque année.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 3
 
 	**Anciens textes**:
 
-	  - Code du travail applicable à Mayotte. - art. D223-4 (T)
+	  - Code du travail applicable à Mayotte. - art. D223-3 (T)
 
 
-###### Article R223-1
+##### Section 3 : Prise des congés
 
-Le point de départ de la période prise en considération pour l'application du droit au congé est fixé au 1er juin de chaque
-année.
+###### Article D223-5
+
+La période de prise des congés payés est portée par l'employeur à la connaissance des salariés au moins deux mois avant
+l'ouverture de cette période.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°91-1263 du 16 décembre 1991
-
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 3
 
-	**Liens**:
 
-	  - TRANSFERE: Décret n°2013-612 du 10 juillet 2013 - art. 3
+###### Article D223-6
 
-	**Nouveaux textes**:
+L'ordre des départs en congé est communiqué à chaque salarié un mois avant son départ, et affiché dans les locaux normalement
+accessibles aux salariés.
 
-	  - Code du travail applicable à Mayotte. - art. D223-1 (V)
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 3
+
+
+##### Section 4 : Indemnités de congés
+
+###### Article D223-7
+
+Le paiement des indemnités dues pour les congés payés est soumis aux règles déterminées par le livre Ier pour le paiement des
+salaires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 3
+
+
+##### Section 5 : Dispositions pénales
+
+###### Article R223-8
+
+Le fait de méconnaître les dispositions des articles L. 223-1 à L. 223-27, ainsi que celles des décrets pris pour leur
+application, est puni de l'amende prévue pour les contraventions de la cinquième classe, prononcée autant de fois qu'il y a
+de salariés concernés par l'infraction. 
+
+La récidive est réprimée conformément aux articles 132-11 et 132-15 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 3
+
+	**Cite**:
+
+	  - Code pénal - art. 132-11 (V)
+	  - Code du travail applicable à Mayotte. - art. L223-1 (V)
 
 
 #### CHAPITRE V : Congés non rémunérés
 
-##### Section 1 : Congés de formation économique, sociale et syndicale
-
-###### Article R225-1
-
-La liste des centres et instituts dont les stages et sessions ouvrent droit aux congés de formation économique, sociale et
-syndicale est établie par arrêté du représentant de l'Etat après avis de la commission consultative du travail, sous réserve,
-pour les organismes mentionnés au dernier alinéa de l'article L. 225-5, d'avoir obtenu l'agrément du ministre chargé du
-travail.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 1991-12-16 annexe
-
-	**Créé par**:
-
-	  - Décret n°2006-1315 du 25 octobre 2006 - art. 8 () JORF 27 octobre 2006
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L225-5 (V)
-
-
-###### Article R225-2
-
-La demande de congé est présentée à l'employeur au moins trente jours à l'avance par l'intéressé et précise la date et la
-durée de l'absence sollicitée ainsi que le nom de l'organisme responsable du stage ou de la session.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 1991-12-16 annexe
-
-	**Créé par**:
-
-	  - Décret n°2006-1315 du 25 octobre 2006 - art. 8 () JORF 27 octobre 2006
-
-
-###### Article R225-3
-
-Le refus du congé par l'employeur est notifié à l'intéressé dans un délai de huit jours à compter de la réception de la
-demande.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 1991-12-16 annexe
-
-	**Créé par**:
-
-	  - Décret n°2006-1315 du 25 octobre 2006 - art. 8 () JORF 27 octobre 2006
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. R255-1 (V)
-
-
-###### Article R225-4
-
-L'organisme chargé des stages ou sessions délivre aux salariés une attestation constatant la fréquentation effective de ceux-
-ci par l'intéressé. Cette attestation est remise à l'employeur au moment de la reprise du travail.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 1991-12-16 annexe
-
-	**Créé par**:
-
-	  - Décret n°2006-1315 du 25 octobre 2006 - art. 8 () JORF 27 octobre 2006
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. R225-6 (V)
-
-
 ##### Section 2 : Congé mutualiste.
 
-###### Article R225-5
+###### Article R225-7
 
 L'administrateur d'une mutuelle désireux de bénéficier du congé mutualiste de formation prévu à l'article L. 225-9 présente,
 par écrit, sa demande à son employeur trente jours au moins à l'avance en précisant la date et la durée de l'absence
@@ -37148,26 +37391,27 @@ envisagée ainsi que la désignation de l'organisme responsable du stage ou de l
 
 	**Codifié par**:
 
-	  - Décret n°91-1263 1991-12-16 annexe
+	  - Décret n°91-1263 du 16 décembre 1991
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1315 du 25 octobre 2006 - art. 8 () JORF 27 octobre 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2013-612 du 10 juillet 2013 - art. 3
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 3
 
 	**Cite**:
 
 	  - Code du travail applicable à Mayotte. - art. L225-9 (V)
 
-	**Nouveaux textes**:
+	**Cité par**:
 
-	  - Code du travail applicable à Mayotte. - art. R225-7 (V)
+	  - Code du travail applicable à Mayotte. - art. R225-4 (V)
+	  - Code du travail applicable à Mayotte. - art. R225-8 (V)
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R225-5 (T)
 
 
-###### Article R225-6
+###### Article R225-8
 
 Le bénéfice du congé demandé est de droit, sous réserve des dispositions des articles R. 225-7 à R. 225-12.
 
@@ -37175,26 +37419,27 @@ Le bénéfice du congé demandé est de droit, sous réserve des dispositions de
 
 	**Codifié par**:
 
-	  - Décret n°91-1263 1991-12-16 annexe
+	  - Décret n°91-1263 du 16 décembre 1991
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1315 du 25 octobre 2006 - art. 8 () JORF 27 octobre 2006
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 3
 
-	**Liens**:
+	**Cité par**:
 
-	  - TRANSFERE: Décret n°2013-612 du 10 juillet 2013 - art. 3
+	  - Code du travail applicable à Mayotte. - art. R225-11 (V)
+	  - Code du travail applicable à Mayotte. - art. R225-9 (V)
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R225-6 (T)
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte R225-7 à R225-12
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. R225-8 (V)
+	  - Code du travail applicable à Mayotte. - art. R225-7 (V)
 
 
-###### Article R225-7
+###### Article R225-9
 
 Le salarié, dont la demande n'aurait pas été satisfaite en raison des conditions mentionnées aux articles R. 225-8 et R.
 225-9, bénéficie d'une priorité pour l'octroi ultérieur d'un congé.
@@ -37203,31 +37448,28 @@ Le salarié, dont la demande n'aurait pas été satisfaite en raison des conditi
 
 	**Codifié par**:
 
-	  - Décret n°91-1263 1991-12-16 annexe
+	  - Décret n°91-1263 du 16 décembre 1991
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1315 du 25 octobre 2006 - art. 8 () JORF 27 octobre 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2013-612 du 10 juillet 2013 - art. 3
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 3
 
 	**Cité par**:
 
-	  - Code du travail applicable à Mayotte. - art. R225-4 (V)
-	  - Code du travail applicable à Mayotte. - art. R225-8 (V)
+	  - Code du travail applicable à Mayotte. - art. R225-12 (V)
+	  - Code du travail applicable à Mayotte. - art. R225-14 (V)
+	  - Code du travail applicable à Mayotte. - art. R225-7 (T)
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R225-7 (T)
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. R225-9 (V)
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. R225-9 (V)
+	  - Code du travail applicable à Mayotte. - art. R225-8 (V)
 
 
-###### Article R225-8
+###### Article R225-10
 
 Le bénéfice du congé peut être refusé par l'employeur s'il établit que le nombre de salariés ayant bénéficié du congé, durant
 l'année en cours, atteint la proportion ci-après :
@@ -37252,33 +37494,23 @@ Au-delà de 2 000 salariés : un bénéficiaire de plus par tranche supplémenta
 
 	**Codifié par**:
 
-	  - Décret n°91-1263 1991-12-16 annexe
+	  - Décret n°91-1263 du 16 décembre 1991
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1315 du 25 octobre 2006 - art. 8 () JORF 27 octobre 2006
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 3
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2013-612 du 10 juillet 2013 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. R225-10 (V)
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. R225-11 (V)
-	  - Code du travail applicable à Mayotte. - art. R225-7 (T)
-	  - Code du travail applicable à Mayotte. - art. R225-9 (V)
+	  - Code du travail applicable à Mayotte. - art. R225-8 (T)
 
 
-###### Article R225-9
+###### Article R225-11
 
 Le bénéfice du congé peut être refusé par l'employeur s'il établit que ce refus est justifié par des nécessités particulières
-à son entreprise ou au fonctionnement de celle-ci.
+à son entreprise ou au fonctionnement de celle-ci. 
 
-Ce refus ne peut intervenir qu'après consultation du comité d'entreprise ou, à défaut, des délégués du personnel.
+Ce refus ne peut intervenir qu'après consultation du comité d'entreprise ou, à défaut, des délégués du personnel. 
 
 Si le salarié ou l'apprenti renouvelle sa demande après l'expiration d'un délai de quatre mois, un nouveau refus ne peut lui
 être opposé sauf en cas de dépassement du nombre déterminé par l'article R. 225-8.
@@ -37287,32 +37519,22 @@ Si le salarié ou l'apprenti renouvelle sa demande après l'expiration d'un dél
 
 	**Codifié par**:
 
-	  - Décret n°91-1263 1991-12-16 annexe
+	  - Décret n°91-1263 du 16 décembre 1991
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1315 du 25 octobre 2006 - art. 8 () JORF 27 octobre 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2013-612 du 10 juillet 2013 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. R225-11 (V)
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. R225-12 (V)
-	  - Code du travail applicable à Mayotte. - art. R225-14 (V)
-	  - Code du travail applicable à Mayotte. - art. R225-7 (T)
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 3
 
 	**Cite**:
 
 	  - Code du travail applicable à Mayotte. - art. R225-8 (V)
 
+	**Anciens textes**:
 
-###### Article R225-10
+	  - Code du travail applicable à Mayotte. - art. R225-9 (T)
+
+
+###### Article R225-12
 
 Tout refus de l'employeur est motivé et notifié à l'intéressé dans les huit jours qui suivent la réception de sa demande.
 
@@ -37320,22 +37542,23 @@ Tout refus de l'employeur est motivé et notifié à l'intéressé dans les huit
 
 	**Codifié par**:
 
-	  - Décret n°91-1263 1991-12-16 annexe
+	  - Décret n°91-1263 du 16 décembre 1991
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1315 du 25 octobre 2006 - art. 8 () JORF 27 octobre 2006
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 3
 
-	**Liens**:
+	**Cite**:
 
-	  - TRANSFERE: Décret n°2013-612 du 10 juillet 2013 - art. 3
+	  - Code du travail applicable à Mayotte. - art. L134-1
+	  - Code du travail applicable à Mayotte. - art. R225-9
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du travail applicable à Mayotte. - art. R225-12 (V)
+	  - Code du travail applicable à Mayotte. - art. R225-10 (T)
 
 
-###### Article R225-11
+###### Article R225-13
 
 A l'issue des stages ou sessions de formation, l'organisme chargé de ces stages ou sessions délivre au salarié une
 attestation constatant la fréquentation effective de ceux-ci par l'intéressé. Cette attestation est remise à l'employeur au
@@ -37345,53 +37568,41 @@ moment de la reprise du travail.
 
 	**Codifié par**:
 
-	  - Décret n°91-1263 1991-12-16 annexe
+	  - Décret n°91-1263 du 16 décembre 1991
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1315 du 25 octobre 2006 - art. 8 () JORF 27 octobre 2006
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 3
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2013-612 du 10 juillet 2013 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. R225-13 (V)
+	  - Code du travail applicable à Mayotte. - art. R225-11 (T)
 
 
-###### Article R225-12
+###### Article R225-14
 
-Les dispositions de la présente section s'appliquent aux entreprises publiques.
+Les dispositions de la présente section s'appliquent aux entreprises publiques. 
 
 Toutefois, pour les entreprises publiques non prévues à l'article L. 134-1, des arrêtés pris par les ministres intéressés
 précisent les organismes appelés à donner leur avis dans les conditions prévues par l'article R. 225-9.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°91-1263 1991-12-16 annexe
-
 	**Créé par**:
 
-	  - Décret n°2006-1315 du 25 octobre 2006 - art. 8 () JORF 27 octobre 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2013-612 du 10 juillet 2013 - art. 3
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 3
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L134-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L134-1 (V)
 	  - Code du travail applicable à Mayotte. - art. R225-9 (V)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du travail applicable à Mayotte. - art. R225-14 (V)
+	  - Code du travail applicable à Mayotte. - art. R225-12 (T)
 
 
-###### Article R225-13
+###### Article R225-15
 
 La liste des organismes dont les stages ouvrent droit au congé mutualiste est celle établie par arrêté du ministre chargé de
 la mutualité.
@@ -37401,22 +37612,164 @@ travail.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°91-1263 1991-12-16 annexe
-
 	**Créé par**:
 
-	  - Décret n°2006-1315 du 25 octobre 2006 - art. 8 () JORF 27 octobre 2006
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 3
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2013-612 du 10 juillet 2013 - art. 3
+	  - Code du travail applicable à Mayotte. - art. R225-13 (T)
 
-	**Nouveaux textes**:
 
-	  - Code du travail applicable à Mayotte. - art. R225-15 (V)
+#### CHAPITRE V :  Autres congés
 
+##### Section 1 : Congé de formation économique et sociale et de formation syndicale
+
+###### Article R225-1
+
+Dans les entreprises de dix salariés et plus, l'employeur rémunère les congés de formation économique et sociale et de
+formation syndicale dans la limite de 0,08 ‰ du montant des salaires payés pendant l'année en cours. Ce montant est entendu
+au sens du 1 de l'article 231 du code général des impôts relatif à la taxe sur les salaires. 
+
+Les dépenses correspondantes des entreprises sont déductibles, dans la limite fixée au premier alinéa, du montant de la
+participation des employeurs au financement de la formation professionnelle continue.
+
+**Nota:**
+
+Décret n° 2013-612 du 10 juillet 2013 article 5 I : Jusqu'au 31 décembre 2013, pour l'application des dispositions de
+l'article R. 225-1 du code du travail applicable à Mayotte, le montant des salaires payés pendant l'année en cours est
+apprécié au sens de l'ordonnance du 20 décembre 1996 modifiée susvisée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 du 16 décembre 1991
+
+	**Modifié par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 3
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 231 (V)
+	  - Code du travail applicable à Mayotte. - art. L225-5
+
+
+###### Article R225-2
+
+La liste des centres et instituts dont les stages et sessions ouvrent droit aux congés de formation économique et sociale et
+syndicale est établie dans les conditions prévues à l'article R. 3142-2 du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 du 16 décembre 1991
+
+	**Modifié par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 3
+
+	**Cite**:
+
+	  - Code du travail - art. R3142-2 (V)
+
+
+###### Article R225-3
+
+Le salarié adresse à l'employeur, au moins trente jours avant le début du congé de formation économique et sociale et de
+formation syndicale, une demande l'informant de sa volonté de bénéficier de ce congé. 
+
+Il précise la date et la durée de l'absence sollicitée ainsi que le nom de l'organisme responsable du stage ou de la session.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 du 16 décembre 1991
+
+	**Modifié par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 3
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R255-1 (V)
+
+
+###### Article R225-4
+
+Le refus du congé de formation économique et sociale et de formation syndicale par l'employeur est notifié à l'intéressé dans
+un délai de huit jours à compter de la réception de sa demande. 
+
+En cas de différend, la juridiction du travail saisie en application de l'article L. 225-7 statue en dernier ressort en la
+forme des référés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 du 16 décembre 1991
+
+	**Modifié par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 3
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R225-6 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R225-7 (V)
+
+
+###### Article R225-5
+
+L'organisme chargé des stages ou sessions délivre au salarié une attestation constatant la fréquentation effective de celui-
+ci. 
+
+Cette attestation est remise à l'employeur au moment de la reprise du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 du 16 décembre 1991
+
+	**Modifié par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 3
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L225-9
+
+
+###### Article R225-6
+
+Le fait de méconnaître les dispositions des articles L. 225-7 et R. 225-4 relatives au refus d'accorder les congés de
+formation économique et sociale et de formation syndicale est puni de l'amende prévue pour les contraventions de la troisième
+classe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 du 16 décembre 1991
+
+	**Modifié par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 3
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L225-7 (V)
+	  - Code du travail applicable à Mayotte. - art. R225-4 (V)
+
+
+##### Section 2 : Congé mutualiste.
 
 ### TITRE III : Hygiène, sécurité et conditions de travail
 
@@ -68978,38 +69331,6 @@ Est punie de la même peine toute personne qui ne fournit pas les renseignements
 
 ### TITRE Ier : Les syndicats professionnels
 
-#### CHAPITRE Ier : Statut juridique des syndicats
-
-###### Article R411-1
-
-Le dépôt prévu à l'article L. 411-3 a lieu à la mairie de la localité où le syndicat est établi.
-
-Communication des statuts doit être donnée par le maire au procureur de la République.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 1991-12-16 annexe
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2013-612 du 10 juillet 2013 - art. 4
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L411-3
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. R430-1 (Ab)
-	  - Code du travail applicable à Mayotte. - art. R451-1 (V)
-
-
 #### CHAPITRE II : Droit syndical et représentativité des syndicats
 
 ##### Section 1 : Critères de représentativité
@@ -69031,6 +69352,842 @@ Les enquêtes relatives à la détermination de la représentativité sont dilig
 	**Cite**:
 
 	  - Code du travail applicable à Mayotte. - art. L133-1
+
+
+###### Article R412-2
+
+Le silence gardé pendant plus de six mois par le préfet de Mayotte saisi d'une demande d'enquête vaut décision de rejet.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 4
+
+
+#### CHAPITRE II : Représentativité syndicale
+
+##### Section 1 : Critères de représentativité
+
+##### Section 2 : Syndicats représentatifs
+
+###### Article D412-3
+
+Le recueil des résultats des organisations syndicales aux élections professionnelles s'effectue dans les conditions définies
+aux articles D. 2122-6 et D. 2122-7 du code du travail.
+
+**Nota:**
+
+Décret n° 2013-612 du 10 juillet 2013 article 5 II : Les dispositions de l'article D. 412-3 s'appliquent à l'entreprise ou à
+l'établissement pour lesquels la date fixée pour la première réunion de la négociation du protocole d'accord préélectoral est
+postérieure au 31 décembre 2012 en vue de la deuxième mesure de l'audience organisée en application des articles L. 2122-5 à
+L. 2122-7 et L. 2122-9 à L. 2122-13 du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 4
+
+	**Cite**:
+
+	  - Code du travail - art. D2122-6 (V)
+
+
+###### Article R412-4
+
+La mesure de l'audience des organisations syndicales concernant les entreprises de moins de onze salariés s'effectue dans les
+conditions définies aux articles R. 2122-8 à R. 2122-98 du code du travail. 
+
+Pour leur application à Mayotte, ces dispositions sont ainsi adaptées : 
+
+a) Les références à la région ou à chaque région sont remplacées par des références à Mayotte ; 
+
+b) Les références au directeur régional ou à la direction régionale des entreprises, de la concurrence, de la consommation,
+du travail et de l'emploi sont remplacées par des références au directeur ou à la direction des entreprises, de la
+concurrence, de la consommation, du travail et de l'emploi de Mayotte ; 
+
+c) La liste électorale est établie pour Mayotte par le ministre chargé du travail.
+
+**Nota:**
+
+Décret n° 2013-612 du 10 juillet 2013 article 5 III : Les dispositions de l'article R. 412-4 s'appliquent pour la deuxième
+mesure de l'audience organisée en application de l'article L. 412-11 du code du travail applicable à Mayotte et des articles
+L. 2122-5 à L. 2122-7 et L. 2122-9 à L. 2122-13 du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 4
+
+	**Cite**:
+
+	  - Code du travail - art. R2122-8 (V)
+
+
+###### Article R412-5
+
+Un arrêté du préfet fixe les conditions dans lesquelles sont allouées les indemnités de déplacement des membres de la
+commission consultative du travail, des commissions mixtes mentionnées à l'article L. 133-1 et du comité mahorais de
+coordination de l'emploi et de la formation professionnelle et, pour les membres autres que les fonctionnaires en activité,
+les vacations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 4
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L133-1 (V)
+
+
+#### CHAPITRE III : Statut juridique
+
+##### Section 1 : Objet et constitution 
+
+
+###### Article R413-1
+
+Les statuts du syndicat sont déposés à la mairie de la localité où le syndicat est établi. 
+
+Le maire communique ces statuts au procureur de la République.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 4
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R451-1 (V)
+
+
+##### Section 2 : Ressources et moyens
+
+
+###### Article D413-2
+
+Les comptes annuels des syndicats professionnels de salariés ou d'employeurs et de leurs unions et des associations de
+salariés ou d'employeurs mentionnés à l'article L. 413-18 sont établis dans les conditions prévues à la présente section.
+
+**Nota:**
+
+Décret n° 2013-612 du 10 juillet 2013 article 5 IV : Ces dispositions relatives à l'établissement, la certification et la
+publicité des comptes des organisations syndicales s'appliquent à compter de l'exercice comptable 2016.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 4
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L413-18 (VD)
+
+
+###### Article D413-3
+
+Les comptes annuels des syndicats professionnels de salariés ou d'employeurs et de leurs unions et des associations de
+salariés ou d'employeurs mentionnés à l'article L. 413-18 dont les ressources au sens de l'article D. 413-10 sont supérieures
+à 230 000 euros à la clôture d'un exercice comprennent un bilan, un compte de résultat et une annexe selon des modalités
+définies par règlement de l'Autorité des normes comptables. 
+
+Les prescriptions comptables applicables à ces organisations sont fixées par règlement de l'Autorité des normes comptables.
+
+**Nota:**
+
+Décret n° 2013-612 du 10 juillet 2013 article 5 IV : Ces dispositions relatives à l'établissement, la certification et la
+publicité des comptes des organisations syndicales s'appliquent à compter de l'exercice comptable 2016.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 4
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. D413-10 (V)
+	  - Code du travail applicable à Mayotte. - art. L413-18 (VD)
+
+
+###### Article D413-4
+
+Les comptes annuels des syndicats professionnels de salariés ou d'employeurs et de leurs unions et des associations de
+salariés ou d'employeurs mentionnés à l'article L. 413-18 dont les ressources au sens de l'article D. 413-10 sont inférieures
+ou égales à 230 000 euros à la clôture de l'exercice peuvent être établis sous la forme d'un bilan, d'un compte de résultat
+et d'une annexe simplifiés, selon des modalités fixées par règlement de l'Autorité des normes comptables. Ils peuvent
+n'enregistrer leurs créances et leurs dettes qu'à la clôture de l'exercice. 
+
+Les dispositions du présent article ne sont plus applicables lorsque la condition de ressources mentionnée à l'alinéa
+précédent n'est pas remplie pendant deux exercices consécutifs.
+
+**Nota:**
+
+Décret n° 2013-612 du 10 juillet 2013 article 5 IV : Ces dispositions relatives à l'établissement, la certification et la
+publicité des comptes des organisations syndicales s'appliquent à compter de l'exercice comptable 2016.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 4
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. D413-10 (V)
+	  - Code du travail applicable à Mayotte. - art. L413-18 (VD)
+
+
+###### Article D413-5
+
+Les comptes annuels des syndicats professionnels de salariés ou d'employeurs et de leurs unions et des associations de
+salariés ou d'employeurs mentionnés à l'article L. 413-18 dont les ressources au sens de l'article D. 413-10 sont inférieures
+à 2 000 euros à la clôture d'un exercice peuvent être établis sous la forme d'un livre mentionnant chronologiquement le
+montant et l'origine des ressources qu'ils perçoivent et des dépenses qu'ils effectuent ainsi que les références aux pièces
+justificatives. Pour les ressources, il distingue les règlements en espèces des autres règlements. Une fois par année civile,
+un total des ressources et des dépenses est établi.
+
+**Nota:**
+
+Décret n° 2013-612 du 10 juillet 2013 article 5 IV : Ces dispositions relatives à l'établissement, la certification et la
+publicité des comptes des organisations syndicales s'appliquent à compter de l'exercice comptable 2016.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 4
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. D413-10 (V)
+	  - Code du travail applicable à Mayotte. - art. L413-18 (VD)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D413-9 (V)
+
+
+###### Article D413-6
+
+Les comptes des syndicats professionnels et de leurs unions et des associations de salariés ou d'employeurs mentionnés à
+l'article L. 413-19 comprennent un bilan, un compte de résultat et une annexe établis selon des modalités définies par
+règlement de l'Autorité des normes comptables. 
+
+Les prescriptions comptables relatives aux comptes consolidés sont fixées par règlement de l'Autorité des normes comptables.
+
+**Nota:**
+
+Décret n° 2013-612 du 10 juillet 2013 article 5 IV : Ces dispositions relatives à l'établissement, la certification et la
+publicité des comptes des organisations syndicales s'appliquent à compter de l'exercice comptable 2016.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 4
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L413-19 (VD)
+
+
+###### Article D413-7
+
+Les comptes combinés des syndicats professionnels et de leurs unions et des associations de salariés ou d'employeurs
+mentionnés à l'article L. 413-20 comprennent un bilan, un compte de résultat et une annexe établis selon des modalités
+définies par règlement de l'Autorité des normes comptables. 
+
+Les prescriptions comptables relatives aux comptes combinés sont fixées par règlement de l'Autorité des normes comptables.
+
+**Nota:**
+
+Décret n° 2013-612 du 10 juillet 2013 article 5 IV : Ces dispositions relatives à l'établissement, la certification et la
+publicité des comptes des organisations syndicales s'appliquent à compter de l'exercice comptable 2016.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 4
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L413-20 (VD)
+
+
+###### Article D413-8
+
+Les syndicats professionnels de salariés ou d'employeurs et leurs unions et les associations de salariés ou d'employeurs
+mentionnés à l'article L. 413-18 dont les ressources au sens de l'article D. 413-10 sont égales ou supérieures à 230 000
+euros à la clôture d'un exercice assurent la publicité de leurs comptes et du rapport du commissaire aux comptes sur le site
+internet de la direction de l'information légale et administrative. A cette fin, ils transmettent par voie électronique à la
+direction de l'information légale et administrative, dans un délai de trois mois à compter de l'approbation des comptes par
+l'organe délibérant statutaire, le bilan, le compte de résultat, l'annexe ainsi que le rapport du commissaire aux comptes. Un
+arrêté du Premier ministre fixe les modalités de cette transmission. 
+
+Ces documents sont publiés sous forme électronique par la direction de l'information légale et administrative, dans des
+conditions de nature à garantir leur authenticité et leur accessibilité gratuite. 
+
+Cette prestation donne lieu à rémunération pour service rendu dans les conditions prévues par le décret n° 2005-1073 du 31
+août 2005 relatif à la rémunération des services rendus par la direction de l'information légale et administrative.
+
+**Nota:**
+
+Décret n° 2013-612 du 10 juillet 2013 article 5 IV : Ces dispositions relatives à l'établissement, la certification et la
+publicité des comptes des organisations syndicales s'appliquent à compter de l'exercice comptable 2016.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2005-1073 du 31 août 2005 (V)
+	  - Code du travail applicable à Mayotte. - art. D413-10 (V)
+	  - Code du travail applicable à Mayotte. - art. L413-18 (VD)
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 4
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D413-9 (V)
+
+
+###### Article D413-9
+
+Les syndicats professionnels de salariés ou d'employeurs et leurs unions, et les associations de salariés ou d'employeurs
+mentionnés à l'article L. 413-18 dont les ressources au sens de l'article D. 413-10 sont inférieures à 230 000 euros à la
+clôture d'un exercice assurent la publicité de leurs comptes dans un délai de trois mois à compter de leur approbation par
+l'organe délibérant statutaire soit dans les conditions prévues à l'article D. 413-8, soit par publication sur leur site
+internet ou, à défaut de site, à la direction des entreprises, de la concurrence, de la consommation, du travail et de
+l'emploi. A cette fin, ils transmettent, le cas échéant par voie électronique, leurs comptes ou le livre mentionné à
+l'article D. 413-5 à la direction des entreprises, de la concurrence, de la consommation, du travail et de l'emploi dans le
+ressort de laquelle leurs statuts ont été déposés. 
+
+Ces comptes annuels sont librement consultables. 
+
+Toutefois, les comptes annuels des syndicats professionnels de salariés ou d'employeurs et de leurs unions et des
+associations de salariés ou d'employeurs mentionnés à l'article L. 413-18 dont les ressources, au sens de l'article D.
+413-10, sont inférieures à 23 000 euros à la clôture d'un exercice ne le sont qu'à la condition que cette consultation ne
+soit pas susceptible de porter atteinte à la vie privée de leurs membres. 
+
+Le directeur des entreprises, de la concurrence, de la consommation, du travail et de l'emploi rend anonymes les mentions
+permettant l'identification des membres avant communication des documents mentionnés au premier alinéa.
+
+**Nota:**
+
+Décret n° 2013-612 du 10 juillet 2013 article 5 IV : Ces dispositions relatives à l'établissement, la certification et la
+publicité des comptes des organisations syndicales s'appliquent à compter de l'exercice comptable 2016.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 4
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. D413-10 (V)
+	  - Code du travail applicable à Mayotte. - art. D413-5 (V)
+	  - Code du travail applicable à Mayotte. - art. D413-8 (V)
+	  - Code du travail applicable à Mayotte. - art. L413-18 (VD)
+
+
+###### Article D413-10
+
+Les syndicats professionnels de salariés ou d'employeurs et leurs unions et les associations de salariés ou d'employeurs
+mentionnés à l'article L. 413-18 sont tenus de désigner au moins un commissaire aux comptes et un suppléant lorsque leurs
+ressources dépassent 230 000 euros à la clôture d'un exercice. 
+
+Est pris en compte pour le calcul des ressources mentionnées au premier alinéa le montant des subventions, des produits de
+toute nature liés à l'activité courante, des produits financiers ainsi que des cotisations. Sont toutefois déduites de ce
+dernier montant les cotisations reversées, en vertu de conventions ou des statuts, à des syndicats professionnels de salariés
+ou d'employeurs et à leurs unions ou à des associations de salariés ou d'employeurs mentionnés à l'article L. 413-18.
+
+**Nota:**
+
+Décret n° 2013-612 du 10 juillet 2013 article 5 IV : Ces dispositions relatives à l'établissement, la certification et la
+publicité des comptes des organisations syndicales s'appliquent à compter de l'exercice comptable 2016.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 4
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D413-3 (V)
+	  - Code du travail applicable à Mayotte. - art. D413-4 (V)
+	  - Code du travail applicable à Mayotte. - art. D413-5 (V)
+	  - Code du travail applicable à Mayotte. - art. D413-8 (V)
+	  - Code du travail applicable à Mayotte. - art. D413-9 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L413-18 (VD)
+
+
+#### CHAPITRE IV : Exercice du droit syndical 
+
+
+##### Section 1 : Délégué syndical
+
+
+##### Sous-section 1 : Conditions de désignation
+
+##### Paragraphe 1 : Entreprises de cinquante salariés et plus 
+
+###### Article R414-1
+
+Le nombre des délégués syndicaux dont dispose chaque section syndicale au titre du premier alinéa de l'article L. 414-28 est
+fixé soit par entreprise, soit par établissement distinct.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 4
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L414-28 (V)
+
+
+###### Article R414-2
+
+Dans les entreprises, le nombre des délégués syndicaux est fixé comme suit :
+
+1° De 50 à 999 salariés : 1 délégué ;
+
+2° De 1 000 à 1 999 salariés : 2 délégués ;
+
+3° De 2 000 à 3 999 salariés : 3 délégués ;
+
+4° De 4 000 à 9 999 salariés : 4 délégués ;
+
+5° Au-delà de 9 999 salariés : 5 délégués.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 4
+
+
+###### Article R414-3
+
+Dans les entreprises comportant des établissements distincts de cinquante salariés ou plus, le nombre des délégués syndicaux
+est fixé par établissement conformément à l'article R. 141-2. 
+
+Pour apprécier le seuil de cinquante salariés, l'effectif est calculé conformément au deuxième alinéa de l'article L. 414-28.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 4
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L414-28 (V)
+	  - Code du travail applicable à Mayotte. - art. R141-2 (V)
+
+
+##### Paragraphe 2 : Formalités
+
+
+###### Article D414-4
+
+Les nom et prénoms du ou des délégués syndicaux, du délégué syndical central et du représentant syndical au comité
+d'entreprise sont portés à la connaissance de l'employeur soit par lettre recommandée avec avis de réception, soit par lettre
+remise contre récépissé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 4
+
+
+##### Paragraphe 3 : Contestations
+
+
+###### Article R414-5
+
+Le tribunal d'instance statue en dernier ressort sur les contestations relatives aux conditions de désignation des délégués
+syndicaux légaux ou conventionnels. 
+
+Il est saisi par voie de simple déclaration au greffe. 
+
+Il statue dans les dix jours sans frais, ni forme de procédure, et sur avertissement donné trois jours à l'avance à toutes
+les parties intéressées. 
+
+La décision du tribunal est notifiée par le greffe dans un délai de trois jours par lettre recommandée avec avis de
+réception. 
+
+La décision est susceptible d'un pourvoi en cassation dans un délai de dix jours. Le pourvoi est formé, instruit et jugé dans
+les conditions fixées par les articles 999 à 1008 du code de procédure civile.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 4
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 999 (V)
+
+
+##### Sous-section 2 : Mandat
+
+
+###### Article R414-6
+
+En l'absence d'accord, la décision de suppression du mandat de délégué syndical prévue au deuxième alinéa de l'article L.
+414-36 est prise par le directeur des entreprises, de la concurrence, de la consommation, du travail et de l'emploi. 
+
+Le silence gardé pendant plus de quatre mois par le ministre saisi d'un recours hiérarchique contre cette décision vaut
+décision de rejet
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 4
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L414-36 (V)
+
+
+##### Sous-section 3 : Protection du délégué syndical
+
+
+##### Paragraphe 1 : Procédures d'autorisation applicables à la rupture de contrat
+
+###### Article R414-7
+
+La demande d'autorisation de licenciement d'un délégué syndical est adressée à l'inspecteur du travail dont dépend
+l'établissement dans lequel est employé l'intéressé. 
+
+Lorsque le délégué syndical bénéficie également de la protection prévue aux articles L. 435-1 ou L. 445-1, la demande est
+accompagnée du procès-verbal de la réunion du comité d'entreprise. 
+
+Dans ce cas, sauf dans l'hypothèse d'une mise à pied, la demande est transmise dans les quinze jours suivant la date à
+laquelle a été émis l'avis du comité d'entreprise. 
+
+Dans tous les cas, la demande énonce les motifs du licenciement envisagé. Elle est transmise par lettre recommandée avec avis
+de réception.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 4
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L435-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L445-1 (V)
+
+
+###### Article R414-8
+
+Lorsqu'un licenciement pour motif économique de dix salariés ou plus dans une même période de trente jours concerne un ou
+plusieurs délégués syndicaux, l'employeur joint à la demande d'autorisation de licenciement la copie de la notification du
+projet de licenciement adressée à l'autorité administrative en application de l'article L. 320-46.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 4
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L320-46 (V)
+
+
+###### Article R414-9
+
+L'entretien préalable au licenciement a lieu avant la présentation de la demande d'autorisation de licenciement à
+l'inspecteur du travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 4
+
+
+###### Article R414-10
+
+L'inspecteur du travail procède à une enquête contradictoire au cours de laquelle le salarié peut, sur sa demande, se faire
+assister d'un représentant de son syndicat. 
+
+L'inspecteur du travail prend sa décision dans un délai de quinze jours, réduit à huit jours en cas de mise à pied. Ce délai
+court à compter de la réception de la demande d'autorisation de licenciement. Il n'est prolongé que si les nécessités de
+l'enquête le justifient. L'inspecteur informe les destinataires mentionnés à l'article R. 414-11 de la prolongation du délai.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 4
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R414-11 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R414-14 (V)
+
+
+###### Article R414-11
+
+La décision de l'inspecteur du travail est motivée.
+
+Elle est notifiée par lettre recommandée avec avis de réception :
+
+1° A l'employeur ;
+
+2° Au salarié ;
+
+3° A l'organisation syndicale intéressée lorsqu'il s'agit d'un délégué syndical.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 4
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R414-10 (V)
+
+
+###### Article R414-12
+
+En cas de faute grave, l'employeur peut prononcer la mise à pied immédiate de l'intéressé jusqu'à la décision de l'inspecteur
+du travail. 
+
+Lorsque le délégué syndical bénéficie de la protection prévue aux articles L. 435-1 ou L. 445-1, la consultation du comité
+d'entreprise a lieu dans un délai de dix jours à compter de la date de la mise à pied. La demande d'autorisation de
+licenciement est présentée au plus tard dans les quarante-huit heures suivant la délibération du comité d'entreprise. S'il
+n'y a pas de comité d'entreprise, cette demande est présentée dans un délai de huit jours à compter de la date de la mise à
+pied. 
+
+La mesure de mise à pied est privée d'effet lorsque le licenciement est refusé par l'inspecteur du travail ou, en cas de
+recours hiérarchique, par le ministre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 4
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L435-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L445-1 (V)
+
+
+###### Article R414-13
+
+L'inspecteur du travail et, en cas de recours hiérarchique, le ministre examinent notamment si la mesure de licenciement
+envisagée est en rapport avec le mandat détenu, sollicité ou antérieurement exercé par l'intéressé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 4
+
+
+##### Paragraphe 2 : Procédures d'autorisation applicables
+au transfert de contrat
+
+
+###### Article R414-14
+
+La demande d'autorisation de transfert prévue à l'article L. 414-50 est adressée à l'inspecteur du travail par lettre
+recommandée avec avis de réception quinze jours avant la date arrêtée pour le transfert. 
+
+Les dispositions des articles R. 414-10 et R. 414-11 s'appliquent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 4
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L414-50 (V)
+	  - Code du travail applicable à Mayotte. - art. R414-10 (V)
+
+
+##### Paragraphe 3 : Contestation de la décision administrative
+
+###### Article R414-15
+
+Le ministre chargé du travail peut annuler ou réformer la décision de l'inspecteur du travail sur le recours de l'employeur,
+du salarié ou du syndicat que ce salarié représente ou auquel il a donné mandat à cet effet.
+
+Ce recours est introduit dans un délai de deux mois à compter de la notification de la décision de l'inspecteur.
+
+Le silence gardé pendant plus de quatre mois sur ce recours vaut décision de rejet.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 4
+
+
+##### Section 2 : Formation économique, sociale et syndicale
+des salariés appelés à exercer des fonctions syndicales
+
+###### Article R414-16
+
+L'aide financière de l'Etat relative à la formation économique, sociale et syndicale des salariés appelés à exercer des
+fonctions syndicales est établie selon les conditions et modalités prévues par l'article R. 2145-1 du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 4
+
+	**Cite**:
+
+	  - Code du travail - art. R2145-1 (V)
+
+
+###### Article R414-17
+
+Pour l'application de l'article L. 414-58, les crédits destinés à la formation économique, sociale et syndicale des salariés
+appelés à exercer des fonctions syndicales sont inscrits dans les conditions définies à l'article R. 2145-2 du code du
+travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 4
+
+	**Cite**:
+
+	  - Code du travail - art. R2145-2 (V)
+	  - Code du travail applicable à Mayotte. - art. L414-58 (V)
+
+
+##### Section 3 : Dispositions pénales
+
+
+###### Article R414-18
+
+Le fait pour un directeur ou un administrateur d'un syndicat ou d'une union de syndicats de s'opposer à la libre constitution
+d'un syndicat ou d'une association professionnelle de personnes exerçant la même profession, des métiers similaires ou des
+métiers connexes, concourant à l'établissement de produits déterminés ou la même profession libérale, en méconnaissance des
+dispositions du premier alinéa de l'article L. 413-2, est puni de l'amende prévue pour les contraventions de la cinquième
+classe.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 4
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L413-2 (V)
+
+
+###### Article R414-19
+
+Le fait pour un directeur ou un administrateur d'un syndicat ou d'une union de syndicats de ne pas déposer les statuts dans
+les conditions prévues à l'article L. 413-3 est puni de l'amende prévue pour les contraventions de la cinquième classe.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 4
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L413-3 (V)
+
+
+###### Article R414-20
+
+Le fait pour un directeur ou un administrateur d'un syndicat ou d'une union de syndicats de s'opposer à l'accès d'un adhérent
+d'un syndicat professionnel, qui remplit les conditions fixées par l'article L. 413-5 aux fonctions d'administration ou de
+direction de ce syndicat, en méconnaissance des dispositions de l'article L. 413-4, est puni de l'amende prévue pour les
+contraventions de la cinquième classe.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 4
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L413-4 (V)
+	  - Code du travail applicable à Mayotte. - art. L413-5 (V)
+
+
+###### Article R414-21
+
+Le fait pour une personne qui est privée de ses droits civiques ou qui est l'objet d'une interdiction, déchéance ou
+incapacité relative à ses droits civiques, d'exercer les fonctions de directeur ou d'administrateur d'un syndicat ou d'une
+union de syndicats, en méconnaissance des dispositions du premier alinéa de l'article L. 413-5, est puni de l'amende prévue
+pour les contraventions de la cinquième classe.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 4
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L413-5 (V)
+
+
+###### Article R414-22
+
+Le fait pour un directeur ou un administrateur d'un syndicat ou d'une union de syndicats de s'opposer à la libre adhésion
+d'un salarié pour un motif lié à son sexe, son âge, sa nationalité, sa religion ou ses convictions, son handicap, son
+orientation ou identité sexuelle, son appartenance vraie ou supposée à une ethnie ou une race ou son statut civil, en
+méconnaissance des dispositions de l'article L. 414-1, est puni de l'amende prévue pour les contraventions de la cinquième
+classe. 
+
+Est puni de la même peine le fait de s'opposer à l'adhésion ou à la poursuite de l'adhésion d'une personne ayant cessé
+d'exercer son activité professionnelle, en méconnaissance des dispositions de l'article L. 414-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 4
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L414-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L414-2 (V)
 
 
 ### TITRE III : Les délégués du personnel
@@ -70653,21 +71810,21 @@ Cette demande énonce les motifs du licenciement envisagé. Elle donne lieu à l
 ###### Article R451-1
 
 Les directeurs ou administrateurs de syndicats ou d'unions de syndicats qui ont commis des infractions aux dispositions de
-l'article R. 411-1 sont punis de l'amende prévue pour les contraventions de la cinquième classe.
+l'article R. 413-1 sont punis de l'amende prévue pour les contraventions de la cinquième classe.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°91-1263 1991-12-16 annexe
+	  - Décret n°91-1263 du 16 décembre 1991
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1315 du 25 octobre 2006 - art. 24 () JORF 27 octobre 2006
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 4
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. R411-1 (M)
+	  - Code du travail applicable à Mayotte. - art. R413-1 (V)
 
 
 ## LIVRE V : Conflits du travail
