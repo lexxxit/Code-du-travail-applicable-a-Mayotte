@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2013-07-13
+Version Consolidée au 2013-08-24
 
 # Partie législative
 
@@ -37377,7 +37377,153 @@ La récidive est réprimée conformément aux articles 132-11 et 132-15 du code 
 	  - Code du travail applicable à Mayotte. - art. L223-1 (V)
 
 
-#### CHAPITRE V : Congés non rémunérés
+#### CHAPITRE V :  Autres congés
+
+##### Section 1 : Congé de formation économique et sociale et de formation syndicale
+
+###### Article R225-1
+
+Dans les entreprises de dix salariés et plus, l'employeur rémunère les congés de formation économique et sociale et de
+formation syndicale dans la limite de 0,08 ‰ du montant des salaires payés pendant l'année en cours. Ce montant est entendu
+au sens du 1 de l'article 231 du code général des impôts relatif à la taxe sur les salaires. 
+
+Les dépenses correspondantes des entreprises sont déductibles, dans la limite fixée au premier alinéa, du montant de la
+participation des employeurs au financement de la formation professionnelle continue.
+
+**Nota:**
+
+Décret n° 2013-612 du 10 juillet 2013 article 5 I : Jusqu'au 31 décembre 2013, pour l'application des dispositions de
+l'article R. 225-1 du code du travail applicable à Mayotte, le montant des salaires payés pendant l'année en cours est
+apprécié au sens de l'ordonnance du 20 décembre 1996 modifiée susvisée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 du 16 décembre 1991
+
+	**Modifié par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 3
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 231 (V)
+	  - Code du travail applicable à Mayotte. - art. L225-5
+
+
+###### Article R225-2
+
+La liste des centres et instituts dont les stages et sessions ouvrent droit aux congés de formation économique et sociale et
+syndicale est établie dans les conditions prévues à l'article R. 3142-2 du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 du 16 décembre 1991
+
+	**Modifié par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 3
+
+	**Cite**:
+
+	  - Code du travail - art. R3142-2 (V)
+
+
+###### Article R225-3
+
+Le salarié adresse à l'employeur, au moins trente jours avant le début du congé de formation économique et sociale et de
+formation syndicale, une demande l'informant de sa volonté de bénéficier de ce congé. 
+
+Il précise la date et la durée de l'absence sollicitée ainsi que le nom de l'organisme responsable du stage ou de la session.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 du 16 décembre 1991
+
+	**Modifié par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 3
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R255-1 (V)
+
+
+###### Article R225-4
+
+Le refus du congé de formation économique et sociale et de formation syndicale par l'employeur est notifié à l'intéressé dans
+un délai de huit jours à compter de la réception de sa demande. 
+
+En cas de différend, la juridiction du travail saisie en application de l'article L. 225-7 statue en dernier ressort en la
+forme des référés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 du 16 décembre 1991
+
+	**Modifié par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 3
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R225-6 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R225-7 (V)
+
+
+###### Article R225-5
+
+L'organisme chargé des stages ou sessions délivre au salarié une attestation constatant la fréquentation effective de celui-
+ci. 
+
+Cette attestation est remise à l'employeur au moment de la reprise du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 du 16 décembre 1991
+
+	**Modifié par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 3
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L225-9
+
+
+###### Article R225-6
+
+Le fait de méconnaître les dispositions des articles L. 225-7 et R. 225-4 relatives au refus d'accorder les congés de
+formation économique et sociale et de formation syndicale est puni de l'amende prévue pour les contraventions de la troisième
+classe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°91-1263 du 16 décembre 1991
+
+	**Modifié par**:
+
+	  - Décret n°2013-612 du 10 juillet 2013 - art. 3
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L225-7 (V)
+	  - Code du travail applicable à Mayotte. - art. R225-4 (V)
+
 
 ##### Section 2 : Congé mutualiste.
 
@@ -37620,156 +37766,6 @@ travail.
 
 	  - Code du travail applicable à Mayotte. - art. R225-13 (T)
 
-
-#### CHAPITRE V :  Autres congés
-
-##### Section 1 : Congé de formation économique et sociale et de formation syndicale
-
-###### Article R225-1
-
-Dans les entreprises de dix salariés et plus, l'employeur rémunère les congés de formation économique et sociale et de
-formation syndicale dans la limite de 0,08 ‰ du montant des salaires payés pendant l'année en cours. Ce montant est entendu
-au sens du 1 de l'article 231 du code général des impôts relatif à la taxe sur les salaires. 
-
-Les dépenses correspondantes des entreprises sont déductibles, dans la limite fixée au premier alinéa, du montant de la
-participation des employeurs au financement de la formation professionnelle continue.
-
-**Nota:**
-
-Décret n° 2013-612 du 10 juillet 2013 article 5 I : Jusqu'au 31 décembre 2013, pour l'application des dispositions de
-l'article R. 225-1 du code du travail applicable à Mayotte, le montant des salaires payés pendant l'année en cours est
-apprécié au sens de l'ordonnance du 20 décembre 1996 modifiée susvisée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 du 16 décembre 1991
-
-	**Modifié par**:
-
-	  - Décret n°2013-612 du 10 juillet 2013 - art. 3
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 231 (V)
-	  - Code du travail applicable à Mayotte. - art. L225-5
-
-
-###### Article R225-2
-
-La liste des centres et instituts dont les stages et sessions ouvrent droit aux congés de formation économique et sociale et
-syndicale est établie dans les conditions prévues à l'article R. 3142-2 du code du travail.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 du 16 décembre 1991
-
-	**Modifié par**:
-
-	  - Décret n°2013-612 du 10 juillet 2013 - art. 3
-
-	**Cite**:
-
-	  - Code du travail - art. R3142-2 (V)
-
-
-###### Article R225-3
-
-Le salarié adresse à l'employeur, au moins trente jours avant le début du congé de formation économique et sociale et de
-formation syndicale, une demande l'informant de sa volonté de bénéficier de ce congé. 
-
-Il précise la date et la durée de l'absence sollicitée ainsi que le nom de l'organisme responsable du stage ou de la session.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 du 16 décembre 1991
-
-	**Modifié par**:
-
-	  - Décret n°2013-612 du 10 juillet 2013 - art. 3
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. R255-1 (V)
-
-
-###### Article R225-4
-
-Le refus du congé de formation économique et sociale et de formation syndicale par l'employeur est notifié à l'intéressé dans
-un délai de huit jours à compter de la réception de sa demande. 
-
-En cas de différend, la juridiction du travail saisie en application de l'article L. 225-7 statue en dernier ressort en la
-forme des référés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 du 16 décembre 1991
-
-	**Modifié par**:
-
-	  - Décret n°2013-612 du 10 juillet 2013 - art. 3
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. R225-6 (V)
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. R225-7 (V)
-
-
-###### Article R225-5
-
-L'organisme chargé des stages ou sessions délivre au salarié une attestation constatant la fréquentation effective de celui-
-ci. 
-
-Cette attestation est remise à l'employeur au moment de la reprise du travail.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 du 16 décembre 1991
-
-	**Modifié par**:
-
-	  - Décret n°2013-612 du 10 juillet 2013 - art. 3
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L225-9
-
-
-###### Article R225-6
-
-Le fait de méconnaître les dispositions des articles L. 225-7 et R. 225-4 relatives au refus d'accorder les congés de
-formation économique et sociale et de formation syndicale est puni de l'amende prévue pour les contraventions de la troisième
-classe.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 du 16 décembre 1991
-
-	**Modifié par**:
-
-	  - Décret n°2013-612 du 10 juillet 2013 - art. 3
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L225-7 (V)
-	  - Code du travail applicable à Mayotte. - art. R225-4 (V)
-
-
-##### Section 2 : Congé mutualiste.
 
 ### TITRE III : Hygiène, sécurité et conditions de travail
 
@@ -60032,36 +60028,34 @@ L. 313-3 et qu'elle peut présenter ses observations écrites dans un délai de 
 
 #### CHAPITRE PRELIMINAIRE : Licenciement pour motif économique
 
+##### Section 1 :  Dispositions communes
+
 ###### Article R320-1
 
-Lorsque, dans une entreprise ou un établissement ou dans une profession mentionnés à l'article L. 320-5, le nombre des
-licenciements pour motif économique est inférieur à dix dans une même période de trente jours, l'employeur informe par écrit
-le directeur du travail, de l'emploi et de la formation professionnelle des licenciements prononcés dans les huit jours de
-l'envoi des lettres de licenciement aux salariés concernés.
+Le salarié qui souhaite connaître les critères retenus pour fixer l'ordre des licenciements adresse sa demande à l'employeur,
+en application de l'article L. 320-17, par lettre recommandée avec avis de réception ou remise en main propre contre
+décharge, avant l'expiration d'un délai de dix jours à compter de la date à laquelle il quitte effectivement son emploi. 
 
-L'employeur est tenu de préciser à cette occasion :
+L'employeur fait connaître les critères qu'il a retenus pour fixer l'ordre des licenciements, en application de l'article L.
+320-6, par lettre recommandée avec avis de réception ou remise en main propre contre décharge, dans les dix jours suivant la
+présentation ou la remise de la lettre du salarié. 
 
-1° Son nom et son adresse ;
-
-2° La nature de l'activité et l'effectif de l'entreprise ou de l'établissement ;
-
-3° Les nom, prénoms, nationalité, date de naissance, sexe, adresse, emploi et qualification du ou des salariés licenciés ;
-
-4° La date de la notification des licenciements aux salariés concernés.
+Ces délais ne sont pas des délais francs. Ils expirent le dernier jour à vingt-quatre heures.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°91-1263 1991-12-16 annexe
+	  - Décret n°91-1263 du 16 décembre 1991
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1315 du 25 octobre 2006 - art. 17 () JORF 27 octobre 2006
+	  - Décret n°2013-764 du 21 août 2013 - art. 1
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L320-5 (MMN)
+	  - Code du travail applicable à Mayotte. - art. L320-17
+	  - Code du travail applicable à Mayotte. - art. L320-6 (V)
 
 	**Cité par**:
 
@@ -60070,21 +60064,9 @@ L'employeur est tenu de préciser à cette occasion :
 
 ###### Article R320-2
 
-La lettre recommandée avec accusé de réception adressée au salarié en application de l'article L. 320-14 du code du travail
-peut être remplacée par une lettre remise en main propre contre décharge. Elle indique :
-
-1° La nature et l'objet de l'action envisagée par l'organisation syndicale représentative ;
-
-2° Que l'action est conduite par l'organisation syndicale qui peut exercer elle-même les voies de recours contre le
-jugement ;
-
-3° Que le salarié pourra, à tout moment, intervenir dans l'instance engagée par l'organisation syndicale ou mettre un terme à
-cette action ;
-
-4° Que le salarié peut faire connaître à l'organisation syndicale son opposition à l'action envisagée dans un délai de quinze
-jours à compter de la date de réception.
-
-Ce n'est que passé ce délai que l'acceptation tacite du salarié concerné est considérée comme acquise..
+Les attributions conférées au directeur des entreprises, de la concurrence, de la consommation, du travail et de l'emploi par
+les dispositions du présent chapitre sont exercées, dans les branches d'activité échappant à sa compétence, par les
+fonctionnaires chargés du contrôle de la procédure de licenciement pour motif économique dans ces branches.
 
 **Liens relatifs à cet article**
 
@@ -60092,13 +60074,408 @@ Ce n'est que passé ce délai que l'acceptation tacite du salarié concerné est
 
 	  - Décret n°91-1263 du 16 décembre 1991
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Décret n°2012-658 du 4 mai 2012 - art. 1
+	  - Décret n°2013-764 du 21 août 2013 - art. 1
+
+
+##### Section 2 : Licenciement de moins de dix salariés dans une même période de trente jours 
+
+
+
+
+
+
+
+##### Sous-section 1 : Entretien préalable et notification du licenciement 
+
+
+
+###### Article R320-3
+
+La lettre de convocation prévue à l'article L. 320-11 indique l'objet de l'entretien entre le salarié et l'employeur. Elle
+précise la date, l'heure et le lieu de cet entretien. Elle rappelle que le salarié peut se faire assister pour cet entretien
+par une personne de son choix appartenant au personnel de l'entreprise ou, en l'absence d'institutions représentatives dans
+l'entreprise, par un conseiller du salarié.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-764 du 21 août 2013 - art. 2
 
 	**Cite**:
 
-	  - Code du travail
+	  - Code du travail applicable à Mayotte. - art. L320-11
+
+
+###### Article R320-4
+
+Le salarié qui souhaite se faire assister, lors de l'entretien préalable à son licenciement, par un conseiller du salarié
+communique à celui-ci la date, l'heure et le lieu de l'entretien. Le salarié informe l'employeur de sa démarche.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-764 du 21 août 2013 - art. 2
+
+
+###### Article R320-5
+
+Le conseiller du salarié confirme au salarié sa venue ou lui fait connaître immédiatement et par tous moyens qu'il ne peut se
+rendre à l'entretien.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-764 du 21 août 2013 - art. 2
+
+
+##### Sous-section 2 : Information de l'autorité administrative
+
+###### Article R320-6
+
+Lorsque, dans une entreprise ou un établissement ou dans une profession mentionnés à l'article L. 320-5, le nombre des
+licenciements pour motif économique est inférieur à dix dans une même période de trente jours, l'employeur informe par écrit
+le directeur des entreprises, de la concurrence, de la consommation, du travail et de l'emploi des licenciements prononcés
+dans les huit jours qui suivent l'envoi des lettres de licenciement aux salariés concernés. 
+
+L'employeur est tenu de préciser à cette occasion : 
+
+1° Son nom et son adresse ; 
+
+2° La nature de l'activité et l'effectif de l'entreprise ou de l'établissement ; 
+
+3° Les nom, prénoms, nationalité, date de naissance, sexe, adresse, emploi et qualification du ou des salariés licenciés ; 
+
+4° La date de la notification des licenciements aux salariés concernés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-764 du 21 août 2013 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L320-5
+
+
+##### Section 3 : Licenciement de dix salariés ou plus dans une même période de trente jours 
+
+
+
+
+##### Sous-section 1 : Information de l'autorité administrative
+
+###### Article D320-7
+
+La notification du projet de licenciement prévue à l'article L. 320-39 est adressée au directeur des entreprises, de la
+concurrence, de la consommation, du travail et de l'emploi par lettre recommandée. 
+
+Outre les renseignements prévus au troisième alinéa de l'article précité, la notification précise : 
+
+1° Le nom et l'adresse de l'employeur ; 
+
+2° La nature de l'activité et l'effectif de l'entreprise ou de l'établissement ; 
+
+3° Le nombre des licenciements envisagés ; 
+
+4° Le cas échéant, les modifications qu'il y a lieu d'apporter aux informations déjà transmises en application de l'article
+L. 320-10 ; 
+
+5° En cas de recours à un expert-comptable par le comité d'entreprise, la mention de cette décision et la date de la deuxième
+réunion du comité d'entreprise prévue par l'article L. 320-35.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-764 du 21 août 2013 - art. 3
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L320-10
+	  - Code du travail applicable à Mayotte. - art. L320-35
+	  - Code du travail applicable à Mayotte. - art. L320-39
+
+
+###### Article D320-8
+
+Les informations et documents destinés aux représentants du personnel prévus à l'article L. 320-48 sont adressés
+simultanément au directeur des entreprises, de la concurrence, de la consommation, du travail et de l'emploi. Les
+informations et documents destinés au comité central d'entreprise, en application de l'article L. 320-36, sont adressés au
+directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi du siège.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-764 du 21 août 2013 - art. 3
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L320-36
+	  - Code du travail applicable à Mayotte. - art. L320-48
+
+
+###### Article D320-11
+
+La demande de réduction du délai prévue à l'article L. 320-41, avant l'expiration duquel les lettres de licenciement ne
+peuvent être envoyées aux salariés intéressés, est adressée, par tout moyen donnant date certaine, au directeur des
+entreprises, de la concurrence, de la consommation, du travail et de l'emploi au plus tôt en même temps que la notification
+du projet de licenciement prévue à l'article L. 320-46. 
+
+La demande fait référence à la convention ou à l'accord collectif de travail invoqué et précise : 
+
+1° La réduction de délai demandée ; 
+
+2° Celles des stipulations de cette convention ou de cet accord que l'employeur s'engage à appliquer ainsi que la description
+de leur mise en œuvre. Une copie de ces stipulations est jointe à la demande. 
+
+Le directeur des entreprises, de la concurrence, de la consommation, du travail et de l'emploi dispose, pour statuer, du
+délai prévu à l'article L. 320-53 à compter de la date de réception de la demande de réduction du délai. La décision est
+notifiée à l'employeur par tout moyen donnant date certaine. 
+
+En l'absence de décision prise dans le délai prévu à l'alinéa précédent, la demande est réputée rejetée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-764 du 21 août 2013 - art. 3
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L320-41
+	  - Code du travail applicable à Mayotte. - art. L320-46
+	  - Code du travail applicable à Mayotte. - art. L320-53
+
+
+###### Article D320-13
+
+En cas d'absence de délégués du personnel ou de comité d'entreprise, par suite d'une carence constatée dans les conditions
+prévues aux 5° des articles L. 433-16 et L. 443-11, l'employeur joint à la notification du projet de licenciement le procès-
+verbal de carence établi conformément à ces articles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-764 du 21 août 2013 - art. 3
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L433-16
+	  - Code du travail applicable à Mayotte. - art. L443-11
+
+
+###### Article R320-9
+
+A l'issue de la deuxième réunion des représentants du personnel prévue aux articles L. 320-29 et L. 320-30, l'employeur
+communique au directeur des entreprises, de la concurrence, de la consommation, du travail et de l'emploi : 
+
+1° Les nom, prénoms, nationalité, date de naissance, sexe, adresse, emploi et qualification du ou des salariés dont le
+licenciement est envisagé ; 
+
+2° Les modifications qui ont pu être apportées au calendrier prévisionnel des licenciements, au plan de sauvegarde de
+l'emploi, aux mesures prévues à l'article L. 320-32 ainsi qu'au calendrier de leur mise en œuvre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-764 du 21 août 2013 - art. 3
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L320-29
+	  - Code du travail applicable à Mayotte. - art. L320-32
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R320-10 (V)
+	  - Code du travail applicable à Mayotte. - art. R320-12 (V)
+
+
+###### Article R320-10
+
+Lorsque le comité d'entreprise recourt à l'assistance d'un expert-comptable, l'employeur adresse au directeur des
+entreprises, de la concurrence, de la consommation, du travail et de l'emploi, à l'issue de la deuxième réunion, les
+modifications qui ont pu être apportées au projet de licenciement telles que définies au 2° de l'article R. 320-9. 
+
+Il n'adresse les informations prévues au 1° de cet article qu'à l'issue de la troisième réunion du comité d'entreprise prévue
+au deuxième alinéa de l'article L. 320-35, avec les modifications éventuelles apportées au projet de licenciement lors de
+celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-764 du 21 août 2013 - art. 3
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L320-35
+	  - Code du travail applicable à Mayotte. - art. R320-9
+
+
+###### Article R320-12
+
+Lorsqu'il n'existe dans l'entreprise ni comité d'entreprise ni délégués du personnel, les informations mentionnées à
+l'article L. 320-10, le plan de sauvegarde de l'emploi et les renseignements prévus au 1° de l'article R. 320-9 sont adressés
+au directeur des entreprises, de la concurrence, de la consommation, du travail et de l'emploi en même temps que la
+notification du projet de licenciement prévue à l'article L. 320-46.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-764 du 21 août 2013 - art. 3
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L320-10
+	  - Code du travail applicable à Mayotte. - art. L320-46
+	  - Code du travail applicable à Mayotte. - art. R320-9
+
+
+##### Sous-section 2 : Intervention de l'autorité administrative
+
+###### Article D320-14
+
+Le délai dont dispose le directeur des entreprises, de la concurrence, de la consommation, du travail et de l'emploi pour
+notifier le constat de carence prévu à l'article L. 320-51 court à compter de la date de réception de la notification du
+projet de licenciement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-764 du 21 août 2013 - art. 3
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L320-51
+
+
+###### Article D320-15
+
+Le délai dont dispose le directeur des entreprises, de la concurrence, de la consommation, du travail et de l'emploi pour
+procéder aux vérifications prévues à l'article L. 320-52 court à compter : 
+
+1° Soit de la date d'envoi de la notification du projet de licenciement ; 
+
+2° Soit, en cas de recours à un expert-comptable par le comité d'entreprise, du lendemain de la deuxième réunion de ce
+dernier prévue à l'article L. 320-35.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-764 du 21 août 2013 - art. 3
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L320-35
+	  - Code du travail applicable à Mayotte. - art. L320-52
+
+
+###### Article D320-16
+
+Le directeur des entreprises, de la concurrence, de la consommation, du travail et de l'emploi adresse les pièces suivantes à
+l'employeur par lettre recommandée : 
+
+1° Le constat de carence établi en application de l'article L. 320-51 ; 
+
+2° L'avis écrit mentionné à l'article L. 320-55 ; 
+
+3° Les propositions prévues à l'article L. 320-56. 
+
+Ces courriers peuvent être remplacés par une remise en main propre contre décharge datée et signée par l'employeur. Si
+l'employeur refuse cette remise, il en est fait mention sur le reçu.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-764 du 21 août 2013 - art. 3
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L320-51
+	  - Code du travail applicable à Mayotte. - art. L320-55
+	  - Code du travail applicable à Mayotte. - art. L320-56
+
+
+###### Article D320-17
+
+Une copie du constat de carence prévu à l'article L. 320-51 est simultanément envoyée par lettre simple au comité
+d'entreprise ou à défaut aux délégués du personnel de l'entreprise concernée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-764 du 21 août 2013 - art. 3
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L320-51
+
+
+##### Section 4 :  Licenciement économique dans le cadre   d'un redressement ou d'une liquidation judiciaire
+
+###### Article R320-18
+
+En cas de redressement ou de liquidation judiciaire, l'employeur, l'administrateur ou le liquidateur, selon le cas, informe
+le directeur des entreprises, de la concurrence, de la consommation, du travail et de l'emploi en application de l'article L.
+320-59, avant l'envoi des lettres de licenciement. Il précise : 
+
+1° Le nom et l'adresse de l'employeur ; 
+
+2° La nature de l'activité de l'entreprise ou de l'établissement ; 
+
+3° Le nombre de salariés employés dans l'entreprise ou l'établissement ; 
+
+4° La date à laquelle a été prononcé le jugement de redressement ou de liquidation judiciaire ; 
+
+5° Les nom, prénoms, nationalité, date de naissance, sexe, adresse, emploi et qualification du ou des salariés dont le
+licenciement est envisagé ; 
+
+6° Les mesures prises pour éviter les licenciements ou en limiter le nombre et pour faciliter le reclassement des salariés
+dont le licenciement ne peut être évité ; 
+
+7° Le calendrier prévisionnel des licenciements.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-764 du 21 août 2013 - art. 4
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L320-59
+
+
+###### Article R320-19
+
+L'employeur, l'administrateur ou le liquidateur, selon le cas, transmet au directeur des entreprises, de la concurrence, de
+la consommation, du travail et de l'emploi le procès-verbal de la réunion des représentants du personnel prévue à l'article
+L. 320-57, dès qu'il a été procédé à la consultation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-764 du 21 août 2013 - art. 4
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L320-57
 
 
 #### CHAPITRE Ier : Généralités
@@ -69331,7 +69708,7 @@ Est punie de la même peine toute personne qui ne fournit pas les renseignements
 
 ### TITRE Ier : Les syndicats professionnels
 
-#### CHAPITRE II : Droit syndical et représentativité des syndicats
+#### CHAPITRE II : Représentativité syndicale
 
 ##### Section 1 : Critères de représentativité
 
@@ -69364,10 +69741,6 @@ Le silence gardé pendant plus de six mois par le préfet de Mayotte saisi d'une
 
 	  - Décret n°2013-612 du 10 juillet 2013 - art. 4
 
-
-#### CHAPITRE II : Représentativité syndicale
-
-##### Section 1 : Critères de représentativité
 
 ##### Section 2 : Syndicats représentatifs
 
