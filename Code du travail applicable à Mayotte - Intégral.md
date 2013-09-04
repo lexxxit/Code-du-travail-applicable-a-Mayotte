@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2013-08-24
+Version Consolidée au 2013-09-05
 
 # Partie législative
 
@@ -60618,6 +60618,173 @@ professionnelle, de la promotion sociale et de l'emploi.
 
 
 ##### Section 2 : Aides au maintien et à la sauvegarde de l'emploi
+
+##### Sous-section 1 : Aide au développement de l'emploi et des compétences
+
+###### Article D321-7
+
+Le plan de gestion prévisionnelle des emplois et des compétences prévu à l'article L. 321-11 comprend, notamment, des actions
+de formation destinées à assurer l'adaptation des salariés à l'évolution de leurs emplois ou des actions favorisant l'égalité
+professionnelle entre les femmes et les hommes, en particulier grâce à des mesures améliorant l'articulation entre l'activité
+professionnelle et la vie personnelle et familiale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-801 du 2 septembre 2013 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L321-11
+
+
+###### Article D321-8
+
+L'Etat prend en charge une partie des frais liés aux études préalables à la conception du plan de gestion prévisionnelle des
+emplois et des compétences.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-801 du 2 septembre 2013 - art. 1
+
+
+###### Article D321-9
+
+L'Etat peut prendre en charge, dans la limite de 50 %, les coûts supportés par les entreprises pour la conception et
+l'élaboration d'un plan de gestion prévisionnelle des emplois et des compétences dans le cadre de conventions dénommées "
+conventions d'aide au conseil ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-801 du 2 septembre 2013 - art. 1
+
+
+###### Article D321-10
+
+Dans le cadre d'une convention conclue avec une seule entreprise dont l'effectif ne peut excéder trois cents salariés, la
+participation financière de l'Etat est au maximum de 15 000 €. Cette convention est signée par le préfet de Mayotte. 
+
+Dans le cadre d'une convention conclue avec plusieurs entreprises, la participation financière de l'Etat est, au maximum, de
+12 500 € par entreprise. Elle est conclue par le préfet de Mayotte lorsque les sièges sociaux des entreprises signataires
+sont situés à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-801 du 2 septembre 2013 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D321-14 (V)
+
+
+###### Article D321-11
+
+L'entreprise précise dans sa demande, adressée à l'autorité administrative compétente, les motifs de sa démarche de gestion
+prévisionnelle au regard notamment : 
+
+1° De son organisation du travail ; 
+
+2° De l'évolution des compétences des salariés et du maintien de leur emploi ; 
+
+3° De sa gestion des âges ; 
+
+4° Du développement du dialogue social ; 
+
+5° De la prise en compte du principe d'égalité professionnelle entre les femmes et les hommes ; 
+
+6° Des perspectives d'amélioration de l'articulation entre l'activité professionnelle et la vie personnelle et familiale de
+ses salariés ; 
+
+7° De la promotion de la diversité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-801 du 2 septembre 2013 - art. 1
+
+
+###### Article D321-13
+
+L'Etat peut conclure avec des organismes professionnels ou interprofessionnels ou tout organisme représentant ou animant un
+réseau d'entreprises des conventions ayant pour objet de préparer les entreprises aux enjeux de la gestion prévisionnelle des
+emplois et des compétences.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-801 du 2 septembre 2013 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D321-14 (V)
+
+
+###### Article D321-14
+
+Les conventions mentionnées aux articles D. 321-10 et D. 321-13 peuvent être signées par le préfet de Mayotte lorsqu'elles
+portent sur des actions mises en place à Mayotte, y compris lorsque ces actions le sont au bénéfice exclusif d'établissements
+installés à Mayotte et dont le siège social est situé dans un autre département.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-801 du 2 septembre 2013 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. D321-10
+	  - Code du travail applicable à Mayotte. - art. D321-13
+
+
+###### Article D321-15
+
+Ces conventions peuvent prévoir : 
+
+1° D'une part, des actions d'information, de communication et d'animation ; 
+
+2° D'autre part, des actions de capitalisation, d'évaluation et de diffusion de bonnes pratiques.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-801 du 2 septembre 2013 - art. 1
+
+
+###### Article D321-16
+
+L'Etat peut prendre en charge jusqu'à 70 % du coût global des actions, en prenant en compte le nombre d'entreprises visées,
+leurs effectifs et l'intérêt des actions envisagées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-801 du 2 septembre 2013 - art. 1
+
+
+###### Article R321-12
+
+Le comité d'entreprise ou, à défaut, les délégués du personnel sont consultés sur la conclusion de cette convention avec
+l'Etat. Ils sont consultés sur le contenu et les modalités de mise en œuvre du plan de gestion prévisionnelle des emplois et
+des compétences.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-801 du 2 septembre 2013 - art. 1
+
 
 ##### Sous-section 2 : Aides aux salariés en chômage partiel
 
