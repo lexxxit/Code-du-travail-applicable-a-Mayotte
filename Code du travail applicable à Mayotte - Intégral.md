@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2013-09-05
+Version Consolidée au 2013-10-01
 
 # Partie législative
 
@@ -73267,9 +73267,470 @@ susceptibles d'être sanctionnées au titre des dispositions de cet article.
 
 ## LIVRE VII : Formation professionnelle
 
-### CHAPITRE Ier : Dispositions relatives aux contrats de qualification et aux contrats d'orientation
+### TITRE Ier : Dispositions générales
+
+#### Chapitre Ier : Objectifs, financement et institutions de la formation professionnelle 
+
+##### Section 1 : Droit à la qualification professionnelle
+
+
+
+###### Article D711-1
+
+Le Département de Mayotte et l'Etat contribuent à l'exercice du droit à la qualification, notamment pour les personnes
+n'ayant pas acquis de qualification reconnue dans le cadre de la formation initiale.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
+
+
+##### Section 2 : Comité mahorais de coordination de l'emploi 
+et de la formation professionnelle 
+
+
 
 ###### Article D711-2
+
+Le comité mahorais de coordination de l'emploi et de la formation professionnelle a pour mission de favoriser la concertation
+entre les divers acteurs afin d'assurer une meilleure coordination des politiques de formation professionnelle et d'emploi. 
+
+Il est notamment chargé des fonctions de diagnostic, d'étude, de suivi et d'évaluation de ces politiques.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D712-1 (T)
+
+
+###### Article D711-3
+
+Le comité de coordination est consulté sur : 
+
+1° Les programmes et les moyens mis en œuvre à Mayotte par Pôle emploi ; 
+
+2° Les projets de conventions tripartites à conclure entre l'Etat, le Département de Mayotte et Pôle emploi ; 
+
+3° Les projets d'investissement et les moyens d'intervention dont dispose Pôle emploi ; 
+
+4° Le projet de contrat de plan de développement de la formation professionnelle entre l'Etat et le Département de Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. D711-14
+	  - Code du travail applicable à Mayotte. - art. L711-5
+	  - Code du travail applicable à Mayotte. - art. L711-6
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D712-2 (T)
+
+
+###### Article D711-4
+
+Le comité mahorais de coordination est informé par les services compétents de l'Etat : 
+
+1° Chaque année, du montant des sommes collectées au titre de la taxe d'apprentissage et de la contribution au financement
+des contrats de qualification et d'orientation, auprès des entreprises de Mayotte, ainsi que de leurs affectations ; 
+
+2° Des contrats conclus entre l'Etat et Pôle emploi applicables à Mayotte ; 
+
+3° Des actions menées par l'organisme paritaire mentionné à l'article L. 711-1.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D712-3 (T)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L711-1
+
+
+###### Article D711-5
+
+Outre le préfet et le président du conseil général, le comité de coordination comprend : 
+
+1° Six représentants de l'Etat : 
+
+a) Le vice-recteur ; 
+
+b) Cinq représentants des services de l'Etat désignés par le préfet ; 
+
+2° Six représentants du conseil général ; 
+
+3° Sept représentants des organisations d'employeurs et de la chambre de l'agriculture, de la pêche et de l'aquaculture, de
+la chambre de commerce et d'industrie et de la chambre des métiers et de l'artisanat ; 
+
+4° Sept représentants des organisations syndicales de salariés représentatives à Mayotte en application de l'article L.
+412-3 ; 
+
+5° Le président du conseil économique, social et environnemental de Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D712-4 (T)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L412-3
+
+
+###### Article D711-6
+
+Les représentants des organisations de salariés et d'employeurs ainsi que ceux des chambres consulaires sont désignés sur
+proposition de celles-ci.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D712-5 (T)
+
+
+###### Article D711-7
+
+Les membres du comité mahorais de coordination sont nommés pour la durée de la mandature du conseil général. 
+
+Ils sont remplacés dès lors qu'ils cessent d'être investis des fonctions administratives ou électives au titre desquelles ils
+ont été désignés.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D712-6 (T)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L711-5
+
+
+###### Article D711-8
+
+Le préfet arrête, en accord avec le président du conseil général, la liste de membres du comité mahorais de coordination
+ainsi que celle de leurs suppléants.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D712-7 (T)
+
+
+###### Article D711-9
+
+Le comité mahorais de coordination est présidé conjointement par le préfet et le président du conseil général.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D711-10 (VT)
+	  - Code du travail applicable à Mayotte. - art. D711-11 (VT)
+	  - Code du travail applicable à Mayotte. - art. R711-19 (V)
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D712-8 (T)
+
+
+###### Article D711-10
+
+Le préfet et le président du conseil général établissent les conditions d'organisation et de fonctionnement du comité de
+coordination. 
+
+Ils fixent conjointement l'ordre du jour des réunions.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D711-12 (VT)
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D712-9 (T)
+
+
+###### Article D711-11
+
+Le comité mahorais de coordination se dote des commissions nécessaires à son fonctionnement, notamment en matière
+d'information, d'orientation, de validation des acquis de l'expérience, de formation des demandeurs d'emploi et de formation
+en alternance, ainsi que d'un secrétariat permanent.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D711-12 (VT)
+	  - Code du travail applicable à Mayotte. - art. D711-9 (VT)
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D712-10 (T)
+
+
+##### Section 3 : Organisme collecteur paritaire 
+
+###### Article R711-12
+
+L'organisme collecteur paritaire, chargé de la gestion du fonds de la formation professionnelle et agréé en application de
+l'article L. 711-1, ne peut posséder d'autres biens meubles et immeubles que ceux qui sont nécessaires à son fonctionnement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L711-1 (V)
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R713-1 (VT)
+
+
+###### Article R711-13
+
+En aucun cas les tâches de gestion de l'organisme collecteur paritaire ne peuvent être confiées directement ou indirectement
+à un établissement de formation ou à un établissement de crédit. Nul ne peut exercer une fonction salariée dans l'organisme
+collecteur paritaire s'il exerce une fonction salariée dans un établissement de formation ou dans un établissement de crédit.
+Le cumul des fonctions d'administrateur dans l'organisme collecteur paritaire et dans un établissement de formation ou dans
+un établissement de crédit doit être porté à la connaissance des instances paritaires de l'organisme collecteur ainsi qu'à
+celle du commissaire aux comptes qui établit, s'il y a lieu, un rapport spécial.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R713-2 (VT)
+
+
+###### Article R711-14
+
+L'organisme collecteur paritaire établit des comptes annuels selon les principes et méthodes comptables prévus au plan
+comptable et selon les règles fiscales en vigueur.
+
+Pour l'exercice du contrôle des comptes, l'organisme est tenu de désigner au moins un commissaire aux comptes et un
+suppléant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R713-3 (VT)
+
+
+###### Article R711-15
+
+L'organisme collecteur paritaire agréé transmet chaque année au représentant de l'Etat, après délibération de son conseil
+d'administration, un état statistique et financier permettant de suivre le fonctionnement de l'organisme et d'apprécier
+l'emploi des fonds reçus, ainsi que ses comptes et bilans et le rapport du commissaire aux comptes. Cet état est accompagné
+d'une note présentant les principales orientations de l'activité de l'organisme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R711-17 (V)
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R713-4 (VT)
+
+
+###### Article R711-16
+
+Les ressources de l'organisme collecteur paritaire doivent être conservées en numéraire, soit déposées à vue, soit placées à
+court terme.
+
+Les intérêts produits par les sommes déposées ou placées à court terme ont le même caractère que les sommes dont ils sont
+issus. Ils sont soumis aux mêmes procédures d'utilisation et à la même procédure de contrôle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R713-5 (VT)
+
+
+###### Article R711-17
+
+L'organisme collecteur paritaire peut affecter au maximum 1,5 % des sommes collectées au titre de la formation
+professionnelle continue à la rémunération de missions et services concernant les domaines suivants : 
+
+1° Définition des règles qui permettent de déterminer les actions donnant lieu à intervention des organismes et la
+répartition des ressources entre ces interventions ; 
+
+2° Promotion de la formation professionnelle auprès des entreprises. 
+
+Un compte rendu annuel d'exécution des actions entreprises dans ce cadre est joint à l'état statistique et financier prévu à
+l'article R. 711-15. 
+
+L'emploi des sommes définies au premier alinéa du présent article fait l'objet de contrôles effectués dans les conditions
+fixées par les articles R. 741-1, R. 741-2 et R. 743-1. Dans le cas où il est constaté que les emplois de fonds ne sont pas
+justifiés ou ne répondent pas aux fins et règles énoncées au présent article, ils donnent lieu à un reversement du même
+montant par l'organisme collecteur agréé au Trésor public.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R711-15
+	  - Code du travail applicable à Mayotte. - art. R741-1 (V)
+	  - Code du travail applicable à Mayotte. - art. R743-1 (V)
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R713-6 (VT)
+
+
+###### Article R711-18
+
+Les disponibilités dont le fonds de la formation professionnelle continue peut disposer au 31 décembre d'un exercice
+déterminé ne peuvent excéder le montant des charges comptabilisées au cours du même exercice. 
+
+S'il y a excédent, celui-ci est affecté, avant le 30 septembre de l'année suivante, au financement d'actions de formation de
+salariés. Les excédents non utilisés dans les conditions ci-dessus sont reversés au profit des actions en alternance aux
+articles L. 711-5 et L. 711-7 du présent code. 
+
+Le conseil d'administration propose un état prévisionnel des dépenses de fonctionnement de l'organisme paritaire agréé, en
+fonction des objectifs fixés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L711-5
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R713-7 (VT)
+
+
+###### Article R711-19
+
+L'agrément peut être retiré par arrêté du représentant de l'Etat lorsqu'il apparaît, l'organisme collecteur paritaire ayant
+été appelé à s'expliquer, que les dispositions législatives et réglementaires applicables à ces organismes ou les conditions
+prévues par la décision d'agrément ne sont pas respectées. 
+
+L'arrêté de retrait précise la date à laquelle il prend effet ainsi que les modalités de dévolution des biens de l'organisme
+prévues à l'article R. 711-9. Il est motivé et notifié à l'organisme par lettre recommandée avec avis de réception ou remise
+en main propre contre décharge.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. D711-9
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R713-8 (VT)
+
+
+###### Article R711-20
+
+Les biens de l'organisme collecteur paritaire qui, pour quelque cause que ce soit, cesse son activité, sont dévolus à un
+organisme de même nature, désigné par le représentant de l'Etat. 
+
+A défaut de l'existence d'un tel organisme, les biens sont dévolus au Trésor public.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R713-9 (T)
+
+
+#### Chapitre II : Contrats de formation en alternance 
+
+##### Section 1 : Contrat de qualification 
+
+###### Article D712-1
 
 Le contrat de qualification prévu à l'article L. 711-5 s'adresse aux personnes de moins de trente ans n'ayant pas acquis de
 qualification au cours de leur scolarité ou ayant acquis une qualification qui ne leur a pas permis d'obtenir un emploi. 
@@ -73287,25 +73748,25 @@ dispositions de l'article L. 711-6.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+	  - Décret n°92-238 du 9 mars 1992
+
+	**Modifié par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
 
 	**Liens**:
 
-	  - TRANSFERE: Décret n°2013-800 du 2 septembre 2013 - art. 1
+	  - TRANSFERE: Décret n°2016-135 du 9 février 2016 - art. 1
 
 	**Nouveaux textes**:
 
-	  - Code du travail applicable à Mayotte. - art. D712-1 (T)
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L711-5 (V)
-	  - Code du travail applicable à Mayotte. - art. L711-6 (V)
+	  - Code du travail applicable à Mayotte. - art. D324-23 (V)
+	  - Code du travail applicable à Mayotte. - art. D711-2 (V)
 
 
-###### Article D711-3
+###### Article D712-2
 
 L'habilitation prévue à l'article L. 711-6 est subordonnée au dépôt d'un dossier qui comporte : 
 
@@ -73320,7 +73781,7 @@ existent.
 4° La définition des emplois offerts à ces personnes. 
 
 5° Le nom et la mention des qualifications professionnelles du ou des tuteurs, dont le choix, la qualification et la mission
-sont déterminés conformément aux dispositions de l'article D. 711-14.
+sont déterminés conformément aux dispositions de l'article D. 712-14.
 
 6° Le cas échéant, les références de l'entreprise en matière de formation professionnelle et, s'il y a lieu, la liste des
 titres ou diplômes homologués ou reconnus par une convention collective ou figurant sur une liste établie par le représentant
@@ -73328,81 +73789,91 @@ de l'Etat à Mayotte en application des dispositions de l'article L. 711-5.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+	  - Décret n°92-238 du 9 mars 1992
 
 	**Modifié par**:
 
-	  - Décret n°2012-1205 du 30 octobre 2012 - art. 3
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
 
 	**Liens**:
 
-	  - TRANSFERE: Décret n°2013-800 du 2 septembre 2013 - art. 1
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. D711-14
-	  - Code du travail applicable à Mayotte. - art. L711-5
-	  - Code du travail applicable à Mayotte. - art. L711-6
+	  - TRANSFERE: Décret n°2016-135 du 9 février 2016 - art. 1
 
 	**Nouveaux textes**:
 
-	  - Code du travail applicable à Mayotte. - art. D712-2 (T)
+	  - Code du travail applicable à Mayotte. - art. D324-24 (V)
+	  - Code du travail applicable à Mayotte. - art. D711-3 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. D712-14 (T)
+	  - Code du travail applicable à Mayotte. - art. L711-5
+	  - Code du travail applicable à Mayotte. - art. L711-6
 
 
-###### Article D711-4
+###### Article D712-3
 
 L'habilitation est accordée au vu du dossier prévu à l'article précédent et en tenant compte, en outre, des conditions de
 travail, d'hygiène et de sécurité dans l'entreprise.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+	  - Décret n°92-238 du 9 mars 1992
+
+	**Modifié par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
 
 	**Liens**:
 
-	  - TRANSFERE: Décret n°2013-800 du 2 septembre 2013 - art. 1
+	  - TRANSFERE: Décret n°2016-135 du 9 février 2016 - art. 1
 
 	**Nouveaux textes**:
 
-	  - Code du travail applicable à Mayotte. - art. D712-3 (T)
+	  - Code du travail applicable à Mayotte. - art. D324-25 (V)
+	  - Code du travail applicable à Mayotte. - art. D711-4 (V)
 
 
-###### Article D711-5
+###### Article D712-4
 
-La demande d'habilitation accompagnée du dossier est adressée, par lettre recommandée avec accusé de réception, au
-représentant de l'Etat à Mayotte.
+La demande d'habilitation accompagnée du dossier est adressée, par lettre recommandée avec accusé de réception ou par lettre
+remise en main propre contre décharge, au représentant de l'Etat.
 
 L'habilitation est réputée acquise à défaut de décision de refus notifiée par représentant de l'Etat dans le mois qui suit la
 réception du dossier.
 
-L'habilitation peut être retirée par décision motivée du représentant de l'Etat à Mayotte prise après avis du comité de la
-formation professionnelle, de la promotion sociale et de l'emploi en cas de méconnaissance des dispositions des sections I et
-III du chapitre II du livre VII de la partie Législative du présent code ou des engagements pris en la matière par
-l'employeur.
+L'habilitation peut être retirée par décision motivée du représentant de l'Etat prise après avis du comité de la formation
+professionnelle, de la promotion sociale et de l'emploi en cas de méconnaissance des dispositions des sections I et III du
+chapitre II du livre VII de la partie Législative du présent code ou des engagements pris en la matière par l'employeur.
 
 Si une entreprise habilitée désire conclure des contrats de qualification comportant des formations en alternance autres que
 celles qui font l'objet de l'habilitation, elle présente une nouvelle demande.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+	  - Décret n°92-238 du 9 mars 1992
+
+	**Modifié par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
 
 	**Liens**:
 
-	  - TRANSFERE: Décret n°2013-800 du 2 septembre 2013 - art. 1
+	  - TRANSFERE: Décret n°2016-135 du 9 février 2016 - art. 1
 
 	**Nouveaux textes**:
 
-	  - Code du travail applicable à Mayotte. - art. D712-4 (T)
+	  - Code du travail applicable à Mayotte. - art. D324-26 (V)
+	  - Code du travail applicable à Mayotte. - art. D711-5 (V)
 
 
-###### Article D711-6
+###### Article D712-5
 
 Lorsque la qualification est reconnue dans les classifications d'une convention collective, un document écrit, annexé au
 contrat, précise les caractéristiques de l'emploi, les objectifs, le programme et les conditions d'évaluation de la
@@ -73410,20 +73881,25 @@ formation.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+	  - Décret n°92-238 du 9 mars 1992
+
+	**Modifié par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
 
 	**Liens**:
 
-	  - TRANSFERE: Décret n°2013-800 du 2 septembre 2013 - art. 1
+	  - TRANSFERE: Décret n°2016-135 du 9 février 2016 - art. 1
 
 	**Nouveaux textes**:
 
-	  - Code du travail applicable à Mayotte. - art. D712-5 (T)
+	  - Code du travail applicable à Mayotte. - art. D324-27 (V)
+	  - Code du travail applicable à Mayotte. - art. D711-6 (V)
 
 
-###### Article D711-7
+###### Article D712-6
 
 Le dépôt du contrat de qualification prévu à l'article L. 711-5 intervient au plus tard dans le mois qui suit le début du
 contrat. 
@@ -73440,54 +73916,62 @@ notification de la décision.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+	  - Décret n°92-238 du 9 mars 1992
+
+	**Modifié par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
 
 	**Liens**:
 
-	  - TRANSFERE: Décret n°2013-800 du 2 septembre 2013 - art. 1
+	  - TRANSFERE: Décret n°2016-135 du 9 février 2016 - art. 1
 
 	**Nouveaux textes**:
 
-	  - Code du travail applicable à Mayotte. - art. D712-6 (T)
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L711-5 (V)
+	  - Code du travail applicable à Mayotte. - art. D324-28 (V)
+	  - Code du travail applicable à Mayotte. - art. D711-7 (V)
 
 
-###### Article D711-8
+###### Article D712-7
 
 Lorsque la qualification n'est pas sanctionnée par un diplôme, elle donne lieu à une attestation écrite remise par
 l'employeur au titulaire du contrat de qualification. Dans le cas où la qualification est reconnue dans les classifications
 d'une convention collective, cette attestation est établie en liaison avec l'organisme de formation, dans les conditions
-prévues au contrat ; dans le cas où la qualification est définie par l'arrêté du représentant de l'Etat à Mayotte en
-application de l'article L. 711-5, cette attestation est établie dans les conditions prévues par ledit arrêté.
+prévues au contrat ; dans le cas où la qualification est définie par l'arrêté du représentant de l'Etat en application de
+l'article L. 711-5, cette attestation est établie dans les conditions prévues par ledit arrêté.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+	  - Décret n°92-238 du 9 mars 1992
+
+	**Modifié par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
 
 	**Liens**:
 
-	  - TRANSFERE: Décret n°2013-800 du 2 septembre 2013 - art. 1
+	  - TRANSFERE: Décret n°2016-135 du 9 février 2016 - art. 1
 
 	**Nouveaux textes**:
 
-	  - Code du travail applicable à Mayotte. - art. D712-7 (T)
+	  - Code du travail applicable à Mayotte. - art. D324-29 (V)
+	  - Code du travail applicable à Mayotte. - art. D711-8 (V)
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L711-5 (V)
+	  - Code du travail applicable à Mayotte. - art. L711-5
 
 
-###### Article D711-9
+##### Section 2 : Contrat d'orientation 
+
+###### Article D712-8
 
 La conclusion d'un contrat d'orientation est subordonnée à la signature d'une convention conclue entre l'employeur et le ou
-les organismes chargés de mettre en oeuvre les actions d'orientation professionnelle définies à l'article D. 711-11. 
+les organismes chargés de mettre en oeuvre les actions d'orientation professionnelle définies à l'article D. 712-10. 
 
 La convention doit préciser : 
 
@@ -73499,33 +73983,33 @@ c) Les modalités de la coordination entre le tuteur et l'organisme chargé de l
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+	  - Décret n°92-238 du 9 mars 1992
 
 	**Modifié par**:
 
-	  - Décret n°2012-1205 du 30 octobre 2012 - art. 3
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
 
 	**Liens**:
 
-	  - TRANSFERE: Décret n°2013-800 du 2 septembre 2013 - art. 1
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. D711-10 (VT)
-	  - Code du travail applicable à Mayotte. - art. D711-11 (VT)
-	  - Code du travail applicable à Mayotte. - art. R711-19 (V)
+	  - TRANSFERE: Décret n°2016-135 du 9 février 2016 - art. 1
 
 	**Nouveaux textes**:
 
-	  - Code du travail applicable à Mayotte. - art. D712-8 (T)
+	  - Code du travail applicable à Mayotte. - art. D324-30 (V)
+	  - Code du travail applicable à Mayotte. - art. D711-9 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D712-10 (T)
+	  - Code du travail applicable à Mayotte. - art. D712-9 (T)
 
 
-###### Article D711-10
+###### Article D712-9
 
 Le contrat d'orientation conclu entre le jeune et l'employeur après la signature de la convention mentionnée à l'article D.
-711-9 comporte notamment les mentions spécifiques suivantes : 
+712-8 comporte notamment les mentions spécifiques suivantes : 
 
 a) L'identification du diplôme le plus élevé obtenu par le jeune ; 
 
@@ -73542,32 +74026,33 @@ objectifs et le contenu des actions d'orientation professionnelle.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+	  - Décret n°92-238 du 9 mars 1992
 
 	**Modifié par**:
 
-	  - Décret n°2012-1205 du 30 octobre 2012 - art. 3
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
 
 	**Liens**:
 
-	  - TRANSFERE: Décret n°2013-800 du 2 septembre 2013 - art. 1
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. D711-12 (VT)
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. D711-9
+	  - TRANSFERE: Décret n°2016-135 du 9 février 2016 - art. 1
 
 	**Nouveaux textes**:
 
-	  - Code du travail applicable à Mayotte. - art. D712-9 (T)
+	  - Code du travail applicable à Mayotte. - art. D324-31 (V)
+	  - Code du travail applicable à Mayotte. - art. D711-10 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D712-11 (T)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. D712-8
 
 
-###### Article D711-11
+###### Article D712-10
 
 Pendant la durée du contrat, l'employeur est tenu de faire participer le titulaire du contrat d'orientation à des actions
 d'orientation et de désigner un tuteur chargé du suivi de ce salarié et de la coordination avec l'organisme chargé de la mise
@@ -73584,43 +74069,47 @@ compétences et d'évaluation des acquis, de construction de projet professionne
 Ces actions doivent être au minimum d'une durée égale à 25 % de la durée du contrat. 
 
 Ces actions sont réalisées pour un minimum de 75 % de leur durée dans les organismes avec lesquels la convention mentionnée à
-l'article D. 711-9 a été conclue. 
+l'article D. 712-8 a été conclue. 
 
 Ces durées peuvent être modifiées par voie d'accord de branche ou interprofessionnel étendu.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+	  - Décret n°92-238 du 9 mars 1992
 
 	**Modifié par**:
 
-	  - Décret n°2012-1205 du 30 octobre 2012 - art. 3
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
 
 	**Liens**:
 
-	  - TRANSFERE: Décret n°2013-800 du 2 septembre 2013 - art. 1
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. D711-12 (VT)
-	  - Code du travail applicable à Mayotte. - art. D711-9 (VT)
+	  - TRANSFERE: Décret n°2016-135 du 9 février 2016 - art. 1
 
 	**Nouveaux textes**:
 
-	  - Code du travail applicable à Mayotte. - art. D712-10 (T)
+	  - Code du travail applicable à Mayotte. - art. D324-32 (V)
+	  - Code du travail applicable à Mayotte. - art. D711-11 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D712-11 (T)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. D712-8 (T)
 
 
-###### Article D711-12
+###### Article D712-11
 
 L'employeur est tenu de déposer à la direction du travail, de l'emploi et de la formation professionnelle de Mayotte, dès la
 conclusion du contrat, un dossier composé des pièces suivantes : 
 
-1° Le contrat de travail accompagné du document d'information mentionné à l'article D. 711-10.
+1° Le contrat de travail accompagné du document d'information mentionné à l'article D. 712-9.
 
 2° La copie de la convention conclue avec le ou les organismes chargés de mettre en oeuvre les actions d'orientation
-professionnelle définies à l'article D. 711-11. 
+professionnelle définies à l'article D. 712-10. 
 
 Le directeur du travail, de l'emploi et de la formation professionnelle de Mayotte s'assure que le contrat et la convention
 sont conformes aux dispositions législatives, réglementaires ou conventionnelles qui régissent le contrat d'orientation et
@@ -73636,57 +74125,68 @@ notification de la décision.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+	  - Décret n°92-238 du 9 mars 1992
 
 	**Modifié par**:
 
-	  - Décret n°2012-1205 du 30 octobre 2012 - art. 3
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
 
 	**Liens**:
 
-	  - TRANSFERE: Décret n°2013-800 du 2 septembre 2013 - art. 1
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. D711-10
-	  - Code du travail applicable à Mayotte. - art. D711-11
+	  - TRANSFERE: Décret n°2016-135 du 9 février 2016 - art. 1
 
 	**Nouveaux textes**:
 
-	  - Code du travail applicable à Mayotte. - art. D712-11 (T)
+	  - Code du travail applicable à Mayotte. - art. D324-33 (V)
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D711-12 (VT)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. D712-10
+	  - Code du travail applicable à Mayotte. - art. D712-9 (T)
 
 
-###### Article D711-13
+##### Section 3 : Dispositions communes aux contrats de qualification et d'orientation
 
-Les cotisations dont l'employeur a été exonéré avant la notification de la décision prévue à l'article R. 711-1 doivent être
+###### Article D712-13
+
+Les cotisations dont l'employeur a été exonéré avant la notification de la décision prévue à l'article R. 712-12 doivent être
 versées au plus tard en même temps que les cotisations dues au titre de la première paie suivant la date de la notification.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+	  - Décret n°92-238 du 9 mars 1992
+
+	**Modifié par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
 
 	**Liens**:
 
-	  - TRANSFERE: Décret n°2013-800 du 2 septembre 2013 - art. 1
-
-	**Anciens textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D712-12 (T)
+	  - TRANSFERE: Décret n°2016-135 du 9 février 2016 - art. 1
 
 	**Nouveaux textes**:
 
-	  - Code du travail applicable à Mayotte. - art. D712-13 (T)
+	  - Code du travail applicable à Mayotte. - art. D324-35 (V)
+	  - Code du travail applicable à Mayotte. - art. D711-14 (T)
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D711-13 (VT)
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. R711-1
+	  - Code du travail applicable à Mayotte. - art. R712-12 (T)
 
 
-###### Article D711-14
+###### Article D712-14
 
 Pour chaque personne titulaire d'un contrat de qualification ou d'orientation, l'employeur, à moins qu'il n'assure lui-même
 le tutorat, choisit un tuteur, avec son accord, parmi les salariés qualifiés de l'entreprise justifiant d'une expérience
@@ -73703,29 +74203,34 @@ plus de deux salariés titulaires de tels contrats.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+	  - Décret n°92-238 du 9 mars 1992
+
+	**Modifié par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
 
 	**Liens**:
 
-	  - TRANSFERE: Décret n°2013-800 du 2 septembre 2013 - art. 1
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. D711-16 (VT)
-	  - Code du travail applicable à Mayotte. - art. D711-3 (V)
+	  - TRANSFERE: Décret n°2016-135 du 9 février 2016 - art. 1
 
 	**Anciens textes**:
 
-	  - Code du travail applicable à Mayotte. - art. D712-13 (T)
+	  - Code du travail applicable à Mayotte. - art. D711-14 (VT)
 
 	**Nouveaux textes**:
 
-	  - Code du travail applicable à Mayotte. - art. D712-14 (T)
+	  - Code du travail applicable à Mayotte. - art. D711-15 (T)
+	  - Code du travail applicable à Mayotte. - art. R324-36 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D712-16 (T)
+	  - Code du travail applicable à Mayotte. - art. D712-2 (T)
 
 
-###### Article D711-15
+###### Article D712-15
 
 Lorsqu'un contrat de qualification ou d'orientation est rompu avant son terme, l'employeur signale cette rupture :
 
@@ -73739,24 +74244,29 @@ sécurité sociale.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+	  - Décret n°92-238 du 9 mars 1992
+
+	**Modifié par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
 
 	**Liens**:
 
-	  - TRANSFERE: Décret n°2013-800 du 2 septembre 2013 - art. 1
+	  - TRANSFERE: Décret n°2016-135 du 9 février 2016 - art. 1
 
 	**Anciens textes**:
 
-	  - Code du travail applicable à Mayotte. - art. D712-14 (T)
+	  - Code du travail applicable à Mayotte. - art. D711-15 (VT)
 
 	**Nouveaux textes**:
 
-	  - Code du travail applicable à Mayotte. - art. D712-15 (T)
+	  - Code du travail applicable à Mayotte. - art. D711-16 (T)
+	  - Code du travail applicable à Mayotte. - art. R324-37 (V)
 
 
-###### Article D711-16
+###### Article D712-16
 
 Les ressources de l'organisme paritaire prévu à l'article L. 711-1 peuvent être destinées : 
 
@@ -73764,7 +74274,7 @@ a) Au financement des dépenses de formation des bénéficiaires des contrats de
 
 b) Au financement des actions d'évaluation des bénéficiaires des contrats d'orientation prévus à l'article L. 711-7 ; 
 
-c) Aux dépenses exposées à l'occasion de la formation des tuteurs telle que prévue à l'article D. 711-14 ; 
+c) Aux dépenses exposées à l'occasion de la formation des tuteurs telle que prévue à l'article D. 712-14 ; 
 
 d) Au financement des dépenses liées à l'exercice par les tuteurs des missions suivantes :
 
@@ -73779,40 +74289,41 @@ d) Au financement des dépenses liées à l'exercice par les tuteurs des mission
 - assurer, le cas échéant, la liaison avec les organismes chargés de la formation, du bilan ou de l'orientation
 professionnelle, ou de l'accompagnement de la personne à l'extérieur de l'entreprise. 
 
-Un arrêté du représentant de l'Etat à Mayotte définit l'assiette de prise en charge ainsi que les modalités de la
-participation de l'organisme paritaire.
+Un arrêté du représentant de l'Etat définit l'assiette de prise en charge ainsi que les modalités de la participation de
+l'organisme paritaire.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+	  - Décret n°92-238 du 9 mars 1992
 
 	**Modifié par**:
 
-	  - Décret n°2012-1205 du 30 octobre 2012 - art. 3
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
 
 	**Liens**:
 
-	  - TRANSFERE: Décret n°2013-800 du 2 septembre 2013 - art. 1
+	  - TRANSFERE: Décret n°2016-135 du 9 février 2016 - art. 1
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D711-16 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D711-17 (T)
+	  - Code du travail applicable à Mayotte. - art. R324-38 (V)
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. D711-14
+	  - Code du travail applicable à Mayotte. - art. D712-14
 	  - Code du travail applicable à Mayotte. - art. L711-1
 	  - Code du travail applicable à Mayotte. - art. L711-5
 	  - Code du travail applicable à Mayotte. - art. L711-7
 
-	**Anciens textes**:
 
-	  - Code du travail applicable à Mayotte. - art. D712-15 (T)
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D712-16 (T)
-
-
-###### Article D711-17
+###### Article D712-17
 
 Lorsqu'ils existent, les délégués du personnel sont consultés sur les effectifs des personnes ayant conclu avec l'entreprise
 des contrats d'orientation et des contrats d'adaptation, leur âge, leur sexe, leur niveau initial de formation, sur les
@@ -73821,24 +74332,29 @@ d'appréciation et de validation.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+	  - Décret n°92-238 du 9 mars 1992
+
+	**Modifié par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
 
 	**Liens**:
 
-	  - TRANSFERE: Décret n°2013-800 du 2 septembre 2013 - art. 1
+	  - TRANSFERE: Décret n°2016-135 du 9 février 2016 - art. 1
 
 	**Anciens textes**:
 
-	  - Code du travail applicable à Mayotte. - art. D712-16 (T)
+	  - Code du travail applicable à Mayotte. - art. D711-17 (VT)
 
 	**Nouveaux textes**:
 
-	  - Code du travail applicable à Mayotte. - art. D712-17 (T)
+	  - Code du travail applicable à Mayotte. - art. D711-18 (T)
+	  - Code du travail applicable à Mayotte. - art. R324-39 (V)
 
 
-###### Article D711-18
+###### Article D712-18
 
 L'exonération des cotisations à la charge de l'employeur dues au titre des assurances sociales, des accidents du travail et
 des allocations familiales afférentes à la rémunération des titulaires de contrats de qualification porte sur la partie du
@@ -73848,822 +74364,1025 @@ salaire n'excédant pas le salaire minimum interprofessionnel garanti.
 
 	**Créé par**:
 
-	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
 
 	**Liens**:
 
-	  - TRANSFERE: Décret n°2013-800 du 2 septembre 2013 - art. 1
-
-	**Anciens textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D712-17 (T)
+	  - TRANSFERE: Décret n°2016-135 du 9 février 2016 - art. 1
 
 	**Nouveaux textes**:
 
-	  - Code du travail applicable à Mayotte. - art. D712-18 (T)
+	  - Code du travail applicable à Mayotte. - art. D324-40 (V)
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. D711-18 (VT)
 
 
-###### Article R711-1
+###### Article R712-12
 
 Le directeur du travail, de l'emploi et de la formation professionnelle de Mayotte peut, par décision motivée, prononcer le
 retrait du bénéfice de l'exonération prévue à l'article L. 711-9 lorsqu'il est constaté par les services chargés du contrôle
 de l'exécution du contrat que l'employeur a méconnu tout ou partie des obligations mises à sa charge par les articles L.
 711-5 à L. 711-8.
 
-La décision est notifiée à l'employeur. Elle est également communiquée :
+La décision est notifiée à l'employeur. Elle est également communiquée : 
 
-a) Aux services chargés du contrôle de l'exécution du contrat ;
+a) Aux services chargés du contrôle de l'exécution du contrat ; 
 
-b) S'ils existent, aux délégués du personnel ;
+b) S'ils existent, aux délégués du personnel ; 
 
-c) A l'organisme chargé du recouvrement des cotisations de sécurité sociale ;
+c) A l'organisme chargé du recouvrement des cotisations de sécurité sociale ; 
 
 d) A l'organisme paritaire collecteur agréé ayant pris en charge les dépenses liées aux actions d'orientation
 professionnelle.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Créé par**:
 
-	  - Code du travail applicable dans la collectivité départementale de Mayotte L711-9, L711-5 à L711-8
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 du 16 décembre 1991
-
-	**Modifié par**:
-
-	  - Décret n°2006-1315 du 25 octobre 2006 - art. 26 () JORF 27 octobre 2006
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
 
 	**Liens**:
 
-	  - TRANSFERE: Décret n°2013-800 du 2 septembre 2013 - art. 1
+	  - TRANSFERE: Décret n°2016-135 du 9 février 2016 - art. 1
 
 	**Cité par**:
 
-	  - Code du travail applicable à Mayotte. - art. D711-13 (VT)
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. R712-12 (T)
-
-
-### CHAPITRE II : Contrôle de la formation professionnelle
-
-###### Article R712-1
-
-Les inspecteurs et les contrôleurs de la formation professionnelle exerçant les contrôles définis à l'article L. 711-4 sont
-commissionnés par le représentant de l'Etat lorsqu'ils interviennent à Mayotte, ou par le ministre chargé de la formation
-professionnelle lorsqu'ils ont vocation d'intervenir dans les régions de métropole et d'outre-mer et à Mayotte.
-
-Les agents ainsi commissionnés sont habilités à rechercher et constater par procès-verbal les infractions mentionnées au IV
-de l'article L. 711-1-1 et au dernier alinéa du II de l'article L. 711-4.
-
-Avant d'entrer en fonctions ils prêtent serment devant le tribunal de première instance de leur résidence administrative en
-ces termes : "Je jure d'accomplir avec exactitude et probité, en conformité avec les lois et règlements en vigueur, les
-missions de contrôle qui me sont confiées".
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 1991-12-16 annexe
-
-	**Créé par**:
-
-	  - Décret n°2006-1315 du 25 octobre 2006 - art. 26 () JORF 27 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L711-1-1
-	  - Code du travail applicable à Mayotte. - art. L711-4
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. R713-6 (VT)
-
-
-###### Article R712-2
-
-Le contrôle mentionné à l'article L. 711-4 peut porter sur tout ou partie de l'activité, des actions de formation ou des
-dépenses de l'organisme contrôlé.
-
-Les personnes et organismes mentionnés à l'article L. 711-4 qui ont fait l'objet d'un contrôle sur place sont informés de la
-fin de la période d'instruction par lettre recommandée avec demande d'avis de réception ou remise en main propre contre
-décharge.
-
-Des faits nouveaux constatés postérieurement à la réception de cette lettre peuvent justifier l'ouverture d'une nouvelle
-période d'instruction.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 1991-12-16 annexe
-
-	**Créé par**:
-
-	  - Décret n°2006-1315 du 25 octobre 2006 - art. 26 () JORF 27 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L711-4
-
-
-###### Article R712-3
-
-Les employeurs sont tenus de présenter les pièces justifiant de la réalité et de la régularité des actions financées dans le
-cadre de l'utilisation de la contribution en application de l'article L. 711-2.
-
-Ils sont tenus de présenter aux inspecteurs et aux contrôleurs de la formation professionnelle ou à défaut aux inspecteurs et
-aux contrôleurs du travail les pièces justificatives de l'acquittement de la contribution versée au fonds de la formation
-professionnelle continue en application de l'article L. 711-1.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 1991-12-16 annexe
-
-	**Créé par**:
-
-	  - Décret n°2006-1315 du 25 octobre 2006 - art. 26 () JORF 27 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L711-1
-	  - Code du travail applicable à Mayotte. - art. L711-2
-
-
-###### Article R712-4
-
-Lorsque les dépenses d'un organisme de formation, dans le cadre de l'activité de formation au sens des articles L. 711-1 et
-L. 711-2, ne peuvent, par leur nature, être rattachées à cette activité ou lorsque le prix des prestations est excessif,
-l'organisme est tenu de reverser au Trésor public une somme égale au montant de ces dépenses.
-
-Le caractère excessif du prix des prestations s'apprécie par comparaison à leur prix de revient ou aux tarifs pratiqués dans
-des conditions d'exploitation comparables pour des prestations analogues. Le prix des prestations est également considéré
-comme excessif lorsqu'un ou plusieurs des éléments constitutifs du prix de revient sont eux-mêmes anormaux.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 du 16 décembre 1991
-
-	**Créé par**:
-
-	  - Décret n°2006-1315 du 25 octobre 2006 - art. 26 () JORF 27 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L711-1
-	  - Code du travail applicable à Mayotte. - art. L711-2
-
-
-###### Article R712-5
-
-Lorsqu'au cours d'un contrôle effectué en application de l'article L. 711-4 il est constaté l'inexécution totale ou partielle
-d'une convention de formation professionnelle, l'organisme de formation rembourse aux financeurs les sommes qui, du fait de
-cette inexécution, n'ont pas été effectivement dépensées ou engagées.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 du 16 décembre 1991
-
-	**Créé par**:
-
-	  - Décret n°2006-1315 du 25 octobre 2006 - art. 26 () JORF 27 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L711-4
-
-
-###### Article R712-6
-
-Les constats opérés lors des contrôles prévus à l'article L. 711-4 sont notifiés par avis de fin de contrôle à l'intéressé,
-adressé par lettre recommandée avec avis de réception ou remis en main propre contre décharge, avec l'indication du délai et
-des procédures dont il dispose pour présenter des observations écrites et demander, le cas échéant, à être entendu.
-
-Ce délai ne peut être inférieur à trente jours à compter de la date de la notification.
-
-Cette notification interrompt la prescription courant à l'encontre du Trésor public au regard des reversements exigibles.
-
-La décision du ministre chargé de la formation professionnelle ou du représentant de l'Etat ne peut être prise qu'au vu des
-observations écrites et après audition, le cas échéant, de l'intéressé, à moins qu'aucun document ni aucune demande
-d'audition n'aient été présentés avant l'expiration du délai prévu aux alinéas ci-dessus.
-
-La décision est motivée et notifiée à l'intéressé par lettre recommandée avec avis de réception ou remise en main propre
-contre décharge.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 du 16 décembre 1991
-
-	**Créé par**:
-
-	  - Décret n°2006-1315 du 25 octobre 2006 - art. 26 () JORF 27 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L711-4
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. R712-8 (VT)
-
-
-###### Article R712-7
-
-Les décisions de rejet de dépenses, de retrait d'agrément, de résiliation de conventions ou de reversement de sommes reçues,
-prises en conséquence de l'application de l'article L. 711-4 par l'autorité de l'Etat chargé de la formation professionnelle
-ne peuvent intervenir, après la notification des résultats du contrôle, que si la procédure contradictoire mentionnée à
-l'article R. 712-8 a été respectée. Ces décisions sont motivées et notifiées aux intéressés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 1991-12-16 annexe
-
-	**Créé par**:
-
-	  - Décret n°2006-1315 du 25 octobre 2006 - art. 26 () JORF 27 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L711-4
-	  - Code du travail applicable à Mayotte. - art. R712-8
-
-
-###### Article R712-8
-
-Si l'intéressé entend contester la décision administrative qui lui a été notifiée en application de l'article R. 712-6, il
-saisit d'une réclamation, préalablement à tout recours pour excès de pouvoir, l'autorité qui a pris la décision. Le rejet
-total ou partiel de la réclamation fait l'objet d'une décision motivée notifiée à l'intéressé.
-
-L'autorité administrative chargée de la formation professionnelle est compétente pour déférer ou défendre devant le juge
-administratif compétent tout contentieux consécutif aux contrôles mentionnés à l'article L. 711-4.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 1991-12-16 annexe
-
-	**Créé par**:
-
-	  - Décret n°2006-1315 du 25 octobre 2006 - art. 26 () JORF 27 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L711-4
-	  - Code du travail applicable à Mayotte. - art. R712-6
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. R712-7 (VT)
-
-
-### CHAPITRE III : Organisme collecteur paritaire et organismes de formation
-
-###### Article R713-1
-
-L'organisme collecteur paritaire, chargé de la gestion du fonds de la formation professionnelle et agréé en application de
-l'article L. 711-1, ne peut posséder d'autres biens meubles et immeubles que ceux qui sont nécessaires à son fonctionnement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 1991-12-16 annexe
-
-	**Créé par**:
-
-	  - Décret n°2006-1315 du 25 octobre 2006 - art. 26 () JORF 27 octobre 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2013-800 du 2 septembre 2013 - art. 1
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L711-1
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. R711-12 (V)
-
-
-###### Article R713-2
-
-En aucun cas les tâches de gestion de l'organisme collecteur paritaire ne peuvent être confiées directement ou indirectement
-à un établissement de formation ou à un établissement de crédit. Nul ne peut exercer une fonction salariée dans l'organisme
-collecteur paritaire s'il exerce une fonction salariée dans un établissement de formation ou dans un établissement de crédit.
-Le cumul des fonctions d'administrateur dans l'organisme collecteur paritaire et dans un établissement de formation ou dans
-un établissement de crédit doit être porté à la connaissance des instances paritaires de l'organisme collecteur ainsi qu'à
-celle du commissaire aux comptes qui établit, s'il y a lieu, un rapport spécial.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 du 16 décembre 1991
-
-	**Créé par**:
-
-	  - Décret n°2006-1315 du 25 octobre 2006 - art. 26 () JORF 27 octobre 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2013-800 du 2 septembre 2013 - art. 1
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. R711-13 (M)
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. R713-6 (VT)
-
-
-###### Article R713-3
-
-L'organisme collecteur paritaire établit des comptes annuels selon les principes et méthodes comptables prévus au plan
-comptable et selon les règles fiscales en vigueur.
-
-Pour l'exercice du contrôle des comptes, l'organisme est tenu de désigner au moins un commissaire aux comptes et un
-suppléant.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 1991-12-16 annexe
-
-	**Créé par**:
-
-	  - Décret n°2006-1315 du 25 octobre 2006 - art. 26 () JORF 27 octobre 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2013-800 du 2 septembre 2013 - art. 1
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. R711-14 (V)
-
-
-###### Article R713-4
-
-L'organisme collecteur paritaire agréé transmet chaque année au représentant de l'Etat à Mayotte, après délibération de son
-conseil d'administration, un état statistique et financier permettant de suivre le fonctionnement de l'organisme et
-d'apprécier l'emploi des fonds reçus, ainsi que ses comptes et bilans et le rapport du commissaire aux comptes. Cet état est
-accompagné d'une note présentant les principales orientations de l'activité de l'organisme.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 1991-12-16 annexe
-
-	**Créé par**:
-
-	  - Décret n°2006-1315 du 25 octobre 2006 - art. 26 () JORF 27 octobre 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2013-800 du 2 septembre 2013 - art. 1
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. R711-15 (V)
-
-
-###### Article R713-5
-
-Les ressources de l'organisme collecteur paritaire doivent être conservées en numéraire, soit déposées à vue, soit placées à
-court terme.
-
-Les intérêts produits par les sommes déposées ou placées à court terme ont le même caractère que les sommes dont ils sont
-issus. Ils sont soumis aux mêmes procédures d'utilisation et à la même procédure de contrôle.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 du 16 décembre 1991
-
-	**Créé par**:
-
-	  - Décret n°2006-1315 du 25 octobre 2006 - art. 26 () JORF 27 octobre 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2013-800 du 2 septembre 2013 - art. 1
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. R711-16 (V)
-
-
-###### Article R713-6
-
-L'organisme collecteur paritaire peut affecter au maximum 1,5 % des sommes collectées au titre de la formation
-professionnelle continue à la rémunération de missions et services concernant les domaines suivants :
-
-1° Définition des règles qui permettent de déterminer les actions donnant lieu à intervention des organismes et la
-répartition des ressources entre ces interventions ;
-
-2° Promotion de la formation professionnelle auprès des entreprises.
-
-Un compte rendu annuel d'exécution des actions entreprises dans ce cadre est joint à l'état statistique et financier prévu à
-l'article R. 713-2.
-
-L'emploi des sommes définies au premier alinéa du présent article fait l'objet de contrôles effectués dans les conditions
-fixées par l'article R. 712-1. Dans le cas où il est constaté que les emplois de fonds ne sont pas justifiés ou ne répondent
-pas aux fins et règles énoncées au présent article, ils donnent lieu à un reversement du même montant par l'organisme
-collecteur agréé au Trésor public.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 1991-12-16 annexe
-
-	**Créé par**:
-
-	  - Décret n°2006-1315 du 25 octobre 2006 - art. 26 () JORF 27 octobre 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2013-800 du 2 septembre 2013 - art. 1
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. R711-17 (V)
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. R712-1
-	  - Code du travail applicable à Mayotte. - art. R713-2
-
-
-###### Article R713-7
-
-Les disponibilités dont le fonds de la formation professionnelle continue peut disposer au 31 décembre d'un exercice
-déterminé ne peuvent excéder le montant des charges comptabilisées au cours du même exercice.
-
-S'il y a excédent, celui-ci est affecté, avant le 30 septembre de l'année suivante, au financement d'actions de formation de
-salariés. Les excédents non utilisés dans les conditions ci-dessus sont reversés au profit des actions en alternance aux
-articles L. 711-5 et suivants du présent code.
-
-Le conseil d'administration propose un état prévisionnel des dépenses de fonctionnement de l'organisme paritaire agréé, en
-fonction des objectifs fixés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 du 16 décembre 1991
-
-	**Créé par**:
-
-	  - Décret n°2006-1315 du 25 octobre 2006 - art. 26 () JORF 27 octobre 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2013-800 du 2 septembre 2013 - art. 1
+	  - Code du travail applicable à Mayotte. - art. D712-13 (T)
 
 	**Cite**:
 
 	  - Code du travail applicable à Mayotte. - art. L711-5
+	  - Code du travail applicable à Mayotte. - art. L711-9
 
 	**Nouveaux textes**:
 
-	  - Code du travail applicable à Mayotte. - art. R711-18 (V)
+	  - Code du travail applicable à Mayotte. - art. R324-34 (V)
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. R711-1 (VT)
 
 
-###### Article R713-8
+### TITRE II : Stagiaire de la formation professionnelle
 
-L'agrément peut être retiré par arrêté du représentant de l'Etat à Mayotte lorsqu'il apparaît, l'organisme collecteur
-paritaire ayant été appelé à s'expliquer, que les dispositions législatives et réglementaires applicables à ces organismes ou
-les conditions prévues par la décision d'agrément ne sont pas respectées.
+#### Chapitre Ier : Rémunération du stagiaire
 
-L'arrêté de retrait précise la date à laquelle il prend effet ainsi que les modalités de dévolution des biens de l'organisme
-prévues à l'article R. 713-9. Il est motivé et notifié à l'organisme par lettre recommandée avec avis de réception ou remise
-en main propre contre décharge.
+
+##### Section 1 : Financement des stages rémunérés par l'Etat ou le Département de Mayotte
+
+##### Sous-section 1 : Dispositions générales
+
+
+
+
+###### Article R721-1
+
+Les actions de formation définies à l'article L. 711-2 ouvrent droit au bénéfice des régimes de rémunération du stagiaire
+prévus au présent chapitre, si elles répondent aux conditions prévues à la présente section.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°91-1263 1991-12-16 annexe
-
 	**Créé par**:
 
-	  - Décret n°2006-1315 du 25 octobre 2006 - art. 26 () JORF 27 octobre 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2013-800 du 2 septembre 2013 - art. 1
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. R711-19 (V)
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 2
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. R713-9
+	  - Code du travail applicable à Mayotte. - art. L711-2
 
 
-###### Article R713-9
+##### Sous-section 2 : Agrément des stages
 
-Les biens de l'organisme collecteur paritaire qui, pour quelque cause que ce soit, cesse son activité, sont dévolus à un
-organisme de même nature, désigné par le représentant de l'Etat à Mayotte.
 
-A défaut de l'existence d'un tel organisme, les biens sont dévolus au Trésor public.
+###### Article R721-2
+
+L'agrément des stages relevant de la compétence de l'Etat est accordé par :
+
+1° Le ministre chargé de la formation professionnelle, après avis du Conseil national de la formation professionnelle tout au
+long de la vie, pour les stages organisés et financés au niveau national ;
+
+2° Le préfet, après avis du comité mahorais de coordination de l'emploi et de la formation professionnelle, pour les stages
+organisés et financés au niveau local.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°91-1263 du 16 décembre 1991
-
 	**Créé par**:
 
-	  - Décret n°2006-1315 du 25 octobre 2006 - art. 26 () JORF 27 octobre 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2013-800 du 2 septembre 2013 - art. 1
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. R711-20 (V)
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 2
 
 	**Cité par**:
 
-	  - Code du travail applicable à Mayotte. - art. R713-8 (VT)
+	  - Code du travail applicable à Mayotte. - art. R721-3 (V)
+	  - Code du travail applicable à Mayotte. - art. R721-4 (V)
 
 
-###### Article R713-10
+###### Article R721-3
 
-Les organismes de formation mentionnés à l'article L. 711-4-1 sont tenus d'établir, chaque année, un bilan, un compte de
-résultat et une annexe.
-
-Les organismes à activités multiples doivent suivre d'une façon distincte en comptabilité l'activité au titre de la formation
-professionnelle continue.
-
-Les organismes de formation relevant du droit privé sont tenus de désigner au moins un commissaire aux comptes et un
-suppléant lorsqu'ils dépassent, à la fin de l'année civile ou à la clôture de l'exercice, les chiffres ci-dessous fixés pour
-deux des trois critères suivants :
-
-1° Trois pour le nombre de salariés ;
-
-2° Cent cinquante-trois mille euros pour le montant hors taxe du chiffre d'affaires formation ;
-
-3° Deux cent trente mille euros pour le total du bilan.
-
-Les organismes de formation dotés d'un statut de droit public tiennent un compte séparé de leur activité en matière de
-formation professionnelle continue.
+La consultation du Conseil national de la formation professionnelle tout au long de la vie et du comité mahorais de
+coordination de l'emploi et de la formation professionnelle prévue à l'article R. 721-2 porte sur les programmes au titre
+desquels sont organisés les stages dont l'agrément est sollicité.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°91-1263 1991-12-16 annexe
-
 	**Créé par**:
 
-	  - Décret n°2006-1315 du 25 octobre 2006 - art. 26 () JORF 27 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 2
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte.
-	  - Code du travail applicable à Mayotte. - art. L711-4-1
+	  - Code du travail applicable à Mayotte. - art. R721-2
 
 
-###### Article R713-11
+###### Article R721-4
 
-Les organismes de formation adressent chaque année, avant le 30 avril suivant l'année civile considérée, à l'autorité
-administrative de l'Etat un bilan pédagogique et financier indiquant :
-
-1° Les activités de formation conduites au cours de l'année, le nombre de stagiaires accueillis, le nombre d'heures
-stagiaires et d'heures de formation correspondant, en fonction de la nature, du niveau, des domaines et de la durée des
-formations dispensées au titre de la formation professionnelle continue ;
-
-2° La répartition des fonds reçus selon leur nature ;
-
-3° Le montant des factures émises par l'organisme ;
-
-4° Les données comptables relatives aux actions de formation professionnelle continue ;
-
-5° Les produits financiers tirés du placement des fonds reçus ;
-
-6° Le montant des résorptions de fonds non utilisés dans le cadre de conventions, opérées par l'organisme de formation auprès
-des entreprises.
-
-Le bilan pédagogique et financier est accompagné du bilan, du compte de résultat et de l'annexe du dernier exercice clos.
-
-Sur la demande des agents mentionnés à l'article L. 711-4, les organismes de formation sont tenus de produire les conventions
-de formation et les contrats de prestation de services conclus au titre de la formation professionnelle continue.
+Les stages autres que ceux mentionnés à l'article R. 721-2 sont agréés par le président du conseil général après avis du
+comité mahorais de coordination de l'emploi et de la formation professionnelle.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°91-1263 1991-12-16 annexe
-
 	**Créé par**:
 
-	  - Décret n°2006-1315 du 25 octobre 2006 - art. 26 () JORF 27 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 2
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L711-4
+	  - Code du travail applicable à Mayotte. - art. R721-2
 
 
-###### Article R713-12
+###### Article R721-5
 
-Les organismes de formation intervenant en application de l'article L. 711-1 sont tenus d'établir un règlement intérieur
-applicable aux stagiaires indiquant :
+L'autorité administrative compétente pour délivrer l'agrément examine le projet de stage selon les critères d'appréciation
+suivants : 
 
-1° Les principales mesures applicables en matière d'hygiène et de sécurité dans l'établissement ;
+1° La nature du stage ; 
 
-2° Les règles applicables en matière de discipline, et notamment la nature et l'échelle des sanctions applicables aux
-stagiaires ainsi que les droits de ceux-ci en cas de sanction ;
+2° Les conditions d'admission du stagiaire ; 
 
-3° Les modalités selon lesquelles est assurée, pour les stages d'une durée supérieure à deux cents heures, la représentation
-des stagiaires.
+3° Le niveau de la formation ; 
 
-Le règlement est établi dans tous les organismes de formation, y compris ceux qui accueillent des stagiaires dans des locaux
-mis à leur disposition, dans les trois mois suivant le début d'activité ou la date de promulgation du présent décret.
+4° Le contenu des programmes ; 
 
-Lorsque la formation se déroule dans une entreprise ou un établissement déjà doté d'un règlement intérieur, les mesures
-d'hygiène et de sécurité qui s'appliquent aux stagiaires sont celles de ce dernier règlement.
+5° Le contenu du plan de formation prévu à l'article R. 721-12 ; 
+
+6° La sanction des études ; 
+
+7° La qualification des enseignants et des responsables du stage ; 
+
+8° L'installation des locaux ; 
+
+9° L'exercice du contrôle financier, technique et pédagogique.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°91-1263 1991-12-16 annexe
-
 	**Créé par**:
 
-	  - Décret n°2006-1315 du 25 octobre 2006 - art. 26 () JORF 27 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 2
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L711-1
+	  - Code du travail applicable à Mayotte. - art. R721-12
 
 
-###### Article R713-13
+###### Article R721-6
 
-Constitue une sanction, toute mesure, autre que les observations verbales, prises par le directeur de l'organisme de
-formation ou son représentant, à la suite d'un agissement du stagiaire considéré par lui comme fautif, que cette mesure soit
-de nature à affecter immédiatement ou non la présence de l'intéressé dans le stage ou à mettre en cause la continuité de la
-formation qu'il reçoit.
+La décision d'agrément précise :
 
-Les amendes ou autres sanctions pécuniaires sont interdites.
+1° Lorsqu'il s'agit de stages dont la durée est préalablement définie :
 
-Aucune sanction ne peut être infligée au stagiaire sans que celui-ci ait été informé au préalable et par écrit des griefs
-retenus contre lui.
+a) Le nombre maximal de stagiaires susceptibles d'être rémunérés chaque année ;
 
-Lorsque le directeur de l'organisme de formation ou son représentant envisage de prendre une sanction qui a une incidence,
-immédiate ou non, sur la présence d'un stagiaire dans une formation, il est procédé ainsi qu'il suit :
+b) La durée totale et la durée hebdomadaire du stage ainsi que le nombre de mois-stagiaires ;
 
-Le directeur ou son représentant convoque le stagiaire en lui indiquant l'objet de cette convocation. Celle-ci précise la
-date, l'heure et le lieu de l'entretien. Elle est écrite et est adressée par lettre recommandée avec avis de réception ou
-remise en main propre à l'intéressé contre décharge.
+c) Les dates de début et de fin du stage ;
 
-Au cours de l'entretien, le stagiaire peut se faire assister par une personne de son choix, stagiaire ou salarié de
-l'organisme de formation. La convocation mentionnée à l'alinéa précédent fait état de cette faculté.
+2° Lorsqu'il s'agit de stages accueillant des stagiaires en continu : le nombre annuel de mois-stagiaires ;
 
-Le directeur ou son représentant indique le motif de la sanction envisagée et recueille les explications du stagiaire.
+3° Lorsqu'il s'agit de stages comportant un enseignement à distance, outre le nombre de stagiaires et les dates de début et
+de fin du stage :
 
-La sanction ne peut intervenir moins d'un jour franc ni plus de quinze jours après l'entretien. Elle fait l'objet d'une
-décision écrite et motivée, notifiée au stagiaire par lettre recommandée avec avis de réception ou remise en main propre
-contre décharge.
+a) Lorsque l'enseignement est dispensé en totalité à distance :
 
-Lorsque l'agissement a rendu indispensable une mesure conservatoire d'exclusion temporaire à effet immédiat, aucune sanction
-définitive, relative à cet agissement, ne peut être prise sans que la procédure prévue au présent article ait été observée.
+― le nombre d'heures estimées nécessaires pour réaliser les travaux demandés à chaque stagiaire ;
 
-Le directeur de l'organisme doit informer de la sanction prise :
+― la fréquence, au moins mensuelle, et la durée des séances d'évaluation pédagogique se déroulant dans les locaux du centre
+de formation ;
 
-1° L'employeur, lorsque le stagiaire est un salarié bénéficiant d'un stage dans le cadre du plan de formation d'une
-entreprise ;
+b) Lorsque l'enseignement, dispensé en formation dite ouverte, comporte alternativement un enseignement dans les locaux d'un
+centre de formation et un enseignement à distance :
 
-2° L'employeur et l'organisme paritaire qui a pris à sa charge les dépenses de la formation, lorsque le stagiaire est un
-salarié bénéficiant d'un stage dans le cadre d'un congé de formation.
+― la durée totale, en heures, de l'ensemble de ces enseignements ;
+
+― pour l'enseignement à distance, le nombre d'heures estimées nécessaires pour réaliser les travaux demandés à chaque
+stagiaire.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°91-1263 1991-12-16 annexe
-
 	**Créé par**:
 
-	  - Décret n°2006-1315 du 25 octobre 2006 - art. 26 () JORF 27 octobre 2006
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 2
 
-	**Abrogé par**:
+	**Cité par**:
 
-	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
+	  - Code du travail applicable à Mayotte. - art. R721-24 (V)
+	  - Code du travail applicable à Mayotte. - art. R721-26 (V)
 
 
-###### Article R713-14
+###### Article R721-7
 
-Dans chacun des stages d'une durée supérieure à deux cents heures, il est procédé simultanément à l'élection d'un délégué
-titulaire et d'un délégué suppléant au scrutin uninominal à deux tours.
-
-Tous les stagiaires sont électeurs et éligibles.
-
-Le scrutin a lieu pendant les heures de formation au plus tôt vingt heures et au plus tard quarante heures après le début du
-stage.
-
-Le directeur de l'organisme de formation a à sa charge l'organisation du scrutin, dont il assure le bon déroulement. Il
-adresse un procès-verbal de carence, transmis au représentant de l'Etat à Mayotte, lorsque la représentation des stagiaires
-ne peut être assurée.
-
-Les délégués sont élus pour la durée du stage. Leurs fonctions prennent fin lorsqu'ils cessent, pour quelque cause que ce
-soit, de participer au stage.
-
-Si le délégué titulaire et le délégué suppléant ont cessé leurs fonctions avant la fin du stage, il est procédé à une
-nouvelle élection dans les conditions prévues au présent article.
-
-Les délégués font toute suggestion pour améliorer le déroulement des stages et les conditions de vie des stagiaires dans
-l'organisme de formation. Ils représentent toutes les réclamations individuelles ou collectives relatives à ces matières, aux
-conditions d'hygiène et de sécurité et à l'application du règlement intérieur.
+Les stages organisés par les employeurs en application de l'article L. 721-2 ne peuvent être agréés que lorsque leur création
+est motivée par une création d'emplois, une modification du processus de production, une réduction de l'effectif ou une
+cessation d'activité.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Décret n°91-1263 1991-12-16 annexe
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L721-2
+
+
+###### Article R721-8
+
+L'agrément du stage est délivré pour une durée de trois ans maximum. Son renouvellement, au terme de la période pour laquelle
+il a été délivré, intervient par une décision explicite.
+
+**Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2006-1315 du 25 octobre 2006 - art. 26 () JORF 27 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 2
 
 
-###### Article R713-15
+###### Article R721-9
 
-Les obligations qui incombent à l'employeur en vertu de la législation de la sécurité sociale sont assurés par la personne ou
-l'organisme qui assure le versement de la rémunération due au stagiaire.
+L'agrément du stage peut être retiré après un préavis de trois mois en raison des résultats des contrôles opérés par les
+organismes ou services chargés de réaliser les inspections administrative, financière ou technique. Le retrait d'agrément ne
+fait pas obstacle au maintien de la rémunération des intéressés jusqu'à la fin du stage.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 2
+
+
+###### Article R721-10
+
+Les conventions mentionnées à l'article L. 321-4 prévoyant le financement d'une action de formation ou d'adaptation valent
+agrément de cette action par l'Etat au titre de la rémunération des stagiaires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L321-4
+
+
+###### Article R721-11
+
+L'établissement public de l'Etat auquel la gestion des rémunérations peut être confiée, en application de l'article L. 721-5,
+est un établissement public à caractère administratif.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L721-5
+
+
+##### Sous-section 3 : Plan de formation des stages comportant un enseignement à distance
+
+
+###### Article R721-12
+
+Les stages comportant un enseignement dispensé en totalité ou en partie à distance donnent lieu, avant le début des travaux
+du stagiaire, à l'élaboration d'un plan de formation établi par accord entre le directeur de l'établissement et le stagiaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 2
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R721-5 (V)
+
+
+###### Article R721-13
+
+Le plan de formation définit :
+
+1° Pour chaque mois, le calendrier, la nature, la durée estimée nécessaire pour réaliser les travaux demandés et le mode de
+vérification de l'exécution de ces derniers ;
+
+2° L'assiduité du stagiaire, par le rapport entre la durée estimée de l'exécution des travaux effectivement réalisés par le
+stagiaire et vérifiés par l'établissement et la durée estimée nécessaire pour réaliser tous les travaux prévus chaque mois.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 2
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R721-37 (V)
+
+
+###### Article R721-14
+
+Le plan de formation est transmis, avec la demande de rémunération établie par le stagiaire, dans les conditions prévues au
+1° de l'article R. 721-31.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R721-31
+
+
+##### Sous-section 4 : Durée des stages
+
+
+
+###### Article R721-15
+
+Les durées des stages sont les suivantes :
+
+1° Stages à temps plein :
+
+a) Durée maximum : trois ans ;
+
+b) Durée minimum : quarante heures ;
+
+c) Durée minimum hebdomadaire : trente heures ;
+
+2° Stages à temps partiel :
+
+a) Durée maximum : trois ans ;
+
+b) Durée minimum : quarante heures.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 2
+
+
+##### Section 2 : Montant de la rémunération
+
+
+##### Sous-section 1 : Montant et cumul de la rémunération
+
+
+
+##### Paragraphe 1er : Travailleurs non salariés
+
+
+###### Article D721-16
+
+La durée minimale d'activité professionnelle mentionnée à l'article L. 721-7 est de douze mois, dont six consécutifs, dans
+les trois années qui précèdent l'entrée en stage.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L721-7
+
+
+##### Paragraphe 2 : Travailleurs privés d'emploi
+
+
+
+
+###### Article D721-18
+
+La rémunération due aux travailleurs handicapés privés d'emploi ayant exercé une activité salariée pendant six mois au cours
+d'une période de douze mois ou pendant douze mois au cours d'une période de vingt-quatre mois est établie sur la base du
+salaire perçu antérieurement. 
+
+Elle est calculée selon la durée légale du travail fixée à l'article L. 212-1 à partir de la moyenne des salaires perçus
+pendant la durée d'activité de six mois ou de douze mois considérée. Les majorations pour heures supplémentaires, les
+indemnités compensatrices de congé payé et de préavis ainsi que les primes et indemnités qui ne sont pas retenues pour le
+calcul des cotisations sociales n'entrent pas dans le décompte des salaires perçus. Lorsque l'interruption du travail est
+antérieure depuis plus d'un an à l'entrée en stage, le salaire perçu dans le dernier emploi est affecté d'un coefficient de
+revalorisation correspondant aux majorations du salaire minimum interprofessionnel garanti au cours de la période considérée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L212-1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R721-19 (V)
+	  - Code du travail applicable à Mayotte. - art. R721-20 (V)
+
+
+###### Article R721-17
+
+Les travailleurs ayant la qualité de demandeur d'emploi perçoivent une rémunération déterminée sur une base mensuelle
+lorsque : 
+
+1° Ils ne sont pas pris en charge dans les conditions prévues au deuxième alinéa de l'article L. 721-1 ; 
+
+2° Ils suivent des stages agréés en application des dispositions de l'article L. 721-4.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L721-1
+	  - Code du travail applicable à Mayotte. - art. L721-4
+
+
+###### Article R721-19
+
+La rémunération due aux demandeurs d'emploi qui n'entrent pas dans la catégorie définie à l'article D. 721-18 et qui ont
+également exercé une activité salariée pendant six mois au cours d'une période de douze mois ou pendant douze mois au cours
+d'une période de vingt-quatre mois est fixée par décret à partir du montant de l'allocation de solidarité spécifique prévue à
+l'article L. 327-20. 
+
+Le nombre d'heures à retenir pour calculer les sommes dues à ces stagiaires est celui de la durée légale du travail fixée à
+l'article L. 212-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. D721-18
+	  - Code du travail applicable à Mayotte. - art. L212-1
+	  - Code du travail applicable à Mayotte. - art. L327-20
+
+
+###### Article R721-20
+
+La rémunération due aux demandeurs d'emploi qui n'entrent pas dans les catégories définies aux articles D. 721-18 et R.
+721-19 est fixée par décret en fonction : 
+
+1° Soit de leur situation personnelle ; 
+
+2° Soit de leur âge ; 
+
+3° Soit de la catégorie de stages définie à l'initiative de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. D721-18
+
+
+###### Article R721-21
+
+La rémunération perçue au titre d'un stage de formation professionnelle peut se cumuler avec les pensions et les rentes
+versées aux travailleurs reconnus handicapés au sens de l'article L. 328-23.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L328-23
+
+
+###### Article R721-22
+
+Les indemnités journalières, à l'exclusion de celle servie par application combinée des articles L. 432-9 et L. 433-1 du code
+de la sécurité sociale, ainsi que les salaires sont déduits de la rémunération perçue au titre des stages de formation
+professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 2
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L432-9
+
+
+###### Article R721-23
+
+Pour permettre le versement aux bénéficiaires de l'aide sociale des allocations qu'ils sont susceptibles de percevoir, le
+service chargé du paiement de ces rémunérations ou éventuellement l'Agence de services et de paiement notifie le montant de
+la rémunération versée à l'occasion d'un stage de formation professionnelle à la caisse gestionnaire des prestations
+familiales à Mayotte prévue à l'article 19 de l'ordonnance n° 2002-149 du 7 février 2002 relative à l'extension et la
+généralisation des prestations familiales et à la protection sociale dans la collectivité départementale de Mayotte ainsi
+qu'à la direction de la jeunesse, des sports et de la cohésion sociale.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°2002-149 du 7 février 2002 - art. 19
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 2
+
+
+##### Sous-section 2 : Obligation du directeur de l'établissement ou du centre de formation 
+
+
+
+###### Article R721-24
+
+Les rémunérations dues aux stagiaires sont liquidées sur demande établie par les intéressés le premier jour du stage. Le
+directeur de l'établissement ou du centre de formation certifie : 
+
+1° Les mentions portées sur la demande et relatives au stage ; 
+
+2° Que cette demande est comprise dans les limites de l'effectif agréé au titre du stage considéré par la décision prévue aux
+articles R. 721-6 et R. 721-7.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R721-6
+
+
+###### Article R721-25
+
+Dès le début du stage, le directeur de l'établissement ou du centre de formation : 
+
+1° Lorsqu'il s'agit de stages agréés par l'Etat, et en ce qui concerne les stagiaires pour lesquels la gestion de la
+rémunération est confiée à Pôle emploi, adresse la demande à cette institution ; 
+
+2° Lorsqu'il s'agit de stages agréés par l'Etat, et en ce qui concerne les autres stagiaires, adresse la demande au service
+régional de l'Agence de services et de paiement ; 
+
+3° Lorsqu'il s'agit de stages agréés par le Département de Mayotte, donne suite à la demande conformément aux instructions du
+président du conseil général.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 2
+
+
+###### Article R721-26
+
+Le directeur de l'établissement ou du centre de formation : 
+
+1° Fait connaître à l'institution ou au service chargé de la gestion des rémunérations tout changement survenu dans la
+situation des stagiaires susceptible de modifier le montant notifié par la décision mentionnée à l'article R. 721-28 ; 
+
+2° Certifie les documents individuels mensuels de présence en ce qui concerne les stagiaires pour lesquels la gestion de la
+rémunération est confiée à Pôle emploi et notifie à cette institution les abandons et les renvois de stage ainsi que leurs
+motifs et les accidents du travail ; 
+
+3° Communique au service chargé de la rémunération en ce qui concerne les autres stagiaires les états mensuels de présence et
+notifie à ce service les abandons et les renvois de stage ainsi que leurs motifs et les accidents du travail. 
+
+Dans le cas des stages comportant un enseignement à distance, les documents individuels mensuels de présence et les états
+mensuels de présence mentionnés aux 2° et 3° précisent les durées définies au 3° de l'article R. 721-6.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R721-28
+	  - Code du travail applicable à Mayotte. - art. R721-6
+
+
+##### Sous-section 3 : Paiement 
+
+
+
+
+###### Article R721-27
+
+Selon le cas, l'organisme auquel a été confiée la gestion, ou l'Agence de services et de paiement, ou le président du conseil
+général fixe le montant de la rémunération à servir pendant la durée du stage et notifie sa décision au stagiaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 2
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R721-44 (V)
+
+
+###### Article R721-28
+
+Lorsqu'il s'agit de stages agréés par l'Etat et que la gestion de la rémunération est assurée par Pôle emploi, le préfet,
+saisi par cette institution : 
+
+1° Prononce les décisions de rejet relatives à la prise en charge ; 
+
+2° Prend les décisions relatives aux demandes qui lui sont soumises ; 
+
+3° Statue sur les cas dans lesquels la décision de l'institution a été contestée par le stagiaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 2
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R721-26 (V)
+	  - Code du travail applicable à Mayotte. - art. R721-29 (V)
+	  - Code du travail applicable à Mayotte. - art. R721-32 (V)
+
+
+###### Article R721-29
+
+Pour l'application des dispositions de l'article R. 721-28, le préfet compétent est celui du département du siège de
+l'institution chargée de la gestion de la rémunération.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R721-28
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R721-39 (V)
+
+
+###### Article R721-30
+
+Les rémunérations des stagiaires, lorsqu'elles sont à la charge de l'Etat, sont payées, selon le cas, par l'organisme auquel
+a été confiée la gestion ou par l'Agence de services et de paiement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 2
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R721-34 (V)
+
+
+###### Article R721-31
+
+Les rémunérations dues aux stagiaires à plein temps sont payées mensuellement et à terme échu. Dès la fin du premier mois de
+stage ouvrant droit à rémunération à la charge de l'Etat, ces stagiaires perçoivent au moins un acompte dont le montant est
+fixé par décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 2
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R721-14 (V)
+	  - Code du travail applicable à Mayotte. - art. R721-32 (V)
+
+
+###### Article R721-32
+
+Lorsque la rémunération des stagiaires est déterminée par décret en application des articles L. 721-6 et L. 721-7, le
+paiement de l'acompte peut être opéré par l'organisme ou l'établissement mentionné à l'article R. 721-31 avant notification
+au stagiaire de la décision prévue à l'article R. 721-28.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L721-6
+	  - Code du travail applicable à Mayotte. - art. R721-28
+	  - Code du travail applicable à Mayotte. - art. R721-31
+
+
+###### Article R721-33
+
+La liquidation et le paiement des sommes dues aux stagiaires à l'issue d'un stage à titre de solde des rémunérations et, le
+cas échéant, des indemnités compensatrices de congés payés, sont réalisés dans les mêmes conditions que la liquidation et le
+paiement des rémunérations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 2
+
+
+###### Article R721-34
+
+Par dérogation aux dispositions des articles R. 721-30 à R. 721-33, le paiement des rémunérations à la charge de l'Etat peut
+être réalisé par les établissements ou centres de formation lorsque ceux-ci sont soumis au contrôle administratif et
+financier de l'Etat selon des modalités précisées par des conventions conclues entre ces organismes, le ministre de
+l'économie et des finances et le ministre intéressé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R721-30
+
+
+###### Article R721-35
+
+La fraction de la rémunération à rembourser à l'employeur qui maintient le salaire des salariés qui suivent des stages agréés
+ainsi que les cotisations de sécurité sociale relatives à cette fraction sont liquidées, en application du 1° de l'article L.
+721-2, sur demande de l'employeur, selon le cas par : 
+
+1° Le préfet du département du lieu du stage ; 
+
+2° Le président du conseil général ; 
+
+3° Le directeur de l'Agence de services et de paiement, lorsqu'il s'agit de stages relevant du ministre de l'agriculture ou
+faisant l'objet d'une convention conclue au nom de l'Etat par ce ministre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L721-2
+
+
+###### Article R721-36
+
+Les rémunérations versées aux stagiaires et les rémunérations remboursées aux employeurs ainsi que, le cas échéant, les
+sommes payées au titre des cotisations de sécurité sociale afférentes à ces rémunérations font l'objet de retenues
+proportionnelles à la durée des absences non justifiées aux séances de formation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 2
+
+
+###### Article R721-37
+
+Les manquements non justifiés à l'obligation d'assiduité déterminée dans les conditions prévues au 2° de l'article R. 721-13
+et les absences non justifiées aux séquences de formation en centre, dans le cas des formations ouvertes, font l'objet des
+retenues proportionnelles prévues à l'article R. 721-37. 
+
+Les absences non justifiées aux séquences d'évaluation pédagogique en centre donnent lieu au reversement de la rémunération
+perçue depuis la dernière séquence ou à retenue de la rémunération due depuis celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R721-13
+	  - Code du travail applicable à Mayotte. - art. R721-37
+
+
+###### Article R721-38
+
+Lorsque le stagiaire abandonne sans motif légitime le stage ou fait l'objet d'un renvoi pour faute lourde, les rémunérations
+perçues par les stagiaires et les rémunérations qui ont été remboursées aux employeurs ainsi que, le cas échéant, les sommes
+versées au titre des cotisations de sécurité sociale afférentes à ces rémunérations sont reversées en totalité à l'Etat ou,
+selon le cas, au Département de Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 2
+
+
+###### Article R721-39
+
+Le recouvrement des sommes indûment versées est opéré, suivant le cas, soit par le préfet lorsque le reversement n'a pu être
+obtenu par l'organisme auquel a été confiée la gestion de la rémunération, soit par l'Agence de services et de paiement, soit
+par le président du conseil général. 
+
+A titre exceptionnel, une remise partielle ou totale de dette peut être accordée, suivant le cas, par le préfet, par l'Agence
+de services et de paiement ou par le président du conseil général. 
+
+Pour l'application de ces dispositions, le préfet compétent est celui mentionné à l'article R. 721-29.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R721-29
+
+
+##### Section 3 : Remboursement des frais de transport 
+
+
+###### Article R721-40
+
+Les stagiaires dont la rémunération est prise en charge par l'Etat ou par le Département de Mayotte ont droit au
+remboursement de la totalité des frais de transport exposés à l'occasion des déplacements réalisés en fonction des nécessités
+des stages.
+
+Le remboursement couvre notamment, dans le cas des stages comportant un enseignement à distance, les frais de transport
+exposés au début et à la fin de chaque période en centre et de chaque séance d'évaluation pédagogique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 2
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R721-43 (V)
+
+
+###### Article R721-41
+
+A condition que la distance à parcourir à partir de leur domicile soit supérieure à 25 kilomètres, les stagiaires dont la
+rémunération est prise en charge par l'Etat ou par le Département de Mayotte ont droit au remboursement de la totalité des
+frais de transport exposés au début et à la fin du stage pour rejoindre l'établissement ou le centre de formation et en
+revenir.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 2
+
+
+###### Article R721-42
+
+Les stagiaires ont droit au remboursement des trois quarts des frais de transport exposés pour se rendre dans leur famille, à
+condition que la distance à parcourir soit supérieure à 25 kilomètres, à raison : 
+
+1° Pour les stagiaires âgés de moins de 18 ans, d'un voyage mensuel ; 
+
+2° Pour les autres stagiaires, lorsqu'ils sont célibataires, d'un voyage si la durée du stage est supérieure à huit mois ; 
+
+3° Pour les autres stagiaires, lorsqu'ils sont mariés, liés par un partenariat civil de solidarité, concubins ou chargés de
+famille, d'un voyage si la durée du stage est comprise entre trois et huit mois et de deux voyages si cette durée est
+supérieure à huit mois.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 2
+
+
+###### Article R721-43
+
+Les frais de transport exposés par les stagiaires participant à des sessions de regroupement ouvrant droit à rémunération
+dans le cadre de stages d'enseignement à distance sont remboursés dans les mêmes conditions que les frais correspondants aux
+déplacements mentionnés au premier alinéa de l'article R. 721-40.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R721-40
+
+
+###### Article R721-44
+
+Le remboursement des frais de transport mentionnés à ce chapitre est opéré dans les conditions prévues aux articles R. 721-27
+à R. 721-35 et ne concerne que les formations effectuées à Mayotte. 
+
+Les stagiaires résidant à Mayotte et suivant à La Réunion une formation qui ne pourrait pas être dispensée à Mayotte ont
+droit au remboursement par l'Etat de la totalité des frais de transport exposés au début et à la fin du stage pour rejoindre
+l'établissement de formation et en revenir. Ils ont également droit au remboursement par l'Etat des trois quarts des frais de
+transport exposés pour se rendre dans leur famille à raison d'un voyage par stage d'une durée supérieure à six mois.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R721-27
+
+
+#### Chapitre II : Protection sociale du stagiaire 
+
+
+###### Article R722-1
+
+Sous réserve de l'application des dispositions du présent titre, les obligations qui incombent à l'employeur en application
+des législations de sécurité sociale sont assumées par la personne, le service ou l'organisme qui assure le versement de la
+rémunération due au stagiaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 2
+
+
+###### Article R722-2
+
+L'organisme qui assure le versement de la rémunération des stagiaires est dispensé du versement des cotisations dues au titre
+des assurances sociales et des prestations familiales en ce qui concerne : 
+
+1° Les travailleurs reconnus handicapés au sens de l'article L. 328-23 et dont les périodes de stages sont prises en compte
+sans cotisation pour l'ouverture des droits aux assurances sociales et aux prestations familiales ; 
+
+2° Les travailleurs privés d'emploi dont la rémunération est assurée par Pôle emploi pour le compte de l'organisme mentionné
+à l'article L. 5427-1 du code du travail, en application des dispositions du second alinéa de l'article L. 721-1 du présent
+code, et qui bénéficient des dispositions du 2° de l'article 8 de l'ordonnance n° 2002-411 du 27 mars 2002 relative à la
+protection sanitaire et sociale à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°2002-411 du 27 mars 2002 - art. 8
+	  - Code du travail - art. L5427-1
+	  - Code du travail applicable à Mayotte. - art. L328-23
+	  - Code du travail applicable à Mayotte. - art. L721-1
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 2
+
+
+###### Article R722-3
 
 En matière d'accidents du travail et de maladies professionnelles, les obligations autres que celles qui concernent le
 paiement des cotisations incombent à la personne ou à l'organisme responsable de la gestion du centre où le stage est
@@ -74671,37 +75390,1045 @@ accompli.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°91-1263 du 16 décembre 1991
-
 	**Créé par**:
 
-	  - Décret n°2006-1315 du 25 octobre 2006 - art. 26 () JORF 27 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 2
 
 
-###### Article R713-16
+### TITRE III : Organismes de formation
 
-Les organismes qui assistent des candidats à une validation des acquis de l'expérience en intervenant en vue de cette
-validation et qui exercent par ailleurs une ou plusieurs autres activités sont tenus de suivre en comptabilité de façon
-distincte ces activités.
+#### Chapitre Ier : Déclaration d'activité
+
+##### Section 1 : Dépôt et enregistrement de la déclaration
+
+###### Article R731-1
+
+La déclaration d'activité prévue à l'article L. 731-3 est adressée par le prestataire de formation au préfet. Elle est
+complétée des pièces justificatives mentionnées à l'article R. 731-5. 
+
+Cette déclaration est effectuée au plus tard dans les trois mois qui suivent la conclusion par le prestataire de formation de
+la première convention ou du premier contrat de formation professionnelle.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Décret n°91-1263 1991-12-16 annexe
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 3
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L731-3
+	  - Code du travail applicable à Mayotte. - art. R731-5
+
+
+###### Article R731-2
+
+L'organisme prestataire se déclare auprès du préfet en fonction soit du lieu de son principal établissement, soit du lieu où
+est assurée sa direction effective, soit du lieu de son siège social.
+
+**Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2006-1315 du 25 octobre 2006 - art. 26 () JORF 27 octobre 2006
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 3
 
-	**Abrogé par**:
 
-	  - Décret n°2013-800 du 2 septembre 2013 - art. 1
+###### Article R731-3
+
+Les organismes de formation qui exercent leur activité sur le territoire français, mais dont le siège social se trouve hors
+de ce territoire, désignent un représentant domicilié en France habilité à répondre en leur nom aux obligations résultant de
+la présente partie. Dans ce cas, l'organisme se déclare auprès du préfet de région compétent en fonction du lieu du domicile
+de ce représentant et, à Mayotte, auprès du préfet.
+
+Cette obligation ne concerne pas les organismes de formation dont le siège social est situé dans un autre Etat membre de
+l'Union européenne ou de l'Espace économique européen et qui interviennent de manière occasionnelle sur le territoire
+français.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 3
+
+
+###### Article R731-4
+
+La déclaration d'activité indique la dénomination, l'adresse, l'objet de l'activité et le statut juridique du déclarant.
+
+Le cas échéant, l'organisme mentionne dans sa déclaration les autres activités exercées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 3
+
+
+###### Article R731-5
+
+La déclaration d'activité est accompagnée des pièces justificatives suivantes : 
+
+1° Une copie du justificatif d'attribution du numéro SIREN ; 
+
+2° Le bulletin n° 3 du casier judiciaire du dirigeant pour les personnes morales ou celui du déclarant pour les personnes
+physiques ; 
+
+3° Une copie de la première convention de formation professionnelle prévue à l'article L. 731-2 ou, à défaut, du bon de
+commande ou de la facture établis pour la réalisation de la prestation de formation, conformément à l'article L. 733-2, ou,
+s'il y a lieu, du premier contrat de formation professionnelle prévu à l'article L. 733-3 ; 
+
+4° Une copie du programme de la formation, prévu à l'article L. 733-1, ainsi que la liste des personnes qui interviennent
+dans la réalisation de l'action avec la mention de leurs titres et qualités, du lien entre ces titres et qualités et la
+prestation réalisée conformément à l'article L. 732-1 et du lien contractuel qui les lie à l'organisme. 
+
+L'administration peut demander, pour l'appréciation de la conformité de la déclaration d'activité aux dispositions de
+l'article L. 733-1, un justificatif relatif à la première prestation de formation réalisée, au public bénéficiaire ou à la
+nature de cette prestation. 
+
+Elle peut aussi demander, pour l'appréciation de la conformité de cette déclaration aux dispositions de l'article L. 732-1,
+un justificatif relatif aux titres et qualités des personnes qui interviennent dans la réalisation de la prestation et à la
+relation entre ces titres et qualités et la prestation. 
+
+La demande de justificatifs complémentaires prévue aux deux alinéas précédents est adressée à l'organisme dans le délai de
+dix jours à compter de la réception des pièces mentionnées aux 1° à 4° du présent article. L'organisme dispose d'un délai de
+quinze jours à compter de la réception de la demande pour fournir les justificatifs.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 3
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L731-2
+	  - Code du travail applicable à Mayotte. - art. L732-1
+	  - Code du travail applicable à Mayotte. - art. L733-1
+	  - Code du travail applicable à Mayotte. - art. L733-2
+	  - Code du travail applicable à Mayotte. - art. L733-3
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R731-1 (V)
+	  - Code du travail applicable à Mayotte. - art. R731-6 (V)
+
+
+###### Article R731-6
+
+Dans les trente jours qui suivent la réception de la déclaration complétée des pièces justificatives mentionnées à l'article
+R. 731-5, le préfet délivre un récépissé comportant un numéro d'enregistrement à l'organisme qui satisfait aux conditions
+d'enregistrement de la déclaration d'activité. 
+
+Jusqu'à la délivrance de ce récépissé ou la notification de la décision de refus d'enregistrement, l'organisme est réputé
+déclaré. 
+
+A l'exception de la première convention ou du premier contrat de formation professionnelle, le prestataire de formation fait
+figurer ce numéro d'enregistrement sur les conventions et, en l'absence de conventions, sur les bons de commande ou factures,
+ou les contrats de formation professionnelle qu'il conclut, sous la forme suivante : " déclaration d'activité enregistrée
+sous le numéro.......... auprès du préfet ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 3
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R731-5
+
+
+###### Article R731-7
+
+La décision de refus d'enregistrement est notifiée au prestataire de formation par le préfet dans les trente jours qui
+suivent la réception de la déclaration complétée des pièces justificatives.
+
+Le silence gardé dans ce délai vaut enregistrement de la déclaration.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 3
+
+
+###### Article R731-8
+
+Toute personne qui exerce, en droit ou en fait, une fonction de direction ou d'administration dans un organisme de formation
+au sens du présent titre présente, sur demande du préfet, un bulletin n° 3 de son casier judiciaire de moins d'un mois.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 3
+
+
+##### Section 2 : Déclaration rectificative et annulation
+
+
+###### Article D731-13
+
+Le délai mentionné au 3° de l'article L. 731-5 est fixé à trente jours.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 3
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L731-5
+
+
+###### Article R731-9
+
+La modification de la déclaration ainsi que la cessation d'activité du prestataire de formation font l'objet, dans un délai
+de trente jours, d'une déclaration rectificative auprès du préfet destinataire de la déclaration d'activité.
+
+Celui-ci en informe le président du conseil général.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 3
+
+
+###### Article R731-10
+
+Pour l'appréciation des conditions d'annulation de l'enregistrement de la déclaration d'activité mentionnées aux 1° et 2° de
+l'article L. 731-5, les prestations examinées sont celles qui correspondent aux recettes figurant dans le dernier bilan
+pédagogique et financier adressé par le prestataire au préfet en application des articles L. 732-11 et R. 732-22 à R. 732-24
+et aux recettes perçues entre la date de la fin de ce bilan et la date du contrôle. 
+
+Lorsque le prestataire vient de déclarer son activité et n'est donc pas tenu de dresser le bilan pédagogique et financier,
+l'examen porte sur les prestations réalisées jusqu'à la date du contrôle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 3
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L731-5
+	  - Code du travail applicable à Mayotte. - art. L732-11
+	  - Code du travail applicable à Mayotte. - art. R732-22
+
+
+###### Article R731-11
+
+L'annulation de l'enregistrement de la déclaration est prononcée par le préfet.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 3
+
+
+###### Article R731-12
+
+L'intéressé qui entend contester la décision de refus ou d'annulation de l'enregistrement de la déclaration d'activité saisit
+d'une réclamation, préalablement à tout recours pour excès de pouvoir, l'autorité qui a pris la décision.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 3
+
+
+#### Chapitre II : Fonctionnement
+
+
+
+##### Section 1 : Règlement intérieur
+
+
+
+###### Article R732-1
+
+Le règlement intérieur est établi dans tous les organismes de formation, y compris dans ceux qui accueillent les stagiaires
+dans des locaux mis à leur disposition.
+
+Lorsque l'organisme comporte plusieurs établissements, le règlement intérieur peut faire l'objet des adaptations nécessaires,
+notamment en matière de santé et de sécurité au travail.
+
+Lorsque la formation se déroule dans une entreprise ou un établissement déjà doté d'un règlement intérieur, les mesures de
+santé et de sécurité applicables aux stagiaires sont celles de ce dernier règlement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 3
+
+
+###### Article R732-2
+
+Le règlement intérieur est établi dans les trois mois suivant le début de l'activité de l'organisme de formation.
+
+Il se conforme aux dispositions de la présente
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 3
+
+
+##### Section 2 : Droit disciplinaire
+
+
+
+###### Article R732-3
+
+Constitue une sanction toute mesure, autre que les observations verbales, prise par le directeur de l'organisme de formation
+ou son représentant, à la suite d'un agissement du stagiaire considéré par lui comme fautif, que cette mesure soit de nature
+à affecter immédiatement ou non la présence de l'intéressé dans le stage ou à mettre en cause la continuité de la formation
+qu'il reçoit.
+
+Les amendes ou autres sanctions pécuniaires sont interdites.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 3
+
+
+###### Article R732-4
+
+Aucune sanction ne peut être infligée au stagiaire sans que celui-ci ait été informé au préalable des griefs retenus contre
+lui.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 3
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R732-7 (V)
+
+
+###### Article R732-5
+
+Lorsque le directeur de l'organisme de formation ou son représentant envisage de prendre une sanction qui a une incidence,
+immédiate ou non, sur la présence d'un stagiaire dans une formation, il est procédé comme suit :
+
+1° Le directeur ou son représentant convoque le stagiaire en lui indiquant l'objet de cette convocation. Celle-ci précise la
+date, l'heure et le lieu de l'entretien. Elle est écrite et est adressée par lettre recommandée avec demande d'avis de
+réception ou par lettre remise en main propre contre décharge ;
+
+2° Au cours de l'entretien, le stagiaire peut se faire assister par la personne de son choix, notamment le délégué de stage.
+La convocation mentionnée au 1° fait état de cette faculté ;
+
+3° Le directeur ou son représentant indique le motif de la sanction envisagée et recueille les explications du stagiaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 3
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R732-7 (V)
+
+
+###### Article R732-6
+
+La sanction ne peut intervenir moins d'un jour franc ni plus de quinze jours après l'entretien.
+
+Elle fait l'objet d'une décision écrite et motivée, notifiée au stagiaire par lettre recommandée avec demande d'avis de
+réception ou par lettre remise en main propre contre décharge.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 3
+
+
+###### Article R732-7
+
+Lorsque l'agissement a rendu indispensable une mesure conservatoire d'exclusion temporaire à effet immédiat, aucune sanction
+définitive, relative à cet agissement, ne peut être prise sans que la procédure prévue à l'article R. 732-4 et,
+éventuellement, aux articles R. 732-5 et R. 732-6 ait été observée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 3
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R732-4
+	  - Code du travail applicable à Mayotte. - art. R732-5
+
+
+###### Article R732-8
+
+Le directeur de l'organisme de formation informe de la sanction prise :
+
+1° L'employeur, lorsque le stagiaire est un salarié bénéficiant d'une action de formation dans le cadre du plan de formation
+d'une entreprise ;
+
+2° L'employeur et l'organisme collecteur paritaire agréé qui a pris en charge les dépenses de la formation, lorsque le
+stagiaire est un salarié bénéficiant d'un congé de formation ;
+
+3° L'organisme collecteur paritaire agréé qui a assuré le financement de l'action de formation dont a bénéficié le stagiaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 3
+
+
+##### Section 3 : Représentation des stagiaires
+
+
+##### Sous-section 1 : Election et scrutin
+
+
+
+###### Article R732-9
+
+Pour chacune des actions de formation mentionnées au 3° de l'article L. 732-4 prenant la forme de stages collectifs, il est
+procédé simultanément à l'élection d'un délégué titulaire et d'un délégué suppléant au scrutin uninominal à deux tours. 
+
+Tous les stagiaires sont électeurs et éligibles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 3
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L732-4
+
+
+###### Article R732-10
+
+Le scrutin se déroule pendant les heures de la formation. Il a lieu au plus tôt vingt heures et au plus tard quarante heures
+après le début du stage.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 3
+
+
+###### Article R732-11
+
+Le directeur de l'organisme de formation est responsable de l'organisation du scrutin. Il en assure le bon déroulement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 3
+
+
+###### Article R732-12
+
+Lorsque, à l'issue du scrutin, il est constaté que la représentation des stagiaires ne peut être assurée, le directeur dresse
+un procès-verbal de carence.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 3
+
+
+##### Sous-section 2 : Mandat et attribution
+
+
+###### Article R732-13
+
+Les délégués sont élus pour la durée du stage. Leurs fonctions prennent fin lorsqu'ils cessent de participer au stage.
+
+Lorsque le délégué titulaire et le délégué suppléant ont cessé leurs fonctions avant la fin du stage, il est procédé à une
+nouvelle élection, dans les conditions prévues à la sous-section 1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 3
+
+
+###### Article R732-14
+
+Les délégués font toute suggestion pour améliorer le déroulement des stages et les conditions de vie des stagiaires dans
+l'organisme de formation.
+
+Ils présentent les réclamations individuelles ou collectives relatives à ces matières, aux conditions de santé et de sécurité
+au travail et à l'application du règlement intérieur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 3
+
+
+###### Article R732-15
+
+Les dispositions de la présente section ne sont pas applicables aux détenus admis à participer à une action de formation
+professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 3
+
+
+##### Section 4 : Obligations comptables
+
+
+###### Article D732-16
+
+Les dispensateurs de formation qui ont un statut de droit privé établissent des comptes annuels selon les principes et
+méthodes comptables définis au code de commerce.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 3
+
+
+###### Article D732-17
+
+Les dispensateurs de formation appliquent le plan comptable mentionné à l'article D. 6352-17 du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 3
+
+	**Cite**:
+
+	  - Code du travail - art. D6352-17
+
+
+###### Article D732-18
+
+Les organismes qui interviennent dans le déroulement des actions destinées à la validation des acquis de l'expérience
+tiennent une comptabilité distincte pour cette activité lorsqu'ils exercent simultanément plusieurs autres activités.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 3
+
+
+###### Article R732-19
+
+Sans préjudice des dispositions du premier alinéa de l'article L. 822-9 du code de commerce applicables aux sociétés
+anonymes, les dispensateurs de formation de droit privé désignent au moins un commissaire aux comptes et un suppléant
+lorsqu'ils dépassent, à la fin de l'année civile ou à la clôture de l'exercice, les chiffres fixés pour deux des trois
+critères suivants :
+
+1° Trois pour le nombre des salariés ;
+
+2° 153 000 € pour le montant hors taxe du chiffre d'affaires ou des ressources ;
+
+3° 230 000 € pour le total du bilan.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 3
+
+	**Cite**:
+
+	  - Code de commerce - art. L822-9
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R732-20 (V)
+
+
+###### Article R732-20
+
+Les dispensateurs de formation de droit privé ne sont pas tenus à l'obligation de désigner un commissaire aux comptes
+lorsqu'ils ne dépassent pas les chiffres fixés pour deux des trois critères définis à l'article R. 732-19 pendant deux
+exercices successifs.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 3
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R732-19
+
+
+###### Article R732-21
+
+Le montant du chiffre annuel mentionné à l'article L. 732-9 est fixé à 152 449,02 € hors taxes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 3
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L732-9
+
+
+##### Section 5 : Bilan pédagogique et financier
+
+
+###### Article R732-22
+
+Le bilan pédagogique et financier prévu à l'article L. 732-11 indique : 
+
+1° Les activités de formation conduites au cours de l'exercice comptable ; 
+
+2° Le nombre de stagiaires accueillis ; 
+
+3° Le nombre d'heures-stagiaires et d'heures de formation correspondant, en fonction de la nature, du niveau, des domaines et
+de la durée des formations dispensées au titre de la formation professionnelle continue ; 
+
+4° La répartition des fonds reçus selon leur nature et le montant des factures émises par le prestataire ; 
+
+5° Les données comptables relatives aux prestations de formation professionnelle continue ; 
+
+6° Les produits financiers tirés du placement des fonds reçus.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 3
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L732-11
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R731-10 (V)
+
+
+###### Article R732-23
+
+Le prestataire de formation déclaré ou l'établissement autonome adresse au préfet son bilan pédagogique et financier avant le
+30 avril de chaque année.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 3
+
+
+###### Article R732-24
+
+Sur la demande du préfet, le prestataire produit la liste des prestations de formation réalisées ou à accomplir.
+
+Cette liste mentionne, le cas échéant, le montant des résorptions opérées par le prestataire auprès des entreprises.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 3
+
+
+#### Chapitre III : Réalisation des actions de formation
+
+
+###### Article R733-1
+
+Les conventions, les bons de commande ou factures mentionnés à l'article L. 733-2 précisent : 
+
+1° L'intitulé, la nature, la durée, les effectifs, les modalités du déroulement et de sanction de la formation ; 
+
+2° Le prix et les contributions financières éventuelles de personnes publiques.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 3
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L733-2
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R733-2 (V)
+
+
+###### Article R733-2
+
+Lorsque la formation a lieu à l'initiative du salarié avec l'accord de son employeur ou lorsqu'elle se déroule en dehors du
+temps de travail avec l'accord du salarié et que la formation a notamment pour objet l'obtention d'un diplôme, d'un titre à
+finalité professionnelle, d'un certificat de qualification professionnelle, les éléments figurant au 1° de l'article R. 733-1
+font l'objet d'une convention avec la personne qui bénéficie de la formation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 3
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R733-1
+
+
+### TITRE IV : Contrôle de la formation professionnelle continue
+
+#### Chapitre Ier : Objet du contrôle et fonctionnaires de contrôle
+
+###### Article D741-3
+
+Les agents de la fonction publique de l'Etat, placés sous l'autorité du ministre chargé de la formation professionnelle,
+mentionnés au premier alinéa de l'article L. 741-4 suivent une formation pratique de six mois dans les services en charge des
+contrôles. 
+
+Durant ce stage, ils participent aux contrôles en qualité d'assistant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 4
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L741-4
+
+
+###### Article D741-4
+
+Les inspecteurs et contrôleurs du travail mentionnés au premier alinéa de l'article L. 741-4 suivent la formation préalable à
+l'exercice des missions de contrôle prévue par les dispositions statutaires relatives aux formations et aux stages précédant
+leur titularisation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 4
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L741-4
+
+
+###### Article R741-1
+
+Avant d'entrer en fonction, les agents de contrôle mentionnés au premier alinéa de l'article L. 741-4 prêtent serment devant
+le tribunal de grande instance de leur résidence administrative en ces termes : " Je jure d'accomplir avec exactitude et
+probité, en conformité avec les lois et règlements en vigueur, les missions de contrôle qui me sont confiées. ”
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 4
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L741-4
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R711-17 (V)
+
+
+###### Article R741-2
+
+Les agents de contrôle mentionnés au premier alinéa de l'article L. 741-4 sont commissionnés par : 
+
+1° Le préfet lorsqu'ils interviennent exclusivement à Mayotte ; 
+
+2° Le ministre chargé de la formation professionnelle lorsqu'ils ont vocation à intervenir sur l'ensemble du territoire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 4
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L741-4
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R742-4 (V)
+
+
+#### Chapitre II : Déroulement des opérations de contrôle
+
+
+
+###### Article R742-1
+
+Les personnes et organismes mentionnés à l'article L. 741-1 et au 1° de l'article L. 741-2, qui ont fait l'objet d'un
+contrôle sur place, sont informés de la fin de la période d'instruction par lettre recommandée avec demande d'avis de
+réception ou par lettre remise en main propre contre décharge. 
+
+Des faits nouveaux constatés postérieurement à la réception de cette lettre peuvent justifier l'ouverture d'une nouvelle
+période d'instruction. 
+
+Les dispositions qui précèdent ne s'appliquent pas lorsque la procédure d'évaluation d'office est mise en œuvre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 4
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L741-1
+	  - Code du travail applicable à Mayotte. - art. L741-2
+
+
+###### Article R742-2
+
+En cas d'obstacle à l'accomplissement des contrôles réalisés par les agents mentionnés à l'article L. 741-4, la procédure
+d'évaluation d'office est mise en œuvre au plus tôt trente jours après l'envoi d'une mise en demeure de lever tout obstacle à
+l'exercice par les agents de contrôle de leurs missions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 4
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L741-4
+
+
+###### Article R742-3
+
+L'évaluation d'office est établie à partir des déclarations souscrites en matière de formation professionnelle, des
+informations recueillies auprès des administrations et organismes mentionnés à l'article L. 742-1 ou à l'occasion de
+contrôles par les agents mentionnés au premier alinéa de l'article L. 741-4 des organismes ou entreprises participant au
+financement des actions de formation. 
+
+Les bases ou les éléments servant au calcul des remboursements ou des versements à opérer au bénéfice du Trésor public et
+leurs modalités de détermination sont notifiés à l'intéressé conformément à l'article L. 742-12 avec les garanties prévues
+aux articles R. 742-5 à R. 742-9. 
+
+L'intéressé peut faire valoir ses observations sur la détermination des éléments chiffrés par l'administration.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 4
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L741-4
+	  - Code du travail applicable à Mayotte. - art. L742-1
+	  - Code du travail applicable à Mayotte. - art. L742-12
+	  - Code du travail applicable à Mayotte. - art. R742-5
+
+
+###### Article R742-4
+
+La mise en demeure est motivée. Elle précise le délai dont dispose l'intéressé pour permettre aux agents de débuter ou de
+reprendre le contrôle sur place et rappelle les dispositions applicables dans le cas où la procédure d'évaluation d'office
+est mise en œuvre. Elle est visée par l'autorité qui a commissionné l'agent de contrôle en application de l'article R. 741-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 4
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R741-2
+
+
+###### Article R742-5
+
+La notification des résultats du contrôle prévue à l'article L. 742-12 intervient dans un délai ne pouvant dépasser trois
+mois à compter de la fin de la période d'instruction avec l'indication des procédures dont l'organisme contrôlé dispose pour
+faire valoir ses observations. 
+
+Les résultats du contrôle peuvent comporter des observations adressées à l'organisme contrôlé. 
+
+Lorsque la procédure d'évaluation d'office est mise en œuvre, le délai mentionné ci-dessus est de six mois à compter de la
+fin de la période fixée par la mise en demeure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 4
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L742-12
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R742-3 (V)
+
+
+###### Article R742-6
+
+Les résultats des contrôles prévus aux articles L. 741-1 à L. 741-3 sont notifiés à l'intéressé avec l'indication du délai
+dont il dispose pour présenter des observations écrites et demander, le cas échéant, à être entendu. 
+
+Ce délai ne peut être inférieur à trente jours à compter de la date de la notification.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 4
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L741-1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R742-7 (V)
+
+
+###### Article R742-7
+
+La décision du ministre chargé de la formation professionnelle ou du préfet ne peut être prise qu'au vu des observations
+écrites et après audition, le cas échéant, de l'intéressé, à moins qu'aucun document ni aucune demande d'audition n'aient été
+présentés avant l'expiration du délai prévu à l'article R. 742-6. 
+
+La décision est motivée et notifiée à l'intéressé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 4
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R742-6
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R742-9 (V)
+
+
+###### Article R742-8
+
+Les décisions de rejet de dépenses et de versement sont transmises, s'il y a lieu, à l'administration fiscale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 4
+
+
+###### Article R742-9
+
+L'intéressé qui entend contester la décision administrative qui lui a été notifiée en application de l'article R. 742-7
+saisit d'une réclamation, préalablement à tout recours pour excès de pouvoir, l'autorité qui a pris la décision. 
+
+Le rejet total ou partiel de la réclamation fait l'objet d'une décision motivée notifiée à l'intéressé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 4
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R742-7
+
+
+###### Article R742-10
+
+Le ministre chargé de la formation professionnelle et le préfet peuvent déférer ou défendre devant le juge administratif tout
+contentieux consécutif aux contrôles mentionnés aux articles L. 741-1 à L. 741-3, à l'exception du contentieux relatif à
+l'établissement et au recouvrement des versements mentionnés aux articles L. 742-11 à L. 742-15.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 4
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L741-1
+	  - Code du travail applicable à Mayotte. - art. L742-11
+
+
+###### Article R742-11
+
+Le préfet présente chaque année au comité mahorais de coordination de l'emploi et de la formation professionnelle un rapport
+relatif à l'activité des services de contrôle et au développement du dispositif de formation professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 4
+
+
+#### Chapitre III : Constatation des infractions et dispositions pénales
+
+
+
+
+###### Article R743-1
+
+Les agents de contrôle mentionnés au premier alinéa de l'article L. 741-4 sont habilités à rechercher et constater par
+procès-verbal les infractions prévues aux articles L. 735-1 à L. 735-24 et L. 743-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-800 du 2 septembre 2013 - art. 4
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L735-1
+	  - Code du travail applicable à Mayotte. - art. L741-4
+	  - Code du travail applicable à Mayotte. - art. L743-2
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R711-17 (V)
 
 
