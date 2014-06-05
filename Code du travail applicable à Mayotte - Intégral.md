@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2014-05-30
+Version Consolidée au 2014-06-06
 
 # Partie législative
 
@@ -315,13 +315,13 @@ handicap ne constituent pas une discrimination lorsqu'elles sont objectives, né
 ###### Article L033-4
 
 Les mesures prises en faveur des personnes handicapées et visant à favoriser l'égalité de traitement prévues à l'article L.
-328-12 ne constituent pas une discrimination.
+328-26 ne constituent pas une discrimination.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 7
 
 	**Cite**:
 
@@ -5109,32 +5109,29 @@ du groupement et aux portes des entreprises utilisatrices et sa publication dans
 	  - Code du travail applicable à Mayotte. - art. L154-1 (VT)
 
 
-#### CHAPITRE VII : Associations intermédiaires.
+#### CHAPITRE VII : Insertion par l'activité économique.
+
+##### Section 1 : Objet
 
 ###### Article L127-1
 
-L'association intermédiaire est une association agréée par le représentant de l'Etat à Mayotte pour une période d'un an
-renouvelable, dans le ressort de la collectivité départementale, après avis des organisations professionnelles concernées.
+L'insertion par l'activité économique a pour objet de permettre à des personnes sans emploi, rencontrant des difficultés
+sociales et professionnelles particulières, de bénéficier de contrats de travail en vue de faciliter leur insertion
+professionnelle. Elle met en œuvre des modalités spécifiques d'accueil et d'accompagnement. 
 
-Elle a pour objet d'embaucher des personnes dépourvues d'emploi pour les mettre, à titre onéreux, à la disposition de
-personnes physiques ou morales pour des activités qui ne sont pas déjà assurées, dans les conditions économiques locales, par
-l'initiative privée ou par l'action des collectivités publiques ou des organismes bénéficiant de ressources publiques.
-
-Le salarié d'une association intermédiaire peut être rémunéré soit sur la base d'un nombre d'heures forfaitaire déterminé
-dans le contrat, soit sur la base du nombre d'heures effectivement travaillées chez l'utilisateur.
-
-L'activité de l'association intermédiaire est réputée non lucrative au regard des articles L. 124-1 et suivants.
+L'insertion par l'activité économique, notamment par la création d'activités économiques, contribue également au
+développement du territoire.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 1
 
 	**Cité par**:
 
@@ -5142,7 +5139,524 @@ L'activité de l'association intermédiaire est réputée non lucrative au regar
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L124-1 (M)
+	  - Code du travail applicable à Mayotte. - art. L124-1
+
+
+##### Section 2 : Conventions
+
+###### Article L127-2
+
+L'Etat peut conclure des conventions prévoyant, le cas échéant, des aides financières avec : 
+
+1° Les employeurs dont l'activité a spécifiquement pour objet l'insertion par l'activité économique ; 
+
+2° Les employeurs autorisés à mettre en œuvre, pour l'application des dispositions prévues à l'article L. 127-5, un atelier
+ou un chantier d'insertion ; 
+
+3° Les organismes relevant des articles L. 121-2, L. 222-5 et L. 345-1 du code de l'action sociale et des familles pour
+mettre en œuvre des actions d'insertion sociale et professionnelle au profit des personnes bénéficiant de leurs
+prestations ; 
+
+4° Les régies de quartiers.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D127-10-1 (V)
+	  - Code du travail applicable à Mayotte. - art. D127-26-1 (V)
+	  - Code du travail applicable à Mayotte. - art. D127-37-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L127-3 (V)
+	  - Code du travail applicable à Mayotte. - art. L322-22 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L127-5
+	  - Code de l'action sociale et des familles - art. L121-2
+	  - Code de l'action sociale et des familles - art. L222-5
+	  - Code de l'action sociale et des familles - art. L345-1
+
+
+###### Article L127-3
+
+Seules les embauches de personnes agréées par l'institution mentionnée à l'article L. 326-6 ouvrent droit : 
+
+1° Aux aides relatives aux contrats d'accompagnement dans l'emploi pour les ateliers et chantiers d'insertion ; 
+
+2° Aux aides financières aux entreprises d'insertion et aux ateliers et chantiers d'insertion mentionnées au premier alinéa
+de l'article L. 127-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L127-17 (V)
+	  - Code du travail applicable à Mayotte. - art. L127-8 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L127-2
+	  - Code du travail applicable à Mayotte. - art. L326-6
+
+
+##### Section 3 : Mise en oeuvre des actions d'insertion par l'activité économique
+
+##### Sous-section 1 : Structures d'insertion
+par l'activité économique
+
+###### Article L127-4
+
+Les structures d'insertion par l'activité économique pouvant conclure des conventions avec l'Etat sont :
+
+1° Les entreprises d'insertion ;
+
+2° Les associations intermédiaires ;
+
+3° Les ateliers et chantiers d'insertion.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 1
+
+	**Cité par**:
+
+	  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 92 (VD)
+	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 61 (VD)
+
+
+##### Sous-section 2 : Entreprises d'insertion
+
+###### Article L127-5
+
+Les entreprises d'insertion concluent avec des personnes sans emploi rencontrant des difficultés sociales et professionnelles
+particulières des contrats à durée déterminée en application de l'article L. 122-1-1. 
+
+Ces contrats peuvent, aux fins de développer l'expérience et les compétences du salarié, prévoir, par avenant, une période
+d'immersion auprès d'un autre employeur dans le cadre d'un prêt de main-d'œuvre à but non lucratif. Un décret détermine la
+durée et les conditions d'agrément et d'exécution de cette période d'immersion. 
+
+La durée de ces contrats ne peut être inférieure à quatre mois. 
+
+Ces contrats peuvent être renouvelés dans la limite d'une durée totale de vingt-quatre mois. 
+
+A titre dérogatoire, ces contrats peuvent être renouvelés au-delà de la durée maximale prévue en vue de permettre d'achever
+une action de formation professionnelle en cours de réalisation à l'échéance du contrat. La durée de ce renouvellement ne
+peut excéder le terme de l'action concernée. 
+
+A titre exceptionnel, lorsque des salariés âgés de cinquante ans et plus ou des personnes reconnues travailleurs handicapés
+rencontrent des difficultés particulières qui font obstacle à leur insertion durable dans l'emploi, ce contrat de travail
+peut être prolongé au-delà de la durée maximale prévue. Cette prolongation peut être accordée par l'institution mentionnée à
+l'article L. 326-6 après examen de la situation du salarié au regard de l'emploi, de la capacité contributive de l'employeur
+et des actions d'accompagnement et de formation conduites dans le cadre de la durée initialement prévue du contrat. 
+
+La durée hebdomadaire de travail du salarié embauché dans ce cadre ne peut être inférieure à vingt heures. Elle peut varier
+sur tout ou partie de la période couverte par le contrat sans dépasser la durée légale hebdomadaire. Les périodes travaillées
+permettent de valider des trimestres de cotisations d'assurance vieillesse dans les conditions de l'article 7 de l'ordonnance
+n° 2002-411 du 27 mars 2002 relative à la protection sanitaire et sociale à Mayotte. 
+
+Ce contrat peut être suspendu, à la demande du salarié, afin de lui permettre : 
+
+1° En accord avec son employeur, d'effectuer une évaluation en milieu de travail prescrite par l'institution mentionnée à
+l'article L. 326-6 ou une action concourant à son insertion professionnelle ; 
+
+2° D'accomplir une période d'essai afférente à une offre d'emploi visant une embauche en contrat de travail à durée
+indéterminée ou à durée déterminée au moins égale à six mois. 
+
+En cas d'embauche à l'issue de cette évaluation en milieu de travail ou de cette période d'essai, le contrat est rompu sans
+préavis.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°2002-411 du 27 mars 2002 - art. 7 (V)
+	  - Code du travail applicable à Mayotte. - art. L122-1-1
+	  - Code du travail applicable à Mayotte. - art. L326-6 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D127-10-1 (V)
+	  - Code du travail applicable à Mayotte. - art. D127-10-2 (V)
+	  - Code du travail applicable à Mayotte. - art. D127-10-3 (V)
+	  - Code du travail applicable à Mayotte. - art. D127-10-4 (V)
+	  - Code du travail applicable à Mayotte. - art. L127-11 (M)
+	  - Code du travail applicable à Mayotte. - art. L127-2 (V)
+
+
+##### Sous-section 3 : Associations intermédiaires
+
+###### Article L127-6
+
+Les associations intermédiaires sont des associations conventionnées par l'Etat, dans le ressort de Mayotte, ayant pour objet
+l'embauche des personnes sans emploi, rencontrant des difficultés sociales et professionnelles particulières, en vue de
+faciliter leur insertion professionnelle en les mettant à titre onéreux à disposition de personnes physiques ou de personnes
+morales.
+
+L'association intermédiaire assure l'accueil des personnes ainsi que le suivi et l'accompagnement de ses salariés en vue de
+faciliter leur insertion sociale et de rechercher les conditions d'une insertion professionnelle durable.
+
+Une association intermédiaire ne peut mettre une personne à disposition d'employeurs ayant procédé à un licenciement
+économique sur un emploi équivalent ou de même qualification dans les six mois précédant cette mise à disposition.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 1
+
+
+###### Article L127-7
+
+Une convention de coopération peut être conclue entre l'association intermédiaire et l'institution mentionnée à l'article L.
+326-6 définissant notamment les conditions de recrutement et de mise à disposition des salariés de l'association
+intermédiaire. 
+
+Cette convention de coopération peut également porter sur l'organisation des fonctions d'accueil, de suivi et
+d'accompagnement des salariés. 
+
+Cette convention peut mettre en œuvre des actions expérimentales d'insertion ou de réinsertion.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L326-6
+
+
+###### Article L127-8
+
+Seules les associations intermédiaires qui ont conclu une convention de coopération avec l'institution mentionnée à l'article
+L. 326-6 peuvent effectuer des mises à disposition auprès des employeurs de droit privé, établissements publics à caractère
+industriel et commercial et établissements publics à caractère administratif lorsqu'ils emploient du personnel dans des
+conditions de droit privé, dans les conditions suivantes : 
+
+1° La mise à disposition pour l'exécution d'une tâche précise et temporaire d'une durée supérieure à un seuil déterminé par
+décret en Conseil d'Etat n'est autorisée que pour les personnes ayant fait l'objet de l'agrément de l'institution mentionnée
+à l'article L. 326-6, mentionné à l'article L. 127-3 ; 
+
+2° La durée totale des mises à disposition d'un même salarié ne peut excéder une durée déterminée par décret, pour une durée
+de vingt-quatre mois à compter de la première mise à disposition. Dans l'attente du décret susmentionné, cette durée est
+fixée à 480 heures. 
+
+Ces dispositions ne sont pas applicables en cas de mise à disposition auprès de personnes physiques pour des activités ne
+ressortissant pas à leurs exercices professionnels et de personnes morales de droit privé à but non lucratif.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L127-10 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L127-3
+	  - Code du travail applicable à Mayotte. - art. L326-6
+
+
+###### Article L127-9
+
+Une personne mise à disposition par une association intermédiaire ne peut en aucun cas être embauchée pour accomplir des
+travaux particulièrement dangereux qui figurent sur une liste établie par l'autorité administrative.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 1
+
+
+###### Article L127-10
+
+Pour les mises à disposition entrant dans le champ de l'article L. 127-8, la rémunération du salarié, au sens du salaire ou
+traitement ordinaire de base ou minimum et de tous les autres avantages ou accessoires payés directement ou indirectement en
+espèces ou en nature par l'employeur au salarié en raison de l'emploi de ce dernier, ne peut être inférieure à celle que
+percevrait un salarié de qualification équivalente occupant le même poste de travail dans l'entreprise, après période
+d'essai. 
+
+Le salarié d'une association intermédiaire peut être rémunéré soit sur la base du nombre d'heures effectivement travaillées
+chez l'utilisateur, soit sur la base d'un nombre d'heures forfaitaire déterminé dans le contrat pour les activités autres que
+celles mentionnées à l'article L. 127-8. 
+
+Le paiement des jours fériés est dû au salarié d'une association intermédiaire mis à disposition des employeurs mentionnés à
+l'article L. 127-8 dès lors que les salariés de cette personne morale en bénéficient.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L127-8
+
+
+###### Article L127-11
+
+Les associations intermédiaires peuvent conclure avec des personnes sans emploi rencontrant des difficultés sociales et
+professionnelles particulières des contrats à durée déterminée en application de l'article L. 122-1-1. 
+
+Ces contrats peuvent, aux fins de développer l'expérience et les compétences du salarié, prévoir, par avenant, une période
+d'immersion auprès d'un autre employeur dans les conditions prévues à l'article L. 127-5. Un décret détermine la durée et les
+conditions d'agrément et d'exécution de cette période d'immersion. 
+
+La durée de ces contrats ne peut être inférieure à quatre mois. 
+
+Ces contrats peuvent être renouvelés dans la limite d'une durée totale de vingt-quatre mois. 
+
+A titre dérogatoire, ces contrats peuvent être renouvelés au-delà de la durée maximale prévue en vue de permettre d'achever
+une action de formation professionnelle en cours de réalisation à l'échéance du contrat. La durée de ce renouvellement ne
+peut excéder le terme de l'action concernée. 
+
+A titre exceptionnel, lorsque des salariés âgés de cinquante ans et plus ou des personnes reconnues travailleurs handicapés
+rencontrent des difficultés particulières qui font obstacle à leur insertion durable dans l'emploi, ce contrat de travail
+peut être prolongé au-delà de la durée maximale prévue. Cette prolongation peut être accordée par l'institution mentionnée à
+l'article L. 326-6 après examen de la situation du salarié au regard de l'emploi, de la capacité contributive de l'employeur
+et des actions d'accompagnement et de formation conduites dans le cadre de la durée initialement prévue du contrat. 
+
+La durée hebdomadaire de travail du salarié embauché dans ce cadre ne peut être inférieure à vingt heures. Elle peut varier
+sur tout ou partie de la période couverte par le contrat sans dépasser la durée légale hebdomadaire. Les périodes travaillées
+permettent de valider des trimestres de cotisations d'assurance vieillesse dans les conditions de l'article 7 de l'ordonnance
+n° 2002-411 du 27 mars 2002 relative à la protection sanitaire et sociale à Mayotte. 
+
+Ce contrat peut être suspendu, à la demande du salarié, afin de lui permettre : 
+
+1° En accord avec son employeur, d'effectuer une évaluation en milieu de travail prescrite par l'institution mentionnée à
+l'article L. 326-6 ou une action concourant à son insertion professionnelle ; 
+
+2° D'accomplir une période d'essai afférente à une offre d'emploi visant une embauche en contrat de travail à durée
+indéterminée ou à durée déterminée au moins égale à six mois. 
+
+En cas d'embauche à l'issue de cette évaluation en milieu de travail ou de cette période d'essai, le contrat est rompu sans
+préavis.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°2002-411 du 27 mars 2002 - art. 7
+	  - Code du travail applicable à Mayotte. - art. L122-1-1
+	  - Code du travail applicable à Mayotte. - art. L127-5
+	  - Code du travail applicable à Mayotte. - art. L326-6
+
+	**Créé par**:
+
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D127-26-1 (V)
+	  - Code du travail applicable à Mayotte. - art. D127-26-2 (V)
+	  - Code du travail applicable à Mayotte. - art. D127-26-3 (V)
+	  - Code du travail applicable à Mayotte. - art. D127-26-4 (V)
+
+
+###### Article L127-12
+
+Les salariés des associations intermédiaires ont droit à la formation professionnelle continue à l'initiative de l'employeur,
+dans le cadre du plan de formation de l'association ou des actions de formation en alternance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 1
+
+
+###### Article L127-13
+
+Lorsque l'activité de l'association intermédiaire est exercée dans les conditions de la présente sous-section, ne sont pas
+applicables : 
+
+1° Les sanctions relatives au marchandage, prévues à l'article L. 124-4 ; 
+
+2° Les sanctions relatives au prêt illicite de main-d'œuvre, prévues à l'article L. 124-2. 
+
+Les sanctions prévues en cas de non-respect des dispositions auxquelles renvoie l'article L. 124-3, relatives aux opérations
+de prêt de main-d'œuvre à but non lucratif, sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L124-2
+	  - Code du travail applicable à Mayotte. - art. L124-3
+	  - Code du travail applicable à Mayotte. - art. L124-4
+
+
+##### Sous-section 4 : Ateliers et chantiers d'insertion
+
+###### Article L127-14
+
+Les ateliers et chantiers d'insertion conventionnés par l'Etat sont organisés par les employeurs figurant sur une liste.
+
+Ils ont pour mission :
+
+1° D'assurer l'accueil, l'embauche et la mise au travail sur des actions collectives des personnes sans emploi rencontrant
+des difficultés sociales et professionnelles particulières ;
+
+2° D'organiser le suivi, l'accompagnement, l'encadrement technique et la formation de leurs salariés en vue de faciliter leur
+insertion sociale et de rechercher les conditions d'une insertion professionnelle durable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D127-31 (V)
+	  - Code du travail applicable à Mayotte. - art. L127-18 (V)
+
+
+###### Article L127-15
+
+Les ateliers et chantiers d'insertion peuvent conclure avec des personnes sans emploi rencontrant des difficultés sociales et
+professionnelles particulières des contrats à durée déterminée en application de l'article L. 122-1-1. 
+
+Ces contrats peuvent, aux fins de développer l'expérience et les compétences du salarié, prévoir, par avenant, une période
+d'immersion auprès d'un autre employeur dans le cadre d'un prêt de main-d'œuvre à but non lucratif. Un décret détermine la
+durée et les conditions d'agrément et d'exécution de cette période d'immersion. 
+
+La durée de ces contrats ne peut être inférieure à quatre mois. 
+
+Ces contrats peuvent être renouvelés dans la limite d'une durée totale de vingt-quatre mois. 
+
+A titre dérogatoire, ces contrats peuvent être renouvelés au-delà de la durée maximale prévue en vue de permettre d'achever
+une action de formation professionnelle en cours de réalisation à l'échéance du contrat. La durée de ce renouvellement ne
+peut excéder le terme de l'action concernée. 
+
+A titre exceptionnel, lorsque des salariés âgés de cinquante ans et plus ou des personnes reconnues travailleurs handicapés
+rencontrent des difficultés particulières qui font obstacle à leur insertion durable dans l'emploi, ce contrat de travail
+peut être prolongé au-delà de la durée maximale prévue. Cette prolongation peut être accordée par l'institution mentionnée à
+l'article L. 326-6 après examen de la situation du salarié au regard de l'emploi, de la capacité contributive de l'employeur
+et des actions d'accompagnement et de formation conduites dans le cadre de la durée initialement prévue du contrat. 
+
+La durée hebdomadaire de travail du salarié embauché dans ce cadre ne peut être inférieure à vingt heures. Elle peut varier
+sur tout ou partie de la période couverte par le contrat sans dépasser la durée légale hebdomadaire. Les périodes travaillées
+permettent de valider des trimestres de cotisations d'assurance vieillesse dans les conditions de l'article 7 de l'ordonnance
+n° 2002-411 du 27 mars 2002 relative à la protection sanitaire et sociale à Mayotte. 
+
+Ce contrat peut être suspendu, à la demande du salarié, afin de lui permettre : 
+
+1° En accord avec son employeur, d'effectuer une évaluation en milieu de travail prescrite par l'institution mentionnée à
+l'article L. 326-6 ou une action concourant à son insertion professionnelle ; 
+
+2° D'accomplir une période d'essai afférente à une offre d'emploi visant une embauche en contrat de travail à durée
+indéterminée ou à durée déterminée au moins égale à six mois. 
+
+En cas d'embauche à l'issue de cette évaluation en milieu de travail ou de cette période d'essai, le contrat est rompu sans
+préavis.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°2002-411 du 27 mars 2002 - art. 7
+	  - Code du travail applicable à Mayotte. - art. L122-1-1
+	  - Code du travail applicable à Mayotte. - art. L326-6
+
+	**Créé par**:
+
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D127-37-1 (V)
+	  - Code du travail applicable à Mayotte. - art. D127-37-2 (V)
+	  - Code du travail applicable à Mayotte. - art. D127-37-3 (V)
+	  - Code du travail applicable à Mayotte. - art. D127-37-4 (V)
+
+
+##### Sous-section 5 : Groupes économiques solidaires
+
+
+
+###### Article L127-16
+
+Afin de favoriser la coordination, la complémentarité et le développement économique du territoire et de garantir la
+continuité des parcours d'insertion, une personne morale de droit privé peut porter ou coordonner une ou plusieurs actions
+d'insertion telles que visées à la sous-section 1 de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 1
+
+
+##### Section 4 : Dispositions d'application
+
+
+
+###### Article L127-17
+
+Sous réserve des dispositions de l'article L. 127-18, un décret en Conseil d'Etat détermine les conditions d'application du
+présent chapitre, notamment : 
+
+1° Les conditions d'exécution, de suivi, de renouvellement et de contrôle des conventions conclues avec l'Etat et les
+modalités de leur suspension ou de leur dénonciation ; 
+
+2° Les conditions d'application de l'article L. 127-3. Ce décret précise les modalités spécifiques d'accueil et
+d'accompagnement ainsi que les modalités des aides de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L127-18
+	  - Code du travail applicable à Mayotte. - art. L127-3
+
+
+###### Article L127-18
+
+Un décret détermine la liste des employeurs habilités à mettre en œuvre les ateliers et chantiers d'insertion, mentionnée à
+l'article L. 127-14.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L127-14 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L127-17 (V)
 
 
 #### CHAPITRE VIII : Titre de travail simplifié.
@@ -13988,7 +14502,7 @@ renseignements ou tous documents relatifs à l'autorisation d'exercice ou à l'a
 
 ###### Article L312-6
 
-Les fonctionnaires et agents de contrôle mentionnés à l'article L. 321-5 sont habilités, lorsque le siège de l'entreprise est
+Les fonctionnaires et agents de contrôle mentionnés à l'article L. 312-5 sont habilités, lorsque le siège de l'entreprise est
 domicilié dans des locaux occupés en commun par plusieurs entreprises, à se faire communiquer par l'entreprise domiciliataire
 tous documents détenus dans ses locaux nécessaires à l'accomplissement de leur mission de lutte contre le travail dissimulé.
 
@@ -13996,16 +14510,16 @@ tous documents détenus dans ses locaux nécessaires à l'accomplissement de leu
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-1068 du 25 août 2006 - art. 5 () JORF 26 août 2006
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 7
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L321-5 (V)
+	  - Code du travail applicable à Mayotte. - art. L312-5
 
 
 ###### Article L312-7
@@ -14139,22 +14653,23 @@ La personne publique informe l'agent, auteur du signalement, des suites données
 
 Lorsque le cocontractant intervenant à Mayotte est établi ou domicilié à l'étranger, les obligations dont le respect doit
 être vérifié sont celles qui résultent de la réglementation d'effet équivalent de son pays d'origine et celles qui lui sont
-applicables au titre de son activité à Mayotte.
+applicables au titre de son activité à Mayotte. 
 
-Lorsque le cocontractant intervenant à Mayotte est établi ou domicilié dans un département de métropole ou d'outre-mer, les
-obligations dont le respect doit être vérifié sont celles qui résultent de la réglementation d'effet équivalent applicable
-dans ces départements et celles qui lui sont applicables au titre de son activité à Mayotte.
+Lorsque le cocontractant intervenant à Mayotte est établi ou domicilié          dans un département de métropole, en
+Guadeloupe, en Guyane, en Martinique ou à La Réunion, les obligations dont le respect doit être vérifié sont celles qui
+résultent de la réglementation d'effet équivalent applicable dans ces départements et celles qui lui sont applicables au
+titre de son activité à Mayotte.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 12 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 7
 
 	**Cité par**:
 
@@ -15299,14 +15814,14 @@ respectivement après la deuxième et la troisième réunion du comité central 
 
 ###### Article L320-37
 
-Lorsque le comité central d'entreprise recourt à l'assistance d'un expert-comptable, les dispositions des articles L. 320-40,
-L. 320-50 et L. 1233-55 ne s'appliquent pas.
+Lorsque le comité central d'entreprise recourt à l'assistance d'un expert-comptable, 
+les dispositions des articles L. 320-40 et L. 320-50 du présent code et L. 320-54 du code du travail ne s'appliquent pas.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 2
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 7
 
 	**Cite**:
 
@@ -15934,6 +16449,54 @@ L'autorité administrative est associée au suivi de ces mesures.
 	  - Code du travail applicable à Mayotte. - art. L320-60
 
 
+###### Article L320-63
+
+Dans les entreprises de cinquante salariés ou plus, lorsque le projet de licenciements concerne dix salariés ou plus dans une
+même période de trente jours, la procédure de licenciement est nulle tant que le plan de reclassement des salariés prévu à
+l'article L. 320-60 et s'intégrant au plan de sauvegarde de l'emploi n'est pas présenté par l'employeur aux représentants du
+personnel, qui doivent être réunis, informés et consultés. 
+
+La validité du plan de sauvegarde de l'emploi est appréciée au regard des moyens dont dispose l'entreprise ou l'unité
+économique et sociale ou le groupe. 
+
+Le premier alinéa n'est pas applicable aux entreprises en redressement ou liquidation judiciaires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L320-60
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L320-64 (V)
+
+
+###### Article L320-64
+
+Lorsque le juge constate que le licenciement est intervenu alors que la procédure de licenciement est nulle, conformément aux
+dispositions du premier alinéa de l'article L. 320-63, il peut ordonner la poursuite du contrat de travail ou prononcer la
+nullité du licenciement et ordonner la réintégration du salarié à la demande de ce dernier, sauf si cette réintégration est
+devenue impossible, notamment du fait de la fermeture de l'établissement ou du site ou de l'absence d'emploi disponible. 
+
+Lorsque le salarié ne demande pas la poursuite de son contrat de travail ou lorsque la réintégration est impossible, le juge
+octroie au salarié une indemnité à la charge de l'employeur qui ne peut être inférieure aux salaires des douze derniers mois.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L320-63
+
+
 #### CHAPITRE Ier : Généralités.
 
 ##### Section 1 : Principes
@@ -16076,8 +16639,8 @@ I.-Le Conseil national de l'emploi, prévu à l'article L. 5112-1 du code du tra
 métropole et d'outre-mer, est également compétent pour connaître des sujets relatifs à l'emploi à Mayotte. 
 
 Il concourt à la définition des orientations stratégiques des politiques de l'emploi à Mayotte. Il veille à la mise en
-cohérence des actions des différentes institutions et organismes mentionnés aux articles L. 326-6 et L. 327-57 et à
-l'évaluation des actions engagées. 
+cohérence des actions des différentes institutions et organismes mentionnés aux articles L. 326-6
+    et L. 327-54 et à l'évaluation des actions engagées. 
 
 A cette fin, il peut être consulté : 
 
@@ -16103,23 +16666,20 @@ III.-Un décret précise les conditions d'application du présent article.
 
 **Nota:**
 
-Une nouvelle version de cet article modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers
-départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral
-s'appliquera aux élections organisées en mars 2015 à l'occasion du prochain renouvellement général des conseils
-départementaux, y compris aux opérations préparatoires à ce scrutin (date indéterminée).
+
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 3
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 7
 
 	**Cite**:
 
 	  - Code du travail - art. L5112-1
-	  - Code du travail applicable à Mayotte. - art. L326-10 (V)
+	  - Code du travail applicable à Mayotte. - art. L326-10
 	  - Code du travail applicable à Mayotte. - art. L326-6
-	  - Code du travail applicable à Mayotte. - art. L327-57 (V)
+	  - Code du travail applicable à Mayotte. - art. L327-57
 
 
 ###### Article L321-8
@@ -16714,15 +17274,29 @@ L'attribution de l'aide peut être prolongée dans la limite d'une durée de vin
 
 Il peut être dérogé, selon des modalités fixées par voie réglementaire, à la durée maximale pour laquelle est attribuée une
 aide à l'insertion professionnelle, soit lorsque celle-ci concerne un salarié âgé de cinquante ans et plus bénéficiaire du
-revenu de solidarité active ou de l'allocation aux adultes handicapés ou une personne reconnue travailleur handicapé, soit
+revenu de solidarité active ou de l'allocation pour adulte handicapé ou une personne reconnue travailleur handicapé, soit
 pour permettre d'achever une action de formation professionnelle en cours de réalisation et prévue au titre de l'aide
-attribuée. La durée de ce renouvellement ne peut excéder le terme de l'action concernée.
+attribuée. La durée de ce renouvellement ne peut excéder le terme de l'action concernée. 
+
+A titre exceptionnel, lorsque des salariés âgés de cinquante ans et plus ou des personnes reconnues travailleurs handicapés
+embauchés dans les ateliers et chantiers d'insertion rencontrent des difficultés particulières qui font obstacle à leur
+insertion durable dans l'emploi, ces conventions peuvent être prolongées au-delà de la durée maximale prévue. Cette
+prolongation peut être accordée par l'institution mentionnée à l'article L. 326-6 ou, pour les conventions individuelles
+mentionnées au 1° de l'article L. 322-1 qu'il conclut, par le président du conseil général après examen de la situation du
+salarié au regard de l'emploi, de la capacité contributive de l'employeur et des actions d'accompagnement et de formation
+conduites dans le cadre de la convention initiale.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2012-1189 du 26 octobre 2012 - art. 13
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 3
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 7
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-1
+	  - Code du travail applicable à Mayotte. - art. L326-6
 
 	**Cité par**:
 
@@ -16790,17 +17364,31 @@ Les dispositions relatives au nombre maximum de renouvellement, prévues par l'a
 Le contrat de travail, associé à l'attribution d'une aide à l'insertion professionnelle au titre d'un contrat
 d'accompagnement dans l'emploi, conclu pour une durée déterminée, peut être prolongé dans la limite d'une durée totale de
 vingt-quatre mois, ou de cinq ans pour les salariés âgés de cinquante ans et plus bénéficiaires du revenu de solidarité
-active ou de l'allocation aux adultes handicapés, ainsi que pour les personnes reconnues travailleurs handicapés. 
+active ou de l'allocation pour adulte handicapé, ainsi que pour les personnes reconnues travailleurs handicapés. 
 
 A titre dérogatoire, ce contrat de travail peut être prolongé au-delà de la durée maximale prévue, en vue de permettre
 d'achever une action de formation professionnelle en cours de réalisation à l'échéance du contrat et prévue au titre de
-l'aide attribuée. La durée de cette prolongation ne peut excéder le terme de l'action concernée.
+l'aide attribuée. La durée de cette prolongation ne peut excéder le terme de l'action concernée. 
+
+A titre exceptionnel, lorsque des salariés âgés de cinquante ans et plus ou des personnes reconnues travailleurs handicapés
+embauchés dans les ateliers et chantiers d'insertion rencontrent des difficultés particulières qui font obstacle à leur
+insertion durable dans l'emploi, ce contrat de travail peut être prolongé au-delà de la durée maximale prévue. Cette
+prolongation peut être accordée par l'institution mentionnée à l'article L. 326-6 ou par le président du conseil général,
+lorsque celui-ci a conclu la convention individuelle mentionnée au 1° de l'article L. 322-1 associée à ce contrat après
+examen de la situation du salarié au regard de l'emploi, de la capacité contributive de l'employeur et des actions
+d'accompagnement et de formation conduites dans le cadre de la durée initialement prévue du contrat.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2012-1189 du 26 octobre 2012 - art. 13
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 3
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 7
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-1
+	  - Code du travail applicable à Mayotte. - art. L326-6
 
 	**Cité par**:
 
@@ -16948,13 +17536,22 @@ des modalités déterminées par décret.
 
 Le montant de l'aide à l'insertion professionnelle versée au titre d'un contrat d'accompagnement dans l'emploi ne peut
 excéder 95 % du montant brut du salaire minimum interprofessionnel garanti par heure travaillée, dans la limite de la durée
-légale hebdomadaire du travail. Elle n'est soumise à aucune charge fiscale.
+légale hebdomadaire du travail. Elle n'est soumise à aucune charge fiscale. 
+
+Toutefois, pour les ateliers et chantiers d'insertion conventionnés par l'Etat au titre de l'article L. 127-2, le montant de
+l'aide financière versée au titre de la convention individuelle prévue à la sous-section 2 de la présente section peut être
+porté jusqu'à 105 % du montant brut du salaire minimum interprofessionnel garanti par heure travaillée dans la limite de la
+durée légale hebdomadaire du travail.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2012-1189 du 26 octobre 2012 - art. 13
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 3
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L127-2
 
 	**Cité par**:
 
@@ -17110,14 +17707,14 @@ Les particuliers employeurs ne sont pas éligibles aux aides attribuées au titr
 
 ###### Article L322-31
 
-La durée de l'aide à l'insertion professionnelle attribuée au titre  du contrat initiative-emploi ne peut excéder le terme du
+La durée de l'aide à l'insertion professionnelle attribuée au titre du contrat initiative-emploi ne peut excéder le terme du
 contrat de travail. 
 
 L'attribution de l'aide peut être prolongée dans la limite d'une durée totale de vingt-quatre mois. 
 
 Il peut être dérogé, selon des modalités fixées par voie réglementaire, à la durée maximale pour laquelle est attribuée une
 aide à l'insertion professionnelle, soit lorsque celle-ci concerne un salarié âgé de cinquante ans ou plus bénéficiaire du
-revenu de solidarité active ou de l'allocation aux adultes handicapés ou une personne reconnue travailleur handicapé, soit
+revenu de solidarité active ou de l'allocation pour adulte handicapé ou une personne reconnue travailleur handicapé, soit
 pour permettre d'achever une action de formation professionnelle en cours de réalisation et prévue au titre de l'aide
 attribuée. 
 
@@ -17127,7 +17724,7 @@ La durée de ce renouvellement ne peut excéder le terme de l'action concernée.
 
 	**Modifié par**:
 
-	  - Loi n°2012-1189 du 26 octobre 2012 - art. 13
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 7
 
 	**Cité par**:
 
@@ -17203,16 +17800,16 @@ applicables.
 
 ###### Article L322-35
 
-Le contrat de travail associé à une  aide à l'insertion professionnelle attribuée au titre d'un contrat initiative-emploi,
+Le contrat de travail associé à une aide à l'insertion professionnelle attribuée au titre d'un contrat initiative-emploi,
 conclu à durée déterminée, peut être prolongé dans la limite d'une durée totale de vingt-quatre mois, ou de cinq ans pour les
-salariés âgés de cinquante ans et plus bénéficiaires du revenu de solidarité active ou de l'allocation aux adultes
-handicapés, ainsi que pour les personnes reconnues travailleurs handicapés.
+salariés âgés de cinquante ans et plus bénéficiaires du revenu de solidarité active ou de l'allocation pour adulte handicapé,
+ainsi que pour les personnes reconnues travailleurs handicapés.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2012-1189 du 26 octobre 2012 - art. 13
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 7
 
 	**Cité par**:
 
@@ -17358,16 +17955,17 @@ légale hebdomadaire du travail.
 ###### Article L322-43
 
 Lorsque l'aide à l'insertion professionnelle a été attribuée pour le recrutement d'un salarié qui était, jusqu'alors,
-bénéficiaire du revenu de solidarité active en vigueur à Mayotte financé par le Département, le Département participe au
-financement de cette aide. Cette participation est déterminée, dans des conditions fixées par décret, par référence au
-montant forfaitaire mentionné au 2° de l'article L. 262-2 du code de l'action sociale et des familles applicable à une
-personne isolée en fonction de la majoration des taux prévue par la convention mentionnée à l'article L. 322-4.
+bénéficiaire du revenu de solidarité active en vigueur à Mayotte financé par le Département de Mayotte, le Département de
+Mayotte participe au financement de cette aide. Cette participation est déterminée, dans des conditions fixées par décret,
+par référence au montant forfaitaire mentionné au 2° de l'article L. 262-2 du code de l'action sociale et des familles
+applicable à une personne isolée en fonction de la majoration des taux prévue par la convention mentionnée à l'article L.
+322-4.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2012-1189 du 26 octobre 2012 - art. 13
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 7
 
 	**Cité par**:
 
@@ -17629,16 +18227,13 @@ aux mêmes 1° et 2°.
 	  - Code du travail applicable à Mayotte. - art. L322-1
 
 
-##### Sous-section 4 : Reconnaissance des compétences acquises
-
-
+##### Sous-section 4 : Formation et reconnaissance des compétences acquises
 
 ###### Article L322-52
 
 Les compétences acquises dans le cadre de l'emploi d'avenir sont reconnues par une attestation de formation, une attestation
-d'expérience professionnelle ou une validation des acquis de l'expérience prévue à l'article L. 335-5 du code de l'éducation.
-Elles peuvent également faire l'objet d'une certification inscrite au répertoire national des certifications
-professionnelles. 
+d'expérience professionnelle ou une validation des acquis de l'expérience prévue à l'article L. 335-5 du code de
+l'éducation.  
 
 La présentation à un examen pour acquérir un diplôme ou à un concours doit être favorisée pendant ou à l'issue de l'emploi
 d'avenir. 
@@ -17650,14 +18245,44 @@ dans le cadre d'une concertation annuelle du comité mahorais de coordination de
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2012-1189 du 26 octobre 2012 - art. 11
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 3
 
 	**Cite**:
 
 	  - Code de l'éducation - art. L335-5
 	  - Code du travail applicable à Mayotte. - art. L711-2
+
+
+###### Article L322-52-1
+
+Les actions de formation destinées aux personnes bénéficiant d'un contrat conclu au titre de l'article L. 322-45, dans les
+collectivités territoriales ou leurs établissements publics, sont financées, pour tout ou partie, au moyen de la cotisation
+obligatoire versée par les collectivités territoriales et leurs établissements publics, en application du 1° de l'article
+12-2 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale
+ainsi que par une cotisation obligatoire assise sur les rémunérations des bénéficiaires des contrats conclus au titre de
+l'article L. 322-45, dont le taux est fixé par décret. 
+
+La convention annuelle d'objectifs et de moyens conclue entre l'Etat et le Centre national de la fonction publique
+territoriale, mentionnée à l'article 2 de la loi n° 2012-1189 du 26 octobre 2012 portant création des emplois d'avenir,
+définit les modalités de mise en œuvre du premier alinéa.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°84-53 du 26 janvier 1984 - art. 12-2
+	  - Loi n°2012-1189 du 26 octobre 2012 - art. 2
+	  - Code du travail applicable à Mayotte. - art. L322-45
+
+	**Créé par**:
+
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 3
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D322-59-2 (V)
 
 
 ##### Sous-section 5 : Dispositions d'application
@@ -17717,18 +18342,21 @@ II. ― L'emploi d'avenir professeur est destiné à des étudiants titulaires d
 chapitre Ier du titre II du livre VIII de la troisième partie du code de l'éducation inscrits en deuxième année de licence
 ou, le cas échéant, en troisième année de licence ou en première année de master dans un établissement d'enseignement
 supérieur, âgés de vingt-cinq ans au plus et se destinant aux métiers du professorat. La limite d'âge est portée à trente ans
-lorsque l'étudiant présente un handicap reconnu par la commission exerçant les attributions dévolues à la commission prévue à
-l'article L. 146-9 du code de l'action sociale et des familles.
+lorsque l'étudiant présente un handicap reconnu par la commission exerçant les attributions dévolues à la commission des
+personnes handicapées mentionnée à l'article L. 545-2 du code de l'action sociale et des familles dans sa rédaction maintenue
+en vigueur à Mayotte par le 3° de l'article 10 de l'ordonnance n° 2012-785 du 31 mai 2012 portant extension et adaptation du
+code de l'action sociale et des familles au Département de Mayotte.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2012-1189 du 26 octobre 2012 - art. 12
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 7
 
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L146-9
+	  - Code de l'action sociale et des familles - art. L545-2
 
 
 ###### Article L322-56
@@ -17909,28 +18537,25 @@ Un décret en Conseil d'Etat détermine les conditions d'application de la prés
 
 #### Chapitre IV : Dispositions particulières relatives à l'emploi des jeunes
 
+##### Section 1 :Accompagnement des jeunes vers l'emploi
+
+##### Sous-section 1 : Droit à l'accompagnement
+
 ###### Article L324-1
 
-La collectivité départementale peut conclure avec des employeurs établis sur son territoire, à l'exclusion des personnes
-morales de droit public, des conventions ayant pour objet de favoriser l'insertion en entreprise des jeunes rencontrant des
-difficultés d'accès à l'emploi dans le cadre d'un contrat de travail dénommé contrat d'insertion-adaptation.
-
-Le contrat d'insertion-adaptation est ouvert aux jeunes de seize à vingt-cinq ans d'un niveau de formation égal au plus au
-niveau V. Il est accompagné d'un temps de formation au moins égal à deux cents heures et au plus à quatre cents heures assuré
-soit par l'entreprise, soit par un organisme de formation agréé par les services chargés du travail, de l'emploi et de la
-formation professionnelle.
+Tout jeune de seize à vingt-cinq ans révolus en difficulté et confronté à un risque d'exclusion professionnelle a droit à un
+accompagnement, organisé par l'Etat, ayant pour but l'accès à la vie professionnelle.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Ordonnance n°2002-242 du 21 février 2002 - art. 1 () JORF 23 février 2002
-	  - Ordonnance n°2002-242 du 21 février 2002 - art. 8 () JORF 23 février 2002
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 4
 
 	**Cité par**:
 
@@ -17939,24 +18564,24 @@ formation professionnelle.
 	  - Code du travail applicable à Mayotte. - art. R324-1 (V)
 
 
+##### Sous-section 2 : Contrat d'insertion dans la vie sociale
+
 ###### Article L324-2
 
-Le contrat d'insertion-adaptation est un contrat de travail à durée indéterminée.
-
-Le contrat, assorti du programme de formation, fait l'objet d'un dépôt auprès des services chargés du travail, de l'emploi et
-de la formation professionnelle, dans un délai d'un mois suivant sa date de prise d'effet.
+Tout jeune de seize à vingt-cinq ans révolus rencontrant des difficultés particulières d'insertion sociale et professionnelle
+bénéficie à sa demande d'un accompagnement personnalisé sous la forme d'un contrat d'insertion dans la vie sociale conclu
+avec l'Etat.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Ordonnance n°2002-242 du 21 février 2002 - art. 1 () JORF 23 février 2002
-	  - Ordonnance n°2002-242 du 21 février 2002 - art. 8 () JORF 23 février 2002
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 4
 
 	**Cité par**:
 
@@ -17966,20 +18591,20 @@ de la formation professionnelle, dans un délai d'un mois suivant sa date de pri
 
 ###### Article L324-3
 
-Les salariés titulaires de ce contrat perçoivent une rémunération déterminée en pourcentage du salaire minimum
-interprofessionnel garanti, dans des conditions fixées par arrêté du représentant de l'Etat. Le taux varie en fonction de
-l'âge du bénéficiaire.
+Le titulaire d'un contrat d'insertion dans la vie sociale est affilié à un régime de sécurité sociale, dans les conditions
+prévues aux articles L. 722-1 et L. 722-3, pour les périodes pendant lesquelles il n'est pas affilié à un autre titre à un
+régime de sécurité sociale.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Ordonnance n°2002-242 du 21 février 2002 - art. 1 () JORF 23 février 2002
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 4
 
 	**Cité par**:
 
@@ -17987,129 +18612,107 @@ l'âge du bénéficiaire.
 	  - Code du travail applicable à Mayotte. - art. R324-10 (V)
 	  - Code rural - art. L372-4 (M)
 
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L722-1
+	  - Code du travail applicable à Mayotte. - art. L722-3
+
 
 ###### Article L324-4
 
-L'employeur est exonéré du paiement des cotisations à sa charge dues à la caisse de prévoyance sociale, à raison des
-rémunérations versées aux bénéficiaires des contrats d'insertion-adaptation, dans la limite d'une durée d'un an suivant la
-date d'embauche.
+Afin de favoriser son insertion professionnelle, le titulaire d'un contrat d'insertion dans la vie sociale peut bénéficier
+d'une allocation versée par l'Etat pendant les périodes durant lesquelles l'intéressé ne perçoit ni une rémunération au titre
+d'un emploi ou d'un stage ni une autre allocation. 
 
-L'exonération des cotisations est compensée par la collectivité départementale au profit de la caisse de prévoyance sociale.
-L'exonération est subordonnée à la production d'une attestation délivrée par les services chargés du travail, de l'emploi et
-de la formation professionnelle.
+Cette allocation est incessible et insaisissable.
+
+Elle peut être suspendue ou supprimée en cas de non-respect par son bénéficiaire des engagements du contrat.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Ordonnance n°2002-242 du 21 février 2002 - art. 1 () JORF 23 février 2002
-	  - Ordonnance n°2002-242 du 21 février 2002 - art. 8 () JORF 23 février 2002
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 4
 
 	**Cité par**:
 
 	  - Code du travail applicable à Mayotte. - art. D324-16 (V)
+	  - Code du travail applicable à Mayotte. - art. L324-5 (V)
 	  - Code du travail applicable à Mayotte. - art. R324-14 (V)
 	  - Code du travail applicable à Mayotte. - art. R324-19 (V)
 	  - Code du travail applicable à Mayotte. - art. R324-22 (V)
 	  - Code du travail applicable à Mayotte. - art. R324-4 (V)
 
 
-###### Article L324-9
+###### Article L324-5
 
-Les jeunes âgés de dix-huit à trente ans peuvent bénéficier d'une aide financière de l'Etat dénommée " aide au projet
-initiative-jeune ".
+Un décret détermine : 
 
-L'aide au projet initiative-jeune bénéficie aux jeunes qui créent ou reprennent une entreprise à but lucratif dont le siège
-ou l'établissement principal est situé à Mayotte et dont ils assurent la direction effective. Cette aide de l'Etat prend la
-forme d'un capital versé en deux ou trois fractions. 
+1° Les caractéristiques des personnes qui peuvent bénéficier de l'accompagnement personnalisé dans le cadre d'un contrat
+d'insertion dans la vie sociale ; 
 
-La décision d'attribution de l'aide est prise par le représentant de l'Etat à Mayotte, qui apprécie la réalité, la
-consistance et la viabilité du projet.
+2° Les modalités de cet accompagnement, ainsi que la nature des engagements respectifs de chaque partie au contrat ; 
 
-L'aide, dont le montant maximum est déterminé par décret, est versée à compter de la date de la création ou de la reprise
-effective de l'entreprise. Elle est exonérée de toutes charges sociales ou fiscales. 
+3° La durée maximale du contrat d'insertion dans la vie sociale et les conditions de son renouvellement ; 
 
-Les jeunes bénéficiant ou ayant bénéficié de l'aide au projet initiative-jeune peuvent également bénéficier des aides à la
-création ou à la reprise d'entreprise prévues au chapitre V du présent titre. 
-
-Toute personne qui a frauduleusement bénéficié ou tenté de bénéficier de l'aide au projet initiative-jeune est punie des
-peines prévues aux articles 313-1 à 313-3 du code pénal. 
-
-Un décret en Conseil d'Etat fixe les conditions d'application du présent article et notamment celles de la suspension ou de
-la suppression de l'aide, ainsi que celles relatives au non-cumul de cette aide avec d'autres aides publiques.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2009-594 du 27 mai 2009 - art. 52
-
-	**Cite**:
-
-	  - Code pénal - art. 313-1
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. D324-2 (Ab)
-	  - Code du travail applicable à Mayotte. - art. L325-2 (V)
-	  - Code du travail applicable à Mayotte. - art. R324-1 (M)
-	  - Code du travail applicable à Mayotte. - art. R325-9 (V)
-
-
-#### Chapitre V : Dispositions relatives à la création d'entreprises et à la création d'emplois
-
-###### Article L325-1
-
-Ont droit à une aide de l'Etat les demandeurs d'emploi inscrits depuis plus de trois mois auprès de la direction du travail,
-de l'emploi et de la formation professionnelle qui créent ou reprennent une entreprise industrielle, commerciale, artisanale
-ou agricole, soit à titre individuel, soit sous la forme d'une société, à condition d'en exercer effectivement le contrôle,
-ou qui entreprennent l'exercice d'une autre profession non salariée.
-
-Pour l'obtention de l'aide prévue à l'alinéa précédent, les volontaires des armées ayant accompli leur temps de service comme
-stagiaire dans une unité du service militaire adapté sont réputés avoir satisfait aux conditions d'inscription prévues au
-même alinéa.
-
-Le montant de cette aide modulable dans la limite d'un plafond est fixé par décret. Elle est réputée accordée si un refus
-explicite n'intervient pas dans le mois qui suit la demande.
-
-L'Etat peut participer par convention au financement des actions de conseil ou de formation à la gestion d'entreprise qui
-sont organisées avant la création ou la reprise d'entreprise et pendant trois années après.
-
-Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
+4° Les montants minimum et maximum de l'allocation versée par l'Etat, prévue à l'article L. 324-4, ainsi que ses conditions
+d'attribution et ses modalités de versement.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Ordonnance n°2002-242 du 21 février 2002 - art. 2 () JORF 23 février 2002
-	  - Ordonnance n°2002-242 du 21 février 2002 - art. 8 () JORF 23 février 2002
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 4
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L324-4 (V)
+
+
+###### Article L324-6
+
+Sous réserve des dispositions de l'article L. 324-5, un décret en Conseil d'Etat détermine les autres conditions
+d'application de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1088 du 8 août 2016 - art. 49 (V)
 
 	**Cité par**:
 
-	  - Code du travail applicable à Mayotte. - art. D325-1-1 (Ab)
-	  - Code du travail applicable à Mayotte. - art. L325-4 (V)
-	  - Code du travail applicable à Mayotte. - art. R324-1 (M)
-	  - Code du travail applicable à Mayotte. - art. R325-1 (V)
-	  - Code du travail applicable à Mayotte. - art. R325-2 (V)
-	  - Code du travail applicable à Mayotte. - art. R325-3 (M)
-	  - Code du travail applicable à Mayotte. - art. R325-5 (M)
-	  - Code du travail applicable à Mayotte. - art. R325-6 (M)
-	  - Code du travail applicable à Mayotte. - art. R325-7 (M)
-	  - Code du travail applicable à Mayotte. - art. R325-8 (M)
-	  - Code du travail applicable à Mayotte. - art. R325-9 (M)
+	  - Code du travail applicable à Mayotte. - art. L324-7 (V)
+	  - Code du travail applicable à Mayotte. - art. L324-8 (Ab)
+	  - Code du travail applicable à Mayotte. - art. L324-9 (V)
+
+	**Cite**:
+
+	  - Loi n°1901-07-01
+
+	**Modifié par**:
+
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 4
 
 
-###### Article L325-2
+##### Sous-section 3 : Prime à la création d'emploi en faveur des jeunes
+
+###### Article L324-7
 
 Une prime à la création d'emploi en faveur des jeunes, financée par l'Etat, est instituée pour les entreprises dont le siège
 social et l'établissement principal sont situés à Mayotte qui n'ont procédé à aucun licenciement pour cause économique depuis
@@ -18143,21 +18746,298 @@ Un décret en Conseil d'Etat détermine les modalités d'application du présent
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - Loi n°2009-594 du 27 mai 2009 - art. 50
-	  - Code du travail applicable à Mayotte. - art. L141-2
-	  - Code du travail applicable à Mayotte. - art. L212-1
-	  - Code du travail applicable à Mayotte. - art. L711-2
-	  - Code du travail applicable à Mayotte. - art. L711-5
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Loi n°2009-594 du 27 mai 2009 - art. 52
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 4
 
-	**Liens**:
+	**Cite**:
 
-	  - TRANSFERE: Ordonnance n°2014-577 du 4 juin 2014 - art. 4
+	  - Code du travail applicable à Mayotte. - art. L322-1
+	  - Code du travail applicable à Mayotte. - art. L322-7
+	  - Code du travail applicable à Mayotte. - art. L324-6
+	  - Code du travail applicable à Mayotte. - art. L325-6 (V)
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. L325-2 (T)
+
+
+##### Section 2 : Contrats de formation en alternance
+
+##### Sous-section 1 : Contrat de qualification
+
+###### Article L324-8
+
+Les formations ayant pour objet l'acquisition d'une qualification professionnelle des personnes âgées de seize ans à moins de
+trente ans peuvent être dispensées dans le cadre d'un contrat de travail à durée déterminée mentionné à l'article L. 122-1-1,
+dénommé " contrat de qualification ". Sa durée est comprise entre six mois et deux ans. Il est passé par écrit. 
+
+L'employeur s'engage, pour la durée prévue, à fournir un emploi à l'intéressé et à assurer une formation qui lui permettra
+d'acquérir une qualification professionnelle sanctionnée par un diplôme de l'enseignement technologique ou professionnel, ou
+reconnue dans les classifications d'une convention collective ou d'un accord interprofessionnel, ou figurant sur une liste
+établie par un arrêté du représentant de l'Etat, après consultation du comité mahorais de coordination de l'emploi et de la
+formation professionnelle. 
+
+Les enseignements généraux, professionnels et technologiques dispensés pendant la durée du contrat doivent être au minimum
+d'une durée égale à 33 % de la durée totale du contrat. 
+
+Les dispositions du premier alinéa de l'article L. 122-12 ne s'appliquent pas au contrat de qualification.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
+
+	**Modifié par**:
+
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 4
+
+	**Cité par**:
+
+	  - Décret n°2016-1122 du 11 août 2016 - art. 7 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L122-1-1
+	  - Code du travail applicable à Mayotte. - art. L122-12
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. L711-5 (T)
+
+
+###### Article L324-9
+
+Seules les entreprises habilitées par l'autorité administrative compétente peuvent conclure des contrats de qualification. 
+
+Cette habilitation est subordonnée soit à la conclusion par l'entreprise, après consultation du comité d'entreprise ou, à
+défaut, des délégués du personnel, s'ils existent, d'une convention avec un établissement d'enseignement public ou un
+organisme de formation alternée public ou privé prévoyant les modalités d'organisation de la formation alternée, soit à
+l'adhésion de l'entreprise à un accord-cadre conclu entre l'Etat et une organisation professionnelle ou
+interprofessionnelle. 
+
+Cet accord-cadre, conclu après consultation des organisations syndicales de salariés représentatives au sens de l'article L.
+412-1, définit les conditions dans lesquelles les entreprises qui y adhèrent et les établissements d'enseignement ou
+organismes de formation mentionnés à l'alinéa précédent participent à la mise en oeuvre d'un programme de formation alternée.
+Il détermine notamment le rôle des tuteurs chargés d'accueillir et de guider les salariés pendant leur temps de présence en
+entreprise. 
+
+Un arrêté du représentant de l'Etat détermine les garanties d'ordre technique et professionnel auxquelles est subordonnée
+l'habilitation.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 4
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D324-2 (Ab)
+	  - Code du travail applicable à Mayotte. - art. L325-2 (V)
+	  - Code du travail applicable à Mayotte. - art. R324-1 (M)
+	  - Code du travail applicable à Mayotte. - art. R325-9 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L412-1
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. L711-6 (T)
+
+
+##### Sous-section 2 : Contrat d'orientation
+
+###### Article L324-10
+
+Les formations ayant pour objet de favoriser l'orientation professionnelle des jeunes de plus de seize ans et de moins de
+vingt-six ans rencontrant des difficultés d'accès à l'emploi sont dispensées dans le cadre d'un contrat de travail dénommé "
+contrat d'orientation ". L'exécution de ce contrat ne peut conduire à remplacer des emplois permanents, temporaires ou
+saisonniers. Il est conclu après signature d'une convention entre l'entreprise et l'organisme réalisant les actions
+d'orientation professionnelle. 
+
+Ce contrat est un contrat de travail à durée déterminée mentionné à l'article L. 122-1-1, d'une durée non renouvelable de
+neuf mois maximum, sauf dans les cas prévus au quatrième alinéa de l'article L. 324-13. 
+
+Le contrat d'orientation peut être rompu avant l'échéance de son terme à l'initiative du salarié, lorsque cette rupture a
+pour objet de lui permettre d'occuper un autre emploi ou de suivre une formation conduisant à une qualification. 
+
+La durée et les modalités des actions d'orientation professionnelle dispensées pendant le temps de travail ainsi que les
+missions du tuteur chargé d'accueillir et de guider le jeune dans l'entreprise et les moyens mis à sa disposition par
+l'employeur sont fixées par décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 4
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L122-1-1
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. L711-7 (T)
+
+
+##### Sous-section 3 : Dispositions communes
+
+###### Article L324-11
+
+Sous réserve de dispositions contractuelles plus favorables, les salariés titulaires des contrats mentionnés à la présente
+section perçoivent une rémunération déterminée en pourcentage du salaire minimum interprofessionnel garanti. Ce pourcentage
+ainsi que les conditions de déduction des avantages en nature sont fixés par arrêté du représentant de l'Etat. Ce pourcentage
+peut varier selon l'âge du bénéficiaire.
+
+Ces salariés ne peuvent effectuer d'heures supplémentaires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 4
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. L711-8 (T)
+
+
+###### Article L324-12
+
+L'embauche d'un salarié dans le cadre des contrats mentionnés à la présente section ouvre droit à l'exonération des
+cotisations à la charge de l'employeur dues au titre des assurances sociales, des accidents du travail et des allocations
+familiales.
+
+L'exonération porte sur les cotisations afférentes aux rémunérations dues jusqu'à la fin du contrat sous réserve du respect
+par l'employeur des obligations mises à sa charge par la présente section. Un décret en Conseil d'Etat fixe les conditions
+dans lesquelles le bénéfice de l'exonération peut être retiré en cas de manquement à ces obligations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 4
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. L711-9 (T)
+
+
+###### Article L324-13
+
+Les salariés titulaires des contrats de travail mentionnés à la présente section bénéficient de l'ensemble des dispositions
+du présent code applicables aux autres salariés dans la mesure où elles ne sont pas incompatibles avec leur situation de
+salariés en formation. En particulier, la durée du travail du salarié, incluant le temps passé en formation, ne peut excéder
+la durée légale hebdomadaire du travail dans l'entreprise ni la durée quotidienne du travail fixées par l'article L. 212-2.
+Ils bénéficient du repos hebdomadaire dans les conditions fixées par le chapitre Ier du titre II du livre II. 
+
+Les titulaires desdits contrats ne sont pas pris en compte, pendant toute la durée du contrat, dans le calcul de l'effectif
+du personnel des entreprises dont ils relèvent pour l'application des dispositions législatives et réglementaires qui se
+réfèrent à une condition d'effectif minimum de salariés. 
+
+Est nulle et de nul effet toute clause de remboursement par le salarié à l'employeur des dépenses de formation en cas de
+rupture du contrat de travail. 
+
+Les contrats prévus par la présente section peuvent être renouvelés une fois si les épreuves d'évaluation révèlent que leur
+objet n'a pu être atteint ou en cas de maladie du salarié, d'accident du travail ou de défaillance de l'organisme de
+formation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 4
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L212-2
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. L711-10 (T)
+
+
+#### Chapitre V : Dispositions relatives à la création d'entreprises et à la création d'emplois pour les personnes en difficulté d'accès ou de maintien dans l'emploi durable
+
+##### Section 1 : Aide financière et de conseil
+
+###### Article L325-1
+
+Peuvent bénéficier d'une aide de l'Etat, lorsqu'ils créent ou reprennent une activité économique, industrielle, commerciale,
+artisanale, agricole ou libérale, soit à titre individuel, soit sous la forme d'une société, à condition d'en exercer
+effectivement le contrôle, ou entreprennent l'exercice d'une autre profession non salariée : 
+
+1° Les demandeurs d'emploi indemnisés ; 
+
+2° Les demandeurs d'emploi non indemnisés inscrits à l'institution mentionnée à l'article L. 326-6 depuis plus de trois mois
+au cours des dix-huit derniers mois ; 
+
+3° Les bénéficiaires de l'allocation de solidarité spécifique ou du revenu de solidarité active ; 
+
+4° Les personnes de plus de trente ans non indemnisées ou reconnues travailleurs handicapés ; 
+
+5° Les personnes salariées ou les personnes licenciées d'une entreprise soumise à l'une des procédures de sauvegarde, de
+redressement ou de liquidation judiciaires prévues aux titres II, III et IV du livre VI du code de commerce qui reprennent
+tout ou partie de cette entreprise dès lors qu'elles s'engagent à investir en capital la totalité des aides et à réunir des
+apports complémentaires en capital au moins égaux à la moitié des aides accordées ; 
+
+6° Les personnes ayant conclu un contrat d'appui au projet d'entreprise mentionné à l'article L. 127-1 du code de commerce,
+sous réserve qu'elles remplissent l'une des conditions prévues aux 1° à 6° à la date de conclusion de ce contrat ; 
+
+7° Les personnes physiques créant une entreprise implantée au sein d'une zone urbaine sensible ; 
+
+8° Les volontaires dans les armées et les volontaires stagiaires du service militaire adapté ayant servi dans une unité du
+service militaire adapté sont réputés avoir satisfait aux conditions d'inscription prévues au même alinéa.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
+
+	**Modifié par**:
+
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 5
+
+	**Cite**:
+
+	  - Code de commerce - art. L127-1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D325-1-1 (Ab)
+	  - Code du travail applicable à Mayotte. - art. L325-4 (V)
+	  - Code du travail applicable à Mayotte. - art. L325-5 (V)
+	  - Code du travail applicable à Mayotte. - art. R324-1 (M)
+	  - Code du travail applicable à Mayotte. - art. R325-1 (V)
+	  - Code du travail applicable à Mayotte. - art. R325-2 (V)
+	  - Code du travail applicable à Mayotte. - art. R325-3 (M)
+	  - Code du travail applicable à Mayotte. - art. R325-5 (M)
+	  - Code du travail applicable à Mayotte. - art. R325-6 (M)
+	  - Code du travail applicable à Mayotte. - art. R325-7 (M)
+	  - Code du travail applicable à Mayotte. - art. R325-8 (M)
+	  - Code du travail applicable à Mayotte. - art. R325-9 (M)
+
+
+###### Article L325-2
+
+L'aide prend la forme d'une aide financière, d'un montant modulable, dans la limite d'un plafond fixé par décret.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 5
 
 	**Cité par**:
 
@@ -18165,56 +19045,53 @@ Un décret en Conseil d'Etat détermine les modalités d'application du présent
 	  - Code du travail applicable à Mayotte. - art. R324-1 (M)
 	  - Code du travail applicable à Mayotte. - art. R325-9 (V)
 
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. L324-7 (V)
-
 
 ###### Article L325-3
 
-Il est créé à Mayotte une agence pour le développement d'activités d'utilité sociale, établissement public national placé
-sous la tutelle du ministre chargé de l'outre-mer.
-
-Cette agence a pour mission de développer des activités créatrices d'emplois répondant à des besoins émergents ou non
-satisfaits et présentant un caractère d'utilité sociale, notamment dans les domaines des activités sportives, éducatives,
-culturelles, de proximité et d'environnement.
+L'Etat peut participer par convention au financement des actions de conseil ou de formation à la gestion d'entreprise qui
+sont organisées avant la création ou la reprise d'entreprise et pendant trois années après.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2002-242 du 21 février 2002 - art. 2 () JORF 23 février 2002
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 5
 
 	**Cité par**:
 
 	  - Code rural et de la pêche maritime - art. L372-6 (Ab)
 
 
+##### Section 2 : Maintien d'allocation
+
 ###### Article L325-4
 
-L'agence établit un programme annuel de développement des activités mentionnées à l'article précédent, en concertation avec
-les collectivités territoriales. Le programme prévoit les créations d'emplois correspondantes. L'agence peut gérer elle-même
-les activités ou mettre ses salariés à disposition des personnes morales ou organismes définis à l'article L. 322-1.
+Les personnes admises au bénéfice de l'article L. 325-1 et qui perçoivent l'allocation de solidarité spécifique ou
+l'allocation veuvage prévue à l'article L. 356-1 du code de la sécurité sociale, rendu applicable par l'article 18 de
+l'ordonnance n° 2002-411 du 27 mars 2002 relative à la protection sanitaire et sociale à Mayotte, reçoivent une aide de
+l'Etat, attribuée pour une durée courant à compter de la date de création ou de reprise d'une entreprise.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-	**Créé par**:
-
-	  - Ordonnance n°2002-242 du 21 février 2002 - art. 2 () JORF 23 février 2002
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L322-1 (M)
+	  - Ordonnance n°2002-411 du 27 mars 2002 - art. 18
+	  - Code du travail applicable à Mayotte. - art. L325-1
+	  - Code de la sécurité sociale. - art. L356-1
+
+	**Modifié par**:
+
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 5
 
 	**Cité par**:
 
@@ -18223,30 +19100,23 @@ les activités ou mettre ses salariés à disposition des personnes morales ou o
 
 ###### Article L325-5
 
-Les emplois créés sont destinés à l'embauche de personnes chargées de famille et de jeunes âgés de moins de trente ans
-inscrits comme demandeurs d'emploi.
-
-A cette fin, les services chargés de l'emploi communiquent à l'agence des listes de personnes pouvant être embauchées par
-elle et les informations les concernant.
-
-Lorsqu'elles sont conservées sur support informatique, les informations mentionnées à l'alinéa précédent sont transmises dans
-les conditions prévues à l'article 15 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
-libertés.
+Les personnes admises au bénéfice des dispositions de l'article L. 325-1 et qui perçoivent l'allocation d'insertion ou
+l'allocation de veuvage ont droit au maintien du versement de leur allocation dans des conditions prévues par décret.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°78-17 du 6 janvier 1978 - art. 15 (M)
-
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2002-242 du 21 février 2002 - art. 2 () JORF 23 février 2002
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 5
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L325-1 (V)
 
 	**Cité par**:
 
@@ -18254,30 +19124,33 @@ libertés.
 	  - Code du travail applicable à Mayotte. - art. R325-7 (V)
 
 
+##### Section 3 : Financement d'actions de conseil, de formation et d'accompagnement
+
 ###### Article L325-6
 
-Pour la mise en oeuvre du programme annuel de développement, l'agence peut conclure avec les demandeurs d'emploi mentionnés à
-l'article L. 325-5 des contrats emploi-développement. Ces contrats sont régis par les dispositions du chapitre II du titre II
-du présent livre.
+L'Etat peut, par convention, participer au financement d'actions d'accompagnement et de conseil organisées avant la création
+ou la reprise d'une entreprise et pendant les trois années suivantes. Ces actions peuvent bénéficier à des personnes sans
+emploi ou rencontrant des difficultés pour s'insérer durablement dans l'emploi, pour lesquelles la création ou la reprise
+d'entreprise est un moyen d'accès, de maintien ou de retour à l'emploi. 
 
-De même, pour l'organisation et l'encadrement des activités, elle peut conclure des contrats emplois-jeunes prévus au
-chapitre IV du titre II du présent livre.
+Le Département de Mayotte peut contribuer à la mise en place d'une ingénierie dans le cadre de l'aide à la création ou la
+reprise d'entreprise prévue par le présent chapitre.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2002-242 du 21 février 2002 - art. 2 () JORF 23 février 2002
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 5
 
 	**Cité par**:
 
 	  - Code du travail - art. R5531-1 (VD)
-	  - Code du travail applicable à Mayotte. - art. L324-7 (Ab)
+	  - Code du travail applicable à Mayotte. - art. L324-7 (V)
 	  - Code du travail applicable à Mayotte. - art. L325-8 (V)
 	  - Code du travail applicable à Mayotte. - art. R324-1 (M)
 	  - Code du travail applicable à Mayotte. - art. R325-4 (Ab)
@@ -18290,64 +19163,57 @@ chapitre IV du titre II du présent livre.
 
 ###### Article L325-7
 
-L'agence est administrée par un conseil d'administration présidé par le représentant de l'Etat à Mayotte qui comprend, en
-outre, en nombre égal :
-
-1° Des représentants des services de l'Etat à Mayotte ;
-
-2° Des représentants du conseil général et des communes de Mayotte ;
-
-3° Des personnalités qualifiées choisies au sein d'associations, d'organismes ou d'institutions intervenant dans les domaines
-des activités économiques, sociales, éducatives, d'environnement et de proximité, nommées par le représentant de l'Etat à
-Mayotte.
-
-L'agence est dirigée par un directeur nommé par le représentant de l'Etat à Mayotte.
+Un décret en Conseil d'Etat détermine les conditions d'application de la présente section, notamment les conditions dans
+lesquelles la décision d'attribution des aides peut être déléguée à des organismes habilités par l'Etat.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2002-242 du 21 février 2002 - art. 2 () JORF 23 février 2002
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 5
 
+
+##### Section 4 : Contrat d'appui au projet d'entreprise  (CAPE)
 
 ###### Article L325-8
 
-Les ressources de l'agence sont constituées par une subvention annuelle de l'Etat, au titre du fonds pour l'emploi mentionné
-à l'article L. 325-9 et par les contributions de l'Etat au titre des emplois mentionnés à l'article L. 325-6.
+La personne physique liée par un contrat d'appui au projet d'entreprise pour la création ou la reprise d'une activité
+économique, dans les conditions prévues à l'article L. 127-1 du code de commerce, bénéficie des dispositions du titre III du
+livre II ainsi que des dispositions du chapitre VII du présent titre relatives aux garanties de ressources du travailleur
+privé d'emploi. Cette personne est affiliée obligatoirement au régime de sécurité sociale de Mayotte et bénéficie des
+dispositions du code de la sécurité sociale prévues à l'article L. 412-8 tel que rendu applicable par l'article 104-1 de
+l'ordonnance n° 2006-1588 du 13 décembre 2006 relative au régime de prévention, de réparation et de tarification des
+accidents du travail et des maladies professionnelles à Mayotte. 
 
-Le conseil général de Mayotte, les communes et leurs établissements publics peuvent apporter leur contribution au
-développement de l'agence et de ses activités.
-
-Un décret en conseil d'Etat fixe les conditions d'application des articles L. 325-3 à L. 325-8, et notamment les règles
-relatives à l'organisation, au fonctionnement, au régime administratif, financier et comptable de l'agence.
+Les obligations mises à la charge de l'employeur par les dispositions mentionnées au premier alinéa incombent à la personne
+morale responsable de l'appui qui a conclu le contrat prévu aux articles L. 127-1 à L. 127-7 du code de commerce.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
-	**Créé par**:
+	**Cite**:
 
-	  - Ordonnance n°2002-242 du 21 février 2002 - art. 2 () JORF 23 février 2002
+	  - Ordonnance n°2006-1588 du 13 décembre 2006 - art. 104-1
+	  - Code de commerce - art. L127-1
+
+	**Modifié par**:
+
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 5
 
 	**Cité par**:
 
 	  - Code du travail - art. R5531-1 (VD)
 	  - Code du travail applicable à Mayotte. - art. R325-6 (V)
 	  - Code du travail applicable à Mayotte. - art. R325-9 (V)
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte L325-9, L325-6, L325-3 à L325-8
-	  - Code du travail applicable à Mayotte. - art. L325-6 (V)
-	  - Code du travail applicable à Mayotte. - art. L325-9 (V)
 
 
 ###### Article L325-9
@@ -18369,18 +19235,67 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance n°2002-242 du 21 février 2002 - art. 3 () JORF 23 février 2002
+	  - DEPLACE: Ordonnance n°2014-577 du 4 juin 2014 - art. 5
+	  - PILOTE_SUIVEUR: Code du travail - art. L832-4
 
 	**Cité par**:
 
 	  - Code du travail applicable à Mayotte. - art. L321-5 (V)
 	  - Code du travail applicable à Mayotte. - art. L321-6 (V)
 	  - Code du travail applicable à Mayotte. - art. L325-8 (V)
+
+
+##### Section 5 : Aide au projet initiative-jeune
+
+###### Article L325-10
+
+Les jeunes âgés de dix-huit à trente ans peuvent bénéficier d'une aide financière de l'Etat dénommée " aide au projet
+initiative-jeune ". 
+
+L'aide au projet initiative-jeune bénéficie aux jeunes qui créent ou reprennent une entreprise à but lucratif dont le siège
+ou l'établissement principal est situé à Mayotte et dont ils assurent la direction effective. Cette aide de l'Etat prend la
+forme d'un capital versé en deux ou trois fractions. 
+
+La décision d'attribution de l'aide est prise par le représentant de l'Etat à Mayotte, qui apprécie la réalité, la
+consistance et la viabilité du projet. 
+
+L'aide, dont le montant maximum est déterminé par décret, est versée à compter de la date de la création ou de la reprise
+effective de l'entreprise. Elle est exonérée de toutes charges sociales ou fiscales. 
+
+Les jeunes bénéficiant ou ayant bénéficié de l'aide au projet initiative-jeune peuvent également bénéficier des aides à la
+création ou à la reprise d'entreprise prévues au chapitre V du présent titre. 
+
+Toute personne qui a frauduleusement bénéficié ou tenté de bénéficier de l'aide au projet initiative-jeune est punie des
+peines prévues aux articles 313-1 à 313-3 du code pénal. 
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article et notamment celles de la suspension ou de
+la suppression de l'aide, ainsi que celles relatives au non-cumul de cette aide avec d'autres aides publiques.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 5
+
+	**Cite**:
+
+	  - Code pénal - art. 313-1
+
+
+###### Article L325-11
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 5
 
 
 #### Chapitre VI : Service public de l'emploi et placement
@@ -18773,14 +19688,14 @@ contentieux qui leur était applicable antérieurement à la création de cette 
 
 ###### Article L326-12
 
-Les missions du médiateur national de l'institution prévues à l'article L. 326-6, mentionnées à l'article L. 5312-1 du code
-du travail, s'étendent à Mayotte.
+Les missions du médiateur national de l'institution prévues à l'article L. 326-6,             mentionnées à l' article L.
+5312-12-1 du code du travail , s'étendent à Mayotte.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 4
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 7
 
 	**Cite**:
 
@@ -18850,18 +19765,18 @@ le présent code.
 ###### Article L326-16
 
 Aucun service de placement ne peut être refusé à une personne à la recherche d'un emploi ou à un employeur fondé sur l'un des
-motifs de discrimination énumérés à l'article L. 000-4. Aucune offre d'emploi ne peut comporter de référence à l'une des
+motifs de discrimination énumérés à l'article L. 032-1. Aucune offre d'emploi ne peut comporter de référence à l'une des
 caractéristiques mentionnées à cet article.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 4
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 7
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L000-4
+	  - Code du travail applicable à Mayotte. - art. L032-1
 
 
 ###### Article L326-17
@@ -19273,243 +20188,6 @@ d'insertion de l'offre émanant de l'annonceur.
 	  - Code du travail applicable à Mayotte. - art. L326-28
 
 
-##### Section 4 : Inscription au registre national des agents artistiques
-
-
-
-
-###### Article L326-36
-
-L'activité d'agent artistique, qu'elle soit exercée sous l'appellation d'imprésario, de manager ou sous toute autre
-dénomination, consiste à recevoir mandat à titre onéreux d'un ou de plusieurs artistes du spectacle aux fins de placement et
-de représentation de leurs intérêts professionnels.
-
-Un décret en Conseil d'Etat fixe les modalités du mandat écrit visé au premier alinéa et les obligations respectives à la
-charge des parties.
-
-Nul ne peut exercer l'activité d'agent artistique s'il exerce, directement ou par personne interposée, l'activité de
-producteur d'œuvres cinématographiques ou audiovisuelles.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 4
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2014-577 du 4 juin 2014 - art. 7
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. L326-17 (V)
-	  - Code du travail applicable à Mayotte. - art. L326-39 (T)
-	  - Code du travail applicable à Mayotte. - art. R326-32 (T)
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. L811-2 (V)
-
-
-###### Article L326-37
-
-Les agents artistiques doivent s'inscrire au registre national des agents artistiques. Le registre est destiné à informer les
-artistes et le public ainsi qu'à faciliter la coopération entre Etats membres de l'Union européenne et autres Etats parties à
-l'Espace économique européen. L'inscription sur ce registre est de droit.
-
-Un décret en Conseil d'Etat précise les conditions d'inscription sur le registre ainsi que les modalités de sa tenue par
-l'autorité administrative compétente.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 4
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2014-577 du 4 juin 2014 - art. 7
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. L811-3 (V)
-
-
-###### Article L326-38
-
-L'activité d'agent artistique présente un caractère commercial au sens des dispositions du code de commerce.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 4
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2014-577 du 4 juin 2014 - art. 7
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. L811-4 (V)
-
-
-###### Article L326-39
-
-Sous réserve du respect de l'incompatibilité prévue à l'article L. 326-36, un agent artistique peut produire un spectacle
-vivant au sens du titre Ier du livre VIII, lorsqu'il est titulaire d'une licence d'entrepreneur de spectacles vivants. 
-
-Dans ce cas, il ne peut percevoir aucune commission sur l'ensemble des artistes composant la distribution du spectacle.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 4
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2014-577 du 4 juin 2014 - art. 7
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L326-36
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. L326-42 (T)
-	  - Code du travail applicable à Mayotte. - art. L326-43 (T)
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. L811-5 (V)
-
-
-###### Article L326-40
-
-Les sommes que les agents artistiques peuvent percevoir en rémunération de leurs services et notamment du placement se
-calculent en pourcentage sur l'ensemble des rémunérations de l'artiste. Un décret fixe la nature des rémunérations prises en
-compte pour le calcul de la rétribution de l'agent artistique ainsi que le plafond et les modalités de versement de sa
-rémunération.
-
-Ces sommes peuvent, par accord entre l'agent artistique et l'artiste du spectacle bénéficiaire du placement, être en tout ou
-partie mises à la charge de l'artiste. Dans ce cas, l'agent artistique donne quittance à l'artiste du paiement opéré par ce
-dernier.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 4
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2014-577 du 4 juin 2014 - art. 7
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. L326-44 (T)
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. L811-6 (V)
-
-
-###### Article L326-41
-
-Le maire surveille les agences artistiques, leurs succursales et leurs bureaux annexes pour y assurer le maintien de l'ordre
-et le respect des règles d'hygiène.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 4
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2014-577 du 4 juin 2014 - art. 7
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. L811-7 (V)
-
-
-###### Article L326-42
-
-Le fait pour un agent artistique de produire un spectacle vivant sans être titulaire d'une licence d'entrepreneur de
-spectacles vivants, en méconnaissance des dispositions de l'article L. 326-39, est puni, en cas de récidive, d'un
-emprisonnement de six mois et d'une amende de 3 750 €.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 4
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2014-577 du 4 juin 2014 - art. 7
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L326-39
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. L811-8 (V)
-
-
-###### Article L326-43
-
-Le fait pour un agent artistique titulaire d'une licence d'entrepreneur de spectacles vivants et produisant un spectacle
-vivant de percevoir une commission sur l'ensemble des artistes composant la distribution du spectacle, en méconnaissance des
-dispositions de l'article L. 326-39, est puni, en cas de récidive, d'un emprisonnement de six mois et d'une amende de 3 750
-€.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 4
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2014-577 du 4 juin 2014 - art. 7
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L326-39 (T)
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. L811-9 (V)
-
-
-###### Article L326-44
-
-Le fait pour un agent artistique établi sur le territoire national de percevoir des sommes en méconnaissance du premier
-alinéa de l'article L. 326-40 est puni, en cas de récidive, d'un emprisonnement de six mois et d'une amende de 3 750 €.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 4
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2014-577 du 4 juin 2014 - art. 7
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L326-40 (T)
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. L811-10 (V)
-
-
 ##### Section 5 : Le demandeur d'emploi 
 
 
@@ -19807,15 +20485,15 @@ services et organismes ;
 d) Refuse de se soumettre à une visite médicale auprès des services médicaux de main-d'œuvre destinée à vérifier son aptitude
 au travail ou à certains types d'emplois ; 
 
-e) Refuse une proposition de contrat d'apprentissage ou de contrat de professionnalisation ; 
+e) Refuse une proposition de contrat d'apprentissage ou de contrat de qualification ; 
 
 f) Refuse une action d'insertion ou une offre de contrat aidé prévues aux chapitres II et III du présent titre.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 4
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 3
 
 	**Cite**:
 
@@ -20558,11 +21236,8 @@ l'accord prévu à l'article L. 327-19 ou par décret en Conseil d'Etat.
 
 ###### Article L327-24
 
-L'allocation de solidarité spécifique est incessible et insaisissable. 
-
-Tout paiement indu de l'allocation peut, si l'allocataire n'en conteste pas le caractère indu, être récupéré par retenue sur
-le montant de l'allocation à échoir ou par remboursement de la dette selon des modalités déterminées par voie réglementaire.
-Les retenues ne peuvent dépasser un pourcentage déterminé par voie réglementaire. 
+Sous réserve des dispositions prévues aux articles L. 327-52-1 à L. 327-52-3, l'allocation de solidarité spécifique est
+incessible et insaisissable. 
 
 Les blocages de comptes courants de dépôts ou d'avances ne peuvent avoir pour effet de faire obstacle à son
 insaisissabilité. 
@@ -20572,9 +21247,9 @@ effectuer mensuellement des retraits de ce compte dans la limite du montant de s
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 5
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 6
 
 
 ###### Article L327-25
@@ -21057,13 +21732,21 @@ la prescription, à la récupération des indus, à l'insaisissabilité et l'inc
 ###### Article L327-44
 
 Un décret en Conseil d'Etat détermine les conditions d'attribution de la prime forfaitaire, notamment la durée de travail
-minimale et le nombre de mois d'activité consécutifs auxquels son versement est subordonné, ainsi que son montant.
+minimale et le nombre de mois d'activité consécutifs auxquels son versement est subordonné, ainsi que son montant. 
+
+Il est procédé par décret à des revalorisations spécifiques de la prime forfaitaire à Mayotte en vue de réduire la différence
+de montant avec celui versé en métropole et dans les autres collectivités territoriales relevant de l'article 73 de la
+Constitution.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 5
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 6
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 87 (V)
 
 
 ##### Sous-section 3 : Exercice d'une activité bénévole 
@@ -21247,6 +21930,74 @@ assistée d'une personne de son choix, dans un délai qui ne peut être inférie
 	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 5
 
 
+##### Sous-section 4 : Répétition des prestations indues
+
+###### Article L327-52-1
+
+Pour le remboursement des allocations, aides ainsi que de toute autre prestation indûment versées par l'institution prévue à
+l'article L. 326-6, pour son propre compte, pour le compte de l'Etat, du fonds de solidarité prévu à l'article L. 327-26 ou
+des employeurs mentionnés à l'article L. 327-36, l'institution peut, si le débiteur n'en conteste pas le caractère indu,
+procéder par retenues sur les échéances à venir dues à quelque titre que ce soit. Le montant des retenues ne peut dépasser un
+plafond dont les modalités sont fixées par voie réglementaire, sauf en cas de remboursement intégral de la dette en un seul
+versement si le bénéficiaire opte pour cette solution.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 6
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L326-6
+	  - Code du travail applicable à Mayotte. - art. L327-36
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L327-53 (V)
+
+
+###### Article L327-52-2
+
+Pour le remboursement des allocations, aides ainsi que de toute autre prestation indûment versées par l'institution prévue à
+l'article L. 326-6, pour son propre compte, pour le compte de l'Etat, du fonds de solidarité prévu à l'article L. 327-26 ou
+des employeurs mentionnés à l'article L. 327-36, le directeur général de l'institution prévue à l'article L. 326-6 ou la
+personne qu'il désigne en son sein peut, dans les délais et selon les conditions fixées par voie réglementaire, et après mise
+en demeure, délivrer une contrainte qui, à défaut d'opposition du débiteur devant la juridiction compétente, comporte tous
+les effets d'un jugement et confère le bénéfice de l'hypothèque judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 6
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L326-26
+	  - Code du travail applicable à Mayotte. - art. L326-6
+	  - Code du travail applicable à Mayotte. - art. L327-36
+
+
+###### Article L327-52-3
+
+L'institution mentionnée à l'article L. 326-6 est autorisée à différer ou à abandonner la mise en recouvrement des
+allocations, aides ainsi que de toute autre prestation indûment versées pour son propre compte, pour le compte de l'Etat, du
+fonds de solidarité prévu à l'article L. 327-26 ou des employeurs mentionnés à l'article L. 327-36.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 6
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L326-26
+	  - Code du travail applicable à Mayotte. - art. L326-6
+	  - Code du travail applicable à Mayotte. - art. L327-36
+
+
 ###### Article L327-53
 
 Un décret en Conseil d'Etat détermine les modalités d'application de la présente section, notamment : 
@@ -21257,13 +22008,17 @@ renseignements détenus par les administrations sociales et fiscales ;
 2° Les conditions dans lesquelles le revenu de remplacement peut être supprimé ou réduit en application du premier alinéa de
 l'article L. 327-48 ; 
 
-3° Les conditions dans lesquelles l'autorité administrative prononce la pénalité prévue à l'article L. 327-49.
+3° Les conditions dans lesquelles l'institution prévue à l'article L. 326-6 procède à la répétition des prestations indues en
+application des articles L. 327-52-1 à L. 327-52-3 ainsi que la part des échéances mensuelles mentionnée au même article L.
+327-52-1 ; 
+
+4° Les conditions dans lesquelles l'autorité administrative prononce la pénalité prévue à l'article L. 327-49.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 5
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 6
 
 	**Cité par**:
 
@@ -21271,8 +22026,10 @@ l'article L. 327-48 ;
 
 	**Cite**:
 
+	  - Code du travail applicable à Mayotte. - art. L326-6
 	  - Code du travail applicable à Mayotte. - art. L327-48
 	  - Code du travail applicable à Mayotte. - art. L327-49
+	  - Code du travail applicable à Mayotte. - art. L327-52-1
 
 
 ##### Section 7 : Organisme gestionnaire du régime d'assurance chômage 
@@ -21563,15 +22320,15 @@ du préjudice.
 ###### Article L328-4
 
 Afin de tenir compte des contraintes particulières des personnes handicapées ou présentant un trouble de santé invalidant,
-les actions de formation professionnelle prévues à la sixième partie prévoient un accueil à temps partiel ou discontinu ainsi
-qu'une durée et des modalités adaptées de validation de la formation professionnelle, dans des conditions déterminées par
-décret.
+les actions de formation professionnelles prévues à la septième partie prévoient un accueil à temps partiel ou discontinu
+ainsi qu'une durée et des modalités adaptées de validation de la formation professionnelle, dans des conditions déterminées
+par décret.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 7
 
 	**Cité par**:
 
@@ -21628,19 +22385,10 @@ Les dispositions de la présente section s'appliquent à tout employeur, occupan
 ###### Article L328-7
 
 Tout employeur emploie un pourcentage de travailleurs handicapés par rapport à l'effectif total de ses salariés, à temps
-plein ou à temps partiel, fixé par voie réglementaire dans la limite du taux prévu à l'article L. 5512-2 du code du travail
+plein ou à temps partiel, fixé par voie réglementaire dans la limite du taux prévu à l'article L. 5212-2 du code du travail
 et en vue d'y parvenir progressivement.
 
-**Nota:**
-
-Conformément à l'article 14 de l'ordonnance n° 2012-788 du 31 mai 2012, l'article L. 328-7 entre en vigueur le 1er janvier
-2013.
-
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
 
 	**Cité par**:
 
@@ -21654,6 +22402,14 @@ Conformément à l'article 14 de l'ordonnance n° 2012-788 du 31 mai 2012, l'art
 	  - Code du travail applicable à Mayotte. - art. L328-9 (VD)
 	  - Code du travail applicable à Mayotte. - art. R328-23 (V)
 	  - Code du travail applicable à Mayotte. - art. R328-46 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 7
+
+	**Cite**:
+
+	  - Code du travail - art. L5212-2
 
 
 ###### Article L328-8
@@ -21952,7 +22708,8 @@ instituée par le second alinéa de l'article L. 328-15, majoré de 25 %.
 Bénéficient de l'obligation d'emploi instituée par l'article L. 328-7 : 
 
 1° Les travailleurs reconnus handicapés par la commission mentionnée à l'article L. 545-2 du code de l'action sociale et des
-familles ; 
+familles dans sa rédaction maintenue en vigueur à Mayotte par le 3° de l'article 10 de l'ordonnance n° 2012-785 du 31 mai
+2012 portant extension et adaptation du code de l'action sociale et des familles au Département de Mayotte ; 
 
 2° Les victimes d'accidents du travail ou de maladies professionnelles ayant entraîné une incapacité permanente au moins
 égale à 10 % et titulaires d'une rente attribuée au titre du régime de sécurité sociale de Mayotte ; 
@@ -21976,7 +22733,7 @@ prévues au 5° ci-dessus ;
 7° Les conjoints d'invalides internés pour aliénation mentale imputable à un service de guerre, si elles bénéficient de
 l'article L. 124 du code des pensions militaires d'invalidité et des victimes de la guerre ; 
 
-8° Les titulaires de la carte d'invalidité définie à l'article L. 545-3 du code de l'action sociale et des familles ; 
+8° Les titulaires de la carte d'invalidité définie à l'article L. 241-3 du code de l'action sociale et des familles ; 
 
 9° Les titulaires de l'allocation pour adulte handicapé prévue aux articles 35 et suivants de l'ordonnance n° 2002-411 du 27
 mars 2002 relative à la protection sanitaire et sociale à Mayotte.
@@ -21988,12 +22745,12 @@ mars 2002 relative à la protection sanitaire et sociale à Mayotte.
 	  - Ordonnance n°2002-411 du 27 mars 2002 - art. 35
 	  - Code du travail applicable à Mayotte. - art. L328-7
 	  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L124
+	  - Code de l'action sociale et des familles - art. L241-3
 	  - Code de l'action sociale et des familles - art. L545-2
-	  - Code de l'action sociale et des familles - art. L545-3
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 7
 
 	**Cité par**:
 
@@ -22093,16 +22850,18 @@ effectivement réduites par suite de l'altération d'une ou plusieurs fonctions 
 ###### Article L328-23
 
 La qualité de travailleur handicapé est reconnue par la commission mentionnée à l'article L. 545-2 du code de l'action
-sociale et des familles. Cette reconnaissance s'accompagne d'une orientation vers un établissement ou service d'aide par le
-travail, vers le marché du travail ou vers un centre de rééducation professionnelle. L'orientation vers un établissement ou
-service d'aide par le travail, vers le marché du travail ou vers un centre de rééducation professionnelle vaut reconnaissance
-de la qualité de travailleur handicapé.
+sociale et des familles dans sa rédaction maintenue en vigueur à Mayotte par le 3° de l'article 10 de l'ordonnance n°
+2012-785 du 31 mai 2012 portant extension et adaptation du code de l'action sociale et des familles au Département de
+Mayotte. Cette reconnaissance s'accompagne d'une orientation vers un établissement ou service d'aide par le travail, vers le
+marché du travail ou vers un centre de rééducation professionnelle. L'orientation vers un établissement ou service d'aide par
+le travail, vers le marché du travail ou vers un centre de rééducation professionnelle vaut reconnaissance de la qualité de
+travailleur handicapé.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 7
 
 	**Cité par**:
 
@@ -22333,9 +23092,11 @@ organismes publics ou privés, notamment par des sociétés commerciales. Pour c
 morales distinctes. 
 
 Leurs effectifs de production comportent au moins 80 % de travailleurs handicapés orientés vers le marché du travail par la
-commission des personnes handicapées prévue à l'article L. 545-2 du code de l'action sociale et des familles et qui soit sont
-recrutés sur proposition du service public de l'emploi ou d'un organisme de placement spécialisé, soit répondent aux critères
-fixés par arrêté du ministre chargé de l'emploi. 
+commission des personnes handicapées prévue à l'article L. 545-2 du code de l'action sociale et des familles dans sa
+rédaction maintenue en vigueur à Mayotte par le 3° de l'article 10 de l'ordonnance n° 2012-785 du 31 mai 2012 portant
+extension et adaptation du code de l'action sociale et des familles au Département de Mayotte et qui soit sont recrutés sur
+proposition du service public de l'emploi ou d'un organisme de placement spécialisé, soit répondent aux critères fixés par
+arrêté du ministre chargé de l'emploi. 
 
 Les entreprises adaptées et les centres de distribution de travail à domicile permettent à ces salariés d'exercer une
 activité professionnelle dans des conditions adaptées à leurs possibilités. Grâce à l'accompagnement spécifique qu'ils leur
@@ -22346,9 +23107,9 @@ Ils concluent avec l'autorité administrative un contrat d'objectif triennal val
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 7
 
 	**Cité par**:
 
@@ -22479,15 +23240,17 @@ Les modalités d'attribution de l'aide au poste et de la subvention spécifique 
 
 ###### Article L328-40
 
-Les personnes handicapées pour lesquelles une orientation sur le marché du travail par la commission des droits et de
-l'autonomie des personnes handicapées mentionnée à l'article L. 545-2 du code de l'action sociale et des familles s'avère
-impossible peuvent être admises dans un établissement ou service d'aide par le travail.
+Les personnes handicapées pour lesquelles une orientation sur le marché du travail par la commission des personnes
+handicapées mentionnée à l'article L. 545-2 du code de l'action sociale et des familles tel que maintenu en vigueur en
+application du 3° de l'article 10 de l'ordonnance n° 2012-785 du 31 mai 2012 portant extension et adaptation du code de
+l'action sociale et des familles au Département de Mayotte s'avère impossible peuvent être admises dans un établissement ou
+service d'aide par le travail.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 7
 
 	**Cite**:
 
@@ -22587,15 +23350,15 @@ Le fonds de développement pour l'insertion professionnelle des handicapés à M
 consacrés à l'insertion des handicapés en milieu ordinaire de travail. 
 
 La gestion du fonds de développement pour l'insertion professionnelle des handicapés à Mayotte est confiée à l'association
-mentionnée à l'article L. 5214-1 du code du travail. 
+mentionnée à l'article L. 5214-1 A.
 
 Cette association est soumise au contrôle administratif et financier de l'Etat.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 6
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 7
 
 	**Cité par**:
 
@@ -22626,7 +23389,7 @@ Cette association est soumise au contrôle administratif et financier de l'Etat.
 
 	**Cite**:
 
-	  - Code du travail - art. L5214-1
+	  - Code du travail - art. L5214-1 A
 
 
 ###### Article L328-46
@@ -23048,12 +23811,12 @@ ou des biens mobiliers en vue ou à l'occasion de l'introduction à Mayotte d'un
 
 Est puni d'une amende l'étranger qui exerce une activité professionnelle salariée sans avoir obtenu au préalable une
 autorisation de travail. Le montant maximum de l'amende est égal à vingt-cinq fois le taux horaire du salaire minimum
-interprofessionnel garanti en vigueur dans la collectivité départementale.
+interprofessionnel garanti en vigueur à Mayotte.
 
 L'employeur qui engage ou conserve à son service un étranger non muni d'une autorisation de travail est puni d'une amende
 sauf si des poursuites judiciaires sont intentées à son encontre pour les mêmes faits. Le montant maximum de celle-ci est
-égal à mille fois le taux horaire du salaire minimum interprofessionnel garanti en vigueur dans la collectivité
-départementale. L'amende est due pour chaque étranger employé sans titre de travail.
+égal à mille fois le taux horaire du salaire minimum interprofessionnel garanti en vigueur à Mayotte. L'amende est due pour
+chaque étranger employé sans titre de travail.
 
 Le montant de l'amende due par l'étranger ou l'employeur varie en fonction de la durée de l'emploi.
 
@@ -23072,16 +23835,19 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
 
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 112 () JORF 25 juillet 2006
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 7
+
+	**Abrogé par**:
+
+	  - Loi n°2017-256 du 28 février 2017 - art. 104
 
 	**Anciens textes**:
 
-	  - Code du travail applicable à Mayotte. - art. L330-3 (M)
 	  - Code du travail applicable à Mayotte. - art. L330-3 (T)
 
 	**Cité par**:
@@ -30197,20 +30963,20 @@ vie active ou qui s'y engagent. Ces formations ultérieures constituent la forma
 ###### Article L711-1
 
 La formation professionnelle continue des salariés et des personnes à la recherche d'un emploi est régie par les dispositions
-du présent livre. La collectivité départementale de Mayotte, les communes, les établissements publics, les établissements
-d'enseignement publics et privés, les associations, les organisations syndicales d'employeurs et de salariés, les
-organisations familiales ainsi que les entreprises concourent à l'assurer. 
+du présent livre. Le Département de Mayotte, les communes, les établissements publics, les établissements d'enseignement
+publics et privés, les associations, les organisations syndicales d'employeurs et de salariés, les organisations familiales
+ainsi que les entreprises concourent à l'assurer. 
 
 Le financement des actions de formation professionnelle continue, définies à l'article L. 711-2, est assuré par une
 contribution annuelle, versée à un fonds de la formation professionnelle continue, par tout employeur, sans préjudice des
-dépenses directes qu'il peut effectuer pour le compte de ses salariés.L'Etat et la collectivité départementale de Mayotte
-peuvent participer au financement de ce fonds. 
+dépenses directes qu'il peut effectuer pour le compte de ses salariés. L'Etat et le Département de Mayotte peuvent participer
+au financement de ce fonds. 
 
 Le taux de la contribution prévue à l'alinéa précédent est fixé à 1 % du montant des rémunérations brutes dans la limite d'un
 plafond. 
 
 La contribution est contrôlée et recouvrée selon les modalités prévues pour la taxe d'apprentissage par le code des impôts
-applicable dans la collectivité départementale de Mayotte. 
+applicable dans le Département de Mayotte. 
 
 La gestion du fonds est assurée par un organisme paritaire créé par un accord professionnel de travail et agréé par arrêté du
 représentant de l'Etat. Cet organisme peut également être habilité par le représentant de l'Etat à percevoir la contribution
@@ -30224,9 +30990,9 @@ dispensées dans le cadre des contrats de formation en alternance mentionnées a
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Ordonnance n°2012-788 du 31 mai 2012 - art. 8
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 7
 
 	**Cité par**:
 
@@ -30251,7 +31017,7 @@ dispensées dans le cadre des contrats de formation en alternance mentionnées a
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L711-5 (T)
+	  - Code du travail applicable à Mayotte. - art. L711-5
 
 
 ###### Article L711-1-1
@@ -30469,279 +31235,20 @@ Les modalités d'organisation et de fonctionnement du comité de coordination so
 
 ###### Article L711-4-3
 
-Les compétences de la collectivité départementale en matière de formation professionnelle sont définies à l'article L. 262-4
-du code de l'éducation. 
+Les compétences du Département de Mayotte en matière de formation professionnelle sont définies à l'article L. 262-4 du code
+de l'éducation. 
 
 Le plan mahorais de développement des formations professionnelles est élaboré dans les conditions définies au même article.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Ordonnance n°2012-788 du 31 mai 2012 - art. 8
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 7
 
 	**Cite**:
 
 	  - Code de l'éducation - art. L262-4
-
-
-#### CHAPITRE II : CONTRATS DE FORMATION EN ALTERNANCE
-
-##### Section 1 : Contrat de qualification
-
-###### Article L711-5
-
-Les formations ayant pour objet l'acquisition d'une qualification professionnelle des personnes âgées de seize ans à moins de
-trente ans peuvent être dispensées dans le cadre d'un contrat de travail à durée déterminée mentionné à l'article L. 122-1-1,
-dénommé " contrat de qualification ". Sa durée est comprise entre six mois et deux ans. Il est passé par écrit.
-
-L'employeur s'engage, pour la durée prévue, à fournir un emploi à l'intéressé et à assurer une formation qui lui permettra
-d'acquérir une qualification professionnelle sanctionnée par un diplôme de l'enseignement technologique ou professionnel, ou
-reconnue dans les classifications d'une convention collective ou d'un accord interprofessionnel, ou figurant sur une liste
-établie par un arrêté du représentant de l'Etat à Mayotte, après consultation du comité mahorais de coordination de l'emploi
-et de la formation professionnelle. 
-
-Les enseignements généraux, professionnels et technologiques dispensés pendant la durée du contrat doivent être au minimum
-d'une durée égale à 33 % de la durée totale du contrat. 
-
-Les dispositions du premier alinéa de l'article L. 122-12 ne s'appliquent pas au contrat de qualification.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - DEPLACE: Ordonnance n°2012-788 du 31 mai 2012 - art. 8
-	  - TRANSFERE: Ordonnance n°2014-577 du 4 juin 2014 - art. 4
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. D313-1 (V)
-	  - Code du travail applicable à Mayotte. - art. D711-16 (VT)
-	  - Code du travail applicable à Mayotte. - art. D711-2 (VT)
-	  - Code du travail applicable à Mayotte. - art. D711-3 (V)
-	  - Code du travail applicable à Mayotte. - art. D711-7 (V)
-	  - Code du travail applicable à Mayotte. - art. D711-8 (VT)
-	  - Code du travail applicable à Mayotte. - art. D712-16 (T)
-	  - Code du travail applicable à Mayotte. - art. D712-2 (T)
-	  - Code du travail applicable à Mayotte. - art. D712-7 (T)
-	  - Code du travail applicable à Mayotte. - art. L325-2 (T)
-	  - Code du travail applicable à Mayotte. - art. L711-1 (V)
-	  - Code du travail applicable à Mayotte. - art. R324-1 (M)
-	  - Code du travail applicable à Mayotte. - art. R711-18 (V)
-	  - Code du travail applicable à Mayotte. - art. R712-12 (T)
-	  - Code du travail applicable à Mayotte. - art. R713-7 (VT)
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L122-1-1
-	  - Code du travail applicable à Mayotte. - art. L122-12
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. L324-8 (V)
-
-
-###### Article L711-6
-
-Seules les entreprises habilitées par l'autorité administrative compétente peuvent conclure des contrats de qualification. 
-
-Cette habilitation est subordonnée soit à la conclusion par l'entreprise, après consultation du comité d'entreprise ou, à
-défaut, des délégués du personnel, s'ils existent, d'une convention avec un établissement d'enseignement public ou un
-organisme de formation alternée public ou privé prévoyant les modalités d'organisation de la formation alternée, soit à
-l'adhésion de l'entreprise à un accord-cadre conclu entre l'Etat et une organisation professionnelle ou
-interprofessionnelle. 
-
-Cet accord-cadre, conclu après consultation des organisations syndicales de salariés représentatives au sens de l'article L.
-412-1, définit les conditions dans lesquelles les entreprises qui y adhèrent et les établissements d'enseignement ou
-organismes de formation mentionnés à l'alinéa précédent participent à la mise en oeuvre d'un programme de formation alternée.
-Il détermine notamment le rôle des tuteurs chargés d'accueillir et de guider les salariés pendant leur temps de présence en
-entreprise. 
-
-Un arrêté du représentant de l'Etat à Mayotte détermine les garanties d'ordre technique et professionnel auxquelles est
-subordonnée l'habilitation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°91-246 du 25 février 1991
-	  - Loi n°91-1379 du 28 décembre 1991
-
-	**Modifié par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 7
-
-	**Cité par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 12 (V)
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 9 (V)
-	  - Code du travail applicable à Mayotte. - art. D711-2 (VT)
-	  - Code du travail applicable à Mayotte. - art. D711-3 (V)
-	  - Code du travail applicable à Mayotte. - art. D712-2 (T)
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2014-577 du 4 juin 2014 - art. 4
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. L324-9 (V)
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L412-1
-
-
-##### Section 2 : Contrat d'orientation
-
-###### Article L711-7
-
-Les formations ayant pour objet de favoriser l'orientation professionnelle des jeunes de plus de seize ans et de moins de
-vingt-six ans rencontrant des difficultés d'accès à l'emploi sont dispensées dans le cadre d'un contrat de travail dénommé
-"contrat d'orientation". L'exécution de ce contrat ne peut conduire à remplacer des emplois permanents, temporaires ou
-saisonniers. Il est conclu après signature d'une convention entre l'entreprise et l'organisme réalisant les actions
-d'orientation professionnelle.
-
-Ce contrat est un contrat de travail à durée déterminée mentionné à l'article L. 122-1-1, d'une durée non renouvelable de
-neuf mois maximum, sauf dans les cas prévus au quatrième alinéa de l'article L. 711-10.
-
-Le contrat d'orientation peut être rompu avant l'échéance de son terme à l'initiative du salarié, lorsque cette rupture a
-pour objet de lui permettre d'occuper un autre emploi ou de suivre une formation conduisant à une qualification.
-
-La durée et les modalités des actions d'orientation professionnelle dispensées pendant le temps de travail ainsi que les
-missions du tuteur chargé d'accueillir et de guider le jeune dans l'entreprise et les moyens mis à sa disposition par
-l'employeur sont fixées par décret.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°91-246 du 25 février 1991
-	  - Loi n°91-1379 du 28 décembre 1991
-
-	**Liens**:
-
-	  - DEPLACE: Ordonnance n°2012-788 du 31 mai 2012 - art. 8
-	  - TRANSFERE: Ordonnance n°2014-577 du 4 juin 2014 - art. 4
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. D313-1 (V)
-	  - Code du travail applicable à Mayotte. - art. D711-16 (VT)
-	  - Code du travail applicable à Mayotte. - art. D712-16 (T)
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L122-1-1
-	  - Code du travail applicable à Mayotte. - art. L711-10
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. L324-10 (V)
-
-
-##### Section 3 : Dispositions communes aux contrats de qualification et d'orientation
-
-###### Article L711-8
-
-Sous réserve de dispositions contractuelles plus favorables, les salariés titulaires des contrats mentionnés aux sections 1
-et 2 du présent chapitre perçoivent une rémunération déterminée en pourcentage du salaire minimum garanti. Ce pourcentage
-ainsi que les conditions de déduction des avantages en nature sont fixés par arrêté du représentant de l'Etat à Mayotte. Ce
-pourcentage peut varier selon l'âge du bénéficiaire.
-
-Ces salariés ne peuvent effectuer d'heures supplémentaires.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°91-246 du 25 février 1991
-	  - Loi n°91-1379 du 28 décembre 1991
-
-	**Liens**:
-
-	  - DEPLACE: Ordonnance n°2012-788 du 31 mai 2012 - art. 8
-	  - TRANSFERE: Ordonnance n°2014-577 du 4 juin 2014 - art. 4
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. L324-11 (V)
-
-
-###### Article L711-9
-
-L'embauche d'un salarié dans le cadre des contrats mentionnés aux sections 1 et 2 du présent chapitre ouvre droit à
-l'exonération des cotisations à la charge de l'employeur dues au titre des assurances sociales, des accidents du travail et
-des allocations familiales.
-
-L'exonération porte sur les cotisations afférentes aux rémunérations dues jusqu'à la fin du contrat sous réserve du respect
-par l'employeur des obligations mises à sa charge par les sections 1 et 2 du présent chapitre. Un décret en Conseil d'Etat
-fixe les conditions dans lesquelles le bénéfice de l'exonération peut être retiré en cas de manquement à ces obligations.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°91-246 du 25 février 1991
-	  - Loi n°91-1379 du 28 décembre 1991
-
-	**Liens**:
-
-	  - DEPLACE: Ordonnance n°2012-788 du 31 mai 2012 - art. 8
-	  - TRANSFERE: Ordonnance n°2014-577 du 4 juin 2014 - art. 4
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. L324-12 (V)
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. R712-12 (T)
-
-
-###### Article L711-10
-
-Les salariés titulaires des contrats de travail mentionnés aux sections 1 et 2 du présent chapitre bénéficient de l'ensemble
-des dispositions du présent code applicables aux autres salariés dans la mesure où elles ne sont pas incompatibles avec leur
-situation de salariés en formation. En particulier, la durée du travail du salarié, incluant le temps passé en formation, ne
-peut excéder la durée légale hebdomadaire du travail dans l'entreprise ni la durée quotidienne du travail fixées par
-l'article L. 212-2. Ils bénéficient du repos hebdomadaire dans les conditions fixées par le chapitre Ier du titre II du livre
-II.
-
-Les titulaires desdits contrats ne sont pas pris en compte, pendant toute la durée du contrat, dans le calcul de l'effectif
-du personnel des entreprises dont ils relèvent pour l'application des dispositions législatives et réglementaires qui se
-réfèrent à une condition d'effectif minimum de salariés.
-
-Est nulle et de nul effet toute clause de remboursement par le salarié à l'employeur des dépenses de formation en cas de
-rupture du contrat de travail.
-
-Les contrats prévus par les sections 1 et 2 du présent chapitre peuvent être renouvelés une fois si les épreuves d'évaluation
-révèlent que leur objet n'a pu être atteint ou en cas de maladie du salarié, d'accident du travail ou de défaillance de
-l'organisme de formation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°91-246 du 25 février 1991
-	  - Loi n°91-1379 du 28 décembre 1991
-
-	**Liens**:
-
-	  - DEPLACE: Ordonnance n°2012-788 du 31 mai 2012 - art. 8
-	  - TRANSFERE: Ordonnance n°2014-577 du 4 juin 2014 - art. 4
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L212-2
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. L324-13 (V)
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. L711-7 (T)
 
 
 ### TITRE II : STAGIAIRE DE LA FORMATION PROFESSIONNELLE
@@ -30762,18 +31269,18 @@ L'Etat, le Département de Mayotte, les employeurs et les organismes collecteurs
 de la rémunération des stagiaires de la formation professionnelle. 
 
 L'institution mentionnée à l'article L. 326-6 y concourt également, le cas échéant pour le compte de l'organisme mentionné à
-l'article L. 327-57.
+l'article L. 327-54.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 9
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 7
 
 	**Cite**:
 
 	  - Code du travail applicable à Mayotte. - art. L326-6
-	  - Code du travail applicable à Mayotte. - art. L327-57
+	  - Code du travail applicable à Mayotte. - art. L327-54
 
 	**Cité par**:
 
@@ -32942,6 +33449,171 @@ applicable à Mayotte " et la référence : " ordonnance n° 45-2339 du 13 octob
 
 	  - Code du travail - art. L7122-1
 	  - Code du travail - art. L7122-12
+
+
+###### Article L811-2
+
+L'activité d'agent artistique, qu'elle soit exercée sous l'appellation d'imprésario, de manager ou sous toute autre
+dénomination, consiste à recevoir mandat à titre onéreux d'un ou de plusieurs artistes du spectacle aux fins de placement et
+de représentation de leurs intérêts professionnels.
+
+Un décret en Conseil d'Etat fixe les modalités du mandat écrit visé au premier alinéa et les obligations respectives à la
+charge des parties.
+
+Nul ne peut exercer l'activité d'agent artistique s'il exerce, directement ou par personne interposée, l'activité de
+producteur d'œuvres cinématographiques ou audiovisuelles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 7
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. L326-36 (T)
+
+
+###### Article L811-3
+
+Les agents artistiques doivent s'inscrire au registre national des agents artistiques. Le registre est destiné à informer les
+artistes et le public ainsi qu'à faciliter la coopération entre Etats membres de l'Union européenne et autres Etats parties à
+l'Espace économique européen. L'inscription sur ce registre est de droit.
+
+Un décret en Conseil d'Etat précise les conditions d'inscription sur le registre ainsi que les modalités de sa tenue par
+l'autorité administrative compétente.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 7
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. L326-37 (T)
+
+
+###### Article L811-4
+
+L'activité d'agent artistique présente un caractère commercial au sens des dispositions du code de commerce.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 7
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. L326-38 (T)
+
+
+###### Article L811-5
+
+Sous réserve du respect de l'incompatibilité prévue à l'article L. 326-36, un agent artistique peut produire un spectacle
+vivant au sens du titre Ier du livre VIII, lorsqu'il est titulaire d'une licence d'entrepreneur de spectacles vivants. 
+
+Dans ce cas, il ne peut percevoir aucune commission sur l'ensemble des artistes composant la distribution du spectacle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 7
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. L326-39 (T)
+
+
+###### Article L811-6
+
+Les sommes que les agents artistiques peuvent percevoir en rémunération de leurs services et notamment du placement se
+calculent en pourcentage sur l'ensemble des rémunérations de l'artiste. Un décret fixe la nature des rémunérations prises en
+compte pour le calcul de la rétribution de l'agent artistique ainsi que le plafond et les modalités de versement de sa
+rémunération.
+
+Ces sommes peuvent, par accord entre l'agent artistique et l'artiste du spectacle bénéficiaire du placement, être en tout ou
+partie mises à la charge de l'artiste. Dans ce cas, l'agent artistique donne quittance à l'artiste du paiement opéré par ce
+dernier.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 7
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. L326-40 (T)
+
+
+###### Article L811-7
+
+Le maire surveille les agences artistiques, leurs succursales et leurs bureaux annexes pour y assurer le maintien de l'ordre
+et le respect des règles d'hygiène.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 7
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. L326-41 (T)
+
+
+###### Article L811-8
+
+Le fait pour un agent artistique de produire un spectacle vivant sans être titulaire d'une licence d'entrepreneur de
+spectacles vivants, en méconnaissance des dispositions de l'article L. 326-39, est puni, en cas de récidive, d'un
+emprisonnement de six mois et d'une amende de 3 750 €.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 7
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. L326-42 (T)
+
+
+###### Article L811-9
+
+Le fait pour un agent artistique titulaire d'une licence d'entrepreneur de spectacles vivants et produisant un spectacle
+vivant de percevoir une commission sur l'ensemble des artistes composant la distribution du spectacle, en méconnaissance des
+dispositions de l'article L. 326-39, est puni, en cas de récidive, d'un emprisonnement de six mois et d'une amende de 3 750
+€.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 7
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. L326-43 (T)
+
+
+###### Article L811-10
+
+Le fait pour un agent artistique établi sur le territoire national de percevoir des sommes en méconnaissance du premier
+alinéa de l'article L. 326-40 est puni, en cas de récidive, d'un emprisonnement de six mois et d'une amende de 3 750 €.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 7
+
+	**Anciens textes**:
+
+	  - Code du travail applicable à Mayotte. - art. L326-44 (T)
 
 
 # Partie réglementaire
