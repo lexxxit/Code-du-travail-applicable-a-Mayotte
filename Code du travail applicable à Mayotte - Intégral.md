@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2014-06-06
+Version Consolidée au 2014-08-06
 
 # Partie législative
 
@@ -1053,20 +1053,21 @@ Toute disposition ou tout acte contraire aux articles L. 053-1 à L. 053-3 est n
 
 ###### Article L053-5
 
-L'employeur prend toutes dispositions nécessaires en vue de prévenir les faits de harcèlement sexuel. 
+L'employeur prend toutes dispositions nécessaires en vue de prévenir les faits de harcèlement sexuel, d'y mettre un terme et
+de les sanctionner. 
 
 Le texte de l'article 222-33 du code pénal est affiché dans les lieux de travail ainsi que dans les locaux ou à la porte des
 locaux où se fait l'embauche.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2012-954 du 6 août 2012 - art. 9
+	  - Loi n°2014-873 du 4 août 2014 - art. 77 (V)
 
 	**Cite**:
 
-	  - Code pénal - art. 222-33 (V)
+	  - Code pénal - art. 222-33
 
 
 ###### Article L053-6
@@ -3888,6 +3889,10 @@ La salariée bénéficie d'une autorisation d'absence pour se rendre aux examens
 2122-1 du code de la santé publique dans le cadre de la surveillance médicale de la grossesse et des suites de
 l'accouchement.
 
+Le conjoint salarié de la femme enceinte ou la personne salariée liée à elle par un pacte civil de solidarité ou vivant
+maritalement avec elle bénéficie également d'une autorisation d'absence pour se rendre à trois de ces examens médicaux
+obligatoires au maximum. 
+
 Ces absences n'entraînent aucune diminution de la rémunération et sont assimilées à une période de travail effectif pour la
 détermination de la durée des congés payés ainsi qu'au regard des droits légaux ou conventionnels que la salariée tient du
 fait de son ancienneté dans l'entreprise.
@@ -3896,16 +3901,12 @@ fait de son ancienneté dans l'entreprise.
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2002-242 du 21 février 2002 - art. 7 () JORF 23 février 2002
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L2122-1 (M)
+	  - Loi n°2014-873 du 4 août 2014 - art. 77 (V)
 
 
 ###### Article L122-48
@@ -6150,7 +6151,18 @@ ladite convention, dont il constitue un avenant ou une annexe.
 
 Les organisations qui sont liées par une convention de branche ou, à défaut, par des accords professionnels, se réunissent,
 au moins une fois par an, pour négocier sur les salaires et, au moins une fois tous les cinq ans, pour examiner la nécessité
-de réviser les classifications.
+de réviser les classifications. Lorsqu'elles portent sur des mesures salariales, la mise en œuvre des mesures de rattrapage
+mentionnées au sixième alinéa est suivie dans le cadre de la négociation annuelle obligatoire sur les salaires.
+
+Ces négociations quinquennales prennent en compte l'objectif d'égalité professionnelle entre les femmes et les hommes et de
+mixité des emplois.
+
+Lorsqu'un écart moyen de rémunération entre les femmes et les hommes est constaté, les organisations liées par une convention
+de branche ou, à défaut, par des accords professionnels font de la réduction de cet écart une priorité.
+
+A l'occasion de l'examen mentionné au premier alinéa, les critères d'évaluation retenus dans la définition des différents
+postes de travail sont analysés, afin d'identifier et de corriger ceux d'entre eux susceptibles d'induire des discriminations
+entre les femmes et les hommes et afin de garantir la prise en compte de l'ensemble des compétences des salariés. 
 
 La négociation sur les salaires est l'occasion, au moins une fois par an, d'un examen, par les parties, de l'évolution
 économique de la situation de l'emploi dans la branche, de son évolution et des prévisions annuelles ou pluriannuelles
@@ -6183,7 +6195,7 @@ Les informations nécessaires à la négociation sont déterminées par voie ré
 
 	**Modifié par**:
 
-	  - Ordonnance n°2008-859 du 28 août 2008 - art. 7
+	  - Loi n°2014-873 du 4 août 2014 - art. 77 (V)
 
 	**Cité par**:
 
@@ -6678,7 +6690,7 @@ b) Les coefficients hiérarchiques afférents aux diverses qualifications profes
 c) Les majorations pour travaux pénibles, physiquement ou nerveusement, dangereux, insalubres ; 
 
 d) Les modalités d'application du principe à travail égal, salaire égal et les procédures du règlement des difficultés
-pouvant naître à ce sujet, compte tenu notamment des situations révélées par l'application de l'article L. 132-12, deuxième
+pouvant naître à ce sujet, compte tenu notamment des situations révélées par l'application de l'article L. 132-12, cinquième
 alinéa ; 
 
 5° Les congés payés ; 
@@ -6754,7 +6766,7 @@ travail susceptibles de survenir entre les employeurs et les salariés liés par
 
 	**Modifié par**:
 
-	  - Ordonnance n°2008-859 du 28 août 2008 - art. 7
+	  - Loi n°2014-873 du 4 août 2014 - art. 77 (V)
 
 	**Cite**:
 
@@ -7372,7 +7384,8 @@ Les différents éléments composant la rémunération sont établis selon des n
 hommes. 
 
 Les catégories et les critères de classification et de promotion professionnelles ainsi que toutes les autres bases de calcul
-de la rémunération, notamment les modes d'évaluation des emplois, doivent être communs aux salariés des deux sexes.
+de la rémunération, notamment les modes d'évaluation des emplois, sont établis selon des règles qui assurent l'application du
+principe fixé à l'article L. 140-2.
 
 **Liens relatifs à cet article**
 
@@ -7383,7 +7396,11 @@ de la rémunération, notamment les modes d'évaluation des emplois, doivent êt
 
 	**Modifié par**:
 
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+	  - Loi n°2014-873 du 4 août 2014 - art. 77 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L140-2
 
 	**Cité par**:
 
@@ -11364,6 +11381,8 @@ d'absence de :
 
 - quatre jours pour le mariage du salarié ;
 
+- quatre jours pour la conclusion d'un pacte civil de solidarité ; 
+
 - trois jours pour chaque naissance survenue à son foyer ou pour l'arrivée d'un enfant placé en vue de son adoption ; ces
 jours d'absence ne peuvent se cumuler avec les congés accordés pour ce même enfant en vertu des articles L. 122-46 et L.
 122-47 ;
@@ -11388,7 +11407,7 @@ Ils sont assimilés à des jours de travail effectif pour la détermination de l
 
 	**Modifié par**:
 
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 3
+	  - Loi n°2014-873 du 4 août 2014 - art. 77 (V)
 
 	**Cite**:
 
@@ -28141,9 +28160,10 @@ l'entreprise. A ce titre, ce rapport comporte une analyse sur la base d'indicate
 éléments chiffrés, définis par décret et éventuellement complétés par des indicateurs qui tiennent compte de la situation
 particulière de l'entreprise, permettant d'apprécier, pour chacune des catégories professionnelles de l'entreprise, la
 situation respective des femmes et des hommes en matière d'embauche, de formation, de promotion professionnelle, de
-qualification, de classification, de conditions de travail et de rémunération effective. Ce rapport recense les mesures
-prises au cours de l'année écoulée en vue d'assurer l'égalité professionnelle, les objectifs prévus pour l'année à venir et
-la définition qualitative et quantitative des actions à mener à ce titre ainsi que l'évaluation de leur coût.
+qualification, de classification, de conditions de travail, de sécurité et de santé au travail et de rémunération effective.
+Ce rapport recense les mesures prises au cours de l'année écoulée en vue d'assurer l'égalité professionnelle, les objectifs
+prévus pour l'année à venir et la définition qualitative et quantitative des actions à mener à ce titre ainsi que
+l'évaluation de leur coût.
 
 Dans le cas où des actions prévues par le rapport précédent ou demandées par le comité n'ont pas été réalisées, le rapport
 donne les motifs de cette inexécution.
@@ -28157,16 +28177,26 @@ Les indicateurs mentionnés au premier alinéa du présent article sont portés 
 par voie d'affichage sur les lieux de travail et, éventuellement, par tout autre moyen adapté aux conditions d'exercice de
 l'activité de l'entreprise.
 
+Dans les entreprises de moins de trois cents salariés, le rapport mentionné au premier alinéa recoupe des données salariales
+en fonction de l'âge, du niveau de qualification et du sexe des salariés à postes équivalents, de façon à mesurer d'éventuels
+écarts dans le déroulement de carrière. Il analyse les écarts de salaires et de déroulement de carrière en fonction de leur
+âge, de leur qualification et de leur ancienneté. Il décrit l'évolution des taux de promotion respectifs des femmes et des
+hommes par métier dans l'entreprise.
+
+Dans les entreprises de trois cents salariés et plus, le rapport mentionné au premier alinéa analyse les écarts de salaires
+et les déroulements de carrières en fonction de leur âge, de leur qualification et de leur sexe. Il décrit l'évolution des
+taux de promotion respectifs des femmes et des hommes par métier dans une même entreprise.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 23 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+	  - Loi n°2014-873 du 4 août 2014 - art. 77 (V)
 
 	**Cité par**:
 
@@ -31132,7 +31162,10 @@ la santé publique ;
 
 10° Les actions permettant aux salariés de faire valider les acquis de leurs expériences en vue de l'acquisition d'un diplôme
 ou d'un titre à finalité professionnelle en application des articles L. 335-5, L. 335-6, L. 613-3 et L. 613-4 du code de
-l'éducation.
+l'éducation ;
+
+11° Les actions de promotion de la mixité dans les entreprises, de sensibilisation à la lutte contre les stéréotypes sexistes
+et pour l'égalité professionnelle entre les femmes et les hommes.
 
 **Liens relatifs à cet article**
 
@@ -31168,9 +31201,9 @@ l'éducation.
 	  - Code du travail applicable à Mayotte. - art. R721-1 (V)
 	  - Code général des collectivités territoriales - art. R3522-2 (V)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Ordonnance n°2012-788 du 31 mai 2012 - art. 8
+	  - Loi n°2014-873 du 4 août 2014 - art. 77 (V)
 
 	**Cite**:
 
