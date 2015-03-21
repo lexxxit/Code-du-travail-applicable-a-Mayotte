@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2014-11-06
+Version Consolidée au 2015-03-22
 
 # Partie législative
 
@@ -16658,8 +16658,8 @@ I.-Le Conseil national de l'emploi, prévu à l'article L. 5112-1 du code du tra
 métropole et d'outre-mer, est également compétent pour connaître des sujets relatifs à l'emploi à Mayotte. 
 
 Il concourt à la définition des orientations stratégiques des politiques de l'emploi à Mayotte. Il veille à la mise en
-cohérence des actions des différentes institutions et organismes mentionnés aux articles L. 326-6
-    et L. 327-54 et à l'évaluation des actions engagées. 
+cohérence des actions des différentes institutions et organismes mentionnés aux articles L. 326-6 et L. 327-54 et à
+l'évaluation des actions engagées. 
 
 A cette fin, il peut être consulté : 
 
@@ -16671,7 +16671,7 @@ II.-Le conseil de l'emploi de Mayotte est présidé par le représentant de l'Et
 
 1° Des organisations professionnelles d'employeurs et de salariés ; 
 
-2° Du conseil général et des principales communes ou de leurs groupements ; 
+2° Du conseil départemental et des principales communes ou de leurs groupements ; 
 
 3° Des administrations intéressées et des services scolaires et universitaires ; 
 
@@ -16691,14 +16691,14 @@ III.-Un décret précise les conditions d'application du présent article.
 
 	**Modifié par**:
 
+	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 7
 
 	**Cite**:
 
 	  - Code du travail - art. L5112-1
-	  - Code du travail applicable à Mayotte. - art. L326-10
+	  - Code du travail applicable à Mayotte. - art. L326-10 (V)
 	  - Code du travail applicable à Mayotte. - art. L326-6
-	  - Code du travail applicable à Mayotte. - art. L327-57
 
 
 ###### Article L321-8
