@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2015-03-22
+Version Consolidée au 2015-08-08
 
 # Partie législative
 
@@ -18552,6 +18552,183 @@ Un décret en Conseil d'Etat détermine les conditions d'application de la prés
 	**Créé par**:
 
 	  - Loi n°2012-1189 du 26 octobre 2012 - art. 12
+
+
+#### Chapitre III : Autres contrats de travail aidés
+
+##### Section 1 : Contrat relatif aux activités d'adultes-relais
+
+##### Sous-section 1 : Objet
+
+###### Article L323-1
+
+Le contrat relatif aux activités d'adultes-relais a pour objet d'améliorer, dans les quartiers prioritaires de la politique
+de la ville et les autres territoires prioritaires des contrats de ville, les relations entre les habitants de ces quartiers
+et les services publics, ainsi que les rapports sociaux dans les espaces publics ou collectifs. 
+
+Il donne lieu : 
+
+1° A la conclusion d'une convention entre l'Etat et l'employeur dans les conditions prévues à la sous-section 2 ; 
+
+2° A la conclusion d'un contrat de travail entre l'employeur et le bénéficiaire de la convention dans les conditions prévues
+à la sous-section 3 ; 
+
+3° A l'attribution d'une aide financière dans les conditions prévues à la sous-section 4.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-990 du 6 août 2015 - art. 298
+
+
+##### Sous-section 2 : Convention
+
+###### Article L323-2
+
+L'Etat peut conclure des conventions ouvrant droit au bénéfice de contrats relatifs à des activités d'adultes-relais avec : 
+
+1° Les collectivités territoriales et les établissements publics de coopération intercommunale, ainsi que leurs
+établissements publics ; 
+
+2° Les établissements publics de santé ; 
+
+3° La société immobilière de Mayotte ; 
+
+4° Les organismes de droit privé à but non lucratif ; 
+
+5° Les personnes morales de droit privé chargées de la gestion d'un service public.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-990 du 6 août 2015 - art. 298
+
+
+##### Sous-section 3 : Contrat de travail
+
+###### Article L323-3
+
+Le contrat de travail relatif à des activités d'adultes-relais peut être conclu avec des personnes âgées d'au moins trente
+ans, sans emploi ou bénéficiant, sous réserve qu'il soit mis fin à ce contrat, d'un contrat d'accompagnement dans l'emploi et
+résidant dans un quartier prioritaire de la politique de la ville ou dans un autre territoire prioritaire des contrats de
+ville.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-990 du 6 août 2015 - art. 298
+
+
+###### Article L323-4
+
+Le contrat relatif à des activités d'adultes-relais est un contrat de travail de droit privé à durée indéterminée ou à durée
+déterminée conclu en application du premier alinéa de l'article L. 122-1-1 dans la limite d'une durée de trois ans
+renouvelable une fois. 
+
+Les collectivités territoriales et les autres personnes morales de droit public mentionnées à l'article L. 323-2, à
+l'exception des établissements publics industriels et commerciaux, ne peuvent conclure que des contrats de travail à durée
+déterminée, dans les conditions mentionnées à la présente section. 
+
+Le contrat à durée déterminée comporte une période d'essai d'un mois renouvelable une fois.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-990 du 6 août 2015 - art. 298
+
+
+###### Article L323-5
+
+Sans préjudice des cas prévus à l'article L. 122-10, le contrat de travail relatif à des activités d'adultes-relais peut être
+rompu, à l'expiration de chacune des périodes annuelles de son exécution, à l'initiative du salarié, sous réserve du respect
+d'un préavis de deux semaines, ou de l'employeur, s'il justifie d'une cause réelle et sérieuse. 
+
+Dans ce dernier cas, les dispositions relatives à l'entretien préalable au licenciement, prévues aux articles L. 122-27, L.
+320-11 à L. 320-13 et L. 320-38, et celles relatives au préavis, prévues à l'article L. 122-19, sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-990 du 6 août 2015 - art. 298
+
+
+###### Article L323-6
+
+L'employeur qui décide de rompre le contrat du salarié pour une cause réelle et sérieuse notifie cette rupture par lettre
+recommandée avec demande d'avis de réception. Cette lettre ne peut être expédiée au salarié moins de deux jours francs après
+la date fixée pour l'entretien préalable. La date de présentation de la lettre fixe le point de départ du préavis.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-990 du 6 août 2015 - art. 298
+
+
+###### Article L323-7
+
+Le salarié dont le contrat est rompu par son employeur dans les conditions prévues à l'article L. 323-5 bénéficie d'une
+indemnité calculée sur la base de la rémunération perçue. 
+
+Le montant retenu pour le calcul de cette indemnité ne peut cependant excéder le montant perçu par le salarié au titre des
+dix-huit derniers mois d'exécution de son contrat de travail. Son taux est égal à 10 % de la rémunération totale brute versée
+au salarié.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-990 du 6 août 2015 - art. 298
+
+
+###### Article L323-8
+
+La méconnaissance par l'employeur des dispositions relatives à la rupture du contrat de travail à durée déterminée prévues à
+la présente sous-section ouvre droit pour le salarié à des dommages et intérêts correspondant au préjudice subi. 
+
+Il en est de même lorsque la rupture du contrat intervient à la suite du non-respect de la convention mentionnée à l'article
+L. 323-2 ayant entraîné sa dénonciation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-990 du 6 août 2015 - art. 298
+
+
+##### Sous-section 4 : Aide financière
+
+###### Article L323-9
+
+Les employeurs mentionnés à l'article L. 323-2 bénéficient d'une aide financière de l'Etat. 
+
+Cette aide n'est pas imposable pour les personnes non assujetties à l'impôt sur les sociétés. 
+
+Cette aide ne peut être cumulée avec une autre aide de l'Etat à l'emploi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-990 du 6 août 2015 - art. 298
+
+
+##### Sous-section 5 : Dispositions d'application
+
+###### Article L323-10
+
+Un décret détermine les conditions d'application de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-990 du 6 août 2015 - art. 298
 
 
 #### Chapitre IV : Dispositions particulières relatives à l'emploi des jeunes
