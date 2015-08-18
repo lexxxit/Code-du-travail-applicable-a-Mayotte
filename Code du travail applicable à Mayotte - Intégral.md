@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2015-08-08
+Version Consolidée au 2015-08-19
 
 # Partie législative
 
@@ -5246,7 +5246,8 @@ Ces contrats peuvent, aux fins de développer l'expérience et les compétences 
 d'immersion auprès d'un autre employeur dans le cadre d'un prêt de main-d'œuvre à but non lucratif. Un décret détermine la
 durée et les conditions d'agrément et d'exécution de cette période d'immersion. 
 
-La durée de ces contrats ne peut être inférieure à quatre mois. 
+La durée de ces contrats ne peut être inférieure à quatre mois, sauf pour les personnes ayant fait l'objet d'une condamnation
+et bénéficiant d'un aménagement de peine. 
 
 Ces contrats peuvent être renouvelés dans la limite d'une durée totale de vingt-quatre mois. 
 
@@ -5274,19 +5275,24 @@ l'article L. 326-6 ou une action concourant à son insertion professionnelle ;
 indéterminée ou à durée déterminée au moins égale à six mois. 
 
 En cas d'embauche à l'issue de cette évaluation en milieu de travail ou de cette période d'essai, le contrat est rompu sans
-préavis.
+préavis. 
+
+Par dérogation aux dispositions relatives à la rupture avant terme du contrat de travail à durée déterminée prévues à
+l'article L. 122-1-1, le contrat peut être rompu avant son terme, à l'initiative du salarié, lorsque la rupture a pour objet
+de lui permettre de suivre une formation conduisant à une qualification prévue à l'article L. 711-1-2.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Ordonnance n°2002-411 du 27 mars 2002 - art. 7 (V)
+	  - Ordonnance n°2002-411 du 27 mars 2002 - art. 7
 	  - Code du travail applicable à Mayotte. - art. L122-1-1
-	  - Code du travail applicable à Mayotte. - art. L326-6 (V)
+	  - Code du travail applicable à Mayotte. - art. L326-6
+	  - Code du travail applicable à Mayotte. - art. L711-1-2 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 1
+	  - Loi n°2015-994 du 17 août 2015 - art. 47
 
 	**Cité par**:
 
@@ -5294,7 +5300,7 @@ préavis.
 	  - Code du travail applicable à Mayotte. - art. D127-10-2 (V)
 	  - Code du travail applicable à Mayotte. - art. D127-10-3 (V)
 	  - Code du travail applicable à Mayotte. - art. D127-10-4 (V)
-	  - Code du travail applicable à Mayotte. - art. L127-11 (M)
+	  - Code du travail applicable à Mayotte. - art. L127-11 (V)
 	  - Code du travail applicable à Mayotte. - art. L127-2 (V)
 
 
@@ -5423,7 +5429,8 @@ Ces contrats peuvent, aux fins de développer l'expérience et les compétences 
 d'immersion auprès d'un autre employeur dans les conditions prévues à l'article L. 127-5. Un décret détermine la durée et les
 conditions d'agrément et d'exécution de cette période d'immersion. 
 
-La durée de ces contrats ne peut être inférieure à quatre mois. 
+La durée de ces contrats ne peut être inférieure à quatre mois, sauf pour les personnes ayant fait l'objet d'une condamnation
+et bénéficiant d'un aménagement de peine. 
 
 Ces contrats peuvent être renouvelés dans la limite d'une durée totale de vingt-quatre mois. 
 
@@ -5451,7 +5458,11 @@ l'article L. 326-6 ou une action concourant à son insertion professionnelle ;
 indéterminée ou à durée déterminée au moins égale à six mois. 
 
 En cas d'embauche à l'issue de cette évaluation en milieu de travail ou de cette période d'essai, le contrat est rompu sans
-préavis.
+préavis. 
+
+Par dérogation aux dispositions relatives à la rupture avant terme du contrat de travail à durée déterminée prévues à
+l'article L. 122-1-1, le contrat peut être rompu avant son terme, à l'initiative du salarié, lorsque la rupture a pour objet
+de lui permettre de suivre une formation conduisant à une qualification prévue à l'article L. 711-1-2.
 
 **Liens relatifs à cet article**
 
@@ -5459,12 +5470,13 @@ préavis.
 
 	  - Ordonnance n°2002-411 du 27 mars 2002 - art. 7
 	  - Code du travail applicable à Mayotte. - art. L122-1-1
-	  - Code du travail applicable à Mayotte. - art. L127-5
+	  - Code du travail applicable à Mayotte. - art. L127-5 (V)
 	  - Code du travail applicable à Mayotte. - art. L326-6
+	  - Code du travail applicable à Mayotte. - art. L711-1-2 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 1
+	  - Loi n°2015-994 du 17 août 2015 - art. 47
 
 	**Cité par**:
 
@@ -5546,7 +5558,8 @@ Ces contrats peuvent, aux fins de développer l'expérience et les compétences 
 d'immersion auprès d'un autre employeur dans le cadre d'un prêt de main-d'œuvre à but non lucratif. Un décret détermine la
 durée et les conditions d'agrément et d'exécution de cette période d'immersion. 
 
-La durée de ces contrats ne peut être inférieure à quatre mois. 
+La durée de ces contrats ne peut être inférieure à quatre mois, sauf pour les personnes ayant fait l'objet d'une condamnation
+et bénéficiant d'un aménagement de peine. 
 
 Ces contrats peuvent être renouvelés dans la limite d'une durée totale de vingt-quatre mois. 
 
@@ -5574,7 +5587,11 @@ l'article L. 326-6 ou une action concourant à son insertion professionnelle ;
 indéterminée ou à durée déterminée au moins égale à six mois. 
 
 En cas d'embauche à l'issue de cette évaluation en milieu de travail ou de cette période d'essai, le contrat est rompu sans
-préavis.
+préavis. 
+
+Par dérogation aux dispositions relatives à la rupture avant terme du contrat de travail à durée déterminée prévues à
+l'article L. 122-1-1, le contrat peut être rompu avant son terme, à l'initiative du salarié, lorsque la rupture a pour objet
+de lui permettre de suivre une formation conduisant à une qualification prévue à l'article L. 711-1-2.
 
 **Liens relatifs à cet article**
 
@@ -5583,10 +5600,11 @@ préavis.
 	  - Ordonnance n°2002-411 du 27 mars 2002 - art. 7
 	  - Code du travail applicable à Mayotte. - art. L122-1-1
 	  - Code du travail applicable à Mayotte. - art. L326-6
+	  - Code du travail applicable à Mayotte. - art. L711-1-2 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 1
+	  - Loi n°2015-994 du 17 août 2015 - art. 47
 
 	**Cité par**:
 
@@ -17292,10 +17310,10 @@ L'attribution de l'aide peut être prolongée dans la limite d'une durée de vin
 ###### Article L322-11
 
 Il peut être dérogé, selon des modalités fixées par voie réglementaire, à la durée maximale pour laquelle est attribuée une
-aide à l'insertion professionnelle, soit lorsque celle-ci concerne un salarié âgé de cinquante ans et plus bénéficiaire du
-revenu de solidarité active ou de l'allocation pour adulte handicapé ou une personne reconnue travailleur handicapé, soit
-pour permettre d'achever une action de formation professionnelle en cours de réalisation et prévue au titre de l'aide
-attribuée. La durée de ce renouvellement ne peut excéder le terme de l'action concernée. 
+aide à l'insertion professionnelle, soit lorsque celle-ci concerne un salarié âgé de cinquante ans et plus
+rencontrant des difficultés particulières qui font obstacle à son insertion durable dans l'emploi, soit pour permettre
+d'achever une action de formation professionnelle en cours de réalisation et prévue au titre de l'aide attribuée. La durée de
+ce renouvellement ne peut excéder le terme de l'action concernée. 
 
 A titre exceptionnel, lorsque des salariés âgés de cinquante ans et plus ou des personnes reconnues travailleurs handicapés
 embauchés dans les ateliers et chantiers d'insertion rencontrent des difficultés particulières qui font obstacle à leur
@@ -17309,8 +17327,7 @@ conduites dans le cadre de la convention initiale.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 3
-	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 7
+	  - Loi n°2015-994 du 17 août 2015 - art. 44
 
 	**Cite**:
 
@@ -17382,12 +17399,13 @@ Les dispositions relatives au nombre maximum de renouvellement, prévues par l'a
 
 Le contrat de travail, associé à l'attribution d'une aide à l'insertion professionnelle au titre d'un contrat
 d'accompagnement dans l'emploi, conclu pour une durée déterminée, peut être prolongé dans la limite d'une durée totale de
-vingt-quatre mois, ou de cinq ans pour les salariés âgés de cinquante ans et plus bénéficiaires du revenu de solidarité
-active ou de l'allocation pour adulte handicapé, ainsi que pour les personnes reconnues travailleurs handicapés. 
+vingt-quatre mois, ou de cinq ans pour les salariés âgés de cinquante ans et plus rencontrant des difficultés particulières
+qui font obstacle à leur insertion durable dans l'emploi. 
 
 A titre dérogatoire, ce contrat de travail peut être prolongé au-delà de la durée maximale prévue, en vue de permettre
 d'achever une action de formation professionnelle en cours de réalisation à l'échéance du contrat et prévue au titre de
-l'aide attribuée. La durée de cette prolongation ne peut excéder le terme de l'action concernée. 
+l'aide attribuée, sans que cette prolongation puisse excéder le terme de l'action concernée ou, pour les salariés âgés de
+cinquante-huit ans ou plus, jusqu'à la date à laquelle ils sont autorisés à faire valoir leurs droits à la retraite. 
 
 A titre exceptionnel, lorsque des salariés âgés de cinquante ans et plus ou des personnes reconnues travailleurs handicapés
 embauchés dans les ateliers et chantiers d'insertion rencontrent des difficultés particulières qui font obstacle à leur
@@ -17401,8 +17419,7 @@ d'accompagnement et de formation conduites dans le cadre de la durée initialeme
 
 	**Modifié par**:
 
-	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 3
-	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 7
+	  - Loi n°2015-994 du 17 août 2015 - art. 44
 
 	**Cite**:
 
@@ -17732,10 +17749,9 @@ contrat de travail.
 L'attribution de l'aide peut être prolongée dans la limite d'une durée totale de vingt-quatre mois. 
 
 Il peut être dérogé, selon des modalités fixées par voie réglementaire, à la durée maximale pour laquelle est attribuée une
-aide à l'insertion professionnelle, soit lorsque celle-ci concerne un salarié âgé de cinquante ans ou plus bénéficiaire du
-revenu de solidarité active ou de l'allocation pour adulte handicapé ou une personne reconnue travailleur handicapé, soit
-pour permettre d'achever une action de formation professionnelle en cours de réalisation et prévue au titre de l'aide
-attribuée. 
+aide à l'insertion professionnelle, soit lorsque celle-ci concerne un salarié âgé de cinquante ans ou plus
+rencontrant des difficultés particulières qui font obstacle à son insertion durable dans l'emploi, soit pour permettre
+d'achever une action de formation professionnelle en cours de réalisation et prévue au titre de l'aide attribuée. 
 
 La durée de ce renouvellement ne peut excéder le terme de l'action concernée.
 
@@ -17743,7 +17759,7 @@ La durée de ce renouvellement ne peut excéder le terme de l'action concernée.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 7
+	  - Loi n°2015-994 du 17 août 2015 - art. 44
 
 	**Cité par**:
 
@@ -17821,14 +17837,17 @@ applicables.
 
 Le contrat de travail associé à une aide à l'insertion professionnelle attribuée au titre d'un contrat initiative-emploi,
 conclu à durée déterminée, peut être prolongé dans la limite d'une durée totale de vingt-quatre mois, ou de cinq ans pour les
-salariés âgés de cinquante ans et plus bénéficiaires du revenu de solidarité active ou de l'allocation pour adulte handicapé,
-ainsi que pour les personnes reconnues travailleurs handicapés.
+salariés âgés de cinquante ans et plus rencontrant des difficultés particulières qui font obstacle à leur insertion durable
+dans l'emploi.
+
+A titre dérogatoire, pour les salariés âgés de cinquante-huit ans ou plus, ce contrat de travail peut être prolongé jusqu'à
+la date à laquelle ils sont autorisés à faire valoir leurs droits à la retraite.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 7
+	  - Loi n°2015-994 du 17 août 2015 - art. 44
 
 	**Cité par**:
 
@@ -17873,14 +17892,15 @@ rupture a pour objet de lui permettre :
 
 ###### Article L322-38
 
-La durée hebdomadaire du travail d'un salarié titulaire d'un contrat de travail associé à une  aide à l'insertion
-professionnelle au titre d'un contrat initiative-emploi ne peut être inférieure à vingt heures.
+La durée hebdomadaire du travail du titulaire d'un contrat initiative-emploi ne peut être inférieure à vingt heures, sauf
+lorsque la décision d'attribution de l'aide le prévoit pour répondre aux besoins d'un salarié âgé de soixante ans ou plus et
+éligible à un dispositif d'intéressement à la reprise d'activité des bénéficiaires des allocations du régime de solidarité.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2012-1189 du 26 octobre 2012 - art. 13
+	  - Loi n°2015-994 du 17 août 2015 - art. 44
 
 
 ###### Article L322-39
