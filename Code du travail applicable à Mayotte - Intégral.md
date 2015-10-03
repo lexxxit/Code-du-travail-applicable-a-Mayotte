@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2015-08-19
+Version Consolidée au 2015-10-04
 
 # Partie législative
 
@@ -34769,6 +34769,992 @@ En cas de récidive, les peines prévues pour les contraventions de la 5e classe
 	  - Code du travail applicable à Mayotte. - art. R154-1 (T)
 
 
+#### CHAPITRE VII : Insertion par l'activité économique
+
+##### Section 1 : Entreprise d'insertion 
+
+##### Sous-section 1 : Convention 
+
+
+
+###### Article R127-1
+
+Après consultation du conseil départemental de l'insertion par l'activité économique de Mayotte, et en tenant compte de
+l'offre existante pour assurer un développement équilibré des actions d'insertion, le préfet peut conclure les conventions
+prévues à l'article L. 127-2 avec des entreprises candidates au conventionnement d'entreprise d'insertion, quelle que soit
+leur forme juridique, contribuant à l'insertion professionnelle des personnes mentionnées à l'article L. 127-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 1
+
+
+###### Article R127-2
+
+La convention conclue avec une entreprise d'insertion comporte notamment : 
+
+1° Une présentation du projet d'insertion de la structure précisant : 
+
+a) Les caractéristiques générales de la structure ; 
+
+b) Les principales caractéristiques des personnes en difficulté embauchées ; 
+
+c) Les modalités d'accompagnement des salariés en insertion et de collaboration avec, d'une part, Pôle emploi et, d'autre
+part, les organismes chargés de l'insertion sociale et professionnelle de ces personnes ; 
+
+d) Le cas échéant, la mention de l'existence d'une autre convention au titre d'une structure de l'insertion par l'activité
+économique ; 
+
+e) L'adéquation du projet économique et social de la structure avec l'environnement local et l'offre d'insertion déjà
+existante ; 
+
+2° La présentation des moyens en personnel ainsi que des moyens matériels et financiers mobilisés pour mettre en œuvre le
+projet d'insertion de la structure et accomplir les tâches administratives et les obligations comptables résultant de
+l'activité de l'entreprise d'insertion ; 
+
+3° Le nombre de postes d'insertion ouvrant droit à l'aide financière prévue à l'article R. 127-7 ; 
+
+4° Les engagements d'insertion pris par la structure et les indicateurs destinés à rendre compte des actions et des
+résultats ; 
+
+5° Les modalités de dépôt des offres d'emploi auprès de Pôle emploi ; 
+
+6° La nature et le montant des autres aides publiques directes ou privées dont la structure a bénéficié les années
+antérieures ; 
+
+7° Les règles selon lesquelles sont rémunérés les salariés en insertion et, le cas échéant, la nature des différents contrats
+proposés ; 
+
+8° La durée collective de travail applicable dans la structure ; 
+
+9° Les modalités de suivi, de contrôle et d'évaluation de la convention.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 1
+
+
+###### Article R127-3
+
+La convention peut être conclue pour une durée maximale de trois ans avec des structures présentant des perspectives de
+viabilité économique. Elle peut être renouvelée selon la même procédure. 
+
+Les stipulations financières des conventions pluriannuelles font l'objet d'avenants annuels. 
+
+La structure transmet chaque année au préfet ses comptes annuels et un bilan d'activité précisant pour les salariés en
+insertion, les actions mises en œuvre et leurs résultats à l'issue du parcours dans la structure. 
+
+Ce document précise les réalisations en termes de suivi, d'accompagnement social et professionnel, d'encadrement des
+personnes présentant des difficultés sociales et professionnelles particulières, comportant notamment les mentions
+suivantes : 
+
+1° Les moyens humains et matériels affectés à la réalisation de ces actions ; 
+
+2° Les caractéristiques des personnes embauchées et de leur contrat de travail ; 
+
+3° La nature, l'objet, la durée des actions de suivi individualisé et d'accompagnement social et professionnel des
+personnes ; 
+
+4° Le cas échéant, les propositions d'action sociale faites à la personne pendant la durée de l'action et avant la sortie de
+la structure ; 
+
+5° Les propositions d'orientation professionnelle, de formation préqualifiante ou qualifiante, ou d'emploi faites aux
+personnes ainsi que les suites qui leur auront été données ; 
+
+6° Les résultats en termes d'accès et de retour à l'emploi des personnes sorties de la structure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 1
+
+
+###### Article R127-4
+
+Le préfet contrôle l'exécution de la convention. L'employeur lui fournit, à sa demande, tout élément permettant de vérifier
+la bonne exécution de la convention, la réalité des actions d'insertion mises en œuvre ainsi que leurs résultats.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 1
+
+
+###### Article R127-5
+
+En cas de non-respect des dispositions de la convention par l'employeur, le préfet l'informe par lettre recommandée ou remise
+en main propre de son intention de résilier la convention. L'employeur dispose d'un délai, qui ne peut être inférieur à un
+mois, pour faire connaître ses observations. 
+
+Le préfet peut alors demander le reversement des sommes indûment perçues.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 1
+
+
+###### Article R127-6
+
+Lorsque l'aide financière est obtenue à la suite de fausses déclarations ou lorsque la convention est détournée de son objet,
+le préfet résilie la convention après avoir observé la procédure prévue à l'article L. 127-5. Les sommes indûment perçues
+donnent alors lieu à reversement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 1
+
+
+##### Sous-section 2 : Aide financière 
+
+
+
+###### Article R127-7
+
+L'embauche des personnes mentionnées à l'article L. 127-1 par les entreprises d'insertion ouvre droit, dans la limite du
+nombre de postes d'insertion fixé par la convention, à une aide financière.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 28 février 2017 - art. 3 (V)
+
+
+###### Article R127-8
+
+L'aide financière est versée à l'entreprise d'insertion pour chaque poste de travail occupé à temps plein. Le cas échéant, le
+montant de l'aide est réduit à due proportion de l'occupation des postes. 
+
+Son montant maximum et ses conditions de versement sont fixés par arrêté conjoint des ministres chargés de l'emploi et du
+budget.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 1
+
+
+###### Article R127-9
+
+L'aide financière mentionnée à l'article R. 127-7 est versée, pour le compte de l'Etat, par l'Agence de services et de
+paiement. 
+
+Cette aide ne peut se cumuler pour un même poste avec une autre aide à l'emploi financée par l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 1
+
+
+###### Article R127-10
+
+Lorsque la durée du travail prévue au contrat de travail du salarié est inférieure à la durée légale hebdomadaire, le montant
+de l'aide au poste qu'il occupe est réduit par application du rapport entre la durée prévue au contrat et : 
+
+1° La durée collective applicable à l'organisme employeur si cette durée est au moins égale à la durée légale hebdomadaire ; 
+
+2° La durée légale hebdomadaire si la durée collective du travail applicable à l'organisme employeur est inférieure à celle-
+ci.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 1
+
+
+##### Section 2 : Association intermédiaire 
+
+
+##### Sous-section 1 : Convention 
+
+###### Article R127-11
+
+Après consultation du conseil départemental de l'insertion par l'activité économique de Mayotte et en tenant compte de
+l'offre existante pour assurer un développement équilibré des actions d'insertion, le préfet peut conclure les conventions
+prévues à l'article L. 127-2 avec des associations candidates au statut d'association intermédiaire contribuant à l'insertion
+professionnelle des personnes mentionnées à l'article L. 127-1. Cette convention peut porter sur tout ou partie des activités
+d'insertion des associations candidates.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 1
+
+
+###### Article R127-12
+
+La convention conclue avec une association intermédiaire comporte notamment : 
+
+1° Une présentation du projet d'insertion de la structure précisant : 
+
+a) Les caractéristiques générales de la structure ; 
+
+b) Les principales caractéristiques des personnes en difficulté embauchées ; 
+
+c) Les modalités d'accompagnement des personnes accueillies et des salariés en insertion ainsi que les modalités de
+collaboration avec, d'une part, Pôle emploi et, d'autre part, les organismes chargés de l'insertion sociale et
+professionnelle de ces personnes ; 
+
+d) Le cas échéant, la mention de l'existence d'une autre convention au titre d'une structure de l'insertion par l'activité
+économique ; 
+
+e) L'adéquation du projet économique et social de la structure avec l'environnement local et l'offre d'insertion déjà
+existante ; 
+
+f) Le territoire dans lequel l'association se propose d'exercer son activité ; 
+
+2° La présentation des moyens en personnel ainsi que des moyens matériels et financiers mobilisés pour : 
+
+a) Accomplir les tâches administratives et les obligations comptables résultant de l'activité de l'association ; 
+
+b) Mettre en œuvre le projet d'insertion de la structure ; 
+
+c) Assurer une permanence d'une durée au moins équivalente à trois jours par semaine pour l'accueil des publics et la
+réception des offres d'activité ; 
+
+3° La nature et le montant de l'aide financière prévue à l'article R. 127-22 susceptible d'être attribuée au titre de
+l'accompagnement et du suivi social et professionnels de l'ensemble des personnes mises à disposition par la structure en vue
+de leur accès ou de leur retour à l'emploi durable ; 
+
+4° Les engagements d'insertion pris par la structure et les indicateurs destinés à rendre compte des actions et des
+résultats ; 
+
+5° Les conditions de coopération envisagées avec Pôle emploi afin de favoriser l'insertion dans l'emploi des personnes dont
+l'association assure le suivi ainsi que les modalités de dépôt des offres d'emploi auprès de cette institution ; 
+
+6° La nature et le montant des autres aides publiques directes ou privées dont la structure a bénéficié les années
+antérieures ; 
+
+7° Les modalités de suivi, de contrôle et d'évaluation de la convention.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 28 février 2017 - art. 3 (V)
+
+
+###### Article R127-13
+
+La convention peut être conclue pour une durée maximale de trois ans avec des structures présentant des perspectives de
+viabilité économique. Elle peut être renouvelée selon la même procédure. 
+
+Les stipulations financières des conventions pluriannuelles font l'objet d'avenants annuels. 
+
+La structure transmet chaque année ses comptes annuels et un bilan d'activité précisant pour les salariés en insertion, les
+actions mises en œuvre et leurs résultats à l'issue du parcours dans la structure. 
+
+Ce document précise les réalisations en termes de suivi, d'accompagnement social et professionnel, d'encadrement des
+personnes présentant des difficultés sociales et professionnelles particulières, comportant notamment les mentions
+suivantes : 
+
+1° Les moyens humains et matériels affectés à la réalisation de ces actions ; 
+
+2° Les caractéristiques des personnes embauchées et de leur contrat de travail ; 
+
+3° La nature, l'objet, la durée des actions de suivi individualisé et d'accompagnement social et professionnel des
+personnes ; 
+
+4° Le cas échéant, les propositions d'action sociale faites à la personne pendant la durée de l'action et avant la sortie de
+la structure ; 
+
+5° Les propositions d'orientation professionnelle, de formation préqualifiante ou qualifiante, ou d'emploi faites aux
+personnes ainsi que les suites qui leur auront été données ; 
+
+6° Les résultats en termes d'accès et de retour à l'emploi des personnes sorties de la structure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 28 février 2017 - art. 3 (V)
+
+
+###### Article R127-14
+
+Le préfet contrôle l'exécution de la convention. L'employeur lui fournit, à sa demande, tout élément permettant de vérifier
+la bonne exécution de la convention, la réalité des actions d'insertion mises en œuvre ainsi que leurs résultats.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 1
+
+
+###### Article R127-15
+
+En cas de non-respect des dispositions de la convention par l'employeur, le préfet l'informe par lettre recommandée ou remise
+en main propre de son intention de résilier la convention. L'employeur dispose d'un délai, qui ne peut être inférieur à un
+mois, pour faire connaître ses observations. 
+
+Le préfet peut alors demander le reversement des sommes indûment perçues.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 1
+
+
+##### Sous-section 2 : Convention de coopération et mise à disposition 
+
+
+###### Article R127-16
+
+La convention de coopération prévue à l'article L. 127-7 comporte, notamment : 
+
+1° Les modalités de mise en relation des candidats avec l'association intermédiaire ; 
+
+2° Les modalités selon lesquelles l'association informe Pôle emploi de toute évolution de la situation de ses salariés
+justifiant son intervention ; 
+
+3° Les actions susceptibles d'être réalisées par l'agence pour faciliter l'accès à l'emploi des personnes salariées de
+l'association ; 
+
+4° Le cas échéant, les conditions dans lesquelles l'association intermédiaire réalise des prestations pour le compte de Pôle
+emploi ainsi que les conditions de financement de ces prestations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 1
+
+
+###### Article R127-17
+
+En application de l'article L. 127-8, les conditions suivantes doivent être respectées : 
+
+1° Le seuil prévu au 1° de l'article précité est de 16 heures ; 
+
+2° La durée totale mentionnée au 2° de ce même article est de 480 heures.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 1
+
+
+###### Article R127-18
+
+L'association intermédiaire ne peut pas mettre ses salariés à disposition d'employeurs pour des activités situées hors du
+territoire défini dans la convention conclue par elle avec l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 1
+
+
+###### Article R127-19
+
+Un contrat est établi par écrit entre l'association intermédiaire et la personne, dite l'utilisateur, à la disposition de
+laquelle elle met un ou plusieurs salariés. 
+
+Le contrat comporte notamment : 
+
+1° Le nom des salariés mis à disposition ; 
+
+2° Les tâches à remplir ; 
+
+3° Le lieu où elles s'exécutent ; 
+
+4° Le terme de la mise à disposition ; 
+
+5° Lorsque l'utilisateur est une entreprise, le montant de la rémunération avec ses différentes composantes, y compris, s'il
+en existe, les primes et accessoires de salaire que percevrait après période d'essai un salarié de qualification équivalente
+occupant le même poste de travail ; 
+
+6° La nature des équipements de protection individuelle que le salarié doit utiliser en précisant, le cas échéant, s'ils sont
+fournis par l'association intermédiaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 1
+
+
+###### Article R127-20
+
+Les travaux particulièrement dangereux figurant sur la liste prévue à l'article L. 127-9 sont ceux mentionnés par un arrêté
+pris par le ministre chargé du travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 1
+
+
+###### Article R127-21
+
+La convention conclue avec l'Etat peut être résiliée par le préfet si l'association intermédiaire effectue des mises à
+disposition pour la réalisation de travaux particulièrement dangereux figurant sur la liste mentionnée à l'article L. 127-9
+pour lesquels il ne peut être fait appel à des salariés sous contrat de travail à durée déterminée, ou ne respecte pas les
+conditions de mise à disposition mentionnées à l'article L. 127-8.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 1
+
+
+##### Sous-section 3 : Aides financières 
+
+
+###### Article R127-22
+
+L'embauche des personnes mentionnées à l'article L. 127-1 par les associations intermédiaires ouvre droit à l'aide financière
+prévue au 3° de l'article R. 127-12. 
+
+Elle est déterminée pour chaque structure par le préfet en fonction : 
+
+1° Des caractéristiques des personnes qu'il est envisagé d'accompagner ; 
+
+2° Du nombre de salariés mis à disposition ; 
+
+3° Des modalités d'accompagnement socioprofessionnel de ces salariés, notamment de la qualité de celui-ci ; 
+
+4° Des accords conclus par la structure avec des partenaires locaux contribuant à l'insertion sociale et professionnelle de
+ces salariés ; 
+
+5° Des résultats à la sortie de la structure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 1
+
+
+###### Article R127-23
+
+L'aide financière est versée à l'association intermédiaire pour le financement des dépenses directement exposées par
+l'association au titre des actions de suivi et d'accompagnement. 
+
+Son montant maximum et ses conditions de versement sont fixés par arrêté conjoint des ministres chargés de l'emploi et du
+budget.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 1
+
+
+###### Article R127-24
+
+L'aide financière mentionnée à l'article R. 127-12 est versée, pour le compte de l'Etat, par l'Agence de services et de
+paiement. 
+
+Cette aide ne peut se cumuler pour un même poste avec une autre aide à l'emploi financée par l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 1
+
+
+###### Article R127-25
+
+Lorsque l'aide financière est obtenue à la suite de fausses déclarations ou lorsque la convention est détournée de son objet,
+le préfet résilie la convention après avoir observé la procédure prévue à l'article R. 127-15. Les sommes indûment perçues
+donnent alors lieu à reversement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 1
+
+
+##### Sous-section 5 : Suivi médical des salariés de l'association intermédiaire 
+
+
+
+###### Article R127-26-6
+
+L'association intermédiaire assure le suivi médical des personnes mises à disposition d'un utilisateur par un service de
+santé au travail interentreprises.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 1
+
+
+###### Article R127-26-7
+
+La visite médicale de la personne mise à disposition d'un utilisateur est organisée par l'association intermédiaire, dès sa
+première mise à disposition ou au plus tard dans le mois suivant. 
+
+Elle est renouvelée deux ans après la première mise à disposition. 
+
+Cette périodicité peut être modifiée lorsque l'agrément du service de santé au travail interentreprises le prévoit.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 1
+
+
+###### Article R127-26-8
+
+L'examen médical a pour finalité : 
+
+1° De s'assurer que la personne mise à disposition est médicalement apte à exercer plusieurs emplois, dans la limite de
+trois, listés par l'association intermédiaire lors de sa demande de visite médicale ; 
+
+2° De préconiser éventuellement des affectations à d'autres emplois ; 
+
+3° De rechercher si la personne mise à disposition n'est pas atteinte d'une affection dangereuse pour elle ou les tiers ; 
+
+4° D'informer le salarié sur les risques des expositions au poste de travail et le suivi médical nécessaire ; 
+
+5° De sensibiliser le salarié sur les moyens de prévention à mettre en œuvre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 1
+
+
+##### Section 3 : Ateliers et chantiers d'insertion 
+
+
+
+##### Sous-section 1 : Convention 
+
+
+###### Article R127-27
+
+Après consultation du conseil départemental de l'insertion par l'activité économique de Mayotte et en tenant compte de
+l'offre existante pour assurer un développement équilibré des actions d'insertion sociale et professionnelle, le préfet peut
+conclure des conventions pour la mise en place d'un ou plusieurs ateliers et chantiers d'insertion avec : 
+
+1° Un organisme de droit privé à but non lucratif ayant pour objet l'embauche de personnes mentionnées à l'article L. 127-1
+afin de faciliter leur insertion sociale et professionnelle en développant des activités ayant principalement un caractère
+d'utilité sociale ; 
+
+2° Un centre communal ou intercommunal d'action sociale ; 
+
+3° Une commune ; 
+
+4° Un établissement public de coopération intercommunale ; 
+
+5° Un syndicat mixte ; 
+
+6° Le Département de Mayotte ; 
+
+7° La chambre d'agriculture, de la pêche et de l'aquaculture de Mayotte ; 
+
+8° Un établissement d'enseignement professionnel et d'enseignement agricole de l'Etat ; 
+
+9° L'Office national des forêts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 1
+
+
+###### Article R127-28
+
+La convention conclue pour la mise en place d'un ou plusieurs ateliers et chantiers d'insertion comporte notamment : 
+
+1° Une présentation du projet d'insertion de l'organisme conventionné précisant : 
+
+a) Le statut juridique de l'organisme porteur ; 
+
+b) Le nombre, l'objet, la durée et les caractéristiques des ateliers et chantiers d'insertion ; 
+
+c) Les modalités d'accompagnement des salariés en insertion et de collaboration avec, d'une part, Pôle emploi et, d'autre
+part, les organismes chargés de l'insertion sociale et professionnelle de ces personnes ; 
+
+d) Le cas échéant, la mention de l'existence d'une autre convention au titre d'une structure de l'insertion par l'activité
+économique ; 
+
+e) L'adéquation du projet économique et social des ateliers et chantiers d'insertion avec l'environnement local et l'offre
+d'insertion déjà existante ; 
+
+f) Le territoire dans lequel les ateliers et chantiers d'insertion sont réalisés ; 
+
+2° La présentation des moyens en personnel ainsi que des moyens matériels et financiers mobilisés pour mettre en œuvre le
+projet d'insertion de l'organisme conventionné et accomplir les tâches administratives et les obligations comptables
+résultant de l'activité de l'organisme conventionné ; 
+
+3° La nature et le montant de l'aide financière prévue à l'article R. 127-29 susceptible d'être attribuée au titre de
+l'accompagnement et du suivi social et professionnels des salariés en insertion ainsi que le nombre de contrats aidés
+susceptibles d'être conventionnés et, le cas échéant, leur affectation entre les différents ateliers et chantiers
+d'insertion ; 
+
+4° Les engagements d'insertion pris par l'organisme conventionné et les indicateurs destinés à rendre compte des actions et
+des résultats ; 
+
+5° Les modalités de dépôt des offres d'emploi auprès de Pôle emploi ; 
+
+6° La nature et le montant des aides publiques et privées dont l'organisme conventionné est susceptible de bénéficier pour
+réaliser des ateliers et chantiers d'insertion et, pour ceux qui ont une activité de commercialisation, le montant des
+ressources tirées de la commercialisation des biens et services produits ; 
+
+7° Les modalités de suivi, de contrôle et d'évaluation de la convention.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 1
+
+
+###### Article R127-29
+
+La convention pour la mise en place d'un ou plusieurs chantiers d'insertion peut être conclue pour une durée maximale de
+trois ans avec des organismes présentant des perspectives de viabilité économique ; elle peut être renouvelée selon la même
+procédure. 
+
+Les stipulations financières des conventions pluriannuelles font l'objet d'avenants annuels. 
+
+L'organisme conventionné au titre d'un atelier ou chantier d'insertion transmet chaque année ses comptes annuels et un bilan
+d'activité précisant pour les salariés en insertion, les actions mises en œuvre et leurs résultats à l'issue du parcours dans
+la structure. 
+
+Ce document précise les réalisations en termes de suivi, d'accompagnement social et professionnel, d'encadrement des
+personnes présentant des difficultés sociales et professionnelles particulières, comportant notamment les mentions
+suivantes : 
+
+1° Les moyens humains et matériels affectés à la réalisation de ces actions ; 
+
+2° Les caractéristiques des personnes embauchées et de leur contrat de travail ; 
+
+3° La nature, l'objet, la durée des actions de suivi individualisé et d'accompagnement social et professionnel des
+personnes ; 
+
+4° Le cas échéant, les propositions d'action sociale faites à la personne pendant la durée de l'action et avant la sortie de
+la structure ; 
+
+5° Les propositions d'orientation professionnelle, de formation préqualifiante ou qualifiante, ou d'emploi faites aux
+personnes ainsi que les suites qui leur auront été données ; 
+
+6° Les résultats en termes d'accès et de retour à l'emploi des personnes sorties de la structure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 1
+
+
+###### Article R127-32
+
+En cas de non-respect des dispositions de la convention par l'employeur, le préfet l'informe par lettre recommandée ou remise
+en main propre de son intention de résilier la convention. L'employeur dispose d'un délai, qui ne peut être inférieur à un
+mois, pour faire connaître ses observations. 
+
+Le préfet peut alors demander le reversement des sommes indûment perçues.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 1
+
+
+###### Article R127-33
+
+Le préfet contrôle l'exécution de la convention conclue pour la mise en place d'un ou plusieurs ateliers et chantiers
+d'insertion. L'employeur lui fournit, à sa demande, tout élément permettant de vérifier la bonne exécution de la convention,
+la réalité des actions d'insertion mises en œuvre ainsi que leurs résultats.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 1
+
+
+##### Sous-section 3 : Aide financière 
+
+
+
+###### Article R127-35
+
+L'embauche des personnes mentionnées à l'article L. 127-1 par les organismes conventionnés au titre d'un atelier ou chantier
+d'insertion ouvre droit à une aide à l'accompagnement au titre des actions de suivi et d'accompagnement. 
+
+Son montant maximum et ses conditions de versement sont fixés par arrêté conjoint des ministres chargés de l'emploi et du
+budget.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 28 février 2017 - art. 3 (V)
+
+
+###### Article R127-36
+
+L'aide financière versée à l'organisme conventionné au titre d'un atelier ou chantier d'insertion est déterminée par le
+préfet en fonction : 
+
+1° Du nombre d'ateliers et chantiers d'insertion portés par l'organisme conventionné ; 
+
+2° Des caractéristiques des personnes qu'il est envisagé d'accueillir ou d'accompagner ; 
+
+3° Du nombre de salariés embauchés ; 
+
+4° Des modalités d'accompagnement de ces salariés, notamment de la qualité du projet d'accompagnement et des partenariats
+conclus avec les acteurs institutionnels locaux pouvant contribuer à l'insertion sociale et professionnelle de ces
+salariés ; 
+
+5° De l'objectif de taux de retour à l'emploi retenu. 
+
+L'aide financière mentionnée à l'article R. 127-26 est versée, pour le compte de l'Etat, par l'Agence de services et de
+paiement. 
+
+Cette aide ne peut se cumuler pour un même poste avec une autre aide à l'emploi financée par l'Etat. 
+
+Elle est utilisée pour le paiement de dépenses relatives aux actions de suivi et d'accompagnement bénéficiant directement aux
+personnes en insertion. 
+
+Elle ne se substitue pas aux autres financements accordés au titre de l'encadrement et de l'accompagnement social et
+professionnel par l'Etat et par les collectivités territoriales. 
+
+Lorsque l'aide est attribuée à un centre communal d'action sociale ou un centre intercommunal d'action sociale, elle ne se
+substitue pas aux financements accordés par les communes et aux moyens mis à disposition par celles-ci.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 1
+
+
+###### Article R127-37
+
+Lorsque l'aide financière est obtenue à la suite de fausses déclarations ou lorsque la convention est détournée de son objet,
+le préfet résilie la convention après avoir observé la procédure prévue à l'article R. 127-32. Les sommes indûment perçues
+donnent alors lieu à reversement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 1
+
+
+##### Section 4 : Fonds départemental d'insertion de Mayotte 
+
+###### Article R127-38
+
+Dans le Département de Mayotte, un fonds pour l'insertion finance le développement et la consolidation des initiatives
+locales en matière d'insertion par l'activité économique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 1
+
+
+###### Article R127-39
+
+Le fonds départemental pour l'insertion de Mayotte est géré par le préfet qui arrête le montant des aides accordées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 1
+
+
+###### Article R127-40
+
+Le fonds départemental pour l'insertion de Mayotte a pour objet de concourir au financement : 
+
+1° D'aides au conseil nécessaires à l'identification, à l'élaboration et au suivi des projets de développement d'activités
+des organismes mentionnés à l'article L. 127-4 ; 
+
+2° D'aides au démarrage, au développement et, à titre exceptionnel, à la consolidation de l'activité de ces organismes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 1
+
+
+###### Article R127-41
+
+Après avis du conseil départemental de l'insertion par l'activité économique de Mayotte, les concours du fonds départemental
+pour l'insertion de Mayotte sont attribués par le préfet, qui en détermine le montant. Ils font l'objet de conventions entre
+l'Etat et l'organisme, qui mentionnent notamment la nature, la durée et l'objet de l'action financée. 
+
+Le préfet peut subordonner l'attribution de ces aides à des engagements de l'organisme concernant le suivi des actions
+financées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 1
+
+
+##### Section 5 : Commissions départementales 
+
+
+
+##### Sous-section 1 : Composition et fonctionnement 
+
+###### Article R127-42
+
+La commission départementale de l'emploi et de l'insertion de Mayotte est présidée par le préfet. Elle comprend : 
+
+1° Des représentants de l'Etat, notamment le directeur des entreprises, de la concurrence, de la consommation, du travail et
+de l'emploi et le directeur de la jeunesse, des sports et de la cohésion sociale ; 
+
+2° Des élus, représentants des collectivités territoriales et de leurs groupements, dont un membre du conseil départemental,
+élu par ce conseil, des élus, représentants de communes et d'établissements publics de coopération intercommunale de Mayotte,
+sur proposition de l'association départementale des maires de Mayotte. En cas de pluralité d'associations, ces représentants
+sont désignés par accord des présidents d'associations des maires de Mayotte ou, à défaut d'accord, par le préfet ; 
+
+3° Des représentants des organisations professionnelles et interprofessionnelles d'employeurs représentatives à Mayotte ; 
+
+4° Des représentants des organisations syndicales de salariés représentatives à Mayotte ; 
+
+5° Des représentants des chambres consulaires ; 
+
+6° Des personnes qualifiées désignées par le préfet en raison de leur compétence dans le domaine de l'emploi, de l'insertion
+et de la création d'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 1
+
+
+###### Article R127-43
+
+Au sein de la commission départementale de l'emploi et de l'insertion de Mayotte sont instituées deux formations spécialisées
+compétentes respectivement dans le domaine de l'emploi et dans le domaine de l'insertion par l'activité économique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 1
+
+
+###### Article R127-44
+
+La formation spécialisée compétente dans le domaine de l'emploi se compose de quinze membres : 
+
+1° Cinq représentants de l'Etat désignés par le préfet, dont le directeur régional des finances publiques, le directeur des
+entreprises, de la concurrence, de la consommation, du travail et de l'emploi et le directeur de la jeunesse, des sports et
+de la cohésion sociale ; 
+
+2° Cinq représentants des organisations syndicales de salariés représentatives à Mayotte ; 
+
+3° Cinq représentants des organisations d'employeurs représentatives à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 1
+
+
+###### Article R127-45
+
+La formation spécialisée compétente en matière d'insertion par l'activité économique, dénommée conseil départemental de
+l'insertion par l'activité économique de Mayotte, comprend, outre le préfet : 
+
+1° Le directeur des entreprises, de la concurrence, de la consommation, du travail et de l'emploi ; 
+
+2° Le directeur de la jeunesse, des sports et de la cohésion sociale ; 
+
+3° Le directeur régional des finances publiques ; 
+
+4° Des élus, représentants des collectivités territoriales et de leurs groupements, dont un membre du conseil départemental,
+élu par ce conseil, et des élus, représentants de communes et d'établissements publics de coopération intercommunale de
+Mayotte, sur proposition de l'association départementale des maires de Mayotte. En cas de pluralité d'associations, ces
+représentants sont désignés par accord des présidents d'associations des maires du Département de Mayotte ou, à défaut
+d'accord, par le préfet ; 
+
+5° Un représentant de Pôle emploi ; 
+
+6° Des représentants du secteur de l'insertion par l'activité économique ; 
+
+7° Des représentants des organisations professionnelles et interprofessionnelles d'employeurs représentatives à Mayotte ; 
+
+8° Des représentants des organisations syndicales de salariés représentatives à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 1
+
+
+###### Article R127-46
+
+Le conseil départemental de l'insertion par l'activité économique de Mayotte a pour missions : 
+
+1° D'émettre les avis relatifs aux demandes de conventionnement des employeurs mentionnés à l'article L. 127-2 et aux
+demandes de concours du fonds départemental pour l'insertion de Mayotte prévu à l'article R. 127-38 ; 
+
+2° De déterminer la nature des actions à mener en vue de promouvoir les actions d'insertion par l'activité économique. A
+cette fin, il élabore un plan d'action pour l'insertion par l'activité économique et veille à sa cohérence avec les autres
+dispositifs locaux concourant à l'insertion
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 1
+
+
 #### CHAPITRE VIII : Titre de travail simplifié
 
 ###### Article R128-1
@@ -61901,9 +62887,8 @@ sérieuses et avérées nécessitent le remboursement mensuel de l'allocation.
 
 ###### Article R322-1
 
-L'institution mentionnée à l'article 
-L. 326-6, les organismes mentionnés à l'article L. 326-4, ainsi que le vice-recteur désigné à l'article R. 262-1 du code de
-l'éducation pour les contrats mentionnés à l'article L. 322-60, peuvent attribuer pour le compte de l'Etat des aides à
+Pôle emploi, les organismes mentionnés à l'article L. 326-4, ainsi que le vice-recteur désigné à l'article R. 262-1 du code
+de l'éducation pour les contrats mentionnés à l'article L. 322-60, peuvent attribuer pour le compte de l'Etat des aides à
 l'insertion professionnelle en application de l'article L. 322-1, dans le cadre des missions d'insertion professionnelle que
 l'Etat leur confie par une convention ou par un marché et dans la limite de l'enveloppe financière qu'il notifie annuellement
 à chaque organisme.
@@ -61912,7 +62897,7 @@ l'Etat leur confie par une convention ou par un marché et dans la limite de l'e
 
 	**Modifié par**:
 
-	  - Décret n°2012-1211 du 31 octobre 2012 - art. 3
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 2
 
 	**Cite**:
 
@@ -63281,31 +64266,30 @@ moins de trente ans sans emploi, à la date de la signature du contrat, qui :
 des certifications professionnelles prévu à l'article L. 335-6 du code de l'éducation et classé au niveau V de la
 nomenclature interministérielle des niveaux de formation mentionnée à l'article R. 335-13 du code de l'éducation, et
 totalisent une durée de six mois minimum de recherche d'emploi au cours des douze derniers mois. Sur appréciation de
-l'institution mentionnée à l'article L. 326-6, un des organismes mentionnés à l'article L. 326-4 ou l'organisme mentionné au
-2° de l'article L. 322-1, la durée minimum de recherche d'emploi peut être inférieure à six mois si le parcours de formation
-des intéressés, leurs perspectives locales d'accès à l'emploi au regard de leur qualification ou des difficultés sociales
-particulières le justifient ; 
+Pôle emploi, un des organismes mentionnés à l'article L. 326-4 ou l'organisme mentionné au 2° de l'article L. 322-1, la durée
+minimum de recherche d'emploi peut être inférieure à six mois si le parcours de formation des intéressés, leurs perspectives
+locales d'accès à l'emploi au regard de leur qualification ou des difficultés sociales particulières le justifient ; 
 
 3° Soit, à titre exceptionnel, ont atteint au plus le niveau du premier cycle de l'enseignement supérieur et totalisent une
-durée de douze mois minimum de recherche d'emploi au cours des dix-huit derniers mois. Sur appréciation de l'institution
-mentionnée à l'article L. 326-6, un des organismes mentionnés à l'article L. 326-4 ou l'organisme mentionné au 2° de
-l'article L. 322-1, la durée minimum de recherche d'emploi peut être inférieure à douze mois si le parcours de formation des
-intéressés, leurs perspectives locales d'accès à l'emploi au regard de leur qualification ou des difficultés sociales
-particulières le justifient.
+durée de douze mois minimum de recherche d'emploi au cours des dix-huit derniers mois. Sur appréciation de            Pôle
+emploi, un des organismes mentionnés à l'article L. 326-4 ou l'organisme mentionné au 2° de l'article L. 322-1, la durée
+minimum de recherche d'emploi peut être inférieure à douze mois si le parcours de formation des intéressés, leurs
+perspectives locales d'accès à l'emploi au regard de leur qualification ou des difficultés sociales particulières le
+justifient.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2014-188 du 20 février 2014 - art. 2
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 2
 
 	**Cite**:
 
 	  - Code de l'éducation - art. L335-6
 	  - Code de l'éducation - art. R335-13
-	  - Code du travail applicable à Mayotte. - art. L322-1 (V)
-	  - Code du travail applicable à Mayotte. - art. L326-4 (V)
-	  - Code du travail applicable à Mayotte. - art. L326-6 (V)
+	  - Code du travail applicable à Mayotte. - art. L322-1
+	  - Code du travail applicable à Mayotte. - art. L326-4
+	  - Code du travail applicable à Mayotte. - art. L326-6
 
 
 ###### Article R322-53
@@ -63352,24 +64336,18 @@ l'année écoulée.
 II.-Le projet de schéma d'orientation mahorais mentionné à l'article R. 322-53 est établi par le représentant de l'Etat à
 Mayotte, après consultation du président du conseil général. Il est soumis pour avis au comité de coordination mahorais de
 l'emploi et de la formation professionnelle et fait l'objet, avant son adoption, d'une publication sous forme électronique
-sur le site de la préfecture. Le conseil général, les communes, l'institution mentionnée à l'article L. 326-6, les missions
-locales pour l'insertion professionnelle et sociale des jeunes ainsi que les instances représentant à Mayotte l'économie
-sociale et solidaire peuvent faire connaître leur avis au représentant de l'Etat à Mayotte dans un délai d'un mois à compter
-de cette publication. 
+sur le site de la préfecture. Le conseil général, les communes,            Pôle emploi, les missions locales pour l'insertion
+professionnelle et sociale des jeunes ainsi que les instances représentant à Mayotte l'économie sociale et solidaire peuvent
+faire connaître leur avis au représentant de l'Etat à Mayotte dans un délai d'un mois à compter de cette publication. 
 
 III.-A l'issue de la procédure de consultation définie au II, le représentant de l'Etat à Mayotte publie le schéma
 d'orientation mahorais au recueil des actes administratifs de la préfecture.
 
-**Nota:**
-
-Décret n° 2012-1207 du 31 octobre 2012 article 1 : Entre en vigueur immédiatement à compter de sa publication au Journal
-officiel de la République française le décret n° 2012-1210 du 31 octobre 2012 relatif à l'emploi d'avenir.
-
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-1210 du 31 octobre 2012 - art. 2
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 2
 
 	**Cite**:
 
@@ -63703,8 +64681,8 @@ a) Pour la création d'entreprises, dans les mêmes conditions que pour les aide
 examinée conjointement à celles-ci ; 
 
 b) Pour la formation en mobilité, par le délégué de l'Agence nationale pour l'insertion et la promotion des travailleurs
-d'outre-mer ou par celui de l'institution mentionnée à l'article L. 5312-1 du code du travail ou par le responsable de
-l'organisme agréé à cet effet selon les modalités prévues au X du présent article. 
+d'outre-mer ou par celui de Pôle emploi ou par le responsable de l'organisme agréé à cet effet selon les modalités prévues au
+X du présent article. 
 
 III.-Pour l'application des dispositions du a de l'article L. 324-9, est considéré comme remplissant la condition de
 direction effective de l'entreprise créée ou reprise le demandeur qui, sous sa propre responsabilité, assure la direction de
@@ -63777,22 +64755,22 @@ L'agrément est délivré par le représentant de l'Etat pour une durée d'un à
 
 	**Modifié par**:
 
-	  - Décret n°2009-340 du 27 mars 2009 - art. 10 (Ab)
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 2
 
 	**Cite**:
 
-	  - Code du travail - art. L5312-1 (V)
-	  - Code du travail applicable à Mayotte. - art. L111-1 (V)
-	  - Code du travail applicable à Mayotte. - art. L322-1 (V)
-	  - Code du travail applicable à Mayotte. - art. L322-7 (V)
-	  - Code du travail applicable à Mayotte. - art. L323-1 (Ab)
-	  - Code du travail applicable à Mayotte. - art. L324-1 (V)
-	  - Code du travail applicable à Mayotte. - art. L324-9 (V)
-	  - Code du travail applicable à Mayotte. - art. L325-1 (V)
-	  - Code du travail applicable à Mayotte. - art. L325-2 (V)
-	  - Code du travail applicable à Mayotte. - art. L325-6 (V)
-	  - Code du travail applicable à Mayotte. - art. L711-2 (V)
-	  - Code du travail applicable à Mayotte. - art. L711-5 (T)
+	  - Code du travail - art. L5312-1
+	  - Code du travail applicable à Mayotte. - art. L111-1
+	  - Code du travail applicable à Mayotte. - art. L322-1
+	  - Code du travail applicable à Mayotte. - art. L322-7
+	  - Code du travail applicable à Mayotte. - art. L323-1
+	  - Code du travail applicable à Mayotte. - art. L324-1
+	  - Code du travail applicable à Mayotte. - art. L324-9
+	  - Code du travail applicable à Mayotte. - art. L325-1
+	  - Code du travail applicable à Mayotte. - art. L325-2
+	  - Code du travail applicable à Mayotte. - art. L325-6
+	  - Code du travail applicable à Mayotte. - art. L711-2
+	  - Code du travail applicable à Mayotte. - art. L711-5
 
 	**Cité par**:
 
@@ -64346,6 +65324,9 @@ telles que ces conditions sont déterminées par les dispositions législatives 
 
 L'institution mentionnée à l'article L. 326-6 est Pôle emploi.
 
+Dans le cadre des missions mentionnées à l'article L. 326-7, Pôle emploi apporte son concours à l'orientation et au placement
+des travailleurs handicapés.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -64354,7 +65335,7 @@ L'institution mentionnée à l'article L. 326-6 est Pôle emploi.
 
 	**Modifié par**:
 
-	  - Décret n°2012-1566 du 31 décembre 2012 - art. 1
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 2
 
 	**Cite**:
 
@@ -64380,13 +65361,13 @@ Pôle emploi est dirigé à Mayotte par un directeur territorial nommé par le d
 
 Le directeur territorial anime et contrôle l'activité de Pôle emploi à Mayotte. 
 
-Il a autorité sur l'ensemble du personnel de l'institution qui est affecté à Mayotte.
+Il a autorité sur l'ensemble du personnel de  Pôle emploi qui est affecté à Mayotte.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-1566 du 31 décembre 2012 - art. 1
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 2
 
 
 ###### Article R326-4
@@ -64407,10 +65388,10 @@ dans le cadre fixé par  une délibération du conseil d'administration.
 
 ###### Article R326-5
 
-Le directeur territorial représente l'institution dans ses relations avec les usagers et les tiers et dans les actions en
-justice et les actes de la vie civile intéressant Mayotte dans les domaines relevant de l'article L. 326-7 ou la gestion des
-ressources humaines. Il se prononce sur les recours hiérarchiques des usagers contre les décisions prises par les agents
-placés sous son autorité lorsqu'il dispose d'une délégation en ce sens du directeur général.
+Le directeur territorial représente Pôle emploi dans ses relations avec les usagers, les agents et les tiers et dans les
+actions en justice et les actes de la vie civile intéressant Mayotte dans les domaines relevant de l'article L. 326-7 ou la
+gestion des ressources humaines. Il prend l'ensemble des décisions en matière de gestion de la liste des demandeurs d'emploi,
+notamment les décisions mentionnées aux articles R. 326-55, R. 326-56 et R. 326-62.
 
 **Liens relatifs à cet article**
 
@@ -64420,7 +65401,7 @@ placés sous son autorité lorsqu'il dispose d'une délégation en ce sens du di
 
 	**Modifié par**:
 
-	  - Décret n°2012-1566 du 31 décembre 2012 - art. 1
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 2
 
 	**Cite**:
 
@@ -64445,8 +65426,7 @@ délibération du conseil  d'administration.
 
 ###### Article R326-7
 
-Le directeur territorial transmet au préfet les informations nécessaires à l'analyse et au suivi des actions de
-l'institution.
+Le directeur territorial transmet au préfet les informations nécessaires à l'analyse et au suivi des actions de  Pôle emploi.
 
 **Liens relatifs à cet article**
 
@@ -64456,15 +65436,16 @@ l'institution.
 
 	**Modifié par**:
 
-	  - Décret n°2012-1566 du 31 décembre 2012 - art. 1
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 2
 
 
 ##### Sous-section 2 : Intervention pour le compte de l'Etat
 
 ###### Article R326-8
 
-Lorsque  Pôle emploi prend des décisions ou conclut des conventions pour le  compte de l'Etat, le directeur territorial
-statue également, au nom de  l'Etat, en cas de recours administratifs formés contre ces décisions ou  conventions.
+Lorsque Pôle emploi prend des décisions ou conclut des conventions pour le compte de l'Etat ou du fonds de solidarité prévu à
+l'article L. 327-26, le directeur territorial statue également, au nom de l'Etat ou du fonds de solidarité, en cas de recours
+administratifs formés contre ces décisions ou ces conventions.
 
 **Liens relatifs à cet article**
 
@@ -64474,13 +65455,13 @@ statue également, au nom de  l'Etat, en cas de recours administratifs formés c
 
 	**Modifié par**:
 
-	  - Décret n°2012-1566 du 31 décembre 2012 - art. 1
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 2
 
 
 ###### Article R326-9
 
-Le  directeur territorial de Pôle emploi représente l'Etat devant le  tribunal administratif en cas de litiges relatifs à des
-décisions prises  ou à des conventions conclues pour le compte de l'Etat.
+Le directeur territorial de Pôle emploi représente l'Etat ou le fonds de solidarité prévu à l'article L. 327-26 devant le
+tribunal administratif en cas de litiges relatifs à des décisions prises ou à des conventions conclues pour leur compte.
 
 **Liens relatifs à cet article**
 
@@ -64490,7 +65471,7 @@ décisions prises  ou à des conventions conclues pour le compte de l'Etat.
 
 	**Modifié par**:
 
-	  - Décret n°2012-1566 du 31 décembre 2012 - art. 1
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 2
 
 
 ##### Sous-section 3 : Instance paritaire
@@ -64513,7 +65494,7 @@ dans un délai de trois mois. Dans ce cas, le mandat des nouveaux membres expire
 fin celui de leur prédécesseur. 
 
 Le mandat de l'instance paritaire est gratuit, sous réserve du remboursement des frais de déplacement et de séjour, ainsi
-que, le cas échéant, de perte de salaire, dans les conditions prévues par le règlement intérieur de l'institution.
+que, le cas échéant, de perte de salaire, dans les conditions prévues par le règlement intérieur de  Pôle emploi.
 
 **Liens relatifs à cet article**
 
@@ -64523,12 +65504,12 @@ que, le cas échéant, de perte de salaire, dans les conditions prévues par le 
 
 	**Modifié par**:
 
-	  - Décret n°2012-1566 du 31 décembre 2012 - art. 1
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 2
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L326-1 (V)
-	  - Code du travail applicable à Mayotte. - art. L327-19 (V)
+	  - Code du travail applicable à Mayotte. - art. L326-1
+	  - Code du travail applicable à Mayotte. - art. L327-19
 
 
 ###### Article R326-11
@@ -65467,23 +66448,18 @@ demandeur et de la situation du marché du travail local.
 
 Le projet personnalisé d'accès à l'emploi est élaboré conjointement par le demandeur d'emploi et Pôle emploi ou un des
 organismes mentionnés à l'article L. 326-50 lors de l'inscription sur la liste des demandeurs d'emploi ou au plus tard dans
-les quinze jours suivant cette inscription. 
+les quinze jours suivant cette inscription.
 
-Il est actualisé au moins tous les trois mois dans les mêmes conditions. 
+Il est actualisé selon la périodicité et les modalités définies avec le demandeur d'emploi.
 
-A l'issue de l'élaboration ou de l'actualisation du projet, Pôle emploi ou l'un des organismes mentionnés à l'article R.
-326-50 le notifie au demandeur d'emploi.
+A l'issue de l'élaboration ou de l'actualisation du projet, Pôle emploi ou l'un des organismes mentionnés à l'article L.
+326-50 le communique au demandeur d'emploi.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-1566 du 31 décembre 2012 - art. 5
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L326-50 (V)
-	  - Code du travail applicable à Mayotte. - art. R326-50 (V)
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 2
 
 
 ###### Article R326-52
@@ -65557,16 +66533,16 @@ sa situation au regard des conditions d'inscription ou de classement dans une ca
 
 ###### Article R326-55
 
-La décision motivée par laquelle le directeur général de Pôle emploi ou la personne qu'il désigne en son sein constate la
-cessation d'inscription sur la liste des demandeurs d'emploi ou le changement de catégorie est notifiée à l'intéressé. 
+La décision motivée par laquelle               le directeur territorial de Pôle emploi constate la cessation d'inscription
+sur la liste des demandeurs d'emploi ou le changement de catégorie est notifiée à l'intéressé. 
 
 La personne qui entend la contester peut former un recours préalable dans les conditions prévues à l'article R. 326-62.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-1566 du 31 décembre 2012 - art. 5
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 2
 
 	**Cite**:
 
@@ -65577,18 +66553,18 @@ La personne qui entend la contester peut former un recours préalable dans les c
 
 ###### Article R326-56
 
-Le directeur général de Pôle emploi ou la personne qu'il désigne en son sein radie les personnes de la liste des demandeurs
-d'emploi dans les cas prévus aux articles L. 326-56 et L. 326-57.
+Le directeur territorial de Pôle emploi radie les personnes de la liste des demandeurs d'emploi dans les cas prévus aux
+articles L. 326-56 et L. 326-57.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-1566 du 31 décembre 2012 - art. 5
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 2
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L326-56 (V)
+	  - Code du travail applicable à Mayotte. - art. L326-56
 
 	**Cité par**:
 
@@ -65686,19 +66662,19 @@ La décision, notifiée à l'intéressé, est motivée. Elle indique la durée d
 ###### Article R326-62
 
 La personne qui entend contester une décision de radiation de la liste des demandeurs d'emploi peut former un recours
-préalable devant le directeur général de Pôle emploi ou la personne qu'il désigne en son sein. 
+préalable devant               le directeur territorial de Pôle emploi. 
 
 Ce recours n'est pas suspensif.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-1566 du 31 décembre 2012 - art. 5
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 2
 
 	**Cité par**:
 
-	  - Code du travail applicable à Mayotte. - art. R326-55 (M)
+	  - Code du travail applicable à Mayotte. - art. R326-55 (V)
 
 
 ##### Section 6 : Aide personnalisée de retour à l'emploi
@@ -66852,23 +67828,26 @@ pour l'application des conditions de ressources prévues pour le bénéfice de l
 
 ###### Article R327-41
 
-La prime forfaitaire pour reprise d'activité prévue à l'article L. 327-41 est versée par l'institution mentionnée à l'article
-L. 326-6.
+La prime forfaitaire pour reprise d'activité prévue à l'article L. 327-41 est versée par            Pôle emploi.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-1566 du 31 décembre 2012 - art. 7
+	  - Décret n°2015-1220 du 1er octobre 2015 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2017-826 du 5 mai 2017 - art. 4
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L326-6 (V)
-	  - Code du travail applicable à Mayotte. - art. L327-41 (V)
+	  - Code du travail applicable à Mayotte. - art. L326-6
+	  - Code du travail applicable à Mayotte. - art. L327-41
 
-	**Anciens textes**:
+	**Nouveaux textes**:
 
-	  - Code du travail applicable à Mayotte. - art. R327-44 (T)
+	  - Code du travail applicable à Mayotte. - art. R327-38 (VD)
 
 
 ###### Article R327-42
