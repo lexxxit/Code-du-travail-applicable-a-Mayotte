@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2015-10-04
+Version Consolidée au 2015-10-16
 
 # Partie législative
 
@@ -8615,6 +8615,169 @@ Le fait de méconnaître les dispositions de l'article L. 146-1, relatives aux �
 	**Cite**:
 
 	  - Code du travail applicable à Mayotte. - art. L146-1
+
+
+#### CHAPITRE VII : Titres-restaurant
+
+##### Section 1 : Emission 
+
+
+
+###### Article L147-1
+
+Le titre-restaurant est un titre spécial de paiement remis par l'employeur aux salariés pour leur permettre d'acquitter en
+tout ou partie le prix du repas consommé au restaurant ou acheté auprès d'une personne ou d'un organisme mentionné au
+deuxième alinéa de l'article L. 147-3. Ce repas peut être composé de fruits et légumes, qu'ils soient ou non directement
+consommables. 
+
+Ces titres sont émis : 
+
+1° Soit par l'employeur au profit des salariés, directement ou par l'intermédiaire du comité d'entreprise ; 
+
+2° Soit par une entreprise spécialisée, qui les cède à l'employeur contre paiement de leur valeur libératoire et, le cas
+échéant, d'une commission. 
+
+Un décret détermine les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 9
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R147-14 (V)
+
+
+###### Article L147-2
+
+L'émetteur de titres-restaurant ouvre un compte bancaire ou postal sur lequel sont uniquement versés les fonds qu'il perçoit
+en contrepartie de la cession de ces titres. 
+
+Toutefois, cette règle n'est pas applicable à l'employeur émettant ses titres au profit des salariés lorsque l'effectif
+n'excède pas vingt-cinq salariés. 
+
+Le montant des versements est égal à la valeur libératoire des titres mis en circulation. Les fonds provenant d'autres
+sources, et notamment des commissions éventuellement perçues par les émetteurs ne peuvent être versés aux comptes ouverts en
+application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 9
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R147-15 (V)
+	  - Code du travail applicable à Mayotte. - art. R147-16 (V)
+	  - Code du travail applicable à Mayotte. - art. R147-37 (V)
+
+
+###### Article L147-3
+
+Les comptes prévus à l'article L. 147-2 sont des comptes de dépôts de fonds intitulés “ comptes de titres-restaurant ”. 
+
+Sous réserve des articles L. 147-4 et L. 147-5, ils ne peuvent être débités qu'au profit de personnes ou d'organismes
+exerçant la profession de restaurateur, d'hôtelier restaurateur ou une activité assimilée, ou la profession de détaillant en
+fruits et légumes. 
+
+Les émetteurs spécialisés mentionnés au 2° de l'article L. 147-1, qui n'ont pas déposé à l'avance à leur compte de titres-
+restaurant le montant de la valeur libératoire des titres-restaurant qu'ils cèdent à des employeurs, ne peuvent recevoir de
+ces derniers, en contrepartie de cette valeur, que des versements effectués au crédit de leur compte, à l'exclusion
+d'espèces, d'effets ou de valeurs quelconques.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 9
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R147-1-2 (V)
+	  - Code du travail applicable à Mayotte. - art. R147-19 (V)
+	  - Code du travail applicable à Mayotte. - art. R147-26 (V)
+	  - Code du travail applicable à Mayotte. - art. R147-37 (V)
+
+
+##### Section 2 : Utilisation 
+
+
+
+###### Article L147-4
+
+En cas de procédure de sauvegarde, de redressement ou de liquidation judiciaire de l'émetteur, les salariés détenteurs de
+titres non utilisés mais encore valables et échangeables à la date du jugement déclaratif peuvent, par priorité à toute autre
+créance privilégiée ou non, se faire rembourser immédiatement, sur les fonds déposés aux comptes ouverts en application de
+l'article L. 147-2, le montant des sommes versées pour l'acquisition de ces titres-restaurant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 9
+
+
+###### Article L147-5
+
+Les titres qui n'ont pas été présentés au remboursement par un restaurant ou un détaillant en fruits et légumes avant la fin
+du deuxième mois suivant l'expiration de leur période d'utilisation sont définitivement périmés. 
+
+Sous réserve de prélèvements autorisés par le décret prévu à l'article L. 147-7, la contre-valeur des titres périmés est
+versée au budget des activités sociales et culturelles des entreprises auprès desquelles les salariés se sont procurés leurs
+titres.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 9
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R147-13 (V)
+	  - Code du travail applicable à Mayotte. - art. R147-37 (V)
+
+
+##### Section 3 : Exonérations 
+
+
+
+###### Article L147-6
+
+Conformément à l'article 81 du code général des impôts, lorsque l'employeur contribue à l'acquisition des titres par le
+salarié bénéficiaire, le complément de rémunération qui en résulte pour le salarié est exonéré d'impôt sur le revenu dans la
+limite prévue au 19° du même article 81.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 9
+
+
+##### Section 4 : Dispositions d'application 
+
+###### Article L147-7
+
+Un décret en Conseil d'Etat détermine les modalités d'application du présent chapitre, notamment : 
+
+1° Les mentions qui figurent sur les titres-restaurant et les conditions d'apposition de ces mentions ; 
+
+2° Les conditions d'utilisation et de remboursement de ces titres ; 
+
+3° Les règles de fonctionnement des comptes bancaires ou postaux spécialement affectés à l'émission et à l'utilisation des
+titres-restaurant ; 
+
+4° Les conditions du contrôle de la gestion des fonds mentionnées à l'article L. 147-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 9
 
 
 ### TITRE V : RÈGLEMENT INTÉRIEUR, PROTECTION   DES SALARIÉS ET DROIT DISCIPLINAIRE
@@ -33844,6 +34007,430 @@ alinéa de l'article L. 326-40 est puni, en cas de récidive, d'un emprisonnemen
 	**Anciens textes**:
 
 	  - Code du travail applicable à Mayotte. - art. L326-44 (T)
+
+
+### TITRE II : CONCIERGES ET EMPLOYÉS D'IMMEUBLES À USAGE D'HABITATION, EMPLOYÉS DE MAISON ET SERVICES À LA PERSONNE 
+
+#### Chapitre unique : Activités de services à la personne 
+
+
+
+##### Section 1 : Champ d'application 
+
+
+###### Article L821-1
+
+Les services à la personne portent sur les activités suivantes : 
+
+1° La garde d'enfants ; 
+
+2° L'assistance aux personnes âgées, aux personnes handicapées ou aux autres personnes qui ont besoin d'une aide personnelle
+à leur domicile ou d'une aide à la mobilité dans l'environnement de proximité favorisant leur maintien à domicile ; 
+
+3° Les services aux personnes à leur domicile relatifs aux tâches ménagères ou familiales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 10
+
+	**Cité par**:
+
+	  - Arrêté du 25 février 2016 - art. 3
+	  - Code de l'action sociale et des familles - art. L541-1 (V)
+	  - Code du travail applicable à Mayotte. - art. R821-18 (VD)
+
+
+##### Section 2 : Déclaration et agrément des organismes et mise en œuvre des activités 
+
+
+###### Article L821-2
+
+Des décrets précisent : 
+
+1° Le contenu des activités de services à la personne mentionnées à l'article L. 821-1 ; 
+
+2° Un plafond en valeur ou en temps de travail des interventions à domicile permettant aux activités figurant dans le décret
+prévu au 1° du présent article de bénéficier des dispositions du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 10
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R821-18 (VD)
+
+
+##### Sous-section 1 : Déclaration et agrément des organismes
+
+###### Article L821-3
+
+Toute personne morale ou entreprise individuelle qui exerce les activités de services à la personne suivantes est soumise à
+un agrément délivré par l'autorité compétente suivant des critères de qualité : 
+
+1° La garde d'enfants au-dessous d'une limite d'âge fixée par arrêté conjoint des ministres chargés de l'emploi et de la
+famille ; 
+
+2° Les activités relevant du 2° de l'article L. 821-1, à l'exception des activités dont la liste est définie par décret et
+qui ne mettent pas en cause la sécurité des personnes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 10
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D821-1 (VD)
+	  - Code du travail applicable à Mayotte. - art. D821-24 (VD)
+	  - Code du travail applicable à Mayotte. - art. R821-2 (VD)
+	  - Code du travail applicable à Mayotte. - art. R821-5 (VD)
+	  - Code du travail applicable à Mayotte. - art. R821-6 (VD)
+	  - Code du travail applicable à Mayotte. - art. R821-7 (VD)
+
+
+###### Article L821-4
+
+A condition qu'elle exerce son activité à titre exclusif, toute personne morale ou entreprise individuelle qui souhaite
+bénéficier des 1° et 2° de l'article L. 821-13 déclare son activité auprès de l'autorité compétente, dans des conditions et
+selon des modalités prévues par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 10
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D821-1 (VD)
+	  - Code du travail applicable à Mayotte. - art. D821-24 (VD)
+	  - Code du travail applicable à Mayotte. - art. R821-17 (VD)
+	  - Code du travail applicable à Mayotte. - art. R821-18 (VD)
+
+
+###### Article L821-5
+
+Sont dispensés de la condition d'activité exclusive fixée aux articles L. 821-4 et L. 821-13 : 
+
+1° Pour leurs activités d'aide à domicile : 
+
+a) Les associations intermédiaires ; 
+
+b) Les régies de quartiers. Un décret définit les conditions de leur agrément et de la dérogation à la clause d'activité
+exclusive dont elles bénéficient ; 
+
+c) Les communes, les centres communaux ou intercommunaux d'action sociale, les établissements publics de coopération
+intercommunale compétents ; 
+
+d) Les organismes ayant conclu une convention avec la caisse de sécurité sociale de Mayotte au titre de leur action
+sociale ; 
+
+e) Les organismes publics ou privés gestionnaires d'un établissement ou d'un service autorisé au titre du I de l'article L.
+312-1 du code de l'action sociale et des familles et les groupements de coopération mentionnés au 3° de l'article L. 312-7 du
+même code, tel que modifié par le 1° du V de l'article L. 543-1 dudit code ; 
+
+2° Pour leurs activités qui concourent directement à coordonner et délivrer les services à la personne, les unions et
+fédérations d'associations ; 
+
+3° Pour leurs activités d'aide à domicile auprès des personnes mentionnées à l'article L. 821-1 du présent code : 
+
+a) Les organismes publics ou privés gestionnaires d'un établissement de santé relevant de l'article L. 6111-1 du code de la
+santé publique ; 
+
+b) Les centres de santé relevant de l'article L. 6323-1 du même code ; 
+
+c) Les organismes publics ou privés gestionnaires d'un établissement ou d'un service mentionné aux premier et deuxième
+alinéas de l'article L. 2324-1 dudit code ; 
+
+4° Pour les services d'aide à domicile auprès des personnes mentionnées à l'article L. 821-1 du présent code qui y résident,
+les résidences-services relevant du chapitre IV bis de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété
+des immeubles bâtis.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 10
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R821-18 (VD)
+
+
+###### Article L821-6
+
+Les personnes morales ou les entreprises individuelles fournissant un service d'aide à domicile, agréées en application de
+l'article L. 821-1 du présent code, peuvent demander l'autorisation de créer un établissement ou un service dont l'activité
+relève du I de l'article L. 312-1 du code de l'action sociale et des familles sans que leur agrément au titre de la présente
+section soit remis en cause de ce seul fait.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 10
+
+	**Abrogé par**:
+
+	  - Loi n°2015-1776 du 28 décembre 2015 - art. 84 (V)
+
+
+###### Article L821-7
+
+L'exigence de qualité nécessaire à l'intervention de toute personne morale ou entreprise individuelle mentionnée aux articles
+L. 821-3 et L. 821-5 est équivalente à celle requise pour les mêmes publics par la loi n° 2002-2 du 2 janvier 2002 rénovant
+l'action sociale et médico-sociale
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 10
+
+	**Abrogé par**:
+
+	  - Loi n°2015-1776 du 28 décembre 2015 - art. 84 (V)
+
+
+##### Sous-section 2 : Mise en œuvre des activités
+
+###### Article L821-8
+
+Les personnes morales ou les entreprises individuelles mentionnées aux articles L. 821-3 à L. 821-5 peuvent assurer leur
+activité selon les modalités suivantes : 
+
+1° Le placement de travailleurs auprès de personnes physiques employeurs ainsi que, pour le compte de ces dernières,
+l'accomplissement des formalités administratives et des déclarations sociales et fiscales liées à l'emploi de ces
+travailleurs ; 
+
+2° Le recrutement de travailleurs pour les mettre, à titre onéreux, à disposition de personnes physiques. Dans ce cas,
+l'activité des associations est réputée non lucrative au sens des articles L. 124-1 et L. 124-3 ; 
+
+3° La fourniture de prestations de services aux personnes physiques.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 10
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D821-1 (VD)
+
+
+##### Sous-section 3 : Dispositions d'application 
+
+###### Article L821-9
+
+Un décret en Conseil d'Etat détermine les conditions de délivrance, de contrôle et de retrait de l'agrément des personnes
+morales ou des entreprises individuelles mentionnées aux articles L. 821-3 et L. 821-5, notamment les conditions
+particulières auxquelles sont soumises celles dont l'activité porte sur la garde d'enfants ou l'assistance aux personnes
+âgées, handicapées ou dépendantes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 10
+
+
+###### Article L821-10
+
+Lorsqu'il est constaté qu'une personne morale ou une entreprise individuelle mentionnée aux articles L. 821-3 et L. 821-4 ne
+se livre pas à titre exclusif à une activité prévue à l'article L. 821-1, elle perd le bénéfice des 1° et 2° de l'article L.
+821-13. 
+
+Elle ne peut bénéficier de nouveau de ces avantages à l'occasion d'une nouvelle déclaration qu'après une période de douze
+mois. 
+
+Le contribuable de bonne foi conserve le bénéfice de l'aide prévue à l'article 199 sexdecies du code général des impôts. 
+
+Un décret en Conseil d'Etat détermine les modalités d'application des deux premiers alinéas du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 10
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R821-23 (VD)
+
+
+###### Article L821-11
+
+Outre les inspecteurs et les contrôleurs du travail, les agents de la concurrence, de la consommation et de la répression des
+fraudes sont compétents pour constater, par procès-verbal, les infractions aux dispositions relatives à la facturation des
+services. Ces agents disposent à cet effet des pouvoirs prévus aux articles L. 450-3, L. 450-7 et L. 450-8 du code de
+commerce.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 10
+
+
+##### Section 3 : Dispositions financières
+
+##### Sous-section 1 : Frais de gestion et mesures fiscales et sociales 
+
+
+
+###### Article L821-12
+
+La personne morale ou l'entreprise individuelle qui assure le placement de travailleurs auprès de personnes physiques
+employeurs ou qui, pour le compte de ces dernières, accomplit des formalités administratives et des déclarations sociales et
+fiscales liées à l'emploi de ces travailleurs peut demander aux employeurs une contribution représentative de ses frais de
+gestion.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 10
+
+
+###### Article L821-13
+
+La personne morale ou l'entreprise individuelle déclarée qui exerce, à titre exclusif, une activité de services à la personne
+rendus aux personnes physiques bénéficie : 
+
+1° Du taux réduit de taxe sur la valeur ajoutée sous les conditions prévues au i de l'article 279 du code général des
+impôts ; 
+
+2° De l'aide prévue à l'article 199 sexdecies du même code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 10
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D821-1 (VD)
+	  - Code du travail applicable à Mayotte. - art. D821-24 (VD)
+	  - Code du travail applicable à Mayotte. - art. R821-21 (VD)
+	  - Code du travail applicable à Mayotte. - art. R821-22 (VD)
+	  - Code du travail applicable à Mayotte. - art. R821-23 (VD)
+
+
+##### Sous-section 2 : Aide financière en faveur des salariés, du chef d'entreprise ou des dirigeants sociaux 
+
+
+
+###### Article L821-14
+
+L'aide financière du comité d'entreprise et celle de l'entreprise versées en faveur des salariés n'ont pas le caractère de
+rémunération, au sens des articles L. 741-10 du code rural et de la pêche maritime et 28-1 de l'ordonnance n° 96-1122 du 20
+décembre 1996 relative à l'amélioration de la santé publique, à l'assurance maladie, maternité, invalidité et décès, au
+financement de la sécurité sociale à Mayotte et à la caisse de sécurité sociale de Mayotte, ainsi que pour l'application de
+la législation du travail, lorsque ces aides sont destinées soit à faciliter l'accès des services aux salariés, soit à
+financer : 
+
+1° Des activités entrant dans le champ des services à la personne ; 
+
+2° Des activités de services assurées par les organismes mentionnés aux deux premiers alinéas de l'article L. 2324-1 du code
+de la santé publique ou par les organismes ou les personnes organisant l'accueil sans hébergement prévu au troisième alinéa
+du même article ou par des assistants maternels agréés en application de l'article L. 421-1 du code de l'action sociale et
+des familles. 
+
+Les dispositions du présent article ne donnent pas lieu à compensation par le budget de l'Etat aux régimes concernés pendant
+toute la durée de leur application.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 10
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D821-29 (VD)
+	  - Code du travail applicable à Mayotte. - art. D821-30 (VD)
+
+
+###### Article L821-15
+
+L'article L. 821-14 s'applique également au chef d'entreprise ou, si l'entreprise est une personne morale, à son président, à
+son directeur général, à son ou ses directeurs généraux délégués, à ses gérants ou à des membres de son directoire, dès lors
+que l'aide financière leur est versée aux mêmes fins et peut bénéficier à l'ensemble des salariés de l'entreprise selon les
+mêmes règles d'attribution.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 10
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D821-30 (VD)
+	  - Code du travail applicable à Mayotte. - art. D821-32 (VD)
+
+
+###### Article L821-16
+
+L'aide financière de l'entreprise n'entre pas dans le cadre des activités sociales et culturelles du comité d'entreprise
+mentionnées à l'article L. 442-17 et ne constitue pas une dépense sociale, au sens de l'article L. 442-18.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 10
+
+
+###### Article L821-17
+
+L'aide financière est exonérée d'impôt sur le revenu pour les bénéficiaires. 
+
+Elle n'est pas prise en compte dans le montant des dépenses à retenir pour l'assiette de l'aide mentionnée à l'article 199
+sexdecies du code général des impôts. 
+
+L'aide financière de l'entreprise bénéficie des dispositions du f du I de l'article 244 quater F du même code, dans sa
+rédaction antérieure au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 10
+
+
+###### Article L821-18
+
+L'aide financière peut être gérée par le comité d'entreprise ou l'entreprise ou, conjointement, par le comité d'entreprise et
+l'entreprise. 
+
+La gestion de l'aide financière de l'entreprise fait l'objet d'une consultation préalable du comité d'entreprise en cas de
+gestion conjointe et d'une procédure d'évaluation associant le comité d'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 10
+
+
+###### Article L821-19
+
+Un décret précise les conditions d'application des articles L. 821-14 et L. 821-15.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 10
 
 
 # Partie réglementaire
