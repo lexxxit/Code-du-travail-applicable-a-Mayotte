@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2015-10-16
+Version Consolidée au 2015-12-23
 
 # Partie législative
 
@@ -15059,6 +15059,28 @@ mise en oeuvre de ces échanges.
 	**Cite**:
 
 	  - Code du travail applicable à Mayotte. - art. L313-1 (V)
+
+
+###### Article L313-7
+
+Les agents de contrôle mentionnés aux articles L. 312-5, L. 610-1, L. 610-14 et L. 610-15 du présent code peuvent transmettre
+aux agents habilités par le directeur du Conseil national des activités privées de sécurité, mentionnés à l'article L. 634-1
+du code de la sécurité intérieure, tous renseignements et tous documents leur permettant d'assurer le contrôle des personnes
+exerçant les activités privées de sécurité pour tirer les conséquences d'une situation de travail illégal. 
+
+Les agents habilités par le directeur du Conseil national des activités privées de sécurité peuvent transmettre aux agents de
+contrôle mentionnés aux articles L. 312-5, L. 610-1, L. 610-14 et L. 610-15 du présent code tous renseignements et documents
+nécessaires à leur mission de lutte contre le travail illégal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1702 du 21 décembre 2015 - art. 94
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L634-1 (V)
 
 
 ### TITRE II : Aides à l'emploi et intervention du Fonds national de l'emploi
