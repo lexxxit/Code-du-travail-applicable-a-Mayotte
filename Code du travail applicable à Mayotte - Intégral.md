@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2015-12-23
+Version Consolidée au 2015-12-30
 
 # Partie législative
 
@@ -34183,41 +34183,6 @@ des immeubles bâtis.
 	**Cité par**:
 
 	  - Code du travail applicable à Mayotte. - art. R821-18 (VD)
-
-
-###### Article L821-6
-
-Les personnes morales ou les entreprises individuelles fournissant un service d'aide à domicile, agréées en application de
-l'article L. 821-1 du présent code, peuvent demander l'autorisation de créer un établissement ou un service dont l'activité
-relève du I de l'article L. 312-1 du code de l'action sociale et des familles sans que leur agrément au titre de la présente
-section soit remis en cause de ce seul fait.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2015-1268 du 14 octobre 2015 - art. 10
-
-	**Abrogé par**:
-
-	  - Loi n°2015-1776 du 28 décembre 2015 - art. 84 (V)
-
-
-###### Article L821-7
-
-L'exigence de qualité nécessaire à l'intervention de toute personne morale ou entreprise individuelle mentionnée aux articles
-L. 821-3 et L. 821-5 est équivalente à celle requise pour les mêmes publics par la loi n° 2002-2 du 2 janvier 2002 rénovant
-l'action sociale et médico-sociale
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2015-1268 du 14 octobre 2015 - art. 10
-
-	**Abrogé par**:
-
-	  - Loi n°2015-1776 du 28 décembre 2015 - art. 84 (V)
 
 
 ##### Sous-section 2 : Mise en œuvre des activités
