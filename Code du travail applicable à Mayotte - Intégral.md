@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2015-12-30
+Version Consolidée au 2016-01-01
 
 # Partie législative
 
@@ -21655,21 +21655,25 @@ effectuer mensuellement des retraits de ce compte dans la limite du montant de s
 
 ###### Article L327-25
 
-Le taux de l'allocation de solidarité spécifique est révisé une fois par an en fonction de l'évolution des prix et est fixé
-par décret. 
+Le taux de l'allocation de solidarité spécifique est revalorisé le 1er avril de chaque année par application du coefficient
+mentionné à l'article L. 161-25 du code de la sécurité sociale et est fixé par décret. 
 
 En outre, il est procédé par décret à des revalorisations spécifiques à Mayotte, en vue de réduire la différence de taux de
 l'allocation avec celui appliqué en métropole et dans les autres départements d'outre-mer.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 5
+	  - Loi n°2015-1785 du 29 décembre 2015 - art. 67 (V)
 
 	**Cité par**:
 
 	  - Décret n°2016-797 du 14 juin 2016 (V)
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L161-25 (V)
 
 
 ##### Sous-section 2 : Financement 
@@ -22878,6 +22882,44 @@ Conformément à l'article 14 de l'ordonnance n° 2012-788 du 31 mai 2012, l'art
 	**Cite**:
 
 	  - Code du travail applicable à Mayotte. - art. L328-11
+
+
+###### Article L328-10-1
+
+L'association mentionnée à l'article L. 328-45 se prononce de manière explicite sur toute demande d'un employeur ayant pour
+objet de connaître l'application à sa situation de la législation relative : 
+
+1° A l'effectif d'assujettissement à l'obligation d'emploi calculé selon les articles L. 011-4 et L. 011-5 ; 
+
+2° A la mise en œuvre de l'obligation d'emploi prévue aux articles L. 328-7 à L. 328-10 ; 
+
+3° Aux modalités d'acquittement de l'obligation d'emploi prévues aux articles L. 328-11, L. 328-12 et L. 328-14 à L.
+328-16 ; 
+
+4° Aux bénéficiaires de l'obligation d'emploi visés aux articles L. 328-18 et L. 328-19. 
+
+La décision ne s'applique qu'à l'employeur demandeur et est opposable pour l'avenir à l'association mentionnée à l'article L.
+328-45 tant que la situation de fait exposée dans la demande ou la législation au regard de laquelle sa situation a été
+appréciée n'ont pas été modifiées. 
+
+Il ne peut être procédé à la mise en œuvre de la pénalité prévue à l'article L. 328-17 fondée sur une prise de position
+différente de celle donnée dans la réponse à compter de la date de notification de celle-ci. 
+
+Lorsque l'association mentionnée à l'article L. 328-45 entend modifier pour l'avenir sa réponse, elle en informe l'employeur
+selon des conditions et des modalités fixées par décret en Conseil d'Etat. 
+
+Un décret en Conseil d'Etat précise les modalités de contenu et de dépôt de la demande ainsi que le délai dans lequel doit
+intervenir la décision explicite.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2015-1628 du 10 décembre 2015 - art. 6
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R328-15-1 (V)
 
 
 ##### Sous-section 3 : Modalités de mise en œuvre de l'obligation.
@@ -25323,6 +25365,177 @@ syndicat propriétaire de la marque ou du label est nul.
 
 
 ##### Section 5 : Ressources et moyens 
+
+
+##### Sous-section 1 : Certification et publicité des comptes 
+des organisations syndicales et professionnelles 
+
+
+
+###### Article L413-18
+
+Les syndicats professionnels et leurs unions mentionnés aux articles L. 413-2, L. 413-13 et L. 413-14 relatifs à la création
+de syndicats professionnels et les associations de salariés ou d'employeurs régies par la loi du 1er juillet 1901 relative au
+contrat d'association sont soumis aux obligations comptables définies à l'article L. 123-12 du code de commerce. Lorsque
+leurs ressources annuelles n'excèdent pas un seuil fixé par décret, ils peuvent adopter une présentation simplifiée de leurs
+comptes avec la possibilité de n'enregistrer leurs créances et leurs dettes qu'à la clôture de l'exercice. Si leurs
+ressources annuelles n'excèdent pas un second seuil fixé par décret, ils peuvent tenir un livre enregistrant
+chronologiquement l'ensemble des mouvements de leur patrimoine. Les conditions d'application du présent article sont fixées
+par décret.
+
+**Nota:**
+
+Ordonnance n° 2012-792 du 7 juin 2012, article 9 : Les dispositions des articles L. 413-18 à L. 413-23 et du 3° de l'article
+L. 412-1 du code du travail applicable à Mayotte relatives à l'établissement, la certification et la publicité des comptes
+des organisations syndicales s'appliquent à compter de l'exercice comptable 2016.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+	**Cité par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 9 (V)
+	  - Code du travail applicable à Mayotte. - art. D413-10 (V)
+	  - Code du travail applicable à Mayotte. - art. D413-2 (V)
+	  - Code du travail applicable à Mayotte. - art. D413-3 (V)
+	  - Code du travail applicable à Mayotte. - art. D413-4 (V)
+	  - Code du travail applicable à Mayotte. - art. D413-5 (V)
+	  - Code du travail applicable à Mayotte. - art. D413-8 (V)
+	  - Code du travail applicable à Mayotte. - art. D413-9 (V)
+	  - Code du travail applicable à Mayotte. - art. L413-20 (VD)
+	  - Code du travail applicable à Mayotte. - art. L413-22 (VD)
+
+	**Cite**:
+
+	  - Code de commerce - art. L123-12
+
+
+###### Article L413-19
+
+Les syndicats professionnels et leurs unions et les associations de salariés ou d'employeurs mentionnés à l'article L. 413-18
+qui contrôlent une ou plusieurs personnes morales au sens de l'article L. 233-16 du code de commerce, sans entretenir avec
+elles de lien d'adhésion ou d'affiliation, sont tenus, dans des conditions déterminées par décret : 
+
+1° Soit d'établir des comptes consolidés ; 
+
+2° Soit de fournir, en annexe à leurs propres comptes, les comptes de ces personnes morales, ainsi qu'une information sur la
+nature du lien de contrôle. Dans ce cas, les comptes de ces personnes morales doivent avoir fait l'objet d'un contrôle légal.
+
+**Nota:**
+
+Ordonnance n° 2012-792 du 7 juin 2012, article 9 : Les dispositions des articles L. 413-18 à L. 413-23 et du 3° de l'article
+L. 412-1 du code du travail applicable à Mayotte relatives à l'établissement, la certification et la publicité des comptes
+des organisations syndicales s'appliquent à compter de l'exercice comptable 2016.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+	**Cite**:
+
+	  - Code de commerce - art. L233-16
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D413-6 (V)
+
+
+###### Article L413-20
+
+Les syndicats professionnels de salariés ou d'employeurs, leurs unions et les associations de salariés ou d'employeurs
+mentionnés à l'article L. 413-18 peuvent, lorsque leurs statuts le prévoient, établir des comptes combinés intégrant la
+comptabilité des personnes morales et entités avec lesquelles ils ont des liens d'adhésion ou d'affiliation, dans des
+conditions déterminées par décret.
+
+**Nota:**
+
+Ordonnance n° 2012-792 du 7 juin 2012, article 9 : Les dispositions des articles L. 413-18 à L. 413-23 et du 3° de l'article
+L. 412-1 du code du travail applicable à Mayotte relatives à l'établissement, la certification et la publicité des comptes
+des organisations syndicales s'appliquent à compter de l'exercice comptable 2016.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D413-7 (V)
+	  - Code du travail applicable à Mayotte. - art. L413-22 (VD)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L413-18 (VD)
+
+
+###### Article L413-21
+
+Les comptes sont arrêtés par l'organe chargé de la direction et approuvés par l'assemblée générale des adhérents ou par un
+organe collégial de contrôle désigné par les statuts.
+
+**Nota:**
+
+Ordonnance n° 2012-792 du 7 juin 2012, article 9 : Les dispositions des articles L. 413-18 à L. 413-23 et du 3° de l'article
+L. 412-1 du code du travail applicable à Mayotte relatives à l'établissement, la certification et la publicité des comptes
+des organisations syndicales s'appliquent à compter de l'exercice comptable 2016.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+
+###### Article L413-22
+
+Les syndicats professionnels de salariés ou d'employeurs, leurs unions et les associations de salariés ou d'employeurs
+mentionnés à l'article L. 413-18 tenus d'établir des comptes assurent la publicité de leurs comptes dans des conditions
+déterminées par décret. 
+
+Le premier alinéa est applicable au syndicat ou à l'association qui combine les comptes des organisations mentionnées à
+l'article L. 413-20. Ces organisations sont alors dispensées de l'obligation de publicité.
+
+**Nota:**
+
+Ordonnance n° 2012-792 du 7 juin 2012, article 9 : Les dispositions des articles L. 413-18 à L. 413-23 et du 3° de l'article
+L. 412-1 du code du travail applicable à Mayotte relatives à l'établissement, la certification et la publicité des comptes
+des organisations syndicales s'appliquent à compter de l'exercice comptable 2016.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L413-18 (VD)
+	  - Code du travail applicable à Mayotte. - art. L413-20 (VD)
+
+
+###### Article L413-23
+
+Les syndicats professionnels ou d'employeurs, leurs unions et les associations de salariés ou d'employeurs mentionnés à
+l'article L. 413-28 dont les ressources dépassent un seuil fixé par décret sont tenus de nommer au moins un commissaire aux
+comptes et un suppléant.
+
+**Nota:**
+
+Ordonnance n° 2012-792 du 7 juin 2012, article 9 : Les dispositions des articles L. 413-18 à L. 413-23 et du 3° de l'article
+L. 412-1 du code du travail applicable à Mayotte relatives à l'établissement, la certification et la publicité des comptes
+des organisations syndicales s'appliquent à compter de l'exercice comptable 2016.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
 
 
 ##### Sous-section 2 : Mise à disposition des salariés 
