@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2016-03-09
+Version Consolidée au 2016-03-19
 
 # Partie législative
 
@@ -37041,25 +37041,20 @@ Un récépissé est délivré au déposant.
 
 Toute personne intéressée peut prendre connaissance gratuitement auprès de la direction du travail, de l'emploi et de la
 formation professionnelle de Mayotte des textes déposés. Elle peut en obtenir des copies à ses frais suivant les modalités
-fixées à l'article 4 de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations entre
-l'administration et le public et diverses dispositions d'ordre administratif, social et fiscal. 
+fixées à l'article L. 311-9 du code des relations entre le public et l'administration. 
 
 Toutefois, dans le cas où une instance juridictionnelle est engagée, copie de tout ou partie de la convention ou de l'accord
 en cause est délivrée gratuitement, sur sa demande, à chacune des parties à l'instance.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°78-753 du 17 juillet 1978 - art. 4 (V)
-
-	**Codifié par**:
-
-	  - Décret n°91-1263 1991-12-16 annexe
-
 	**Modifié par**:
 
-	  - Décret n°2006-1315 du 25 octobre 2006 - art. 3 () JORF 27 octobre 2006
+	  - Décret n°2016-308 du 17 mars 2016 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code des relations entre le public et l'adminis... - art. L311-9 (V)
 
 
 #### CHAPITRE III : Conventions et accords susceptibles d'être étendus et procédures d'extension et d'élargissement
