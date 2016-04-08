@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2016-03-19
+Version Consolidée au 2016-04-09
 
 # Partie législative
 
@@ -17389,7 +17389,9 @@ employeurs suivants :
 
 3° Les organismes de droit privé à but non lucratif ; 
 
-4° Les personnes morales de droit privé chargées de la gestion d'un service public.
+4° Les personnes morales de droit privé chargées de la gestion d'un service public ;
+
+5° Les sociétés coopératives d'intérêt collectif.
 
 **Liens relatifs à cet article**
 
@@ -17400,7 +17402,7 @@ employeurs suivants :
 
 	**Modifié par**:
 
-	  - Loi n°2012-1189 du 26 octobre 2012 - art. 13
+	  - Ordonnance n°2016-415 du 7 avril 2016 - art. 3
 
 	**Cité par**:
 
@@ -18262,9 +18264,11 @@ qualification ;
 
 5° Les organismes proposant des services relatifs à l'insertion par l'activité économique mentionnés à l'article L. 326-4 ; 
 
-6° Les personnes morales de droit privé chargées de la gestion d'un service public. 
+6° Les personnes morales de droit privé chargées de la gestion d'un service public ;
 
-Par exception, lorsqu'ils ne relèvent pas d'une des catégories mentionnées aux 1° à 6° du présent article, les employeurs
+7° Les sociétés coopératives d'intérêt collectif. 
+
+Par exception, lorsqu'ils ne relèvent pas d'une des catégories mentionnées aux 1° à 7° du présent article, les employeurs
 relevant de l'article L. 327-15 et des 3° et 4° de l'article L. 327-36 sont éligibles à l'aide relative à l'emploi d'avenir
 s'ils remplissent les conditions fixées par décret en Conseil d'Etat relatives à leur secteur d'activité et au parcours
 d'insertion et de qualification proposé au futur bénéficiaire. 
@@ -18276,9 +18280,9 @@ financière, à maintenir l'emploi au moins le temps de son versement.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2012-1189 du 26 octobre 2012 - art. 11
+	  - Ordonnance n°2016-415 du 7 avril 2016 - art. 3
 
 	**Cite**:
 
@@ -34688,6 +34692,271 @@ Un décret précise les conditions d'application des articles L. 821-14 et L. 82
 	**Créé par**:
 
 	  - Loi n°2015-1268 du 14 octobre 2015 - art. 10
+
+
+### TITRE III : ACTIVITÉS RELEVANT DE L'ÉCONOMIE SOCIALE ET SOLIDAIRE 
+
+#### Chapitre Ier : Agrément “entreprise solidaire d'utilité sociale” 
+
+
+###### Article L831-1
+
+I.-Peut prétendre à l'agrément “ entreprise solidaire d'utilité sociale ” l'entreprise qui relève de l'article 1er de la loi
+n° 2014-856 du 31 juillet 2014 relative à l'économie sociale et solidaire et qui remplit les conditions cumulatives
+suivantes : 
+
+1° L'entreprise poursuit comme objectif principal la recherche d'une utilité sociale, définie à l'article 2 de la même loi ; 
+
+2° La charge induite par son objectif d'utilité sociale a un impact significatif sur le compte de résultat ou la rentabilité
+financière de l'entreprise ; 
+
+3° La politique de rémunération de l'entreprise satisfait aux deux conditions suivantes : 
+
+a) La moyenne des sommes versées, y compris les primes, aux cinq salariés ou dirigeants les mieux rémunérés n'excède pas, au
+titre de l'année pour un emploi à temps complet, un plafond fixé à sept fois la rémunération annuelle perçue par un salarié à
+temps complet sur la base de la durée légale du travail et du salaire minimum interprofessionnel garanti, ou du salaire
+minimum de branche si ce dernier est supérieur ; 
+
+b) Les sommes versées, y compris les primes, au salarié ou dirigeant le mieux rémunéré n'excèdent pas, au titre de l'année
+pour un emploi à temps complet, un plafond fixé à dix fois la rémunération annuelle mentionnée au a ; 
+
+4° Les titres de capital de l'entreprise, lorsqu'ils existent, ne sont pas admis aux négociations sur un marché d'instruments
+financiers, français ou étranger, dont le fonctionnement est assuré par une entreprise de marché ou un prestataire de
+services d'investissement ou tout autre organisme similaire étranger ; 
+
+5° Les conditions mentionnées aux 1° et 3° figurent dans les statuts. 
+
+II.-Bénéficient de plein droit de l'agrément mentionné au I, sous réserve de satisfaire aux conditions fixées à l'article 1er
+de la loi n° 2014-856 du 31 juillet 2014 précitée et à la condition fixée au 4° du I du présent article : 
+
+1° Les entreprises d'insertion ; 
+
+2° Les associations intermédiaires ; 
+
+3° Les ateliers et chantiers d'insertion ; 
+
+4° Les organismes d'insertion sociale relevant de l'article L. 121-2 du code de l'action sociale et des familles ; 
+
+5° Les services de l'aide sociale à l'enfance ; 
+
+6° Les centres d'hébergement et de réinsertion sociale ; 
+
+7° Les régies de quartier ; 
+
+8° Les entreprises adaptées ; 
+
+9° Les centres de distribution de travail à domicile ; 
+
+10° Les établissements et services d'aide par le travail ; 
+
+11° Les organismes agréés mentionnés à l'article L. 365-1 du code de la construction et de l'habitation ; 
+
+12° Les associations et fondations reconnues d'utilité publique et considérées comme recherchant une utilité sociale au sens
+de l'article 2 de la loi n° 2014-856 du 31 juillet 2014 précitée ; 
+
+13° Les organismes agréés mentionnés à l'article L. 265-1 du code de l'action sociale et des familles ; 
+
+14° Les établissements et services accompagnant et accueillant des enfants et des adultes handicapés mentionnés aux 2°, 3° et
+7° du I de l'article L. 312-1 du même code. 
+
+III.-Sont assimilés aux entreprises solidaires d'utilité sociale agréées en application du présent article : 
+
+1° Les organismes de financement dont l'actif est composé pour au moins 35 % de titres émis par des entreprises de l'économie
+sociale et solidaire définies à l'article 1er de la loi n° 2014-856 du 31 juillet 2014 précitée dont au moins cinq septièmes
+de titres émis par des entreprises solidaires d'utilité sociale définies au présent article ; 
+
+2° Les établissements de crédit dont au moins 80 % de l'ensemble des prêts et des investissements sont effectués en faveur
+des entreprises solidaires d'utilité sociale. 
+
+IV.-Les entreprises solidaires d'utilité sociale sont agréées par l'autorité compétente. 
+
+V.-Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-415 du 7 avril 2016 - art. 2
+
+
+#### Chapitre II : Entrepreneurs salariés associés d'une coopérative d'activité et d'emploi 
+
+
+##### Section 1 : Dispositions générales 
+
+
+
+##### Sous-section 1 : Champ d'application 
+
+
+###### Article L832-1
+
+Le présent code est applicable aux entrepreneurs salariés associés d'une coopérative d'activité et d'emploi mentionnée à
+l'article 26-41 de la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération, sous réserve des dispositions du
+présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-415 du 7 avril 2016 - art. 2
+
+
+##### Sous-section 2 : Principes 
+
+
+###### Article L832-2
+
+Est entrepreneur salarié d'une coopérative d'activité et d'emploi toute personne physique qui : 
+
+1° Crée et développe une activité économique en bénéficiant d'un accompagnement individualisé et de services mutualisés mis
+en œuvre par la coopérative en vue d'en devenir associé ; 
+
+2° Conclut avec la coopérative un contrat, établi par écrit, comportant : 
+
+a) Les objectifs à atteindre et les obligations d'activité minimale de l'entrepreneur salarié ; 
+
+b) Les moyens mis en œuvre par la coopérative pour soutenir et contrôler son activité économique ; 
+
+c) Les modalités de calcul de la contribution de l'entrepreneur salarié au financement des services mutualisés mis en œuvre
+par la coopérative, dans les conditions prévues par les statuts de celle-ci ; 
+
+d) Le montant de la part fixe et les modalités de calcul de la part variable de la rémunération de l'entrepreneur salarié, en
+application de l'article L. 832-6 ; 
+
+e) La mention des statuts en vigueur de la coopérative ; 
+
+f) Les conditions dans lesquelles sont garantis à l'entrepreneur salarié ses droits sur la clientèle qu'il a apportée, créée
+et développée, ainsi que ses droits de propriété intellectuelle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-415 du 7 avril 2016 - art. 2
+
+
+###### Article L832-3
+
+Dans un délai maximal de trois ans à compter de la conclusion du contrat mentionné à l'article L. 832-2, l'entrepreneur
+salarié devient associé de la coopérative d'activité et d'emploi. 
+
+Ce délai est minoré, le cas échéant, de la durée du contrat d'appui au projet d'entreprise pour la création ou la reprise
+d'une activité économique prévu à l'article L. 127-1 du code de commerce ou de tout autre contrat conclu entre les parties. 
+
+Le contrat mentionné à l'article L. 832-2 du présent code prend fin si l'entrepreneur salarié ne devient pas associé avant ce
+délai.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-415 du 7 avril 2016 - art. 2
+
+
+##### Section 2 :  Mise en œuvre 
+
+###### Article L832-4
+
+Le contrat mentionné au 2° de l'article L. 832-2 peut comporter une période d'essai dont la durée, renouvellement compris, ne
+peut excéder huit mois. 
+
+Lorsque les parties ont préalablement conclu un contrat d'appui au projet d'entreprise pour la création ou la reprise d'une
+activité économique, prévu à l'article L. 127-1 du code de commerce, ou tout autre contrat, la durée de ces contrats est
+déduite de la durée prévue au premier alinéa du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-415 du 7 avril 2016 - art. 2
+
+
+###### Article L832-5
+
+La coopérative d'activité et d'emploi est responsable de l'application, au profit des entrepreneurs salariés associés, des
+dispositions du livre II du présent code lorsque les conditions de travail, de santé et de sécurité au travail ont été fixées
+par elle ou soumises à son accord. 
+
+Dans tous les cas, les entrepreneurs salariés associés bénéficient des avantages légaux accordés aux salariés, notamment en
+matière de congés payés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-415 du 7 avril 2016 - art. 2
+
+
+###### Article L832-6
+
+La rémunération d'un entrepreneur salarié associé d'une coopérative d'activité et d'emploi comprend une part fixe et une part
+variable calculée en fonction du chiffre d'affaires de son activité, après déduction des charges directement et exclusivement
+liées à son activité et de la contribution mentionnée au c du 2° de l'article L. 832-2. 
+
+La coopérative met à la disposition de l'entrepreneur salarié associé un état des comptes faisant apparaître le détail des
+charges et des produits liés à son activité. 
+
+Les modalités de calcul et de versement de la rémunération à l'entrepreneur salarié associé et de déclaration auprès des
+organismes sociaux sont précisées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-415 du 7 avril 2016 - art. 2
+
+
+###### Article L832-7
+
+Les dispositions de l'article L. 143-17 relatives aux garanties des rémunérations dans le cadre d'une procédure de
+sauvegarde, de redressement ou de liquidation judiciaires s'appliquent aux entrepreneurs salariés associés d'une coopérative
+d'activité et d'emploi pour les rémunérations de toute nature dues au titre des quatre-vingt-dix derniers jours de travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-415 du 7 avril 2016 - art. 2
+
+
+###### Article L832-8
+
+La coopérative d'activité et d'emploi est responsable des engagements pris vis-à-vis des tiers dans le cadre de l'activité
+économique développée par l'entrepreneur salarié associé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-415 du 7 avril 2016 - art. 2
+
+
+###### Article L832-9
+
+Le tribunal du travail est seul compétent pour connaître des litiges relatifs au contrat mentionné au 2° de l'article L.
+832-2. 
+
+Toute clause attributive de juridiction incluse dans un contrat conclu entre un entrepreneur salarié associé et une
+coopérative d'activité et d'emploi dont il est l'associé est nulle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-415 du 7 avril 2016 - art. 2
+
+
+###### Article L832-10
+
+Le présent chapitre s'applique aux entrepreneurs salariés régis par les articles L. 832-2 et L. 832-3 qui ne sont pas encore
+associés de la coopérative d'activité et d'emploi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-415 du 7 avril 2016 - art. 2
 
 
 # Partie réglementaire
