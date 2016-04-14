@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2016-04-09
+Version Consolidée au 2016-04-15
 
 # Partie législative
 
@@ -36093,6 +36093,131 @@ ci.
 	  - Décret n°2015-1220 du 1er octobre 2015 - art. 1
 
 
+##### Sous-section 3 : Période d'immersion
+
+###### Article D127-10-1
+
+La convention mentionnée à l'article L. 127-2 peut prévoir, dans sa rédaction initiale ou par avenant, la possibilité pour
+l'entreprise d'insertion signataire de mettre en place des périodes d'immersion pour ses salariés recrutés dans le cadre de
+contrats conclus en application de l'article L. 127-5. 
+
+Dans ce cas, la convention précise : 
+
+1° Le nombre prévisionnel de salariés concernés ; 
+
+2° Les employeurs auprès desquels ces salariés pourraient effectuer des périodes d'immersion ; 
+
+3° Les modalités d'accompagnement spécifiques prévues par l'entreprise d'insertion pendant ces périodes ; 
+
+4° Les objectifs visés par l'immersion. 
+
+La signature de cette convention par l'Etat vaut agrément au sens du deuxième alinéa de l'article L. 127-5.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-452 du 12 avril 2016 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L127-2
+	  - Code du travail applicable à Mayotte. - art. L127-5
+
+
+###### Article D127-10-2
+
+Chaque période d'immersion fait l'objet d'un avenant écrit au contrat mentionné à l'article L. 127-5. Cet avenant peut
+prévoir la possibilité de réaliser plusieurs périodes d'immersion auprès du même employeur. 
+
+Il est rédigé conformément à un modèle défini par arrêté du ministre chargé de l'emploi. 
+
+Un salarié ne peut être sanctionné, licencié ou faire l'objet d'une mesure discriminatoire pour avoir refusé d'effectuer une
+période d'immersion ou pour avoir décidé d'y mettre fin.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-452 du 12 avril 2016 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L127-5
+
+
+###### Article D127-10-3
+
+La durée de chaque période d'immersion ne peut excéder un mois. 
+
+La durée cumulée de l'ensemble des périodes d'immersion effectuées au cours du contrat conclu en application de l'article L.
+127-5 ne peut représenter plus de 25 % de la durée totale du contrat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-452 du 12 avril 2016 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L127-5
+
+
+###### Article D127-10-4
+
+Chaque période d'immersion fait l'objet d'une convention de mise à disposition à titre gratuit conclue entre l'entreprise
+d'insertion et l'employeur auprès duquel elle sera effectuée. Cette convention peut prévoir la possibilité d'effectuer
+plusieurs périodes d'immersion auprès de l'employeur. 
+
+La convention de mise à disposition comporte notamment les indications suivantes : 
+
+1° La référence à l'article L. 127-5 qui autorise la période d'immersion et aux dispositions des titres Ier à V du livre II "
+Réglementation du travail " du présent code ; 
+
+2° Les nom, prénom, adresse et date de naissance du salarié ; 
+
+3° La nature des activités faisant l'objet de la convention ; 
+
+4° Le lieu d'exécution, les horaires de travail, les dates de début et de fin de la période d'immersion ou, le cas échéant,
+les modalités de succession des périodes travaillées auprès de l'entreprise d'insertion et de l'employeur ; 
+
+5° Les conditions et modalités de rupture anticipée de la mise à disposition par l'une ou l'autre des parties à la
+convention ; 
+
+6° La répartition des responsabilités, notamment en matière de formation à la sécurité et d'assurance contre le risque
+accidents du travail et maladies professionnelles, ainsi que sur l'exercice du pouvoir disciplinaire et des fonctions
+d'encadrement ; 
+
+7° Les objectifs visés par l'immersion, tels que la découverte de métiers, la confirmation du projet professionnel,
+l'acquisition d'expériences et de compétences professionnelles, ou toute autre finalité à visée professionnelle à préciser ; 
+
+8° Les modalités selon lesquelles la réalisation de ces objectifs est appréciée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-452 du 12 avril 2016 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L127-5
+
+
+###### Article D127-10-5
+
+L'employeur transmet à l'Agence de services et de paiement un document dont le modèle est fixé par arrêté du ministre chargé
+de l'emploi, signalant chaque période d'immersion mise en œuvre et comportant les indications nécessaires au suivi
+statistique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-452 du 12 avril 2016 - art. 1
+
+
 ##### Section 2 : Association intermédiaire 
 
 
@@ -36414,6 +36539,132 @@ donnent alors lieu à reversement.
 	  - Décret n°2015-1220 du 1er octobre 2015 - art. 1
 
 
+##### Sous-section 4 : Période d'immersion
+
+###### Article D127-26-1
+
+La convention mentionnée à l'article L. 127-2 peut prévoir, dans sa rédaction initiale ou par avenant, la possibilité pour
+l'association intermédiaire signataire de mettre en place des périodes d'immersion pour ses salariés recrutés dans le cadre
+de contrats conclus en application de l'article L. 127-11. 
+
+Dans ce cas, la convention précise : 
+
+1° Le nombre prévisionnel de salariés concernés ; 
+
+2° Les employeurs auprès desquels ces salariés pourraient effectuer des périodes d'immersion ; 
+
+3° Les modalités d'accompagnement spécifiques prévues par l'association intermédiaire pendant ces périodes ; 
+
+4° Les objectifs visés par l'immersion. 
+
+La signature de cette convention par l'Etat vaut agrément au sens du deuxième alinéa de l'article L. 127-11.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-452 du 12 avril 2016 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L127-11
+	  - Code du travail applicable à Mayotte. - art. L127-2
+
+
+###### Article D127-26-2
+
+Chaque période d'immersion fait l'objet d'un avenant écrit au contrat mentionné à l'article L. 127-11. 
+
+Cet avenant peut prévoir la possibilité de réaliser plusieurs périodes d'immersion auprès du même employeur. 
+
+Il est rédigé conformément à un modèle défini par arrêté du ministre chargé de l'emploi. 
+
+Un salarié ne peut être sanctionné, licencié ou faire l'objet d'une mesure discriminatoire pour avoir refusé d'effectuer une
+période d'immersion ou pour avoir décidé d'y mettre fin.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-452 du 12 avril 2016 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L127-11
+
+
+###### Article D127-26-3
+
+La durée de chaque période d'immersion ne peut excéder un mois. 
+
+La durée cumulée de l'ensemble des périodes d'immersion effectuées au cours du contrat conclu en application de l'article L.
+127-11 ne peut représenter plus de 25 % de la durée totale du contrat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-452 du 12 avril 2016 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L127-11
+
+
+###### Article D127-26-4
+
+Chaque période d'immersion fait l'objet d'une convention de mise à disposition à titre gratuit conclue entre l'association
+intermédiaire et l'employeur auprès duquel elle sera effectuée. Cette convention peut prévoir la possibilité d'effectuer
+plusieurs périodes d'immersion auprès de l'employeur. 
+
+La convention de mise à disposition comporte notamment les indications suivantes : 
+
+1° La référence à l'article L. 127-11 qui autorise la période d'immersion et aux dispositions des titres Ier à V du livre II
+" Réglementation du travail " du présent code ; 
+
+2° Les nom, prénom, adresse et date de naissance du salarié ; 
+
+3° La nature des activités faisant l'objet de la convention ; 
+
+4° Le lieu d'exécution, les horaires de travail, les dates de début et de fin de la période d'immersion ou, le cas échéant,
+les modalités de succession des périodes travaillées auprès de l'association intermédiaire et de l'employeur ; 
+
+5° Les conditions et modalités de rupture anticipée de la mise à disposition par l'une ou l'autre des parties à la
+convention ; 
+
+6° La répartition des responsabilités, notamment en matière de formation à la sécurité et d'assurance contre le risque
+accidents du travail et maladies professionnelles, ainsi que sur l'exercice du pouvoir disciplinaire et des fonctions
+d'encadrement ; 
+
+7° Les objectifs visés par l'immersion, tels que la découverte de métiers, la confirmation du projet professionnel,
+l'acquisition d'expériences et de compétences professionnelles, ou toute autre finalité à visée professionnelle à préciser ; 
+
+8° Les modalités selon lesquelles la réalisation de ces objectifs est appréciée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-452 du 12 avril 2016 - art. 2
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L127-11
+
+
+###### Article D127-26-5
+
+L'employeur transmet à l'Agence de services et de paiement un document dont le modèle est fixé par arrêté du ministre chargé
+de l'emploi, signalant chaque période d'immersion mise en œuvre et comportant les indications nécessaires au suivi
+statistique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-452 du 12 avril 2016 - art. 2
+
+
 ##### Sous-section 5 : Suivi médical des salariés de l'association intermédiaire 
 
 
@@ -36473,6 +36724,38 @@ trois, listés par l'association intermédiaire lors de sa demande de visite mé
 
 
 ##### Sous-section 1 : Convention 
+
+
+###### Article D127-30
+
+Après avis favorable du conseil départemental de l'insertion par l'activité économique, un organisme conventionné au titre
+d'un atelier ou chantier d'insertion peut également être conventionné au titre d'une entreprise d'insertion ou d'une
+association intermédiaire. 
+
+Les activités réalisées par l'organisme conventionné au titre de chacune des deux conventions font alors l'objet d'une
+comptabilité distincte et donnent lieu à une information sectorielle distincte donnée en annexe des comptes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-452 du 12 avril 2016 - art. 3
+
+
+###### Article D127-31
+
+Lorsque l'organisme conventionné au titre de l'article L. 127-14 est une association, elle établit les comptes annuels
+conformément au règlement de l'Autorité des normes comptables en vigueur pour les comptes annuels des associations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-452 du 12 avril 2016 - art. 3
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L127-14
 
 
 ###### Article R127-27
@@ -36622,6 +36905,32 @@ la réalité des actions d'insertion mises en œuvre ainsi que leurs résultats.
 	  - Décret n°2015-1220 du 1er octobre 2015 - art. 1
 
 
+##### Sous-section 2 : Mise en œuvre des actions
+
+###### Article D127-34
+
+La commercialisation des biens et des services produits dans le cadre des ateliers et des chantiers d'insertion est possible
+lorsqu'elle contribue à la réalisation et au développement des activités d'insertion sociale et professionnelle des personnes
+mentionnées à l'article L. 127-1. 
+
+Toutefois, les recettes tirées de cette commercialisation ne peuvent couvrir qu'une part inférieure à 30 % des charges liées
+à ces activités. 
+
+Cette part peut être augmentée sur décision du préfet, dans la limite de 50 %, après avis favorable du conseil départemental
+de l'insertion par l'activité économique, si les activités développées ne sont pas déjà assurées et satisfaites par les
+entreprises locales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-452 du 12 avril 2016 - art. 3
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L127-1
+
+
 ##### Sous-section 3 : Aide financière 
 
 
@@ -36694,6 +37003,133 @@ donnent alors lieu à reversement.
 	**Créé par**:
 
 	  - Décret n°2015-1220 du 1er octobre 2015 - art. 1
+
+
+##### Sous-section 4 : Période d'immersion
+
+###### Article D127-37-1
+
+La convention mentionnée à l'article L. 127-2 peut prévoir, dans sa rédaction initiale ou par avenant, la possibilité pour
+l'organisme conventionné en tant qu'atelier et chantier d'insertion signataire de mettre en place des périodes d'immersion
+pour ses salariés recrutés dans le cadre de contrats conclus en application de l'article L. 127-15. Dans ce cas, la
+convention précise : 
+
+1° Le nombre prévisionnel de salariés concernés ; 
+
+2° Les employeurs auprès desquels ces salariés pourraient effectuer des périodes d'immersion ; 
+
+3° Les modalités d'accompagnement spécifiques prévues par l'organisme conventionné en tant qu'atelier et chantier d'insertion
+pendant ces périodes ; 
+
+4° Les objectifs visés par l'immersion. 
+
+La signature de cette convention par l'Etat vaut agrément au sens du deuxième alinéa de l'article L. 127-15.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-452 du 12 avril 2016 - art. 3
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L127-15
+	  - Code du travail applicable à Mayotte. - art. L127-2
+
+
+###### Article D127-37-2
+
+Chaque période d'immersion fait l'objet d'un avenant écrit au contrat mentionné à l'article L. 127-15. 
+
+Cet avenant peut prévoir la possibilité de réaliser plusieurs périodes d'immersion auprès de l'employeur. 
+
+Il est rédigé conformément à un modèle défini par arrêté du ministre chargé de l'emploi. 
+
+Un salarié ne peut être sanctionné, licencié ou faire l'objet d'une mesure discriminatoire pour avoir refusé d'effectuer une
+période d'immersion ou pour avoir décidé d'y mettre fin.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-452 du 12 avril 2016 - art. 3
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L127-15
+
+
+###### Article D127-37-3
+
+La durée de chaque période d'immersion ne peut excéder un mois. 
+
+La durée cumulée de l'ensemble des périodes d'immersion effectuées au cours du contrat conclu en application de l'article L.
+127-15 ne peut représenter plus de 25 % de la durée totale du contrat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-452 du 12 avril 2016 - art. 3
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L127-15
+
+
+###### Article D127-37-4
+
+Chaque période d'immersion fait l'objet d'une convention de mise à disposition à titre gratuit conclue entre l'organisme
+conventionné en tant qu'atelier et chantier d'insertion et l'employeur auprès duquel elle sera effectuée. Cette convention
+peut prévoir la possibilité d'effectuer plusieurs périodes d'immersion auprès d'un même employeur. 
+
+La convention de mise à disposition comporte notamment les indications suivantes : 
+
+1° La référence à l'article L. 127-15 qui autorise la période d'immersion et aux dispositions des titres Ier à V du livre II
+" Réglementation du travail " du présent code ; 
+
+2° Les nom, prénom, adresse et date de naissance du salarié ; 
+
+3° La nature des activités faisant l'objet de la convention ; 
+
+4° Le lieu d'exécution, les horaires de travail, les dates de début et de fin de la période d'immersion ou, le cas échéant le
+prévoit, les modalités de succession des périodes travaillées auprès de l'atelier et chantier d'insertion et de
+l'employeur ; 
+
+5° Les conditions et modalités de rupture anticipée de la mise à disposition par l'une ou l'autre des parties à la
+convention ; 
+
+6° La répartition des responsabilités, notamment en matière de formation à la sécurité et d'assurance contre le risque
+accidents du travail et maladies professionnelles, ainsi que sur l'exercice du pouvoir disciplinaire et des fonctions
+d'encadrement ; 
+
+7° Les objectifs visés par l'immersion, tels que la découverte de métiers, la confirmation du projet professionnel,
+l'acquisition d'expériences et de compétences professionnelles, ou toute autre finalité à visée professionnelle à préciser ; 
+
+8° Les modalités selon lesquelles la réalisation de ces objectifs est appréciée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-452 du 12 avril 2016 - art. 3
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L127-15
+
+
+###### Article D127-37-5
+
+L'employeur transmet à l'Agence de services et de paiement un document dont le modèle est fixé par arrêté du ministre chargé
+de l'emploi, signalant chaque période d'immersion mise en œuvre et comportant les indications nécessaires au suivi
+statistique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-452 du 12 avril 2016 - art. 3
 
 
 ##### Section 4 : Fonds départemental d'insertion de Mayotte 
@@ -65517,6 +65953,44 @@ spécifiques prévues par la présente section.
 
 
 ##### Sous-section 2 : Aide à l'insertion professionnelle 
+
+###### Article D322-59-1
+
+Le taux de la cotisation obligatoire prévue par l'article L. 322-52-1 est fixé à 0,5 % de la masse des rémunérations brutes
+versées aux agents salariés en contrat de travail conclu au titre de l'article L. 322-45 et relevant de la collectivité
+territoriale ou de leurs établissements publics. 
+
+Les rémunérations brutes sont constituées des gains et rémunérations versées au sens de l'article 28-1 de l'ordonnance n°
+96-1122 du 20 décembre 1996 relative à l'amélioration de la santé publique à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°96-1122 du 20 décembre 1996 - art. 28-1
+	  - Code du travail applicable à Mayotte. - art. L322-45
+
+	**Créé par**:
+
+	  - Décret n°2016-452 du 12 avril 2016 - art. 4
+
+
+###### Article D322-59-2
+
+Le Centre national de la fonction publique territoriale rend compte annuellement de l'exécution des mesures prises pour
+assurer les actions de formation ainsi que de l'utilisation des ressources émanant du produit de la contribution obligatoire
+prévue par l'article L. 322-52-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-452 du 12 avril 2016 - art. 4
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L322-52-1
+
 
 ###### Article R322-57
 
