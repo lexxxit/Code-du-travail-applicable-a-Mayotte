@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2016-04-15
+Version Consolidée au 2016-05-14
 
 # Partie législative
 
@@ -66208,6 +66208,266 @@ ou de l'école.
 	**Créé par**:
 
 	  - Décret n°2013-50 du 15 janvier 2013 - art. 2
+
+
+#### CHAPITRE III : Autres contrats de travail aidés 
+
+#####  Section 1 : Contrat relatif aux activités d'adultes-relais 
+
+
+##### Sous-section 1 : Objet 
+
+###### Article D323-1
+
+Les adultes-relais mentionnés à l'article L. 323-1 assurent des missions de médiation sociale et culturelle. Les activités de
+ces adultes-relais consistent notamment à : 
+
+1° Accueillir les habitants et exercer toute activité qui concourt au lien social ; 
+
+2° Informer et accompagner les habitants dans leurs démarches, faciliter le dialogue entre services publics et usagers, et
+notamment établir des liens entre les parents et les services qui accueillent leurs enfants ; 
+
+3° Contribuer à améliorer ou préserver le cadre de vie ; 
+
+4° Prévenir et aider à la résolution des petits conflits de la vie quotidienne par la médiation et le dialogue ; 
+
+5° Faciliter le dialogue entre les générations, accompagner et renforcer la fonction parentale par le soutien aux initiatives
+prises par les parents ou en leur faveur ; 
+
+6° Contribuer à renforcer la vie associative locale et développer la capacité d'initiative et de projet dans le quartier et
+la ville.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-591 du 11 mai 2016 - art. 1
+
+
+###### Article D323-2
+
+Les adultes-relais ne peuvent accomplir aucun acte relevant du maintien de l'ordre public et ne peuvent être employés à des
+fonctions dont le seul objet est d'assurer les services au domicile des personnes physiques mentionnés à l'article L. 821-1. 
+
+Les personnes morales de droit public et les personnes morales de droit privé chargées d'un service public ne peuvent pas
+embaucher d'adultes-relais pour des missions relevant de leur activité habituelle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-591 du 11 mai 2016 - art. 1
+
+
+##### Sous-section 2 : Convention
+
+###### Article D323-3
+
+Les personnes morales mentionnées à l'article L. 323-2 qui sollicitent le bénéfice d'une convention ouvrant droit au bénéfice
+de contrats relatifs à des activités d'adultes-relais en font la demande au préfet.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-591 du 11 mai 2016 - art. 1
+
+
+###### Article D323-4
+
+La demande de convention se traduit par le dépôt d'un dossier qui comprend notamment : 
+
+1° La présentation de l'organisme employeur, de son projet et de ses objectifs ; 
+
+2° Le nombre et les caractéristiques des postes ; 
+
+3° Les quartiers prioritaires de la politique de la ville au bénéfice desquels le projet doit se mettre en place ; 
+
+4° Pour les organismes privés à but non lucratif, les statuts et les comptes pour le dernier exercice complet ou le compte de
+résultat et le bilan lorsque celui-ci est établi ; 
+
+5° Le budget prévisionnel de l'action, précisant notamment les contributions financières au titre de la rémunération, de la
+formation ou de l'encadrement obtenues en dehors de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-591 du 11 mai 2016 - art. 1
+
+
+###### Article D323-5
+
+Les projets retenus font l'objet d'une convention par poste signée entre l'employeur et l'Etat, représenté par le préfet,
+dans la limite du nombre de postes alloués par le responsable du programme 147 “ politique de la ville ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-591 du 11 mai 2016 - art. 1
+
+
+###### Article D323-6
+
+La durée pour laquelle la convention est signée ne peut excéder trois ans. 
+
+La convention peut être renouvelée par accord exprès des parties.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-591 du 11 mai 2016 - art. 1
+
+
+###### Article D323-7
+
+La convention précise : 
+
+1° La nature du projet ; 
+
+2° La durée hebdomadaire de travail ; 
+
+3° Les caractéristiques du poste et de l'activité engagée au regard des besoins à satisfaire ; 
+
+4° Le montant et les modalités de versement de l'aide versée par l'Etat et les modalités du contrôle de l'application de la
+convention ; 
+
+5° Le cas échéant, la dérogation du préfet sur le lieu de résidence de l'adulte-relais lorsque ce dernier ne réside pas dans
+un quartier prioritaire de la politique de la ville ou dans un autre territoire prioritaire des contrats de ville.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-591 du 11 mai 2016 - art. 1
+
+
+###### Article D323-8
+
+Aucune embauche ne peut intervenir avant la date de la signature de la convention.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-591 du 11 mai 2016 - art. 1
+
+
+###### Article D323-9
+
+Le préfet contrôle l'exécution de la convention. A cette fin, l'employeur lui fournit, à sa demande, tout élément de nature à
+permettre de vérifier la bonne exécution de la convention et la réalité des emplois créés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-591 du 11 mai 2016 - art. 1
+
+
+###### Article D323-10
+
+La convention peut être résiliée par le préfet, notamment en cas de non-respect par l'employeur des clauses de la convention.
+Le préfet peut demander le reversement des sommes indûment perçues. 
+
+Lorsque l'aide est obtenue à la suite de fausses déclarations ou lorsque la convention est détournée de son objet, celle-ci
+est résiliée d'office. Les sommes indûment perçues donnent lieu à reversement. 
+
+La convention est également résiliée d'office lorsque l'employeur n'a pas, sans justification, transmis pendant deux
+trimestres consécutifs les pièces prévues à la convention. 
+
+La convention peut être résiliée par l'employeur. Celui-ci en avertit le préfet avec un préavis de deux mois.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-591 du 11 mai 2016 - art. 1
+
+
+##### Sous-section 3 : Contrat de travail 
+
+
+
+###### Article D323-11
+
+Le contrat de travail est conclu avec une personne remplissant, à la date de la signature, les conditions de l'article L.
+323-3.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-591 du 11 mai 2016 - art. 1
+
+
+###### Article D323-12
+
+Le contrat de travail, lorsqu'il est conclu à temps partiel, ne peut être inférieur à un mi-temps.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-591 du 11 mai 2016 - art. 1
+
+
+##### Sous-section 4 : Aide financière
+
+###### Article D323-13
+
+L'aide financière de l'Etat mentionnée à l'article L. 323-9, forfaitaire, est versée par l'Etat.
+
+L'Etat peut confier, dans le cadre d'une convention, la gestion de cette aide à l'Agence de services et de paiement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-591 du 11 mai 2016 - art. 1
+
+
+###### Article D323-14
+
+L'aide de l'Etat est versée à compter de la création du poste d'adulte-relais pour les périodes pendant lesquelles le poste
+est effectivement occupé.
+
+Pour un emploi à temps partiel, elle est versée à due proportion du temps de travail prévu à la convention par rapport à un
+emploi à temps plein.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-591 du 11 mai 2016 - art. 1
+
+
+###### Article D323-15
+
+Sous réserve des cas de résiliation de la convention mentionnés à l'article D. 323-10 et de la production des documents
+justificatifs prévus dans la convention, l'aide est versée pendant la durée de la convention.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-591 du 11 mai 2016 - art. 1
+
+
+###### Article D323-16
+
+Le montant annuel de l'aide par poste de travail à temps plein est fixé par décret.
+
+Ce montant est revalorisé annuellement au 1er juillet, proportionnellement à l'évolution du salaire minimum garanti depuis le
+1er juillet de l'année précédente et arrondi au dixième d'euro le plus proche
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-591 du 11 mai 2016 - art. 1
 
 
 #### CHAPITRE IV : Dispositions particulières relatives à l'emploi des jeunes
