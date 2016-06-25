@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2016-05-14
+Version Consolidée au 2016-06-26
 
 # Partie législative
 
@@ -186,20 +186,21 @@ au droit communautaire dans le domaine de la lutte contre les discriminations, n
 de l'article L. 140-3, de formation, de reclassement, d'affectation, de qualification, de classification, de promotion
 professionnelle, de mutation ou de renouvellement de contrat en raison de son origine, de son sexe, de ses mœurs, de son
 orientation ou identité sexuelle, de son âge, de sa situation de famille ou de sa grossesse, de ses caractéristiques
-génétiques, de son appartenance ou de sa non-appartenance, vraie ou supposée, à une ethnie, une nation ou une race, de ses
-opinions politiques, de ses activités syndicales ou mutualistes, de ses convictions religieuses, de son apparence physique,
-de son nom de famille ou en raison de son état de santé ou de son handicap ou encore de son statut civil.
+génétiques, de la particulière vulnérabilité résultant de sa situation économique, apparente ou connue de son auteur, de son
+appartenance ou de sa non-appartenance, vraie ou supposée, à une ethnie, une nation ou une race, de ses opinions politiques,
+de ses activités syndicales ou mutualistes, de ses convictions religieuses, de son apparence physique, de son nom de famille
+ou en raison de son état de santé ou de son handicap ou encore de son statut civil.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°2008-496 du 27 mai 2008 - art. 1
+	  - Loi n°2008-496 du 27 mai 2008 - art. 1 (M)
 	  - Code du travail applicable à Mayotte. - art. L140-3
 
 	**Modifié par**:
 
-	  - Loi n°2012-954 du 6 août 2012 - art. 4
+	  - Loi n°2016-832 du 24 juin 2016 - art. unique
 
 	**Cité par**:
 
@@ -326,6 +327,18 @@ Les mesures prises en faveur des personnes handicapées et visant à favoriser l
 	**Cite**:
 
 	  - Code du travail applicable à Mayotte. - art. L328-12
+
+
+###### Article L033-5
+
+Les mesures prises en faveur des personnes vulnérables en raison de leur situation économique et visant à favoriser l'égalité
+de traitement ne constituent pas une discrimination.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-832 du 24 juin 2016 - art. unique (V)
 
 
 #### Chapitre IV : Actions en justice
