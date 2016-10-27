@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2016-10-01
+Version Consolidée au 2016-10-28
 
 # Partie législative
 
@@ -71140,6 +71140,89 @@ final de l'accord.
 	**Cite**:
 
 	  - Code du travail applicable à Mayotte. - art. L328-13 (V)
+
+
+###### Article R328-15-1
+
+La demande de l'employeur mentionnée au premier alinéa de l'article L. 328-10-1 est adressée par tout moyen permettant
+d'apporter la preuve de sa réception à l'association mentionnée à l'article L. 328-45 du code du travail applicable à Mayotte
+à laquelle l'employeur est tenu d'adresser la déclaration prévue au 2° de l'article R. 328-8. 
+
+La demande doit comporter : 
+
+1° La raison sociale de l'établissement, ses adresses postale et électronique le cas échéant ; 
+
+2° Son numéro de SIRET ; 
+
+3° Les références aux dispositions législatives ou réglementaires au regard desquelles la demande est à apprécier ; 
+
+4° Une présentation précise, complète et sincère de la situation de nature à permettre à l'association mentionnée à l'article
+L. 328-45 du code du travail applicable à Mayotte d'apprécier si les conditions requises par la réglementation sont
+satisfaites.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1435 du 25 octobre 2016 - art. 5
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L328-10-1
+	  - Code du travail applicable à Mayotte. - art. L328-45
+	  - Code du travail applicable à Mayotte. - art. R328-8
+
+
+###### Article R328-15-2
+
+La demande est réputée complète si, dans un délai de quinze jours à compter de sa réception, l'association mentionnée à
+l'article L. 328-45 du code du travail applicable à Mayotte n'a pas fait connaître à l'employeur la liste des pièces ou des
+informations manquantes. 
+
+A réception de ces pièces ou informations, l'organisme notifie au demandeur, par tout moyen permettant de rapporter la preuve
+de sa date de réception, que la demande est complète. En l'absence de réception des pièces et informations manquantes dans un
+délai d'un mois, la demande est réputée caduque. 
+
+L'association mentionnée à l'article L. 328-45 dispose d'un délai de deux mois à compter de la date de réception de la
+demande complète pour se prononcer sur cette demande et notifier sa réponse à l'employeur par tout moyen permettant
+d'apporter la preuve de sa réception. 
+
+Lorsque l'association mentionnée à l'article L. 328-45 modifie sa position, elle en informe l'employeur selon les mêmes
+modalités. 
+
+En l'absence de réponse sa demande à la date prévue au 2° de l'article R. 328-8, l'employeur est tenu d'adresser la
+déclaration annuelle citée à l'article L. 328-10 à l'association mentionnée à l'article L. 328-45 au plus tard à cette date. 
+
+En cas de réponse postérieure à la date prévue au 2° de l'article R. 328-8, l'employeur adresse, le cas échéant, une
+déclaration rectificative intégrant les éléments de réponse fournis, à l'association susmentionnée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1435 du 25 octobre 2016 - art. 5
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L328-45
+	  - Code du travail applicable à Mayotte. - art. R328-10
+	  - Code du travail applicable à Mayotte. - art. R328-8
+
+
+###### Article R328-15-3
+
+Sous réserve que la situation de l'employeur et que la réglementation applicable soient inchangées, la position prise par
+l'association mentionnée à l'article L. 328-45 est valable cinq ans à compter de sa date de notification.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1435 du 25 octobre 2016 - art. 5
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L328-45
 
 
 ###### Article R328-17
