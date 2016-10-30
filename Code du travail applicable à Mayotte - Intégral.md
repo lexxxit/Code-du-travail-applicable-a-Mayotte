@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2016-10-28
+Version Consolidée au 2016-10-31
 
 # Partie législative
 
@@ -74086,37 +74086,143 @@ tout document ou observation utile à leur défense.
 	  - Code du travail applicable à Mayotte. - art. R330-8 (T)
 
 
-###### Article R330-11
+###### Article R330-12
 
-S'il décide de prononcer l'amende, le représentant de l'Etat notifie sa décision à l'employeur et au salarié et en transmet
-une copie dans un délai de quatre jours au  comptable de la direction générale des finances publiques territorialement
-compétent. 
+L'employeur d'un étranger non autorisé à travailler s'acquitte par tout moyen, dans le délai de trente jours à compter de la
+constatation de l'infraction, des salaires et indemnités déterminés à l'article L. 330-6. 
 
-Le montant de l'amende est fixé par référence au salaire minimum interprofessionnel garanti en vigueur à la date du procès-
-verbal constatant le manquement sanctionné. 
+Il remet au salarié étranger non autorisé à travailler les bulletins de paie correspondants, un certificat de travail ainsi
+que le solde de tout compte. Il justifie, auprès de l'Office français de l'immigration et de l'intégration, par tout moyen,
+de l'accomplissement de ses obligations légales.
 
-L'amende est mise en recouvrement conformément aux dispositions qui régissent les états exécutoires émis pour le recouvrement
-des créances de la collectivité départementale de Mayotte.
+**Liens relatifs à cet article**
 
-**Nota:**
+	**Créé par**:
 
-Conformément à l'article 2 du décret n° 2016-1459 du 28 octobre 2016, les dispositions de l'article R. 330-11 sont abrogées
-en tant qu'elles concernent l'amende imposée à l'employeur qui engage ou conserve à son service un étranger non muni d'une
+	  - Décret n°2016-1459 du 28 octobre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L330-6 (VT)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R330-13 (V)
+	  - Code du travail applicable à Mayotte. - art. R330-15 (V)
+
+
+###### Article R330-13
+
+Lorsque le salarié étranger est placé en rétention administrative, est assigné à résidence ou n'est déjà plus sur le
+territoire national, son employeur s'acquitte des sommes déterminées à l'article L. 330-6, dans le délai mentionné à
+l'article R. 330-12, auprès de l'Office français de l'immigration et de l'intégration, lequel les reverse à l'intéressé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1459 du 28 octobre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L330-6 (VT)
+	  - Code du travail applicable à Mayotte. - art. R330-12 (V)
+
+
+###### Article R330-14
+
+La contribution spéciale prévue à l'article L. 330-6-1 est due pour chaque étranger employé en méconnaissance des
+dispositions du premier alinéa de l'article L. 330-5. 
+
+Cette contribution est à la charge de l'employeur qui a embauché ou employé un travailleur étranger non muni d'une
 autorisation de travail.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Décret n°91-1263 du 16 décembre 1991
+	  - Décret n°2016-1459 du 28 octobre 2016 - art. 1
 
-	**Modifié par**:
+	**Cite**:
 
-	  - Décret n°2014-551 du 27 mai 2014 - art. 30
+	  - Code du travail applicable à Mayotte. - art. L330-5 (V)
+	  - Code du travail applicable à Mayotte. - art. L330-6-1 (V)
 
-	**Anciens textes**:
 
-	  - Code du travail applicable à Mayotte. - art. R330-9 (T)
+###### Article R330-15
+
+I.-Le montant de la contribution spéciale prévue à l'article L. 330-6-1 est égal à 5 000 fois le montant, à la date de la
+constatation de l'infraction, de la rémunération horaire minimale interprofessionnelle garantie prévue à l'article L. 141-2. 
+
+II.-Ce montant est réduit à 2 000 fois ce même taux dans l'un ou l'autre des cas suivants : 
+
+1° Lorsque le procès-verbal d'infraction ne mentionne pas d'autre infraction commise à l'occasion de l'emploi du salarié
+étranger en cause que la méconnaissance des dispositions du premier alinéa de l'article L. 330-5 ; 
+
+2° Lorsque l'employeur s'est acquitté des salaires et indemnités mentionnés à l'article L. 330-6 dans les conditions prévues
+par les articles R. 330-12 et R. 330-13. 
+
+III.-Dans l'hypothèse mentionnée au 2° du II, le montant de la contribution spéciale est réduit à 1 000 fois le montant de la
+rémunération horaire minimale interprofessionnelle garantie lorsque le procès-verbal d'infraction ne mentionne l'emploi que
+d'un seul étranger sans titre l'autorisant à exercer une activité salariée en France. 
+
+IV.-Le montant de la contribution spéciale est porté à 15 000 fois le montant de la rémunération horaire minimale
+interprofessionnelle garantie lorsqu'une méconnaissance du premier alinéa de l'article L. 330-5 a donné lieu à l'application
+de la contribution spéciale à l'encontre de l'employeur au cours de la période de cinq années précédant la constatation de
+l'infraction.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1459 du 28 octobre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L141-2 (V)
+	  - Code du travail applicable à Mayotte. - art. L330-5 (V)
+	  - Code du travail applicable à Mayotte. - art. L330-6 (VT)
+	  - Code du travail applicable à Mayotte. - art. L330-6-1 (V)
+	  - Code du travail applicable à Mayotte. - art. R330-12 (V)
+
+
+###### Article R330-16
+
+Au vu des procès-verbaux qui lui sont transmis par les agents compétents pour rechercher et constater les infractions aux
+dispositions de l'article L. 330-5, le directeur général de l'Office français de l'immigration et de l'intégration indique à
+l'employeur, par lettre recommandée avec avis de réception ou par tout autre moyen permettant de faire la preuve de sa date
+de réception par le destinataire, que les dispositions de l'article L. 330-6-1 sont susceptibles de lui être appliquées et
+qu'il peut présenter ses observations dans un délai de quinze jours.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1459 du 28 octobre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L330-5 (V)
+	  - Code du travail applicable à Mayotte. - art. L330-6-1 (V)
+
+
+###### Article R330-17
+
+A l'expiration du délai fixé, le directeur général de l'Office français de l'immigration et de l'intégration décide, au vu
+des observations éventuelles de l'employeur, de l'application de la contribution spéciale prévue à l'article L. 330-6-1, la
+liquide et émet le titre de perception correspondant. 
+
+La créance est recouvrée par le comptable public compétent comme en matière de créances étrangères à l'impôt et au domaine.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1459 du 28 octobre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L330-6-1 (V)
 
 
 ### TITRE IV : Pénalités
