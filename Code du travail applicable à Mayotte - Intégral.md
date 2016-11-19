@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2016-10-31
+Version Consolidée au 2016-11-20
 
 # Partie législative
 
@@ -462,6 +462,92 @@ Les dommages et intérêts réparent l'entier préjudice résultant de la discri
 	**Créé par**:
 
 	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
+
+
+#### Chapitre V : Dispositions spécifiques à l'action de groupe
+
+###### Article L035-1
+
+Sous réserve des articles L. 035-2 à L. 035-5, le chapitre Ier du titre V  de la loi n° 2016-1547 du 18 novembre 2016 de
+modernisation de la  justice du XXIe siècle s'applique à l'action de groupe prévue au présent  chapitre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 112
+
+
+###### Article L035-2
+
+Une organisation syndicale de salariés représentative au sens des  articles L. 2122-1, L. 2122-5 ou L. 2122-9 du code du
+travail peut agir  devant une juridiction civile afin d'établir que plusieurs candidats à  un emploi, à un stage ou à une
+période de formation en entreprise ou  plusieurs salariés font ou ont fait l'objet d'une discrimination,  directe ou
+indirecte, fondée sur un même motif figurant parmi ceux  mentionnés à l'article L. 032-1 du présent code et imputable à un
+même  employeur. 
+
+Une association régulièrement déclarée  depuis au moins cinq ans pour la lutte contre les discriminations ou  œuvrant dans le
+domaine du handicap peut agir aux mêmes fins, pour la  défense des intérêts de plusieurs candidats à un emploi ou à un stage
+en  entreprise.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 112
+
+
+###### Article L035-3
+
+L'action de groupe peut tendre à la cessation du manquement et, le cas  échéant, en cas de manquement, à la réparation des
+préjudices subis. 
+
+Sauf en ce qui concerne les candidats à un emploi, à un stage ou à une  période de formation, seuls sont indemnisables dans
+le cadre de l'action  de groupe les préjudices nés après la réception de la demande  mentionnée à l'article L. 035-4.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 112
+
+
+###### Article L035-4
+
+Par dérogation à l'article 64 de la loi n° 2016-1547 du 18 novembre 2016  de modernisation de la justice du XXIe siècle,
+préalablement à  l'engagement de l'action de groupe mentionnée au premier alinéa de  l'article L. 035-2, les personnes
+mentionnées au même article L. 035-2  demandent à l'employeur, par tout moyen conférant date certaine à cette  demande, de
+faire cesser la situation de discrimination collective  alléguée. 
+
+Dans un délai d'un mois à compter de  cette demande, l'employeur en informe le comité d'entreprise ou, à  défaut, les
+délégués du personnel, ainsi que les organisations  syndicales représentatives dans l'entreprise. A la demande du comité
+d'entreprise ou, à défaut, des délégués du personnel, ou à la demande  d'une organisation syndicale représentative,
+l'employeur engage une  discussion sur les mesures permettant de faire cesser la situation de  discrimination collective
+alléguée. 
+
+L'action de  groupe engagée en faveur de plusieurs candidats à un emploi, à un stage  ou à une période de formation en
+entreprise ou en faveur de plusieurs  salariés peut être introduite à l'expiration d'un délai de six mois à  compter de la
+réception de la demande tendant à faire cesser la  situation de discrimination collective alléguée ou à compter de la
+notification par l'employeur du rejet de la demande.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 112
+
+
+###### Article L035-5
+
+Lorsque l'action tend à la réparation des préjudices subis, elle  s'exerce dans le cadre de la procédure individuelle de
+réparation  définie au chapitre Ier du titre V de la loi n° 2016-1547 du 18 novembre  2016 de modernisation de la justice du
+XXIe siècle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 112
 
 
 ### TITRE IV : ÉGALITÉ PROFESSIONNELLE   ENTRE LES FEMMES ET LES HOMMES
