@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2016-11-20
+Version Consolidée au 2016-11-26
 
 # Partie législative
 
@@ -8166,86 +8166,23 @@ L'action en paiement ou en répétition du salaire se prescrit par cinq ans, con
 	  - Code civil - art. 2224
 
 
-##### Section 2 : Privilèges et garanties de la créance de salaire.
+##### Section 2 : Privilèges et assurance
 
-###### Article L143-14
-
-Les sommes dues aux entrepreneurs de tous travaux ayant le caractère de travaux publics ne peuvent être frappées de saisie-
-arrêt ni d'opposition au préjudice soit des ouvriers auxquels des salaires sont dus, soit des fournisseurs qui sont
-créanciers à raison de fournitures de matériaux et d'autres objets servant à la construction des ouvrages.
-
-Les sommes dues aux ouvriers à titre de salaire sont payées de préférence à celles dues aux fournisseurs.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°91-246 du 25 février 1991
-	  - Loi n°91-1379 du 28 décembre 1991
-
-	**Modifié par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
-
-	**Cité par**:
-
-	  - Décret n°2016-360 du 25 mars 2016 - art. 168 (V)
-	  - Code du travail applicable à Mayotte. - art. L122-65 (V)
-	  - Code du travail applicable à Mayotte. - art. L122-66 (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-1580 du 24 novembre 2016 - art. 1
-
-
-###### Article L143-15
-
-Sans préjudice de l'application des articles L. 143-17 et L. 143-18, la créance de salaire des salariés et apprentis est
-privilégiée sur les meubles et immeubles, à savoir :
-
-- les rémunérations des gens de service pour l'année échue et l'année en cours ;
-
-- les rémunérations pour les six derniers mois des salariés et apprentis ;
-
-- l'indemnité due en raison de l'inobservation du délai congé prévue à l'article L. 122-21 et L. 122-60 ;
-
-- les indemnités dues pour les congés payés ;
-
-- les indemnités de licenciement dues en application des conventions collectives de travail, des accords collectifs
-d'établissement, des règlements de travail, des usages, des dispositions des articles L. 122-22 et L. 122-60 pour la totalité
-de la portion inférieure ou égale au plafond visé à l'article L. 143-17 et pour le quart de la portion supérieure audit
-plafond ;
-
-- les indemnités dues, le cas échéant, aux salariés, en application des articles L. 122-10, L. 122-61 et L. 122-63.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-1580 du 24 novembre 2016 - art. 1
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L122-10
-	  - Code du travail applicable à Mayotte. - art. L122-21
-	  - Code du travail applicable à Mayotte. - art. L122-60
-	  - Code du travail applicable à Mayotte. - art. L143-17
-
+##### Sous-section 1 : Dispositions générales
 
 ###### Article L143-16
 
-Sans préjudice des règles fixées aux articles L. 621-130 et L. 621-131 du code de commerce, les créances résultant du contrat
-de travail ou du contrat d'apprentissage sont garanties dans les conditions fixées aux articles L. 143-17 à L. 143-22.
+Les créances résultant du contrat de travail sont garanties dans les conditions prévues au 4° de l'article 2331 et au 2° de
+l'article 2375 du code civil, relatifs aux privilèges sur les biens mobiliers et immobiliers du débiteur. 
+
+En outre, en cas de sauvegarde, de redressement ou de liquidation judiciaire, elles sont garanties, conformément aux articles
+L. 625-7 et L. 625-8 du code de commerce, dans les conditions prévues aux articles L. 143-17 à L. 143-44.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+	  - Ordonnance n°2016-1580 du 24 novembre 2016 - art. 1
 
 	**Cite**:
 
@@ -8254,33 +8191,28 @@ de travail ou du contrat d'apprentissage sont garanties dans les conditions fix�
 
 	**Cité par**:
 
-	  - Code du travail applicable à Mayotte. - art. L143-18 (VD)
+	  - Code du travail applicable à Mayotte. - art. L143-18 (V)
 
+
+##### Paragraphe 1 : Privilèges
 
 ###### Article L143-17
 
-Lorsqu'est ouverte une procédure de sauvegarde ou de redressement judiciaire, les rémunérations de toute nature dues aux
-salariés et apprentis pour les soixante derniers jours de travail ou d'apprentissage doivent, déduction faite des acomptes
-déjà perçus, être payées, nonobstant l'existence de toute autre créance privilégiée, jusqu'à concurrence d'un plafond mensuel
-identique pour toutes les catégories de bénéficiaires. 
+Lorsqu'une procédure de sauvegarde, de redressement ou de liquidation judiciaire est ouverte, les rémunérations de toute
+nature dues aux salariés pour les soixante derniers jours de travail sont, déduction faite des acomptes déjà perçus, payées,
+nonobstant l'existence de toute autre créance privilégiée, jusqu'à concurrence d'un plafond mensuel identique pour toutes les
+catégories de bénéficiaires. 
 
-Ce plafond est fixé par arrêté du représentant de l'Etat à Mayotte. 
-
-Les rémunérations prévues au premier alinéa ci-dessus comprennent non seulement les salaires, appointements ou commissions
-proprement dites mais encore tous les accessoires et notamment l'indemnité pour inobservation du délai-congé mentionnée à
-l'article L. 122-21. 
-
-Les dispositions du présent article sont aussi applicables aux voyageurs, représentants et placiers, pour les rémunérations
-de toute nature dues au titre des quatre-vingt-dix derniers jours de travail. 
-
-Elles s'appliquent également aux marins pour les rémunérations de toute nature dues au titre des quatre-vingt-dix derniers
-jours de travail.
+Ce plafond est fixé par décret sans pouvoir être inférieur à deux fois le plafond retenu pour le calcul des cotisations de
+sécurité sociale applicable à Mayotte conformément à l'article 28-1 de l'ordonnance n° 96-1122 du 20 décembre 1996 relative à
+l'amélioration de la santé publique, à l'assurance maladie, maternité, invalidité et décès, au financement de la sécurité
+sociale à Mayotte et à la caisse de sécurité sociale de Mayotte.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+	  - Ordonnance n°2016-1580 du 24 novembre 2016 - art. 1
 
 	**Cité par**:
 
@@ -8288,7 +8220,7 @@ jours de travail.
 	  - Code du travail applicable à Mayotte. - art. L143-15 (Ab)
 	  - Code du travail applicable à Mayotte. - art. L143-16 (V)
 	  - Code du travail applicable à Mayotte. - art. L143-21 (V)
-	  - Code du travail applicable à Mayotte. - art. L143-22 (VD)
+	  - Code du travail applicable à Mayotte. - art. L143-22 (V)
 	  - Code rural - art. L371-15 (V)
 
 	**Cite**:
@@ -8298,42 +8230,40 @@ jours de travail.
 
 ###### Article L143-18
 
-En outre, lorsque est ouverte une procédure de sauvegarde ou de redressement judiciaire, les indemnités de congés payés
-prévues aux articles L. 223-21 à L. 223-26 doivent être payées nonobstant l'existence de toute autre créance privilégiée,
-jusqu'à concurrence d'un plafond identique à celui établi pour une période de trente jours de rémunération par l'article L.
-143-16.
+Les rémunérations prévues au premier alinéa de l'article L. 143-17 comprennent : 
+
+1° Les salaires, appointements ou commissions proprement dites ; 
+
+2° Les accessoires et notamment l'ensemble des indemnités dues par l'employeur au titre du présent code lors de la rupture du
+contrat de travail ; 
+
+3° Les rémunérations de toute nature dues aux voyageurs, représentants et placiers au titre des quatre-vingt-dix derniers
+jours de travail ; 
+
+4° Les rémunérations de toute nature dues aux marins au titre des quatre-vingt-dix derniers jours de travail.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+	  - Ordonnance n°2016-1580 du 24 novembre 2016 - art. 1
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L143-16
+	  - Code du travail applicable à Mayotte. - art. L143-16 (V)
 	  - Code du travail applicable à Mayotte. - art. L223-21
 
 
 ###### Article L143-19
 
-En cas de procédures de sauvegarde ou de redressement judiciaire, doivent être aussi payées nonobstant l'existence de toute
-autre créance privilégiée, les créances résultant de la rupture des contrats de travail intervenant pendant la période
-d'observation, dans le mois suivant le jugement qui arrête le plan de sauvegarde ou de redressement, dans les quinze jours
-suivant le jugement de liquidation et pendant le maintien provisoire de l'activité autorisé par le jugement de liquidation
-judiciaire.
-
-Il en est de même lorsque le tribunal prononce la liquidation judiciaire, dans la limite d'un montant maximal correspondant à
-un mois et demi de travail pour les sommes dues au cours de la période d'observation, des quinze jours suivant le jugement de
-liquidation ou du mois suivant le jugement de liquidation en ce qui concerne les représentants des salariés prévus par les
-articles L. 621-135 et L. 621-8 du code de commerce et pendant le maintien provisoire de l'activité autorisé par le jugement
-de liquidation.
+Les indemnités de congés payés sont, nonobstant l'existence de toute créance privilégiée, payées jusqu'à concurrence d'un
+plafond identique à celui établi pour une période de trente jours de rémunération par l'article L. 143-16.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+	  - Ordonnance n°2016-1580 du 24 novembre 2016 - art. 1
 
 	**Cite**:
 
@@ -8342,47 +8272,43 @@ de liquidation.
 	**Cité par**:
 
 	  - Code du travail applicable à Mayotte. - art. L143-20 (V)
-	  - Code du travail applicable à Mayotte. - art. L143-22 (VD)
+	  - Code du travail applicable à Mayotte. - art. L143-22 (V)
 
 
 ###### Article L143-20
 
-Les créances résultant du licenciement des salariés bénéficiaires d'une protection particulière relative au licenciement
-doivent être également payées nonobstant l'existence de toute autre créance privilégiée dès lors que l'administrateur,
-l'employeur ou le liquidateur, selon le cas, a manifesté au cours des périodes mentionnées à l'article L. 143-19 son
-intention de rompre le contrat de travail.
+Les sommes dues aux façonniers par leurs donneurs d'ordres sont payées, lorsque ces derniers font l'objet d'une procédure de
+sauvegarde, de redressement ou de liquidation judiciaire, nonobstant l'existence de toute autre créance privilégiée à
+l'exception de celles garanties par l'article L. 143-17, à due concurrence du montant total des rémunérations de toute nature
+dues aux salariés de ces façonniers, au titre des soixante derniers jours de travail ou d'apprentissage précédant l'ouverture
+de la procédure.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+	  - Ordonnance n°2016-1580 du 24 novembre 2016 - art. 1
 
 	**Cite**:
 
 	  - Code du travail applicable à Mayotte. - art. L143-19
 
 
+##### Paragraphe 2 : Assurance contre le risque de non-paiement
+
+##### Sous-paragraphe 1 : Principes
+
 ###### Article L143-21
 
-Nonobstant l'existence de toute autre créance, les créances que garantit le privilège établi aux articles L. 143-17 et L.
-143-18 doivent être payées par l'administrateur par ordonnance du juge-commissaire, dans les dix jours du prononcé du
-jugement ouvrant la procédure de sauvegarde ou de redressement judiciaire, si l'administrateur dispose des fonds
-nécessaires. 
-
-Toutefois, avant tout établissement du montant de ces créances, l'administrateur doit, avec l'autorisation du juge-
-commissaire et dans la mesure des fonds disponibles, verser immédiatement aux salariés, à titre provisionnel, une somme égale
-à un mois de salaire impayé, sur la base du dernier bulletin de salaire et sans pouvoir dépasser le plafond visé à l'article
-L. 143-17. 
-
-A défaut de disponibilités, les sommes dues en vertu des deux alinéas précédents doivent être acquittées sur les premières
-rentrées de fonds.
+Tout employeur de droit privé assure ses salariés, y compris ceux détachés à l'étranger ou expatriés, contre le risque de
+non-paiement des sommes qui leur sont dues en exécution du contrat de travail, en cas de procédure de sauvegarde, de
+redressement ou de liquidation judiciaire.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+	  - Ordonnance n°2016-1580 du 24 novembre 2016 - art. 1
 
 	**Cite**:
 
@@ -8391,30 +8317,463 @@ rentrées de fonds.
 
 ###### Article L143-22
 
-Le mandataire judiciaire établit les relevés des créances dans les conditions suivantes : 
+Le droit du salarié est garanti indépendamment de l'observation par l'employeur tant des prescriptions de la présente sous-
+section que des obligations dont il est tenu à l'égard des institutions prévues à l'article L. 143-28.
 
-1° Pour les créances mentionnées aux articles L. 143-17 et L. 143-18, dans les dix jours suivant le prononcé du jugement
-d'ouverture de la procédure ; 
+**Liens relatifs à cet article**
 
-2° Pour les autres créances également exigibles à la date du jugement d'ouverture de la procédure, dans les trois mois
-suivant le prononcé du jugement ; 
+	**Modifié par**:
 
-3° Pour les salaires et les indemnités de congés payés couvertes en application de l'article L. 143-17, troisième et
-quatrième alinéa, dans les dix jours suivant l'expiration des périodes de garantie prévues à l'article L. 143-19, et ce
-jusqu'à concurrence du plafond mentionné aux articles L. 143-17 et L. 143-18 ; 
+	  - Ordonnance n°2016-1580 du 24 novembre 2016 - art. 1
 
-4° Pour les autres créances, dans les trois mois suivant l'expiration de la période de garantie.
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L143-17 (V)
+	  - Code du travail applicable à Mayotte. - art. L143-19 (V)
+
+
+##### Sous-Paragraphe 2 : Créances couvertes par l'assurance 
+
+###### Article L143-23
+
+L'assurance mentionnée à l'article L. 143-21 couvre : 
+
+1° Les sommes dues aux salariés à la date du jugement d'ouverture de toute procédure de redressement ou de liquidation
+judiciaire ; 
+
+2° Les créances résultant de la rupture des contrats de travail intervenant : 
+
+a) Pendant la période d'observation ; 
+
+b) Dans le mois suivant le jugement qui arrête le plan de sauvegarde, de redressement ou de cession ; 
+
+c) Dans les quinze jours suivant le jugement de liquidation ; 
+
+d) Pendant le maintien provisoire de l'activité autorisé par le jugement de liquidation judiciaire et dans les quinze jours
+suivant la fin de ce maintien de l'activité ; 
+
+3° Les mesures d'accompagnement d'un plan de sauvegarde de l'emploi élaboré conformément aux articles L. 320-60 à L. 320-64
+du présent code ; 
+
+4° Lorsque le tribunal prononce la liquidation judiciaire, dans la limite d'un montant maximal correspondant à un mois et
+demi de travail, les sommes dues : 
+
+a) Au cours de la période d'observation ; 
+
+b) Au cours des quinze jours suivant le jugement de liquidation ; 
+
+c) Au cours du mois suivant le jugement de liquidation pour les représentants des salariés prévus par les articles L. 621-4
+et L. 631-9 du code de commerce ; 
+
+d) Pendant le maintien provisoire de l'activité autorisé par le jugement de liquidation et au cours des quinze jours suivant
+la fin de ce maintien de l'activité. 
+
+La garantie des sommes et créances mentionnées aux 1°, 2° et 4° inclut les cotisations et contributions sociales et
+salariales d'origine légale, ou d'origine conventionnelle imposée par la loi.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+	  - Ordonnance n°2016-1580 du 24 novembre 2016 - art. 1
 
-	**Cite**:
+	**Cité par**:
 
-	  - Code du travail applicable à Mayotte. - art. L143-17
-	  - Code du travail applicable à Mayotte. - art. L143-19
+	  - Code du travail applicable à Mayotte. - art. D143-18 (V)
+
+
+###### Article L143-24
+
+Sont également couvertes les créances résultant du licenciement des salariés bénéficiaires d'une protection particulière
+relative au licenciement dès lors que l'administrateur, l'employeur ou le liquidateur, selon le cas, a manifesté, au cours
+des périodes mentionnées au 2° de l'article L. 143-23, son intention de rompre le contrat de travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1580 du 24 novembre 2016 - art. 1
+
+
+###### Article L143-25
+
+Sont également couvertes, lorsqu'elles revêtent la forme d'un droit de créance sur l'entreprise, les sommes dues aux titres
+de l'intéressement, de la participation des salariés aux fruits de l'expansion ou d'un fonds salarial.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1580 du 24 novembre 2016 - art. 1
+
+
+###### Article L143-26
+
+Les créances mentionnées à l'article L. 143-25 sont garanties : 
+
+1° Lorsqu'elles sont exigibles à la date du jugement d'ouverture de la procédure ; 
+
+2° Lorsque, si un plan organisant la sauvegarde ou le redressement judiciaire de l'entreprise intervient à l'issue de la
+procédure, elles deviennent exigibles du fait de la rupture du contrat de travail, dans les délais prévus au 2° de l'article
+L. 143-23 ; 
+
+3° Lorsque intervient un jugement de liquidation judiciaire ou un jugement arrêtant le plan de cession totale de
+l'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1580 du 24 novembre 2016 - art. 1
+
+
+###### Article L143-27
+
+L'assurance prévue à l'article L. 143-21 ne couvre pas les sommes qui concourent à l'indemnisation du préjudice causé par la
+rupture du contrat de travail dans le cadre d'un licenciement pour motif économique, en application d'un accord d'entreprise
+ou d'établissement ou de groupe ou d'une décision unilatérale de l'employeur, lorsque l'accord a été conclu et déposé ou la
+décision notifiée moins de dix-huit mois avant la date du jugement d'ouverture de la procédure de sauvegarde, de redressement
+ou de liquidation judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1580 du 24 novembre 2016 - art. 1
+
+
+##### Sous-Paragraphe 3 : Institutions de garantie contre le risque de non-paiement
+
+###### Article L143-28
+
+L'assurance prévue à l'article L. 143-21 est mise en œuvre par les institutions mentionnées à l'article L. 3253-14 du code du
+travail, dans les conditions qu'il prévoit.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1580 du 24 novembre 2016 - art. 1
+
+
+###### Article L143-29
+
+Les institutions de garantie mentionnées à l'article L. 143-28 avancent les sommes comprises dans le relevé établi par le
+mandataire judiciaire, même en cas de contestation par un tiers. 
+
+Elles avancent également les sommes correspondant à des créances établies par décision de justice exécutoire, même si les
+délais de garantie sont expirés. 
+
+Les décisions de justice sont de plein droit opposables à l'association prévue mentionnée à l'article L. 143-28. 
+
+Lorsque le mandataire judiciaire a cessé ses fonctions, le greffier du tribunal ou le commissaire à l'exécution du plan,
+selon le cas, adresse un relevé complémentaire aux institutions de garantie mentionnées à l'article L. 143-28, à charge pour
+lui de reverser les sommes aux salariés et organismes créanciers.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1580 du 24 novembre 2016 - art. 1
+
+
+###### Article L143-30
+
+Les institutions de garantie mentionnées à l'article L. 143-28 sont subrogées dans les droits des salariés pour lesquels
+elles ont réalisé des avances : 
+
+1° Pour l'ensemble des créances, lors d'une procédure de sauvegarde ; 
+
+2° Pour les créances garanties par le privilège prévu aux articles L. 143-17 à L. 143-19 et les créances avancées au titre du
+3° de l'article L. 143-23, lors d'une procédure de redressement ou de liquidation judiciaire. Les autres sommes avancées dans
+le cadre de ces procédures leur sont remboursées dans les conditions prévues par les dispositions du livre VI du code de
+commerce pour le règlement des créances nées antérieurement au jugement d'ouverture de la procédure. Elles bénéficient alors
+des privilèges attachés à celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1580 du 24 novembre 2016 - art. 1
+
+
+###### Article L143-31
+
+La garantie des institutions de garantie mentionnées à l'article L. 143-28 est limitée, toutes sommes et créances avancées
+confondues, à un ou des montants déterminés par décret, en référence au plafond mensuel retenu pour le calcul des
+contributions du régime d'assurance chômage, et inclut les cotisations et contributions sociales et salariales d'origine
+légale, ou d'origine conventionnelle imposée par la loi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1580 du 24 novembre 2016 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. D143-19 (V)
+
+
+##### Sous-Paragraphe 4 : Financement
+
+###### Article L143-32
+
+L'assurance est financée par des cotisations des employeurs assises sur les rémunérations servant de base au calcul des
+contributions au régime d'assurance-chômage.
+
+Le recouvrement, le contrôle de ces cotisations et leur contentieux suivent les règles prévues à l'article L. 327-18.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1580 du 24 novembre 2016 - art. 1
+
+
+##### Sous-Paragraphe 5 : Dispositions applicables dans le cas où l'employeur est établi dans un autre Etat membre de l'Union européenne ou de l'Espace économique européen
+
+###### Article L143-33
+
+Les institutions de garantie mentionnées à l'article L. 143-28 assurent le règlement des créances impayées des salariés qui
+exercent ou exerçaient habituellement leur activité sur le territoire français, pour le compte d'un employeur dont le siège
+social, s'il s'agit d'une personne morale, ou, s'il s'agit d'une personne physique, l'activité ou l'adresse de l'entreprise
+est situé dans un autre Etat membre de l'Union européenne ou de l'Espace économique européen, lorsque cet employeur se trouve
+en état d'insolvabilité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1580 du 24 novembre 2016 - art. 1
+
+
+###### Article L143-34
+
+Un employeur est considéré comme se trouvant en état d'insolvabilité au sens de l'article L. 143-33 lorsqu'a été demandée
+l'ouverture d'une procédure collective fondée sur son insolvabilité, prévue par les dispositions législatives, réglementaires
+et administratives d'un Etat membre de l'Union européenne ou de l'Espace économique européen, qui entraîne le dessaisissement
+partiel ou total de cet employeur ainsi que la désignation d'un syndic ou de toute personne exerçant une fonction similaire à
+celle du mandataire judiciaire, de l'administrateur judiciaire ou du liquidateur, et que l'autorité compétente en application
+de ces dispositions a : 
+
+1° Soit décidé l'ouverture de la procédure ; 
+
+2° Soit constaté la fermeture de l'entreprise ou de l'établissement de l'employeur ainsi que l'insuffisance de l'actif
+disponible pour justifier l'ouverture de la procédure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1580 du 24 novembre 2016 - art. 1
+
+
+###### Article L143-35
+
+La garantie due en application de l'article L. 143-33 porte sur les créances impayées mentionnées à l'article L. 143-23.
+Toutefois, les délais prévus aux 2° et 3° de l'article L. 143-23 sont portés à trois mois à compter de toute décision
+équivalente à une décision de liquidation ou arrêtant un plan de redressement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1580 du 24 novembre 2016 - art. 1
+
+
+###### Article L143-36
+
+Si les créances ne peuvent être payées en tout ou partie sur les fonds disponibles, les institutions de garantie mentionnées
+à l'article L. 143-28 procèdent au versement des fonds sur présentation par le syndic étranger ou par toute autre personne
+exerçant une fonction similaire à celle du mandataire judiciaire, de l'administrateur judiciaire ou du liquidateur, des
+relevés des créances impayées. Le dernier alinéa de l'article L. 143-42 est applicable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1580 du 24 novembre 2016 - art. 1
+
+
+###### Article L143-37
+
+Les sommes figurant sur ces relevés et restées impayées sont directement versées au salarié dans les huit jours suivant la
+réception des relevés des créances. 
+
+Par dérogation au premier alinéa, l'avance des contributions dues par l'employeur dans le cadre du contrat de sécurisation
+professionnelle mentionnées au 1° de l'article L. 143-23 est versée à l'organisme gestionnaire du régime d'assurance chômage.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1580 du 24 novembre 2016 - art. 1
+
+
+###### Article L143-38
+
+L'article L. 143-29 est applicable à l'exception du dernier alinéa. 
+
+Lorsque le mandataire judiciaire, l'administrateur judiciaire ou le liquidateur reçoit d'une institution située dans un autre
+Etat membre équivalente aux institutions de garantie mentionnées à l'article L. 143-28 les sommes dues aux salariés, il
+reverse immédiatement ces sommes aux salariés concernés. 
+
+Le mandataire judiciaire ou le liquidateur transmet à toute institution située dans un autre Etat membre équivalente aux
+institutions de garantie mentionnées à l'article L. 143-28 les relevés des créances impayées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1580 du 24 novembre 2016 - art. 1
+
+
+###### Article L143-39
+
+Les articles L. 143-22, L. 143-25 à L. 143-27 et L. 143-31 sont applicables aux procédures définies aux articles L. 143-33 et
+L. 143-34. Les jugements mentionnés à l'article L. 143-26 s'entendent de toute décision équivalente prise par l'autorité
+étrangère compétente. 
+
+Les institutions mentionnées à l'article L. 143-28 sont subrogées dans les droits des salariés pour lesquels elles ont
+réalisé des avances.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1580 du 24 novembre 2016 - art. 1
+
+
+###### Article L143-40
+
+Lorsque le syndic étranger ou toute personne exerçant une fonction similaire à celle du mandataire judiciaire, de
+l'administrateur judiciaire ou du liquidateur a cessé ses fonctions ou dans le cas mentionné au 2° de l'article L. 143-34,
+les institutions de garantie versent les sommes dues au salarié sur présentation, par celui-ci, des pièces justifiant du
+montant de sa créance. Dans ce cas, les dispositions relatives aux relevés des créances ne sont pas applicables.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1580 du 24 novembre 2016 - art. 1
+
+
+###### Article L143-41
+
+Les institutions mentionnées à l'article L. 143-28 informent, en cas de demande, toutes autres institutions de garantie des
+Etats membres de l'Union européenne ou de l'Espace économique européen sur la législation et la réglementation nationales
+applicables en cas de mise en œuvre d'une procédure d'insolvabilité définie aux articles L. 143-33 et L. 143-34.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1580 du 24 novembre 2016 - art. 1
+
+
+##### Paragraphe 3 : Etablissement et liquidation des créances 
+
+
+###### Article L143-42
+
+Le mandataire judiciaire établit les relevés des créances dans les conditions suivantes : 
+
+1° Pour les créances mentionnées aux articles L. 143-17 à L. 143-19 dans les dix jours suivant le prononcé du jugement
+d'ouverture de la procédure ; 
+
+2° Pour les autres créances également exigibles à la date du jugement d'ouverture de la procédure, dans les trois mois
+suivant le prononcé du jugement ; 
+
+3° Pour les salaires et les indemnités de congés payés couvertes en application du 3° de l'article L. 143-23 et les salaires
+couverts en application du dernier alinéa de ce même article, dans les dix jours suivant l'expiration des périodes de
+garantie prévues à ce 3° et ce, jusqu'à concurrence du plafond mentionné aux articles L. 143-17 et L. 143-19 ; 
+
+4° Pour les autres créances, dans les trois mois suivant l'expiration de la période de garantie. 
+
+Les relevés des créances précisent le montant des cotisations et contributions mentionnées au dernier alinéa de l'article L.
+143-23 dues au titre de chacun des salariés intéressés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1580 du 24 novembre 2016 - art. 1
+
+
+###### Article L143-43
+
+Si les créances ne peuvent être payées en tout ou partie sur les fonds disponibles avant l'expiration des délais prévus par
+l'article L. 143-42 le mandataire judiciaire demande, sur présentation des relevés, l'avance des fonds nécessaires aux
+institutions de garantie mentionnées à l'article L. 143-28. Dans le cas d'une procédure de sauvegarde, le mandataire
+judiciaire justifie à ces institutions, lors de sa demande, que l'insuffisance des fonds disponibles est caractérisée. Dans
+un délai de dix jours à compter de la réception de la demande de fonds par le mandataire judiciaire, ces institutions peuvent
+contester la réalité de l'insuffisance de fonds devant le juge-commissaire. Dans ce cas, l'avance des fonds est soumise à
+l'autorisation du juge-commissaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1580 du 24 novembre 2016 - art. 1
+
+
+###### Article L143-44
+
+Les institutions de garantie mentionnées à l'article L. 144-28 versent au mandataire judiciaire les sommes figurant sur les
+relevés et restées impayées : 
+
+1° Dans les cinq jours suivant la réception des relevés mentionnés aux 1° et 3° de l'article L. 143-42 ; 
+
+2° Dans les huit jours suivant la réception des relevés mentionnés aux 2° et 4° du même article. Par dérogation, l'avance des
+contributions de l'employeur au financement de la convention de reclassement personnalisé est versée directement aux
+organismes chargés du recouvrement mentionnés à l'article L. 327-54. 
+
+Le mandataire judiciaire reverse immédiatement les sommes qu'il a reçues aux salariés et organismes créanciers, à l'exclusion
+des créanciers subrogés, et en informe le représentant des salariés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1580 du 24 novembre 2016 - art. 1
+
+
+##### Sous-section 3 : Privilèges spéciaux
+
+###### Article L143-45
+
+Les sommes dues aux entrepreneurs de travaux publics ne peuvent être frappées de saisie ni d'opposition au préjudice soit des
+salariés, soit des fournisseurs créanciers à raison de fournitures de matériaux de toute nature servant à la construction des
+ouvrages. 
+
+Les sommes dues aux salariés à titre de salaire sont payées de préférence à celles dues aux fournisseurs.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1580 du 24 novembre 2016 - art. 1
+
+
+###### Article L143-46
+
+Peuvent faire valoir une action directe ou des privilèges spéciaux : 
+
+1° Dans les conditions fixées à l'article 1798 du code civil, les salariés des secteurs du bâtiment et des travaux publics ; 
+
+2° Dans les conditions fixées aux 1° et 3° de l'article 2332 du code civil, les salariés des entreprises agricoles ; 
+
+3° Dans les conditions fixées au 9° de l'article 2332 du code civil, les auxiliaires salariés des travailleurs à domicile ; 
+
+4° Dans les conditions fixées à l'article L. 4122-23 du code des transports, les salariés employés à la construction, à la
+réparation, l'armement et à l'équipement du bateau.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1580 du 24 novembre 2016 - art. 1
 
 
 #### CHAPITRE IV : Retenues sur le salaire.
@@ -17101,84 +17460,90 @@ L'aide est attribuée après avis du comité d'entreprise ou, à défaut, des d�
 	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 3
 
 
-##### Sous-section 2 : Chômage partiel
-
+##### Sous-section 2 : Aide aux salariés placés en activité partielle
 
 ###### Article L321-14
 
-Les salariés sont placés en position de chômage partiel et bénéficient d'une allocation spécifique de chômage partiel à la
-charge de l'Etat s'ils subissent une perte de salaire imputable :
+I.-Les salariés sont placés en position d'activité partielle, après  autorisation expresse ou implicite de l'autorité
+administrative, s'ils  subissent une perte de rémunération imputable : 
 
-a) Soit à la fermeture temporaire de leur établissement ou partie d'établissement ;
+1° Soit à la fermeture temporaire de leur établissement ou partie d'établissement ; 
 
-b) Soit à la réduction de l'horaire de travail pratiqué dans l'établissement ou partie d'établissement en deçà de la durée
-légale de travail.
+2° Soit à la réduction de l'horaire de travail pratiqué dans  l'établissement ou partie d'établissement en deçà de la durée
+légale de  travail. 
 
-L'attribution de l'allocation spécifique est subordonnée au versement par l'employeur d'une allocation complémentaire au
-bénéfice des salariés, d'un montant au moins équivalent à celui de l'allocation spécifique.
+En cas de réduction collective de  l'horaire de travail, les salariés peuvent être placés en position  d'activité partielle
+individuellement et alternativement. 
 
-L'allocation spécifique de chômage partiel est également attribuée aux salariés exerçant la même activité qui subissent la
-réduction collective de l'horaire de travail pratiqué dans l'établissement ou partie d'établissement en deçà de la durée
-légale de travail, appliquée, dans les mêmes conditions, individuellement et alternativement.
+II.-Les salariés reçoivent une indemnité horaire, versée par leur  employeur, correspondant à une part de leur rémunération
+antérieure dont  le pourcentage est fixé par décret en Conseil d'Etat. L'employeur  perçoit une allocation financée
+conjointement par l'Etat et l'organisme  gestionnaire du régime d'assurance chômage. Une convention conclue entre  l'Etat et
+cet organisme détermine les modalités de financement de cette  allocation. 
 
-Les salariés restent liés à leur employeur par un contrat de travail.
+Le contrat de travail des salariés  placés en activité partielle est suspendu pendant les périodes où ils ne  sont pas en
+activité. 
 
-La mise en chômage partiel des salariés indemnisés au titre de l'allocation spécifique de chômage partiel entraîne la
-suspension de l'exécution de leur contrat de travail. Durant cette période, les salariés peuvent suivre des actions de
-formation en dehors du temps de travail.
+III.-L'autorité  administrative peut définir des engagements spécifiquement souscrits par  l'employeur en contrepartie de
+l'allocation qui lui est versée, en  tenant compte des stipulations de l'accord collectif d'entreprise  relatif à l'activité
+partielle, lorsqu'un tel accord existe. Un décret  en Conseil d'Etat fixe les modalités selon lesquelles sont souscrits ces
+engagements.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 3
 
 	**Cité par**:
 
 	  - Décret n°2013-140 du 14 février 2013 - art. 4 (VD)
 	  - Code du travail applicable à Mayotte. - art. R321-20 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2016-1579 du 24 novembre 2016 - art. 1
+
 
 ###### Article L321-15
 
-Afin d'éviter des licenciements pour motif économique touchant certaines professions, des actions de prévention peuvent être
-engagées pour une durée déterminée.
+Les salariés placés en activité partielle peuvent bénéficier, pendant les périodes où ils ne sont pas en activité, de
+l'ensemble des actions et de la formation mentionnées aux articles L. 711-1-2 et L. 711-2 réalisées notamment dans le cadre
+du plan de formation. 
 
-Ces actions peuvent comporter notamment la prise en charge partielle par l'Etat des indemnités complémentaires de chômage
-partiel dues aux travailleurs victimes d'une réduction d'activité au-dessous de la durée légale du travail. Cette prise en
-charge se fait par voie de conventions conclues avec les organismes professionnels ou interprofessionnels ou avec les
-entreprises.
+Dans ce cas, le pourcentage mentionné au II de l'article L. 321-14 est majoré dans des conditions prévues par décret en
+Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 3
+	  - Ordonnance n°2016-1579 du 24 novembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L711-1-2
+	  - Code du travail applicable à Mayotte. - art. L711-2
 
 
 ###### Article L321-16
 
-Un décret détermine les conditions dans lesquelles les actions de prévention mentionnées à la présente sous-section peuvent
-être engagées.
+Le régime social et fiscal applicable aux contributions mentionnées à  l'article L. 327-12 est applicable à l'indemnité
+versée au salarié. 
+
+Cette indemnité est cessible et saisissable dans les mêmes conditions et limites que les salaires.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 3
+	  - Ordonnance n°2016-1579 du 24 novembre 2016 - art. 1
 
 
 ###### Article L321-17
 
-Le régime social et fiscal applicable aux contributions mentionnées à l'article L. 327-13 est applicable aux allocations et
-contributions de chômage partiel lorsque cette indemnisation résulte d'accords professionnels ou interprofessionnels,
-nationaux ou régionaux.
+Un décret en Conseil d'Etat détermine les conditions d'application de la présente sous-section.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 3
+	  - Ordonnance n°2016-1579 du 24 novembre 2016 - art. 1
 
 
 ##### Sous-section 3 : Allocation temporaire dégressive
@@ -17257,6 +17622,146 @@ salaires, ni des cotisations de sécurité sociale.
 	**Créé par**:
 
 	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 3
+
+
+##### Sous-section 4 : Contrat de génération
+
+###### Article L321-23
+
+Le contrat de génération a pour objectifs : 
+
+1° De faciliter l'insertion durable des jeunes dans l'emploi par leur accès à un contrat à durée indéterminée ; 
+
+2° De favoriser l'embauche et le maintien dans l'emploi des salariés âgés ; 
+
+3° D'assurer la transmission des savoirs et des compétences. 
+
+Il est mis en œuvre, en fonction de la taille des entreprises, dans les conditions prévues à la présente section. 
+
+Le contrat de génération est applicable aux employeurs de droit privé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1579 du 24 novembre 2016 - art. 2
+
+
+##### Paragraphe 1 : Modalités de mise en œuvre
+
+###### Article L321-24
+
+Les entreprises dont l'effectif est inférieur à trois cents salariés  bénéficient d'une aide dès lors qu'elles remplissent
+les conditions  prévues à l'article L. 321-26.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1579 du 24 novembre 2016 - art. 2
+
+
+##### Paragraphe 2 : Modalités de l'aide
+
+###### Article L321-25
+
+I.-Les entreprises mentionnées à l'article L. 321-24 bénéficient  d'une aide, pour chaque binôme de salariés, lorsqu'elles
+remplissent les  conditions cumulatives suivantes : 
+
+1° Elles  embauchent en contrat à durée indéterminée à temps plein et maintiennent  dans l'emploi pendant la durée de l'aide
+un jeune âgé de moins de  vingt-six ans ou un jeune de moins de trente ans bénéficiant de la  reconnaissance de la qualité de
+travailleur handicapé. Lorsque son  parcours ou sa situation le justifie, le jeune peut être employé à temps  partiel, avec
+son accord. La durée hebdomadaire du travail du jeune ne  peut alors être inférieure à quatre cinquièmes de la durée
+hebdomadaire  du travail à temps plein ; 
+
+2° Elles maintiennent  dans l'emploi en contrat à durée indéterminée, pendant la durée de  l'aide ou jusqu'à son départ en
+retraite un salarié âgé d'au moins  cinquante-cinq ans. 
+
+II.-L'aide ne peut être accordée à l'entreprise lorsque celle-ci : 
+
+1° Soit a procédé, dans les six mois précédant l'embauche du jeune, à  un licenciement pour motif économique sur les postes
+relevant de la  catégorie professionnelle dans laquelle est prévue l'embauche, ou à un  licenciement pour un motif autre que
+la faute grave ou lourde ou  l'inaptitude sur le poste pour lequel est prévue l'embauche ; 
+
+2° Soit n'est pas à jour de ses obligations déclaratives et de paiement  à l'égard des organismes de recouvrement des
+cotisations et des  contributions de sécurité sociale ou d'assurance chômage. 
+
+III.-Le licenciement pour un motif autre que la faute grave ou lourde  ou l'inaptitude de l'un des salariés ouvrant à
+l'entreprise le bénéfice  d'une aide entraîne son interruption. 
+
+IV.-Le  licenciement pour un motif autre que la faute grave ou lourde ou  l'inaptitude d'un salarié âgé de cinquante-cinq ans
+ou plus entraîne la  perte d'une aide associée à un binôme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1579 du 24 novembre 2016 - art. 2
+
+
+###### Article L321-26
+
+Les entreprises mentionnées à l'article L. 321-24 dont l'effectif est  inférieur à cinquante salariés bénéficient également
+d'une aide lorsque  le chef d'entreprise, âgé d'au moins cinquante-cinq ans, embauche un  jeune âgé de moins de trente ans,
+en respectant les autres conditions  prévues au 1° du I de l'article L. 321-25 dans la perspective de lui  transmettre
+l'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1579 du 24 novembre 2016 - art. 2
+
+
+###### Article L321-27
+
+Le versement de l'aide est assuré par l'institution mentionnée à  l'article L. 326-6, selon les modalités prévues au 4° de
+l'article L.  326-7.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1579 du 24 novembre 2016 - art. 2
+
+
+###### Article L321-28
+
+Le comité d'entreprise ou, à défaut, les délégués du personnel,  lorsqu'ils existent, sont informés des aides attribuées au
+titre du  contrat de génération.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1579 du 24 novembre 2016 - art. 2
+
+
+###### Article L321-29
+
+La durée et le montant de l'aide sont fixés par décret. Le montant de  l'aide est calculé au prorata de la durée hebdomadaire
+du travail des  salariés ouvrant droit à cette aide.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1579 du 24 novembre 2016 - art. 2
+
+
+##### Paragraphe 3 : Dispositions d'application
+
+###### Article L321-30
+
+Sauf dispositions contraires, un décret en Conseil d'Etat détermine les  conditions d'application de la présente sous-
+section, et notamment  définit les cas dans lesquels le départ des salariés mentionnés aux I à  IV de l'article L. 321-25
+n'entraîne pas la perte d'une aide associée à  un binôme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1579 du 24 novembre 2016 - art. 2
 
 
 #### Chapitre II : Contrat unique d'insertion
@@ -24233,16 +24738,20 @@ Le tribunal du travail saisi peut ordonner par provision le versement de l'indem
 Ces dernières dispositions ne font pas obstacle au droit du salarié de demander en justice une indemnisation supplémentaire
 s'il est en mesure d'établir l'existence d'un préjudice non réparé au titre desdites dispositions.
 
+3° Le salarié étranger mentionné au premier alinéa du présent article bénéficie des dispositions de la section 2 du chapitre
+III du titre IV du livre Ier relatives aux assurances et privilèges de salaires pour les sommes qui lui sont dues en
+application du présent article.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 91-246 1991-02-25 art. 1
-	  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+	  - Ordonnance n°91-246 du 25 février 1991
+	  - Loi n°91-1379 du 28 décembre 1991
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 17 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+	  - Ordonnance n°2016-1580 du 24 novembre 2016 - art. 2
 
 	**Cité par**:
 
@@ -64316,211 +64825,885 @@ des compétences.
 	  - Décret n°2013-801 du 2 septembre 2013 - art. 1
 
 
-##### Sous-section 2 : Aides aux salariés en chômage partiel
+##### Sous-section 2 : Activité partielle
 
-###### Article D321-12-1
+###### Article R321-10
 
-Le taux horaire de l'allocation spécifique pour privation partielle d'emploi prévu à l'article L. 327-10 est fixé à 1,5
-Euros.
+L'employeur peut placer ses salariés en position d'activité partielle lorsque l'entreprise est contrainte de réduire ou de
+suspendre temporairement son activité pour l'un des motifs suivants : 
+
+1° La conjoncture économique ; 
+
+2° Des difficultés d'approvisionnement en matières premières ou en énergie ; 
+
+3° Un sinistre ou des intempéries de caractère exceptionnel ; 
+
+4° La transformation, restructuration ou modernisation de l'entreprise ; 
+
+5° Toute autre circonstance de caractère exceptionnel.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2012-1205 du 30 octobre 2012 - art. 2
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2016-1583 du 24 novembre 2016 - art. 1
-
-	**Anciens textes**:
-
-	  - Code du travail applicable à Mayotte. - art. D327-10 (T)
 
 	**Cite**:
 
 	  - Code du travail applicable à Mayotte. - art. L327-10
 
 
-###### Article R321-10
+###### Article R321-11
 
-Les allocations prévues par l'article L. 327-10 sont attribuées par le représentant de l'Etat à Mayotte ou, sur délégation,
-par le directeur du travail, de l'emploi et de la formation professionnelle de Mayotte au vu d'une demande préalable de
-l'entreprise qui s'engage à assurer le versement au salarié de l'allocation spécifique et de l'allocation complémentaire
-prévues à l'article L. 327-10. 
+L'employeur adresse au représentant de l'Etat à Mayotte une demande préalable d'autorisation d'activité partielle. 
 
-Ces allocations peuvent être attribuées aux salariés des entreprises qui sont contraintes de réduire ou de suspendre
-temporairement leur activité en raison de la conjoncture économique, de difficultés d'approvisionnement en matières premières
-ou en énergie, d'un sinistre ou d'intempéries de caractère exceptionnel, d'une transformation, restructuration ou
-modernisation de l'entreprise ou de toute autre circonstance de caractère exceptionnel. 
+La demande précise : 
 
-Ces allocations sont attribuées dans la limite d'un contingent annuel d'heures indemnisables fixé, en tenant compte de la
-situation économique, par arrêté du ministre chargé de l'emploi. Cette limite ne peut être dépassée que dans des cas
-exceptionnels résultant de la situation particulière de l'entreprise, sur décision conjointe des ministres chargés de
-l'emploi, du budget et de l'outre-mer. 
+1° Les motifs justifiant le recours à l'activité partielle ; 
 
-Au sein de ce contingent, l'arrêté précité fixe, dans la limite correspondant au volume horaire du nombre de semaines défini
-au dernier alinéa du présent article, le nombre d'heures pouvant être indemnisées en cas de modernisation des installations
-et des bâtiments de l'entreprise à caractère exceptionnel. Cette limite ne peut être dépassée que dans des cas exceptionnels
-résultant de la situation particulière de l'entreprise, sur décision conjointe du représentant de l'Etat à Mayotte et du
-trésorier-payeur général. 
+2° La période prévisible de sous-activité ; 
 
-L'arrêté fixe également le nombre d'heures pouvant être indemnisées en cas de fermeture temporaire d'un établissement, dans
-la limite de douze semaines de suspension d'activité.
+3° Le nombre de salariés concernés. 
+
+Elle est accompagnée de l'avis préalable du comité d'entreprise en application du premier alinéa de l'article L. 442-1 ou, en
+l'absence de comité d'entreprise, de l'avis préalable des délégués du personnel en application de l'article L. 441-4. 
+
+Lorsque la demande s'effectue sur le fondement du II de l'article R. 321-18, elle mentionne les engagements que l'employeur
+propose de souscrire. 
+
+La demande d'autorisation est adressée par voie dématérialisée dans les conditions fixées par l'article R. 321-34.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-1204 du 30 octobre 2012 - art. 1
+	  - Décret n°2016-1583 du 24 novembre 2016 - art. 1
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L327-10 (V)
-
-	**Anciens textes**:
-
-	  - Code du travail applicable à Mayotte. - art. R327-10 (T)
-
-
-###### Article R321-11
-
-Ne peuvent bénéficier des allocations :
-
-1° Les personnes dont le salaire hebdomadaire habituel est inférieur à dix-huit fois le salaire minimum interprofessionnel
-garanti ;
-
-2° Les personnes dont le chômage est provoqué par un différend collectif de travail intéressant l'établissement qui les
-emploie ; toutefois, dans le cas d'un lock-out se prolongeant plus de trois jours, le versement des allocations peut être
-autorisé par décision du représentant de l'Etat à Mayotte ;
-
-3° Les chômeurs saisonniers ; toutefois, ceux-ci peuvent bénéficier des allocations si leur état de chômage a un caractère
-exceptionnel à l'époque de l'année à laquelle il se produit. Ils doivent alors faire la preuve qu'au cours d'une des deux
-années précédentes ils occupaient à la même époque et pendant la même période un emploi salarié dont ils tiraient une
-rémunération régulière.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2012-1204 du 30 octobre 2012 - art. 1
-
-	**Anciens textes**:
-
-	  - Code du travail applicable à Mayotte. - art. R327-11 (T)
+	  - Code du travail applicable à Mayotte. - art. L441-4
+	  - Code du travail applicable à Mayotte. - art. L442-1
 
 
 ###### Article R321-12
 
-Le nombre d'heures perdues pouvant justifier des allocations attribuées en application de l'article L. 327-10 correspond à la
-différence entre la durée légale du travail applicable dans l'entreprise ou, lorsqu'elle est inférieure à la durée collective
-du travail ou à la durée stipulée au contrat et le nombre d'heures réellement travaillées sur la période considérée. 
-
-Ces allocations prennent la forme d'indemnités horaires dont le taux est fixé par décret.
+Par dérogation à l'article R. 321-11, en cas de suspension d'activité due à un sinistre ou à des intempéries prévus au 3° de
+l'article R. 321-10, l'employeur dispose d'un délai de trente jours pour adresser sa demande par tout moyen conférant date
+certaine.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-1204 du 30 octobre 2012 - art. 1
+	  - Décret n°2016-1583 du 24 novembre 2016 - art. 1
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L327-10 (V)
-
-	**Anciens textes**:
-
-	  - Code du travail applicable à Mayotte. - art. R327-12 (T)
+	  - Code du travail applicable à Mayotte. - art. L327-10
 
 
 ###### Article R321-13
 
-L'employeur doit, préalablement à la mise au chômage partiel de ses salariés, adresser à l'autorité administrative une
-demande d'indemnisation précisant les motifs justifiant le recours au chômage partiel, la durée prévisible de la sous-
-activité, le nombre de salariés concernés ainsi que, pour chacun d'entre eux, la durée du travail habituellement effectuée. 
+La décision d'autorisation ou de refus, signée par le représentant de l'Etat à Mayotte, est notifiée à l'employeur dans un
+délai de quinze jours à compter de la date de réception de la demande d'autorisation. 
 
-Toutefois, en cas de suspension d'activité due à un sinistre ou à des intempéries, l'employeur dispose d'un délai de 30 jours
-pour adresser sa demande. 
+La décision d'autorisation précise notamment les coordonnées bancaires de l'employeur. 
 
-L'autorité administrative dispose d'un délai de 20 jours à compter de la date de réception de la demande pour notifier à
-l'employeur sa décision d'acceptation ou de refus. 
+L'absence de décision dans un délai de quinze jours vaut acceptation implicite de la demande. 
 
-L'allocation pour privation partielle d'emploi est liquidée mensuellement. Les indemnités sont versées aux salariés à la date
-normale de paie par l'employeur. 
+La décision de refus est motivée. 
 
-L'employeur est remboursé sur production d'états nominatifs, visés par l'autorité administrative compétente, précisant le
-nombre d'heures chômées par chaque salarié ainsi que le montant de l'allocation complémentaire qui lui est versé par
-l'employeur en application de l'article L. 327-10. 
-
-Toutefois, en cas de procédure de sauvegarde ou de redressement ou de liquidation judiciaire, ou de difficultés financières
-de l'employeur, le représentant de l'Etat à Mayotte ou, sur délégation, le directeur du travail, de l'emploi et de la
-formation professionnelle peut faire procéder au paiement direct des allocations aux salariés. La procédure de paiement
-direct des allocations aux salariés peut également être employée pour assurer, sous le contrôle du directeur du travail, de
-l'emploi ou de la formation professionnelle, l'indemnisation des travailleurs à domicile habituellement occupés par plusieurs
-employeurs. 
-
-A l'occasion du paiement des allocations, un document indiquant le nombre des heures indemnisées, les taux appliqués et les
-sommes versées au titre de la période considérée est remis au salarié par l'employeur ou, en cas de paiement direct, par les
-services chargés du paiement. Ce document distingue la partie de l'allocation qui est remboursée par l'Etat, ou allocation
-spécifique, et la partie de l'allocation qui est à la charge de l'employeur, ou allocation complémentaire.
+La décision du représentant de l'Etat à Mayotte est notifiée par voie dématérialisée à l'employeur. Celui-ci en informe le
+comité d'entreprise ou, en l'absence de comité d'entreprise, les délégués du personnel.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-1204 du 30 octobre 2012 - art. 1
+	  - Décret n°2016-1583 du 24 novembre 2016 - art. 1
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. L327-10 (V)
+	  - Code du travail applicable à Mayotte. - art. L327-10
 
 	**Cité par**:
 
 	  - Code du travail applicable à Mayotte. - art. R321-14 (M)
 
-	**Anciens textes**:
-
-	  - Code du travail applicable à Mayotte. - art. R327-13 (T)
-
 
 ###### Article R321-14
 
-Les entreprises appliquant un accord de modulation du temps de travail peuvent bénéficier des allocations de chômage partiel
-pour chaque heure perdue en deçà de la durée du travail prévue dans le programme indicatif des salariés concernés sur la
-période considérée dans les limites de la durée légale ou de la durée hebdomadaire moyenne sur l'année ou sur la période
-retenue par l'accord ou la convention, si elle est inférieure. 
+En cas de décision d'autorisation expresse ou tacite prévue à l'article R. 321-13, l'employeur peut adresser à l'Agence de
+services et de paiement une demande d'indemnisation au titre de l'allocation d'activité partielle prévue à l'article L.
+321-14. 
 
-L'employeur doit adresser une demande d'indemnisation selon la procédure prévue à l'article R. 321-13 ; il doit en outre
-communiquer à l'autorité administrative compétente le programme indicatif sur la période considérée ainsi que les mesures
-mises en oeuvre pour éviter le recours au chômage partiel. 
+Cette demande comporte : 
 
-Les indemnités sont versées aux salariés dans les conditions définies à l'article R. 321-13. 
+1° Des informations relatives à l'identité de l'employeur ; 
 
-L'employeur est remboursé sur production d'états nominatifs, à la fin de la période de modulation, et au vu des heures
-effectivement travaillées sur l'année figurant dans le bilan de la modulation du temps de travail, dressé par l'employeur et
-communiqué à l'autorité administrative. 
+2° La liste nominative des salariés concernés ainsi que le numéro d'inscription au répertoire national d'identification des
+personnes physiques ; 
 
-Toutefois, l'employeur est remboursé mensuellement dans les cas suivants : 
+3° Les états nominatifs précisant notamment le nombre d'heures chômées par salarié. 
 
-1° Lorsqu'il est avéré que l'entreprise ne pourra pas atteindre, au plus, en moyenne, la durée hebdomadaire légale du travail
-par semaine travaillée, compte tenu des durées maximales du travail et de l'amplitude de la modulation ; 
+Pour les établissements appliquant un accord d'aménagement du temps de travail sur une période supérieure à la semaine et
+inférieure à l'année, l'employeur y joint, dans le cas où il ne souhaite pas un remboursement à la fin de la période, une
+demande de remboursement mensuel. 
 
-2° Lorsque l'autorité administrative estime que la situation exceptionnelle de l'entreprise ou des difficultés économiques
-sérieuses et avérées nécessitent le remboursement mensuel de l'allocation.
+La demande est adressée par voie dématérialisée à l'Agence de services, et de paiement qui se charge d'en assurer la
+conservation selon des modalités garantissant l'intégrité des informations reçues. 
+
+Après vérification, l'Agence de services et de paiement liquide l'allocation d'activité partielle selon les modalités fixées
+aux articles R. 321-23 à R. 321-25.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2016-1583 du 24 novembre 2016 - art. 1
+
+
+###### Article R321-15
+
+L'allocation d'activité partielle est attribuée dans la limite d'un contingent annuel d'heures indemnisables fixé, en tenant
+compte de la situation économique, par arrêté des ministres chargé de l'emploi et des outre-mer.
+
+Cette limite ne peut être dépassée que dans des cas exceptionnels résultant de la situation particulière de l'entreprise, sur
+décision conjointe des ministres chargés de l'emploi, du budget et des outre-mer.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2012-1204 du 30 octobre 2012 - art. 1
+	  - Décret n°2016-1583 du 24 novembre 2016 - art. 1
+
+
+###### Article R321-16
+
+Au sein du contingent annuel d'heures indemnisables, l'arrêté des ministres chargé de l'emploi et des outre-mer fixe le
+nombre d'heures pouvant être indemnisées en cas de modernisation des installations et des bâtiments de l'entreprise.
+
+Cette limite ne peut être dépassée que dans des cas exceptionnels résultant de la situation particulière de l'entreprise, sur
+décision conjointe du représentant de l'Etat à Mayotte et du directeur régional des finances publiques.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1583 du 24 novembre 2016 - art. 1
+
+
+###### Article R321-17
+
+Ne peuvent bénéficier de l'allocation et de l'indemnité d'activité partielle les employeurs et leurs salariés quand la
+réduction ou la suspension de l'activité est provoquée par un différend collectif de travail intéressant l'établissement dans
+lequel ces salariés sont employés. Toutefois, dans le cas d'une fermeture de l'entreprise ou d'un service décidée par
+l'employeur suite à une grève, le versement des allocations et des indemnités peut être autorisé par décision des ministres
+chargé de l'emploi et des outre-mer, si la fermeture se prolonge plus de trois jours.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1583 du 24 novembre 2016 - art. 1
+
+
+###### Article R321-18
+
+I. - Une autorisation d'activité partielle peut être accordée pour une durée maximum de six mois. Elle peut être renouvelée
+dans les conditions fixées au II.
+
+II. - Lorsque l'employeur a, préalablement à sa demande, déjà placé ses salariés en activité partielle au cours des trente-
+six mois précédant la date de dépôt de la demande d'autorisation, celle-ci mentionne les engagements souscrits par
+l'employeur.
+
+Ces engagements peuvent notamment porter sur :
+
+1° Le maintien dans l'emploi des salariés pendant une durée pouvant atteindre le double de la période d'autorisation ;
+
+2° Des actions spécifiques de formation pour les salariés placés en activité partielle ;
+
+3° Des actions en matière de gestion prévisionnelle des emplois et des compétences ;
+
+4° Des actions visant à rétablir la situation économique de l'entreprise.
+
+L'autorité administrative fixe ces engagements en tenant compte de la situation de l'entreprise, d'un éventuel accord
+collectif sur les conditions du recours à l'activité partielle ou, à défaut, des propositions figurant dans la demande
+d'autorisation ainsi que de la récurrence du recours à l'activité partielle dans l'établissement.
+
+III. - Les engagements sont notifiés dans la décision d'autorisation.
+
+IV. - L'autorité administrative s'assure du respect des engagements souscrits par l'employeur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1583 du 24 novembre 2016 - art. 1
+
+
+###### Article R321-19
+
+L'autorité administrative demande à l'employeur le remboursement des sommes perçues au titre de l'allocation d'activité
+partielle en cas de non-respect par l'entreprise, sans motif légitime, des engagements mentionnés dans la décision
+d'autorisation.
+
+Le remboursement peut ne pas être exigé s'il est incompatible avec la situation économique et financière de l'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1583 du 24 novembre 2016 - art. 1
+
+
+###### Article R321-20
+
+Les heures non travaillées au titre de l'activité partielle font l'objet du versement de l'allocation dans la limite de la
+durée légale ou, lorsqu'elle est inférieure, la durée collective du travail ou la durée stipulée au contrat sur la période
+considérée. Au-delà de la durée légale ou, lorsqu'elle est inférieure, la durée collective du travail ou la durée stipulée au
+contrat sur la période considérée, les heures non travaillées au titre de l'activité partielle sont considérées comme chômées
+mais n'ouvrent pas droit au versement par l'Etat à l'employeur de l'allocation d'activité partielle et au versement par
+l'employeur au salarié de l'indemnité prévues à l'article L. 321-14. 
+
+La totalité des heures chômées est prise en compte pour le calcul de l'acquisition des droits à congés payés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1583 du 24 novembre 2016 - art. 1
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. R321-13 (V)
+	  - Code du travail applicable à Mayotte. - art. L321-14 (V)
 
-	**Anciens textes**:
 
-	  - Code du travail applicable à Mayotte. - art. R327-14 (T)
+###### Article R321-21
+
+Le taux horaire de l'allocation d'activité partielle est fixé par décret. Il est d'un montant supérieur pour les entreprises
+de moins de 250 salariés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1583 du 24 novembre 2016 - art. 1
+
+
+###### Article R321-22
+
+Le taux horaire de l'allocation d'activité partielle est fixé à :
+
+1° 5,84 € pour les entreprises de un à deux cent cinquante salariés ;
+
+2° 5,46 € pour les entreprises de plus de deux cent cinquante salariés.
+
+Si le salarié perçoit une rémunération déterminée en pourcentage du salaire interprofessionnel garanti et qu'une convention
+collective ou qu'un accord de branche ou d'entreprise ne s'applique pas, le taux horaire de l'allocation d'activité partielle
+est plafonné à la rémunération horaire brute du salarié.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1583 du 24 novembre 2016 - art. 1
+
+
+###### Article R321-23
+
+L'allocation d'activité partielle est liquidée mensuellement par l'Agence de services et de paiement pour le compte de l'Etat
+et de l'organisme gestionnaire du régime d'assurance chômage.
+
+Les indemnités mentionnées au II de l'article L. 321-14 sont versées aux salariés à la date normale de paie par l'employeur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1583 du 24 novembre 2016 - art. 1
+
+
+###### Article R321-24
+
+En cas de procédure de sauvegarde ou de redressement ou de liquidation judiciaire, ou de difficultés financières de
+l'employeur, le représentant de l'Etat à Mayotte, ou sur délégation, le directeur des entreprises, de la concurrence, de la
+consommation, du travail et de l'emploi, peut faire procéder au paiement direct par l'Agence de services et de paiement de
+l'allocation d'activité partielle aux salariés.
+
+La procédure de paiement direct par l'Agence de services et de paiement de l'allocation aux salariés peut également être
+employée pour assurer, sous le contrôle des services de l'emploi, l'indemnisation des travailleurs à domicile habituellement
+employés par plusieurs employeurs.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1583 du 24 novembre 2016 - art. 1
+
+
+###### Article R321-25
+
+A l'occasion du paiement de l'allocation d'activité partielle, un document indiquant le nombre des heures indemnisées, les
+taux appliqués et les sommes versées au titre de la période considérée est remis au salarié par l'employeur ou, en cas de
+paiement direct, par l'agence de services et de paiement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1583 du 24 novembre 2016 - art. 1
+
+
+###### Article R321-26
+
+Le salarié placé en activité partielle reçoit une indemnité horaire, versée par son employeur, correspondant à 70 % de sa
+rémunération brute servant d'assiette de l'indemnité de congés payés telle que prévue au II de l'article L. 223-21 ramenée à
+un montant horaire sur la base de la durée légale du travail applicable dans l'entreprise ou, lorsqu'elle est inférieure, la
+durée collective du travail ou la durée stipulée au contrat de travail. 
+
+Pendant les actions de formation mentionnées à l'article L. 321-15 mises en œuvre pendant les heures chômées, cette indemnité
+horaire est portée à 100 % de la rémunération nette antérieure du salarié. 
+
+Pour les salariés en contrat d'apprentissage, l'allocation mentionnée à l'article L. 321-14 ne peut être supérieure au
+montant de l'indemnité horaire due par l'employeur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1583 du 24 novembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L223-21
+
+
+###### Article R321-27
+
+Le nombre d'heures pouvant justifier de l'attribution de l'allocation d'activité partielle correspond à la différence entre
+la durée légale du travail sur la période considérée ou, lorsqu'elle est inférieure, la durée collective du travail ou la
+durée stipulée au contrat, et le nombre d'heures travaillées sur ladite période.
+
+Pour l'application du présent article, la durée légale du travail et la durée stipulée au contrat sont définies sur la
+période considérée en tenant compte du nombre de mois entiers, du nombre de semaines entières et du nombre de jours ouvrés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1583 du 24 novembre 2016 - art. 1
+
+
+###### Article R321-28
+
+L'Agence de services et de paiement met en œuvre le traitement automatisé mentionné à l'article R. 5122-20 du code du travail
+pour les données à caractère personnel contenues dans les demandes préalables d'autorisation de placement en position
+d'activité partielle et les demandes d'indemnisation en application des articles R. 321-11 et R. 321-14.
+
+Ce traitement automatisé, ainsi qu'il est prévu à l'article R. 5122-20 précité, a pour finalité :
+
+1° La gestion, le contrôle et le suivi des demandes préalables d'autorisation de placement en position d'activité partielle
+de salariés et des demandes d'indemnisation ;
+
+2° Le calcul et le paiement de l'allocation d'activité partielle versée à l'établissement ou au salarié en cas de paiement
+direct selon les modalités prévues à l'article R. 321-24 ;
+
+3° L'élaboration de données statistiques et financières anonymisées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1583 du 24 novembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code du travail - art. R5122-20
+
+
+###### Article R321-29
+
+Les catégories de données à caractère personnel enregistrées sont les suivantes :
+
+1° En cas de paiement de l'allocation de l'activité partielle à l'établissement :
+
+a) Les identifiants de connexion ;
+
+b) Le nom d'usage et le prénom des salariés ;
+
+c) Le numéro d'inscription au répertoire national d'identification des personnes physiques ;
+
+d) La catégorie socioprofessionnelle ;
+
+e) Les coordonnées bancaires de l'établissement ;
+
+f) Le mode d'aménagement du temps de travail de chaque salarié, le nombre d'heures chômées et celles ouvrant droit à
+indemnisation sur la période considérée, dans les conditions prévues à l'article R. 321-20 ;
+
+2° En cas de paiement direct aux salariés de l'allocation d'activité partielle dans le cadre des articles R. 321-24 et R.
+321-25 :
+
+a) Les identifiants de connexion ;
+
+b) Les nom d'usage, nom de famille, prénom, civilité, date de naissance, commune de naissance, code INSEE de la commune de
+naissance des salariés ;
+
+c) Le numéro d'inscription au répertoire national d'identification des personnes physiques ;
+
+d) L'adresse des salariés, le code postal et la commune ;
+
+e) Les coordonnées bancaires des salariés ;
+
+f) Le mode d'aménagement du temps de travail de chaque salarié, le nombre d'heures chômées et celles ouvrant droit à
+indemnisation sur la période considérée, dans les conditions prévues à l'article R. 321-20.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1583 du 24 novembre 2016 - art. 1
+
+
+###### Article R321-30
+
+A l'exception du numéro d'inscription au répertoire national d'identification des personnes physiques, sont destinataires des
+données du traitement pour les nécessités liées aux seules finalités mentionnées aux 1°, 2° et 3° de l'article R. 321-28 les
+agents des administrations et organismes mentionnés ci-après, désignés et habilités par l'autorité responsable de ces
+administrations et organismes :
+
+1° La délégation générale à l'emploi et à la formation professionnelle ;
+
+2° L'organisme gestionnaire du régime d'assurance chômage ;
+
+3° Les services déconcentrés du ministère chargé de l'emploi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1583 du 24 novembre 2016 - art. 1
+
+
+###### Article R321-31
+
+Les agents des services statistiques du ministère chargé de l'emploi désignés et habilités par l'autorité responsable de ces
+services sont destinataires des données, à l'exception du nom de famille et, le cas échéant, du nom d'usage, ainsi que du
+numéro d'inscription au répertoire national d'identification des personnes physiques, pour les nécessités liées à la seule
+finalité mentionnée au 3° de l'article R. 321-28.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1583 du 24 novembre 2016 - art. 1
+
+
+###### Article R321-32
+
+Les données à caractère personnel ne peuvent être conservées au-delà de cinq ans. Toutefois, en cas de contentieux relatif à
+une demande d'indemnisation, les données correspondantes sont conservées jusqu'au règlement définitif de l'affaire.
+
+L'enregistrement, l'utilisation, la conservation et la transmission de ces données sont réalisés selon des modalités propres
+à garantir leur confidentialité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1583 du 24 novembre 2016 - art. 1
+
+
+###### Article R321-33
+
+Les droits d'accès et de rectification prévus aux articles 39 et 40 de la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés s'exercent auprès de l'Agence de services et de paiement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 - art. 39
+	  - Loi n°78-17 du 6 janvier 1978 - art. 40
+
+	**Créé par**:
+
+	  - Décret n°2016-1583 du 24 novembre 2016 - art. 1
+
+
+###### Article R321-34
+
+I. - La demande d'autorisation mentionnée à l'article R. 321-11 adressée par voie dématérialisée est établie sur un site
+accessible en ligne, par l'intermédiaire du réseau internet, offrant les fonctionnalités nécessaires à la dématérialisation
+des échanges d'information entre l'employeur et le représentant de l'Etat de manière sécurisée et confidentielle.
+
+Les conditions générales d'utilisation de ce site précisent notamment les règles relatives à l'identification de l'auteur de
+la demande d'autorisation, à l'intégrité, à la lisibilité et à la fiabilité de la transmission, à sa date et à son heure, à
+l'assurance de sa réception ainsi qu'à sa conservation.
+
+Pour adhérer à ces conditions générales d'utilisation, l'employeur fournit les informations nécessaires à son identification
+ainsi que le nom de la personne physique, dûment habilitée, chargée de procéder à la demande d'autorisation et une adresse
+électronique, afin que puissent lui être communiquées les informations permettant d'authentifier l'auteur de la demande
+d'autorisation.
+
+L'adhésion par l'employeur donne lieu à la délivrance d'un récépissé électronique établi dans des conditions de nature à
+permettre sa conservation garantissant son intégrité sur la durée.
+
+Cette adhésion lui ouvre l'accès au dépôt de sa demande dématérialisée d'activité partielle.
+
+II. - La demande d'autorisation, qui comporte notamment les coordonnées bancaires du compte sur lequel sera payée
+l'allocation mentionnée à l'article L. 321-14, donne lieu à la délivrance d'un récépissé électronique de dépôt établi dans
+des conditions de nature à permettre sa conservation garantissant son intégrité sur la durée. Ce récépissé récapitule
+notamment les informations relatives à l'identification de l'auteur de la demande, la date et l'heure de la réception de
+celle-ci et le délai au terme duquel l'absence de décision vaut acceptation implicite de la demande d'autorisation.
+
+La transmission de ce récépissé est assurée de manière sécurisée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1583 du 24 novembre 2016 - art. 1
+
+
+##### Sous-section 3 : Contrat de génération 
+
+
+
+##### Paragraphe 1 : Dispositions générales 
+
+
+###### Article R321-35
+
+Les effectifs mentionnés à l'article L. 321-24 sont appréciés au 31 décembre, tous établissements confondus, en fonction de
+la moyenne au cours de l'année civile des effectifs déterminés chaque mois.
+
+Pour la détermination des effectifs du mois, il est tenu compte des salariés titulaires d'un contrat de travail le dernier
+jour de chaque mois, y compris les salariés absents, conformément aux dispositions des articles L. 011-4 et L. 011-5.
+
+Pour une entreprise créée au cours de l'année, l'effectif est apprécié à la date de sa création. Au titre de l'année
+suivante, l'effectif de cette entreprise est apprécié dans les conditions définies aux deux premiers alinéas du présent
+article en fonction de la moyenne des effectifs de chacun des mois d'existence de la première année.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1583 du 24 novembre 2016 - art. 2
+
+
+##### Paragraphe 2 : Modalités de l'aide
+
+###### Article D321-38
+
+I. - Le montant de l'aide prévue par les articles L. 321-25 et L. 321-26 est de quatre mille euros par an, à hauteur de deux
+mille euros au titre de l'embauche du jeune mentionné au 1° du I de l'article L. 321-25 ou à l'article L. 321-26 et de deux
+mille euros au titre du maintien en emploi du salarié âgé mentionné au 2° du I de l'article L. 321-25 ou du chef d'entreprise
+mentionné à l'article L. 321-26.
+
+Lorsque l'entreprise satisfait la condition prévue au b du 2° du I de l'article L. 321-25 et que la date d'embauche du jeune
+intervient au plus tard six mois après celle du salarié âgé, le montant de l'aide prévue par ce même article est de huit
+mille euros, à hauteur de quatre mille euros au titre de l'embauche du jeune et de quatre mille euros au titre de l'embauche
+du salarié âgé.
+
+II. - Le montant de l'aide due au titre de chacun des deux membres du binôme est proratisé, le cas échéant :
+
+1° En fonction de la durée du travail du jeune ou du salarié âgé, lorsque cette durée est inférieure au temps plein ;
+
+2° En cas d'embauche ou de départ du jeune ou du salarié âgé ou du chef d'entreprise en cours de trimestre, en fonction de la
+durée d'exécution du contrat ou de la présence dans l'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1583 du 24 novembre 2016 - art. 2
+
+
+###### Article D321-40
+
+L'entreprise bénéficie de l'aide pendant trois ans à compter du premier jour d'exécution du contrat de travail à durée
+indéterminée du jeune.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1583 du 24 novembre 2016 - art. 2
+
+
+###### Article R321-36
+
+L'entreprise est considérée comme étant à jour de ses obligations déclaratives et de paiement à l'égard des organismes de
+recouvrement de cotisation et de contribution de sécurité sociale ou d'assurance chômage lorsque l'employeur a souscrit et
+respecte un plan d'apurement des cotisations restant dues.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1583 du 24 novembre 2016 - art. 2
+
+
+###### Article R321-37
+
+Les conditions d'âge mentionnées à l'article L. 321-25 sont appréciées au premier jour d'exécution du contrat de travail à
+durée indéterminée du jeune.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1583 du 24 novembre 2016 - art. 2
+
+
+###### Article R321-39
+
+L'aide prévue aux articles L. 321-25 et L. 321-26 ne peut se cumuler avec une autre aide de l'Etat à l'insertion, à l'accès
+ou au retour à l'emploi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1583 du 24 novembre 2016 - art. 2
+
+
+###### Article R321-41
+
+La demande d'aide est déposée par l'employeur auprès de Pôle emploi dans les trois mois suivant le premier jour d'exécution
+du contrat de travail du jeune recruté dans les conditions prévues au 1° du I de l'article L. 321-25.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1583 du 24 novembre 2016 - art. 2
+
+
+###### Article R321-42
+
+L'aide est interrompue, dans sa totalité, en cas de rupture du contrat de travail à durée indéterminée du jeune mentionné au
+1° du I de l'article L. 321-25 ou à l'article L. 321-26 ou en cas de diminution de sa durée hebdomadaire de travail en deçà
+des quatre cinquièmes de la durée collective de travail hebdomadaire de l'entreprise.
+
+Elle est également interrompue dans sa totalité en cas de rupture du contrat de travail du salarié âgé mentionné au 2° du I
+de l'article L. 321-25 :
+
+1° Dans les six mois suivant le premier jour d'exécution du contrat de travail à durée indéterminée du jeune, quel que soit
+le motif de rupture ;
+
+2° Au-delà des six mois suivant le premier jour d'exécution du contrat de travail à durée indéterminée du jeune, en cas de
+licenciement pour une cause autre que la faute grave ou lourde ou l'inaptitude.
+
+En cas de rupture du contrat de travail du salarié âgé mentionné au 2° du I de l'article L. 321-25 dans les six mois suivant
+le premier jour d'exécution du contrat de travail à durée indéterminée du jeune pour les motifs de départ en retraite,
+licenciement pour faute grave ou lourde, inaptitude physique, ou décès, l'aide est maintenue, dans sa totalité, pour le
+trimestre civil concerné lorsque ce salarié est remplacé dans les trois mois suivant la rupture de son contrat de travail par
+un autre salarié âgé dans les conditions prévues au 2° du I de l'article L. 321-25.
+
+L'aide est interrompue dans sa totalité en cas de départ du chef d'entreprise mentionné à l'article L. 321-26 dans les six
+mois suivant le premier jour d'exécution du contrat de travail à durée indéterminée du jeune recruté dans les conditions
+prévues au 1° du I de l'article L. 321-25. Lorsque le départ du chef d'entreprise intervient au-delà de ce délai de six mois,
+l'aide est maintenue.
+
+En cas de licenciement de l'un des salariés âgés mentionnés au IV de l'article L. 321-25 pour une cause autre que la faute
+grave ou lourde ou l'inaptitude, l'entreprise perd le bénéfice de la dernière aide accordée au titre du contrat de
+génération, à compter du trimestre au cours duquel le départ d'un des salariés est intervenu.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1583 du 24 novembre 2016 - art. 2
+
+
+###### Article R321-43
+
+L'aide est versée trimestriellement. Au terme de chaque trimestre civil suivant celui au cours duquel a eu lieu la demande
+initiale de l'aide, l'employeur adresse à Pôle emploi une déclaration d'actualisation permettant le calcul et le versement de
+l'aide.
+
+Chaque déclaration d'actualisation doit être adressée à Pôle emploi dans le mois qui suit le trimestre civil pour lequel
+l'aide est demandée. A défaut, l'aide n'est pas due pour le trimestre concerné. En l'absence d'actualisation par l'entreprise
+de deux trimestres consécutifs, l'aide est interrompue dans sa totalité.
+
+L'aide n'est pas versée lorsque son montant dû au titre d'un trimestre est inférieur à cinquante euros.
+
+En cas de diminution du temps de travail du jeune mentionné au 1° du I de l'article L. 321-25 et L. 321-26 en deçà de la
+durée hebdomadaire prévue au 1° de l'article L. 321-25 en cours de trimestre, l'aide est interrompue à compter de la date à
+laquelle survient cette diminution.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1583 du 24 novembre 2016 - art. 2
+
+
+###### Article R321-44
+
+Lorsque le contrat de travail du jeune mentionné au 1° du I de l'article L. 321-25 ou à l'article L. 321-26 ou du salarié âgé
+mentionné au 2° du I de l'article L. 321-25 est suspendu durant au moins trente jours consécutifs au cours du trimestre
+civil, sans que soit maintenue la rémunération du salarié, l'aide afférente à ce trimestre civil n'est pas due pour la partie
+de l'aide afférente au jeune ou au salarié âgé dont le contrat de travail est suspendu.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1583 du 24 novembre 2016 - art. 2
+
+
+###### Article R321-45
+
+Pôle emploi contrôle l'exactitude des déclarations du bénéficiaire de l'aide.
+
+Le bénéficiaire de l'aide tient à sa disposition tout document permettant d'effectuer ce contrôle. Il adresse à Pôle emploi
+les documents demandés par celui-ci dans un délai maximum d'un mois suivant la demande de leur communication.
+
+Cette demande est adressée par tout moyen permettant d'établir une date certaine.
+
+L'absence de réponse de l'entreprise dans ce délai interrompt le versement de l'aide associée au contrat de génération sur
+laquelle porte le contrôle, sans préjudice du recouvrement par Pôle emploi des sommes indûment versées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1583 du 24 novembre 2016 - art. 2
+
+
+###### Article R321-46
+
+Pour la gestion du versement de l'aide, Pôle emploi met en œuvre le traitement automatisé mentionné à l'article R. 5121-50 du
+code du travail comportant des données à caractère personnel collectées auprès des employeurs, dénommé “aide-contrat de
+génération”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1583 du 24 novembre 2016 - art. 2
+
+	**Cite**:
+
+	  - Code du travail - art. R5121-50
+
+
+###### Article R321-47
+
+Les catégories de données, comportant des données à caractère personnel, enregistrées dans le cadre du traitement mentionné à
+l'article R. 5121-50 du code du travail et à l'article R. 321-46 du présent code sont les suivantes :
+
+1° Données concernant le salarié jeune embauché :
+
+a) Numéro d'inscription au répertoire national d'identification des personnes physiques ;
+
+b) Données relatives à l'identité : nom, prénom, date de naissance, adresse et numéro de téléphone ;
+
+c) Données relatives à la vie professionnelle : date d'embauche et caractéristiques du contrat, nature de l'emploi ; le cas
+échéant, période de suspension du contrat, date et motif de la rupture du contrat et reconnaissance de la qualité de
+travailleur handicapé ; niveau de formation ; situation professionnelle avant l'embauche ;
+
+d) Situation économique et financière ; salaire ;
+
+2° Données concernant le salarié âgé maintenu en emploi :
+
+a) Numéro d'identification au répertoire national d'identification des personnes physiques ;
+
+b) Données relatives à l'identité : nom, prénom et date de naissance ;
+
+c) Données relatives à la vie professionnelle : date d'embauche et caractéristiques du contrat, nature de l'emploi ; le cas
+échéant, période de suspension du contrat, date et motif de la rupture du contrat et reconnaissance de la qualité de
+travailleur handicapé ;
+
+3° Données concernant l'employeur ou le correspondant de Pôle emploi dans l'entreprise :
+
+a) Données d'identification de l'entreprise : nom, raison sociale, numéro SIRET, adresse postale, adresse électronique,
+téléphone ;
+
+b) Données relatives aux caractéristiques de l'entreprise : effectifs, convention collective applicable ;
+
+c) Le cas échéant, pour les entreprises mentionnées à l'article L. 321-24 bénéficiaires de l'aide prévue à l'article L.
+321-26, date de naissance du chef d'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1583 du 24 novembre 2016 - art. 2
+
+	**Cite**:
+
+	  - Code du travail - art. R5121-50
+
+
+###### Article R321-48
+
+Pour les besoins de la finalité mentionnée à l'article R. 321-46, les agents de Pôle emploi exerçant leur activité au sein de
+Pôle emploi Services nommément désignés et habilités par le directeur général de Pôle emploi sont destinataires des données
+du traitement.
+
+Sont également destinataires des données du traitement, à l'exclusion du numéro d'inscription au répertoire d'identification
+des personnes physiques et, le cas échéant, de la donnée relative à la reconnaissance de la qualité de travailleur handicapé,
+les agents de la délégation générale à l'emploi et à la formation professionnelle et les services déconcentrés du ministère
+chargé de l'emploi désignés et habilités par l'autorité responsable pour les besoins de suivi, pilotage et évaluation du
+dispositif ainsi que les agents des services statistiques du ministre chargé de l'emploi désignés et habilités par le
+responsable de ces services, pour les besoins de l'élaboration de données statistiques et financières anonymes destinées à
+être transmises au ministre chargé de l'emploi et à ses services.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1583 du 24 novembre 2016 - art. 2
+
+
+###### Article R321-49
+
+Les données du traitement ne peuvent être conservées, pour les besoins de l'accomplissement de la finalité mentionnée à
+l'article R. 321-46, au-delà d'une période de cinq ans après le terme de l'aide accordée à l'entreprise au titre du contrat
+de génération.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1583 du 24 novembre 2016 - art. 2
+
+
+###### Article R321-50
+
+Les droits d'accès et de rectification prévus aux articles 39 et 40 de la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés s'exercent auprès de Pôle emploi - Pôle emploi services.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 - art. 39
+	  - Loi n°78-17 du 6 janvier 1978 - art. 40
+
+	**Créé par**:
+
+	  - Décret n°2016-1583 du 24 novembre 2016 - art. 2
+
+
+###### Article R321-51
+
+Le droit d'opposition institué par le premier alinéa de l'article 38 de la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés n'est pas applicable au traitement mentionné à l'article R. 321-46.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 - art. 38
+
+	**Créé par**:
+
+	  - Décret n°2016-1583 du 24 novembre 2016 - art. 2
 
 
 #### CHAPITRE II : Dispositions relatives au contrat unique d'insertion 
