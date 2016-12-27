@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2016-12-11
+Version Consolidée au 2016-12-28
 
 # Partie législative
 
@@ -39288,6 +39288,67 @@ pour les contraventions de la quatrième classe. L'amende est prononcée autant 
 	**Créé par**:
 
 	  - Décret n°2013-612 du 10 juillet 2013 - art. 2
+
+
+##### Section 5 : Privilèges et assurances
+
+###### Article D143-17
+
+Le plafond mensuel prévu à l'article L. 143-17 est fixé à deux fois le plafond retenu, par mois, pour le calcul des
+cotisations de sécurité sociale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1857 du 23 décembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L143-17 (V)
+
+
+###### Article D143-18
+
+Le montant maximal de garantie prévu au 4° de l'article L. 143-23 est égal à : 
+
+1° Trois fois le plafond mensuel retenu pour le calcul des cotisations de sécurité sociale, pour un mois et demi de
+salaire ; 
+
+2° Deux fois ce même plafond, pour un mois de salaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1857 du 23 décembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L143-23 (V)
+
+
+###### Article D143-19
+
+Le montant maximum de la garantie prévue à l'article L. 143-31 est fixé à six fois le plafond mensuel retenu pour le calcul
+des contributions au régime d'assurance chômage. 
+
+Ce montant est fixé à cinq fois ce plafond lorsque le contrat de travail dont résulte la créance a été conclu moins de deux
+ans et six mois au moins avant la date du jugement d'ouverture de la procédure collective, et à quatre fois ce plafond si le
+contrat dont résulte la créance a été conclu moins de six mois avant la date du jugement d'ouverture. 
+
+Il s'apprécie à la date à laquelle est due la créance du salarié et au plus tard à la date du jugement arrêtant le plan ou
+prononçant la liquidation judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1857 du 23 décembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L143-31 (V)
 
 
 #### CHAPITRE V : Saisie-arrêt et cession de rémunérations dues par un employeur
