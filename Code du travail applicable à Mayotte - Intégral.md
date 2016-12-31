@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2016-12-31
+Version Consolidée au 2017-01-01
 
 # Partie législative
 
@@ -5800,12 +5800,7 @@ l'article L. 127-14.
 ###### Article L128-1
 
 Il est créé un titre de travail simplifié pour assurer la rémunération et pour la déclaration en vue du paiement des
-cotisations sociales :
-
-- des personnes employées par les entreprises, employeurs et organismes mentionnés à l'article L. 011-1 occupant moins de
-onze salariés ;
-
-- des personnes effectuant des travaux et services au domicile des particuliers. 
+cotisations sociales des personnes effectuant des travaux et services au domicile des particuliers.
 
 L'activité de ces personnes est réputée être salariée. Si elle excède, pour la même personne, dans la même entreprise, cent
 jours, consécutifs ou non, par année civile, le contrat de travail est réputé être à durée indéterminée à compter du premier
@@ -5861,7 +5856,7 @@ Les modalités d'applications du présent article sont déterminées par décret
 
 	**Modifié par**:
 
-	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+	  - ORDONNANCE n°2015-682 du 18 juin 2015 - art. 3
 
 	**Cité par**:
 
@@ -5871,6 +5866,25 @@ Les modalités d'applications du présent article sont déterminées par décret
 	  - Code du travail applicable à Mayotte. - art. R128-2 (V)
 	  - Code du travail applicable à Mayotte. - art. R128-5 (V)
 	  - Code général des collectivités territoriales - art. L2564-7 (VD)
+
+
+#### CHAPITRE IX : Titre emploi-service entreprises
+
+###### Article L129-1
+
+Les dispositions de la sous-section 2 de la section 1 du chapitre III bis du livre Ier du code de la sécurité sociale
+relatives au titre emploi-service entreprises sont applicables dans les conditions définies à l'article 28-11 de l'ordonnance
+n° 96-1122 du 20 décembre 1996.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°96-1122 du 20 décembre 1996 - art. 28-11
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-682 du 18 juin 2015 - art. 3
 
 
 ### TITRE III : CONVENTIONS ET ACCORDS COLLECTIFS DE TRAVAIL
@@ -19565,12 +19579,18 @@ Un décret détermine les conditions d'application de la présente section.
 
 ##### Section 1 :Accompagnement des jeunes vers l'emploi
 
-##### Sous-section 1 : Droit à l'accompagnement
+##### Sous-section 1 : Droit à l'accompagnement et l'autonomie
 
 ###### Article L324-1
 
 Tout jeune de seize à vingt-cinq ans révolus en difficulté et confronté à un risque d'exclusion professionnelle a droit à un
-accompagnement, organisé par l'Etat, ayant pour but l'accès à la vie professionnelle.
+accompagnement vers l'emploi et l'autonomie, organisé par l'Etat.
+
+**Nota:**
+
+Aux termes du II de l'article 49 de la loi n° 2016-1088 du 8 août 2016, les contrats d'insertion dans la vie sociale conclus
+avant le 1er janvier 2017 continuent à produire leurs effets dans les conditions applicables avant cette date, jusqu'à leur
+terme.
 
 **Liens relatifs à cet article**
 
@@ -19581,7 +19601,7 @@ accompagnement, organisé par l'Etat, ayant pour but l'accès à la vie professi
 
 	**Modifié par**:
 
-	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 4
+	  - Loi n°2016-1088 du 8 août 2016 - art. 49 (V)
 
 	**Cité par**:
 
@@ -19590,13 +19610,23 @@ accompagnement, organisé par l'Etat, ayant pour but l'accès à la vie professi
 	  - Code du travail applicable à Mayotte. - art. R324-1 (V)
 
 
-##### Sous-section 2 : Contrat d'insertion dans la vie sociale
+##### Sous-section 2 : Parcours contractualisé d'accompagnement vers l'emploi et l'autonomie
 
 ###### Article L324-2
 
-Tout jeune de seize à vingt-cinq ans révolus rencontrant des difficultés particulières d'insertion sociale et professionnelle
-bénéficie à sa demande d'un accompagnement personnalisé sous la forme d'un contrat d'insertion dans la vie sociale conclu
-avec l'Etat.
+L'accompagnement mentionné à l'article L. 324-1 peut prendre la forme d'un parcours contractualisé d'accompagnement vers
+l'emploi et l'autonomie conclu avec l'Etat, élaboré avec le jeune et adapté à ses besoins identifiés lors d'un diagnostic. Ce
+parcours est mis en œuvre par les organismes mentionnés à l'article L. 5314-1 du code du travail. Toutefois, par dérogation,
+un autre organisme peut être désigné par le représentant de l'Etat à Mayotte, lorsque cela est justifié par les besoins de la
+politique d'insertion sociale et professionnelle des jeunes. 
+
+Le contrat d'engagement est signé avant l'entrée dans le parcours contractualisé vers l'emploi et l'autonomie.
+
+**Nota:**
+
+Aux termes du II de l'article 49 de la loi n° 2016-1088 du 8 août 2016, les contrats d'insertion dans la vie sociale conclus
+avant le 1er janvier 2017 continuent à produire leurs effets dans les conditions applicables avant cette date, jusqu'à leur
+terme.
 
 **Liens relatifs à cet article**
 
@@ -19607,7 +19637,12 @@ avec l'Etat.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 4
+	  - Loi n°2016-1088 du 8 août 2016 - art. 49 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L5314-1
+	  - Code du travail applicable à Mayotte. - art. L324-1 (VT)
 
 	**Cité par**:
 
@@ -19617,9 +19652,19 @@ avec l'Etat.
 
 ###### Article L324-3
 
-Le titulaire d'un contrat d'insertion dans la vie sociale est affilié à un régime de sécurité sociale, dans les conditions
-prévues aux articles L. 722-1 et L. 722-3, pour les périodes pendant lesquelles il n'est pas affilié à un autre titre à un
-régime de sécurité sociale.
+Afin de favoriser son insertion professionnelle, le jeune qui s'engage dans un parcours contractualisé d'accompagnement vers
+l'emploi et l'autonomie peut bénéficier d'une allocation versée par l'Etat et modulable en fonction de la situation de
+l'intéressé. 
+
+Cette allocation est incessible et insaisissable. 
+
+Elle peut être suspendue ou supprimée en cas de non-respect par son bénéficiaire des engagements du contrat.
+
+**Nota:**
+
+Aux termes du II de l'article 49 de la loi n° 2016-1088 du 8 août 2016, les contrats d'insertion dans la vie sociale conclus
+avant le 1er janvier 2017 continuent à produire leurs effets dans les conditions applicables avant cette date, jusqu'à leur
+terme.
 
 **Liens relatifs à cet article**
 
@@ -19630,7 +19675,7 @@ régime de sécurité sociale.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 4
+	  - Loi n°2016-1088 du 8 août 2016 - art. 49 (V)
 
 	**Cité par**:
 
@@ -19638,21 +19683,30 @@ régime de sécurité sociale.
 	  - Code du travail applicable à Mayotte. - art. R324-10 (V)
 	  - Code rural - art. L372-4 (M)
 
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L722-1
-	  - Code du travail applicable à Mayotte. - art. L722-3
-
 
 ###### Article L324-4
 
-Afin de favoriser son insertion professionnelle, le titulaire d'un contrat d'insertion dans la vie sociale peut bénéficier
-d'une allocation versée par l'Etat pendant les périodes durant lesquelles l'intéressé ne perçoit ni une rémunération au titre
-d'un emploi ou d'un stage ni une autre allocation. 
+La garantie jeunes est une modalité spécifique du parcours contractualisé d'accompagnement vers l'emploi et l'autonomie. 
 
-Cette allocation est incessible et insaisissable.
+Elle est mise en œuvre par les organismes mentionnés à l'article L. 5314-1 du code du travail. Toutefois, par dérogation, un
+autre organisme peut être désigné par le représentant de l'Etat à Mayotte, lorsque cela est justifié par les besoins de la
+politique d'insertion sociale et professionnelle des jeunes. 
 
-Elle peut être suspendue ou supprimée en cas de non-respect par son bénéficiaire des engagements du contrat.
+Elle comporte un accompagnement intensif du jeune, ainsi qu'une allocation dégressive en fonction de ses ressources
+d'activité, dont le montant et les modalités de versement sont définis par décret. Cette allocation est incessible et
+insaisissable. Elle peut être suspendue ou supprimée en cas de non-respect par son bénéficiaire des engagements du contrat. 
+
+La garantie jeunes est un droit ouvert aux jeunes de seize à vingt-cinq ans qui vivent hors du foyer de leurs parents ou au
+sein de ce foyer sans recevoir de soutien financier de leurs parents, qui ne sont pas étudiants, ne suivent pas une formation
+et n'occupent pas un emploi et dont le niveau de ressources ne dépasse pas un montant fixé par décret, dès lors qu'ils
+s'engagent à respecter les engagements conclus dans le cadre de leur parcours contractualisé d'accompagnement vers l'emploi
+et l'autonomie.
+
+**Nota:**
+
+Aux termes du II de l'article 49 de la loi n° 2016-1088 du 8 août 2016, les contrats d'insertion dans la vie sociale conclus
+avant le 1er janvier 2017 continuent à produire leurs effets dans les conditions applicables avant cette date, jusqu'à leur
+terme.
 
 **Liens relatifs à cet article**
 
@@ -19663,12 +19717,15 @@ Elle peut être suspendue ou supprimée en cas de non-respect par son bénéfici
 
 	**Modifié par**:
 
-	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 4
+	  - Loi n°2016-1088 du 8 août 2016 - art. 49 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L5314-1
 
 	**Cité par**:
 
 	  - Code du travail applicable à Mayotte. - art. D324-16 (V)
-	  - Code du travail applicable à Mayotte. - art. L324-5 (V)
 	  - Code du travail applicable à Mayotte. - art. R324-14 (V)
 	  - Code du travail applicable à Mayotte. - art. R324-19 (V)
 	  - Code du travail applicable à Mayotte. - art. R324-22 (V)
@@ -19677,17 +19734,24 @@ Elle peut être suspendue ou supprimée en cas de non-respect par son bénéfici
 
 ###### Article L324-5
 
-Un décret détermine : 
+Un décret en Conseil d'Etat détermine les modalités d'application du présent chapitre, en particulier : 
 
-1° Les caractéristiques des personnes qui peuvent bénéficier de l'accompagnement personnalisé dans le cadre d'un contrat
-d'insertion dans la vie sociale ; 
+1° Les modalités du parcours contractualisé d'accompagnement vers l'emploi et l'autonomie, ainsi que la nature des
+engagements de chaque partie au contrat ; 
 
-2° Les modalités de cet accompagnement, ainsi que la nature des engagements respectifs de chaque partie au contrat ; 
+2° Les modalités de fixation de la durée et de renouvellement du parcours contractualisé d'accompagnement vers l'emploi et
+l'autonomie ; 
 
-3° La durée maximale du contrat d'insertion dans la vie sociale et les conditions de son renouvellement ; 
+3° Les modalités d'orientation vers les différentes modalités du parcours contractualisé d'accompagnement vers l'emploi et
+l'autonomie, ainsi que leurs caractéristiques respectives ; 
 
-4° Les montants minimum et maximum de l'allocation versée par l'Etat, prévue à l'article L. 324-4, ainsi que ses conditions
-d'attribution et ses modalités de versement.
+4° Les modalités d'attribution, de modulation, de suppression et de versement de l'allocation prévue à l'article L. 324-3.
+
+**Nota:**
+
+Aux termes du II de l'article 49 de la loi n° 2016-1088 du 8 août 2016, les contrats d'insertion dans la vie sociale conclus
+avant le 1er janvier 2017 continuent à produire leurs effets dans les conditions applicables avant cette date, jusqu'à leur
+terme.
 
 **Liens relatifs à cet article**
 
@@ -19697,43 +19761,12 @@ d'attribution et ses modalités de versement.
 	  - Loi n°91-1379 du 28 décembre 1991
 
 	**Modifié par**:
-
-	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 4
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L324-4 (V)
-
-
-###### Article L324-6
-
-Sous réserve des dispositions de l'article L. 324-5, un décret en Conseil d'Etat détermine les autres conditions
-d'application de la présente section.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°91-246 du 25 février 1991
-	  - Loi n°91-1379 du 28 décembre 1991
-
-	**Abrogé par**:
 
 	  - Loi n°2016-1088 du 8 août 2016 - art. 49 (V)
 
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. L324-7 (V)
-	  - Code du travail applicable à Mayotte. - art. L324-8 (Ab)
-	  - Code du travail applicable à Mayotte. - art. L324-9 (V)
-
 	**Cite**:
 
-	  - Loi n°1901-07-01
-
-	**Modifié par**:
-
-	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 4
+	  - Code du travail applicable à Mayotte. - art. L324-3 (VT)
 
 
 ##### Sous-section 3 : Prime à la création d'emploi en faveur des jeunes
@@ -21603,19 +21636,18 @@ L'aide personnalisée de retour à l'emploi est incessible et insaisissable.
 
 ###### Article L326-60
 
-L'aide personnalisée de retour à l'emploi prévue est financée par le Fonds national des solidarités actives mentionné au II
-de l'article L. 262-24 du code de l'action sociale et des familles. L'Etat répartit les crédits affectés à l'aide entre les
-organismes au sein desquels les référents mentionnés à l'article L. 262-27 du même code sont désignés.
+L'aide personnalisée de retour à l'emploi est financée par l'Etat. Les crédits affectés à l'aide sont répartis entre les
+organismes au sein desquels les référents mentionnés à l'article L. 262-27 du code de l'action sociale et des familles sont
+désignés.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 4
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 152 (V)
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L262-24
 	  - Code de l'action sociale et des familles - art. L262-27
 
 
@@ -23769,7 +23801,8 @@ prévues au 5° ci-dessus ;
 7° Les conjoints d'invalides internés pour aliénation mentale imputable à un service de guerre, si elles bénéficient de
 l'article L. 124 du code des pensions militaires d'invalidité et des victimes de la guerre ; 
 
-8° Les titulaires de la carte d'invalidité définie à l'article L. 241-3 du code de l'action sociale et des familles ; 
+8° Les titulaires de la   carte “mobilité inclusion” portant la mention “invalidité” définie à l'article L. 241-3 du code de
+l'action sociale et des familles ; 
 
 9° Les titulaires de l'allocation pour adulte handicapé prévue aux articles 35 et suivants de l'ordonnance n° 2002-411 du 27
 mars 2002 relative à la protection sanitaire et sociale à Mayotte.
@@ -23786,7 +23819,7 @@ mars 2002 relative à la protection sanitaire et sociale à Mayotte.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 7
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 107 (V)
 
 	**Cité par**:
 
@@ -68571,30 +68604,26 @@ Ce montant est revalorisé annuellement au 1er juillet, proportionnellement à l
 
 ###### Article R324-1
 
-L'accompagnement des jeunes de seize à vingt-cinq ans révolus, prévu à l'article L. 324-1, est mis en œuvre, avec l'ensemble
-des organismes susceptibles d'y contribuer, par les missions locales pour l'insertion professionnelle et sociale des jeunes,
-dans des conditions fixées à la présente section.
+L'Etat établit, en concertation avec le conseil départemental de Mayotte, des orientations stratégiques relatives à la mise
+en œuvre du droit à l'accompagnement des jeunes confrontés à un risque d'exclusion professionnelle mentionné à l'article L.
+324-1. Il associe à ces travaux les communes et leurs groupements. 
+
+Ces orientations font l'objet d'une concertation préalable au sein de l'instance mentionnée à l'article L. 711-4-2 du code du
+travail applicable à Mayotte, qui en assure également le suivi. 
+
+Ces orientations précisent notamment les conditions de mobilisation par les missions locales des acteurs de l'éducation, de
+l'information, de l'orientation, de l'insertion, de la formation et de l'emploi au bénéfice de l'accompagnement des jeunes.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2016-135 du 9 février 2016 - art. 1
+	  - Décret n°2016-1951 du 28 décembre 2016 - art. 1
 
 	**Cite**:
 
-	  - Code du travail - art. L5312-1
-	  - Code du travail applicable à Mayotte. - art. L111-1
-	  - Code du travail applicable à Mayotte. - art. L322-1
-	  - Code du travail applicable à Mayotte. - art. L322-7
-	  - Code du travail applicable à Mayotte. - art. L323-1
-	  - Code du travail applicable à Mayotte. - art. L324-1
-	  - Code du travail applicable à Mayotte. - art. L324-9
-	  - Code du travail applicable à Mayotte. - art. L325-1
-	  - Code du travail applicable à Mayotte. - art. L325-2
-	  - Code du travail applicable à Mayotte. - art. L325-6
-	  - Code du travail applicable à Mayotte. - art. L711-2
-	  - Code du travail applicable à Mayotte. - art. L711-5
+	  - Code du travail applicable à Mayotte. - art. L324-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L711-4-2 (V)
 
 	**Cité par**:
 
@@ -68604,34 +68633,56 @@ dans des conditions fixées à la présente section.
 
 ###### Article R324-2
 
-L'Etat peut associer aux actions d'accompagnement : 
-
-1° Le Département de Mayotte ; 
-
-2° Les communes et leurs groupements ; 
-
-3° Les organisations d'employeurs et de salariés représentatives.
+Dans le cadre des orientations stratégiques définies à l'article R. 324-1, les missions locales mettent en œuvre le droit à
+l'accompagnement, en lien avec l'ensemble des organismes susceptibles d'y contribuer, afin de permettre aux jeunes d'accéder
+à l'emploi et à l'autonomie.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-135 du 9 février 2016 - art. 1
+	  - Décret n°2016-1951 du 28 décembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R324-1 (V)
 
 
 ###### Article R324-3
 
-Les actions d'accompagnement donnent lieu à la conclusion d'un contrat d'objectifs et de moyens entre l'Etat, le Département
-de Mayotte, les communes et leurs groupements et les organisations d'employeurs et de salariés représentatives. 
+L'Etat conclut avec les missions locales des conventions pluriannuelles d'objectifs. Les collectivités territoriales et leurs
+groupements signent également ces conventions lorsqu'ils participent au financement des missions locales. 
 
-Ce contrat précise, par bassin d'emploi, au vu d'un diagnostic territorial, les résultats à atteindre en matière d'insertion
-professionnelle des jeunes et les moyens mobilisés par chaque partie.
+Au vu des orientations stratégiques mentionnées à l'article R. 324-1, ces conventions précisent : 
+
+1° Les jeunes susceptibles de bénéficier prioritairement du parcours d'accompagnement contractualisé vers l'emploi et
+l'autonomie ; 
+
+2° Les objectifs à atteindre en termes d'accès à l'emploi et à l'autonomie des jeunes ; 
+
+3° L'offre de services proposée et les moyens mobilisés afin d'identifier les modalités du parcours contractualisé les plus
+adaptées pour ses bénéficiaires ; 
+
+4° L'offre de services proposée aux entreprises dans leurs processus de recrutement ; 
+
+5° Les financements accordés pour la mise en œuvre des dispositifs nationaux de la politique de l'emploi ; 
+
+6° Leurs modalités de suivi et d'évaluation. 
+
+Le conseil départemental de Mayotte, dès lors qu'il signe les conventions pluriannuelles d'objectifs, peut confier
+l'accompagnement des bénéficiaires du revenu de solidarité active et de leur conjoint, concubin ou partenaire lié par un
+pacte civil de moins de vingt-cinq ans révolus aux missions locales, qui l'assureront dans le cadre du parcours
+contractualisé d'accompagnement vers l'emploi et l'autonomie.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-135 du 9 février 2016 - art. 1
+	  - Décret n°2016-1951 du 28 décembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R324-1 (V)
 
 	**Cité par**:
 
@@ -68640,37 +68691,57 @@ professionnelle des jeunes et les moyens mobilisés par chaque partie.
 
 ###### Article R324-4
 
-Les missions locales pour l'insertion professionnelle et sociale des jeunes garantissent l'accès au droit à l'accompagnement
-en mettant en œuvre des actions permettant aux jeunes de s'insérer dans la vie active, notamment dans le cadre : 
+Les cas de dérogation prévus aux articles L. 324-2 et L. 324-4 concernent les cas d'absence d'une mission locale sur tout ou
+partie du territoire ou de cessation d'activité d'une mission locale et les cas où une mission locale ne serait pas sur un
+territoire en mesure d'accompagner seule les jeunes dans le cadre du parcours contractualisé d'accompagnement vers l'emploi
+et l'autonomie et de la garantie jeunes. Dans ces cas, un autre organisme peut être désigné par le représentant de l'Etat à
+Mayotte, après consultation de l'instance mentionnée à l'article L. 711-4-2 du code du travail applicable à Mayotte, pour
+mettre en œuvre le parcours contractualisé d'accompagnement vers l'emploi et l'autonomie et la garantie jeunes. L'Etat, le
+conseil départemental de Mayotte et les autres collectivités territoriales qui participent au financement de l'organisme
+désigné définissent par convention son cadre d'intervention et notamment la durée de l'intervention, son périmètre et les
+moyens mobilisés par chaque partie. 
 
-1° D'un contrat initiative-emploi ; 
-
-2° D'un contrat d'apprentissage ; 
-
-3° D'un contrat de qualification ; 
-
-4° De la réalisation d'un projet de création ou de reprise d'une activité non salariée.
+Les organismes désignés dans ce cadre mettent en œuvre les dispositions de la présente section dans les mêmes conditions que
+les missions locales.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-135 du 9 février 2016 - art. 1
+	  - Décret n°2016-1951 du 28 décembre 2016 - art. 1
 
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L324-2 (V)
+	  - Code du travail applicable à Mayotte. - art. L324-4 (V)
+	  - Code du travail applicable à Mayotte. - art. L711-4-2 (V)
+
+
+##### Section 1 : Droit à l'accompagnement et l'autonomie
+
+##### Sous-section 1 : Droit à l'accompagnement 
+
+
+##### Sous-section 2 :  Parcours contractualisé d'accompagnement vers l'emploi et l'autonomie
+
+##### Paragraphe 1 : Modalités du parcours
 
 ###### Article R324-5
 
-Les actions d'insertion comprennent des mesures ayant pour objet l'orientation, la qualification ou l'acquisition d'une
-expérience professionnelle. 
-
-Elles visent à lever les obstacles à l'embauche et à développer ou restaurer l'autonomie des personnes dans la conduite de
-leur parcours d'insertion.
+Le diagnostic prévu à l'article L. 324-2 résulte d'une analyse menée avec le jeune de sa situation, de ses demandes, de ses
+projets et de ses besoins. Ce diagnostic formalisé permet notamment d'identifier et valoriser les compétences. Il fonde
+l'orientation du jeune vers la modalité la plus adaptée du parcours contractualisé d'accompagnement vers l'emploi et
+l'autonomie.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-135 du 9 février 2016 - art. 1
+	  - Décret n°2016-1951 du 28 décembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L324-2 (V)
 
 	**Cité par**:
 
@@ -68679,14 +68750,24 @@ leur parcours d'insertion.
 
 ###### Article R324-6
 
-Pour la réalisation de ces actions, les missions locales pour l'insertion professionnelle et sociale des jeunes mobilisent
-une offre de services adaptée au bénéficiaire en fonction de la situation du marché du travail et des besoins de recrutement.
+Le  parcours contractualisé d'accompagnement vers l'emploi et l'autonomie  est constitué de phases d'accompagnement pouvant
+varier dans leur durée  et leur intensité. Chaque phase fait l'objet d'objectifs définis avec le  jeune et d'une évaluation à
+son terme, en vue de mesurer la progression  du jeune vers l'accès à l'emploi et l'autonomie et de s'assurer que les
+objectifs de la phase ont été atteints. Chaque phase d'accompagnement  peut comporter : 
+
+- des périodes de formation ; 
+
+- des situations professionnelles ; 
+
+- des actions spécifiques dans le cadre de l'accompagnement social et professionnel ; 
+
+- des actions portées par d'autres organismes susceptibles de contribuer à l'accompagnement.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-135 du 9 février 2016 - art. 1
+	  - Décret n°2016-1951 du 28 décembre 2016 - art. 1
 
 	**Cité par**:
 
@@ -68694,329 +68775,388 @@ une offre de services adaptée au bénéficiaire en fonction de la situation du 
 	  - Code du travail applicable à Mayotte. - art. R324-8 (V)
 
 
-##### Sous-section 2 : Contrat d'insertion dans la vie sociale 
-
-
-
-##### Paragraphe 1 : Conventions 
-
 ###### Article R324-7
 
-Des conventions sont conclues entre l'Etat et les missions locales pour l'insertion professionnelle et sociale des jeunes
-chargées de la mise en œuvre du contrat d'insertion dans la vie sociale. 
+Le contrat d'engagements est signé un mois au plus tard après la réalisation du diagnostic, d'une part, au nom de l'Etat, par
+le représentant légal de la mission locale, ou tout salarié dûment habilité par lui et, d'autre part, par le bénéficiaire de
+l'accompagnement. 
 
-Au vu d'un diagnostic territorial, ces conventions précisent les objectifs de résultats qualitatifs et quantitatifs à
-atteindre en termes d'insertion dans l'emploi durable ou de réduction du chômage des jeunes, les réponses au besoin de
-recrutement des entreprises, les financements accordés ainsi que les modalités de suivi et d'évaluation du programme. 
+Il mentionne : 
 
-Les collectivités territoriales et leurs groupements signent également ces conventions lorsqu'ils participent au financement
-des missions locales.
+1° Les phases du parcours, leurs objectifs et leur durée définis par le bénéficiaire et le conseiller référent ; 
+
+2° Les engagements de chaque partie au contrat pour chaque phase. Parmi ces engagements figurent pour le bénéficiaire la
+participation active aux différentes actions prévues au sein des phases d'accompagnement ainsi que la sincérité et
+l'exactitude des informations communiquées, notamment au titre de l'article R. 324-10 ; 
+
+3° Le cas échéant, l'attribution d'une allocation, son montant et sa durée prévisionnels. 
+
+La première phase du parcours débute au plus tard un mois après la signature du contrat. 
+
+Le contrat peut être modifié en fonction des évaluations mentionnées à l'article R. 324-6 ou de l'évolution de la situation
+du jeune.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2016-1951 du 28 décembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R324-10 (V)
+	  - Code du travail applicable à Mayotte. - art. R324-6 (V)
+
+
+##### Paragraphe 2 : Fin du contrat et sanctions
+
+###### Article R324-8
+
+Le contrat d'engagements du parcours contractualisé est conclu pour une durée déterminée et peut être renouvelé dans la
+limite de vingt-quatre mois consécutifs. 
+
+Toutefois, lorsque le bénéficiaire du parcours contractualisé intègre en cours de parcours la garantie jeunes, le contrat
+d'engagements peut être prolongé jusqu'à la fin de la garantie jeunes. 
+
+Le contrat d'engagements prend fin : 
+
+1° Lorsque l'autonomie du jeune est considérée comme acquise, au vu des évaluations mentionnées à l'article R. 324-6 ou de
+l'évolution de la situation du jeune ; 
+
+2° Lorsque son bénéficiaire atteint son vingt-sixième anniversaire ; 
+
+3° A la demande expresse de son bénéficiaire ; 
+
+4° En cas de manquement du bénéficiaire à ses engagements contractuels.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2016-135 du 9 février 2016 - art. 1
+	  - Décret n°2016-1951 du 28 décembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R324-6 (V)
 
 
-#####  Paragraphe 2 : Bénéficiaires
+###### Article R324-9
 
-###### Article D324-8
+En  cas de manquement du bénéficiaire à ses engagements contractuels, le  représentant légal de la mission locale, après
+avoir mis à même  l'intéressé de présenter ses observations, peut procéder à : 
 
-Le contrat d'insertion dans la vie sociale mentionné à l'article L. 324-2 a pour objet d'organiser les actions
-d'accompagnement proposées au vu, d'une part, des difficultés rencontrées par son bénéficiaire, d'autre part, de son projet
-professionnel d'insertion dans un emploi durable, identifiées préalablement à la signature du contrat ou, au plus tard, dans
-les trois premiers mois suivant la signature du contrat.
+1° La suspension du paiement de l'allocation ; 
+
+2° La suppression du paiement de l'allocation ; 
+
+3° La rupture du contrat. 
+
+Il notifie sa décision, dûment motivée, par tout moyen conférant date  certaine au bénéficiaire de l'accompagnement ou à ses
+représentants  légaux lorsque celui-ci est mineur ou fait l'objet d'une mesure de  protection juridique.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
-
-	  - Décret n°2016-135 du 9 février 2016 - art. 1
-
-	**Abrogé par**:
 
 	  - Décret n°2016-1951 du 28 décembre 2016 - art. 1
 
 
-###### Article D324-9
+##### Paragraphe 3 : Montant et modalités de versement de l'allocation
 
-Peuvent bénéficier de l'accompagnement personnalisé : 
+###### Article R324-10
 
-1° Les jeunes dont le niveau de qualification est inférieur ou équivalent à un diplôme de fin de second cycle long de
-l'enseignement général, technologique ou professionnel ; 
-
-2° Les jeunes n'ayant pas achevé le premier cycle de l'enseignement supérieur ; 
-
-3° Les jeunes inscrits en tant que demandeur d'emploi depuis plus de douze mois au cours des dix-huit derniers mois.
+Le bénéfice de l'allocation prévue à l'article L. 324-3 peut être accordé par le représentant de la mission locale, au nom et
+pour le compte de l'Etat, à compter de la signature du contrat d'engagements, en fonction de la situation et des besoins de
+l'intéressé pendant les périodes durant lesquelles ce dernier ne perçoit ni une rémunération au titre d'un emploi ou d'un
+stage, ni une autre allocation.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2016-135 du 9 février 2016 - art. 1
-
-	**Abrogé par**:
-
 	  - Décret n°2016-1951 du 28 décembre 2016 - art. 1
 
+	**Cite**:
 
-###### Article D324-10
+	  - Code du travail applicable à Mayotte. - art. L324-3 (V)
 
-Pour les personnes d'un niveau de formation V sans diplôme, V bis ou VI, l'accompagnement est personnalisé, renforcé et
-assuré par un référent unique dans les conditions définies à l'article D. 324-12. 
+	**Cité par**:
 
-Au cours du premier trimestre du contrat d'insertion dans la vie sociale, le référent assure des contacts selon une fréquence
-hebdomadaire.
+	  - Code du travail applicable à Mayotte. - art. R324-7 (V)
+
+
+###### Article R324-11
+
+Le montant mensuel de l'allocation et sa durée prévisionnels sont fixés dans le contrat d'engagements et peuvent être révisés
+à l'issue des évaluations de chaque phase ou en cas d'évolution de la situation de l'intéressé. 
+
+Le montant mensuel de l'allocation ne peut pas excéder le montant mensuel du revenu de solidarité active mentionné à
+l'article L. 262-2 du code de l'action sociale et des familles pour une personne seule, tel qu'applicable à Mayotte,
+déduction faite de la fraction mentionnée au 1° de l'article R. 262-9 du même code. L'allocation versée au bénéficiaire est
+plafonnée à trois fois ce montant par an.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2016-135 du 9 février 2016 - art. 1
-
-	**Abrogé par**:
-
 	  - Décret n°2016-1951 du 28 décembre 2016 - art. 1
 
+	**Cite**:
 
-##### Paragraphe 3 : Modalités de l'accompagnement et engagement des parties 
+	  - Code de l'action sociale et des familles - art. L262-2 (V)
+	  - Code de l'action sociale et des familles - art. R262-9 (V)
 
-###### Article D324-11
 
-Le contrat d'insertion dans la vie sociale fixe les engagements du bénéficiaire en vue de son insertion professionnelle et
-les actions engagées à cet effet, ainsi que les modalités de leur évaluation.
+###### Article R324-12
+
+L'allocation  est versée mensuellement et à terme échu, au nom de l'Etat, par  l'Agence de services et de paiement, qui
+transmet au ministre chargé de  l'emploi les éléments d'information nécessaires au suivi statistique des  bénéficiaires de
+l'allocation, à la connaissance des crédits engagés  ainsi qu'à l'évaluation de la mesure.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2016-135 du 9 février 2016 - art. 1
-
-	**Abrogé par**:
-
 	  - Décret n°2016-1951 du 28 décembre 2016 - art. 1
 
+	**Cité par**:
 
-###### Article D324-12
-
-L'accompagnement personnalisé est assuré, au sein de la mission locale, par un référent qui établit avec le bénéficiaire du
-contrat, dans un délai de trois mois à compter de sa signature, un parcours d'accès à la vie active. 
-
-Le référent propose à ce titre, en fonction de la situation et des besoins du jeune, l'une des quatre voies suivantes : 
-
-1° Un emploi, notamment en alternance, précédé lorsque cela est nécessaire d'une période de formation préparatoire ; 
-
-2° Une formation professionnalisante, pouvant comporter des périodes en entreprise, dans un métier pour lequel des
-possibilités d'embauche sont repérées ; 
-
-3° Une action spécifique pour les personnes connaissant des difficultés particulières d'insertion ; 
-
-4° Une assistance renforcée dans sa recherche d'emploi ou sa démarche de création d'entreprise, apportée par l'un des
-organismes mentionnés à l'article L. 326-4. 
-
-Après l'accès à l'emploi, l'accompagnement peut se poursuivre pendant un an.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2016-135 du 9 février 2016 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2016-1951 du 28 décembre 2016 - art. 1
+	  - Code du travail applicable à Mayotte. - art. R324-13 (V)
 
 
-###### Article D324-13
-
-Le contrat d'insertion dans la vie sociale est signé, d'une part, au nom de l'Etat, par le représentant légal de la mission
-locale pour l'insertion professionnelle et sociale des jeunes ou toute personne dûment habilitée par lui et, d'autre part,
-par le bénéficiaire de l'accompagnement.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2016-135 du 9 février 2016 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2016-1951 du 28 décembre 2016 - art. 1
-
-
-###### Article D324-14
-
-Le contrat d'insertion dans la vie sociale, conforme au modèle fixé par arrêté du ministre chargé de l'emploi, mentionne : 
-
-1° Les actions destinées à la réalisation du projet d'insertion professionnelle ; 
-
-2° L'obligation pour le bénéficiaire de participer à ces actions ; 
-
-3° La nature et la périodicité, au moins mensuelle, des contacts entre la mission locale pour l'insertion professionnelle et
-sociale des jeunes et le bénéficiaire.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2016-135 du 9 février 2016 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2016-1951 du 28 décembre 2016 - art. 1
-
-
-##### Paragraphe 4 : Durée maximale, renouvellement et fin du contrat
-
-###### Article D324-15
-
-Le contrat d'insertion dans la vie sociale est conclu pour une durée d'un an. 
-
-Il peut être renouvelé de façon expresse pour une durée maximale d'un an lorsque l'objectif d'insertion professionnelle n'est
-pas atteint. 
-
-Pour les jeunes de niveau de formation VI ou V bis, il peut être renouvelé, de façon expresse, par périodes successives d'une
-année, jusqu'à la réalisation du projet d'insertion professionnelle.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2016-135 du 9 février 2016 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2016-1951 du 28 décembre 2016 - art. 1
-
+##### Sous-section 3 : Garantie jeunes
 
 ###### Article D324-16
 
-Le contrat d'insertion dans la vie sociale prend fin : 
+I.-Le niveau de ressources ouvrant droit à la garantie jeunes, pour l'application de l'article L. 324-4, correspond au
+montant forfaitaire du revenu de solidarité active mentionné à l'article L. 262-2 du code de l'action sociale et des
+familles, tel qu'applicable à Mayotte, pour une personne seule, déduction faite de la fraction mentionnée au 1° de l'article
+R. 262-9 du même code. 
 
-1° Au terme concluant de la période d'essai d'un emploi d'une durée au moins égale à six mois ; 
+II.-Sont pris en compte pour la détermination du niveau de ressources ouvrant droit au bénéfice de la garantie jeunes : 
 
-2° Six mois après que son bénéficiaire a créé ou repris une activité non salariée ; 
+1° Les revenus mentionnés aux articles R. 844-1 et R. 844-2 du code de la sécurité sociale tels qu'applicable à Mayotte ; 
 
-3° Lorsque son bénéficiaire atteint son vingt-sixième anniversaire ; 
+2° Les bourses d'études ainsi que l'allocation pour la diversité dans la fonction publique ; 
 
-4° En cas de manquements de son bénéficiaire à ses engagements contractuels.
+3° Les revenus tirés de stages réalisés en application de l'article L. 124-1 du code de l'éducation ; 
+
+4° L'allocation pour adulte handicapé mentionnée au chapitre II du titre VI de l'ordonnance n° 2002-411 du 27 mars 2002 ; 
+
+5° Le revenu de solidarité active mentionné à l'article L. 262-1 du code de l'action sociale et des familles ; 
+
+6° La prime d'activité mentionnée à l'article L. 841-1 du code de la sécurité sociale, tel qu'applicable à Mayotte.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2016-135 du 9 février 2016 - art. 1
+	  - Ordonnance n°2002-411 du 27 mars 2002 (V)
+	  - Code de l'éducation - art. L124-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L324-4 (V)
+	  - Code de la sécurité sociale. - art. L841-1 (V)
+	  - Code de la sécurité sociale. - art. R844-1 (V)
+	  - Code de l'action sociale et des familles - art. L262-1 (V)
+	  - Code de l'action sociale et des familles - art. L262-2 (V)
+	  - Code de l'action sociale et des familles - art. R262-9 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2016-1951 du 28 décembre 2016 - art. 1
 
 
 ###### Article D324-17
 
-Dans le cas mentionné au 4° de l'article D. 324-16, après avoir invité l'intéressé à fournir ses explications, le
-représentant légal de la mission locale procède, sur proposition écrite du référent, à la rupture du contrat, dûment motivée,
-et la notifie par courrier recommandé avec avis de réception ou par lettre remise en main propre contre décharge au
-bénéficiaire de l'accompagnement ou à ses représentants légaux lorsque celui-ci est mineur ou incapable.
+La garantie jeunes ouvre droit à une allocation forfaitaire, d'un montant mensuel équivalent à celui du revenu de solidarité
+active mentionné à l'article L. 262-2 du code de l'action sociale et des familles pour une personne seule, tel qu'applicable
+à Mayotte, déduction faite de la fraction mentionnée au 1° de l'article R. 262-9 du même code.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2016-1951 du 28 décembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L262-2 (V)
+	  - Code de l'action sociale et des familles - art. R262-9 (V)
+
+
+###### Article R324-13
+
+La garantie jeunes est une modalité spécifique du parcours contractualisé vers l'emploi et l'autonomie. Elle constitue une
+phase d'accompagnement du parcours contractualisé d'une durée de douze mois. Cette durée peut être prolongée jusqu'à six mois
+sur décision de la commission mentionnée à l'article R. 324-14. 
+
+Les articles R. 324-5, R. 324-6, R. 324-7, R. 324-8 et R. 324-12 sont applicables à la garantie jeunes.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2016-135 du 9 février 2016 - art. 1
+	  - Décret n°2016-1951 du 28 décembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R324-12 (V)
+	  - Code du travail applicable à Mayotte. - art. R324-14 (V)
+	  - Code du travail applicable à Mayotte. - art. R324-5 (V)
 
 
-###### Article D324-18
+###### Article R324-14
 
-Nonobstant les dispositions relatives à la fin du contrat d'insertion dans la vie sociale, le jeune signataire d'un tel
-contrat peut, à sa demande, être accompagné dans l'emploi pendant une durée d'un an.
+Les missions locales s'assurent que les jeunes demandant à bénéficier de la garantie jeunes respectent les conditions
+d'entrée fixées à l'article L. 324-4. 
+
+Une commission locale, présidée par le représentant de l'Etat à Mayotte, réunissant les acteurs impliqués dans l'insertion
+sociale et professionnelle des jeunes et les signataires de la convention pluriannuelle d'objectifs, est chargée du suivi des
+parcours en garantie jeunes et prend, dans ce cadre, les décisions de prolongation. Elle prend également les décisions en cas
+de manquement du bénéficiaire à ses engagements contractuels mentionnées à l'article R. 324-15. Elle peut prendre des
+décisions d'admission à titre conservatoire pour les jeunes apportant des éléments de nature à démontrer qu'ils satisfont aux
+conditions d'éligibilité mentionnées à l'article L. 324-4 mais ne disposant pas de l'ensemble des pièces justificatives
+permettant d'en attester, ainsi que des décisions d'admission à titre dérogatoire pour les jeunes dont les ressources
+dépassent le niveau mentionné au même article, lorsque leur situation le justifie et sans pouvoir dépasser ce niveau de
+ressources de plus de 30 %.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2016-135 du 9 février 2016 - art. 1
+	  - Décret n°2016-1951 du 28 décembre 2016 - art. 1
 
-	**Abrogé par**:
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L324-4 (V)
+	  - Code du travail applicable à Mayotte. - art. R324-15 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R324-13 (V)
+
+
+###### Article R324-15
+
+En cas de manquement du bénéficiaire à ses engagements contractuels, la commission mentionnée à l'article R. 324-14, après
+avoir mis à même l'intéressé de présenter ses observations, peut procéder à : 
+
+1° La suspension du paiement de l'allocation ; 
+
+2° La suppression du bénéfice de la garantie jeunes. 
+
+Elle notifie sa décision, dûment motivée, par tout moyen conférant date certaine au bénéficiaire de la garantie jeunes ou à
+ses représentants légaux lorsque celui-ci est mineur ou fait l'objet d'une mesure de protection juridique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1951 du 28 décembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. R324-14 (V)
+
+
+###### Article R324-18
+
+L'allocation  est intégralement cumulable avec les ressources d'activité du jeune  tant que celles-ci ne dépassent pas un
+montant mensuel net de 300 euros.  Au-delà, l'allocation est dégressive linéairement et s'annule lorsque  le total des
+ressources d'activité du jeune équivaut à 80 % du montant  mensuel brut du salaire minimum interprofessionnel garanti.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
 
 	  - Décret n°2016-1951 du 28 décembre 2016 - art. 1
 
 
-##### Paragraphe 5 : Montant et modalités de versement de l'allocation
+###### Article R324-19
 
-###### Article D324-19
+Sont considérés comme des ressources d'activité, pour l'application de l'article L. 324-4 : 
 
-Le bénéfice de l'allocation prévue à l'article L. 324-4 est ouvert, par le représentant de l'Etat, à compter de la signature
-du contrat d'insertion dans la vie sociale ou à compter du jour du dix-huitième anniversaire du bénéficiaire, et pour toute
-la durée du contrat, dans la limite de 1 800 € par an.
+1° Les revenus mentionnés à l'article R. 844-1 du code de la sécurité sociale, tel qu'applicable à Mayotte ; 
 
-**Liens relatifs à cet article**
+2° Les allocations versées aux travailleurs involontairement privés d'emploi en application du chapitre VI du titre II du
+livre III du code du travail applicable à Mayotte ; 
 
-	**Créé par**:
+3° Les bourses d'études ainsi que l'allocation pour la diversité dans la fonction publique ; 
 
-	  - Décret n°2016-135 du 9 février 2016 - art. 1
+4° Les revenus tirés de stages réalisés en application de l'article L. 124-1 du code de l'éducation. 
 
-	**Abrogé par**:
-
-	  - Décret n°2016-1951 du 28 décembre 2016 - art. 1
-
-
-###### Article D324-20
-
-Le montant mensuel de l'allocation, qui ne peut excéder 450 €, est proposé par le représentant de la mission locale pour
-l'insertion sociale et professionnelle des jeunes ou toute personne dûment habilitée par lui. 
-
-Pour déterminer ce montant, il est tenu compte de la situation personnelle de l'intéressé, de son projet d'insertion
-professionnelle et du nombre de jours pendant lesquels il n'a perçu aucune des rémunérations ou allocations prévues au
-premier alinéa de l'article L. 324-4. 
-
-Le montant de l'allocation par jour varie de 0 à 15 €, par tranche de 5 €. 
-
-L'allocation est versée mensuellement et à terme échu, au nom de l'Etat, par l'Agence de services et de paiement.
+L'allocation est entièrement cumulable avec les autres ressources perçues par le bénéficiaire, sous réserve des articles R.
+324-20 à R. 324-22.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2016-135 du 9 février 2016 - art. 1
-
-	**Abrogé par**:
-
 	  - Décret n°2016-1951 du 28 décembre 2016 - art. 1
 
+	**Cite**:
 
-###### Article D324-21
+	  - Code de l'éducation - art. L124-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L324-4 (V)
+	  - Code du travail applicable à Mayotte. - art. R324-20 (V)
+	  - Code de la sécurité sociale. - art. R844-1 (V)
 
-L'Agence de services et de paiement transmet au ministre chargé de l'emploi les éléments d'information nécessaires au suivi
-statistique des bénéficiaires de l'allocation, à la connaissance des crédits engagés, ainsi qu'à l'évaluation de la mesure. 
 
-Le bénéficiaire de l'allocation déclare chaque mois au représentant légal de la mission locale ou à une personne dûment
-habilitée par lui les éléments nécessaires à la détermination du montant mensuel de l'allocation, notamment les périodes
-pendant lesquelles il a perçu des rémunérations ou allocations, ainsi que leur montant. Il certifie la sincérité des
-informations communiquées, sous peine de s'exposer au reversement des sommes indûment perçues.
+###### Article R324-20
+
+L'allocation  n'est pas cumulable avec l'indemnité de service civique. Le versement  de l'allocation est suspendu pendant la
+période durant laquelle le jeune  perçoit cette indemnité.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2016-135 du 9 février 2016 - art. 1
-
-	**Abrogé par**:
-
 	  - Décret n°2016-1951 du 28 décembre 2016 - art. 1
 
+	**Cité par**:
 
-###### Article D324-22
+	  - Code du travail applicable à Mayotte. - art. R324-19 (V)
 
-La suspension ou la suppression du paiement de l'allocation, en cas de non-respect par le bénéficiaire de ses engagements
-contractuels, n'intervient qu'après que l'intéressé a été à même de présenter ses observations.
+
+###### Article R324-21
+
+L'allocation n'est pas cumulable avec la prime d'activité mentionnée à l'article L. 841-1 du code de la sécurité sociale,
+sauf pour les personnes à charge mentionnées à l'article R. 842-3 du même code. Le versement de l'allocation prend fin, le
+cas échéant, à compter de l'ouverture du droit à la prime d'activité. Toutefois, lorsqu'un droit à la prime d'activité est
+ouvert au titre d'une activité antérieure à l'entrée dans la garantie jeunes, la prime correspondant à cette période
+d'activité demeure cumulable avec l'allocation.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2016-135 du 9 février 2016 - art. 1
+	  - Décret n°2016-1951 du 28 décembre 2016 - art. 1
 
-	**Abrogé par**:
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L841-1 (V)
+	  - Code de la sécurité sociale. - art. R842-3 (V)
+
+
+###### Article R324-22
+
+L'allocation n'est pas cumulable avec le revenu de solidarité active mentionné à l'article L. 262-1 du code de l'action
+sociale et des familles, sauf pour les personnes à charge mentionnées à l'article R. 262-3 du même code. Les bénéficiaires du
+revenu de solidarité active et leur conjoint, concubin ou partenaire lié par un pacte civil de solidarité qui sont
+accompagnés en garantie jeunes dans le cadre fixé à l'article R. 324-3 ne bénéficient pas de l'allocation prévue à l'article
+L. 324-4.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
 
 	  - Décret n°2016-1951 du 28 décembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L324-4 (V)
+	  - Code du travail applicable à Mayotte. - art. R324-3 (V)
+	  - Code de l'action sociale et des familles - art. L262-1 (V)
+	  - Code de l'action sociale et des familles - art. R262-3 (V)
 
 
 ##### Section 2 : Contrats de formation en alternance
@@ -71699,18 +71839,19 @@ suivantes :
 
 ###### Article R327-15
 
-La pension alimentaire ou la prestation compensatoire fixée par une décision de justice devenue exécutoire est déduite des
-ressources de celui qui la verse.
+La pension alimentaire ou la prestation compensatoire fixée par une convention de divorce par consentement mutuel prévue à
+l'article 229-1 du code civil, un acte reçu en la forme authentique par un notaire, une convention de divorce homologuée par
+le juge ou par une décision de justice devenue exécutoire est déduite des ressources de celui qui la verse.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-1566 du 31 décembre 2012 - art. 7
+	  - Décret n°2016-1907 du 28 décembre 2016 - art. 14
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. R327-24 (T)
+	  - Code civil - art. 229-1 (V)
 
 
 ###### Article R327-16
