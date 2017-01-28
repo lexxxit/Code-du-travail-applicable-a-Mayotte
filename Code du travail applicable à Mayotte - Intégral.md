@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2017-01-01
+Version Consolidée au 2017-01-29
 
 # Partie législative
 
@@ -185,11 +185,11 @@ indirecte, telle que définie à l'article 1er de la loi n° 2008-496 du 27 mai 
 au droit communautaire dans le domaine de la lutte contre les discriminations, notamment en matière de rémunération, au sens
 de l'article L. 140-3, de formation, de reclassement, d'affectation, de qualification, de classification, de promotion
 professionnelle, de mutation ou de renouvellement de contrat en raison de son origine, de son sexe, de ses mœurs, de son
-orientation ou identité sexuelle, de son âge, de sa situation de famille ou de sa grossesse, de ses caractéristiques
-génétiques, de la particulière vulnérabilité résultant de sa situation économique, apparente ou connue de son auteur, de son
-appartenance ou de sa non-appartenance, vraie ou supposée, à une ethnie, une nation ou une race, de ses opinions politiques,
-de ses activités syndicales ou mutualistes, de ses convictions religieuses, de son apparence physique, de son nom de famille
-ou en raison de son état de santé ou de son handicap ou encore de son statut civil.
+orientation  sexuelle ou identité de genre, de son âge, de sa situation de famille ou de sa grossesse, de ses
+caractéristiques génétiques, de la particulière vulnérabilité résultant de sa situation économique, apparente ou connue de
+son auteur, de son appartenance ou de sa non-appartenance, vraie ou supposée, à une ethnie, une nation ou une race, de ses
+opinions politiques, de ses activités syndicales ou mutualistes, de ses convictions religieuses, de son apparence physique,
+de son nom de famille ou en raison de son état de santé ou de son handicap ou encore de son statut civil.
 
 Aucune personne ne peut être écartée d'une procédure de recrutement ou de l'accès à un stage ou à une période de formation
 professionnelle, aucun salarié ne peut être sanctionné, licencié ou faire l'objet d'une mesure discriminatoire, directe ou
@@ -218,7 +218,7 @@ du 9 décembre 2016 du précitée, le salarié peut saisir le tribunal du travai
 
 	**Modifié par**:
 
-	  - Loi n°2016-1691 du 9 décembre 2016 - art. 167 (V)
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 207
 
 	**Cité par**:
 
@@ -68595,9 +68595,7 @@ Ce montant est revalorisé annuellement au 1er juillet, proportionnellement à l
 
 #### CHAPITRE IV : Dispositions particulières relatives à l'emploi des jeunes
 
-##### Section 1 : Accompagnement des jeunes vers l'emploi 
-
-
+##### Section 1 : Droit à l'accompagnement et l'autonomie
 
 ##### Sous-section 1 : Droit à l'accompagnement 
 
@@ -68715,11 +68713,6 @@ les missions locales.
 	  - Code du travail applicable à Mayotte. - art. L324-2 (V)
 	  - Code du travail applicable à Mayotte. - art. L324-4 (V)
 	  - Code du travail applicable à Mayotte. - art. L711-4-2 (V)
-
-
-##### Section 1 : Droit à l'accompagnement et l'autonomie
-
-##### Sous-section 1 : Droit à l'accompagnement 
 
 
 ##### Sous-section 2 :  Parcours contractualisé d'accompagnement vers l'emploi et l'autonomie
