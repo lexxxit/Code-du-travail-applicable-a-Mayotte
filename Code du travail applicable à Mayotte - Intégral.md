@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2017-07-01
+Version Consolidée au 2017-09-01
 
 # Partie législative
 
@@ -20609,8 +20609,8 @@ sections 5, 6 et 7 du présent chapitre et assurer à ce titre le contrôle de l
 
 4° Assurer, pour le compte de l'organisme gestionnaire du régime d'assurance chômage, le service de l'allocation d'assurance
 et, pour le compte de l'Etat ou du Fonds de solidarité prévu à l'article L. 327-26, le service de l'allocation de solidarité
-spécifique prévue à la section 3 du chapitre VII du présent titre, de la prime forfaitaire mentionnée à l'article L. 327-41
-ainsi que de toute autre allocation ou aide dont l'Etat lui confierait le versement par convention ; 
+spécifique prévue à la section 3 du chapitre VII du présent titre ainsi que de toute autre allocation ou aide dont l'Etat lui
+confierait le versement par convention ; 
 
 5° Recueillir, traiter, diffuser et mettre à la disposition des services de l'Etat et de l'organisme gestionnaire du régime
 d'assurance chômage les données relatives au marché du travail et à l'indemnisation des demandeurs d'emploi ; 
@@ -20627,7 +20627,7 @@ les associations nationales et les réseaux spécialisés d'accueil et d'accompa
 
 	  - Décret n°2001-635 du 17 juillet 2001 - art. 34-1 (Ab)
 	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 12 (V)
-	  - Code de l'action sociale et des familles - art. L542-6 (VD)
+	  - Code de l'action sociale et des familles - art. L542-6 (V)
 	  - Code de l'action sociale et des familles - art. L549-1 (T)
 	  - Code du travail applicable à Mayotte. - art. L326-9 (V)
 	  - Code du travail applicable à Mayotte. - art. L327-2 (V)
@@ -20637,7 +20637,7 @@ les associations nationales et les réseaux spécialisés d'accueil et d'accompa
 
 	**Modifié par**:
 
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 4
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 87 (V)
 
 	**Anciens textes**:
 
@@ -20647,7 +20647,6 @@ les associations nationales et les réseaux spécialisés d'accueil et d'accompa
 
 	  - Code du travail applicable à Mayotte. - art. L326-6
 	  - Code du travail applicable à Mayotte. - art. L327-26 (VT)
-	  - Code du travail applicable à Mayotte. - art. L327-41 (VT)
 
 
 ###### Article L326-8
@@ -22331,6 +22330,25 @@ l'allocation avec celui appliqué en métropole et dans les autres départements
 	  - Code de la sécurité sociale. - art. L161-25 (V)
 
 
+###### Article L327-25-1
+
+L'allocation de solidarité spécifique ne peut être cumulée avec  l'allocation aux adultes handicapés mentionnée à l'article
+35 de  l'ordonnance n° 2002-411 du 27 mars 2002 relative à la protection  sanitaire et sociale à Mayotte dès lors qu'un
+versement a été effectué  au titre de cette dernière allocation et tant que les conditions  d'éligibilité à celle-ci
+demeurent remplies. 
+
+Pour  la récupération des sommes trop perçues à ce titre, l'institution  mentionnée à l'article L. 5312-1 du code du travail
+est subrogée dans  les droits du bénéficiaire vis-à-vis de la caisse gestionnaire du régime  des prestations familiales de
+Mayotte mentionnée à l'article 19 de  l'ordonnance n° 2002-149 du 7 février 2002 relative à l'extension et la  généralisation
+des prestations familiales et à la protection sociale  dans la collectivité départementale de Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 87 (V)
+
+
 ##### Sous-section 2 : Financement 
 
 
@@ -22419,17 +22437,14 @@ au profit des régimes de retraite complémentaire obligatoires.
 
 ###### Article L327-26
 
-Le fonds de solidarité visé à l'article L. 5423-24 du code du travail gère les moyens de financement : 
-
-1° De l'allocation de solidarité spécifique prévue l'article L. 327-20 ; 
-
-2° De la prime forfaitaire prévue à l'article L. 327-41.
+Le fonds de solidarité mentionné à l'article L. 5423-24 du code du  travail gère les moyens de financement de l'allocation de
+solidarité  spécifique prévue à l'article L. 327-20 du présent code.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 5
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 87 (V)
 
 	**Cite**:
 
@@ -22688,21 +22703,15 @@ Ces dispositions s'appliquent notamment au cas des revenus tirés de travaux sai
 	  - Code du travail applicable à Mayotte. - art. L327-19
 
 
-##### Sous-section 2 : Prime forfaitaire pour reprise d'activité 
-
-
-
+##### Sous-section 2 : Accès des bénéficiaires de l'allocation de solidarité spécifique à la prime d'activité
 
 ###### Article L327-41
 
-Le bénéficiaire de l'allocation de solidarité spécifique qui reprend une activité professionnelle a droit à une prime
-forfaitaire.
+Lorsqu'il exerce, prend ou reprend une activité professionnelle, le  bénéficiaire de l'allocation de solidarité spécifique
+est réputé avoir  formulé une demande de prime d'activité mentionnée à l'article L. 841-1  du code de la sécurité sociale,
+sauf mention contraire de sa part.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 5
 
 	**Cité par**:
 
@@ -22716,7 +22725,7 @@ forfaitaire.
 	  - Code du travail applicable à Mayotte. - art. L326-7 (VT)
 	  - Code du travail applicable à Mayotte. - art. L327-26 (VD)
 	  - Code du travail applicable à Mayotte. - art. L327-49 (VD)
-	  - Code du travail applicable à Mayotte. - art. L327-61 (V)
+	  - Code du travail applicable à Mayotte. - art. L327-61 (VD)
 	  - Code du travail applicable à Mayotte. - art. R327-14 (V)
 	  - Code du travail applicable à Mayotte. - art. R327-23 (T)
 	  - Code du travail applicable à Mayotte. - art. R327-36 (VT)
@@ -22724,55 +22733,7 @@ forfaitaire.
 	  - Code du travail applicable à Mayotte. - art. R327-41 (VT)
 	  - Code du travail applicable à Mayotte. - art. R327-44 (T)
 
-
-###### Article L327-42
-
-La prime forfaitaire est versée chaque mois pendant une période dont la durée est déterminée par voie réglementaire, y
-compris s'il a été mis fin au droit à l'allocation de solidarité spécifique.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 5
-
-	**Abrogé par**:
-
-	  - Loi n°2016-1917 du 29 décembre 2016 - art. 87 (V)
-
-
-###### Article L327-43
-
-La prime forfaitaire est soumise aux règles applicables à l'allocation de solidarité spécifique relatives au contentieux, à
-la prescription, à la récupération des indus, à l'insaisissabilité et l'incessibilité.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 5
-
-	**Abrogé par**:
-
-	  - Loi n°2016-1917 du 29 décembre 2016 - art. 87 (V)
-
-
-###### Article L327-44
-
-Un décret en Conseil d'Etat détermine les conditions d'attribution de la prime forfaitaire, notamment la durée de travail
-minimale et le nombre de mois d'activité consécutifs auxquels son versement est subordonné, ainsi que son montant. 
-
-Il est procédé par décret à des revalorisations spécifiques de la prime forfaitaire à Mayotte en vue de réduire la différence
-de montant avec celui versé en métropole et dans les autres collectivités territoriales relevant de l'article 73 de la
-Constitution.
-
-**Liens relatifs à cet article**
-
 	**Modifié par**:
-
-	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 6
-
-	**Abrogé par**:
 
 	  - Loi n°2016-1917 du 29 décembre 2016 - art. 87 (V)
 
@@ -22891,17 +22852,16 @@ remboursement.
 
 Sans préjudice des actions en récupération des allocations indûment versées et des poursuites pénales, l'inexactitude ou le
 caractère incomplet, lorsqu'ils sont délibérés, des déclarations faites pour le bénéfice des allocations d'aide aux
-travailleurs privés d'emploi et de la prime forfaitaire mentionnée à l'article L. 327-41, ainsi que l'absence de déclaration
-d'un changement dans la situation justifiant ce bénéfice, ayant abouti à des versements indus, peuvent être sanctionnés par
-une pénalité prononcée par l'autorité administrative. 
+travailleurs privés d'emploi ainsi que l'absence de déclaration d'un changement dans la situation justifiant ce bénéfice,
+ayant abouti à des versements indus, peuvent être sanctionnés par une pénalité prononcée par l'autorité administrative. 
 
 Le montant de la pénalité ne peut excéder 3 000 €.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 5
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 87 (V)
 
 	**Cite**:
 
@@ -23225,24 +23185,23 @@ réglementaire.
 
 Sous réserve de la constitution éventuelle du délit d'escroquerie défini et sanctionné aux articles 313-1 et 313-3 du code
 pénal, le fait de bénéficier ou de tenter de bénéficier frauduleusement des allocations d'aide aux travailleurs privés
-d'emploi définies au présent livre, y compris la prime forfaitaire instituée par l'article L. 327-41, est puni d'une amende
-de 4 000 €. Le fait de faire obtenir frauduleusement ou de tenter de faire obtenir frauduleusement les allocations et la
-prime susmentionnées est puni de la même peine.
+d'emploi définies au présent livre est puni d'une amende de 4 000 € . Le fait de faire obtenir frauduleusement ou de tenter
+de faire obtenir frauduleusement les allocations susmentionnées est puni de la même peine.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 5
-
 	**Cité par**:
 
-	  - Ordonnance n°2016-160 du 18 février 2016 - art. 1 (M)
+	  - Ordonnance n°2016-160 du 18 février 2016 - art. 1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 87 (V)
 
 	**Cite**:
 
 	  - Code pénal - art. 313-1
-	  - Code du travail applicable à Mayotte. - art. L327-41
+	  - Code du travail applicable à Mayotte. - art. L327-41 (VD)
 
 
 ###### Article L327-62
@@ -72162,10 +72121,10 @@ la date de son dernier renouvellement.
 
 ###### Article R327-34
 
-La rémunération tirée de l'exercice d'une activité professionnelle peut être cumulée avec l'allocation de solidarité
-spécifique lorsque le bénéficiaire de cette dernière reprend une activité professionnelle salariée inférieure à soixante-dix-
-huit heures par mois pendant une durée maximale de douze mois à compter du début de cette activité, dans la limite des droits
-à l'allocation de solidarité spécifique restants. 
+Lorsque le bénéficiaire de l'allocation de solidarité spécifique reprend une activité professionnelle salariée ou non
+salariée, la rémunération tirée de l'exercice de cette activité est intégralement cumulée avec le versement de l'allocation
+de solidarité spécifique pendant une période de trois mois, consécutifs ou non, dans la limite des droits aux allocations
+restants.
 
 Tout mois civil au cours duquel une activité même occasionnelle ou réduite a été exercée est pris en compte pour le calcul de
 cette durée.
@@ -72174,11 +72133,7 @@ cette durée.
 
 	**Modifié par**:
 
-	  - Décret n°2012-1566 du 31 décembre 2012 - art. 7
-
-	**Anciens textes**:
-
-	  - Code du travail applicable à Mayotte. - art. R327-37 (T)
+	  - Décret n°2017-826 du 5 mai 2017 - art. 4
 
 	**Cité par**:
 
@@ -72186,86 +72141,19 @@ cette durée.
 	  - Code du travail applicable à Mayotte. - art. R327-38 (VD)
 	  - Code du travail applicable à Mayotte. - art. R327-39 (VD)
 
-
-###### Article R327-35
-
-Pendant les six premiers mois d'activité professionnelle, le nombre des allocations journalières est réduit jusqu'à sa
-suppression éventuelle dans la proportion de 40 % du quotient, lorsqu'il est positif, par le montant journalier de
-l'allocation, de la rémunération brute perçue, diminuée d'un montant égal à la moitié du produit du salaire minimum
-interprofessionnel garanti par le nombre d'heures correspondant à la durée légale du travail. 
-
-Du septième au douzième mois civil suivant d'activité professionnelle, le nombre des allocations journalières est réduit dans
-la proportion de 40 % du quotient, par le montant journalier de l'allocation, de la rémunération brute perçue.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2012-1566 du 31 décembre 2012 - art. 7
-
-	**Abrogé par**:
-
-	  - Décret n°2017-826 du 5 mai 2017 - art. 4
-
 	**Anciens textes**:
 
-	  - Code du travail applicable à Mayotte. - art. R327-38 (T)
+	  - Code du travail applicable à Mayotte. - art. R327-37 (VT)
 
 
-###### Article R327-36
+###### Article R327-38
 
-Lorsque le bénéficiaire de l'allocation de solidarité spécifique reprend une activité professionnelle salariée d'une durée de
-travail au moins égale à soixante-dix-huit heures par mois ou une activité professionnelle non salariée, le nombre des
-allocations journalières n'est pas réduit pendant les trois premiers mois d'activité professionnelle. 
-
-Du quatrième au douzième mois d'activité professionnelle, le montant de l'allocation est diminué des revenus d'activité
-perçus par le bénéficiaire. 
-
-Il perçoit mensuellement la prime forfaitaire pour reprise d'activité prévue à l'article L. 327-41, d'un montant de 37,50 €. 
-
-Pour la détermination de la durée de travail, il est tenu compte, le cas échéant, des différents contrats de travail conclus
-par l'intéressé au cours de la période considérée. 
-
-La liste des justificatifs exigés, le cas échéant pour chaque mois d'activité professionnelle, pour le bénéfice de la prime
-forfaitaire est fixée par arrêté conjoint des ministres chargés de la solidarité et de l'emploi.
+Lorsque le bénéficiaire de l'allocation de solidarité spécifique interrompt son activité professionnelle pendant une durée
+minimale de trois mois, il peut bénéficier à nouveau et dans leur intégralité des dispositions de la présente sous-section.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
-
-	  - Décret n°2012-1566 du 31 décembre 2012 - art. 7
-
-	**Abrogé par**:
-
-	  - Décret n°2017-826 du 5 mai 2017 - art. 4
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L327-41
-
-	**Anciens textes**:
-
-	  - Code du travail applicable à Mayotte. - art. R327-39 (T)
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. R327-42 (T)
-	  - Code du travail applicable à Mayotte. - art. R327-43 (T)
-
-
-###### Article R327-37
-
-Lorsque, au terme de la période de versement prévue aux articles R. 327-34 à R. 327-36, le nombre total des heures d'activité
-professionnelle n'atteint pas sept cent cinquante heures, le bénéfice de ces dispositions est maintenu à l'allocataire qui
-exerce une activité professionnelle jusqu'à ce qu'il atteigne ce plafond des sept cent cinquante heures.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2012-1566 du 31 décembre 2012 - art. 7
-
-	**Abrogé par**:
 
 	  - Décret n°2017-826 du 5 mai 2017 - art. 4
 
@@ -72273,63 +72161,32 @@ exerce une activité professionnelle jusqu'à ce qu'il atteigne ce plafond des s
 
 	  - Code du travail applicable à Mayotte. - art. R327-34
 
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. R327-34 (VD)
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. R327-40 (T)
-	  - Code du travail applicable à Mayotte. - art. R327-41 (T)
-	  - Code du travail applicable à Mayotte. - art. R327-42 (T)
-
 	**Anciens textes**:
 
-	  - Code du travail applicable à Mayotte. - art. R327-40 (T)
-
-
-###### Article R327-38
-
-Lorsque le bénéficiaire de l'allocation ou de la prime mentionnées aux articles R. 327-34 à R. 327-36 interrompt son activité
-professionnelle pendant une durée minimale de six mois, il peut bénéficier à nouveau et dans leur intégralité des
-dispositions de la présente sous-section.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2012-1566 du 31 décembre 2012 - art. 7
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. R327-34 (V)
-
-	**Anciens textes**:
-
-	  - Code du travail applicable à Mayotte. - art. R327-41 (T)
+	  - Code du travail applicable à Mayotte. - art. R327-41 (VT)
 
 
 ###### Article R327-39
 
-Lorsque le bénéficiaire de l'allocation ou de la prime mentionnées aux articles R. 327-34 à R. 327-36 cesse son activité
-pendant ou au terme de la période de versement de l'allocation ou de la prime, il n'est pas fait application du délai de
-quatre ans institué à l'article R. 327-33 s'il sollicite la reprise du versement de l'allocation dont il bénéficiait avant la
-fin du mois suivant la cessation d'activité.
+Lorsque le bénéficiaire de l'allocation de l'allocation de solidarité spécifique cesse son activité pendant ou au terme de la
+période de versement de l'allocation ou de la prime, il n'est pas fait application du délai de quatre ans institué à
+l'article R. 327-33 s'il sollicite la reprise du versement de l'allocation dont il bénéficiait avant la fin du mois suivant
+la cessation d'activité.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-1566 du 31 décembre 2012 - art. 7
+	  - Décret n°2017-826 du 5 mai 2017 - art. 4
 
 	**Cite**:
 
-	  - Code du travail applicable à Mayotte. - art. R327-33 (V)
-	  - Code du travail applicable à Mayotte. - art. R327-34 (V)
+	  - Code du travail applicable à Mayotte. - art. R327-33
+	  - Code du travail applicable à Mayotte. - art. R327-34
 
 	**Anciens textes**:
 
-	  - Code du travail applicable à Mayotte. - art. R327-42 (T)
+	  - Code du travail applicable à Mayotte. - art. R327-42 (VT)
 
 
 ###### Article R327-40
@@ -72350,81 +72207,6 @@ pour l'application des conditions de ressources prévues pour le bénéfice de l
 	**Anciens textes**:
 
 	  - Code du travail applicable à Mayotte. - art. R327-43 (T)
-
-
-##### Sous-section 2 : Prime forfaitaire pour reprise d'activité
-
-###### Article R327-41
-
-La prime forfaitaire pour reprise d'activité prévue à l'article L. 327-41 est versée par            Pôle emploi.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2015-1220 du 1er octobre 2015 - art. 2
-
-	**Abrogé par**:
-
-	  - Décret n°2017-826 du 5 mai 2017 - art. 4
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L326-6
-	  - Code du travail applicable à Mayotte. - art. L327-41
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. R327-38 (VD)
-
-
-###### Article R327-42
-
-Le délai dans lequel la demande de paiement de la prime forfaitaire pour reprise d'activité doit être présentée est fixé à
-deux ans à compter du jour où les personnes intéressées remplissent l'ensemble des conditions exigées pour pouvoir prétendre
-au bénéfice de la prime forfaitaire pour reprise d'activité.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2012-1566 du 31 décembre 2012 - art. 7
-
-	**Abrogé par**:
-
-	  - Décret n°2017-826 du 5 mai 2017 - art. 4
-
-	**Nouveaux textes**:
-
-	  - Code du travail applicable à Mayotte. - art. R327-39 (VD)
-
-	**Anciens textes**:
-
-	  - Code du travail applicable à Mayotte. - art. R327-45 (T)
-
-
-###### Article R327-43
-
-Lorsque la condition de ressources est applicable aux bénéficiaires, l'allocation mentionnée à l'article L. 327-20 n'est pas
-versée si le montant mensuel dû est inférieur au taux journalier de cette allocation.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2012-1566 du 31 décembre 2012 - art. 7
-
-	**Abrogé par**:
-
-	  - Décret n°2017-826 du 5 mai 2017 - art. 4
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L327-20
-
-	**Anciens textes**:
-
-	  - Code du travail applicable à Mayotte. - art. R327-46 (T)
 
 
 ##### Sous-section 3 : Exercice d'une activité d'intérêt général
