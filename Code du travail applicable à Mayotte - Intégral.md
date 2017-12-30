@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2017-09-01
+Version Consolidée au 2017-12-31
 
 # Partie législative
 
@@ -24697,19 +24697,20 @@ représentant de l'Etat de l'existence du titre autorisant l'étranger à exerce
 L'étranger employé en violation des dispositions de l'alinéa premier de l'article L. 330-5 est assimilé, à compter de la date
 de son embauchage, à un travailleur régulièrement engagé en ce qui concerne les obligations de l'employeur relatives à la
 réglementation du travail définie au livre II du présent code, ainsi qu'à la prise en compte de l'ancienneté dans
-l'entreprise.
+l'entreprise. 
 
-En ce qui concerne les avantages pécuniaires, cet étranger a droit au titre de la période d'emploi illicite :
+En ce qui concerne les avantages pécuniaires, cet étranger a droit au titre de la période d'emploi illicite : 
 
 1° Au paiement du salaire et des accessoires de celui-ci conformément aux dispositions législatives ou réglementaires et aux
 stipulations contractuelles applicables à son emploi, déduction faite des sommes antérieurement perçues au titre de la
-période considérée ;
+période considérée ; 
 
 2° En cas de rupture de la relation de travail, à une indemnité forfaitaire égale à un mois de salaire à moins que
 l'application des règles figurant aux articles L. 122-10, deuxième alinéa, L. 122-21 et L. 122-22 ou des stipulations
-contractuelles correspondantes ne conduise à une solution plus favorable.
+contractuelles correspondantes ne conduise à une solution plus favorable. 
 
-Le tribunal du travail saisi peut ordonner par provision le versement de l'indemnité forfaitaire visée à l'alinéa précédent.
+Le conseil de prud'hommes saisi peut ordonner par provision le versement de l'indemnité forfaitaire visée à l'alinéa
+précédent. 
 
 Ces dernières dispositions ne font pas obstacle au droit du salarié de demander en justice une indemnisation supplémentaire
 s'il est en mesure d'établir l'existence d'un préjudice non réparé au titre desdites dispositions.
@@ -24717,6 +24718,12 @@ s'il est en mesure d'établir l'existence d'un préjudice non réparé au titre 
 3° Le salarié étranger mentionné au premier alinéa du présent article bénéficie des dispositions de la section 2 du chapitre
 III du titre IV du livre Ier relatives aux assurances et privilèges de salaires pour les sommes qui lui sont dues en
 application du présent article.
+
+**Nota:**
+
+Aux termes du VIII de l'article 259 de la loi n° 2015-990 du 6 août 2015, le II de l'article 16 de l'ordonnance n° 2011-337
+du 29 mars 2011 prévoyant la date d'entrée en vigueur du dernier alinéa de l'article 12 de ladite ordonnance est modifié.
+Cette date fixée par décret interviendra au plus tard le 31 décembre 2017.
 
 **Liens relatifs à cet article**
 
@@ -24727,6 +24734,7 @@ application du présent article.
 
 	**Modifié par**:
 
+	  - Ordonnance n°2011-337 du 29 mars 2011 - art. 12 (V)
 	  - Ordonnance n°2016-1580 du 24 novembre 2016 - art. 2
 
 	**Cité par**:
@@ -27776,17 +27784,27 @@ la nature de la tâche à accomplir ni proportionnée au but recherché, il en s
 aux droits des personnes, à leur santé physique et mentale ou aux libertés individuelles peut notamment résulter de faits de
 harcèlement sexuel ou moral ou de toute mesure discriminatoire en matière d'embauche, de rémunération, de formation, de
 reclassement, d'affectation, de classification, de qualification, de promotion professionnelle, de mutation, de
-renouvellement de contrat, de sanction ou de licenciement. 
+renouvellement de contrat, de sanction ou de licenciement.
 
 L'employeur ou son représentant est tenu de procéder sans délai à une enquête avec le délégué et de prendre les dispositions
 nécessaires pour remédier à cette situation. 
 
 En cas de carence de l'employeur ou de divergence sur la réalité de cette atteinte et à défaut de solution trouvée avec
-l'employeur, le salarié, ou le délégué si le salarié concerné averti par écrit ne s'y oppose pas, saisit le tribunal du
-travail qui statue selon les formes applicables au référé. 
+l'employeur, le salarié, ou le délégué si le salarié concerné averti par écrit ne s'y oppose pas, saisit le conseil de
+prud'hommes qui statue selon les formes applicables au référé. 
 
 Le juge peut ordonner toutes mesures propres à faire cesser cette atteinte et assortir sa décision d'une astreinte qui sera
 liquidée au profit du Trésor.
+
+**Nota:**
+
+Conformément à l'article 16 de l'ordonnance n° 2011-337 du 29 mars 2011, les dispositions du dernier alinéa de l'article 12
+remplaçant la référence au "tribunal du travail" par celle au "conseil des prud'hommes" entrent en vigueur à une date fixée
+par décret et au plus tard le 31 décembre 2015.
+
+Aux termes du VIII de l'article 259 de la loi n° 2015-990 du 6 août 2015, le II de l'article 16 de l'ordonnance n° 2011-337
+du 29 mars 2011 prévoyant la date d'entrée en vigueur du dernier alinéa de l'article 12 de ladite ordonnance est modifié.
+Cette date fixée par décret interviendra au plus tard le 31 décembre 2017.
 
 **Liens relatifs à cet article**
 
@@ -27797,7 +27815,7 @@ liquidée au profit du Trésor.
 
 	**Modifié par**:
 
-	  - Loi n°2012-954 du 6 août 2012 - art. 9
+	  - Ordonnance n°2011-337 du 29 mars 2011 - art. 12 (V)
 
 
 ###### Article L432-3
