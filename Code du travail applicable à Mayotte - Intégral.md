@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2017-12-31
+Version Consolidée au 2018-01-01
 
 # Partie législative
 
@@ -20732,14 +20732,14 @@ l'emploi.
 ###### Article L326-11
 
 Les litiges relatifs aux prestations dont le service est assuré par l'institution, pour le compte de l'organisme chargé de la
-gestion du régime d'assurance chômage, de l'Etat ou du Fonds de solidarité prévu à l'article L. 327-26 sont soumis au régime
-contentieux qui leur était applicable antérieurement à la création de cette institution.
+gestion du régime d'assurance chômage ou de l'Etat sont soumis au régime contentieux qui leur était applicable antérieurement
+à la création de cette institution.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 4
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 143 (V)
 
 
 ###### Article L326-12
@@ -22402,6 +22402,33 @@ frais professionnels, dans la limite du plafond mentionné à l'article L. 327-7
 	  - Code du travail applicable à Mayotte. - art. L327-7
 
 
+###### Article L327-32
+
+Le recouvrement de  la contribution  mentionnée à l'article L. 327-28 est effectué dans les conditions prévues par la section
+1 du chapitre VII du titre III du livre Ier du code de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 143 (V)
+
+	**Cite**:
+
+	  - Code du travail applicable à Mayotte. - art. L327-28 (V)
+
+
+###### Article L327-33
+
+Un décret en Conseil d'Etat détermine les conditions de recouvrement de la contribution exceptionnelle de solidarité.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 143 (V)
+
+
 ###### Article L327-34
 
 Le taux de la contribution exceptionnelle de solidarité est fixé à 1 % du montant de l'assiette prévue à l'article L.
@@ -22455,64 +22482,6 @@ solidarité  spécifique prévue à l'article L. 327-20 du présent code.
 	**Cité par**:
 
 	  - Code du travail applicable à Mayotte. - art. L326-7 (VD)
-
-
-###### Article L327-27
-
-Le fonds de solidarité reçoit la contribution exceptionnelle de solidarité prévue à l'article L. 327-28 ainsi que, le cas
-échéant, une subvention de l'Etat. 
-
-Le produit de cette contribution ne peut recevoir d'autre emploi.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 5
-
-	**Abrogé par**:
-
-	  - Loi n°2016-1918 du 29 décembre 2016 - art. 143 (V)
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L327-28
-
-
-##### Paragraphe 2 : Contribution exceptionnelle de solidarité 
-
-
-
-###### Article L327-32
-
-Le fonds de solidarité recouvre la contribution exceptionnelle de solidarité et, le cas échéant, la majoration auprès des
-employeurs mentionnés à l'article L. 327-28, pour les périodes d'emploi correspondant aux cinq années civiles précédant celle
-au cours de laquelle le fonds de solidarité a demandé à l'employeur de justifier ses versements ou de régulariser sa
-situation. 
-
-La mise en demeure adressée à l'employeur interrompt cette prescription.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 5
-
-	**Cite**:
-
-	  - Code du travail applicable à Mayotte. - art. L327-28
-
-
-###### Article L327-33
-
-Un décret en Conseil d'Etat détermine les conditions de recouvrement de la contribution exceptionnelle de solidarité et les
-dérogations à la périodicité de son versement compte tenu du nombre de salariés des collectivités et organismes intéressés.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-788 du 31 mai 2012 - art. 5
 
 
 ##### Sous-section 3 : Dispositions d'application 
@@ -22923,17 +22892,17 @@ assistée d'une personne de son choix, dans un délai qui ne peut être inférie
 ###### Article L327-52-1
 
 Pour le remboursement des allocations, aides ainsi que de toute autre prestation indûment versées par l'institution prévue à
-l'article L. 326-6, pour son propre compte, pour le compte de l'Etat, du fonds de solidarité prévu à l'article L. 327-26 ou
-des employeurs mentionnés à l'article L. 327-36, l'institution peut, si le débiteur n'en conteste pas le caractère indu,
-procéder par retenues sur les échéances à venir dues à quelque titre que ce soit. Le montant des retenues ne peut dépasser un
-plafond dont les modalités sont fixées par voie réglementaire, sauf en cas de remboursement intégral de la dette en un seul
-versement si le bénéficiaire opte pour cette solution.
+l'article L. 326-6, pour son propre compte, pour le compte de l'Etat ou des employeurs mentionnés à l'article L. 327-36,
+l'institution peut, si le débiteur n'en conteste pas le caractère indu, procéder par retenues sur les échéances à venir dues
+à quelque titre que ce soit. Le montant des retenues ne peut dépasser un plafond dont les modalités sont fixées par voie
+réglementaire, sauf en cas de remboursement intégral de la dette en un seul versement si le bénéficiaire opte pour cette
+solution.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 6
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 143 (V)
 
 	**Cite**:
 
@@ -22948,17 +22917,17 @@ versement si le bénéficiaire opte pour cette solution.
 ###### Article L327-52-2
 
 Pour le remboursement des allocations, aides ainsi que de toute autre prestation indûment versées par l'institution prévue à
-l'article L. 326-6, pour son propre compte, pour le compte de l'Etat, du fonds de solidarité prévu à l'article L. 327-26 ou
-des employeurs mentionnés à l'article L. 327-36, le directeur général de l'institution prévue à l'article L. 326-6 ou la
-personne qu'il désigne en son sein peut, dans les délais et selon les conditions fixées par voie réglementaire, et après mise
-en demeure, délivrer une contrainte qui, à défaut d'opposition du débiteur devant la juridiction compétente, comporte tous
-les effets d'un jugement et confère le bénéfice de l'hypothèque judiciaire.
+l'article L. 326-6, pour son propre compte, pour le compte de l'Etat ou des employeurs mentionnés à l'article L. 327-36, le
+directeur général de l'institution prévue à l'article L. 326-6 ou la personne qu'il désigne en son sein peut, dans les délais
+et selon les conditions fixées par voie réglementaire, et après mise en demeure, délivrer une contrainte qui, à défaut
+d'opposition du débiteur devant la juridiction compétente, comporte tous les effets d'un jugement et confère le bénéfice de
+l'hypothèque judiciaire.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 6
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 143 (V)
 
 	**Cite**:
 
@@ -22970,14 +22939,14 @@ les effets d'un jugement et confère le bénéfice de l'hypothèque judiciaire.
 ###### Article L327-52-3
 
 L'institution mentionnée à l'article L. 326-6 est autorisée à différer ou à abandonner la mise en recouvrement des
-allocations, aides ainsi que de toute autre prestation indûment versées pour son propre compte, pour le compte de l'Etat, du
-fonds de solidarité prévu à l'article L. 327-26 ou des employeurs mentionnés à l'article L. 327-36.
+allocations, aides ainsi que de toute autre prestation indûment versées pour son propre compte, pour le compte de l'Etat ou
+des employeurs mentionnés à l'article L. 327-36.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2014-577 du 4 juin 2014 - art. 6
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 143 (V)
 
 	**Cite**:
 
